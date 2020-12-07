@@ -1,0 +1,114 @@
+/*
+* vars
+*/
+
+$btn_primary_color              : $color_primary;
+$btn_primary_color_hover        : $color_primary;
+$btn_primary_border_color       : transparent;
+$btn_primary_border_color_hover : transparent;
+$btn_primary_bg_color           : transparent;
+$btn_primary_bg_color_hover     : transparent;
+
+$btn_default_color              : $text_color;
+$btn_default_color_hover        : #fff;
+$btn_default_border_color       : $color_secondary;
+$btn_default_border_color_hover : $color_primary;
+$btn_default_bg_color           : $color_secondary;
+$btn_default_bg_color_hover     : $color_primary;
+
+$btn_info_color                 : $text_color;
+$btn_info_color_hover           : $text_color;
+$btn_info_border_color          : $color_secondary;
+$btn_info_border_color_hover    : $color_secondary;
+$btn_info_bg_color              : transparent;
+$btn_info_bg_color_hover        : $color_secondary;
+
+$btn_link_color                 : $text_color;
+$btn_link_color_hover           : $text_color;
+$btn_link_border_color          : transparent;
+$btn_link_border_color_hover    : transparent;
+$btn_link_bg_color              : transparent;
+$btn_link_bg_color_hover        : transparent;
+
+/*
+* css
+*/
+
+.btn {
+  padding: 0;
+  font-family: 'NexaHeavy';
+  font-size: 20px;
+  @include transition($transition_duration_base);
+  span {
+    @include underline-bg($color_primary, 2px, 1.2em);
+  }
+}
+
+.btn-wide {
+  padding-left: 40px;
+  padding-right: 40px;
+  @media (min-width: 1200px) {
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+}
+
+.btn-primary {
+  color            : $btn_primary_color;
+  border-color     : $btn_primary_border_color;
+  background-color : $btn_primary_bg_color;
+  &:hover,
+  &:active,
+  &:focus {
+    color            : $btn_primary_color_hover !important;
+    border-color     : $btn_primary_border_color_hover !important;
+    background-color : $btn_primary_bg_color_hover !important;
+  }
+}
+
+.btn-default {
+  color            : $btn_default_color;
+  border-color     : $btn_default_border_color;
+  background-color : $btn_default_bg_color;
+  &:hover,
+  &:active,
+  &:focus {
+    color            : $btn_default_color_hover !important;
+    border-color     : $btn_default_border_color_hover !important;
+    background-color : $btn_default_bg_color_hover !important;
+  }
+}
+
+.btn-info {
+  color            : $btn_info_color;
+  border-color     : $btn_info_border_color;
+  background-color : $btn_info_bg_color;
+  &:hover,
+  &:active,
+  &:focus {
+    color            : $btn_info_color_hover !important;
+    border-color     : $btn_info_border_color_hover !important;
+    background-color : $btn_info_bg_color_hover !important;
+  }
+}
+
+.btn-link {
+  color            : $btn_link_color;
+  border-color     : $btn_link_border_color;
+  background-color : $btn_link_bg_color;
+  &:hover,
+  &:active,
+  &:focus {
+    color            : $btn_link_color_hover !important;
+    border-color     : $btn_link_border_color_hover !important;
+    background-color : $btn_link_bg_color_hover !important;
+  }
+}
+
+.btn-group > .btn-group:not(:first-child):not(:last-child) > .btn {
+  border-right-width: 0;
+}
+
+.btn-group > .btn-group:first-child > .btn {
+  border-right-width: 0;
+}

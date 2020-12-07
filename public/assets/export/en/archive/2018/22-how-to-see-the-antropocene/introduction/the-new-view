@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>The New View | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/the-new-view">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="The New View | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/assets/cache/images/issues/2018/22/wstep/schuppli-afl_15.03.2017.00_02_03_24.still001-1200x630-5ca.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="The New View | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/assets/cache/images/issues/2018/22/wstep/schuppli-afl_15.03.2017.00_02_03_24.still001-1200x630-5ca.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/the-new-view">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="The New View | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/assets/cache/images/issues/2018/22/wstep/schuppli-afl_15.03.2017.00_02_03_24.still001-1200x630-5ca.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #47495b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #47495b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #47495b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #47495b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #47495b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #47495b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+			/* background-color:#47495b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(71,73,91,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#47495b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#47495b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#47495b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#47495b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#47495b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1831 parent-id-1757">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1745" data-selected-issue-color="#47495b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/22-zobaczyc-antropocen/nowy-widok">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/22-zobaczyc-antropocen/nowy-widok">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/22-how-to-see-the-antropocene#toc">22</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/22-how-to-see-the-antropocene/the-new-view?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>The New “View”</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/22-how-to-see-the-antropocene/the-new-view?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Dear Readers,<br><br></p> <p>Please meet the new “View”. It was the work on the new incarnation of the journal that&nbsp;kept postponing the publication of this&nbsp;latest issue. The original shape of “View”—let us remind you that&nbsp;the first issue was published in 2013—was the result of our then knowledge, and beliefs, about&nbsp;how a&nbsp;fully digital scientific journal should look like&nbsp;and work. The decision to focus exclusively on the digital was based on a&nbsp;few premises, the most important of which was accessibility: at the time of publication of the issue, all people connected to the Internet have access to it, regardless of their place of residence. For&nbsp;the same reason, we have adopted an open access policy—we do not charge any fees to readers, let alone authors. From&nbsp;the very beginning, our goal was not only to participate in Polish debates on visual culture and to mediate global debates by publishing English-language contributions, as well as translations of important texts, but&nbsp;also to make Polish thought and research available internationally—for several years now we’ve been able to make good on that&nbsp;promise. For&nbsp;all these reasons, we also decided to base our journal on the first open source solution that&nbsp;was created for&nbsp;digital scholarly journals.</p> <p>Over time, however, the limitations of this&nbsp;solution, also affecting readers, became more and more apparent. Therefore, we decided to start working on a&nbsp;new backend for&nbsp;“View”. Tomasz Głowacki, the author of the graphic form of the magazine, returned to the digital drawing board and refreshed the original design, without&nbsp;taking into&nbsp;account IT limitations—this time we knew exactly what we needed. The new „View” certainly feels more at home in today’s digital landscape: it is lighter, more fluid in interaction and, we hope, it makes reading longer texts a&nbsp;pleasure. While preserving the original structure and the foundations of the reading experience, we have changed a&nbsp;few basic things:</p> <ol> <li><b>Responsiveness</b>. “View” offers a&nbsp;full and comfortable reading experience on mobile devices.</li> <li><b>Presentations</b>. The new “View” offers a&nbsp;completely new presentation engine, which is not only much smoother and allows for&nbsp;comfortable scrolling through&nbsp;the content, but&nbsp;is also responsive. We have devoted a&nbsp;lot of energy to making it possible for&nbsp;our readers to get acquainted contemporary art projects on their smartphones.</li> <li><b>Tools for&nbsp;scholars</b>. The new “View” optimally supports the tools required (in Poland, now by law) in digital scholarship today: ORCID profiles for&nbsp;authors and DOI (Digital object identifiers) for&nbsp;articles—to rehearse an obvious point: digital identifiers that&nbsp;allow you to find content regardless of where it is currently stored. By the end of the year all articles published in “View” will have such an identifier. The journal also automatically generates bibliographic addresses for&nbsp;all articles, depending on the language of the interface, either in the style common in Polish humanities or in accordance with&nbsp;the Chicago Manual of Style. Just paste them into&nbsp;your notes or footnotes!</li> <li><b>The devil is in the detail</b>. Throughout the process, we have refined countless small aspects that&nbsp;are not worth writing about&nbsp;separately, but&nbsp;which in total lead to an improvement in the reading experience of the new “View”.</li> </ol> <p>As you may have noticed, we have not limited ourselves to creating a&nbsp;new engine for&nbsp;“View”, but&nbsp;we have also migrated the entire archive of the magazine, moving over&nbsp;500 articles in the process. We are writing about&nbsp;it, because we are not entirely finished yet; the whole process will probably last until&nbsp;the end of this&nbsp;year. The same applies to the pdf versions of the articles: the new backend offers a&nbsp;convenient tool for&nbsp;generating them, but&nbsp;we will not be able to proof the pdf versions of all archival articles. However, it is the html version that&nbsp;we treat as original, relegating to the pdf version the role of a&nbsp;supplement. Hence we decided to compromise: we will attach the original pdf versions to issues 1-22, at the cost of these versions containing outdated links to the original version of “View”.</p> <p>Until the final completion of the work on moving archival presentations and pdf versions, we will make available the first “View” at the address: <u><a href="http://widok.hmfactory.com/">http://widok.hmfactory.com</a></u>.</p> <p>We are aware of the fact that&nbsp;the waiting time for&nbsp;the new issue of „View” was long. We hope, however, that&nbsp;it was worth the wait.<br><br></p> <p style="text-align: right;">Editorial Team</p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/the-new-view" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Autentyczny resentyment. Cięcia gatunkowe i ideologemy w... | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2015/autentyczny-resentyment.-ciecia-gatunkowe-i-ideologemy-w">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Autentyczny resentyment. Cięcia gatunkowe i ideologemy w... | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Autentyczny resentyment. Cięcia gatunkowe i ideologemy w... | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2015/autentyczny-resentyment.-ciecia-gatunkowe-i-ideologemy-w">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Autentyczny resentyment. Cięcia gatunkowe i ideologemy w... | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #daa520 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #daa520 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #daa520 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #daa520 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #daa520 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #daa520 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #daa520 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #daa520 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(218,165,32,0.8) !important; */
+			/* background-color:#daa520 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(218,165,32,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#daa520 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(218,165,32,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#daa520; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(218,165,32,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(218,165,32,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#daa520 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#daa520 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#daa520 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-955 parent-id-927">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="438" data-selected-issue-color="#daa520" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/11-capitalist-realism.-transformations-of-polish-visual-culture#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/11-capitalist-realism.-transformations-of-polish-visual-culture/authentic-ressentiment-generic-discontinutities-and-ideologemes-in">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2015/realizm-kapitalistyczny.-transformacje-kultury-wizualnej-lat-80.-i-90#toc">11</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2015/autentyczny-resentyment.-ciecia-gatunkowe-i-ideologemy-w?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Autentyczny resentyment. Cięcia gatunkowe i ideologemy w „eksperymentalnych” powieściach George’a Gissinga</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2015/autentyczny-resentyment.-ciecia-gatunkowe-i-ideologemy-w?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=956">Fredric Jameson</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Przełożył: 
+		
+		Sławek Królak
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Ideologia z&nbsp;konieczności wymaga, aby jednostkowy podmiot dokonał libidinalnego obsadzenia, ale narracje ideologiczne – nawet to, co określiliśmy mianem tekstu wyobrażeniowego, marzycielskiego czy życzeniowego – pod&nbsp;względem materiału i&nbsp;formy w&nbsp;równym stopniu mają z&nbsp;konieczności charakter zbiorowy. Postaramy się tu wykazać, że&nbsp;kultura czy też „duch obiektywny” epoki to środowisko wypełnione nie tylko słowami zastanymi i&nbsp;pojęciowymi osadami, lecz również jednostkami narracyjnymi typu społecznie symbolicznego, które określiliśmy mianem ideologemów.</p> <p>Ideologemy to tworzywo, odziedziczone paradygmaty narracyjne, dzięki którym powieść działa jako proces i&nbsp;które przekształca na&nbsp;teksty innego rodzaju. Należy przeto nauczyć się odróżniać teksty, na&nbsp;których ideologemy odcisnęły rozmaite ślady, od swobodnie dryfujących obiektów narracyjnych, nie danych nigdy w&nbsp;sposób bezpośredni w&nbsp;pierwotnie werbalnej formie, lecz wymagających zawsze wtórnej rekonstrukcji w&nbsp;charakterze hipotezy roboczej czy podtekstu. Błędem byłoby wysnuwanie wniosku, że&nbsp;ideologemy w&nbsp;określonej epoce są łatwiej dostępne w&nbsp;tak zwanej literaturze popularnej czy kulturze masowej (gdzie rzekomo w&nbsp;mniejszym stopniu uległy przekształceniu do postaci tekstu bardziej swoiście „literackiego”). Z&nbsp;drugiej strony, nie ulega wątpliwości, że&nbsp;część tego rodzaju literatury wtórnej jest potencjalnym zasobem rozmaitego tworzywa, o&nbsp;ile nazbyt pochopnie nie zostanie uznana za&nbsp;wynik oddziaływania różnych „wpływów”. Książkę w&nbsp;stylu <em>The Nether World</em> [Podziemny świat] Gissinga można bez trudu potraktować jako powieść dickensowską, zakładając że&nbsp;ciążenie dickensowskich wzorców u&nbsp;Gissinga nie tyle jest wynikiem oddziaływania charakterologicznej czy artystycznej charyzmy, ile świadectwem tego, że&nbsp;wzorce te dostarczały „obiektywnych” rozwiązań (bądź wyobrażeniowych rozstrzygnięć) dla równie obiektywnie ideologicznych problemów, jakie napotykał młodszy z&nbsp;autorów. W&nbsp;przypadku Gissinga, najbardziej „francuskiego” z&nbsp;brytyjskich naturalistów, jak zwykło się go określać, i&nbsp;niezrównanego pisarza, którego niepowtarzalne powieści zaczęto odkrywać dopiero w&nbsp;obecnym dziesięcioleciu, wczesne Dickensowskie rozwiązania nastręczają z&nbsp;kolei, jak się okazuje, problemów i&nbsp;sprzeczności wymagających nowych i&nbsp;oryginalnych rozwiązań, typowych dla dojrzałego aparatu narracyjnego Gissinga.</p> <p>Jeśli idzie o&nbsp;wzorce dickensowskie – w&nbsp;szczególności sentymentalizm czy narracyjny paradygmat Dickensowskiej bohaterki, trafnie określony przez Alexandra Welsha mianem „anioła serca”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> – najlepiej uchwycić je jako element większego systemu, którego odmienna wersja narracyjna - melodramat - znalazła wyrazistsze urzeczywistnienie w&nbsp;dziełach autora współczesnego Dickensowi, mianowicie Eugeniusza Sue. Oba te wzorce, sentymentalny i&nbsp;melodramatyczny, z&nbsp;ideologicznego punktu widzenia odmienne (lecz nie wykluczające się) strategie narracyjne, uznać można za&nbsp;marchewkę i&nbsp;kij dziewiętnastowiecznego moralizatorstwa dotyczącego klas niższych. Dlatego właśnie taką książkę jak <em>The Nether World</em>, na&nbsp;której oba wzorce odcisnęły ślad, najlepiej czytać nie tyle jako dokument informujący o&nbsp;warunkach życia w&nbsp;slumsach epoki wiktoriańskiej, ile raczej jako świadectwo narracyjnych wzorców kształtujących fantazje klasy średniej o&nbsp;owych slumsach oraz „rozwiązań”, które mogłyby usunąć, skanalizować czy też stłumić jawne napięcia klasowe wywoływane istnieniem przemysłowej klasy robotniczej i&nbsp;miejskiego lumpenproletariatu.</p> <p>Dotąd starałem się pokazać, że&nbsp;określony paradygmat narracyjny w&nbsp;swej ogólnej gatunkowej formie wysyła sygnały ideologiczne, nawet jeśli jego pierwotna treść straciła dawno na&nbsp;aktualności. Przekształcenie tańca wiejskiego w&nbsp;arystokratyczny menuet i&nbsp;ponowne przywłaszczenie tej obecnie już podwójnie przestarzałej formy przez jakobińskie, a&nbsp;następnie nacjonalistyczne rytmy burżuazyjnej muzyki salonowej (w trzeciej części klasycznej formy sonatowej) stanowi dramatyczny <em>locus classicus</em> tego procesu, w&nbsp;którym najbardziej archaiczna warstwa treściowa nieustannie ożywia i&nbsp;uprawomocnia ideologicznie jej późniejszą – nader odmienną – funkcję symboliczną.</p> <p>Podobną resztkową moc sprawczą rozpoznać można w&nbsp;ideologemach. Obecne w&nbsp;<em>The Nether World</em> konwencjonalne przeciwstawienie postaci wyniosłej i&nbsp;pięknej Klary ze skromną i&nbsp;dickensowską Jane usposabia czytelnika do odczytania tych dwóch wątków jako różnych, ledwo uchwytnych i&nbsp;przedświadomie zrozumiałych sygnałów i&nbsp;aluzji do wcześniejszych ideologemów. Do napiętnowania społecznych aspiracji Klary nie wystarcza rzecz jasna jej podejrzany status aktorki, trzeba do tego jeszcze poparzyć jej twarz witriolem, czego dokonuje zazdrosna rywalka. Morał wydaje się wyraźniejszy i&nbsp;prostszy, niż jest w&nbsp;istocie, a&nbsp;jego etyczna forma skrywa społeczną i&nbsp;bardziej właściwą politycznie fantazję. Gest zaczerpnięty z&nbsp;wiktoriańskiego repertuaru daje się odczytać i&nbsp;zdekodować w&nbsp;pełni jako ideologiczny „znak” jedynie przez powiązanie z&nbsp;mocniejszymi ekspresjami ideologemu, do którego tu jedynie luźno nawiązuje w&nbsp;swego rodzaju narracyjnym skrócie. Zestawienie tego tekstu z&nbsp;<em>Tajemnicami Paryża</em> Sue nie ma zatem służyć wykazaniu bezpośredniego literackiego wpływu, lecz raczej próbie wydobycia jakiejś głębszej zbiorowej, rozbudzonej tutaj fantazji; fantazji, której Sue, co należy mu poczytywać za&nbsp;wątpliwą zasługę, dostarczył najbardziej jaskrawego wyrazu. Oblewającą żrącym kwasem dłoń należy zatem potraktować jako schematyczną reprezentację narracyjnego gestu i&nbsp;ideologiczną fantazję ucieleśnioną wyraźniej i&nbsp;ujawnioną w&nbsp;pałającej żądzą zemsty i&nbsp;siejącej postrach postaci paryskiego Haruna al-Raszida, czyli księcia Rudolfa z&nbsp;powieści Sue; jego życiowym posłannictwem jest ściganie zbrodniarzy, złoczyńców i&nbsp;nikczemników wywodzących się głownie z&nbsp;niższych klas, na&nbsp;co zwrócił już uwagę Marks w&nbsp;najdłuższym ze swych tekstów poświęconych krytyce literackiej<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Zaiste, snop oślepiającego światła na&nbsp;impuls melodramatyczny literatury dziewiętnastowiecznej pada w&nbsp;archetypowej scenie, w&nbsp;której Nauczyciel (pseudonim najsłynniejszego złoczyńcy z&nbsp;<em>Tajemnic Paryża</em>) zostaje oślepiony własnoręcznie przez Księcia w&nbsp;skutecznym geście sprawiedliwości zapobiegawczej. Historyczne znaczenie owego lumpenzłoczyńcy podkreślić może jeszcze dodatkowo zestawienie go z&nbsp;Balzakowskim Filipem, który mimo wszelkich antyspołecznych ciągot nie ma tego rodzaju mocy sprawczej, czy z&nbsp;Conradowskim panem Brownem, którego „nikczemność” nie odsłania już mrocznego podbrzusza przemysłowego kapitalizmu, a&nbsp;raczej osobliwą ziemię niczyją, rozpościerającą się między centrami rozwiniętego świata kapitalistycznego a&nbsp;archaicznymi formacjami społecznymi, które pragnąłby on zagarnąć. Lęk krystalizujący się w&nbsp;osobie Nauczyciela jest typowo dziewiętnastowiecznym pierwotnym lękiem przed tłumem jako głównym aktorem rozlicznych kulminacyjnych momentów rewolucji francuskiej, obiektem fizycznego lęku u&nbsp;Manzoniego i&nbsp;tematem wielkich scen zamieszek u&nbsp;Scotta, Manzoniego i&nbsp;wczesnego Dickensa, najbardziej otwarcie i&nbsp;autentycznie wyrażających społeczny i&nbsp;historyczny strach, nieautentycznie wtórnie stłumiony, który znajdzie symboliczny wyraz jedynie w&nbsp;melodramacie i&nbsp;jego etycznym odpowiedniku. Ukaranie Nauczyciela służy zatem za&nbsp;posępne „remedium” na&nbsp;lęki, które wywołała instytucjonalizacja przedindustrialnego miejskiego tłumu w&nbsp;postaci trwałego lumpenproletariatu, i&nbsp;wyznacza granice, do jakich przerażona klasa posiadaczy gotowa jest się posunąć (i do których dotarła wraz z&nbsp;rzezią czerwcową roku 1848 oraz krwawo stłumioną Komuną Paryską). W&nbsp;cały ten ideologiczny i&nbsp;obrazowy kompleks wpisuje się wątek Klary, pobrzmiewający tutaj nieustannie ledwie słyszalnym tonem. Tymczasem paradygmat dickensowski jest niemniej symboliczny pod&nbsp;względem społecznym i&nbsp;politycznym, choć znaczenie, jakie miał dla samego Dickensa – idylliczna sfera rodziny i&nbsp;dziecięca panna młoda jako utopijne schronienie przed koszmarem klasowości – został tutaj zmodyfikowany do postaci dość odmiennego wszechobecnego późnowiktoriańskiego „semu”: wyrzeczenia. W&nbsp;istocie najznakomitsza i&nbsp;najbardziej nieznośnie dickensowska bohaterka wczesnych utworów Gissinga, nieszczęśliwa Thyrza z&nbsp;powieści pod&nbsp;tym samym tytułem, obrazuje, jak schronienie znalezione w&nbsp;„życiu rodzinnym” przeradza się w&nbsp;swego rodzaju getto: słodycz i&nbsp;prostota Thyrzy są swoiście i&nbsp;nierozerwalnie związane z&nbsp;jej nędzą, niewiedzą i&nbsp;położeniem klasowym. Z&nbsp;definicji zatem nie będzie ona mogła wyjść poza granice narzuconej jej sytuacji, nie tracąc przy tym swych atrybutów dickensowskiego symbolu. Toteż aby uchronić ją przed poślubieniem mężczyzny po&nbsp;trzykroć przewyższającego ją pod&nbsp;względem położenia, wykształcenia i&nbsp;majątku – trzeba ją będzie uśmiercić<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Inne dzieła Gissinga, wraz z&nbsp;jego biografią, sugerują, że&nbsp;tego rodzaju rozwiązanie akcji jest wielorako uwarunkowane, motywowane jest bowiem również tym, co było dla niego osobistym koszmarem – małżeństwo przekraczające granice klasowe: proletariuszka udręczona w&nbsp;związku z&nbsp;mężczyzną z&nbsp;klasy średniej, zapijająca się na&nbsp;śmierć wzorem jego pierwszej żony. Użycie dickensowskiego wzorca w&nbsp;<em>The Nether World</em> okazuje się o&nbsp;wiele mniej drastyczne, nie traci jednak żadnej z&nbsp;tych ideologicznych konotacji. Rzeczywiście w&nbsp;tej „powieści ludowej” status idyllicznej bohaterki Jane Snowdon zostaje wystawiony na&nbsp;ciężką próbę społecznej i&nbsp;klasowej niedoli, której doświadcza, realizując filantropijną karierę narzuconą jej przez bogatego dziadka. Wyrzeczenie okazuje się zatem dobrodziejstwem i&nbsp;ulgą, gdy przejęcie majątku przez ojca-nieudacznika zdejmuje z&nbsp;niej brzemię posłannictwa, którego z&nbsp;racji swego usposobienia nie była w&nbsp;stanie udźwignąć.</p> <p>Oba te ideologemy niosą zatem klasom niższym jednakowy przekaz: zostańcie tam, gdzie jesteście! Niebezpieczeństwo wiążące się ze wzorcem stosowanym przez Sue zostaje jedynie powielone przez obietnicę, jaką niesie wzorzec dickensowski, w&nbsp;którym premia uroku i&nbsp;czaru przypada w&nbsp;udziale tym, którzy potrafią się z&nbsp;wdziękiem wyrzekać. To jednak, jak już wspomniano, tworzywo dla procesu przekształcenia dokonanego w&nbsp;<em>The Nether World</em>, nie jej wytwór, a&nbsp;jedynie punkt wyjścia dla tego, co w&nbsp;tym przypadku okaże się chybionym, acz naznaczonym sprzecznościami i&nbsp;wiele odsłaniającym zadaniem. <em>The Nether World</em> trudno uznać za&nbsp;powieść proletariacką, mimo występujących w&nbsp;niej kilku postaci parających się fachami takimi jak ślusarz, złotnik, wytwórca biżuterii czy sztucznych kwiatów. Konceptualnego i&nbsp;konstrukcyjnego schematu dostarcza jej nie tyle klasa społeczna, ile raczej całkiem odmienne, typowo dziewiętnastowieczne, ideologiczne pojęcie „ludu” jako zbiorowości biedoty czy wszelkiej maści społecznie uciemiężonych i&nbsp;wykluczonych, od których można się wprawdzie odwrócić w&nbsp;poczuciu odrazy, ale również – jak w&nbsp;przypadku niektórych nurtów politycznego populizmu – do którego można nostalgicznie powrócić niczym do tellurycznego źródła mocy<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Stosunek samego Gissinga do owego „ludu” stanowi wyjątkową kombinację odrazy i&nbsp;fascynacji, czemu przyjrzymy się jeszcze później.</p> <p>W populizmie <em>The Nether World</em> przede wszystkim zwraca uwagę to, że&nbsp;znajdujemy w&nbsp;nim rozwiązanie (a przynajmniej jego próbę) pewnego formalnego i&nbsp;narracyjnego problemu, który młody György Lukács określiłby mianem kryzysu narracyjnej <em>totalności</em>. Zażarte, przybierające na&nbsp;sile i&nbsp;obejmujące coraz szerszy zasięg zmagania Balzakowskiej narracji w&nbsp;swym toku zdają się omijać ten dylemat, podobnie jak ogromna przestrzenna sieć u&nbsp;późnego Dickensa, utkana z&nbsp;oszałamiającej rzeszy postaci i&nbsp;gmatwaniny ich losów w&nbsp;„niedającej się stotalizować totalności” rozpełzającego się Londynu, acz nigdy, jak się zdaje, niesięgająca punktu, w&nbsp;którym ta kompozycyjna machina mogłaby zyskać niebezpieczną samoświadomość, a&nbsp;tym samym odnotować jakiś obiektywny kryzys w&nbsp;samym swym tworzywie czy „społecznym ekwiwalencie”. U&nbsp;Gissinga natomiast dickensowskie miasto z&nbsp;wolna traci swą żywotność i&nbsp;ostatecznie przeobraża się w&nbsp;pustą sieć wzajemnych nawoływań bohaterów, uciążliwych odwiedzin w&nbsp;pokojach i&nbsp;mieszkaniach oraz przerw spędzanych na&nbsp;przypadkowych włóczęgach po&nbsp;dzielnicach nędzy. Miasto przestaje tutaj zatem funkcjonować w&nbsp;charakterze molowej jedności tych narracji, jako zewnętrzny symbol „totalności” i&nbsp;znak sensownej całości ich społecznej treści<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Naturalistyczna opowieść, w&nbsp;miejsce dawniejszych totalizujących ram, wprowadza nową klasyfikację narracyjnego materiału podług specjalizacji albo podziału pracy (o czym świadczy systematyczne opracowanie „tematów” przez Zolę w&nbsp;cyklu powieści o&nbsp;Rougon-Macquartach, obejmujących kolej, finanse, chłopstwo, wojnę, medycynę, religię, miejski proletariat i&nbsp;tym podobne). Co należy jednak podkreślić, takie nowe „rozwiązanie” w&nbsp;rzeczywistości samo jest częścią problemu; kryzys społecznej totalności jest bowiem wynikiem tych samych zjawisk – urzeczowienia, społecznego rozbicia, podziału pracy, tayloryzacji<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> – które dyktują kategorie naturalistycznej strategii kompozycyjnej.</p> <p>Gissingowska koncepcja powieści „o ludzie” jako forma jest wyrazem wysokiej naturalistycznej specjalizacji, która chce uchodzić za&nbsp;mapę społecznej totalności. W&nbsp;istocie jednak próba wypełnienia tego ideologicznego pojęcia literackim przedstawieniem odsłania systematycznie swe wewnętrzne sprzeczności: skoro „lud” z&nbsp;powodzeniem funkcjonuje jedynie jako pojęcie klasyfikacyjne, bohaterowie powieści sprowadzeni zostają do zwykłej ilustracji istniejących już uprzednio w&nbsp;nich esencji, powieść zaś może jedynie powtarzać w&nbsp;kółko opisywane powyżej klasowe ostrzeżenia, co w&nbsp;kontekście jej dynamiki narracyjnej da się przełożyć na&nbsp;nakaz: nie próbuj stać się inną postacią niż jesteś! Jeśli, z&nbsp;drugiej strony, pojęcie „ludu” zaczyna nabierać wbrew sobie klasowych konotacji, z&nbsp;konieczności staje się nieodwracalnie relacyjne, gdy zaczyna włączać w&nbsp;pole przedstawień pozostałe klasy społeczne, wobec których z&nbsp;konieczności samo się określa i&nbsp;z którymi toczy jawnie lub ukrycie nieustanną walkę. To jednak równocześnie sprowadzałoby się do wyjścia poza początkowo przyjętą ramę i&nbsp;czegoś na&nbsp;kształt samokrytyki samego pojęcia „ludu”, oraz sprucia narracyjnych szwów. W&nbsp;szczególności, o&nbsp;czym się wkrótce przekonamy, taki zwrot akcji uczyniłby „inność” pojęcia „ludu” czymś nieuniknionym i&nbsp;niewygodnie uwydatnił jego zależność od uprzywilejowanego, acz nieumiejscowionego obserwatora, który w&nbsp;samozadowoleniu, choć beznamiętnie, gromadzi ów narracyjny surowiec<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>.</p> <p>Oryginalność <em>The Nether World</em> kryje się w&nbsp;sposobie, w&nbsp;jaki powieść ta oddaje tkwiącą w&nbsp;jej treści sprzeczność, wynajdując dla niej niepowtarzalne doraźne rozwiązanie – na&nbsp;tym w&nbsp;istocie polega ostateczne znaczenie filantropijnego posłannictwa, będącego sednem fabuły. Opowieść Starego Snowdona o&nbsp;jego wielkiej idei rysuje osobliwe sprzężenie jednostkowego aktu z&nbsp;rozmytym obiektem stapiającym się z&nbsp;tłem, połączenie między bohaterem narracji a&nbsp;czymś niewiele większym niż jakaś abstrakcyjna idea:</p> <blockquote>Przypuśćmy, że&nbsp;gdy umrę, chciałbym mieć pewność, że&nbsp;te pieniądze pójdą na&nbsp;potrzeby ubogich i&nbsp;że znajdą się w&nbsp;rękach kobiety, która sama doświadczyła ubóstwa? Czy rozumiesz, o&nbsp;co mi chodzi? Byłoby pewnie prościej przekazać je, jak to jest przyjęte, jednej z&nbsp;organizacji dobroczynnych – ja jednak pragnąłem czegoś więcej. Mógłbym też wykształcić Jane i&nbsp;wychować na&nbsp;damę i&nbsp;wciąż mieć nadzieję, że&nbsp;użyje moich pieniędzy właściwie – pragnąłem jednak czegoś więcej. Mamy dziś wiele dam, które troszczą się o&nbsp;różnych nieszczęśników i&nbsp;które swoje środki przeznaczają na&nbsp;cudze potrzeby. Ja jednak pragnąłem wychować ubogim i&nbsp;niewykształconym przyjaciółkę, która należałaby do ich grona, osobę, która przecierpiała to samo, co oni cierpią, która potrafi zarabiać własnymi rękami na&nbsp;życie tak, jak oni, która nigdy nie myślała o&nbsp;sobie jako o&nbsp;kimś lepszym od nich, która widzi świat ich oczyma i&nbsp;zna ich pragnienia<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>.</blockquote> <p>Filantropijny motyw jest tutaj na&nbsp;tyle autoreferencyjny, na&nbsp;ile nagłe wyjawienie przez starego Snowdona celu życiowego jest tym samym, co odkrycie przez Gissinga sposobu na&nbsp;skomponowanie tej narracji (i rozwiązanie kryzysu narracyjnej totalności). Że&nbsp;nie jest to zwykły zbieg okoliczności, wyjdzie na&nbsp;jaw wkrótce po&nbsp;tym, jak pokażemy, że&nbsp;„filantropijny eksperyment” staje się kluczowym mechanizmem dojrzałego aparatu narracyjnego u&nbsp;Gissinga.</p> <p>Nie ma potrzeby dogłębnie wnikać w&nbsp;ideologiczną treść filantropii, która poszukuje niepolitycznego i&nbsp;indywidualizującego rozwiązania dla wyzysku tkwiącego strukturalnie w&nbsp;systemie społecznym, a&nbsp;którego charakterystyczne motywy kulturowej naprawy oraz oświaty są nam aż&nbsp;nazbyt dobrze znane<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>. Co ciekawe, próby przejrzenie na&nbsp;wylot tego programu i&nbsp;jego donośnego potępienia idą u&nbsp;Gissinga w&nbsp;parze z&nbsp;jednoczesnym w&nbsp;nim utknięciem; autor wydaje się rozdarty między nieprzejednanymi oskarżeniami rzucanymi wobec reformistów-filantropów i&nbsp;równie zdecydowanymi oskarżeniami pod&nbsp;adresem „biedoty”, której tym samym nie sposób ocalić ani wydobyć z&nbsp;nędzy.</p> <p>Bez wątpienia jednak filantropijna misja najpełniej objawia się w&nbsp;formie narracyjnej: wpisanie projektu naprawczego w&nbsp;samo sedno realistycznego przedstawienia oznacza bowiem wydanie niejawnego wyroku na&nbsp;jakość empirycznego bytu oraz jego użyteczność jako tworzywa literackiego. To, co określiliśmy wcześniej mianem modalnej niejednorodności narracyjnych rejestrów u&nbsp;Balzaka, można obecnie zderzyć z&nbsp;nowym motywem: u&nbsp;Balzaka ciężar empirycznego istnienia, historii i&nbsp;natłoku zdarzeń jest na&nbsp;pozór nadal dość nieznaczny i&nbsp;pozwala wyobrażać sobie różnorodne opowieści, mogące znaleźć wyraz w&nbsp;rozmaitych modalnościach narracyjnych. Sugerowaliśmy, że&nbsp;w&nbsp;przypadku wysokiego realizmu tego rodzaju zmienność rejestrów narracyjnych zaczyna zanikać, a&nbsp;w jej miejsce pojawia się masywny jednorodny pojedynczy aparat narracyjny, swego rodzaju obowiązkowy rejestr „oznajmujący”. Z&nbsp;przygniatającej i&nbsp;nieusuwalnej masy empirycznego istnienia wyłonić się muszą jednak alternatywne światy społeczne jako takie, zyskując swój przedstawieniowy wyraz, czego owocem będzie powieść utopijna czy <em>science-fiction</em> – jej pomnikowym przykładem jest <em>Co robić?</em> (1863) Nikołaja Czernyszewskiego, tekst, na&nbsp;który udany projekt starego Snowdona sam równie dobrze mógłby przepisać życie <sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>.</p> <p>Oto sytuacja, w&nbsp;której wielcy pisarze realizmu, „pasterze Bytu” szczególnego ideologicznego pokroju, zmuszeni zostają przez własną narrację i&nbsp;żywotne interesy estetyczne do tego, by wyrzec się zmiany rewolucyjnej, ostateczną zaś stawką uczynić utrzymanie <em>status quo</em>. Powoływaniu się przez nich na&nbsp;stałość przedmiotu przedstawienia – społecznego świata, pojmowanego na&nbsp;kształt organicznego, naturalnego, Burke’owskiego trwałego bytu – z&nbsp;konieczności staje na&nbsp;przeszkodzie wszelka sugestia, jakoby ten świat nie był naturalny, lecz historyczny, a&nbsp;przez to mógłby ulec radykalnej zmianie. Zaiste osobliwa podforma realizmu, czyli powieść proletariacka, pokazuje, co dzieje się w&nbsp;zderzeniu aparatu przedstawienia z&nbsp;wyjątkowym wydarzeniem, jakim jest strajk jako figura społecznej rewolucji, podważająca społeczny „byt” i&nbsp;społeczną całość jako taką, a&nbsp;tym samym podstawowe przesłanki owej totalności. Stąd skandaliczność formy, która ponosi porażkę tam, gdzie się udaje, i&nbsp;zwycięża ta, gdzie zawodzi, i&nbsp;która wymyka się wszelkim, oddziedziczonym po&nbsp;„wielkim realizmie”, kategoriom literackiej oceny. Tymczasem sami realiści z&nbsp;konieczności uwikłani są w&nbsp;niezliczone strategie blokowania, mające na&nbsp;celu sprowadzenie wszystkiego, co jest nie-bytem, pragnieniem, nadzieją i&nbsp;dążeniem do zmiany, na&nbsp;powrót do stanu natury. Ciążenie ku przyszłości i&nbsp;radykalnej zmianie muszą zatem systematycznie ulegać urzeczowieniu, obracane w&nbsp;„uczucia” i&nbsp;psychologiczne atrybuty, własności i&nbsp;przypadłości „postaci”, ujmowanych odtąd na&nbsp;kształt organizmów i&nbsp;form bytu. Postaci świadomego politycznego rewolucjonisty czy rewolucjonistki muszą z&nbsp;kolei ulec wobec tej szczególnej procedury naturalizacji, której pokrótce się tutaj przyjrzymy.</p> <p>Projekt filantropijny mieści się na&nbsp;samym styku takich strategii narracyjnych i&nbsp;najłatwiej ulega naturalizacji w&nbsp;postaci donkiszotowskiego altruizmu, ekscentryczności czy nieszkodliwego obłędu. Czytane w&nbsp;ten sposób, jako próba rozwiązania dylematów totalności, filantropijne posłannictwo krzyżuje się z&nbsp;jednym z&nbsp;wielkich tematów dialektycznej filozofii, mianowicie dokonanym przez Hegla odrzuceniem imperatywu etycznego, podjętym na&nbsp;powrót przez Lukácsa w&nbsp;<em>Teorii powieści</em>. W&nbsp;oparciu o&nbsp;tę diagnozę <em>Sollen</em>, powinność, fascynacja obowiązkiem i&nbsp;etycznym nakazem, z&nbsp;konieczności utrwala jedynie kult porażki i&nbsp;fetyszyzację czystej nieurzeczywistnionej intencji. Zobowiązanie moralne zakłada bowiem rozziew między bytem a&nbsp;powinnością i&nbsp;nie sposób uczynić mu zadość wypełniając pojedyncze zobowiązanie, a&nbsp;następnie przekształcając je w&nbsp;byt. Celem zachowania właściwych sobie wymogów zadośćuczynienia etyka nieustannie musi domagać się tego, co nieosiągalne i&nbsp;nieziszczalne<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Opowieść z&nbsp;kolei, zdaniem Lukácsa, może jedynie obrobić jako swe tworzywo to, co empiryczne; postać motywowaną etyczną abstrakcją da się zatem przedstawić jedynie przez pewne „zwężenie duszy”, polegające na&nbsp;„demonicznym opętaniu ideą przedzierzgniętą w&nbsp;byt i&nbsp;ustanowioną jako jedyna i&nbsp;zwykła rzeczywistość”<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Modelem dla Lukácsa jest tutaj bez wątpienia <em>Don Kiszot</em>, a&nbsp;jeśli nie przewidział on szczególnego rozkwitu powieści filantropijnej w&nbsp;XIX wieku, to tylko dlatego, że&nbsp;motywację etyczną pojmował w&nbsp;tradycyjnym sensie, jako konfrontację etycznej jednostki z&nbsp;jednostkowym przypadkiem. Projekt filantropijny, obierający za&nbsp;swój przedmiot nie poszczególne jednostki, lecz całą klasę czy zbiorowość, popycha jednak akt etyczny ku ostatecznej granicy, czyli punktowi, poza którym musi on przybrać wymiar polityczny.</p> <p>W powieści <em>The Nether World</em> dokonuje się wszelako rozbiórka konstrukcji narracyjnej w&nbsp;inny jeszcze sposób, typowy dla późnej twórczości Gissinga. Narracyjny symptom daje się tutaj rozpoznać w&nbsp;rozterkach i&nbsp;wahaniach pojedynczej postaci, rzekomego bohatera tej powieści, Sidneya Kirkwooda, którego kontemplacyjna bierność i&nbsp;posępna melancholia zdają się wyróżniać go na&nbsp;tle pozostałych postaci, obdarzając szczególną samoświadomością. Zaiste trudno oprzeć się tutaj wrażeniu, że&nbsp;z&nbsp;tego pseudo-proletariuszaśled usiłuje się wykluć całkiem inna postać, zaś spowijająca go narracyjna mgła jest w&nbsp;mniejszym stopniu kwestią technicznych niedomogów tekstu aniżeli nałożenia się na&nbsp;ten szczególny narracyjny przed-tekst czegoś, co wkrótce rozwinie się do postaci wyobcowanego intelektualisty, znamiennej dla późniejszych dzieł Gissinga. Jak gdyby narracyjne podłoże – urzeczowione i&nbsp;abstrakcyjne tworzywo „ludu” – samo starało się tym sposobem zaradzić własnym strukturalnym niedomogom i&nbsp;przeorganizować się wokół jakiegoś wyróżnionego ośrodka czy też świadka, przynależącego z&nbsp;definicji do innej klasy społecznej. Niemniej postać ta powinna pozostać jednocześnie aktorem i&nbsp;uczestnikiem tego społecznego świata. I&nbsp;znów: problem sam z&nbsp;siebie dyktuje rozwiązanie, a&nbsp;nasz bohater zostanie kimś wyobcowanym w&nbsp;nader szczególny sposób, czyli przez swoją deklasację i&nbsp;tego rodzaju formę klasowej zdrady, jaka wynika z&nbsp;zafascynowania czy aspirowania do statusu tych, którzy mieszczą się po&nbsp;przeciwnej stronie klasowego podziału.</p> <p>Dwa inne wczesne dzieła Gissinga, czyli <em>Demos</em> i&nbsp;<em>Thyrza</em>, ukazują podstawowe strukturalne warianty takiego narracyjnego rozwiązania. W&nbsp;drugiej z&nbsp;tych powieści autor śledzi trudności, z&nbsp;jakimi boryka się młody dżentelmen idealista w&nbsp;swych dążeniach do zaprowadzenia kultury w&nbsp;Lambeth, w&nbsp;pierwszej z&nbsp;nich zaś opowiada o&nbsp;losach utalentowanego młodego proletariusza, który odziedziczywszy niespodziewanie majątek, zostaje właścicielem fabryki i&nbsp;musi nią zarządzać. Fabuły tego rodzaju rozwiązują problem filantropijnej „modalności” w&nbsp;sposób oryginalny, którego dostarczy Gissingowi dojrzały aparat narracyjny, w&nbsp;najbogatszy sposób sprawdzający się w&nbsp;<em>The Odd Women</em> i&nbsp;<em>New Grub Street</em>. Rozwiązanie to potwierdza naszą historyczną interpretację potencjału narracyjnej modalności w&nbsp;powieściach Balzaka, zarysowaną w&nbsp;poprzednim rozdziale<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Zaiste, wygląda na&nbsp;to, że&nbsp;względna swoboda Balzakowskiej modalności nie jest już dostępna w&nbsp;czasach Gissinga. Innymi słowy, jak gdyby w&nbsp;świecie skrajnego urzeczowienia i&nbsp;narastającego utowarowienia „byt” rzeczy i&nbsp;instytucji wraz z&nbsp;coraz silniej urzeczowionym miejscem i&nbsp;rolą ludzkich podmiotów w&nbsp;ich obrębie na&nbsp;tyle ciążyły nad narracyjną sferą wyobraźni, że&nbsp;przesunięcia między rejestrami i&nbsp;modalne odmiany losów przestają jawić się poważnemu artyście jako możliwość językowa. W&nbsp;tym sensie strategii filantropijnej brakowało treści i&nbsp;nigdy nie stanowiła ona prawdziwego narracyjnego rozwiązania. Teraz jednak, w&nbsp;momencie bliźniaczych narodzin modernizmu i&nbsp;kultury masowej, wyłania się z&nbsp;niej nowy (bądź na&nbsp;nowo wynaleziony) podrodzaj, mianowicie powieść utopijna, która w&nbsp;całym tym okresie wykazuje dużą żywotność. Podobnie wyobrażeniowa, życzeniowa i&nbsp;pragnieniowa modalność ulegają na&nbsp;nowo instytucjonalizacji w&nbsp;postaci podrodzajów wytwarzanych przez rodzącą się kulturę masową: gotyk, przygodę, mit, <em>science-fiction</em>, opowieści detektywistyczne.</p> <p>Gissing okazuje się zatem ograniczać do czegoś na&nbsp;kształt trybu oznajmującego. „Deontyczne” rejestry dostępne jeszcze Balzakowi u&nbsp;niego już się nie sprawdzają. Czemuś z&nbsp;balzakowskiego systemu udaje się tutaj jednak przetrwać, choć w&nbsp;znacznie zmodyfikowanej postaci. Jedną ze struktur, za&nbsp;pomocą której Gissing stara się przynajmniej po&nbsp;części zrelatywizować nieodwracalność jednostkowych losów, jest bowiem wykorzystanie splecionych ze sobą fabuł pobocznych, których bohaterowie realizują pewną kombinację obiektywnych wariantów jeszcze dostępnych w&nbsp;tym coraz silniej domykającym się świecie. Możliwości te nie są już jednak powiązane, w&nbsp;odróżnieniu od systemu Balzaka, za&nbsp;pomocą obsadzenia pojedynczej ziszczającej pewne życzenie pobudki. Są one teraz zaledwie empirycznymi wariantami, związek między nimi określa zaś przyjęcie przez Gissinga omawianego wcześniej paradygmatu naturalistycznego. Mamy tu do czynienia ze swego rodzaju wyspecjalizowanym podziałem na&nbsp;oficjalne „tematy”, takie jak feminizm czy niezależne dziennikarstwo (w dwóch wspomnianych tu powieściach), które mimo to pełnią rolę soczewki czy pryzmatu, łączącego ze sobą wiązkę losów, gdy tymczasem we francuskim naturalizmie organizacja tematyczna była środkiem różnicowania treści rozmaitych narracji. Ostatecznie jednak wykorzystanie przez Gissinga wysoce naturalistycznej specjalizacji jest jedynie wybiegiem – w&nbsp;dziełach z&nbsp;dojrzałego okresu pisarza te dwa wielkie tematy: małżeństwa i&nbsp;twórczości literackiej, obok trzeciej, powiązanej z&nbsp;nimi „kwestii” niezależności finansowej, okazują się ze sobą ściśle złączone w&nbsp;sposób wymagający jeszcze dookreślenia, czym zajmiemy się niżej.</p> <p>Taka strukturalna możliwość różnicowania nieodwracalności losów jednostkowych sama wszelako uzależniona jest od o&nbsp;wiele bardziej radykalnego, sprytnego rozwiązania, użytego już we wcześniejszych powieściach: rozwiązania przesądzającego o&nbsp;konieczności określenia narracji Gissinga mianem „powieści eksperymentalnych” w&nbsp;o wiele ściślejszym sensie aniżeli w&nbsp;przypadku Zoli. U&nbsp;dojrzałego Gissinga powieść potraktowana zostaje jako swego rodzaju laboratorium, w&nbsp;którym postaci poddaje się eksperymentom w&nbsp;warunkach kontrolowanych i&nbsp;systematycznie sprawdza się modyfikacje poszczególnych zmiennych. W&nbsp;odróżnieniu od eksperymentów powieściowych prowadzonych przez Zolę przebieg eksperymentu można odtworzyć, a&nbsp;niekiedy wręcz odwrócić, cały zaś proces jest do powtórzenia w&nbsp;zależności od testowanych wskaźników.</p> <p>O tym, że&nbsp;nie jest to operacja neutralna, świadczy „eksperyment”, którego narracyjnym urzeczywistnieniem jest powieść <em>Demos</em>. Jej bohater, młody działacz z&nbsp;klasy robotniczej, Richard Murtimer, dostaje szansę zarządzania fabryką swego wuja. Ta niespodziewana i&nbsp;ściśle „eksperymentalna” odmiana losu w&nbsp;normalnych warunkach powinna zostać oddana w&nbsp;narracji ściśle utopijnej, w&nbsp;której poddano by badaniu możliwość zbudowania kooperacyjnej enklawy na&nbsp;wzór Owena (negatywne na&nbsp;ogół wnioski płynące z&nbsp;tego rodzaju utopijnej narracji są równoznaczne – w&nbsp;przekładzie na&nbsp;przyjmowane przez nas tutaj kategorie terminologiczne – z&nbsp;próbą zakotwiczenia owenowskiego rejestru na&nbsp;powrót w&nbsp;empirycznych realiach zastanego „oznajmującego” świata, w&nbsp;którym na&nbsp;takie enklawy nie ma miejsca). Nie to wszakże najbardziej zajmuje Gissinga.</p> <p>Wykazaliśmy już tak naprawdę, że&nbsp;Gissingowska koncepcja klasowego tworzywa ma charakter relacyjny, a&nbsp;nawet więcej, konfliktowy – powieści o&nbsp;klasie robotniczej są jedynie na&nbsp;pozór „dokumentami” proletariackiego sposobu życia, daleko im też do narracyjnych przedstawień życia burżuazji czy klas wyższych. Jest raczej tak, że&nbsp;te na&nbsp;pozór osobne i&nbsp;jednorodne strefy przestrzeni społecznej stają się czymś interesującym dla powieściopisarzy jedynie wówczas, gdy przenikają do nich postaci z&nbsp;innych klas, klasowi intruzi bądź klasowi uchodźcy, zbiedzy lub misjonarze. Sam duch narracyjnego eksperymentu w&nbsp;<em>Demosie</em> zasadniczo zmienia się pod&nbsp;wpływem tego rodzaju skrzyżowania, tym zaś, co podlegać ma tu „naukowej” obserwacji, jest nie tyle administracyjna i&nbsp;technologiczna przemiana Wanleya, ile ściśle społeczna i&nbsp;klasowa przemiana samego Richarda, wrzuconego w&nbsp;burżuazyjną z&nbsp;gruntu sytuację. Fabryka, a&nbsp;w istocie kompleks odlewni żelaza i&nbsp;kopalni, rzeczywiście była własnością wuja, który zerwał więzy rodzinne, byłego proletariusza i&nbsp;zwolennika torysów, planującego pozostawienie jej w&nbsp;spadku młodemu protegowanemu z&nbsp;arystokratycznych kręgów. Złośliwe plotki na&nbsp;temat rozwiązłości i&nbsp;romansów młodego człowieka spowodowały jednak nagłą zmianę planów wuja, a&nbsp;nieoczekiwana śmierć starego Mutimera, który nie pozostawił po&nbsp;sobie żadnego testamentu, dała Richardowi nową szansę, co doprowadziło go do nieszczęśliwego małżeństwa z&nbsp;młodą kobietą „z wyższej sfery”. <em>Demos</em> staje się poglądową lekcją snobizmu, metodycznym jego wykładem, mającym na&nbsp;celu pokazanie, jak bardzo niereformowalny może być charakter osoby z&nbsp;klasy robotniczej i&nbsp;na ile nie przystaje on do społecznych i&nbsp;kulturowych warunków panujących w&nbsp;innej sytuacji klasowej. Szpetność tych postaw klasowych znajduje dodatkowe potwierdzenie w&nbsp;brutalności i&nbsp;nieumotywowaniu zwrotu akcji, a&nbsp;w efekcie zakończenia eksperymentu. Nieszczęśliwa arystokratyczna małżonka Richarda, siedząc w&nbsp;kościelnej ławce, w&nbsp;której zmarł stary Mutimer, znajduje niespodzianie kartkę papieru, która okazuje się niczym innym jak zaginionym testamentem. Pierwotny dziedzic otrzymuje ostatecznie w&nbsp;spadku wszystko (wbrew pogłoskom okazuje się, że&nbsp;nie był aż&nbsp;tak niegodny), Richard musi zaś wyrzec się nie tylko nowego stylu życia, lecz także całej swojej Utopii, którą nowy właściciel zrównuje z&nbsp;ziemią, aby przywrócić naturalne piękno miejsca.</p> <p>„Eksperyment” przeprowadzony w&nbsp;<em>Thyrzie</em> może na&nbsp;pierwszy rzut oka wydać się mniej drastyczny, a&nbsp;jego skutki mniej szokujące, lecz wyłącznie dlatego, że&nbsp;jego następstwa uległy przemieszczeniu i&nbsp;dlatego, że&nbsp;podobne eksperymenty u&nbsp;Gissinga nigdy nie są symetryczne. Nieudana próba wprowadzenia kultury pod&nbsp;strzechy klasy robotniczej przez Egremonta obraca się zatem nie przeciw niemu samemu, lecz przeciw jego rzekomym strażnikom i&nbsp;ofiarom. Z&nbsp;gruntu słuszna krytyka złudzeń wiążących się z&nbsp;reformistyczną strategią oświecania – w&nbsp;szczególności wykładów i&nbsp;utworzenia biblioteki, mających doprowadzić do ożywienia i&nbsp;„estetycznej edukacji” robotniczego Lambeth – obraca się ostatecznie w&nbsp;potencjalnie jeszcze groźniejszą krytykę możliwości nawiązywania stosunków międzyklasowych w&nbsp;efekcie zakochania się Egremonta bez pamięci w&nbsp;tytułowej proletariuszce. Wszelako ani jej śmierć (choć, jak się przekonaliśmy, bohaterka tak jest wystylizowana i&nbsp;wyperfumowana, że&nbsp;swą ornamentalną nadprzyrodzonością przypomina prerafaelickiego anioła), ani krótkotrwała depresja, w&nbsp;którą popada Egremont (zwiastująca o&nbsp;wiele wyrazistsze i&nbsp;bardziej dojmujące obrazy melancholii i&nbsp;duchowej śmierci, jakie znajdziemy w&nbsp;późniejszych powieściach Gissinga), nie są tutaj tak naprawdę odpowiednim punktem odniesienia.</p> <p>Zasadniczym „przedmiotem” tego szczególnego eksperymentu nie jest w&nbsp;istocie żadna z&nbsp;tych postaci, lecz na&nbsp;pozór o&nbsp;wiele mniej znaczący bohater drugoplanowy, jeden z&nbsp;pierwszych uczniów Egremonta z&nbsp;klasy robotniczej, Gilbert Grail, z&nbsp;namiętnością oddający się pisaniu i&nbsp;kulturze, który znajduje miejsce w&nbsp;projekcie swego mistrza jako bibliotekarz i&nbsp;najważniejszy mediator między czytelnikami z&nbsp;klasy robotniczej a&nbsp;eksperymentatorem z&nbsp;klasy średniej. Plan Egremonta uderza w&nbsp;życie starszego człowieka niczym piorun, całkowicie je burząc, acz budząc nadzieje nie do pomyślenia w&nbsp;z gruntu kastowym systemie, w&nbsp;którym zamykał się dotąd los Graila. Oświadczyny Graila wobec Thyrzy są jednak jedynie najbardziej dramatycznym wyrazem tej eksperymentalnej zmiany statusu, następnie odwołanej i&nbsp;zaprzeczonej przez (niewygodną dla obu stron) miłość Egremonta i&nbsp;Thyrzy. Nowa namiętność naraża na&nbsp;szwank projekt Egremonta i&nbsp;grozi o&nbsp;wiele skuteczniejszym zdyskredytowaniem go, aniżeli mógłby tego dokonać opór ze strony krnąbrnych robotników. Z&nbsp;kolei uczynienie ofiary z&nbsp;samego Graila, którego małżeństwo i&nbsp;nowo zdobyta posada padają w&nbsp;gruzach za&nbsp;jednym zamachem, zyskuje na&nbsp;obiektywności ze względu na&nbsp;brak jakichkolwiek zalet tej postaci (będącej w&nbsp;istocie pierwowzorem bohaterów późniejszych książek Gissinga, takich jak zgorzkniali ojcowie i&nbsp;przegrani nieporadni mężowie, ofiary bezlitosnego pecha i&nbsp;złośliwego losu, jak choćby pan Yule czy Widderson). Gwałtowne zakończenie narracyjnego eksperymentu ma w&nbsp;sobie w&nbsp;tym przypadku coś równie arbitralnego, co sugeruje działanie jakiejś przemyślanej i&nbsp;spójnej logiki afektywnej.</p> <p><a name="W3"></a> Koleje losów Graila odwzorowują w&nbsp;istocie swoisty archetyp Batszeby i&nbsp;stanowią metaforyczne spełnienie się nowotestamentowego proroctwa: „Temu zaś, kto nie ma, zabiorą nawet to, co ma” (Mt 25, 29). Uprowadzenie Batszeby od nieszczęśliwego Uriasza, a&nbsp;następnie jego zamordowanie przez króla Dawida, niesie lekcję moralną, a&nbsp;zarazem klasową przestrogę: „Bogacz miał owce i&nbsp;wielką liczbę bydła, biedak nie miał nic, prócz jednej małej owieczki, którą nabył. On ją karmił i&nbsp;wyrosła przy nim wraz z&nbsp;jego dziećmi, jadła jego chleb i&nbsp;piła z&nbsp;jego kubka” (2 Sm 12, 2–3), co zakończyło się w&nbsp;łatwy do przewidzenia sposób. Trudno w&nbsp;istocie oprzeć się wrażeniu, że&nbsp;Egremont, mający już wszystko to, na&nbsp;czym zbywa Grailowi – właściwe pochodzenie, pieniądze, status, wykształcenie, czas wolny, młodość, idee – żywi jednak zamiar ograbienia go nawet z&nbsp;tej „jednej małej owieczki”, jego skromnego majątku. Trudno oprzeć się wrażeniu, że&nbsp;mamy tutaj do czynienia ze swego rodzaju pierwotną zawiścią kryjącą się za&nbsp;zainteresowaniem Egremonta biedotą i&nbsp;pragnieniem zjednania sobie tej klasowej wspólnoty, z&nbsp;której sam na&nbsp;zawsze pozostaje wykluczony. Katastrofę Thyrzy odczytać da się jako ponurą diagnozę i&nbsp;komentarz dotyczący nieświadomego znaczenia filantropijnego altruizmu Egremonta, nietzscheańskie z&nbsp;gruntu obnażenie gestu wrogości skrywanej za&nbsp;pobudkami dobroczynności.</p> <p>Z drugiej strony, pełnię ambiwalencji pracy Gissinga trudno docenić bez zrozumienia, że&nbsp;– z&nbsp;inne jeszcze strony – Grail nie może obarczać winą nikogo prócz siebie samego, jego ostateczna niedola jest zaś bezpośrednim wynikiem żywionego przezeń pragnienia wydźwignięcia się ze swego dotychczasowego położenia, jego własnej chęci opuszczenia klasy, do której przynależy. W&nbsp;tym sensie stanowi on doskonałe dopełnienie Egremonta. Z&nbsp;tego punktu widzenia narracyjny „eksperyment”, mający otworzyć pewną przestrzeń niedostępną w&nbsp;dławiących warunkach urzeczowionego bytowania i&nbsp;empirycznie niedającego się odmienić losu, sam wymierza karę, przez co można go potraktować jako rodzaj makabrycznego rytuału, w&nbsp;którym deklasacja zostaje słusznie i&nbsp;symbolicznie ukarana.</p> <p>W tym świetle bez trudu rozumiemy, że&nbsp;nowy aparat narracyjny, nazwany przez nas „sytuacją eksperymentalną”, był motywowany bądź, jeśli wolicie, naddeterminowany powodami ściślej ideologicznymi. Wszyscy bohaterowie tych wczesnych powieści „eksperymentalnych”, Richard Mutimer, Egremont, a&nbsp;nawet Gilbert Grail, w&nbsp;ten czy inny sposób są figurami wyalienowanego intelektualisty, który pojawia się już w&nbsp;<em>The Nether World</em>. Teraz należałoby uściślić ten motyw, jasne jest bowiem, że&nbsp;autor <em>New Grub Street</em> nie ujmuje „wyalienowania” intelektualistów w&nbsp;romantycznych kategoriach <em>poète maudit</em>, borykającego się z&nbsp;filistyńskimi panami społeczeństwa mieszczańskiego, a&nbsp;nawet nie w&nbsp;rozumieniu Mallarmégo – alienacji strukturalnej, nieodłącznej od samego procesu pisania i&nbsp;od twórczości literackiej. Przeciwnie, alienacja oznacza tutaj alienację klasową i&nbsp;„obiektywną zdradę”, jakiej dopuszczają się intelektualiści nieustannie rozdarci między dwoma światami społecznymi i&nbsp;dwoma zbiorami klasowych wartości i&nbsp;zobowiązań. W&nbsp;oczywisty sposób osobista „rana” Gissinga, niczym wczesna trauma Dickensa, związana ze skandalem i&nbsp;ostracyzmem, oskarżeniem o&nbsp;kradzież wraz z&nbsp;usunięciem z&nbsp;publicznej szkoły, która mogła mu zapewnić dostatnie i&nbsp;bezpieczne życie członka klasy średniej, skazała go na&nbsp;szczególną społeczną odmianę heglowskiej świadomości nieszczęśliwej i&nbsp;odebrała mu możliwość jakiejkolwiek udanej ostatecznej identyfikacji klasowej.</p> <p>Tematu wyalienowanego intelektualisty nie sposób jednak w&nbsp;pełni uchwycić bez przywrócenia mu semantycznej wartości wyrazowej jako ideologemu. Staram się tu przekonać w&nbsp;istocie, że&nbsp;ten osobliwy „temat” wraz z&nbsp;postaciami, które zdają się go dramatyzować, same w&nbsp;sobie tworzą rozliczne nawiązania do o&nbsp;wiele bardziej podstawowego „znaku” intuicyjnie uchwytnego dla każdego ówczesnego czytelnika, wobec którego my jako dzisiejsi czytelnicy pozostajemy jednak w&nbsp;kulturowym i&nbsp;historycznym oddaleniu. Wprawdzie ten znak, czy też ideologem, nie uobecnia się nigdzie jako taki: jako część „obiektywnego ducha” czy też kulturowego porządku symbolicznego swego czasu odchodzi on w&nbsp;przeszłość wraz z&nbsp;nim, pozostawiając za&nbsp;sobą jedynie ślady – materialne znaczące, leksemy, zagadkowe słowa i&nbsp;zdania. I&nbsp;podobnie jak nasza rekonstrukcja tekstów z&nbsp;przeszłości wymaga przejścia okrężnej drogi wiodącej przez pracowite odtworzenie zatartych leksykalnych znaczeń i&nbsp;konotacji wraz z&nbsp;całym wytwarzającym je systemem semantycznym, tak rekonstrukcja tekstów narracyjnych przeszłości wymaga pewnej pracy, na&nbsp;razie mniej zaawansowanej niż leksykologiczne badania nad słownictwem – mianowicie odtworzenia i&nbsp;inwentaryzacji ideologemów właściwych dla okresu historycznego.</p> <p>W przypadku Gissinga jesteśmy w&nbsp;stanie zidentyfikować ten szczególny ideologem jako resentyment, którego pierwszym i&nbsp;najznakomitszym teoretykiem, jeśli nie metafizykiem, był Nietzsche: „Bunt niewolników na&nbsp;polu moralności zaczyna się tym, że&nbsp;resentyment sam twórczym się staje i&nbsp;płodzi wartości: resentyment takich istot, którym właściwa reakcja, reakcja czynu, jest wzbroniona i&nbsp;które wynagradzają ją sobie tylko zemstą w&nbsp;imaginacji”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Cała Nietzscheańska wizja dziejów, jego historyczna narracja dominująca, zorganizowana jest wokół twierdzenia, które diagnozuje całą etykę, a&nbsp;w szczególności tradycję judeochrześcijańską, jako zemstę niewolników na&nbsp;panach oraz ideologiczny podstęp, za&nbsp;pomocą którego niewolnicy zakażają panów swą moralnością – etosem miłosierdzia – celem wyzucia ich z&nbsp;ich naturalnych sił witalnych i&nbsp;agresywnej, arystokratycznej z&nbsp;gruntu zuchwałości.</p> <p>Narracja czy też mit nietzscheański uchodzi za&nbsp;swego rodzaju psychologiczny mechanizm w&nbsp;służbie krytyki wiktoriańskiej moralistyki i&nbsp;hipokryzji. Wszelako jego wtórne zastosowania pokazują, że&nbsp;pełni on o&nbsp;wiele bardziej zasadniczą funkcję polityczną: w&nbsp;<em>Początkach współczesnej Francji</em> Taine, podążając śladem Micheleta, wykorzystuje motyw resentymentu, by „objaśnić” zjawisko rewolucji, i&nbsp;dokonuje tego w&nbsp;dwojaki sposób. Po&nbsp;pierwsze, w&nbsp;swego rodzaju ezoterycznym i&nbsp;wulgarnym sensie, ideologem resentymentu ma rzekomo wyjaśniać na&nbsp;sposób „psychologiczny” i&nbsp;niematerialistyczny destrukcyjną zawiść, jaką wydziedziczeni żywią wobec posiadaczy, a&nbsp;tym samym objaśnić niewytłumaczalne zjawisko masowego powstania ludowego przeciwko hierarchicznemu systemowi, którego istotową żywotność i&nbsp;organiczną czy wspólnotową wartość nasz historyk stara się wykazać. Jednocześnie, w&nbsp;drugim i&nbsp;bardziej ezoterycznym, „naddeterminowanym” znaczeniu, resentyment objaśnić może również postępowanie tych, którzy podżegali zadowolone rzekomo masy ludowe do tego rodzaju „nienaturalnych” rozruchów. Ideologem wskazuje zatem nietzscheańskich „księży ascetów” i&nbsp;intelektualistów <em>par excellence</em>: zapoznanych pisarzy i&nbsp;poetów, złych filozofów, zrzędliwych dziennikarzy i&nbsp;wszelkiej maści nieudaczników, których prywatne niepowodzenia przekonały ich samych do tego, że&nbsp;ich powołaniem będzie dołączenie do szeregu politycznych i&nbsp;rewolucyjnych bojowników. Tego rodzaju diagnostyczny podwójny standard, dostarczający wewnętrznej dynamiki całej tradycji kontrrewolucyjnej propagandy, od Dostojewskiego i&nbsp;Conrada po&nbsp;Orwella, tym samym okazuje się istotny dla dwojako złowieszczego statusu Richarda Mutimera jako proletariackiego intelektualisty i&nbsp;służy za&nbsp;uprawomocnienie niczym nieumotywowanego okrucieństwa, z&nbsp;jakim postać ta zostaje strukturalnie ukarana.</p> <p>Co najbardziej uderzające w&nbsp;teorii resentymentu, to jego nieuchronnie samozwrotna struktura. Zakończenie <em>Demosu</em> bez wątpienia okazuje się nieuniknione: Gissing żywi resentyment wobec Richarda, największy zaś – wobec samego resentymentu tego ostatniego. Jesteśmy już chyba dostatecznie dalecy od tego konkretnego ideologemu, by wysnuć następujący wniosek: owa „teoria” resentymentu sama nie jest niczym więcej aniżeli wyrazem złości na&nbsp;rzekomo nieuzasadnione wrzenie w&nbsp;klasach niższych, na&nbsp;nikomu przecież niepotrzebne rozkołysanie społecznej łajby. Można stąd zatem wywieść wniosek, że&nbsp;teoria resentymentu, gdy się pojawia, sama jest zawsze jedynie wyrazem i&nbsp;wytworem resentymentu<em>.</em></p> <p>Sprawa Gissinga jednak na&nbsp;tym się nie kończy. W&nbsp;odróżnieniu od metod Balzaka i&nbsp;jego snobizmu, pozostającego nośnikiem libidinalnego obsadzenia i&nbsp;utopijnej życzeniowości, częstokroć padające u&nbsp;wczesnego Gissinga odautorskie opinie i&nbsp;stwierdzenia, dające wyraz oburzeniu klasową hierarchią, mają w&nbsp;sobie coś głęboko nieprzekonującego. Jak gdyby w&nbsp;świecie urzeczowionego języka nawet osobisty idiom samego autora nie mógł pozostać czymś autentycznym, co obraca się w&nbsp;coś na&nbsp;kształt flaubertowskiego w&nbsp;stylu, odcieleśnionego i&nbsp;swobodnego powielania komunałów. Potrzebujemy bowiem o&nbsp;wiele bardziej złożonego modelu tego, co Bachtin nazywał „mową dialogową”, jeśli naszym celem ma być zrozumienie sytuacji, w&nbsp;której można uchwycić tego rodzaju wyrażenie jako przypominające język Innego, w&nbsp;którym jego własna motywacja, nie będąca jedynie chęcią identyfikacji z&nbsp;postawami klas wyższych, będzie również, zważywszy na&nbsp;system ambiwalencji Gissinga, wyrazem resentymentu wobec nich, zmierzającym do zawstydzenia i&nbsp;skompromitowania także tych, w&nbsp;których imieniu zdawała się świadczyć<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>.</p> <p>Tego rodzaju język znika jednak z&nbsp;powieści Gissinga w&nbsp;dojrzałym okresie twórczości, w&nbsp;powieściach, których stylistyczne wartości pozostają niedocenione. To zaledwie jeden z&nbsp;wielu problemów napotykanych podczas prób zrozumienia, w&nbsp;jaki sposób elektryzująca oschłość późniejszego stylu Gissinga wraz ze szczególną trzeźwością dialogów doskonale odpowiadają doszczętnemu spustoszeniu ich psychicznej i&nbsp;materialnej treści. Trzeźwość niekoniecznie wszak nie daje się pogodzić z&nbsp;napięciem. Przeciwnie, jej skutki na&nbsp;ogół pociągają za&nbsp;sobą silne uczucia, z&nbsp;rozmysłem powstrzymywane oraz afektywne przemilczenia, obdarzające na&nbsp;pozór obojętne sformułowania swoiście potajemną intensywnością oraz niepokojąco naglącą mocą.</p> <p>Jeśli idzie o&nbsp;styl narracji Gissinga, to jego konstytutywne cechy, jak niemal retoryczne użycie przymiotników, sugerują rygorystyczne i&nbsp;bezosobowe użycie jakiegoś odziedziczonego narzędzia, w&nbsp;szczególności wykorzystanie typowo osiemnastowiecznej analitycznej ruchliwości przymiotnika w&nbsp;charakterze epitetu, z&nbsp;jego potrojeniem, rozkładem na&nbsp;zdania określające, dopracowanym kształtowaniem składni jako oprzyrządowania samego Rozumu. Niemniej, w&nbsp;zestawieniu tego narzędzia z&nbsp;retorycznym aparatem stosowanym w&nbsp;późnych powieściach George Eliot, kwiecistym i&nbsp;wysoce emocjonalnym, oraz w&nbsp;kontekście przeszłości samego Gissinga, jako filologa klasycznego pozostającego na&nbsp;stypendium i&nbsp;przez całe życie próbującego uporać się z&nbsp;nieuleczalną raną społecznego i&nbsp;klasowego poniżenia, trudno uniknąć wniosku, że&nbsp;pisarz tak naprawdę pracuje w&nbsp;obumarłym już tworzywie językowym, tajemnicy jego stylu zaś upatrywać należałoby w&nbsp;hipotezie, że&nbsp;jego „angielski” jest językiem równie martwym, jak łacina. Język Gissinga stanowi w&nbsp;najlepszym razie wczesny przykład czegoś, co Roland Barthes określał mianem <em>écriture blanche</em>, białego czy wyblakłego pisania<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>, i&nbsp;to mniej więcej z&nbsp;tych samych powodów, które diagnozuje później Barthes: tego rodzaju literacka praktyka dzięki radykalnej depersonalizacji – niczym w&nbsp;akcie zapobiegawczego samobójstwa – ma służyć zażegnaniu społecznych konfliktów bezpośrednio przywoływanych i&nbsp;podsycanych przez każde żywotne użycie mowy.</p> <p>Z tej językowej perspektywy łatwiej nam teraz scharakteryzować narracyjny aparat i&nbsp;układ postaci, do których Gissing doszedł w&nbsp;późniejszym okresie twórczości. Dwa strategiczne przemieszczenia okazały się konieczne do przestawienia opisywanej przez nas maszynerii narracyjnej na&nbsp;tryb działający w&nbsp;jego największych powieściach: wyalienowany intelektualista zostaje w&nbsp;nich umiejscowiony w&nbsp;roli pisarza, przez co podejmowane wcześniej problemy wiążące się z&nbsp;deklasacją zostają powiązane bezpośrednio z&nbsp;kwestią zarobkową. Jednocześnie konflikt klasowy występujący we wcześniejszych dziełach tutaj zostaje przełożony w&nbsp;szerokim zakresie na&nbsp;kategorie różnicy płciowej i&nbsp;„kwestie kobiecą”, co dopuszcza możliwość odegrania opisywanej przez nas „eksperymentalnej” sytuacji w&nbsp;bardziej konwencjonalnych powieściowych ramach małżeństwa, dając jej niecodzienne klasowe zabarwienie.</p> <p>Charakterystyczny układ postaci znany z&nbsp;późniejszych dzieł – porażka starzejącego się mężczyzny, u&nbsp;którego zgorzknienie i&nbsp;fatalne usposobienie obraca dawną ikonę melancholii w&nbsp;szpetną i&nbsp;zasadniczo nieuleczalną chorobę duszy; ospały młody zamożny mężczyzna, swego rodzaju frywolne uosobienie flaubertowskiego antybohatera, u&nbsp;którego nawet mgliste dokuczliwe „pragnienie pragnienia” uległo zatarciu; młoda zmagająca się z&nbsp;życiem kobieta, której niezależność musi zostać okupiona wyrzeczeniem – pojąć można jedynie w&nbsp;kategoriach pragnienia. W&nbsp;odróżnieniu od Balzaka Gissing znajduje się jednak w&nbsp;sytuacji, w&nbsp;której powszechne utowarowienie pragnienia naznacza wszelkie spełnione pragnienie czy życzenie piętnem nieautentyczności, autentyczność zaś – co najwyżej żałosna – wiąże się z&nbsp;obrazami porażki. Podjęcie przez Gissinga wyłącznie lęków związanych z&nbsp;pieniędzmi, nędzy i&nbsp;trudu utrzymania się przy życiu z&nbsp;dnia na&nbsp;dzień, braku niezależnych środków czy stałego dochodu, jest sposobem na&nbsp;wymknięcie się tej nieznośnej alternatywie, możliwość prawdziwego spełnienia pragnień rzutuje bowiem w&nbsp;przyszłość, w&nbsp;sferę utopijnej fantazji o&nbsp;sytuacji życiowej, w&nbsp;której można by w&nbsp;końcu znaleźć wolny czas na&nbsp;pisanie.</p> <p>Starania o&nbsp;dochody nie są zatem u&nbsp;Gissinga nigdy przejawem pragnienia towarów, lecz raczej czymś na&nbsp;kształt przedpragnienia, warunku wstępnego pragnienia, które z&nbsp;góry i&nbsp;metodycznie odzierane jest na&nbsp;każdym kroku z&nbsp;wartości, przez co ani powodzenie (małżeństwo z&nbsp;zamożną kobietą), ani porażka nie rzucają już melodramatycznego cienia typowego dla wysokiego naturalizmu. W&nbsp;późniejszych dziełach nieuchronność niespełnienia zostaje ukradkiem ujęta w&nbsp;nawias i&nbsp;ulega zawieszeniu przez zasadniczą miałkość i&nbsp;błahość tego, co nigdy nie będzie niczym więcej aniżeli środkiem do celu: nieodzownym warunkiem wstępnym niedostępnego samospełnienia, nieodwołalnie skazującego wszystkie te postaci na&nbsp;troski i&nbsp;obawy stanowiące sposób na&nbsp;oderwanie się i&nbsp;substytut jakiegoś prawdziwego, idealnego życia (prywatnego). Dialektyka pragnienia przypomina u&nbsp;Gissinga heglowską negację negacji. Ponieważ jego postaciom nigdy nie udaje się pragnąć, cały system powodzenia i&nbsp;porażki rozpada się niejako u&nbsp;samego początku, skutkiem użycia narracyjnej strategii, którą można w&nbsp;efekcie odczytywać jako ostateczną i&nbsp;najwyższą formę samego resentymentu. Z&nbsp;tego punktu widzenia wyrzeczenie ulega dialektycznemu przekształceniu. Nie jest już bowiem dłużej reakcją ani sposobem na&nbsp;dostosowanie się do krępującego drobnomieszczańskiego położenia czy też obiektywnego ograniczenia szans, lecz ulega tutaj uogólnieniu do postaci całkowitego wyrzeczenia się samego pragnienia towarów.</p> <p>Podniesiony do rangi powszechnej zasady i&nbsp;zabsolutyzowany jako podstawowa siła napędowa narracji Gissingowskich, resentyment przestaje tym samym wytwarzać czysto ideologiczne obrazy i&nbsp;staje się rękojmią podziałów wykraczających poza ideologiczne zaangażowanie. Świadomość nieszczęśliwa, nazbyt absolutna, by znaleźć jakiekolwiek ukojenie w&nbsp;konwencjonalnym snobizmie, wezwana zostaje teraz do uchwycenia historycznej i&nbsp;społecznej rzeczywistości, a&nbsp;rozdzierające ją głęboko „mieszane uczucia” budują wszechobecną świadomość klasową, w&nbsp;której mieszczański czytelnik nie zdoła wytrwać zbyt długo. W&nbsp;tym sensie przedstawiona na&nbsp;wstępie oksymoroniczna charakterystyka Gissinga okazuje się uzasadniona i&nbsp;tylko w&nbsp;niej zjawisko resentymentu, bez wątpienia spośród wszystkich ludzkich namiętności najsilniej motywowane złą wiarą sartre’owskiego typu, uznać można – przynajmniej w&nbsp;części – za&nbsp;autentyczne.</p> <p><br><br></p> <p><b>Przekład rozdziału <em>Authentic Ressentiment: Generic Discontinuities and Ideologemes in the „Experimental” Novels of George Gissing </em>książki Fredrica Jamesona <em>The Political Unconscious</em>. <em>Narrative as a&nbsp;Socially Symbolic Act </em>(Cornell University Press, Ithaca 1981). Dziękujemy autorowi i&nbsp;wydawnictwu Cornell University Press za&nbsp;zgodę na&nbsp;przedruk. © Cornell University Press </b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Alexander Welsh, <em>The City of Dickens,</em> Oxford, London 1971, rozdz. 9.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Karol Marks, Friedrich Engels, <em>Święta rodzina czyli krytyka krytycznej krytyki. Przeciwko Brunonowi Bauerowi i spółce</em>, przeł. T. Kroński, S. Filmus, Wydawnictwo KiW, Warszawa 1957, s. 288.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> By pomóc czytelnikowi uporać się z tym nieuzasadnionym zwrotem akcji, Gissing – przekonany, że przemawia głosem Dickensa – sięga po najgorszą retorykę: „Czyż sama tego [tj. śmierci] nie pragnęła? Czy istnieje bardziej błogosławiony dar, o który można by się modlić? Umarła; czysta i spokojna, spoczywała w swoim panieństwie”. I dalej, gdy arystokratyczna patronka Thyrzy dowiaduje się, co się stało: „Jakże rzadko doznajemy prostych uczuć! Gdy słowa te, z początku niewiarygodne, dotarły do jej umysłu, pani Ormonde wiedziała, że ludzka żałoba miesza się z niewysłowioną wdzięcznością”. George Gissing, <em>Thyrza</em>, Fairleigh Dickinson University Press, Cranbury 1974, s. 473–475.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Klasycznym dziewiętnastowiecznym wyrazem tego rodzaju ideologicznego kompleksu jest praca Jules’a Micheleta<em>, Du peuple</em>, 1846; współczesne rozważania nad populizmem znaleźć zaś można u Ernesta Laclau w <em>Politics and Ideology in Marxist Theory</em>, New Left Books, London 1977, rozdz. 4.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Miasto u Gissinga, co zauważył John Goode, jest zarówno postdickensowskie, jak i postbaudelaire’owskie. Zob. również znakomite omówienie tego okresu nowoczesnego miasta u Raymonda Williamsa w <em>The Country and the City</em>, Oxford University Press, New York 1973, s. 215–247.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Najważniejsze opracowanie tego zjawiska znaleźć można w książce Harry’ego Bravermana <em>Labor and Monopoly Capital</em>, Monthly Review, New York 1974. Zapożyczając miano od jej pomysłodawcy, Fredericka Winslowa Taylora, tayloryzacja stara się zracjonalizować proces pracy poprzez podział produkcji na najmniejsze i najbardziej wydajne jednostki, podobnie jak u Kartezjusza, który tego samego usiłował dokonać z pojęciami.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Co uważam za główną tezę Johna Goode’a sformułowaną w artykule <em>George Gissing’s The Nether World</em>, w: David Barrymore Howard, John Lucas, John Goode, <em>Tradition and Tolerance in Nineteenth-century Fiction</em>, Routledge &amp; P. Kegan, London 1966, s. 207–241. Głosi ona, że „podziemny świat” to nie jakaś klasa społeczna, lecz raczej coś na kształt kultury nędzy: „jedynym złoczyńcą w tej powieści jest obiektywny fakt niedostatku […]. [Zdaniem Gissinga] jedyną nadzieją na poprawę bytu klas robotniczych jest podniesienie standardów moralnych, na co nie ma jednak szans, bowiem siły ekonomiczne, którym podlegają, przesądzają o ich niskim standardzie moralnym” (s. 234, 236).</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> George Gissing, <em>The Nether World</em>, Fairleigh Dickinson University Press, Cranbury 1974, s. 178.</p>
+<p></p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Na temat historycznej charakterystyki filantropii jako instytucji typowo brytyjskiej zob. David Owen, <em>English Philantropy, 1660–1960</em>, Harvard University Press, Cambridge 1964; wiążące się z tym analizy w: Alexander Welsh, <em>The City of Dickens…</em>, s. 86–100; Norris Pope, <em>Dickens and Charity</em>, Columbia, New York 1978.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Kolejnym istotnym nawiązaniem jest tym kontekście rzecz jasna <em>News from Nowhere</em> Williama Morrisa z 1891 roku. W artykule <em>Gissing Morris, and English Socialism</em> („Victorian Studies” 1968, nr 12, s. 201–226) John Goode podsuwa myśl, że niedostatki <em>Demosu</em> Gissinga wynikają z jego strukturalnej niezdolności do ujęcia przyszłości, przez co zarazem zmuszają Morrisa do ponownego wynalezienia formy utopijnej czy też <em>science-fiction</em> – jako niedostatki empirycznej teraźniejszości w możliwości przedstawienia socjalistycznych sił zmierzających do przekształcenia owej teraźniejszości.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> György Lukács, <em>Teoria powieści. Esej historyczno-filozoficzny o wielkich formach epiki</em>, przeł. J. Goślicki, PIW, Warszawa 1968, s. 54, 57–59.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Ibidem, s. 89–91.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Rozdział ten zatytułowany jest <em>Realizm i pożądanie. Balzac i kwestia podmiotu</em> [przyp. red.].</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Fryderyk Nietzsche, <em>Z genealogii moralności. Pismo polemiczne</em>, przeł. L. Staff, Zielona Sowa, Kraków 2006, s. 24.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> „Jednakże na przekór jego intencjom zwierciadło, które skromnie podaje swoim czytelnikom - to zwierciadło magiczne, które chwyta i kompromituje. I chociaż zrobił wszystko, żeby przedstawić im pochlebne, utrzymane w tonacji porozumienia odbicie – estetyczny dystans nie pozwała go dosięgnąć. Ten obraz nie może budzić zadowolenia, darzyć wy godnym ciepłem, dyskretnym pobłażaniem. Ale kiedy spontaniczne zachowania są przeniesione na płaszczyznę refleksyjną, tracą swoją niewinność i usprawiedliwienie spontanicznością; teraz trzeba je uznać za swoje albo zmienić”. Jean-Paul Sartre, <em>Czym jest literatura. Wybór szkiców krytycznoliterackich</em>, przeł. J. Lalewicz, PIW, Warszawa, 1968, s. 234–235.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Zob. Roland Barthes, <em>Pisanie a milczenie</em>, w: idem, <em>Stopień zero pisania oraz Nowe eseje krytyczne</em>, przeł. K. Kot, Aletheia, Warszawa 2009, s. 85–89.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2015/autentyczny-resentyment.-ciecia-gatunkowe-i-ideologemy-w" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

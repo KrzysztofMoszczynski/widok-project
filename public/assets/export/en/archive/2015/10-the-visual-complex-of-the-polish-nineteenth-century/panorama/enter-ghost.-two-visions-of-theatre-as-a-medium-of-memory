@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Enter Ghost. Dwa obrazy teatru jako medium pamięci | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2015/10-polski-wiek-xix.-kompleks-wizualny/enter-ghost.-dwa-obrazy-teatru-jako-medium-pamieci">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Enter Ghost. Dwa obrazy teatru jako medium pamięci | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Enter Ghost. Dwa obrazy teatru jako medium pamięci | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2015/10-polski-wiek-xix.-kompleks-wizualny/enter-ghost.-dwa-obrazy-teatru-jako-medium-pamieci">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Enter Ghost. Dwa obrazy teatru jako medium pamięci | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #002db3 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #002db3 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #002db3 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #002db3 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #002db3 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #002db3 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #002db3 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #002db3 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(0,45,179,0.8) !important; */
+			/* background-color:#002db3 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(0,45,179,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#002db3 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(0,45,179,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#002db3; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(0,45,179,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(0,45,179,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#002db3 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#002db3 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#002db3 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-988 parent-id-937">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="933" data-selected-issue-color="#002db3" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/en">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/en">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2015/10-polski-wiek-xix.-kompleks-wizualny#toc">10</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-10/10-szczawinska.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Enter Ghost. Dwa obrazy teatru jako medium pamięci</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-10/10-szczawinska.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=858">Weronika Szczawińska</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;"></p> <p style="text-align: right;">Thou art a&nbsp;scholar; speak to it, Horatio.</p> <p style="text-align: right;">William Shakespeare, <em>Hamlet</em></p> <p style="text-align: right;"></p> </blockquote> <h2><br>Maszyny pamięci</h2> <p>Pamięciowe natężenie w&nbsp;polskim teatrze początków XXI wieku prowokuje, by odsunąc na&nbsp;bok perspektywę osadzającą to zjawisko w&nbsp;kontekście przemian historycznych i&nbsp;sięgnąć ku układowi odniesienia, w&nbsp;którym istotne jest samo sprzężenie natury teatralnego medium ze strukturami pamięci. Tę właściwość teatru gruntownie opisuje Marvin Carlson w&nbsp;książce <em>The Haunted Stage. The Theatre as Memory Machine</em> (2001). Wywód zaczyna od dobitnego stwierdzenia: w&nbsp;zasadzie wszystkie utwory dramatyczne świata mogłyby nosić tytuł <em>Upiory</em> (autor posługuje się nieco inaczej nacechowanym przekładem tytułu sztuki Ibsena – <em>Ghosts</em>, duchy). Zauważa, za&nbsp;Herbertem Blau, amerykańskim reżyserem i&nbsp;teoretykiem, że&nbsp;jedną z&nbsp;najbardziej uniwersalnych cech przedstawień teatralnych, powstałych w&nbsp;kulturach Wschodu i&nbsp;Zachodu, jest ich widmowe bądź „upiorne” naznaczenie (<em>ghostliness</em>), objawiające się w&nbsp;narzuconym widzom wrażeniu, że&nbsp;oto są świadkami powrotu postaci, rzeczy, gestów i&nbsp;sytuacji – innymi słowy, oglądają to, co już kiedyś ujrzeli. To doświadczenie powracania, tematyzowane później przez Carlsona na&nbsp;wielu płaszczyznach, zostaje też przez niego przeniesione do badań nad pamięcią kulturową, którą łączą z&nbsp;teatrem złożone relacje. Pisze: „Ponowne opowiedzenie historii, które już opowiedziano, odegranie wydarzeń już odegranych, doświadczenie emocji już kiedyś doświadczonych – to są i&nbsp;zawsze były najważniejsze problemy teatru wszystkich epok i&nbsp;miejsc [...]”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. Carlson dodaje, że&nbsp;wszystkie elementy składające się na&nbsp;spektakl (na przykład tekst scenariusza, ciała występujących, przestrzeń, w&nbsp;której rozgrywa się przedstawienie, jego materialne elementy) podlegają tej samej logice pamięciowego recyklingu – jako „już zobaczone”.</p> <p>Amerykański badacz zwraca też uwagę, że&nbsp;działanie teatru samo w&nbsp;sobie jest podobizną procesu kulturowego i&nbsp;historycznego, przez co staje się on medium, dzięki któremu społeczeństwo podejmuje próbę zrozumienia swoich własnych działań (czy też raczej – wyobrażeń, za&nbsp;pomocą których konstruuje swój obraz). Podstawowe znaczenie dla tego procesu ma nieustanna negocjacja temporalna: „Teraźniejsze doświadczenie jest zawsze nawiedzane [<em>ghosted</em>] przez poprzednie doświadczenia i&nbsp;skojarzenia, podczas gdy duchy te [<em>ghosts</em>] podlegają równocześnie zmianie, dzięki operacjom recyklingu i&nbsp;wspominania”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. W&nbsp;ten sposób zasada teatralności jako powtórzenia – Carlson powołuje się między innymi na&nbsp;teorie Richarda Schechnera dotyczące „zachowanego zachowania”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> – zostaje związana z&nbsp;operacjami na&nbsp;pamięci kulturowej.</p> <p>Przywołana zostaje także relacja pomiędzy teatrem a&nbsp;„założycielskimi mitami i&nbsp;legendami kultur całego świata, które utrwalano w&nbsp;postaci teatralnego powtórzenia” oraz nowoczesnym wyłonieniem się państw narodowych, któremu towarzyszyło sceniczne przepracowywanie „religijnej wiary, narodowych mitów, legend i&nbsp;opowieści historycznych”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Pamięć, nawiedzająca teatralne produkcje, jawi się zawsze w&nbsp;kształcie będącym wynikiem negocjacji i&nbsp;odkształceń; jest nie tyle „tym samym” – „czymś”, ile „czymś podobnym”, coś przypominającym. Ten mechanizm odgrywa podstawową rolę w&nbsp;kształtowaniu percepcyjnych władz widowni. Dzięki pojawieniu się „czegoś podobnego do” publiczność osadza dzieło teatralne w&nbsp;znanym jej kontekście. Szczególnego znaczenia nabiera to w&nbsp;przypadku artystycznych wydarzeń sytuujących się w&nbsp;kontrze do dotychczasowych tradycji i&nbsp;kanonów – pamięciowa resztka, którą widzowie odnajdą w&nbsp;jednym z&nbsp;elementów przedstawienia, stanie się podstawą zawiązania sytuacji komunikacyjnej. Na&nbsp;marginesie tych rozważań Carlson dodaje, że&nbsp;nawet radykalna próba zerwania z&nbsp;przeszłością (co analizuje na&nbsp;przykładzie francuskiego dramatu epoki romantyzmu) jest jedynie zmianą operacji przeprowadzanych w&nbsp;polu pamięci kulturowej (na przykład zamiast powtarzania estetycznych kanonów przywołuje się konkretne wydarzenia z&nbsp;historii wspólnoty) – sama zasada funkcjonowania teatru jako medium pamięci pozostaje niezmienna.</p> <p>Centralne pojęcie, którym posługuje się Carlson, to <em>ghosting</em> – słowo niełatwo poddające się polskiemu przekładowi; najbliższym odpowiednikiem byłoby może „nawiedzenie”, gdyby nie to, że&nbsp;w&nbsp;angielskim terminie kryje się duch (<em>ghost</em>), a&nbsp;„nawiedzenie”, obecne w&nbsp;tytule amerykańskiej rozprawy, to <em>haunting. Ghosting </em>określa w&nbsp;każdym razie zjawisko, które Carlson chce rozumieć jako jedną z&nbsp;najbardziej charakterystycznych cech teatru: nie chodzi tu już o&nbsp;pamięciowe operacje rozpoznawania „czegoś podobnego do”, ale ponowne zjawienie się „tego samego” w&nbsp;odmiennym kontekście. W&nbsp;tym przypadku percepcja przedstawienia opiera się nie na&nbsp;zidentyfikowaniu podobieństwa, lecz identyczności (co w&nbsp;konsekwencji może „w znaczący sposób skomplikować proces odbioru”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>). Autor wskazuje jednocześnie na&nbsp;złożony charakter pracy maszyny pamięci: czasami teatralny recycling zagarnia tylko jeden element dramatu bądź spektaklu, czasami staje się zasadą konstrukcyjną przedstawienia.</p> <p>Teorie amerykańskiego teatrologa dostarczają dogodnych narzędzi do badania pamięciowych uwikłań teatru; wypada jednak wskazać tu również ich słabsze punkty. Przede wszystkim należy zauważyć, że&nbsp;sam mechanizm określany jako <em>ghosting </em>stanowi zaledwie punkt wyjścia do dalszych analiz – z&nbsp;zasady dotyczy bowiem wszystkich utworów teatralnych. Skoro szczególne uwrażliwienie na&nbsp;fluktuacje pamięci zbiorowej zostaje tu wskazane jako „naturalna” cecha teatru, to znaczy, że&nbsp;każde dzieło powinno być rozpatrywane w&nbsp;indywidualnej perspektywie pamięciowych poruszeń, jakie dokonują się za&nbsp;jego sprawą. Sam Carlson zaznacza ponadto, że&nbsp;pamięciowy potencjał spektakli zależy od kulturowych ram, a&nbsp;więc przede wszystkim od tradycji teatralnej, w&nbsp;obrębie której powstały. Formułując tę myśl ujawnia pewien kłopot, który może się wiązać z&nbsp;jego koncepcją – zakłada bowiem pewną symetrię pomiędzy oczekiwaniami widowni a&nbsp;tym, co wyłania się na&nbsp;scenie, co zostaje przywołane z&nbsp;przestrzeni czasu minionego i&nbsp;podlega natychmiastowym transformacjom w&nbsp;momencie zaistnienia.</p> <p>Wydaje się, że&nbsp;w&nbsp;tej perspektywie polskie utwory teatralne początku XXI wieku stanowią przypadek dość szczególny. Produkcje te nie tylko podlegają mechanizmom pamięci zbiorowej, nie tylko wykorzystują złożone modele pamięciowego recyklingu (jak zastosowanie cytatów z&nbsp;innych dzieł i&nbsp;tekstów czy reinterpretacje tradycji), ale przede wszystkim czynią pamięć (w wielu odmianach) przedmiotem scenicznych działań. Jak zauważała Małgorzata Sugiera, „Carlson, zajęty opisem składników teatru jako maszyny pamięci, nie uwzględnił wielu interesujących rozwiązań w&nbsp;tekstach dramatycznych. Rozwiązań służących nie tyle tematyzowaniu przeszłości, ile jej dosłownemu unaocznianiu, stawianiu przed oczami widzów”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. Te rozwiązania, silnie obecne w&nbsp;najnowszym polskim dramacie i&nbsp;teatrze, należą jednocześnie do dosyć złożonego obszaru.</p> <p>Warto tu bowiem podkreślić, że&nbsp;nawet w&nbsp;przypadku utworów przywołujących konkretne wydarzenia historyczne nadrzędną zasadą konstrukcyjną staje się praca nad wydobyciem samego mechanizmu pamięciowych negocjacji. Polski teatr początku XXI wieku obrazuje to, co Sugiera obserwowała na&nbsp;przykładzie szeroko pojętej sztuki współczesnej:</p> <blockquote>W centrum zainteresowania znajdują się teraz sposoby zapamiętywania i&nbsp;formy uprawiania pamięci, czyli źródła, materializacje oraz cele powstawania/produkcji indywidualnych i&nbsp;kolektywnych traum, a&nbsp;także źródła, ikonograficzne schematy oraz ujawniane i&nbsp;– świadomie czy nieświadomie – ukrywane cele ich reprezentacji w&nbsp;sztuce i&nbsp;strategie oddziaływania na&nbsp;odbiorcę<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a>.</blockquote> <p>Najbardziej radykalną odmianą takich procedur stają się w&nbsp;polskim teatrze najnowszym spektakle, które uruchamiają operacje pamięci na&nbsp;podstawie matrycy wykształconej na&nbsp;podstawie konkretnego spektaklu z&nbsp;przeszłości. Potencjał medium zostaje wtedy doprowadzony do skrajnej postaci, dzięki czemu jawna staje się dynamiczna rekonfiguracja ram pamięci.</p> <p>Kluczowa wydaje mi się tu uwaga Grzegorza Niziołka, sformułowana na&nbsp;kartach <em>Polskiego teatru Zagłady</em>:</p> <blockquote>Medium definiowane przez Marvina Carlsona jako maszyna pamięci – teatr – jawi się w&nbsp;jego koncepcji jako zestaw powielanych i&nbsp;kulturowo ustabilizowanych procedur twórczych i&nbsp;percepcyjnych opartych na&nbsp;mechanizmach pamięci i&nbsp;powtórzenia. I&nbsp;jeśli „teatr” rozumiany jako potężny kulturowo instrument ograniczania pola widzialności i&nbsp;dystrybuowania ról był zaangażowany w&nbsp;przeprowadzenie masowej zbrodni, to czy pamięć o&nbsp;tym fakcie nie doprowadziła do rozbicia tradycyjnych wzorców teatralności, przede wszystkim do gwałtownego podważenia bezpiecznej i&nbsp;zewnętrznej pozycji widza?<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a></blockquote> <p>Oczywiście uwaga ta zostaje poczyniona w&nbsp;kontekście określonych badań, w&nbsp;których mechanizmy teatralnego uczestnictwa są nieustannie konfrontowane z&nbsp;postawą polskiego „społeczeństwa gapiów” obserwującego Zagładę. Niziołek, opisując ślady i&nbsp;powidoki tego wydarzenia w&nbsp;polskim teatrze, wskazuje na&nbsp;możliwość destabilizacji pamięciowej maszyny sztuki scenicznej – w&nbsp;momencie szczególnego spięcia pomiędzy teatrem a&nbsp;powrotami wspomnienia o&nbsp;uczestnictwie w&nbsp;specyficznie zdefiniowanej sytuacji społecznej – wytrącenia jej z&nbsp;dotychczasowych kolein.</p> <p>Nie interesuje mnie bezpośrednie przeniesienie rozpoznań pochodzących ze ściśle wytyczonego obszaru badań, ale o&nbsp;zapożyczenie zawartego w&nbsp;nich przeformułowania koncepcji Carlsona. Dzięki takiemu ujęciu teatralne mechanizmy pamięci nie mogą być rozpatrywane w&nbsp;kategoriach obiektywnej zasady. Pracują one bowiem pod&nbsp;nieustannym ciśnieniem przemian w&nbsp;polu pamięci kulturowej, poddając się im i&nbsp;je współtworząc. Oznacza to, że&nbsp;doświadczenia w&nbsp;jakiś sposób przełomowe lub bardzo dla kultury istotne są w&nbsp;stanie zmienić, przełamać, odkształcić ustabilizowany wcześniej wzorzec pracy teatralnych trybów pamięci. Czymś, co wydaje się w&nbsp;takiej sytuacji wyjątkowo interesujące, jest moment powstania uskoku – moment, w&nbsp;którym stary i&nbsp;nowy kształt „maszyny” spotykają się i&nbsp;wchodzą w&nbsp;krytyczne tarcie.</p> <p>Podstawą tego rozregulowania i&nbsp;przekształcenia wcześniej funkcjonujących mechanizmów chciałabym uczynić następujące spostrzeżenie: mechanizm <em>ghosting </em>ulega zmianie, ponieważ w&nbsp;spektaklach tematyzujących poruszenie pamięci zbiorowej na&nbsp;początku XXI wieku spektrum „nawiedzenia” ulega modyfikacji. Scena otwiera się na&nbsp;tematy związane z&nbsp;historią i&nbsp;pamięcią wspólnoty, które dotychczas reprezentowane były w&nbsp;znikomym stopniu, nie podlegały teatralnej dyskusji bądź powróciły do niej po&nbsp;trwającej przynajmniej dekadę przerwie. Co więcej – w&nbsp;wielu przypadkach obserwować można wykształcenie się historii alternatywnych lub potencjalnych, radykalnie przekształcających teatralne operacje pamięci zbiorowej, kierujące je już nie tylko ku przeszłości i&nbsp;teraźniejszości, ale ku przyszłości. Należy jednak podkreślić, że&nbsp;o&nbsp;ile pierwszy ze wskazanych mechanizmów zmiany (wprowadzenie na&nbsp;scenę tematów „źle obecnych”) jest charakterystyczny dla spektakli powstających w&nbsp;Polsce po&nbsp;2000 roku, to ten drugi, związany z&nbsp;zagadnieniami archiwum i&nbsp;utopii, właściwy jest tylko wąskiej grupie spektakli o&nbsp;wyjątkowym stopniu skomplikowania „nawiedzonej struktury” (<em>ghostly tapestry </em>Carlsona).</p> <h2>Obraz pierwszy: pamięć i&nbsp;mitologia wspólnoty</h2> <p>Można jednak ująć całą sprawę nieco przewrotnie i&nbsp;zauważyć, że&nbsp;pamięciowe natężenie w&nbsp;polskim teatrze nie powinno jawić się jako zaskakujące – i&nbsp;to nie tylko ze względu na&nbsp;samo medium. Zwracał na&nbsp;to uwagę Mateusz Borowski w&nbsp;eseju <em>Nakazana przeszłość. Pamięć a&nbsp;historia w&nbsp;polskim teatrze współczesnym</em>:</p> <blockquote>Stopniowo […] na&nbsp;scenie zaczęły się pojawiać coraz liczniejsze obrazy bliższej i&nbsp;dalszej przeszłości, coraz chętniej, choć nie bez problemów pozaartystycznej natury, podejmowano próbę nawiązania żywotnej więzi z&nbsp;narodową przeszłością i&nbsp;jej aktualizowanym czy weryfikowanym obrazem. Twórcy teatru podjęli tym samym próbę powrotu do tej tradycji polskiego teatru, która od dobrych stu lat sytuowała się w&nbsp;czytelnej opozycji do oficjalnych narracji historycznych jako miejsce nowego spojrzenia na&nbsp;odgórnie dekretowaną wizję dziejów, proponując w&nbsp;zamian żywy dialog z&nbsp;duchami przodków. Teatralna scena stać się miała dzięki temu miejscem budowania zbiorowej tożsamości, wyraźnie sytuowanej poza oficjalnymi wersjami opowieści o&nbsp;losach kraju i&nbsp;narodu<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a>.</blockquote> <p>Borowski przypomina kontekst niezwykle istotny, acz niewystarczająco obecny w&nbsp;debatach dotyczących pamięciowego uwikłania najnowszego teatru: przypomina o&nbsp;istnieniu potężnej tradycji, która czyni z&nbsp;pamięci podstawową kategorię rodzimej sztuki scenicznej. Zrozumienie pamięciowego natężenia w&nbsp;najnowszym polskim teatrze domaga się podjęcia wyprawy w&nbsp;„zapomniany wiek XX” (by użyć określenia Tony’ego Judta).</p> <p>Zanim nazwę tę tradycję, chciałabym zaznaczyć jej dwoisty charakter: obejmuje ona bowiem zarówno praktykę sceniczną (i to do niej, w&nbsp;uogólnieniu, odwołuje się Borowski), jak i&nbsp;teoretyczną. Każda z&nbsp;tych praktyk rządzi się swoimi prawami. Pierwszą da się zawrzeć w&nbsp;formie luźnej konstelacji twórców, idei i&nbsp;dzieł; konstelacji wytworzonej niekoniecznie na&nbsp;gruncie świadomych nawiązań, odwołań i&nbsp;kontynuacji, zróżnicowanej, nie do końca spójnej. Druga ma charakter znacznie bardziej porządkujący, w&nbsp;dużej mierze wytwarza obraz pierwszej; ustala go poprzez ustanowienie często arbitralnych powiązań i&nbsp;matryc interpretacyjnych (włącza w&nbsp;ten obraz zjawiska niekoniecznie sobie bliskie). Tu przede wszystkim interesuje mnie szczególna postać tradycji ustanowionej na&nbsp;gruncie praktyki teoretycznej, którą można określić jako złożoną propozycję badawczą usytuowaną na&nbsp;przecięciu kilku dyscyplin: teatrologii, antropologii teatru i&nbsp;performatyki.</p> <p>Trudno jednak uniknąć zmierzenia się z&nbsp;samym pojęciem „tradycji” – chociażby z&nbsp;tego względu, że&nbsp;jej definicje i&nbsp;ich przemiany wyznaczają jedną z&nbsp;najważniejszych osi dyskusji o&nbsp;współczesnym polskim teatrze. Chciałabym odwołać się do koncepcji Mieke Bal, która zauważyła, że&nbsp;„tradycja nie jest narzędziem analizy, nie jest miniteorią, która pomaga nam rozumieć przedmiot artystyczny. Przypomina raczej ideologię, pojęcia mają bowiem ten wątpliwy aspekt”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. Charakteryzując „tradycję” w&nbsp;ten sposób, Bal nie odbiera jej jednak możliwości wędrówki, a&nbsp;więc takiego toku przemieszczeń i&nbsp;odkształceń, w&nbsp;którym ujawnia się nie tyle teoretyzujący potencjał pojęcia, ile jego szczególne uwikłanie (a raczej uwikłanie wszystkich – analityków, teoretyków, artystów) – w&nbsp;tradycje różnego rodzaju. Tak też chciałabym się odnieść nie tylko do tradycji polskiego teatru (a raczej owej tradycji rzekomo najbardziej „tradycyjnej”, o&nbsp;której za&nbsp;chwilę), ale i&nbsp;do towarzyszącej jej (czy też ją po&nbsp;części wytwarzającej) tradycji badawczej. Nie jest moją intencją całkowite jej zanegowanie, lecz raczej odniesienie do inaczej wytyczonych pól społecznych i&nbsp;teatralnych podziałów, wskazanie na&nbsp;określone przemieszczenia i&nbsp;uwarunkowania wobec praktyki scenicznej. Chciałabym wykazać, w&nbsp;jaki sposób tradycja ta warunkuje (może też częściowo – blokuje) dyskusję o&nbsp;pamięci zbiorowej w&nbsp;kontekście teatru. Najważniejsze wydaje mi się tu ujawnienie jej jako niewidzialnego aktora współczesnych debat, którego widzialność osiągnąć da się jedynie poprzez zabieg odpodobnienia, denaturalizacji.</p> <p>Zacznę od uwagi Leszka Kolankiewicza: „Niepodobna pojąć sztuki teatru, jeśli nie ma się ucha dla historyjek o&nbsp;duchach powracających, bo&nbsp;teatr jest przecież, choćby w&nbsp;dalekim sensie, wywoływaniem duchów”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Tradycja, o&nbsp;której będę tu pisać, ma wiele imion – zależą one od dominanty wprowadzanej przez zajmującego się nią badacza – jednak w&nbsp;najprostszym, uogólniającym geście da się ją sprowadzić do „wywoływania duchów” właśnie: duchów rozmaicie pojętych i&nbsp;nazwanych. Wywoływanych jednak, co warto podkreślić, wspólnie, w&nbsp;obrębie praktyki obejmującej interakcje pamięci indywidualnej i&nbsp;kulturowej, uwikłanej w&nbsp;dwuznaczne zależności pomiędzy „kanonem” a&nbsp;„archiwum”.</p> <p>Dariusz Kosiński w&nbsp;monumentalnej książce <em>Teatra polskie. Historie</em> podjął się zarysowania tradycji, o&nbsp;której tu mowa, nie odżegnując się jednak od pewnych kłopotów klasyfikacyjnych. Całość jego propozycji mieści się w&nbsp;formule (zaczerpniętej od Wyspiańskiego), będącej tytułem drugiej części jego dzieła: <em>Teatr na&nbsp;drodze przez...</em>, co nadaje jej od razu określony charakter długotrwałego procesu, niejednolitej przygody wiodącej różnymi szlakami, ufundowanej jednak na&nbsp;pewnych wspólnych podstawach. Opisywana tu konfiguracja zostaje uchwycona w&nbsp;pewnej nieprzejrzystości; pozostaje, według autora, „dla nas samych jakąś dziwną, nieznaną zagadką. Nie potrafimy sobie do końca zdać sprawy z&nbsp;tego, czym ona jest, co łączy jej – tak przecież różnorodne i&nbsp;odmienne – przejawy i&nbsp;realizacje”<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>.</p> <p>Pierwszą cechą dystynktywną tej tradycji byłaby więc jej „rdzenność”. Powołując się na&nbsp;określenie Małgorzaty Dziewulskiej, Kosiński zajmuje się „czysto polską odmianą myślenia o&nbsp;teatrze”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>, która „obejmuje najważniejsze i&nbsp;najbardziej oryginalne zjawiska w&nbsp;polskiej kulturze”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Lokalność ta zostaje tu obdarzona szczególną wagą, staje się czymś, co wyróżnia polski teatr na&nbsp;tle innych (zwłaszcza teatru euroamerykańskiego), a&nbsp;jednocześnie radykalnie go od nich odróżnia, jednak bez rezygnacji z&nbsp;uczestnictwa w&nbsp;przedsięwzięciu szerszej natury – procesie „podnoszenia polskiego do ogólnoludzkiego”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. Kategoria polskości uwikłana jest tu w&nbsp;paradoksalny ruch teatralnych procedur, które nie chcą wyrzec się lokalności ani porzucić roszczeń do jej przekroczenia. Tradycja, o&nbsp;której tu mowa, sytuuje się więc w&nbsp;samym centrum problemów właściwych latom 90., związanych z&nbsp;negocjacją polskiej tożsamości na&nbsp;tle tożsamości krajów uznawanych za&nbsp;lepiej rozwinięte.</p> <p>Drugą kwestią, o&nbsp;której chciałabym tu wspomnieć, jest szczególne przesunięcie związane z&nbsp;kategoriami mainstreamu i&nbsp;dyskursów peryferyjnych. Kosiński ujmuje całą rzecz dobitnie: „Tradycja ta widziana jest bowiem wciąż jako ciąg działań lokowanych po&nbsp;stronie «innego teatru»: pogranicznych, niszowych, parateatralnych, pararytualnych i&nbsp;tak dalej”<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. Uznając ją za&nbsp;„rdzeń polskiej tradycji teatralnej”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>, przypomina o&nbsp;jej ambiwalentnym statusie i&nbsp;ambiwalentnej relacji wobec hierarchii oraz pola instytucjonalnej władzy. Postuluje (ujawniając przy okazji konfigurację twórców, których uważa za&nbsp;najważniejszych w&nbsp;tym kontekście):</p> <blockquote>Czas najwyższy skończyć z&nbsp;tym dziwacznym stawianiem spraw na&nbsp;głowie oraz powiedzieć głośno i&nbsp;wyraźnie: teatr polski to w&nbsp;pierwszej kolejności teatr Mickiewicza, Słowackiego, Wyspiańskiego, Osterwy, Limanowskiego, Grotowskiego, Kantora i&nbsp;Staniewskiego (by wymienić tylko postacie najbardziej znane i&nbsp;najbardziej oczywiste)<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a>.</blockquote> <p>To przesunięcie wiąże się i&nbsp;z „rdzennością”, i&nbsp;z rangą, jaką jej się przypisuje. Jak pisze Kosiński:</p> <blockquote>Sądzę, że&nbsp;na początek warto przywrócić naszej opowieści właściwe proporcje i&nbsp;przestać się tak bardzo ekscytować zjawiskami o&nbsp;zasięgu historycznym i&nbsp;lokalnym, jednocześnie jakoś wstydliwie ukrywając te nasze rodzime egzotyzmy, wyrastające z&nbsp;tradycji wiejskich i&nbsp;peryferyjnych, dalekie w&nbsp;swoim ubóstwie, biedocie i&nbsp;dziadostwie od blichtru europejskich salonów<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a>.</blockquote> <p>Podobną myśl sformułował Leszek Kolankiewicz, badając tę tradycję w&nbsp;perspektywie antropologii teatru:</p> <blockquote>Teoria teatru nie może u&nbsp;nas odwracać się plecami do teatru Kantora czy teatru Grotowskiego. […] Nawet gdybyśmy w&nbsp;europejskich porównaniach ze słodką Francją i&nbsp;wesołą Anglią mieli z&nbsp;naszym teatrem zmarłych wyjść na&nbsp;barbarzyńców. Nie bójmy się tego – będziemy w&nbsp;towarzystwie Greków. Bo&nbsp;to właśnie w&nbsp;naszym teatrze osobnym jest obecny Dionizos<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a>.</blockquote> <p>Blichtr i&nbsp;słodka Francja; „dziadostwo” i&nbsp;umarli – polski teatr zostaje tu ulokowany w&nbsp;punkcie radykalnej różnicy wobec teatrów Zachodu. Podstawową kategorią, wokół której konstruuje się tak rozumianą obcość, jest opozycja kultury wiejskiej i&nbsp;wysoko zurbanizowanej; cywilizacji i&nbsp;źródłowości (która sytuuje Polskę w&nbsp;kontrze do „starej Europy”, jednocześnie zbliżając ją do korzeni europejskiej kultury).</p> <p>Warto tu od razu wtrącić pewną uwagę. Jak zauważa Jan Sowa, binarne rozróżnienia tego typu (są to u&nbsp;niego między innymi pary „Wschód – Zachód”, „instytucja – dzikość”) mogą „istnieć tylko dlatego, że&nbsp;oba człony mają czysto fantazmatyczną zawartość: nie opisują żadnego stanu rzeczywistego i&nbsp;odpowiadają jedynie obecnemu po&nbsp;obu stronach pragnieniu określonej percepcji samego siebie oraz innego. A&nbsp;jednak te fałszywie zdefiniowane opozycje tożsamościowe działają i&nbsp;dlatego są rzeczywiste; oczywiście w&nbsp;sensie kulturowym, bo&nbsp;w&nbsp;kulturze rzeczywiste jest to, co ludzie uznają za&nbsp;takie właśnie”<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. Diagnozy te sytuują kwestię tradycji w&nbsp;szerszym kontekście. Jeżeli teatr uwikłany zostaje w&nbsp;teorie oparte na&nbsp;pojęciach „rdzenności” i&nbsp;„lokalności”, rozgrywane w&nbsp;fantazmatycznej przestrzeni opozycji, to znaczy że&nbsp;lokuje się w&nbsp;polu kulturowego kłopotu, nazwanego przez Sowę problemem „szarego pasa, którego definicja i&nbsp;habitus wymykają się czarno-białym kategoryzacjom”<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>. Szary pas to europejskie państwa istniejące pomiędzy „dobrze określonymi biegunami Zachodu i&nbsp;dwóch rodzajów Wschodu – Rosji jako «Wschodu europejskiego» oraz Orientu jako «Wschodu obcego»”<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>; państwa, które (w efekcie swoistości rozwoju) „sprawiają wrażenie, jakby nie mogły się do końca wydarzyć”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>, toteż nieustannie absorbują swoje kulturowe procedury oglądaniem się na&nbsp;„idealnego Innego”, ale też próbują przekonać same siebie, że&nbsp;ich lokalności mogą zostać podniesione do rangi Uniwersalnego. Teatr, jako część tych procesów, bierze więc udział w&nbsp;skomplikowanej negocjacji „polskiej formy” z&nbsp;kształtem nowoczesności.</p> <p>W świetle cech dystynktywnych interesującej mnie tu tradycji staje się jasne, że&nbsp;chodzi o&nbsp;tradycję romantyczną – jednak takie postawienie sprawy nie do końca rozjaśnia problem. Mowa tu raczej o&nbsp;tradycji badawczej, która obejmuje kompleks propozycji teoretycznych wyrastających z&nbsp;teatralnych rozpoznań polskiego romantyzmu. Przybiera ona wiele imion, między innymi „teatru Dionizosa” (Zbigniew Osiński), „projektu Dziady” (Leszek Kolankiewicz), „teatru przemiany” (Dariusz Kosiński); każda z&nbsp;tych odmian jest nieco inną konfiguracją, eksploatującą odrębnie zakreślony obszar tematyczny. Kosiński w&nbsp;<em>Teatrach polskich </em>dokonuje syntezy tych teoretycznych podzespołów i&nbsp;klarownie wykłada cechy, które uznaje za&nbsp;wspólne dla teatru twórców, którzy w&nbsp;konsekwencji ruchu krytycznego zostają włączeni w&nbsp;tradycję wywodzącą się z&nbsp;pewnej wariacji romantyzmu. Ich artystyczną stawkę definiuje następująco:</p> <blockquote>Głównym celem nie jest tworzenie dzieł sztuki danych do smakowania i&nbsp;estetycznej kontemplacji, lecz ingerencja – także artystyczna – w&nbsp;życie, stawiane przez nie pytania, kształtowanie jego przejawów i&nbsp;rządzących nimi hierarchii wartości, a&nbsp;nawet – o&nbsp;śmiałości! – dążenie do wyjawienia lub ustanowienia jego sensu<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a>.</blockquote> <p>To rozpoznanie zostaje uzupełnione uwagą o&nbsp;podstawowym znaczeniu: teatr, postrzegany tu jako sposób działania prowadzący do zmiany rzeczywistości,</p> <blockquote>ma charakter transgresywny, lokuje się w&nbsp;pobliżu poszukiwań religijnych, niekiedy wręcz dążąc do zaspokojenia potrzeb duchowych lub spełnienia funkcji kultowych, z&nbsp;różnych względów – również osobistych – niemożliwych do podjęcia i&nbsp;realizacji w&nbsp;istniejących i&nbsp;oficjalnie akceptowanych formach życia religijnego<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a>.</blockquote> <p>Traktując rzecz redukcjonistycznie, można stwierdzić, że&nbsp;najważniejszą cechą omawianej tu tradycji badawczej i&nbsp;wytworzonej przez nią konfiguracji dzieł artystycznych jest wywiedzenie ich z&nbsp;projektu zapisanego na&nbsp;kartach Mickiewiczowskich <em>Dziadów. </em>Właściwie każdy wątek będący główną osnową indywidualnych propozycji badawczych zawiera się w&nbsp;romantycznym arcydramacie. Zasada ta została najpełniej wyzyskana przez Leszka Kolankiewicza w&nbsp;<em>Teatrze święta zmarłych</em>, i&nbsp;stała się podstawą autorskiej koncepcji „Dziadów bez kursywy”, jednak Dariusz Kosiński, tworząc syntezę dziejów polskiego teatru, bardzo często przywołuje ten kontekst i&nbsp;rozszerza go na&nbsp;całość lokalnej tradycji. Zauważa:</p> <blockquote>[Wędrówka] po&nbsp;dziejach rdzennej tradycji polskiej nie może się rozpocząć inaczej niż od jej matecznika i&nbsp;źródła, czyli Dziadów Adama Mickiewicza. Nie wiem, czy jest jakaś inna europejska kultura teatralna, której tożsamość w&nbsp;taki sposób zostałaby określona i&nbsp;naznaczona przez jedno dzieło. Ale też mało jest dzieł teatralnych tak złożonych i&nbsp;bogatych, jak ten nasz arcydramat, w&nbsp;którym znajdują swoje zarysy i&nbsp;początki niemal wszystkie najważniejsze nurty polskiego teatru, łącznie z&nbsp;najbardziej nowoczesnymi i&nbsp;awangardowymi<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a>.</blockquote> <p>Co więcej, autor <em>Teatrów polskich </em>dokonuje rozpoznania jeszcze bardziej ważkiego. Opisując artystyczne działania oparte na&nbsp;strukturze przemiany, stwierdza: „Tekstem objawionym dla romantycznej duchowości polskiej stał się tekst przeznaczony dla teatru. Tym samym właśnie teatr wybrany został niejako na&nbsp;miejsce dopełnienia i&nbsp;realizacji aktu zapisanego i&nbsp;niedokończonego w&nbsp;<em>Dziadach</em>”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>. Teatr staje się więc miejscem uprzywilejowanym w&nbsp;kontekście polskiej duchowości. Wydaje się, że&nbsp;uwagę Kosińskiego można rozwinąć i&nbsp;poszerzyć – gdy weźmiemy pod&nbsp;uwagę potężną rolę tradycji romantycznej, teatr staje się w&nbsp;istocie uprzywilejowanym miejscem prowadzenia wszelkich negocjacji, których dokonuje wywiedziona z&nbsp;romantycznego ducha wspólnota. Ponowne przywołanie tez Carlsona o&nbsp;szczególnym związaniu teatralnego medium z&nbsp;mechanizmami pamięci, pozwala stwierdzić, że&nbsp;uprzywilejowanym obszarem tych negocjacji staje się pamięć zbiorowa. Polska tradycja romantyczna, najpełniej objawiająca się za&nbsp;sprawą mechanizmów dramatyzacji, sprawia, że&nbsp;polska wspólnota podejmuje niezwykle aktywne działania pamięciowe i&nbsp;rozpoznaje sama siebie dzięki pracy pamięci i&nbsp;zapomnienia. Oczywiste jest, że&nbsp;tak określona sytuacja wynika z&nbsp;okoliczności kulturowych i&nbsp;historycznych, które znajdują odbicie w&nbsp;projekcie Mickiewicza, wzmocnionym dodatkowo obrzędową konstrukcją wpisaną w&nbsp;<em>Dziady</em>. W&nbsp;tym kontekście najistotniejsze staje się silne związanie funkcjonowania pamięci w&nbsp;teatrze z&nbsp;tradycją romantyczną i&nbsp;wynikający z&nbsp;tego konflikt z&nbsp;nowoczesnością. Projekt wspólnoty, która w&nbsp;obronnym, integrującym geście podtrzymuje ciąg mnemonicznych powtórzeń dokonywanych, co ważne, w&nbsp;rejonach bliskich religii, wchodzi w&nbsp;kolizję z&nbsp;historią i&nbsp;jej mechanizmami. To pierwszy obraz polskiego teatru jako medium pamięci, który mnie tu zajmuje.</p> <p>W <em>Dziadach. Teatrze święta zmarłych</em> Kolankiewicz uruchamia imponującą machinę badawczą i&nbsp;analityczną – prowadząc czytelnika przez meandry teatrologii, antropologii widowisk, etnografii, literaturoznawstwa i&nbsp;religioznawstwa, kreśli obraz szczególnej przygody polskiej kultury. Badania Kolankiewicza nad Mickiewiczowskimi <em>Dziadami</em> mają w&nbsp;jego zamierzeniu nie tylko dostarczyć kontekstu dla wydobycia „pewnej szczególnej nici dokonań w&nbsp;historii teatru polskiego w&nbsp;wieku XX – od Stanisława Wyspiańskiego do Jerzego Grzegorzewskiego”<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>, ale przede wszystkim odsłonić, poprzez dzieło poety, warstwę „kumulującą energie, zdolne uczynić ten czy tamten dramat metakomentarzem do historii społecznej”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>. Tym metakomentarzem „stał się w&nbsp;kulturze polskiej projekt, który będzie tu nazywany Dziadami, pisanymi jednak – dla odróżnienia od arcydramatu – bez kursywy”<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>. Podstawową rolę w&nbsp;tych rozważaniach odgrywa II część <em>Dziadów </em>i wywiedzione z&nbsp;niej związki teatru z&nbsp;obrzędem. Kontekst obrzędowy z&nbsp;pewnością nie jest dogodny dla badania każdego typu dzieł scenicznych – Kolankiewicz zauważa jednak:</p> <blockquote>[Kiedy mowa] o&nbsp;<em>Dziadach</em> i&nbsp;dramatach im pokrewnych, jak <em>Wesele</em>, rozważanie stosunku teatru do obrzędu wydaje się – z&nbsp;powodu wyrażonych intencji twórców, a&nbsp;przede wszystkich samych utworów – nieuniknione i&nbsp;wręcz nieodzowne. Archetyp obrzędowy jest tu bowiem zarysowany wyraźnie: żywi przywołują na&nbsp;zgromadzenie duchy z&nbsp;zaświatów. Taki właśnie miałby też być archetyp obrzędowy teatru greckiego<a href="#sdfootnote32sym" name="sdfootnote32anc"><sup>32</sup></a>.</blockquote> <p>Paralela grecka, którą posługuje się autor, ma dla całej książki znaczenie najważniejsze. Z&nbsp;jednej strony otwiera ona perspektywę, w&nbsp;której „podłożem obrzędów prototeatralnych jest zawsze kult zmarłych”<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>, z&nbsp;drugiej – otwiera polski teatr na&nbsp;dionizyzm. Dzieje się tak nie tylko w&nbsp;efekcie misternie snutych rozważań kojarzących obrzędy Słowian z&nbsp;greckim kultem zmarłych, ale również rozpoznania w&nbsp;Konradzie, „bohaterze Polaków”, „herosa kulturowego, odpowiednika herosa Dionizosa w&nbsp;polskiej mitologii kultu zmarłych, męskiego partnera czczonej tu chętnie boskiej postaci macierzyńskiej”<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>.</p> <p>Przestrzeń kulturowa, w&nbsp;której rodzi się projekt Kolankiewicza, jest przestrzenią nawiedzenia, nieustannego przekraczania barier między światami:</p> <blockquote>W powietrzu albo w&nbsp;pamięci jest jeszcze zawsze pełno innych postaci, uwolnionych, luźnych. Są to duchy zmarłych albo postacie teatralne. Człowiek zawsze je może wziąć z&nbsp;powietrza i&nbsp;ucieleśnić. Tak czyni w&nbsp;kulcie zmarłych i&nbsp;w teatrze. Tu leży źródło może najgłębszej nostalgii, jakiej doznajemy jako uczestnicy przedstawień. Czym byłoby życie społeczne bez takich świąt pamięci?<a href="#sdfootnote35sym" name="sdfootnote35anc"><sup>35</sup></a></blockquote> <p>W jego ujęciu <em>Dziady </em>dostarczają potężnej matrycy dla zasady wspólnotowej: nieustannej konfrontacji z&nbsp;żywą pamięcią, zadusznym świętem, które, choć przywołuje umarłych, dostarcza wspólnocie napędu do nieustannego trwania. Podstawowym motorem książki Kolankiewicza – wynikającym bezpośrednio z&nbsp;historii Dionizosa i&nbsp;archetypu życia niezniszczalnego – jest bowiem wprowadzenie obrzędowej gromady w&nbsp;przestrzeń mitu opartego na&nbsp;nieustannym procesie odradzania się. Medium teatru staje się w&nbsp;tym ujęciu najważniejszym zwornikiem polskiej wspólnoty, a&nbsp;mechanizm poruszający pamięcią zbiorową – poruszeniem ożywczym, nieomal zbawczym. „Nie o&nbsp;to chodzi, żebyśmy się rozkoszowali tekstem” – pisze Kolankiewicz – „idzie o&nbsp;coś ważniejszego – żeby opowiedziano nam mit. Mit żywy i&nbsp;skuteczny, czyli scalający”<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>. Logika mitu zostaje odnaleziona na&nbsp;teatralnej scenie ufundowanej Mickiewiczowskim gestem. Świetnie oddaje to przywoływana przez badacza formuła Dobrochny Ratajczakowej: „Mickiewiczowskie «drzwi śmierci» oznaczają nie tylko wieczne odejście, ale i&nbsp;wieczny powrót – dzięki sztuce teatru i&nbsp;poprzez sztukę teatru. W&nbsp;sztuce teatru”<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>.</p> <p>Obecna w&nbsp;<em>Dziadach </em>struktura mityczna sprawia, że&nbsp;scenariusz teatralny Mickiewicza pozostaje „niezniszczalny i&nbsp;wiecznie płodny”<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>, kulturowo trwały niezależnie od epoki, społecznego i&nbsp;politycznego kontekstu. Stąd powoływana przez Kolankiewicza konstelacja polskich twórców teatralnych, związanych z&nbsp;tak wytyczonym projektem, może być traktowana w&nbsp;kategoriach pozahistorycznych (co nie oznacza oczywiście braku uwrażliwienia na&nbsp;historyczny kontekst ich dzieł), również bez podziału na&nbsp;„epoki” wyznaczające kolejne, często bardzo od siebie odmienne, etapy pracy tych artystów. Kantor, Grotowski, Grzegorzewski, Białoszewski i&nbsp;Staniewski uczestniczą w&nbsp;kulturze, dla której „<em>Dziady </em>Mickiewicza są quasi-sakralnym tekstem – projekt kulturowy Dziady to polski analogon dionizyzmu”<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>. W&nbsp;przełożeniu na&nbsp;język nauk o&nbsp;pamięci teorie Kolankiewicza oznaczałyby taki ruch w&nbsp;zbiorniku pamięci magazynującej, który uzupełnia pamięć funkcjonalną (a więc związaną z&nbsp;oficjalnymi wersjami historii, to znaczy także z&nbsp;kanonami władzy) o&nbsp;elementy, które są w&nbsp;stanie dostarczyć wspólnocie narzędzi do nieustannego podtrzymywania spójności, trwania i&nbsp;pełni<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup>. To charakterystyczne, że&nbsp;nawet w&nbsp;przypadku Tadeusza Kantora, którego praca przepełniona jest upiorami przeszłości, czy też zrywającego porozumienie z&nbsp;widownią Jerzego Grzegorzewskiego, Kolankiewicz zajmuje niewzruszone stanowisko: mieszczą się oni w&nbsp;modelu wszystkożernego mitu, który modyfikuje pamięć – tym razem pamięć polskiego teatru i&nbsp;jej historyka – w&nbsp;taki sposób, aby nawiedzenie romantyzmem okazywało się dominujące. Podobną postawę przyjmuje zresztą w&nbsp;stosunku do III części <em>Dziadów –</em> przywołując jej szczególną cechę, jaką jest związanie planu mitycznego z&nbsp;planami realnych, traumatyzujących wspólnotę doświadczeń historycznych, usuwa te drugie w&nbsp;cień, i&nbsp;koncentruje rozważania na&nbsp;paradygmacie zadusznym.</p> <p>Należy wskazać pewną cechę dystynktywną tej tradycji – szczególnie istotną w&nbsp;kontekście przemian w&nbsp;polskim teatrze XXI wieku. Chodzi o&nbsp;szczególną relację pomiędzy pamięcią a&nbsp;historią. Wydaje się, że&nbsp;romantyczna tradycja wywiedziona z&nbsp;„matecznika <em>Dziady</em>” podkreśla rozbieżność między nimi. Leszek Kolankiewicz pisał:</p> <blockquote>Jest jakaś istotna niezgodność między historią a&nbsp;teatrem. Teatr pomyślany został bowiem jako komentarz do życia, chwilowe zatrzymanie i&nbsp;odegranie życia, przeciwstawienie się przemijaniu. U&nbsp;źródeł jest takim przeciwstawieniem w&nbsp;sensie najdosłowniejszym i&nbsp;najmocniejszym, ponieważ jego prototypem są obrzędy kultu zmarłych, które nieodwracalność przemijania unieważniają przez wywoływanie cieni z&nbsp;zaświatów. Antropolog, poszukując tego, co inwariantne, każe zamrzeć historii; dlatego może antropologia lepiej zgadza się z&nbsp;teatrem<a href="#sdfootnote41sym" name="sdfootnote41anc"><sup>41</sup></a>.</blockquote> <p>Obrazy zatrzymania, wyjścia poza czas historyczny to podstawowe imaginarium <em>Teatru święta zmarłych</em>. Przywoływane są, w&nbsp;antropologicznym ruchu balansowania pomiędzy kulturami, z&nbsp;najrozmaitszych porządków. Kolankiewicz tropi je w&nbsp;obrazie „stojącego w&nbsp;środku świata” z&nbsp;gnostyckiej <em>Ewangelii Tomasza</em>, w&nbsp;teologicznym toposie „nieporuszonego ruchu”, w&nbsp;działaniach szamana z&nbsp;pism Carlosa Castanedy. Obrazy te pojawiają się tak licznie, ponieważ:</p> <blockquote>Według religii misteryjnych dopiero postać mityczna miałaby być prawdziwą postacią człowieka. Żeby ją przeczuć, trzeba wydostać się z&nbsp;potoku czasu – jak zamarła tyjada, jak oniemiały widz. Wywodzący się z&nbsp;dionizyzmu teatr jest – dzięki swej radykalnej fikcyjności – urządzeniem służącym do budzenia takich przeczuć<a href="#sdfootnote42sym" name="sdfootnote42anc"><sup>42</sup></a>.</blockquote> <p>Wyodrębniona przez Kolankiewicza konstelacja dwudziestowiecznych twórców i&nbsp;dzieł teatralnych rozpatrywana jest w&nbsp;tych właśnie ramach – chociaż można przecież dyskutować z&nbsp;zasadnością tej diagnozy (zwłaszcza w&nbsp;przypadku Białoszewskiego, Kantora czy Grzegorzewskiego, których niewątpliwe związki z&nbsp;<em>Dziadami </em>nie muszą oznaczać łączności z&nbsp;projektem Dziady). Tym, co wydaje się tu najważniejsze w&nbsp;perspektywie prowadzonych przeze mnie rozważań, jest wyłaniająca się z&nbsp;pism Kolankiewicza, a&nbsp;reprezentatywna dla całej przywoływanej tu polskiej tradycji badawczej (związanej z&nbsp;„projektem Dziady” i&nbsp;modelem „teatru przemiany”, z&nbsp;ducha romantycznej), wizja teatru jako pamięciowej maszyny stabilizującej doświadczenie wspólnoty poprzez paradoksalne wypchnięcie, w&nbsp;obronnym ruchu, doświadczenia historycznego, a&nbsp;raczej poddanie go ciśnieniu mitu, podporządkowaniu jego strukturom i&nbsp;trybom. Głównym widmem nawiedzającym polski teatr okazywałby się w&nbsp;tym ujęciu sam romantyzm. Carlsonowski <em>ghosting </em>oznaczałby wówczas nieustanny powrót tego samego w&nbsp;ujednoliconym poznawczym paradygmacie polskiego kodu romantycznego – powrót tych samych elementów symbolicznego rekwizytorium, które nie mogą zostać umieszczone w&nbsp;innym kontekście.</p> <p>Tak zarysowany obraz teatru jako medium pamięci wchodzi w&nbsp;intensywne krytyczne tarcie z&nbsp;polską praktyką sceniczną początku XXI wieku. Ta praktyka przynosi ze sobą teatr, który w&nbsp;jakiś sposób zgadza się z&nbsp;historią: poddaje się jej (historii rozumianej jako bieg dziejów), sprzęga ją z&nbsp;pamięcią (historię rozumianą jako procedura poznania przeszłości), rozregulowuje swoje mitotwórcze mechanizmy, tematyzuje i&nbsp;przerabia poza uniwersalizującym kanonem. Oczywiście nie oznacza to, że&nbsp;podobnej diagnozy nie można postawić w&nbsp;przypadku przywoływanych przez Kolankiewicza twórców spektakli dwudziestowiecznych (Kantora czy Grotowskiego). Nie oznacza to również, że&nbsp;romantyczny tryb pamięciowej machiny został w&nbsp;polskim teatrze całkowicie wyłączony – wydaje się, że&nbsp;wciąż silnie pracuje, choć w&nbsp;nieco zmienionych warunkach.</p> <p>Podstawową kategorią romantycznej tradycji polskiego teatru jest wspólnota, która uwalnia się od ewokowanego przez historię cierpienia dzięki uczestnictwu w&nbsp;obrzędach ukonstytuowanych na&nbsp;łączności z&nbsp;przeszłością, prowadzących do przywrócenia pełni (czyli: pełni wspólnotowej tożsamości). Operacje prowadzone na&nbsp;pamięci zbiorowej stają się więc, paradoksalnie, cząstkowe i&nbsp;pozorne; pełnia (osiągana przez wspólnotę przez uczestnictwo w&nbsp;micie) kształtuje się dzięki wykluczeniu (realnego doświadczenia historycznego i&nbsp;związanych z&nbsp;nim podziałów wewnątrz wspólnoty). Zantagonizowanie pamięci zbiorowej i&nbsp;historii jawi się bowiem jako projekt z&nbsp;gruntu nienowoczesny – bo&nbsp;dążący do zatarcia napięć kształtujących współczesne społeczeństwa. Dzieje się tak, ponieważ pamięć zbiorowa zostaje tu zestawiona z&nbsp;mitem – a&nbsp;związki między tymi dwiema kategoriami są zawiłe i&nbsp;niebezpieczne (mit łatwo unieważnia egzystencjalny konkret, który towarzyszy nawet najsilniej skonstruowanym i&nbsp;zapośredniczonym formom pamięci kulturowej).</p> <p>Mieke Bal, powołując się na&nbsp;tom pod&nbsp;redakcją Erica Hobsbawma i&nbsp;Terence’a Rangera, pisze:</p> <blockquote>W <em>Tradycji</em> wynalezionej argumentuje się, że&nbsp;tradycje są z&nbsp;natury konserwatywne i&nbsp;nie mają podstaw w&nbsp;rzeczywistości kulturowej. Są sztucznie podtrzymywane, służą wątpliwym celom politycznym i&nbsp;tłamszą alternatywne tradycje. Nie są śladami przeszłości, które należy cenić z&nbsp;nostalgiczną tęsknotą: tradycje to wynalazki, fikcje ciągłości, niezbędne koncepcje historii jako rozwoju czy postępu<a href="#sdfootnote43sym" name="sdfootnote43anc"><sup>43</sup></a>.</blockquote> <p>Takie radykalne ujęcie pozwala dostrzec pewne paradoksalne cechy polskiego teatru jako medium pamięci. Romantyzm, najpotężniejszy gwarant polskiej ciągłości kulturowej, na&nbsp;gruncie teatralnym wytworzył tradycję, która funkcjonowała – nawet już po&nbsp;przesunięciu się do centrum, blisko pola władzy – jako formacja „alternatywna” (zarówno wobec władzy, jak i&nbsp;teatru instytucjonalnego głównego nurtu). Tymczasem warto tu wskazać na&nbsp;szczególną zmianę: sama myśl romantyczna, oparta na&nbsp;bezpośredniej łączności z&nbsp;przeszłością, wiązana z&nbsp;narracjami przeciwstawiającymi się dyskursom władzy, ujawniła swoją podatność na&nbsp;wchodzenie z&nbsp;owymi dyskursami w&nbsp;niebezpieczne związki – już po&nbsp;przełomie roku 1989. Najsilniej można było zaobserwować tę sytuację po&nbsp;katastrofie smoleńskiej, kiedy to romantyczny język znów doszedł do głosu, stając się podstawowym językiem symbolicznym używanym przez niektóre frakcje polityczne do opisu sytuacji w&nbsp;kraju i&nbsp;na świecie.</p> <p>Romantyzm obrzędu, romantyzm kultury „przodków” ujawnił w&nbsp;kontekście XXI wieku podatność na&nbsp;polityczne uwikłania związane z&nbsp;polem władzy – i&nbsp;stracił przez to niewinność wspólnotowego wszech-mitu. Nie jest moją intencją formułowanie jakichkolwiek ocen tych przemian – należy jednak podkreślić, że&nbsp;społeczny metakomentarz Dziadów okazał się wrażliwym instrumentem dyskursywnej fuzji, negocjowanej pomiędzy grupą społecznie wykluczonych obywateli (wykluczonych w&nbsp;wyniku długotrwałych procesów transformacji ustrojowej) a&nbsp;częścią instytucji władzy. W&nbsp;takim kontekście kategoria <em>communitas </em>staje się trudna do utrzymania – jakiekolwiek związki z&nbsp;władzą i&nbsp;instytucją przenoszą dyskusję automatycznie w&nbsp;obszar <em>societas</em> oraz uwikłań i&nbsp;problemów wynikających z&nbsp;tej kategorii. Z&nbsp;drugiej strony – teatralna dyskusja nad tym, co wspólne, została osadzona w&nbsp;samym centrum teatru instytucjonalnego głównego nurtu i&nbsp;straciła swój osobny status. „Święta pamięci” przestały rozgrywać się „poza cerkwią, poza dworem”.</p> <p>Teatr, jako niezawodny instrument poruszeń pamięci kulturowej, musiał w&nbsp;końcu ujawnić to oddalenie się od mitu obrzędowej, transgresywnej wspólnoty na&nbsp;początku XXI wieku. Wymownym tego świadectwem stał się nie tylko cały korpus spektakli realizowanych na&nbsp;podstawie nowych utworów dramatycznych bądź scenariuszy dla teatru, ale też szczególne uderzenie w&nbsp;samą matrycę stworzoną przez Mickiewicza. Bywa, że&nbsp;romantyczny wzorzec powtarza się jako farsa, pusta formuła, której charakter ujawnia się pod&nbsp;wpływem historycznej nadwyżki. Romantyczny obraz pamięci w&nbsp;polskim teatrze pracuje więc w&nbsp;początkowych latach XXI wieku w&nbsp;szczególnej asynchronii: nałożenia dwudziestowiecznej formacji badawczo-krytycznej na&nbsp;praktykę, która nie tylko dąży do wypracowania alternatywnych form „pamiętania o&nbsp;pamiętaniu”, ale także bardzo często narusza podstawowe zworniki romantycznej struktury.</p> <h2>Obraz drugi: wspólnota w&nbsp;czasach katastrofy</h2> <p>Zmianę, jaka dokonuje się w&nbsp;polskim teatrze na&nbsp;przełomie XX i&nbsp;XXI wieku można zatem rozumieć w&nbsp;kategoriach innych niż przejście od paradygmatu „indywidualistycznego” ku kategoriom „wspólnotowym”. Akcent należy położyć raczej na&nbsp;przemiany rozumienia wspólnoty oraz kryzysy, jakim podlega. Indywidualizm lat 90. XX wieku postrzegać można jako symptom – próbę odcięcia się od tradycji romantycznej, wciąż pracującej w&nbsp;tle, wciąż dominującej (nawet jeśli niewidzialnej), której struktury naruszy dopiero praktyka teatralna następnego stulecia.</p> <p>Sądzę, że&nbsp;w&nbsp;polskim teatrze początku XXI wieku szczególną rolę odgrywa powrót do katastrofy (czy też raczej: katastrof). Podstawowe znaczenie ma rzecz jasna określenie tego, czym jest „katastrofa” będąca przyczyną poruszenia kategorii pamięciowych. Z&nbsp;jednej strony jest nią oczywiście wciąż druga wojna światowa i&nbsp;związany z&nbsp;nią kompleks konsekwencji społeczno-politycznych, późniejszych wydarzeń i&nbsp;wyobrażeń. Wydaje się jednak, że&nbsp;na potrzeby tych rozważań należałoby ustanowić klamrę obejmującą przynajmniej dwie katastrofy – a&nbsp;przesilenie pamięci w&nbsp;teatrze początku XXI wieku rozpatrywać w&nbsp;jej obramowaniu (z tym zastrzeżeniem, że&nbsp;działanie tych katastrof ma moc poruszającą głębsze pokłady pamięci-archiwum: nie odnoszą się, tym samym, jedynie do definiujących je momentów historycznych).</p> <p>Ujęcie tematu „katastrofy” i&nbsp;jej miejsca w&nbsp;historii zapożyczam od Georges’a Didi-Hubermana. Francuski filozof w&nbsp;tekście wygłoszonym na&nbsp;konferencji <em>Penser la catastrophe</em>, zauważał:</p> <blockquote>Trudno jest wyczuć metan. To gaz bezzapachowy i&nbsp;bezbarwny. Jak zatem można wyczuć go lub zobaczyć mimo wszystko? Innymi słowy – jak zobaczyć nadejście katastrofy? Jakie byłyby zmysłowe organy takiego widzenia-nadchodzenia, takiego spojrzenia-czasu? Bezmierne okrucieństwo katastrof polega na&nbsp;tym, że&nbsp;najczęściej stają się one widzialne zbyt późno, dopiero po&nbsp;tym, gdy już się wydarzyły. Katastrofy najlepiej widoczne – najbardziej oczywiste, najlepiej zbadane, najbardziej jednomyślnie uznane – do których odwołujemy się spontanicznie, chcąc wskazać, czym jest katastrofa, są katastrofami, które już były, katastrofami z&nbsp;przeszłości, których nadejścia inni, przed nami, nie chcieli albo nie potrafili zobaczyć, którym nie potrafili zapobiec. Rozpoznajemy je tym łatwiej, że&nbsp;nie jesteśmy – albo już nie jesteśmy – za&nbsp;nie odpowiedzialni<a href="#sdfootnote44sym" name="sdfootnote44anc"><sup>44</sup></a>.</blockquote> <p>Didi-Huberman wskazuje na&nbsp;niemożność rozpoznania katastrofy – w&nbsp;momencie jej nadciągania, niejako ze środka wydarzeń. Zauważa także, że&nbsp;w&nbsp;chwili wydarzania się katastrofy najczęściej maskowane są przez inne – bardziej angażujące, zajmujące uprzywilejowaną pozycję w&nbsp;polu widzenia.</p> <p>Sama świadomość tego mechanizmu może okazać się zbawienna; potrafi bowiem nastroić kulturowe instrumenty na&nbsp;rejestr podwyższonej czujności – który łączy się jednocześnie ze szczególnym stosunkiem do przeszłości i&nbsp;pamięci. Autor <em>Metanu </em>zauważa:</p> <blockquote>Możemy oczekiwać od myśli, historii i&nbsp;być może działalności artystycznej, że&nbsp;wyczulą nas one na&nbsp;nadchodzące katastrofy. To jeden z&nbsp;wielu nakazów kierowanych do nas przez wizję historii – mam na&nbsp;myśli właśnie wizję – bliską Walterowi Benjaminowi, szczególnie wówczas, gdy pisał, że&nbsp;każdy powinien myśleć o&nbsp;historii tak, jakby działała ona niczym „sygnalizator pożarowy” [Feuermelder]: „Zanim iskra dotrze do dynamitu, trzeba przeciąć płonący lont”<a href="#sdfootnote45sym" name="sdfootnote45anc"><sup>45</sup></a>.</blockquote> <p>Didi-Huberman, podążając za&nbsp;Benjaminem, zarysowuje możliwość ustanowienia szczególnej relacji z&nbsp;przeszłością: opartej nie na&nbsp;„powracaniu do niej”, ale „wspominaniu jej w&nbsp;mocy nagłego nawiedzenia aktualnej teraźniejszości”. Rozbłysk dawnych katastrof w&nbsp;teraźniejszości jest paradoksalnie tym, co da się odczytać jako sygnał ostrzegawczy o&nbsp;poznawczej mocy. Pisząc o&nbsp;obrazach katastrofy, Didi-Huberman odwołuje się do pojęcia montażu rozumianego jako operacja wykonywana na&nbsp;kilku płaszczyznach jednocześnie. „Przemontowanie” przeszłości i&nbsp;teraźniejszości pozwala w&nbsp;jakiś sposób zobaczyć przyszłość i&nbsp;ustanowić dynamiczny model porządków czasowych, wzajemnie się oświetlających. Montaże czasowe bliskie są koncepcji „obrazu dialektycznego” Benjamina – „obrazu-błysku” spinającego w&nbsp;gwałtownym ruchu czasy; zagęszczającego teraźniejszość i&nbsp;objawiającego jej jednoczesną „byłość”.</p> <p>Przeniesienie „katastroficznych” rozpoznań Didi-Hubermana w&nbsp;domenę współczesnego polskiego teatru może mieć ważkie konsekwencje, częściowo naświetlające pamięciowe natężenie i&nbsp;zwrot w&nbsp;postrzeganiu przeszłości. Wracam tu do sygnalizowanej wcześniej potrzeby ustanowienia dwóch momentów katastrofy. Z&nbsp;perspektywy początku XXI wieku da się je wyodrębnić następująco: katastrofa wojny, rozumiana jako konglomerat jej konsekwencji dla wspólnoty, oraz analogiczny kompleks towarzyszący przemianom 1989 roku. Ten historyczny przełom, popularnie nazywany w&nbsp;Polsce transformacją, coraz częściej rozpatrywany jest nie tylko jako moment „wolnościowy”, ale też jako nieodzowny od niego moment potężnej katastrofy społecznej. „Cena transformacji” – by wymienić chociażby społeczne podziały, wykluczenia, będące ich konsekwencją wojny kulturowe, rozpad więzi społecznych, przyzwolenie na&nbsp;ekonomiczną kolonizację, rozpad struktur państwa opiekuńczego – składają się na&nbsp;katastrofę, która z&nbsp;perspektywy lat 90. była niewidoczna. Teatr, jako medium szczególnie wyczulone na&nbsp;problemy wspólnoty rozpoznawane przez jej pamięciowe spektrum, nie mógł się odnieść do tej katastrofy ani zanim nadeszła, ani kiedy się rozpętała.</p> <p>Wedle mojej hipotezy niezbędny dystans czasowy sprawił, że&nbsp;polski teatr początku XXI wieku wykonał ruch ku zasobom pamięci zbiorowej poprzez pryzmat dwóch wskazanych katastrof – i&nbsp;przekształcił jednocześnie swoje narzędzia. Dostrzeżenie – z&nbsp;dystansu – drugiej katastrofy staje się, w&nbsp;moim przekonaniu, katalizatorem radykalnego przetworzenia teatralnych operacji na&nbsp;pamięci zbiorowej. Widzialność niedawnej katastrofy pozwala przesunąć węzłowe punkty napięć do wewnątrz wspólnoty, której członkowie należą do rozmaitych warstw i&nbsp;klas społecznych, różnią się statusem i&nbsp;pochodzeniem – mają zatem odmienne doświadczenia historyczne i&nbsp;pamięciowe.</p> <p>Koniec „powojnia” i&nbsp;rozpoznanie czasu „po transformacji” to dwa bieguny wspomagające opisywaną przeze mnie zmianę. Nie jest moją intencją przedstawianie tych transformacji po&nbsp;transformacji jako świadomych zabiegów i&nbsp;strategii artystycznych. Wydaje się, że&nbsp;raczej należałoby operować ujęciem teatru jako wrażliwego instrumentu, reagującego na&nbsp;przekształcenia kategorii wspólnotowych. I&nbsp;tym, co staje się wyraźnie widoczne na&nbsp;polskich scenach początku XXI wieku, jest nagłe rozpoznanie niekoherencji, heterogeniczności wspólnoty – tej, w&nbsp;której spektakle są tworzone, i&nbsp;tej, która zasiada na&nbsp;widowni. Doświadczenie transformacji 1989 roku jawi się jako adekwatna matryca tego zwrotu, ponieważ umożliwia dostrzeżenie różnic i&nbsp;nieciągłości na&nbsp;przykładzie wydarzeń relatywnie świeżych – pracujących na&nbsp;wszystkich poziomach pamięci (od pamięci indywidualnych, przez społeczną i&nbsp;polityczną, po&nbsp;osadzenie w&nbsp;szerszym kontekście pamięci kulturowej). To rozpoznanie przyczynia się do głębszego ruchu w&nbsp;pokładach pamięci zbiorowej – skoro przeszłość i&nbsp;pamięć odsłaniają swój skonfliktowany, wariantowy charakter w&nbsp;polu historii nieodległej, to ustanowiony zostaje precedens pozwalający na&nbsp;szerzej zakrojone diagnozy obejmujące uogólnioną przeszłość wspólnoty.</p> <p>Nie bez znaczenia wydaje się też sam kontekst lat dwutysięcznych – czas destabilizacji ładu, który rzekomo właśnie zapanował w&nbsp;krajach Europy i&nbsp;Ameryki Północnej. Iluzja „końca historii” zostaje pogrzebana w&nbsp;roku 2001, wraz z&nbsp;zamachem na&nbsp;nowojorskie World Trade Center; kolejne kryzysy ekonomiczne i&nbsp;polityczne odsłaniają niewyraźne dotychczas linie konfliktu i&nbsp;możliwe zagrożenia. Koniec „powojnia” tworzy szczególną superpozycję z&nbsp;początkiem nowego, nierozpoznanego jeszcze okresu. Wynikiem tego jest poczucie zaburzenia teraźniejszości. Czas teraźniejszy, zdestabilizowany, przepełniony poczuciem nadciągającej (a z&nbsp;definicji nieznanej) katastrofy, staje się czasem nieznanym – a&nbsp;jednocześnie, dzięki niezwykłemu rozwojowi nowych mediów, czasem błyskawicznie archiwizowanym, przechodzącym do przeszłości szybciej niż kiedykolwiek. Jak zauważał Mateusz Halawa, badacz mediów i&nbsp;kultury popularnej:</p> <blockquote>Archiwizujące technologie w&nbsp;życiu codziennym, zgodnie z&nbsp;tezami Derridy, formatują samą teraźniejszość. Użytkownicy nowych mediów są przez nie wciągani w&nbsp;szczególny, archiwalny czas. Jest on z&nbsp;jednej strony teraźniejszością rozszerzoną – bo&nbsp;przeszłość rzadziej odchodzi w&nbsp;niej w&nbsp;zapomnienie, a&nbsp;gromadzona w&nbsp;bazach danych, staje się jednoczesna z&nbsp;bieżącym doświadczeniem, przyszłość zaś staje się niemożliwa, gdy „ja” grzęźnie w&nbsp;śladach – ale z&nbsp;drugiej strony jest teraźniejszością utraconą już w&nbsp;momencie, w&nbsp;którym s i&nbsp;ę rozgrywa. Znaki są w&nbsp;niej śladami, a&nbsp;praktyki reprodukcji oddzielają od doświadczenia i&nbsp;zachęcają do rozpoznawania go jako już minionego i&nbsp;stylizowania na&nbsp;potrzeby przyszłych wspomnień<a href="#sdfootnote46sym" name="sdfootnote46anc"><sup>46</sup></a>.</blockquote> <p>Teraźniejszość lat dwutysięcznych spotyka się z&nbsp;przeszłością na&nbsp;odmiennych zasadach, a&nbsp;teatr, jako „maszyna pamięci”, zostaje niejako zmuszony do odmiennej reakcji.</p> <p>Chciałabym raz jeszcze powrócić do koncepcji Georges’a Didi-Hubermana i&nbsp;jego teorii montażu wywiedzionej z&nbsp;pism Waltera Benjamina. Didi-Huberman pisał:</p> <blockquote>Ponieważ gaz metanowy jest bezbarwny i&nbsp;bezzapachowy, zdarzało się niegdyś górnikom, jak mówiłem, schodzić do kopalni z&nbsp;pisklęciem w&nbsp;klatce. Gdy zaczynało ono drżeć albo puchły mu pióra, wyczuwano – albo widziano – nadejście momentu zagrożenia. […] Niewykluczone też, że&nbsp;bliższa obserwacja tego wróżebnego upierzenia wzmacniała w&nbsp;samych górnikach umiejętność samodzielnego „wyczuwania gazu”<sup><a href="#sdfootnote47sym" name="sdfootnote47anc">47</a></sup>. <a href="#sdfootnote13sym"></a></blockquote> <p>Można założyć, że&nbsp;część polskich spektakli teatralnych z&nbsp;lat dwutysięcznych przyjęła na&nbsp;siebie podobną rolę: diagnozowania zagrożenia dzięki wykorzystaniu szczególnej właściwości. W&nbsp;przypadku teatru chodzi o&nbsp;połączenie jego istoty ze strukturami pamięci zbiorowej. Diagnoza teraźniejszości odbywa się w&nbsp;efekcie ścisłego powiązania z&nbsp;przeszłością, dialektycznego spojrzenia, „superpozycji katastrof”, o&nbsp;której pisał francuski filozof.</p> <p>Tym, co charakteryzuje ujęcie pamięci w&nbsp;najnowszym polskim teatrze, jest bowiem szczególne splątanie perspektyw temporalnych. Można zaryzykować tu uogólnienie, że&nbsp;sceniczny powrót do przeszłości nigdy nie odbywa się bez zakotwiczenia we współczesności. Łatwo zauważyć zniknięcie opowieści o&nbsp;przeszłości i&nbsp;pamięci opartych na&nbsp;wzorcu alegorycznej narracji – zniknięcie „historycznego kostiumu”, opowieści „ezopowych”, zamaskowanych na&nbsp;rzecz silnego podkreślenia teraźniejszej perspektywy, która determinuje kształt pamięciowego obrazu. Przesunięcie to wyznacza pewną granicę w&nbsp;rozumieniu pamięci i&nbsp;historyczności. Współczesny polski teatr podejmujący tematy związane z&nbsp;pamięcią i&nbsp;historią stosuje szeroko pojętą strategię montażu, polegającą na&nbsp;swobodnym łączeniu rozmaitych porządków czasowych. Strategia ta pojawia się niezależnie od estetycznych i&nbsp;światopoglądowych uwarunkowań twórców i&nbsp;wyznacza wspólną platformę dla zjawisk w&nbsp;zasadzie ze sobą nieporównywalnych.</p> <p>Tym, co uległo przemianie, wydaje się także samo pojmowanie historii, bliższe dziś koncepcjom Benjamina i&nbsp;Didi-Hubermana. Montaż zakłada bowiem rozbicie czasu pojmowanego jako następstwo zdarzeń i&nbsp;zastąpienie go krytycznym modelem dokonującym się w&nbsp;czasie szczególnego czasowego rozbłysku.</p> <blockquote>Dialektyka, stwierdza Benjamin, jest „dowodem pochodzenia” z&nbsp;tego względu, że&nbsp;każde wydarzenie historyczne rozpatrywane poza zwykłą kroniką musi zostać rozpoznane „w podwójnej optyce […], z&nbsp;jednej strony jako odnowienie, przywrócenie, z&nbsp;drugiej jako coś, co tym samym jest nieukończone, wciąż otwarte”; sposób demontowania każdego momentu historii poprzez wznoszenie się poza „stwierdzone fakty”, ku temu, co „dosięga ich pre- i&nbsp;posthistorii”</blockquote> <p>– pisał Didi-Huberman w&nbsp;<em>Strategiach obrazów</em><sup><a href="#sdfootnote48sym" name="sdfootnote48anc">48</a></sup><em>.</em> Wskazana przez niego łączność pomiędzy wszystkimi płaszczyznami czasu – przeszłą, teraźniejszą, przyszłą – kieruje ku postrzeganiu historii zarówno poza kolistą strukturą mitu, jak i&nbsp;linearną trajektorią biegu dziejów. Wiedza o&nbsp;przeszłości montowana jest doraźnie, na&nbsp;drodze szczególnej anachronii. Wydaje się ona bliska strategiom współczesnego polskiego teatru i&nbsp;bardzo odległa od analizowanej wcześniej tradycji – romantycznej z&nbsp;ducha, wywiedzionej z&nbsp;matrycy i&nbsp;matecznika <em>Dziadów. </em></p> <p><em></em>Wskazany kontekst „katastrofy”, a&nbsp;także strategie montażu temporalnego wchodzą w&nbsp;konflikt z&nbsp;romantycznymi wizjami wspólnoty teatralizującej swoją przeszłość i&nbsp;nawiązującej kontakt z&nbsp;„duchami przodków”. Dzieje się tak z&nbsp;kilku powodów. Pierwszym z&nbsp;nich jest uznanie samej historyczności za&nbsp;przestrzeń odpowiednią dla działań pamięci. Pamięć przestaje być abstrakcyjnym zwornikiem wspólnoty, ale zanurza się w&nbsp;historii, pracuje wraz z&nbsp;nią na&nbsp;płaszczyźnie wyznaczanej – w&nbsp;niektórych przypadkach – rozbłyskami dialektycznych obrazów. Teatralne działania przestają więc pełnić funkcję egzorcyzmowania zawartego w&nbsp;historii „zła”, ale podejmują się jej rekonfiguracji. Drugim powodem rozmijania się tych porządków jest wizja wspólnoty jednoczącej się – choćby na&nbsp;chwilę – w&nbsp;toku obrzędu dramatycznego wobec zewnętrznego zagrożenia (które nie musi oznaczać koniecznie zagrożenia przychodzącego spoza granic kraju, ale każdy kontekst opresyjny związany z&nbsp;instytucjami szeroko pojętej władzy). Wizja ta ulega rozbiciu pod&nbsp;naporem opisanego już rozpoznania przestrzeni pamięci narodowej jako przestrzeni ostrego konfliktu, co skutkuje zróżnicowaniem obrazu samej grupy, wskazaniem na&nbsp;jej niejednorodność, a&nbsp;w rezultacie rozpoznaniem własnej kultury jako tej, w&nbsp;której „duchy przodków” na&nbsp;pewno nie pochodzą z&nbsp;jednej przestrzeni. Montażowe ujęcie historii nie da się uzgodnić z&nbsp;romantyczną pełnią mitu zbiorowej pamięci – pamięci wspólnej. Jak pisał Walter Benjamin, „historia jest przedmiotem konstrukcji, dla której właściwym miejscem nie jest czas pusty, homogeniczny, ale wypełniony przez teraźniejszość”<sup><a href="#sdfootnote49sym" name="sdfootnote49anc">49</a></sup>. Teraźniejszość, dostarczająca podstaw dla rekonfiguracyjnego ruchu historii i&nbsp;pamięci, jest czymś, co trudno zgodzić z&nbsp;„inwariantnym” uniwersum mitu romantycznego teatru i&nbsp;jego soteriologicznym charakterem. Dlatego Mateusz Borowski, przywołując tradycję <a href="#sdfootnote13sym">„</a>przedstawiania przeszłości jako podstawy tożsamości narodowej” w&nbsp;polskim teatrze, zauważał jednocześnie:</p> <blockquote>Trudno jednak byłoby obronić tezę, że&nbsp;ponownie stał się [teatr] miejscem dyskusji z&nbsp;duchami przeszłości jako „arka przymierza między dawnymi a&nbsp;nowymi laty”. Ta romantyczna z&nbsp;ducha koncepcja zakłada przecież, że&nbsp;teatr pełni funkcję instytucji budującej kolektywną tożsamość, gdyż odpowiada za&nbsp;poczucie historycznej ciągłości wspólnoty z&nbsp;jej przeszłością. Tymczasem polski teatr ostatniej dekady dość demonstracyjnie odrzucił brzemię powinności wobec narodu i&nbsp;obowiązek świadczenia o&nbsp;prawdzie historycznej<a href="#sdfootnote50sym" name="sdfootnote50anc"><sup>50</sup></a>.</blockquote> <p>„Katastrofa”, założycielska dla współczesnej pamięci zbiorowej Europy, w&nbsp;kontekście polskiego teatru zostaje odkształcona poprzez zestawienie z&nbsp;przełomem 1989 roku i&nbsp;rozpoznana jako źródło obecnego, płynnego kształtu polskiego społeczeństwa. Polski teatr, sztuka tak silnie wspólnotowa, uwikłana wciąż w&nbsp;silnie pulsującą tradycję ahistorycznej, romantycznej pamięci „przodków”, staje przed (nieuświadomioną) szansą naruszenia traumatycznej ścieżki zależności związanej z&nbsp;kształtowaniem pamięci zbiorowej.</p> <p>Wydaje się, że&nbsp;tradycję romantyczną można rozpatrywać w&nbsp;kategoriach ścieżki zależności – dzieje się tak właśnie na&nbsp;gruncie teatralnym, kiedy to matryca „projektu Dziady” czy też ogólniej pojętej „rdzennie polskiej tradycji teatralnej” niejako paraliżuje kształt zbiorowej pamięci, prowadząc do nieustannej reprodukcji mityzującego modelu. Podobne obserwacje można odnieść do tej samej tradycji rozpatrywanej w&nbsp;obrębie teorii: dyskusja o&nbsp;pamięci w&nbsp;polskim teatrze bywa wciąż warunkowana przywiązaniem do nieustannego powtarzania tych samych kodów opisu i&nbsp;modeli wspólnotowości – w&nbsp;szczególny sposób anachronicznych, ukształtowanych w&nbsp;pewien sposób poza nowoczesnością. Mechanizm ten został precyzyjnie uchwycony przez Grzegorza Niziołka:</p> <blockquote>W badaniach nad historią polskiego teatru powojennego dominuje tendencja do odwoływania się do dwóch modeli powtórzenia. Jedno z&nbsp;nich wiąże się z&nbsp;powtórzeniem jako ponowieniem wspólnotowego mitu, powtórzeniem jako paradygmatem doświadczeń zbiorowych. Wzorców powtórzeń dostarcza w&nbsp;takim ujęciu przede wszystkim dramat romantyczny (zwłaszcza Dziady Mickiewicza), a&nbsp;częściej struktura obrzędowa w&nbsp;nim zawarta (obrzędy zmarłych, kult przodków, Dziady jako wzorzec rytualny) lub wreszcie – performowany w&nbsp;momentach kryzysu wzorzec zachowań zbiorowych. Tak rozumiana idea powtórzenia nie pozwala odczytywać polskiego teatru poza tradycją romantyczną, dokonuje więc silnych wykluczeń lub wykluczone elementy odczytuje w&nbsp;dialektycznym sprzężeniu z&nbsp;tą tradycją (jako bunt, polemikę, prowokację, a&nbsp;nie jako różnicę). Inny model powtórzenia jest związany z&nbsp;ideą powtórzenia traumatycznego, kompulsywnego odgrywania bolesnych doświadczeń poprzez medium teatru. Model ten zawiera u&nbsp;swoich podstaw wizję zbiorowości głęboko i&nbsp;urazowo doświadczonej, wizję wspólnoty cierpiącej<a href="#sdfootnote51sym" name="sdfootnote51anc"><sup>51</sup></a>.</blockquote> <p>Warto dodać, że&nbsp;również drugi model powtórzenia może stać się „wariantem narcystycznego paradygmatu romantycznego”<sup><a href="#sdfootnote52sym" name="sdfootnote52anc">52</a></sup>. Jednocześnie odwoływanie się do tej tradycji w&nbsp;badaniach najnowszego teatru polskiego wydaje się niezbędne, aby uniknąć przeoczenia tych punktów, w&nbsp;których zaczęła dokonywać się, lub też dokonała się, realna zmiana.</p> <p></p> <p><b>Artykuł jest fragmentem rozprawy doktorskiej <em>Strategie reprezentacji pamięci w&nbsp;polskim teatrze na&nbsp;przełomie XX i&nbsp;XXI wieku</em> obronionej w&nbsp;Instytucie Sztuki PAN pod&nbsp;kierunkiem prof. Krystyny Duniec. Całość ukaże się drukiem w&nbsp;2016 roku.</b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Marvin Carlson, <em>The Haunted Stage. The Theatre as Memory Machine</em>, University of Michigan Press, Ann Arbor 2003, s. 3.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Ibidem, s. 2.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> „Zachowane zachowanie”, jedna z podstawowych kategorii Schechnerowskiego ujęcia performatyki, oznacza nieustanny recykling form zachowania obserwowany w codziennym byciu i świadomie wykorzystywany w procesie budowania roli: „W gruncie rzeczy każde zachowanie jest zachowaniem odtworzonym – każde składa się z przestawionych ułamków uprzednio zachowanych zachowań. Oczywiście, przez większość czasu ludzie pozostają tego nieświadomi. Po prostu «żyją sobie». Performanse stanowią zachowanie wskazane, oznaczone i wyodrębnione z «życia sobie» – są zachowanymi zachowaniami, jeśli tak prościej. […] Zachowane zachowanie może być «mną» w innym czasie albo stanie psychicznym. […] Zachowanym zachowaniem mogą być czynności naznaczone konwencją estetyczną, jak to jest w teatrze, tańcu czy muzyce”. Richard Schechner, <em>Performatyka. Wstęp</em>, przeł. T. Kubikowski, Ośrodek Badań Twórczości Jerzego Grotowskiego i Poszukiwań Teatralno-Kulturowych, Wrocław 2006, s. 50.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Ibidem, s. 3.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Ibidem, s. 7.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Małgorzata Sugiera, <em>I staw się przede mną. Przedstawianie przeszłości w polskim dramacie współczesnym</em>, w: <em>Zła pamięć. Przeciw-historia w polskim teatrze i dramacie</em>, red. M. Kwaśniewska, G. Niziołek, Ośrodek Badań Twórczości Jerzego Grotowskiego i Poszukiwań Teatralno-Kulturowych, Wrocław 2012, s. 184.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Małgorzata Sugiera, <em>Upiory i inne powroty</em>…, s. 15.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Grzegorz Niziołek, <em>Polski teatr Zagłady</em>, Instytut Teatralny im. Zbigniewa Raszewskiego – Wydawnictwo Krytyki Politycznej, Warszawa 2013, s. 33.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Mateusz Borowski, <em>Nakazana przeszłość. Pamięć a historia w polskim teatrze współczesnym</em>, w: <em>Zła pamięć…</em>, s. 65–66.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Mieke Bal, <em>Wędrujące pojęcia w naukach humanistycznych. Krótki przewodnik</em>, przeł. M. Bucholc, Narodowe Centrum Kultury, Warszawa 2012, s. 245.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>Leszek Kolankiewicz, <em>Dziady. Teatr święta zmarłych, </em>słowo/obraz terytoria, Gdańsk 1999, s. 140.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Dariusz Kosiński, <em>Teatra polskie. Historie</em>, Instytut Teatralny im. Zbigniewa Raszewskiego - Wydawnictwo Naukowe PWN, Warszawa 2010, s. 112.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>Ibidem<em>, </em>s. 114.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Ibidem, s. 111.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>Zob. ibidem, s. 112.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>Ibidem, s. 111.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>Ibidem.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>Ibidem, s. 111–112.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>Ibidem, s. 112.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>Leszek Kolankiewicz, <em>Dziady…, </em>s. 408.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a>Jan Sowa, <em>Fantomowe ciało króla. Peryferyjne zmagania z nowoczesną formą</em>, Universitas, Kraków 2011, s. 12.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>Ibidem, s. 13.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a>Ibidem.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a>Ibidem, s. 18.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a>Dariusz Kosiński, <em>Teatra polskie…</em>, s. 111.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a>Ibidem, s. 114.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a>Ibidem, s. 117.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>Ibidem, s. 126.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a>Leszek Kolankiewicz, <em>Dziady...</em>, s. 32.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a>Ibidem, s. 33.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a>Ibidem.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a>Ibidem, s. 34.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a>Ibidem, s. 393.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a>Ibidem, s. 408.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a>Ibidem, s. 411.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a>Ibidem, s. 111.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a>Ibidem, s. 164.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a>Ibidem, s. 407.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a>Ibidem.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a>Por. Aleida Assmann, <em>Między historią a pamięcią. Antologia</em>, red. M. Saryusz-Wolska, Wydawnictwa Uniwersytetu Warszawskiego, Warszawa 2013, zwłaszcza s. 23–88.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a>Leszek Kolankiewicz, <em>Dziady...</em>, s. 409.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a>Ibidem, s. 411.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a>Mieke Bal, <em>Wędrujące pojęcia w naukach humanistycznych…</em>, s. 248.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a>Georges Didi-Huberman, <em>Metan</em>, przeł. P. Mościcki, „Widok. Teorie i praktyki kultury wizualnej” 2013, nr 3, http://pismowidok.org/index.php/one/article/view/94/110, dostęp 1 grudnia 2013.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a>Ibidem.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a>Mateusz Halawa, <em>Nowe media i archiwizacja życia codziennego</em>, „Kultura Współczesna” 2011, nr 4, s. 39.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a> Georges Didi-Huberman, <em>Metan</em>…</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a>Georges Didi-Huberman, <em>Strategie obrazów. Oko historii 1</em>, przeł. J. Margański, Nowy Teatr –</p>
+<p>Korporacja Ha!art, Warszawa–Kraków 2011, s. 140–141.</p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a>Walter Benjamin, <em>O pojęciu historii</em>, przeł. K. Krzemieniowa, w: idem, <em>Anioł historii. Eseje, szkice, fragmenty</em>, Wydawnictwo Poznańskie, Poznań 1996, s. 5.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a>Mateusz Borowski, <em>Nakazana przeszłość…</em>, s. 67.</p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a>Grzegorz Niziołek, <em>Polski teatr Zagłady…</em>, s. 85–86.</p>
+<p><a href="#sdfootnote52anc" name="sdfootnote52sym">52</a>Ibidem, s. 86.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2015/10-polski-wiek-xix.-kompleks-wizualny/enter-ghost.-dwa-obrazy-teatru-jako-medium-pamieci" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

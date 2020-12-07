@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Odkręcić stan wyjątkowy. Walter Benjamin i krytyka przemocy prawa | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2015/odkrecic-stan-wyjatkowy.-walter-benjamin-i-krytyka-przemocy-prawa">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Odkręcić stan wyjątkowy. Walter Benjamin i krytyka przemocy prawa | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Odkręcić stan wyjątkowy. Walter Benjamin i krytyka przemocy prawa | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2015/odkrecic-stan-wyjatkowy.-walter-benjamin-i-krytyka-przemocy-prawa">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Odkręcić stan wyjątkowy. Walter Benjamin i krytyka przemocy prawa | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #606 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #606 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #606 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #606 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #606 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #606 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #606 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #606 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(102,0,102,0.8) !important; */
+			/* background-color:#606 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(102,0,102,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#606 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(102,0,102,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#606; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(102,0,102,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(102,0,102,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#606 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#606 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#606 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1041 parent-id-1013">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="432" data-selected-issue-color="#606" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/9-warsaw-moscow.-monuments-of-transition#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/9-warsaw-moscow.-monuments-of-transition/undoing-the-state-of-exception.-walter-benjamin-and-the-critique">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2015/warszawa-moskwa.-pomniki-transformacji#toc">9</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2015/odkrecic-stan-wyjatkowy.-walter-benjamin-i-krytyka-przemocy-prawa?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Odkręcić stan wyjątkowy. Walter Benjamin i krytyka przemocy prawa</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2015/odkrecic-stan-wyjatkowy.-walter-benjamin-i-krytyka-przemocy-prawa?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=664">Michał Pospiszyl</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Przekrzywiony melonik</h2> <p>Choć jedynymi momentami, w&nbsp;których historia relacji między Schmittem a&nbsp;Benjaminem przestaje być historią tropienia wpływów i&nbsp;mniej lub bardziej ukrytych odniesień, a&nbsp;nabiera bezpośrednich kształtów, są zaledwie dwa listy, wiele wskazuje na&nbsp;to, że&nbsp;narodziny Schmittiańskiej teorii suwerenności i&nbsp;stanu wyjątkowego były odpowiedzią na&nbsp;<em>Przyczynek do krytyki przemocy</em> autorstwa Waltera Benjamina. Pierwszym dokumentem tych związków jest wysłany w&nbsp;1977 list, w&nbsp;którym Schmitt tłumaczy Vieselowi, że&nbsp;jego praca o&nbsp;Lewiatanie z&nbsp;1938 roku jest odpowiedzią na&nbsp;filozofię prawa Benjamina<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. List drugi – dziś już bardzo słynny, ale zawczasu nieopublikowany – to Benjaminowskie podziękowania z&nbsp;1930 roku dla autora <em>Teologii politycznej</em> za&nbsp;inspirację przy pisaniu książki o&nbsp;barokowym dramacie żałobnym<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Jednak zdaniem Giorgio Agambena nie powinniśmy zanadto ulegać tej chronologii zdarzeń. Jak przekonuje włoski filozof, opublikowany w&nbsp;47 numerze<em> Archiv für Sozialwissenschaften und Sozialpolitik</em> Benjaminowski esej o&nbsp;przemocy musiał zwrócić uwagę Carla Schmitta, regularnie piszącego do <em>Archiv</em> (na łamach którego ogłosił także pierwszą wersję głośnego tekstu <em>O pojęciu polityczności</em>). Tym samym, zamiast czytać Benjamina jako reakcję na&nbsp;Schmitta, powinniśmy „odwrócić kierunek oskarżenia i&nbsp;postarać się odczytać Schmittiańską teorię suwerenności jako odpowiedź na&nbsp;krytykę przemocy Benjamina”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Choć teza Agambena stanowi punkt wyjścia dla argumentacji mającej dowieść, że&nbsp;dyskusja między Schmittem a&nbsp;Benjaminem przynosi istotne efekty w&nbsp;tym, jak obaj formułują własne stanowiska, to przynajmniej w&nbsp;wypadku autora <em>Pasaży</em> trudno mówić o&nbsp;wprowadzaniu jakichś głębokich modyfikacji pod&nbsp;wpływem kolejnych książek Schmitta.</p> <p>Właściwie wszystkie trzy teksty o&nbsp;prawie i&nbsp;suwerenności, czyli esej o&nbsp;krytyce przemocy, passus z&nbsp;niedoszłej habilitacji o&nbsp;baroku oraz ósma teza z&nbsp;<em>O pojęciu historii</em> na&nbsp;różne sposoby wypowiadają tę samą ideę. Nowoczesny porządek prawny jest oparty na&nbsp;dwóch rodzajach przemocy: przemocy ustanawiającej prawo i&nbsp;prawo podtrzymującej. Pierwsza byłaby odpowiedzialna za&nbsp;wprowadzanie kolejnych ustaw i&nbsp;rozporządzeń, druga – za&nbsp;ich praktyczne czy też po&nbsp;prostu policyjne zastosowanie<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Węzłowy problem, który stawia przed sobą Benjamin w&nbsp;<em>Przyczynku do krytyki przemocy</em>, to kwestia relacji między tymi dwoma rodzajami przemocy. Niemiecki krytyk nie ma wątpliwości, że&nbsp;w&nbsp;nowoczesnym państwie mamy raczej do czynienia z&nbsp;samonapędzającą się dialektyką tych dwóch rodzajów przemocy niż ich wyraźnym rozdzieleniem. Efektem takiej konstrukcji miałoby być państwo policyjne, w&nbsp;którym każdorazowo i&nbsp;arbitralnie użyta przemoc państwa staje się jednocześnie momentem jej cudownej legitymizacji: „Przemoc jej władzy – pisze Benjamin na&nbsp;temat instytucji policji – jest równie bezkształtna jak jej nieuchwytna, powszechna, widoma obecność w&nbsp;życiu państw cywilizowanych”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Uwaga o&nbsp;policji, która w&nbsp;ustrojach liberalno-demokratycznych miałaby doprowadzać do „najpoważniejszej degeneracji przemocy, jaką tylko można pomyśleć”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>, wydaje się znakomitą zapowiedzią <span class="rozstrzelony">chytrego</span> ataku, który przepuszczony zostanie w&nbsp;kolejnych tekstach przeciwko Schmittiańskim koncepcjom władzy suwerennej i&nbsp;stanu wyjątkowego. Co więcej wydaje się, że&nbsp;Benjamin, wbrew swojemu włoskiemu komentatorowi<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>, był do niego dobrze przygotowany zarówno na&nbsp;początku lat dwudziestych, gdy szkicuje tekst o&nbsp;przemocy, jak i&nbsp;pod koniec lat trzydziestych, gdy formułuje bolesną dla Schmitta tezę o&nbsp;„stanie wyjątkowym, który jest regułą”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Tym, co napędzało relację Benjamina do Schmitta, nie była rywalizacja (umożliwiająca doprecyzowanie czy wręcz modyfikację własnego stanowiska), ale rodzaj Chaplinowskiej burleski, w&nbsp;której autor <em>Die Diktatur</em> zostaje raczej <span class="rozstrzelony">zuchwale i&nbsp;chytrze</span> rozbrojony<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> niż pokonany w&nbsp;bezpośrednim starciu.</p> <p>Strategię tę świetnie widać w&nbsp;przywoływanym już liście do Schmitta. Warto zacytować go w&nbsp;całości:</p> <blockquote> <p>Wielce Szanowny Panie Profesorze,</p> <p>w najbliższych dniach otrzyma Pan od wydawcy moją książkę: <em>Źródła dramatu żałobnego w&nbsp;Niemczech</em>. W&nbsp;niniejszym liście chciałem nie tylko zapowiedzieć jej nadejście, ale także wyrazić wielką radość z&nbsp;tego, że&nbsp;dzięki wstawiennictwu Alberta Salomona wolno mi było ją Panu wysłać. Bardzo szybko zorientuje się Pan, jak dużo książka ta zawdzięcza Pańskiej koncepcji siedemnastowiecznej doktryny suwerenności. Korzystając z&nbsp;okazji, chciałbym dodać, że&nbsp;czerpałem też z&nbsp;Pańskich późniejszych prac, zwłaszcza z&nbsp;<em>Diktatur</em>. Pańskie dociekania w&nbsp;zakresie filozofii państwa utwierdziły mnie w&nbsp;przyjętym sposobie prowadzenia badań nad historią sztuki. Jeśli lektura mojej książki pozwoli Panu to wszystko zauważyć, cel jej wysłania będę mógł uznać za&nbsp;osiągnięty.</p> <p>Z wyrazami głębokiego szacunku,</p> <p>bardzo Panu zobowiązany Walter Benjamin<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>.</p> </blockquote> <p></p> <p>Tekst ten jest pełen trików, które po&nbsp;lekturze książki o&nbsp;baroku, trudno zlekceważyć. Tym bardziej zaskakuje fakt jego ocenzurowania przez Scholema i&nbsp;Adorno<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>, wyraźnie przerażonych czołobitnością, z&nbsp;jaką ich przyjaciel zwraca się do człowieka, mającego kilka lat po&nbsp;otrzymaniu listu ogłosić artykuł, w&nbsp;którym dokona filozoficznej apologii Führera<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Jeśli Schmitt podczas lektury obiecanego mu egzemplarza <em>Źródła dramatu żałobnego w&nbsp;Niemczech</em> sięgnął kilka stron dalej niż jedyny fragment, w&nbsp;którym pojawia się przypis do <em>Teologii politycznej</em>, musiał przeczytać, że&nbsp;„[k]siążę, który ma rozstrzygać o&nbsp;stanie wyjątkowym, w&nbsp;pierwszej lepszej sytuacji pokazuje, że&nbsp;właściwie nie potrafi zdecydować o&nbsp;niczym”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>.</p> <p>W tym kontekście trudno traktować poważnie nad wyraz grzecznego Benjamina, wydaje się on raczej autorem dialektycznego przekrętu, w&nbsp;którym <span class="rozstrzelony">przegięta</span> uprzejmość staje się dziecięcym sposobem rozbrojenia arsenału mitycznej przemocy akumulowanego w&nbsp;kolejnych publikacjach niemieckiego jurysty. Jeśli teoria suwerenności opiera się na&nbsp;tezie, że&nbsp;suweren jest tym, który rozstrzyga o&nbsp;stanie wyjątkowym, to celem <em>Źródła dramatu żałobnego w&nbsp;Niemczech</em> jest skuteczne zablokowanie takiego myślenia. Benjamin pokazuje, że&nbsp;stan wyjątkowy ma więcej wspólnego z&nbsp;wiszącą nad barokowym światem katastrofą niż mającym legitymizować porządek społeczny Schmittiańskim cudem<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Innymi słowy, nie istnieje nikt, kto miałby wystarczają siłę do wprowadzenia stanu wyjątkowego, co więcej wprowadzenie go jest niemożliwe, bo&nbsp;w&nbsp;baroku (w którym dokonało się zasadnicze zsekularyzowanie pojęć teologicznych) stan wyjątkowy stał się po&nbsp;prostu regułą. Choć suweren pozostaje panem stworzenia, to sam – za&nbsp;sprawą definitywnego ściągnięcia transcendencji na&nbsp;ziemię – jest niczym więcej jak jego elementem<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. Takie postawienie sprawy, w&nbsp;którym zarówno suweren, jak i&nbsp;świat ludzkich relacji są częścią jednej katastrofy, powoduje, że&nbsp;zasadnicza idea Schmitta, to znaczy oparte na&nbsp;arbitralnej decyzji rozdzielenie anomii i&nbsp;prawa, zostaje zupełnie zaprzepaszczona. Barok, będąc jednocześnie momentem najostrzejszej artykulacji teorii władzy suwerennej, był także epoką – co staje się jeszcze bardziej namacalne, gdy sięgniemy, jak Benjamin, do niekanonicznych tekstów epoki – w&nbsp;której najsilniej dawało o&nbsp;sobie znać przekonanie, że&nbsp;w&nbsp;świecie pozbawionym transcendencji nie istnieje już żadna wyróżniona pozycja. Anachroniczna próba ustanowienia miejsca, które byłoby zewnętrzne, czyniła z&nbsp;postaci księcia przedmiot niewybrednych żartów. Stąd też zdaniem Benjamina nieodłącznym elementem tego pogrążonego w&nbsp;katastrofie świata był „komizm, a&nbsp;ściślej: czysta uciecha – to niezbywalna wewnętrzna strona żałości, coś jak podszewka ubrania, którą od czasu do czasu widać na&nbsp;obszyciu czy rewersie”<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>.</p> <p>Ta wewnętrzna sprzeczność baroku stała w&nbsp;centrum tego, co Benjamin rozumiał pod&nbsp;pojęciem alegorii. W&nbsp;przeciwieństwie do symbolu (poszukującego gładkiego pasa transmisyjnego w&nbsp;kierunku transcendencji), alegoria miała opisywać świat w&nbsp;jego radykalnej immanencji jako ciągu odsyłających do siebie nawzajem katastrof. Podstawowym zadaniem alegoryka (jako twórcy alegorycznych obrazów), obok obnażenia iluzji metody symbolicznej, było opisanie rzeczywistości w&nbsp;jej napięciach i&nbsp;sprzecznościach. W&nbsp;tym też kontekście należy rozumieć zdanie Benjamina o&nbsp;tym, że&nbsp;prawda zawsze leży w&nbsp;skrajnościach<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. Efektem alegorii jest obraz, który mimo radykalnej krytyki metafizyki opartej na&nbsp;transcendencji zachowa równie trzeźwy dystans do głoszącej całkowity upadek teologii gnostyckiej. Innymi słowy, odarcia rzeczy z&nbsp;ich symbolicznych i&nbsp;gładkich znaczeń alegoryk dokonuje nie po&nbsp;to, by pogrążyć je w&nbsp;ostatecznej ruinie, ale by dać im nowe życie, już „wolne od szarości retuszów”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. Komizm, jako nieodłączny rewers tego świata, był więc elementem jego dialektycznej dwuznaczności, która uniemożliwi zamknięcie Benjaminowskiego baroku w&nbsp;ramach homogenicznej wizji gnostyckiego upadku.</p> <p>To markowe dla Benjamina zejście do piekła mitu i&nbsp;ujawnienie jego szczelin i&nbsp;pęknięć, po&nbsp;to, by ostatecznie wywrócić nowoczesny stan wyjątkowy na&nbsp;nice, zawsze dokonuje się zgodnie z&nbsp;radykalnie antygnostycką zasadą opisaną w&nbsp;jednej z&nbsp;notatek do <em>Pasaży:</em> „na tym polega niezniszczalność najwyższego życia we wszystkich rzeczach. Przeciwko prorokom upadku”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. To uchowanie się „najwyższego życia” nawet w&nbsp;najbardziej ponurych reżimach, mogło mieć miejsce tylko dzięki jego niezwykłej zdolności mimetycznej. Jak poucza nas <em>Nauka o&nbsp;podobieństwie</em> zdolność mimetyczna jest cechą właściwą dawnym ludom, a&nbsp;także nowo narodzonym dzieciom. Wbrew zasadzie, która organizuje świat mitu (prawa/nowoczesności/mieszczaństwa), ludowe czy dziecięce podobieństwa mają jak „najbardziej niezmysłowy charakter”<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>. Innymi słowy, nie idzie w&nbsp;nich o&nbsp;ciągłe powtarzanie tego samego, ale o&nbsp;permanentne rozbłyskiwanie nowego życia i&nbsp;kolejnych przyjemności, nawet jeśli miałyby one być efektem ciągle tej samej zabawy. Takie „podobieństwo przemyka w&nbsp;ułamku chwili i&nbsp;być może daje się je odzyskać, lecz w&nbsp;odróżnieniu od innych percepcji nie sposób go właściwie zatrzymać”<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. Idzie o&nbsp;odkrywaną przez Benjamina w&nbsp;dziecięcych zabawach umiejętność powtarzania, którego zasadą nie jest już mityczna śmierć i&nbsp;przemoc, ale właśnie przyjemność i&nbsp;życie. Na&nbsp;tym też polegała bliskość tej strategii z&nbsp;filmami Charliego Chaplina. Ostatecznie w&nbsp;obu wypadkach chodzi o&nbsp;wniknięcie w&nbsp;porządek mityczno-prawny, które zamiast dalej napędzać faszystowskie tryby, ma obnażać całkowitą przygodność tak suwerennej władzy, jak i&nbsp;mieszczańskiego świata policyjnej nierozróżnialności. Komiczne powtórzenia, jakich obaj się dopuszczają (parodiując czy to wielkiego <em>Dyktatora</em>, czy teorię stanu wyjątkowego), nie mają w&nbsp;sobie nic z&nbsp;piekielnych cykli. Tak też opisuje je Benjamin w&nbsp;kontekście swojej teorii zabawki (której zasadą jest wiecznie nienasycona dziecięca przyjemność powtarzania)<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup> i&nbsp;koncepcji proletariackiego teatru dziecięcego, mającego służyć odzyskaniu stłumionej przez burżuazyjne wychowanie, dziecięcej skłonności do wywracania wszelkich hierarchii<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>.</p> <p>Słabość, którą Benjamin miał do Chaplina, wynikała z&nbsp;właściwej komikowi niecodziennej zdolności łączenia – charakterystycznego dla książki o&nbsp;<em>Źródle dramatu żałobnego</em> – krytycznego gestu obnażenia arbitralności porządku mieszczańskiego i&nbsp;przyjemności powtarzania życia, które toczy się w&nbsp;szczelinach świata mitycznego: „Jego nietrzymający się zbyt pewnie głowy melonik – pisze Benjamin w&nbsp;tekście o&nbsp;Hitlerze i&nbsp;Chaplinie – zdradza, że&nbsp;rządy burżuazji stoją na&nbsp;glinianych nogach”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>. Istnieje uderzające podobieństwo między tą oceną a&nbsp;historią, która miała zainspirować Benjamina do napisania książki o&nbsp;baroku, gdy oglądając w&nbsp;Genewie w&nbsp;1916 roku przedstawienie <em>Cyda</em>, dostrzegł, że&nbsp;król ma krzywo nasadzoną koronę<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>.</p> <p>Benjamin pokazuje, że&nbsp;efektem filmów Chaplina nie jest nigdy wytworzenie utopijnego wzorca, ideału przyjaznego życia, który stosowany przez wszystkich, miałby prowadzić do komunizmu. Ich siła polega raczej na&nbsp;krytycznym wywróceniu stosunków społecznych, a&nbsp;nie na&nbsp;przekonaniu, że&nbsp;istnieje możliwość zmiany świata, która dokona się na&nbsp;podstawie sumy jednostkowych działań. W&nbsp;tym właśnie duchu formułowane byłoby pantomimiczne kazanie Chaplina o&nbsp;Dawidzie i&nbsp;Goliacie (z filmu <em>Pielgrzym</em>), biblijnej bajki, która za&nbsp;sprawą dokonującej się w&nbsp;niej inwersji hierarchii społecznych co najmniej od średniowiecza stanowiła ludowe streszczenie historii walk klasowych. Ze względu na&nbsp;ten relacyjny i&nbsp;jakościowy charakter stosowanej przez Chaplina boskiej przemocy (w przeciwieństwie do mitycznej przemocy świata, który zostaje w&nbsp;nich zaatakowany) nie da się łatwo zlokalizować. Nie widział jej nawet Kracauer, zdaniem którego po&nbsp;serii sztuczek i&nbsp;gagów filmy te pozostawiają świat właściwie nietkniętym<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>. Być może jedynym barometrem mocy komizmu jest strach, z&nbsp;jakim faszystowskie reżimy reagują na&nbsp;wytwarzaną za&nbsp;sprawą śmiechu uniwersalną wspólnotę<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>. Na&nbsp;tej mocy Benjamin zbudował swoją grę ze zmuszanym do groteskowych odpowiedzi Carlem Schmittem, a&nbsp;Chaplin burleskę, w&nbsp;której ośmieszony został Adolf Hitler.</p> <p></p> <h2>Wyzwolić anomię</h2> <p>Z tej perspektywy dobrze jest się przyjrzeć jeszcze raz tekstowi o&nbsp;przemocy. Otóż po&nbsp;drobiazgowej krytyce porządku prawnego jako nieuchronnie wpisanego w&nbsp;mityczne kręgi losu oraz ciągłego powtórzenia śmierci i&nbsp;przemocy Benjamin rozważa dwie możliwe drogi wyjścia. W&nbsp;pierwszej podążając za&nbsp;Sorelowskim rozróżnieniem na&nbsp;generalny strajk polityczny i&nbsp;proletariacki, przekonuje, że&nbsp;proletariacki opór, którego celem nie będzie ani polityczna (w sorelowskim sensie) egzekucja konkretnych roszczeń, ani nawet przejęcie władzy, lecz „unicestwienie władzy i&nbsp;przemocy państwowej”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>, nie mieści się już w&nbsp;polu mitycznego prawa, a&nbsp;funkcjonuje na&nbsp;zasadzie – niewymagających uprawomocnienia, bo&nbsp;wolnych od przemocy – środków nazywanych przez Benjamina ze względu na&nbsp;ten brak związków z&nbsp;przemocą: czystymi. Urzeczywistniana podczas proletariackiego strajku sfera czystych środków, choć dokonuje przełamania hegemonii świata mityczno-prawnego, musiała okazać się niewystarczająca, bo&nbsp;zaraz po&nbsp;jej krótkiej charakterystyce Benjamin przechodzi do drugiej drogi wyjścia z&nbsp;mitu. Czyste środki nie zostają w&nbsp;żadnym momencie eseju skrytykowane czy bezpośrednio odrzucone, wiele wskazuje na&nbsp;to, że&nbsp;ich siła polega raczej na&nbsp;chytrym unikaniu uderzeń prawa: organizowaniu kolejnych niemieszczących się w&nbsp;żadnym paragrafie przekrętów niż ustanowieniu alternatywnego (już pozbawionego przemocy) porządku.</p> <p>Po nieco urwanym opisie tego, czym są czyste środki, Benjamin szkicuje drugą drogę wyjścia z&nbsp;mitu, tym razem opartą na&nbsp;przemocy, choć jak twierdzi, mającej pod&nbsp;każdym względem różnić się od swojej mitycznej odpowiedniczki:</p> <blockquote> <p>Tak jak we wszystkich dziedzinach mitowi przeciwstawia się Bóg, tak przemocy mitycznej przeciwstawia się przemoc boska. Stanowi ona jej przeciwieństwo pod&nbsp;każdym względem. O&nbsp;ile przemoc mityczna ustanawia prawo, o&nbsp;tyle przemoc boska prawo unicestwia, o&nbsp;ile ta pierwsza ustawia granice, o&nbsp;tyle ta druga unicestwia bez granic, o&nbsp;ile przemoc mityczna obciąża winą, a&nbsp;zarazem pokutą, o&nbsp;tyle przemoc boska z&nbsp;winy oczyszcza, o&nbsp;ile ta pierwsza zagraża, o&nbsp;tyle ta druga uderza, o&nbsp;ile ta pierwsza jest krwawa, o&nbsp;tyle ta druga niesie śmierć w&nbsp;sposób bezkrwawy<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>.</p> </blockquote> <p>Ten ostatecznie bardzo niejasny fragment zostaje zobrazowany dwoma przykładami. Pierwszy to biblijna opowieść o&nbsp;legionie Koracha, w&nbsp;którego skład mieli wchodzić uprzywilejowani lewici. Tak jak w&nbsp;enigmatycznej definicji boskiej przemocy, tak i&nbsp;w biblijnej historii legioniści zostają nie tyle zabici siłą mitycznej przemocy, ile pochłonięci przez piaski pustyni. Drugi przykład, przynajmniej na&nbsp;pierwszy rzut oka, tłumaczy równie mało. Jednym ze współczesnych przejawów boskiej przemocy jest bowiem przemoc wychowawcza. Benjamin posługuje się pojęciem wychowania niemającym wiele wspólnego z&nbsp;jego zdroworozsądkowym (mieszczańskim) sensem. W&nbsp;takim właśnie, utartym znaczeniu tego słowa wychowanie byłoby po&nbsp;prostu jedną z&nbsp;podstawowych instytucji porządku mitycznego, służącą z&nbsp;jednej strony paternalistycznemu wkładaniu przydatnej wiedzy do głów wychowanków, z&nbsp;drugiej zabijaniu wszelkich dziecięcych skłonności, mogących rozszczelnić jedność świata mitycznego. Benjaminowi chodziłoby zatem o&nbsp;taki rodzaj przemocy, w&nbsp;którym zmieniona zostaje nie tyle treść życia, ile jego forma czy jakość. Podobnie jak w&nbsp;nowotestamentowym wezwaniu: „Jeśli kto przychodzi do Mnie, a&nbsp;nie ma w&nbsp;nienawiści swego ojca i&nbsp;matki, żony i&nbsp;dzieci, braci i&nbsp;sióstr, nadto i&nbsp;siebie samego, nie może być moim uczniem” (Łk 14, 26). Z&nbsp;tej perspektywy jaśniejsza wydaje się też aluzja do zgrai Koracha. Jeśli zadaniem boskiej przemocy jest unicestwiać bezkrwawo, to efektem zniknięcia legionu powinna być raczej śmierć lewitów jako uprzywilejowanych kapłanów niż ich realna zagłada. Chodziłoby więc o&nbsp;takie przeformułowanie wspólnotowych relacji, w&nbsp;których zajęcie kapłańskich pozycji przestaje być już możliwe. Intuicja o&nbsp;jakościowym charakterze zmiany, którą ma przynosić przemoc boska, potwierdza uwaga Benjamina z&nbsp;końcówki tekstu, gdzie dowiadujemy się, że&nbsp;przemocy czystej (w przeciwieństwie do mitycznej) nie sposób precyzyjnie zlokalizować. Niewidoczna dla ludzi „oczyszczająca z&nbsp;winy potęga tej przemocy”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup> nie polega bowiem na&nbsp;łatwym do namierzenia krwawym ustanawianiu i&nbsp;podtrzymywaniu porządku społecznego, ale na&nbsp;jego radykalnej zmianie, po&nbsp;której prawo miałby być jedynie przedmiotem uczonej zabawy<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>.</p> <p>Choć Benjamin wyraźnie odróżnia czyste środki od czystej przemocy (przynajmniej na&nbsp;poziomie tego, jak je charakteryzuje, bo&nbsp;przecież ich efektem ma być jednakowe unicestwienie prawa), to właściwie nie do końca wiadomo, czy mamy do czynienia z&nbsp;dwoma alternatywnymi sposobami rozbijania mitu, czy też należy o&nbsp;nich myśleć razem<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>. Interesująca w&nbsp;tym kontekście wydaje się wskazówka, którą znajdujemy w&nbsp;ostatnich fragmentach tekstu o&nbsp;przemocy. Benjamin, nie mając w&nbsp;sobie wiele z&nbsp;gnostyka<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>, dla którego przerwanie zaklętych kręgów przemocy byłoby albo niemożliwe, albo – w&nbsp;najlepszym wypadku – mogło zajść jedynie na&nbsp;okoliczność jakiejś interwencji zewnętrznej, stwierdza, że&nbsp;„współcześnie władza mitu jest już tu i&nbsp;ówdzie przełamana”<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>. Teza o&nbsp;niedomkniętości porządku mitycznego będzie pojawiać się jeszcze wiele razy. Najmocniej w&nbsp;esejach o&nbsp;Kafce, Welserze i&nbsp;Leskowie, w&nbsp;których rozwijana jest teoria bajki jako „tradycyjnego przekazu o&nbsp;zwycięstwie nad mitem”<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup>. Niewykluczone, że&nbsp;właśnie w&nbsp;kontekście bajki należy myśleć o&nbsp;czystych środkach. Czystość proletariackiego strajku generalnego ma w&nbsp;sobie wiele z&nbsp;dziecięcej <em>chytrości</em>, z&nbsp;jaką w&nbsp;bajce ostatecznie rozbrojony zostaje mit. Bezkompromisowość sorelowskiej teorii – tak jałowej z&nbsp;perspektywy mieszczańskiego zdrowego rozsądku – każe myśleć o&nbsp;strajku właśnie w&nbsp;kontekście wiary w&nbsp;jeszcze niedotknięte mityczną przemocą pokłady życia ludowego czy dziecięcego. Idzie więc o&nbsp;rozwinięcie słynnej sceny z&nbsp;<em>Dzisiejszych czasów, </em>gdzie moment całkowitego wciągnięcia w&nbsp;tryby maszyny fordowskiej fabryki staje się punktem oporu i&nbsp;odmowy takiej pracy, która dalej podlegałaby zasadom wyznaczonym przez reguły kapitalistycznej akumulacji. Chaplin zamiast stać przy taśmie i&nbsp;wkręcać kolejne śruby, wykonuje burleskowy taniec, w&nbsp;którym wszystko (łącznie z&nbsp;silnikami maszyn) ulega odkręceniu<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>. Nadzieja, że&nbsp;wszystko da się jeszcze odkręcić, napędza Benajminowską krytykę gnostyckiej teorii mitu<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>.</p> <p>Jeśli więc sferę czystych środków łączyć z&nbsp;witalnymi siłami do tej pory niezniszczonymi przez śmiercionośne kręgi mitu, to bardziej zrozumiała staje się także do niedawna enigmatyczna relacja między czystą (boską) przemocą a&nbsp;czystymi środkami. W&nbsp;tym sensie będąca flagowym przykładem boskiej przemocy, przemoc wychowawcza (w późniejszych tekstach skorelowana z&nbsp;teorią obrazu dialektycznego<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>) jest nie tyle siłą dialektycznie wprzęgniętą w&nbsp;mityczne struktury, gdzie celem jest heglowskie zniesienie i&nbsp;zachowanie porządku prawnego, ale raczej przemoc niszczenia (struktur mitu) i&nbsp;uwalniania witalnych sił, których resztki odnajdujemy jeszcze w&nbsp;dziecięcej zabawie czy ludowym karnawale.</p> <p></p> <h2>Odbezpieczona dialektyka</h2> <p>To – pogłębiane w&nbsp;kolejnych tekstach – zerwanie z&nbsp;heglowską dialektyką i&nbsp;zastąpienie jej heterodoksyjnym pojęciem obrazu dialektycznego stanie się węzłowym punktem sporu toczonego przez całe lata trzydzieste z&nbsp;Adornem. Właściwie stawka obu projektów była taka sama: zatrzymanie homogenizującego ruchu dialektyki, którego celem miała być całkowita asymilacja tego, co różne, pojedyncze czy osobliwe. Nie oznaczało to jednak definitywnego rozstania z&nbsp;Heglem<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>. Zamiast poszukiwania jakichś zewnętrznych punktów oparcia należy raczej przeformułować pojęcie dialektyki, tak żeby sprostać zadaniu przecięcia fundamentalnej dla nowoczesnego rozumu instrumentalnego zasady poświęcania pojedynczości w&nbsp;imię historycznego postępu. Rozwiązaniem powinna być więc dialektyka, w&nbsp;której ruch zniesienia nie będzie wieńczony żadną wyższą i&nbsp;asymilującą syntezą, jednocześnie wyeksponowanie momentu krytycznego miałoby prowadzić raczej do zachowania jednostki niż jej ostatecznej utraty<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup>. Co charakterystyczne – w&nbsp;czym być może najwyraźniej zaznacza się odmienność dialektyki negatywnej i&nbsp;obrazu dialektycznego – dowodem na&nbsp;pojedyncze istnienie było dla Adorna cielesne doświadczenie bólu<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup>; to na&nbsp;nim miałaby zatrzymywać się wszelka absolutyzująca dialektyka pozytywna i&nbsp;od niego powinna wychodzić każda rozumiana właściwie dialektyka negatywna. Stąd też jedynym językiem, w&nbsp;którym mogło uchronić się imię, był język bezinteresownego dzieła sztuki<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup>. Miałoby w&nbsp;nim dochodzić do utrzymania napięcia między absolutną krytyką i&nbsp;niedającą się zaktualizować utopijną obietnicą innego świata<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup>. W&nbsp;tym sensie Adorniańska korekta Hegla byłaby dokładnie symetryczna wobec sposobu, w&nbsp;jaki myślał o&nbsp;niej Benjamin. Dla niemieckiego krytyka zatrzymanie dialektyki pozytywnej (w cieniu której rozwijał się stalinowski i&nbsp;socjaldemokratyczny marksizm<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup>) było jednocześnie momentem uwalniania oddolnych sił zblokowanych przetoczonym po&nbsp;nich wcześniej walcem postępu. Różnica ta zostaje zresztą świetnie zasygnalizowana w&nbsp;liście z&nbsp;9 grudnia 1938, gdzie Benjamin, odpowiadając na&nbsp;krytykę swoich – zdaniem Adorna nazbyt pobłażliwych wobec kultury masowej – tekstów, balansując na&nbsp;progu eufemizmu i&nbsp;uprzejmości, pisze, że&nbsp;chciał uwypuklić pozytywne momenty, tak bardzo jak Adorno uwypukla negatywne<sup><a href="#sdfootnote45sym" name="sdfootnote45anc">45</a></sup>. Innymi słowy idzie raczej o&nbsp;to, by pozwolić temu, co pojedyncze, przemówić we własnym imieniu, niż konstruować pod&nbsp;wieloma względami bardzo wątpliwy inkubator imienia, jakim miało być dzieło sztuki, które „uczestnicząc w&nbsp;cierpieniu (…) czeka na&nbsp;ową ekspresję, którą dzieła sztuki wyrażą w&nbsp;imieniu pozbawionych głosu”<sup><a href="#sdfootnote46sym" name="sdfootnote46anc">46</a></sup>. Dlatego „centralna dla filozofii Benjamina idea ratowania tego, co martwe”<sup><a href="#sdfootnote47sym" name="sdfootnote47anc">47</a></sup>, powinna mieć w&nbsp;sobie dużo więcej z&nbsp;uwalniania sił tkwiących pod&nbsp;skorupą czasu pustego i&nbsp;homogenicznego niż z&nbsp;paternalistycznego nadawania imion, kojarzonego raczej z&nbsp;gruntu konserwatywną inwentaryzacją historii ucisku<sup><a href="#sdfootnote48sym" name="sdfootnote48anc">48</a></sup> niż z&nbsp;jej odbezpieczaniem<sup><a href="#sdfootnote49sym" name="sdfootnote49anc">49</a></sup>.</p> <p>Te przeciwne wektory zainteresowań powodują, że&nbsp;Adorno pozostanie zdecydowanie nieufny wobec odkrywanych przez Benjamina przełamań porządku mitycznego, zainwestuje wszystkie siły myśli krytycznej raczej w&nbsp;analizy muzyki Schönberga niż wywracające na&nbsp;nice porządek mityczny Benjaminowskie uwagi o&nbsp;Chaplinie, Myszce Miki czy radzieckim kinie. Słabość i&nbsp;w istocie zakamuflowany dogmatyzm stanowiska Adorna dobrze widać w&nbsp;serii listów, jakie zostają wymienione przy okazji pierwszej wersji <em>Exposé </em>do <em>Pasaży</em>. Celem najostrzejszych ataków są tam historyczne dwuznaczności, którymi najeżone jest <em>Exposé</em>. Tym samym Benjamin zamiast pisać o&nbsp;jednoznacznie ideologicznej funkcji XIX-wiecznych wystaw światowych, przygląda im się jak karnawałowym placom, na&nbsp;których stawiający wszystko na&nbsp;głowie kapitalizm<sup><a href="#sdfootnote50sym" name="sdfootnote50anc">50</a></sup> zostaje nie tyle postawiony na&nbsp;nogi, ile jeszcze raz wywrócony na&nbsp;opak, a&nbsp;pierwotnie służące indoktrynacji robotników wystawy okazują się kluczowe dla narodzin pierwszego Międzynarodowego Stowarzyszenia Robotników<sup><a href="#sdfootnote51sym" name="sdfootnote51anc">51</a></sup>. Z&nbsp;perspektywy Adorna każda tego typu dwuznaczność musiała być ustępstwem na&nbsp;rzecz mitu, stąd (zgodnie ze starą zasadą „tym gorzej dla faktów”) bez wysiłku argumentacji zostaje odrzucona w&nbsp;imię wiary w&nbsp;zbawczą siłę dialektycznej negacji.</p> <p>O ile więc Benjamin wierzył w&nbsp;dziecięcą czy ludową zdolność do przekrętu, który nawet najsilniej fetyszyzowane obszary kultury masowej umie obrócić na&nbsp;swoją korzyć, to Adorno takiej możliwości nie widział, co więcej, każde ustępstwo wobec tego, co ludowe i&nbsp;bezpośrednie, uważał po&nbsp;prostu za&nbsp;krok w&nbsp;kierunku faszyzmu. Efektem tego niemal całkowitego zamknięcia Adorna w&nbsp;ramach – niedopuszczającej możliwości istnienia w&nbsp;micie jakichkolwiek szczelin – dialektyki negatywnej były liczne przestrogi sugerujące pokrewieństwo Benjamina i&nbsp;biologicznego witalizmu (takich autorów, jak Jung, Klages, Bataille czy Caillois). Podejście to daje o&nbsp;sobie znać w&nbsp;kontekście korespondencyjnej dyskusji na&nbsp;temat <em>Modliszki</em> Caillois. Pisze Adorno w&nbsp;liście z&nbsp;września 1937 do Benjamina:</p> <blockquote> <p>jest tu pewien rodzaj materializmu łączący Caillois z&nbsp;Jungiem czy Klagesem. A&nbsp;nawet więcej niestety. Ahistoryczny, wrogi wobec społecznej analizy, i&nbsp;w rzeczywistości kryptofaszystowski kult natury, który musi prowadzić do swego rodzaju narodowej wspólnoty (<em>Volksgemeinschaft</em>) opartej na&nbsp;biologii i&nbsp;wyobraźni<sup><a href="#sdfootnote52sym" name="sdfootnote52anc">52</a></sup>.</p> </blockquote> <p></p> <p>Chcąc zadenuncjować (na przykład w&nbsp;kontekście swojej krytyki teorii obrazu dialektycznego) bliskość Benjamina i&nbsp;francuskich witalistów, Adorno starannie zakrywa osobliwość Benjaminowskiej koncepcji, która próbuje utrzymywać równą odległość między takim protofaszystowskim witalizmem a&nbsp;dialektyką negatywną. Czy mówiąc precyzyjniej: wypracować taką teorię natury, która nie będzie już szukać żadnego złotego środka między witalizmem i&nbsp;dialektyką negatywną, ale po&nbsp;prostu przetnie stanowisko Caillois (odpowiedzialnego za&nbsp;fetyszyzowanie męskich sił życiowych)<sup><a href="#sdfootnote53sym" name="sdfootnote53anc">53</a></sup> i&nbsp;Adorna. Stawką będzie więc takie pojęcie natury, w&nbsp;którym do głosu dochodzi raczej wynaturzony, zniewieściały i&nbsp;w pewnym sensie nie-ludzki Chaplin niż stanowiący ostatecznie uosobienie znaturalizowanej męskości Hitler. Zgodnie z&nbsp;napisanym w&nbsp;1934 i&nbsp;antycypującym <em>Dyktatora</em> esejem Benjamina <em>Hitlers herabgeminderte Männlichkeit</em> dekonstrukcja faszystowskiej męskości zamiast przebiegać na&nbsp;zasadzie – udzielanych czytelnikom – moralnych lekcji, powinna czerpać siły z&nbsp;komizmu próbującej się ciągle w&nbsp;sobie utwierdzić tożsamości.</p> <p>Ta zaskakująca zbieżność pojęcia natury Adorna i&nbsp;oskarżanego o&nbsp;kryptofaszyzm Caillois staje się jeszcze bardziej namacalna po&nbsp;publikacji <em>Dialektyki oświecenia</em>, w&nbsp;której entuzjastycznie cytowane <em>Théorie de la fête</em> służy do obnażenia w&nbsp;istocie konserwatywnej funkcji karnawału: w&nbsp;którym „człowiek oddaje się cudownie przemienionym pierwotnym mocom; ale ze względu na&nbsp;zawieszony zakaz akt ten ma charakter wybryku i&nbsp;szaleństwa”<sup><a href="#sdfootnote54sym" name="sdfootnote54anc">54</a></sup>. Innymi słowy ludowe święto, dziecięcy mimetyzm czy w&nbsp;ogóle cała sfera Benjaminowskich czystych środków, z&nbsp;perspektywy Adorna nie ma nic wspólnego z&nbsp;przełamaniem mitu, stanowi raczej nieoczywistą (bo jakby nie było, opartą raczej na&nbsp;różnicy niż tożsamości) metodę podtrzymywania porządku społecznego niż jego krytykę. Z&nbsp;kolei zdaniem Benjamina takie podejście musiało wydawać się z&nbsp;jednej strony przesadnie esencjonalistyczne, z&nbsp;drugiej – niebezpiecznie zbliżać się do hobbesowskiej teorii stanu naturalnego, tak zdecydowanie krytykowanej w&nbsp;eseju o&nbsp;przemocy (za funkcjonalność wobec mitu i&nbsp;używanie przed-społecznej wojny wszystkich ze wszystkimi do legitymizowania przemocy prawa). Oczywiście tak Adorno, jak i&nbsp;Caillois pozostawali głęboko nieufni wobec liberalnego rozdziału między sferą społeczną i&nbsp;naturalną. Problem w&nbsp;tym, że&nbsp;obaj znosząc ten binaryzm (Adorno raczej w&nbsp;tym, co społeczne, Caillois w&nbsp;tym, co przyrodnicze), za&nbsp;punkt wyjścia przyjmowali liberalny fantazmat o&nbsp;naturze. W&nbsp;tym sensie krytyka Benjamina była dużo głębsza, nie dotyczyła bowiem samego podziału, ale raczej tego, jak były skonstruowane jego człony. Choć rozwiązanie Caillois zostaje przez Benjamina w&nbsp;recenzji z&nbsp;<em>L'aridite</em> skrytykowane z&nbsp;imienia i&nbsp;wprost oskarżone o&nbsp;faszyzm<sup><a href="#sdfootnote55sym" name="sdfootnote55anc">55</a></sup>, a&nbsp;stanowisko Adorna pod&nbsp;pretekstem walki z&nbsp;socjaldemokracją i&nbsp;z podejrzeniem o&nbsp;protofaszyzm, to nie ulega wątpliwości, że&nbsp;problem z&nbsp;obiema teoriami leżał właśnie w&nbsp;katastrofalnej koncepcji, w&nbsp;której:</p> <blockquote> <p>chce się widzieć postępy jedynie w&nbsp;opanowywaniu natury, a&nbsp;nie regres społeczeństwa. Koncepcja ta przejawia już technokratyczne cechy, które później można będzie odnaleźć w&nbsp;faszyzmie. Należy do nich ujęcie natury, które w&nbsp;złowrogi sposób kontrastuje z&nbsp;socjalistycznymi utopiami sprzed roku 1848. Praca – jak ją się teraz pojmuje – sprowadza się do wyzysku natury, który z&nbsp;naiwnym zadowoleniem przeciwstawia się wyzyskowi proletariatu. W&nbsp;porównaniu z&nbsp;tą pozytywistyczną koncepcją fantazje, które dały tyle powodów do drwin z&nbsp;takiego choćby Fouriera, zaskakują zdrowym rozsądkiem. Według Fouriera należyte uregulowanie pracy społecznej powinno sprawić, że&nbsp;nocą ziemię oświetlać będą cztery księżyce, lód zniknie z&nbsp;biegunów, woda w&nbsp;morzach nie będzie już słona, a&nbsp;drapieżniki służyć będą człowiekowi. Wszystko to ilustruje charakter pracy, która nie wyzyskuje natury, lecz potrafi wydobyć z&nbsp;niej twory potencjalnie drzemiące w&nbsp;jej łonie. Dopełnienie zdegenerowanej koncepcji pracy stanowi natomiast natura, która – jak to ujął Dietzgen – „dostępna jest gratis”<sup><a href="#sdfootnote56sym" name="sdfootnote56anc">56</a></sup>.</p> </blockquote> <p>Podejrzenie Adorna o&nbsp;sympatie wobec, opisanej w&nbsp;cytacie, socjaldemokratycznej wizji emancypacji, która opierałaby się na&nbsp;wyraźnej różnicy między naturą (którą można eksploatować) a&nbsp;społeczeństwem (które miałoby z&nbsp;tego wyzysku czerpać korzyści), jest – w&nbsp;kontekście Adorniańskiej krytyki rozumu instrumentalnego i&nbsp;nowoczesnego postępu – oczywiście absolutnie nie do utrzymania. Jednak rozwiązanie, które proponuje Adorno jest tylko modyfikacją tego (wulgarno-marksistowskiego czy proto-faszystowskiego) stanowiska, a&nbsp;nie – czego domagał się Benjamin – jego zupełnym odrzuceniem<sup><a href="#sdfootnote57sym" name="sdfootnote57anc">57</a></sup>. Główne oskarżenie, które zostaje w&nbsp;<em>Dialektyce oświecenia</em> wysunięte w&nbsp;kierunku nowoczesności, opiera się na&nbsp;tezie, że&nbsp;stosunki kapitalistyczne są brutalnym powtórzeniem stosunków naturalnych. Nowoczesność więc, zamiast wywiązać się ze swojej obietnicy zerwania z&nbsp;mitem i&nbsp;przyrodą odtwarza je w&nbsp;jeszcze okrutniejszej postaci. Zdaniem Benjamina sytuacja ma się jednak zgoła inaczej. Nie istnieje żadna natura, w&nbsp;której wszyscy skaczą sobie do gardeł. W&nbsp;pojęciu natury mieści się zarówno konkurencja, jak i&nbsp;Kropotkinowska pomoc wzajemna, tak maczystowski Hitler, jak zniewieściały Chaplin. Zamiast – krytykując tak rozumianą naturę z&nbsp;moralistycznych pozycji – wzmacniać tylko jej homogenizację, Benjamin będzie przekonywał do piętrzenia obecnych w&nbsp;naturze sprzeczności, podążania za&nbsp;Chaplinowymi czy Kropotkinowskimi liniami ujścia.</p> <p>Adorno, czemu daje wyraz w&nbsp;notatce z&nbsp;<em>Minima moralia</em> o&nbsp;protofaszystowskich kolegach ze szkolnych ławek<sup><a href="#sdfootnote58sym" name="sdfootnote58anc">58</a></sup>, zupełnie nie dostrzegał tak ważnych dla Benjamina dwuznaczności. Oczywiście autor notatki ma częściowo rację, doszukując się już w&nbsp;szkole tendencji wykorzystanych później przez faszystów. Zamiast jednak przyjrzeć się swoim dziecięcym wspomnieniom z&nbsp;dialektyczną ostrożnością, dokonuje ich niemal natychmiastowej homogenizacji, nieopatrznie lądując w&nbsp;objęciach ideologów faszyzmu, inwestujących wszystkie filozoficzne siły w&nbsp;poszukiwanie dowodów na&nbsp;całkowicie męski i&nbsp;brutalny charakter pierwotnej (dziecięcej, szkolnej, ludowej) <em>Volksgemeinschaft.</em></p> <p>Próbując znaleźć odpowiedź na&nbsp;pytanie o&nbsp;genezę faszyzmu, lepiej sięgnąć do znakomitej noweli <em>Mario i&nbsp;czarodziej </em>Tomasza Manna. Opisana w&nbsp;niej historia rozgrywa się w&nbsp;adriatyckim kurorcie podczas niejednoznacznego okresu narodzin włoskiego faszyzmu. Mimo panującej w&nbsp;mieście atmosfery, przejawiającej się kolejnymi wybuchami lokalnej ksenofobii, Mann jest jak najdalszy od jej naturalizowania. Wręcz przeciwnie, jak stwierdza zszokowany nacjonalizmem włoskich dzieci narrator:</p> <blockquote> <p>Istotnie, roiło się na&nbsp;plaży od patriotycznych dzieci – nienaturalne i&nbsp;przygnębiające zjawisko. Wszak dzieci tworzą odrębny gatunek ludzi i&nbsp;społeczeństwa, można rzec własną małą nację; łatwo i&nbsp;pewnie odnajdują się w&nbsp;świecie na&nbsp;gruncie wspólnej formy życia, choć ich szczupły skarbiec słów należy do różnych języków<sup><a href="#sdfootnote59sym" name="sdfootnote59anc">59</a></sup>.</p> </blockquote> <p>Nowela, inaczej niż dużo bardziej w&nbsp;tym względzie jednoznaczny <em>Zły kolega</em> Adorna, zaczyna się od zdziwienia „nienaturalnym i&nbsp;przygnębiającym zjawiskiem” dziecięcego nacjonalizmu, z&nbsp;ogromnym dystansem potraktowana jest w&nbsp;niej teza o&nbsp;protofaszystowskim charakterze niektórych dziecięcych zabaw.</p> <p>Jak się jednak okazuje, przygody na&nbsp;plaży są jedynie wstępem do węzłowego dla całej historii przedstawienia wędrownego iluzjonisty Cavaliere Cipolli. Tytułowy czarodziej to przede wszystkim hipnotyzer, który podczas trwającego kilka godzin spektaklu doprowadza miejscową publiczność do niemal całkowitej podległości. Jego różdżką jest szpicruta, to za&nbsp;jej pomocą dokonuje precyzyjnych cięć („obiera miejsce najmniejszego oporu za&nbsp;punkt swojego natarcia”<sup><a href="#sdfootnote60sym" name="sdfootnote60anc">60</a></sup>), skutecznie wydzielając z&nbsp;tłumu przerażone świstem bata ofiary, mające już za&nbsp;chwilę stać się przedmiotem widowiskowego pośmiewiska. Rechot z&nbsp;upokarzanych na&nbsp;scenie nie ma jednak nic wspólnego z&nbsp;tym, który wybucha podczas przypadkowych gagów Chaplina. Jest to raczej nerwowy śmiech, tych którzy cieszą się, że&nbsp;dokonujące się w&nbsp;powietrzu arbitralne cięcie zostawiło ich po&nbsp;właściwej (aryjskiej) stronie cyrkowego namiotu. Groteskowy pietyzm z&nbsp;jakim pokraczny i&nbsp;garbaty Cipolli pielęgnuje swoją męskość – począwszy od nadanego sobie tytułu <em>cavaliere</em>, poprzez wykonywanie wszystkie gestów ze śmiertelną powagą, kończąc na&nbsp;serii pozdrowień w&nbsp;stylu rzymskiego salutu – jaskrawo kontrastuje z&nbsp;dziecięcą swobodą Chaplina. Zresztą podstawowym gestem organizującym Chaplinowy <em>Cyrk</em> jest wytrącenie tej hipnotyzerskiej szpicruty z&nbsp;rąk – tworzących podziały na&nbsp;ludzi i&nbsp;nie-ludzi – faszystowskich funkcjonariuszy. Dokonujące się w&nbsp;filmie wywrócenie hierarchii stanowi znakomitą realizację Benjaminowskiej komunistycznej pedagogiki, w&nbsp;której Chaplin jako beztroskie dziecko kwestionuje kompetencje kolejnych zawodowych cyrkowców: raz za&nbsp;sprawą przypadkowo potrąconego stolika, obnażając sztuczki iluzjonisty, innym razem wykonując <em>zuchwały </em>taniec na&nbsp;linie pod&nbsp;nieobecność zatrudnionego linoskoczka. Jednocześnie wytworzona dzięki tym przypadkowym gagom karnawałowa radość konstytuuje wspólnotę, której wrogiem nie są już odczłowieczane i&nbsp;wyciągane siłą na&nbsp;scenę ofiary, a&nbsp;staje się nim przemoc starych hierarchii i&nbsp;podziałów.</p> <p>Stawką, o&nbsp;którą grał Benjamin, było więc zablokowanie – tak prostego z&nbsp;perspektyw Adorna – sylogizmu między tym, co ludowe, dziecięce i&nbsp;naturalne, a&nbsp;faszystowskim kultem męskości. Nie istnieje żaden odwieczny sojusz między naturą a&nbsp;hegemonicznym porządkiem mityczno-prawnym. Zgodnie z&nbsp;tym, co czytamy w&nbsp;eseju o&nbsp;Leskowie: „Stawiane przez mit pytania, są proste, jak proste jest pytanie Sfinksa. W&nbsp;bajce postaci zwierząt, które niosą pomoc dzieciom, pokazują nam, że&nbsp;natura może być nie tylko posłuszna mitowi, ale o&nbsp;wiele chętniej gromadzi się wokół człowieka”<sup><a href="#sdfootnote61sym" name="sdfootnote61anc">61</a></sup>. W&nbsp;tym kontekście wydaje się jasne, że&nbsp;podstawowym zadaniem materializmu historycznego jest nie tyle wyjście z&nbsp;natury, ile odzyskanie jej w&nbsp;wynaturzonej Fourierowskiej postaci<sup><a href="#sdfootnote62sym" name="sdfootnote62anc">62</a></sup>, która w&nbsp;stosunku do wszechogarniającego (w latach trzydziestych równie mocno jak dziś) obrazu natury jako machiny niosącej jedynie śmierć i&nbsp;przemoc „zaskakuje zdrowym rozsądkiem”<sup><a href="#sdfootnote63sym" name="sdfootnote63anc">63</a></sup>.</p> <p></p> <h2>Rzeczywisty stan wyjątkowy</h2> <p>W tym metodologicznym (czy historyczno-materialistycznym) zastosowaniu boskiej przemocy idzie zatem o&nbsp;to, by odwrócić pończochę (z powrotem) na&nbsp;lewą stronę<sup><a href="#sdfootnote64sym" name="sdfootnote64anc">64</a></sup>. Nie chodzi więc o&nbsp;powrót do znaturalizowanego złotego wieku ani tym bardziej o&nbsp;zgodę na&nbsp;pozbawione szwów i&nbsp;sprzeczności <em>status quo</em>, ale o&nbsp;taką krytykę, która niszcząc aktualne stosunki, odzyska tłumione, lecz już tu i&nbsp;ówdzie przełamujące mityczny porządek, siły życia. Zastosowanie takiej techniki umożliwia z&nbsp;jednej strony dochowanie wierności rygorystycznym wymogom dialektyki negatywnej (która zakazuje aktualizacji świata utopii), z&nbsp;drugiej – uniknięcie jałowej produkcji sprawiedliwości w&nbsp;inkubatorach dzieła sztuki (na czym zatrzymuje się Adorno), dając tym samym rzeczywistą możliwość wyartykułowania oporu jako ruchu niszczenia mitu i&nbsp;wyzwalania życia.</p> <p>Wyzwolona sfera czystych środków jest więc efektem dialektycznego wywrócenia na&nbsp;opak świata, który bycie na&nbsp;opak uczynił – o&nbsp;czym dowiadujemy się między innymi z&nbsp;głośnej VIII tezy z&nbsp;eseju <em>O pojęciu historii</em> – regułą<sup><a href="#sdfootnote65sym" name="sdfootnote65anc">65</a></sup>. Takim dialektycznym saltem powinien być właśnie – sygnalizowany w&nbsp;dalszej części tezy – rzeczywisty stan wyjątkowy (<em>des wirklichen Ausnahmezustands</em>)<sup><a href="#sdfootnote66sym" name="sdfootnote66anc">66</a></sup>. Benjamin przekonuje, że&nbsp;podstawowy problem polega na&nbsp;tym, że&nbsp;(podobnie jak wypadku kwestii teorii natury) zdeklarowani przeciwnicy faszyzmu, zamiast szukać rozwiązań, które umożliwiłyby wypracowanie zupełnie innego sposobu myślenia o&nbsp;historii i&nbsp;polityce, poruszają się na&nbsp;tym samym polu filozoficznym co faszyści: „szanse tego ostatniego – czytamy w&nbsp;ósmej tezie – biorą się w&nbsp;nie mniejszej mierze stąd, że&nbsp;jego oponenci występują przeciw niemu w&nbsp;imię postępu jako pewnej normy historycznej”<sup><a href="#sdfootnote67sym" name="sdfootnote67anc">67</a></sup>. Innymi słowy to, co jest właściwie źródłem problemu, jakim jest faszyzm, czyli nowoczesność, mieszczaństwo i&nbsp;kapitalizm, przedstawia się jako jego rozwiązanie. Benjamin – o&nbsp;czym pisał już w&nbsp;eseju o&nbsp;przemocy z&nbsp;1921 roku – był zbyt głęboko przekonany o&nbsp;istotowym związku faszyzmu i&nbsp;liberalnego państwa prawa, żeby widzieć jako realną alternatywę.</p> <p>Jedynym momentem, obok już cytowanych fragmentów z&nbsp;książki o&nbsp;baroku i&nbsp;notatce z&nbsp;pracy o&nbsp;haszyszu<sup><a href="#sdfootnote68sym" name="sdfootnote68anc">68</a></sup>, w&nbsp;którym Benjamin posługuje się jeszcze pojęciem stanu wyjątkowego, jest opublikowana pod&nbsp;pseudonimem w&nbsp;1935 roku <em>Gespräch über dem Corso</em>. Tekst, będący zapisem rozmowy na&nbsp;temat karnawałowego święta odbywającego się podczas Mardi Gras w&nbsp;Nicei, jest interesującą wskazówką dotyczącą tego, co Benjamin rozumiał pod&nbsp;pojęciem rzeczywistego stanu wyjątkowego:</p> <blockquote> <p>Karnawał jest stanem wyjątkowym. Wywodzący się z&nbsp;antycznych saturnaliów, kiedy wszystko ulegało odwróceniu do góry nogami, a&nbsp;panowie usługiwali niewolnikom. Karnawałowy stan wyjątkowy wyróżnia się ostrą krytyką stanu obowiązującego na&nbsp;co dzień<sup><a href="#sdfootnote69sym" name="sdfootnote69anc">69</a></sup>.</p> </blockquote> <p>W przeciwieństwie do <em>Dialektyki oświecenia</em> – gdzie karnawał miał realizować konserwatywną funkcję okresowego oczyszczenia – w&nbsp;<em>Gespräch über dem Corso </em>przypisuje mu się funkcję właściwie rewolucyjną. Niezależnie od tego czy wybuchy karnawałowego życia uznamy za&nbsp;wcześniejsze wobec próbujących je zasymilować kościelnych instytucji (w rodzaju święta Bożego Ciała), czy dokonujące się na&nbsp;zasadzie odpowiedzi i&nbsp;przechwycenia tych instytucji, to stanowią one moment zatrzymania mitycznych kręgów śmierci i&nbsp;uruchomienia życia, w&nbsp;którym powtarzana ma być już tylko przyjemność. Z&nbsp;tej perspektywy karnawał to nic innego jak skondensowany obraz innego bezklasowego świata. Dlatego zadaniem materialisty historycznego byłoby przede wszystkim uwolnienie obrazów i&nbsp;użycie ich do rozbicia roztaczanej przez mieszczaństwo wizji historii i&nbsp;polityki, w&nbsp;której nie istnieją żadne alternatywy i&nbsp;gdzie wszystko toczy się zgodnie z&nbsp;regułami tak czy inaczej rozumianej dziejowej konieczności.</p> <p>Choć Benjamin daje świetne narzędzia do krytyki pisanej zazwyczaj pod&nbsp;dyktando ideologów kościelnych konserwatywnej interpretacji karnawału<sup><a href="#sdfootnote70sym" name="sdfootnote70anc">70</a></sup> (której zwolennikami byli Adorno i&nbsp;Horkheimer), to dużo poważniejszy zarzut przeciwko karnawałowi jako sferze czystej anomii wysuwa Agamben. Podążając w&nbsp;swojej analizie za&nbsp;błyskotliwymi intuicjami Karla Meuli, dowodzi pokrewieństwa średniowiecznego karnawału z&nbsp;archaicznymi instytucjami zawieszania prawa, takimi jak germański <em>Friedlosigkeit </em>czy staroangielski <em>vargus.</em> Zgodnie z&nbsp;rozpoznaniami szwajcarskiego antropologa wszystko to, co uważaliśmy dotąd za&nbsp;wybuch spontanicznej i&nbsp;niezorganizowanej przemocy, należałoby traktować jako bezpośrednią kontynuację form prawnych odpowiedzialnych za&nbsp;banicje, wygnania i&nbsp;wykluczenia:</p> <blockquote> <p>Jeśli hipoteza Meuli jest słuszna – pisze Agamben w&nbsp;<em>Stanie wyjątkowym</em> – to ‹‹legalna anarchia›› anomicznych świąt nie daje się wywieść z&nbsp;antycznych rytuałów agrarnych, (...) lecz wydobywa na&nbsp;światło dzienne, w&nbsp;formie parodystycznej, wewnętrzną anomię prawa, stan wyjątkowy jako anomiczne pulsowanie samego serca <em>nomos</em><sup><a href="#sdfootnote71sym" name="sdfootnote71anc">71</a></sup><em>.</em></p> </blockquote> <p>Niezależnie od podnoszonej na&nbsp;przykład przez Petera Pfrundera krytyki tych historycznych odkryć<sup><a href="#sdfootnote72sym" name="sdfootnote72anc">72</a></sup>, atakowane w&nbsp;<em>Stanie wyjątkowym</em> strukturalne podobieństwo karnawałowej anomii i&nbsp;suwerennego wyrzucenia trudno zlekceważyć. Argument Agambena polega bowiem nie tyle na&nbsp;– będącym udziałem na&nbsp;przykład Adorna – dowodzeniu, że&nbsp;karnawał jest po&nbsp;prostu instytucją władzy, służącą rozładowaniu społecznych napięć, ale utrzymując możliwość jego oddolnej produkcji, wskazuje, że&nbsp;nie wytwarza on żadnej zewnętrznej sfery, tylko doskonale reprodukuje te same mechanizmy anomii, które rządzą suwerennym zawieszaniem prawa<sup><a href="#sdfootnote73sym" name="sdfootnote73anc">73</a></sup>.</p> <p>Nie wydaje się, żeby Benjamin wobec takiego obrotu sprawy pozostawał zupełnie bezradny. Wręcz przeciwnie. Chaplinowska gra, którą toczy z&nbsp;faszyzmem: z&nbsp;<em>przegiętym</em> listem do Schmitta, przechwyceniami teorii stanu wyjątkowego i&nbsp;koncepcji <em>przebudzenia,</em> do którego miał prowadzić tak nazizm, jak i&nbsp;obraz dialektyczny<sup><a href="#sdfootnote74sym" name="sdfootnote74anc">74</a></sup>, mocno komplikuje przyjętą przez Agambena perspektywę. Różnice te zresztą świetnie widać w&nbsp;tym, jak inaczej zostaje w&nbsp;obu wypadkach sformułowana teoria czystych środków.</p> <p>Otóż wbrew interpretacji, która pojawia się w&nbsp;<em>Stanie wyjątkowym</em>, Benjaminowska teoria czystych środków wcale nie opiera się na&nbsp;eksponowanej przez Agambena niemal autotelicznej procedurze oczyszczania. Zasadniczy dla tej interpretacji cytat z&nbsp;eseju o&nbsp;Krausie: „U źródeł istnienia nie leży czystość, lecz oczyszczenie”<sup><a href="#sdfootnote75sym" name="sdfootnote75anc">75</a></sup>, Agamben wyrywa z&nbsp;kontekstu. Benjamin pisze tam nie o&nbsp;czystych środkach, ale o&nbsp;tym: „że nie istnieje idealistyczne, a&nbsp;tylko materialistyczne wyzwolenie z&nbsp;mitu i&nbsp;że to nie czystość, lecz oczyszczenie stoi u&nbsp;źródeł świata stworzonego (<em>Ursprung der Kreatur</em>)”<sup><a href="#sdfootnote76sym" name="sdfootnote76anc">76</a></sup>. Staje więc na&nbsp;straży trzeźwego stanowiska, zgodnie z&nbsp;którym zbawcze działanie nie może być efektem jakiejś zewnętrznej (idealistycznej) interwencji, ale wymaga jak najbardziej materialistycznej walki z&nbsp;mitem, zapatrzonej (zgodnie z&nbsp;regułami działania boskiej przemocy) raz w&nbsp;cytat, innym razem w&nbsp;alegorię czy obraz dialektyczny. Wbrew usiłowaniom Agambena czystość Benjamina jest, owszem, efektem oczyszczania – w&nbsp;tym sensie, w&nbsp;jakim benjaminowska dialektyka opiera się na&nbsp;momencie oczyszczającego niszczenia – jednak nie jest jego produktem, bo&nbsp;powinna polegać na&nbsp;uwalnianiu, a&nbsp;nie wytwarzaniu, spętanych sił historii<sup><a href="#sdfootnote77sym" name="sdfootnote77anc">77</a></sup>.</p> <p>Jest jeszcze jeden problem z&nbsp;Agambenowską krytyką karnawału. Jedyne, co zostaje w&nbsp;niej wyeksponowane, to tumult i&nbsp;eksces przemocy. Nie negując podnoszonej w&nbsp;<em>Stanie wyjątkowym</em> brutalności sił wyzwalanych przy okazji karnawału, nalży stwierdzić, że&nbsp;ich zasadniczym celem było raczej rozbrajanie (wytwarzającej polityczne podziały na&nbsp;ludzi i&nbsp;nie-ludzi) maszyny antropologicznej niż napędzanie jej trybów. Czy jak widzieliśmy to w&nbsp;wypadku <em>Cyrku</em> Chaplina; chodzi o&nbsp;wybijanie z&nbsp;rąk, pracującej na&nbsp;rzecz tych podziałów, faszystowskiej szpicruty. Co więcej takie rozbrajanie wcale nie musiało mieć charakteru nieokrzesanej przemocy, a&nbsp;mogło – jak ma to miejsce wypadku Chaplinowskich gagów, dziecięcych zabaw czy Kafkowskich bajek – opierać się na&nbsp;zażywaniu autonomii życia poza światem porządku mityczno-prawnego.</p> <p>Możliwość wyartykułowania takiej sfery wymaga jednak innej koncepcji maszyny antropologicznej. Z&nbsp;perspektywy Agambena maszyna pochłania całe pole życia, wobec tego każdy przejaw autonomii czy zewnętrza jest jedynie funkcją absolutnego mechanizmu mityczno-prawnego produkującego pole nierozróżnialności między tym, co ludzkie i&nbsp;nie-ludzkie, między tym, co społeczne i&nbsp;tym, co, naturalne<sup><a href="#sdfootnote78sym" name="sdfootnote78anc">78</a></sup>. Zgodnie z&nbsp;kluczowym dla całego projektu <em>Homo sacer</em> rozpoznaniem, skuteczne wytwarzanie podziałów nie może opierać się na&nbsp;ostrych różnicach (między <em>bios</em> i&nbsp;<em>dzoe</em>, między tym, co ludzkie i&nbsp;nie-ludzkie), ale na&nbsp;dużo trwalszym i&nbsp;komplikującym mechanizm podporządkowania – asymilującym wyłączeniu. W&nbsp;tym też kontekście Agamben będzie mógł powtórzyć za&nbsp;Benjaminem, że&nbsp;historia uciśnionych poucza nas, że&nbsp;stan wyjątkowy (jako stan nierozróżnialności między tym, co społeczne i&nbsp;naturalne, prawne i&nbsp;poza-prawne) jest regułą. Sposobem na&nbsp;rozwiązanie tego węzła (nierozróżnialności) nie może być – w&nbsp;pewnym sensie odpowiedzialna za&nbsp;jego coraz silniejsze zaciskanie – heglowska dialektyka. Stąd jeśli porządek mityczno-prawny zmierza w&nbsp;kierunku zawieszenia podziałów i&nbsp;wytworzenia pola ich nierozróżnialności (której, przypomnijmy, paradygmatem jest stan wyjątkowy), to jedynym wyjściem może być dezaktywacja, czyli zatrzymanie czy zawieszenie produktywnych z&nbsp;punktu widzenia władzy zawieszeń. Dopiero wówczas wytworzona zostaje sfera, w&nbsp;której możemy mówić o&nbsp;używaniu bez posiadania<sup><a href="#sdfootnote79sym" name="sdfootnote79anc">79</a></sup> czy o&nbsp;„zabawie prawem tak jak dzieci bawią się przedmiotami, które wyszły z&nbsp;użycia”<sup><a href="#sdfootnote80sym" name="sdfootnote80anc">80</a></sup>.</p> <p>Choć Agamben powtarza za&nbsp;Benjaminem krytyczne uwagi o&nbsp;nowoczesnym porządku prawno-mitycznym jako opartym na&nbsp;paradoksalnej regule stanu wyjątkowego, a&nbsp;także, podobnie jak on, jedyną możliwość jego przełamania dostrzega w&nbsp;rzeczywistym stanie wyjątkowym (jako dziecięcym szabacie), to ostatecznie podobieństwa między tymi teoriami są dość powierzchowne. Dla niemieckiego krytyka świat rzeczywistego stanu wyjątkowego nie może być po&nbsp;prostu efektem apokaliptycznego zatrzymania, potrzebuje za&nbsp;to precyzyjnego i&nbsp;chytrego uderzenia, które niszcząc (mit i&nbsp;prawo), uwolni wszystko to, co tli się już w&nbsp;jego szczelinach. Nieufność Benjamina wobec takiej (reprezentowanej przez Agambena) absolutystycznej teorii mitu będzie się brała z&nbsp;podejrzenia o&nbsp;bezkrytyczne reprodukowanie tego, jak porządek prawny sam siebie przedstawia: w&nbsp;swojej bezalternatywności i&nbsp;niczym nieograniczonej mocy. Podczas gdy, jak pamiętamy z&nbsp;książki o&nbsp;baroku: „[k]siążę, który ma rozstrzygać o&nbsp;stanie wyjątkowym, w&nbsp;pierwszej lepszej sytuacji pokazuje, że&nbsp;właściwie nie potrafi zdecydować o&nbsp;niczym”<sup><a href="#sdfootnote81sym" name="sdfootnote81anc">81</a></sup>.</p> <p>Benjaminowska analiza porządku prawa (z faszyzmem jako jego najlepszym przykładem), zmierzała właściwie w&nbsp;dokładnie odwrotnym kierunku niż ta, którą zaproponował Agamben. Zamiast koncentrować się na&nbsp;anomii całkowicie zasymilowanej, bo&nbsp;znajdującej się w&nbsp;samym sercu <em>nomosu</em>, w&nbsp;jednym z&nbsp;esejów o&nbsp;Chaplinie dowodził, że&nbsp;„najbardziej rewolucyjnym i&nbsp;uniwersalnym afektem mas jest śmiech”<sup><a href="#sdfootnote82sym" name="sdfootnote82anc">82</a></sup>. Innymi słowy w&nbsp;perspektywie śmiechu czy komizmu odsłania się nie tylko radykalna przygodność każdego porządku władzy, ale także niemożliwość jego domknięcia, która powoduje, że&nbsp;spięty w&nbsp;swojej męskości na&nbsp;ostatni guzik Hitler może za&nbsp;sprawą jednego Chaplinowego gagu stać się zniewieściałym łamagą<sup><a href="#sdfootnote83sym" name="sdfootnote83anc">83</a></sup>. Śmiech jest więc tyleż afirmacją nie-ludzkiej tożsamości, co – dzięki dokonującemu się w&nbsp;nim wybuchowi witalnych sił i&nbsp;wytworzeniu uniwersalnej wspólnoty – mechanizmem kwestionującym sam podział na&nbsp;zawsze produktywne i&nbsp;maczystowskie to, co ludzkie, oraz zasadniczo bierne to, co zniewieściałe, dzikie i&nbsp;nie-ludzkie (jak Cyganie, Żydzi, zwierzęta czy proletariuszki).</p> <p>Jeśli wpisana w&nbsp;porządek mityczno-prawny maszyna antropologiczna rzeczywiście całkowicie asymilowałaby anomię, to niezrozumiana byłaby neurotyczna reakcja władzy mającej siebie za&nbsp;tamę przed wszelkiego rodzaju anomią czy wynaturzeniem<sup><a href="#sdfootnote84sym" name="sdfootnote84anc">84</a></sup>. To przecież za&nbsp;sprawą tej makabrycznej neurozy w&nbsp;średniowieczu zamykano beztroskich kuglarzy (radośnie rozsadzających tryby maszyny, mającej wdrożyć ich w&nbsp;struktury ówczesnych podziałów klasowych), palono XVI i&nbsp;XVII-wieczne czarownice, czy poddawano zagładzie XX-wiecznych (takich jak Benjamin) żydowskich komunistów.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Carl Schmitt, <em>Lewiatan w teorii państwa Thomasa Hobbesa</em>, przeł. M. Falkowski, Pruszczyński i S-ka, Warszawa 2008. Oprócz tych listów Schmitt będzie czynić liczne odwołania do Benjamina w swoim eseju o Hamlecie: idem, <em>Hamlet albo Hekuba. O historii, która wdarła się na scenę</em>, przeł. P. Graczyk, „Kronos” 2008, nr 3, s. 34-35.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Walter Benjamin, <em>Gesammelte Briefe</em>, Suhrkamp Verlag, Frankfurt am Main 1997, t. 3, s. 558.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Giorgio Agamben, <em>Stan wyjątkowy</em>, przeł. M. Surma-Gawłowska, Ha!art, Kraków 2008, s. 80.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Agamben chce widzieć w tym podziale odbicie relacji między władzą konstytuującą i ukonstytuowaną (którym to podziałem posługuje się Carl Schmitt w <em>Die Diktatur: </em>Carl Schmitt<em>, Dictatorship From the Origin of the Modern Concept of Sovereignty to Proletarian Class Struggle, </em>przeł. M. Hoelzl, G. Ward, Polity, Cambridge 2014, s. 119-130). Jak wiadomo, w historii myśli politycznej podział ten po raz pierwszy pojawia się u Sieyès'a, a wcześniej (nieprzywoływany z imienia) obecny jest u takich filozofów jak Machiavelli czy Spinoza. W każdym z tych przypadków ma on jednak dużo szersze znaczenia niż u Schmitta i zamiast odnosić się do władzy konstytuującej już ukonstytuowanych instytucji, które wytwarzają kolejne ustawy, odnosi się raczej do pewnej ontologii politycznej, w ramach której podstawową siłą władzy konstytuującej jest to, co znajduje się poza granicami społeczeństwa obywatelskiego i stanowi permanentną siłę nacisku na każdy już ukonstytuowany porządek (por. Antonio Negri<em>, Insurgencies: Constituent Power and the Modern State</em>, przeł. M. Boscagli, Minneapolis, London 1999). To ryzykowne sprowadzenie podziału władzy konstytuującej i ukonstytuowanej do Benjaminowskiego podziału na przemoc prawo ustanawiającą i podtrzymującą można więc obronić tylko przy założeniu, że jedynym punktem odniesienia jest dla Benjamina koncepcja Schmitta z <em>Diktatur</em>.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Walter Benjamin<em>, Przyczynek do krytyki przemocy</em>, przeł. A. Lipszyc, w: <em>Konstelacje. Wybór tekstów</em>, przeł. A. Lipszyc, A. Wołkowicz, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2012, s. 80.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Ibidem.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Zdaniem Agamben krytyka formułowana na poziomie tekstu o przemocy trafia tylko w rozróżnienie między władzą ukonstytuowaną i konstytuującą. A do wyprowadzenia obecnej w tezach <em>O pojęciu historii</em> krytyki stanu wyjątkowego (jako permanentnego, a nie jak chciał Schmitt pojedynczego i cudownego) Benjamin miał być gotowy dopiero po doświadczeniu nazizmu. Fragment o państwie policyjnym dowodzi tezy odwrotnej.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Walter Benjamin,<em> O pojęciu historii</em>, przeł. A. Lipszyc, w: <em>Konstelacje…</em>, s. 315.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Idem, <em>Gesammelte Schriften, </em>red. R. Tiedemann, H. Schweppenhäuser, Suhrkamp Verlag, Frankfurt am Main 1991<em>, </em>t. 2, s. 458. Benjamin gra w eseju o Leskowie przedrostkami do niemieckiego słowa <em>mut</em>, czyli odwaga. Przyjęta w bajce strategia musi balansować na granicy między <em>Übermut</em>, czyli nad-odwagą, zuchwałością, a <em>Untermut </em>czyli pod-odwagą, chytrością.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Idem, <em>Gesammelte Briefe</em>, t. 3, s. 558.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> List do Schmitta nie znalazł się w wyborze przygotowanym przez Scholema i Adorno w latach siedemdziesiątych (W. Benjamin, <em>Briefe</em>, red. T.W. Adorno, G. Scholem, Suhrkamp Verlag, Frankfurt am Main 1978, t. 1-2). Został opublikowany dopiero za sprawą Tiedemanna w pierwszym tomie <em>Gesammelte Schriften</em>. Właściwie pozostając w zgodzie z taką interpretacją listu, Taubes napisze, że „stanowi [on] bombę wysadzającą w powietrze nasze wyobrażenia o historii duchowej czasów weimarskich” (Jacob Taubes, <em>Carl Schmitt – apokaliptyk w służbie kontrrewolucji</em>, w: Idem, <em>Apokalipsa i polityka…</em>, s. 440). Trzymając się tej cokolwiek wątpliwej lektury, w jednym z listów do Scholema będzie bronić groteskowej tezy o „bezgranicznym podziwie”, jakim Benjamin miał darzyć Schmitta (<em>Jacob Taubes do Gershoma Scholema</em>, „Przegląd Polityczny” 2013, nr 119, s. III).</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Carl Schmitt, <em>Führer jest obrońcą prawa</em>, przeł. P. Graczyk, „Kronos” 2010, nr 2, s. 63-68.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Walter Benjamin, <em>Źródła dramatu żałobnego w Niemczech</em>, przeł. A. Kopacki, Sic!, Warszawa 2013, s. 72, tłum. nieznacznie zmodyfikowane.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Jednym z symptomów tej katastrofy jest właśnie suwerenne niezdecydowanie księcia: Ibidem, s. 65.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Ibidem, s. 92.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Ibidem, s. 156.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ibidem, s. 209.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Ibidem, s. 253.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Walter Benjamin, <em>Pasaże</em>, przeł. I. Kania, Wydawnictwo Literackie, Kraków 2005, N1a, 4.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Idem, <em>Nauka o podobieństwie,</em> przeł. A. Lipszyc, w: <em>Konstelacje…</em>, s. 218.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Ibidem, s. 217.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Idem, <em>Gesammelte Schriften</em>, t. 3, s. 113-117, 127-132.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Idem, <em>Gesammelte Schriften</em>, t. 2, s. 769. Podobna idea przyświeca tekstowi o komunistycznej pedagogice: Idem, <em>Gesammelte Schriften</em>, t. 3, s. 206-209.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Idem, <em>Gesammelte Schriften</em>, t. 4, s. 104.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Idem, <em>Rozmowy z Brechtem. Notatki svandborskie</em>, przeł. A. Kapacki, „Literatura na Świecie” 2006, nr 5-6, s. 317.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Siegfried Kracauer, <em>O filmie „Cyrk”</em>, przeł. K. Charewicz-Jakubowska, „Przegląd Kulturoznawczy” 2011, nr 2<em></em>s. 61. Kracauer, jak się wydaje, zupełnie nietrafnie lokuje główny utopijny impuls filmów Chaplina w momentach, w których Charlie snuje marzenia senne o innym świecie, a nie wówczas, gdy za sprawą swego komizmu wywraca do góry nogami panujące stosunki społeczne: Por. idem, <em>Teoria filmu: wyzwolenie materialnej rzeczywistości</em>, przeł. W. Wertenstein, WAiF, Warszawa 1975, s. 110.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Walter Benjamin, <em>Gesammelte Schriften</em>, t. 4, s. 103.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Idem, <em>Przyczynek do krytyki przemocy</em>, przeł. A. Lipszyc, w: <em>Konstelacje…</em>, s.84.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Ibidem, s. 90.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Ibidem, s. 93.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Idem, <em>Franz Kafka. Z okazji dziesiątej rocznicy jego śmierci</em>, przeł. A. Lipszyc, w: <em>Konstelacje…,</em> s. 257-258.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Relacja między boską przemocą a czystymi środkami jest miejscem bardzo wielu rozbieżnych interpretacji. Wymienię trzy najbardziej reprezentatywne. Zgodnie z pierwszą, której będzie bronić Michael Löwy, czyste środki i boską przemoc należy traktować jako dwa zupełnie różne modele walki z porządkiem mityczno-prawnym, z których to dwóch modeli ostatecznie przez Benjamina wybrana zostaje boska przemoc (Michael Löwy, <em>On Changing the World. </em><em>Essays in Political Philosophy, from Karl Marx to Walter Benjamin</em>, Haymarket Books, Chicago, Illinois 2013, s. 148). Druga, najczęstsza, której zwolenniczką byłaby między innymi Judith Butler (ale także Massimiliano Tomba) pomija wszelkie wskazówki, które miałyby świadczyć o odmienności tych działań i traktuje je jako zasadniczo tożsame (Judith Butler, <em>Walter Benjamin i krytyka przemocy</em>, w: idem, <em>Na rozdrożu. Żydowskość i krytyka syjonizmu</em>, przeł. M. Filipczuk, Wyd. Krytyki Politycznej, Warszawa 2014, s. 114-163). W końcu trzecia, za którą argumentowałby Adam Lipszyc (łagodzący co najmniej zaskakującą interpretację Derridy, dla którego boska przemoc miała być prefiguracją nazizmu) zmierza do dowiedzenia, że między dwoma działaniami anty-mitycznymi zachodzi sprzeczność, której konsekwencją może być jedynie gnostycki impas i ostateczna bezradność wobec mitu (Adam Lipszyc, <em>Sprawiedliwość na końcu języka. Czytanie Waltera Benjamina</em>, Universitas, Kraków 2012, s. 57-61). Istnieje jeszcze jedna możliwość lektury tego tekstu. Spróbuję pokazać, że przy zachowaniu specyfiki obu działań, należy o nich myśleć łącznie, jako dwóch elementach Benjaminowskiej dialektyki, w której Heglowskie <em>Aufhebung</em> czyli zniesienie, zachowanie i wniesienie na wyższy poziom zostaje zastąpione ruchem niszczenia (mitu) i uwolnienia czy wyzwolenia (życia). W odniesieniu do tekstu o przemocy boska przemoc byłaby siłą niszczącą mit i wyzwalając sytuującą się w szczelinach porządku mitycznego sferę czystych środków.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> W tym kierunku zmierza przywołana przed chwilą interpretacja (tak eseju o przemocy, jak i całej filozofii Benjamina) Lipszyca: „Tak czy owak, esej ten grzęźnie w micie: całkowite wycofanie [w sferę czystych środków – przyp. MP] pozostawia mit takim, jakim był, całkowita likwidacja [za sprawą boskiej przemocy – przyp. MP] współpracuje z mitem w dziele likwidacji tego, co pojedyncze” (Adam Lipszyc, <em>Sprawiedliwość na końcu języka…,</em> s. 61).</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Walter Benjamin, <em>Przyczynek do krytyki przemocy</em>, przeł. A. Lipszyc, w: <em>Konstelacje…</em>, s. 93.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Idem, <em>Franz Kafka</em>, przeł. A. Lipszyc, w: <em>Konstelacje…, </em>s. 323 (tłum. zmodyfikowane).</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> Jest to zresztą obraz wyzwolonej pracy, który Benjamin przejmuje za Fourierem: „wyjście do pracy w polu Fourier wyobraża sobie na kształt swego rodzaju majówki – na wozie i z muzyką” (Walter Benjamin, <em>Pasaże</em>…, W12, 7)</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> Idem, <em>Goethego</em> Powinowactwa z wyboru, przeł. A. Wołkowicz, w: <em>Konstelacje…</em>, s. 176.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> Susan Buck-Morss dobrze pokazuje, że podstawowym zadaniem materialisty historycznego jest ożywienie rewolucyjnej pedagogiki, która nie traktuje wiedzy jako czegoś gotowego i możliwego do przekazania, a stara się wywrócić na nice utarte sposoby myślenia. W centrum takiej komunistycznej pedagogiki powinien znajdować się obraz dialektyczny: Susan Buck-Morss, <em>The Dialectics of Seeing. </em><em>Walter Benjamin and the Arcades Project</em>, The MIT Press, Cambridge, Massachusetts, London 1989, s. 288-289.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a> Susan Buck-Morss w książce o źródłach dialektyki negatywnej pokazuje, że Adorno podczas wykuwania swojego zasadniczego filozoficznego projektu z fascynacją zaczytywał się w Heglowskiej <em>Logice</em> (Susan Buck-Morss, <em>The Origin of Negative Dialectics: Theodor W. Adorno, Walter Benjamin, and the Frankfurt Institute</em>, The Free Press, New York 1977, s. 154). Z kolei w kontekście Benjamina równie istotne wydają się obecne w <em>Pasażach</em> próby odnalezienia u Hegla idei dialektyki zatrzymanej (Walter Benjamin, <em>Pasaże</em>…, s. 956). Podążając za – bardzo krytykowanymi w kręgach ortodoksyjnych heglistów – uwagami Susan Buck-Morss o młodym Heglu i Haiti (por. Susan Buck-Morss, <em>Hegel, Haiti i historia uniwersalna</em>, przeł. K. Bojarska, Wyd. Krytyki Politycznej, Warszawa 2014), można przeprowadzić rozróżnienie między dialektyką wynaturzoną (której motorem byłby – pozostający na zewnątrz społeczeństwa mieszczańskiego – Heglowski motłoch) a dialektyką asymilującą (w której głównym aktorem byłoby mieszczaństwo). Zwolennicy pierwszej to młody Hegel, Marks, Benjamin i sama Buck-Morss, za drugą opowiadałby się Hegel z okresu berlińskiego, a potem cały szereg – zajadle przez Benjamina atakowanych – zwolenników postępu i teorii konieczności dziejowej.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a> Theodor W. Adorno, <em>Dialektyka negatywna</em>, przeł. K. Krzemieniowa, PWN, Warszawa 1986, s. 219.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a> Ibidem, s. 285. Jak zobaczymy dalej, dla Benjamina dowodem istnienia imienia, nie będzie cierpiące ciało, ale przede wszystkim sprzeczność wynikająca z oporu, jaki mitowi stawia – dziecięce czy ludowe – życie.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a> Idem, <em>Teoria estetyczna</em>, przeł. K. Krzemieniowa, PWN, Warszawa 1994.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a> Ten rodzaj sytuującej się dokładnie naprzeciwko silnego oświeceniowego mesjanizmu – bezproduktywnej utopii, zostaje świetnie opisany w jednej z uwag w <em>Minima moralia</em>: „Może prawdziwe społeczeństwo sprzykrzy sobie rozwój i z wolnej woli nie wykorzysta jakichś możliwości, zamiast pod ich obłędną presją szturmować obce gwiazdy” (idem, <em>Minima moralia. </em><em>Refleksje z poharatanego życia</em>, przeł. M. Łukasiewicz, Kraków 2009, s. 202).</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a> Walter Benjamin,<em> O pojęciu historii</em>, przeł. A. Lipszyc, w: <em>Konstelacje…</em>, s. 317.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a> Bezpośrednim pretekstem do napisania listu są uwagi, jakie Benjamin ma do eseju Adorna o Wagnerze. Idem, <em>Gesammelte Briefe</em>, t. 6, s. 185.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a> Theodor W. Adorno, <em>Teoria estetyczna…,</em> s. 629.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a> Idem, <em>Charakterystyka Waltera Benjamina</em>, w: idem, <em>Sztuka i sztuki. Wybór esejów</em>, przeł. K. Krzemień-Ojak, PIW, Warszawa 1990, s. 341.</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a> Walter Benjamin, <em>Pasaże</em>…, N1a, 8.</p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a> Idem, <em>Gesammelte Schriften</em>, t. 1, s. 1249.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a> O wystawach światowych jako współczesnych bachanaliach: Walter Benjamin, <em>Pasaże</em>…, G13a, 3. Idee stawiającego wszystko na głowie porządku społeczeństwa kapitalistycznego Benjamin czerpie prawdopodobnie z rozprawy Gustava Landauera <em>Aufruf zum Sozialismus </em>(por. Michael Löwy, <em>Capitalism as Religion</em>, w: idem, <em>On Changing the World…,</em> s. 192.), którą czyta w okresie prac nad tekstem o <em>Kapitalizmie jako religii</em> (Walter Benjamin,<em> Kapitalizm jako religia</em>, przeł. P. Mościcki, „Krytyka Polityczna” 2007, nr 11/12 ).</p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a> Walter Benjamin, <em>Pasaże</em>…, G5a, 1, G7a, 3.</p>
+<p><a href="#sdfootnote52anc" name="sdfootnote52sym">52</a> Adorno do Benjamina 22 września 1937, Theodor W. Adorno, <em>Briefe und Briefwechsel</em>, red. H. Lonitz, Suhrkamp, Frankfurt am Main 1994, s. 277, za: Michael Weingrad, <em>Kolegium Socjologii i Instytut Badań Społecznych</em>, przeł. A. Rejniak-Majewska w: <em>Migracje Modernizmu. Nowoczesność i uchodźcy</em>, red. T. Majewski, A. Rejniak-Majewska, W. Marzec, NCK, Łódź 2014, s. 71., podkr. własne.</p>
+<p><a href="#sdfootnote53anc" name="sdfootnote53sym">53</a> Symptomatyczna jest tu – atakowana zresztą przez Benjamina – maczystowska deklaracje paryskiego Kolegium Socjologii (w składzie Bataille, Leiris, Caillois) wygłoszoną przy okazji krytyki układu monachijskiego, którego to klęska miała być jakoby efektem wykastrowania (<em>dévirilisation</em>) męskiego pierwiastka po stronie aliantów: <em>Declaration of the College of Sociology on the International Crisis, </em>w:<em> The College of Sociology (1937—39)</em>, red. B. Wing, University of Minnesota Press, Minneapolis 1988, s. 45.</p>
+<p><a href="#sdfootnote54anc" name="sdfootnote54sym">54</a> Theodor W. Adorno, Max Horkheimer, <em>Dialektyka oświecenia. </em><em>Fragmenty filozoficzne</em>, przeł. M. Łukasiewicz, Wyd. Krytyki Politycznej, Warszawa 2010, s. 109.</p>
+<p><a href="#sdfootnote55anc" name="sdfootnote55sym">55</a> Walter Benjamin, <em>Gesammelte Schriften</em>, t. 3, s. 549-552.</p>
+<p><a href="#sdfootnote56anc" name="sdfootnote56sym">56</a> Idem,<em> O pojęciu historii</em>, przeł. A. Lipszyc, w: <em>Konstelacje..</em>., s. 317-318.</p>
+<p><a href="#sdfootnote57anc" name="sdfootnote57sym">57</a> Oddając sprawiedliwość Adornowi, należy pamiętać, że nie był on nigdy zwolennikiem ostrego dualizmu rzeczywistości społecznej i naturalnej. Pozostawał więc w tej kwestii raczej heglistą (niż kantystą), dla którego narodziny podmiotu nie są efektem ahistorycznego cięcia, ale procesem, w którym to „natura zdobywa samoświadomość” (Theodor W. Adorno, <em>Problems of moral philosophy</em>, Stanford University Press, California, 2001, s. 104).</p>
+<p><a href="#sdfootnote58anc" name="sdfootnote58sym">58</a> Theodor W. Adorno, <em>Minima moralia…, </em>s. 251-252.</p>
+<p><a href="#sdfootnote59anc" name="sdfootnote59sym">59</a> Tomasz Mann, <em>Mario i czarodziej,</em> przeł. L. Staff, w: <em>Wybór nowel i esejów</em>, opr. N. Honsza, Ossolineum, Wrocław 1975, s. 285-286.</p>
+<p><a href="#sdfootnote60anc" name="sdfootnote60sym">60</a> Ibidem, s. 322.</p>
+<p><a href="#sdfootnote61anc" name="sdfootnote61sym">61</a> Walter Benjamin, <em>Gesammelte Schriften</em>, t. 2, s. 458.</p>
+<p><a href="#sdfootnote62anc" name="sdfootnote62sym">62</a> Zgodnie z zasadą: „potrafi wydobyć z niej twory potencjalnie drzemiące w jej łonie.” (Walter Benjamin, <em>O pojęciu historii</em>, przeł. A. Lipszyc, w: <em>Konstelacje..</em>.,, s. 318).</p>
+<p><a href="#sdfootnote63anc" name="sdfootnote63sym">63</a> Tamże, s. 318.</p>
+<p><a href="#sdfootnote64anc" name="sdfootnote64sym">64</a> Ta metodologiczna uwaga pojawia się w notatkach do książki o baroku: Walter Benjamin, <em>Gesammelte Schriften</em>, t. 1, s. 918, a także w jednym z opisów z książki o Berlinie: idem, <em>Berlińskie dzieciństwo około roku tysiąc dziewięćsetnego</em>, przeł. A. Kopacki, Aletheia, Warszawa 2013, s. 125-126.</p>
+<p><a href="#sdfootnote65anc" name="sdfootnote65sym">65</a> Walter Benjamin,<em> O pojęciu historii</em>, przeł. A. Lipszyc, w: <em>Konstelacje…,</em> s. 315.</p>
+<p><a href="#sdfootnote66anc" name="sdfootnote66sym">66</a> Myśląc o rzeczywistym stanie wyjątkowym, dobrze jest mieć w pamięci uwagę z eseju o przemocy, gdzie mowa o tym, że strajk nie tyle wprowadza (na zasadzie jakiegoś celu czy zaprowadzonego stanu), ale urzeczywistnia zmianę, która dokonuje się już w samym – wytwarzającym możliwość pomyślenia alternatywy – geście oporu: „decyzja by podjąć na nowo jedynie prace całkowicie odmienioną, nienarzuconą przez państwo, a tego rodzaju strajk nie tyle powoduje, ile urzeczywistnia taki przewrót” (idem, <em>Przyczynek do krytyki przemocy</em>, przeł. A. Lipszyc, w: <em>Konstelacje…</em>, s. 85. podkr. własne).</p>
+<p><a href="#sdfootnote67anc" name="sdfootnote67sym">67</a> Idem, <em>O pojęciu historii</em>, przeł. A. Lipszyc, w: <em>Konstelacje…, </em>s. 315<em>.</em></p>
+<p><a href="#sdfootnote68anc" name="sdfootnote68sym">68</a> Idem, <em>O haszyszu. Teksty literackie, zapiski, materiały</em>, przeł. E. Drzazgowska, Aletheia, Warszawa 2010, s. 50-51.</p>
+<p><a href="#sdfootnote69anc" name="sdfootnote69sym">69</a> Idem, <em>Gesammelte Schriften,</em> t. 4, s. 765. (podkr. własne). Por. Michael Löwy, <em>Fire</em> <em>Alarm. </em><em>Reading Walter Benjamin's „On the Concept of History”</em>, trans. Ch. Turner, Verso, London, New York 2005, s. 60.</p>
+<p><a href="#sdfootnote70anc" name="sdfootnote70sym">70</a> Więcej na temat zideologizowania historycznych krytyk autonomii instytucji karnawału wobec Kościoła: Elena Nahrlich Slateva<em>, Eine Replik zum Aufsatz von Dietz-Rudiger Moser „Lachkultur des Mittelalters?”, </em>“Euphorion” 1991, nr 3-4.</p>
+<p><a href="#sdfootnote71anc" name="sdfootnote71sym">71</a> Giorgio Agamben, <em>Stan wyjątkowy…,</em> s. 107.</p>
+<p><a href="#sdfootnote72anc" name="sdfootnote72sym">72</a> Zdaniem niemieckiego historyka większość z odkryć Meuli (poza antropologią maski karnawałowej) ulegała dezaktualizacji: Peter Pfrunder, <em>Pfaffen, Ketzer, Totenfresser: Fastnachtskultur der Reformationszeit: Die Berner Spiele von Niklaus Manuel</em>, Chronos-Verlag, Zürich 1989, s. 50.</p>
+<p><a href="#sdfootnote73anc" name="sdfootnote73sym">73</a> Stan naturalny zostaje nie tyle unieważniony czy wyłączony (umową społeczną), ile podlega ponownemu włączeniu w osobie suwerena, „który jako jedyny zachowuje swój naturalny <em>ius contra omnes</em>”. Suwerenność staje się dzięki temu progiem „nierozróżnialności między naturą i kulturą, przemocą i prawem” (Giorgio Agamben, <em>Homo sacer. Suwerenna władza i nagie życie</em>, przeł. M. Salwa, Prószyński i S-ka, Warszawa 2009, s. 55).</p>
+<p><a href="#sdfootnote74anc" name="sdfootnote74sym">74</a> Susan Buck-Morss, <em>The Dialectics of Seeing..., </em>s. 36.</p>
+<p><a href="#sdfootnote75anc" name="sdfootnote75sym">75</a> Idem, <em>Stan wyjątkowy…,</em> s. 91.</p>
+<p><a href="#sdfootnote76anc" name="sdfootnote76sym">76</a> Idem, <em>Karl Kraus</em>, przeł. A. Lipszyc, w: <em>Konstelacje…</em>, s. 210.</p>
+<p><a href="#sdfootnote77anc" name="sdfootnote77sym">77</a> Giorgio Agamben, <em>S</em><em>tan wyjątkowy…</em>, s. 94-95, teoria dezaktywacji w kontekście mesjańsko-szabatowej rewizji heglowskiej dialektyki rozwijana jest także w książce o Pawle z Tarsu: idem, <em>Czas, który zostaje. Komentarz do </em>Listu do Rzymian, przeł. S. Królak, Sic!, Warszawa 2009, s. 115-119.</p>
+<p><a href="#sdfootnote78anc" name="sdfootnote78sym">78</a> Giorgio Agamben, <em>The Open. Man and Animal</em>, przeł. K. Attell, Stanford University Press, Stanford, California 2004.</p>
+<p><a href="#sdfootnote79anc" name="sdfootnote79sym">79</a> Idem, <em>The Highest Poverty. Monastic Rules and Form-of-Life</em>, transl. A. Kotsko, Stanford 2013, s. 141.</p>
+<p><a href="#sdfootnote80anc" name="sdfootnote80sym">80</a> Idem, <em>Stan wyjątkowy…</em>, s. 95.</p>
+<p><a href="#sdfootnote81anc" name="sdfootnote81sym">81</a> Walter Benjamin, <em>Źródła dramatu żałobnego w Niemczech</em>…, s. 72.</p>
+<p><a href="#sdfootnote82anc" name="sdfootnote82sym">82</a> Idem, <em>Gesammelte Schriften, </em>t. 3, s. 159. Wątek ten powraca później w czwartej tezie <em>O pojęciu historii</em>, w której humor zostaje wymieniony obok ufności, odwagi, chytrości i nieustępliwości, jako jeden z zasadniczych momentów Benjaminowskiej teorii walki klas.</p>
+<p><a href="#sdfootnote83anc" name="sdfootnote83sym">83</a> Idem, <em>Gesammelte Schriften, </em>t. 4, s. 103-104.</p>
+<p><a href="#sdfootnote84anc" name="sdfootnote84sym">84</a> Symptomatyczne, że przedmiotem najostrzejszych ataków Carla Schmitta są właśnie ci wymykający się maszynom antropologicznym anarchiści - od nowożytnych piratów po XIX-wiecznego Kropotkina: Carl Schmitt, <em>Der Nomos der Erde</em>, Duncker &amp; Humblot, Berlin 1974, s. 143-156.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2015/odkrecic-stan-wyjatkowy.-walter-benjamin-i-krytyka-przemocy-prawa" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

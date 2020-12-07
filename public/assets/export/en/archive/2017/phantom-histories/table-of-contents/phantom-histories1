@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Phantom Histories | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/phantom-histories1">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Phantom Histories | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Phantom Histories | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/phantom-histories1">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Phantom Histories | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #9c9c53 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #9c9c53 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #9c9c53 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #9c9c53 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #9c9c53 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #9c9c53 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #9c9c53 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #9c9c53 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(156,156,83,0.8) !important; */
+			/* background-color:#9c9c53 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(156,156,83,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#9c9c53 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(156,156,83,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#9c9c53; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(156,156,83,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(156,156,83,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#9c9c53 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#9c9c53 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#9c9c53 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-592 parent-id-588">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="581" data-selected-issue-color="#9c9c53" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2017/historie-fantomowe/historie-fantomowe">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2017/historie-fantomowe/historie-fantomowe">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/phantom-histories#toc">18</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/phantom-histories1?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Phantom Histories</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/phantom-histories1?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/wstep/543-7121-1-pb-1920x-b62.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/wstep/543-7121-1-pb-330x-1ef.jpg 330w,assets/cache/images/issues/2017/18/wstep/543-7121-1-pb-660x-b65.jpg 660w,assets/cache/images/issues/2017/18/wstep/543-7121-1-pb-768x-ffc.jpg 768w,assets/cache/images/issues/2017/18/wstep/543-7121-1-pb-1320x-b54.jpg 1320w" src="assets/cache/images/issues/2017/18/wstep/543-7121-1-pb-660x-b65.jpg" alt="" ></a>    <figcaption><p>Sven Augustijnen, <em>Spectres</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Phantom histories: they seem not to exist, yet one feels them so intensely. They wake you up at night, disturb you during&nbsp;the day. They prosecute with&nbsp;images and sounds, shreds of unfinished conversations or "therapeutic sessions" –&nbsp;in professional practices, in lecture halls, at family tables. This&nbsp;troublesome absence is a&nbsp;condition of persistent uncertainty. We are not sure whether the "war" has already ended, or whether we are still under&nbsp;fire. If there is such a&nbsp;thing as a&nbsp;common experience of the past, or even a&nbsp;common history, what is it and what does it look like? In the face of global transformations, can we say that&nbsp;we live in the post-war era and measure our time in the old way, adhering to such caesuras as 1945, 1968, or 1989? Today, we have a&nbsp;considerable, convenient toolbox for&nbsp;dealing theoretically and critically with&nbsp;what we call the troubled past, and the way in which it affects the no-less-difficult present. Artistic interventions in this&nbsp;common space of ideas about&nbsp;the past, facts and testimonies, prove not only the multiplicity of attitudes, experiences, and sensitivity to seemingly identical or similar events, but&nbsp;above all the fact that&nbsp;artistic language is not just an essential means of writing and expression, but&nbsp;also a&nbsp;politically and ethically important way of thinking about&nbsp;reality and intervening in its existing structures.</p> <p>Proposing possible meetings in the field of expanded memory, which includes new heroines and new forms of recording, we want to approach the themes of conflict, memory, and trauma from&nbsp;another angle. We are interested in works and practices that&nbsp;allow us to explore the subject of the presence of the past&nbsp;in its various mediations. In our contemporary reflection on the dark heritage of modernity (including the genocide of European Jews, colonial crimes, economic abuses, etc.) we should broaden our field of vision and take a&nbsp;close look at what appears to fall outside&nbsp;of dominant historiography and historiophoty. Each category or concept loses its obvious meaning in this&nbsp;context; they demand constant reworking, questioning, and deconstruction.</p> <p>The European post-war is not a&nbsp;condition without&nbsp;an exterior, for&nbsp;the epithet "European" indicates the perpetrator (Europeans, but&nbsp;also the modern project itself), not the locality –&nbsp;the ideas of rationalization and modernization with&nbsp;their aspiration for&nbsp;totality have made it so that&nbsp;there are no longer "unrelated matters." Adopting such an approach can result in two extremes: a&nbsp;paranoid conviction that&nbsp;everything is connected, and a&nbsp;vision of history as a&nbsp;heap in which events are related to one another accidentally, through&nbsp;proximity (in space, in time, in an archive). The density of associations and connections proposed by us, the various methods of extracting meaning from&nbsp;the (dis)order of things (such as inventions and popular transformations), or finally going beyond&nbsp;the determined chronological framework, are supposed to disturb the Manichaean logic that&nbsp;still binds too many historical periods. The clarity and strength of geopolitical divisions have long made many issues and areas too easily removable from&nbsp;the field of vision and reflection.</p> <p>Personal transformations of political, social, or cultural history are important elements of collective work on the past&nbsp;–&nbsp;an action modifying what is public and political, problematizing what has become common by the force of consensus. That&nbsp;is why it is worth looking at these personal stories, at the stories of forgotten objects and invisible heroines, localities, and minorities, at visions and ideas that, at first glance, seem too insignificant or too daring to be taken into&nbsp;account. However, these are the ones that&nbsp;drive artistic activism and the unprecedented courage of the political imagination. We are interested in how artists weave themselves into&nbsp;narratives about&nbsp;the past&nbsp;and the past's narratives, how they become, on their own terms, historical protagonists, demanding the right to history, the right to create its true image, even if that&nbsp;were to be deformed, low or queer.</p> <p>Invited by Magdalena Ziółkowska, director of the Bunkier Sztuki Gallery of Contemporary Art in Kraków, the <em>View </em>team, together with&nbsp;invited artists, critics, and historians from&nbsp;Poland and abroad, had the opportunity to watch and discuss for&nbsp;three semesters issues related to the crises caused by the recurring threads and unhealed wounds of the past, the unsettled injustices, and the silenced or erased narratives of the fate of characters who were not considered historical subjects.</p> <p>In <b>Close-up</b>, we present four essays, which were conceived during&nbsp;the meetings and discussions of the first semester of the project (Autumn 2016) and are devoted to the artistic practices of Fiona Tan, Mirosław Bałka, Sven Augustijnen, and the duo Yervant Gianikian &amp; Angela Ricci Lucchi. In <b>Panorama</b>, we present texts from&nbsp;the field of reflection on traumatic past&nbsp;themes that&nbsp;are not obvious, intertwining them with&nbsp;theories which in themselves constitute a&nbsp;kind of historical testimony. In <b>Perspectives</b>, Susan Schuppli, a&nbsp;British artist and theoretician, introduces the subject of forensic aesthetics, along&nbsp;with her own research interests and the projects she works on, while Michael Rothberg talks about&nbsp;his intellectual and civic engagements following&nbsp;the publication of <em>Multidirectional Memory</em> (2009). In <b>Viewpoint, </b>we present records of critical and artistic interventions from&nbsp;the second semester (Spring 2017) of performative lectures and discussions at the Bunkier Sztuki. The <b>Snapshots</b> provide some critical comments concerning&nbsp;both theoretical readings –&nbsp;as in the case of African American feminist scholar of visual culture Tina Campt, and political anthropologist Monika Bobako –&nbsp;and the cultural study of alternative ways of living in American culture, framed by Grzegorz Stępniak in queer time and space. We read, but&nbsp;we also look –&nbsp;this&nbsp;time at visual reflections on Félix Guattari's heritage in the works of the duo of Angela Melitopoulos &amp; Maurizio Lazzarato, whose exhibition, curated by Joanna Sokołowska, has just closed at <a href="http://msl.org.pl/en/exhibitions/archive-exhibitions/assemblages--angela-melitopoulos-and-maurizio-lazzarato,2525.html" target="_blank" rel="noopener">the Muzeum Sztuki in Łódź</a> (02.02 –&nbsp;08.04.2018).<br><br></p> <p><b>Editorial Team</b> <br><br></p> <p><a href="http://bunkier.art.pl/?page_id=7563&amp;lang=en" target="_blank" rel="noopener"><b>Trauma and Revival. Postwar in the Art of the East and West</b></a>.</p> <p>Project organizer: Palais des Beaux-Arts (BOZAR)</p> <p>Partners: Bunkier Sztuki Gallery of Contemporary Art (Kraków, Poland), Zentrum für Kunst und Medientechnologie (Karlsruhe, Germany), Cittadellarte-Fondazione Pistoletto (Biella, Italy), the University of Jyväskylä (Finland), kim? Contemporary Art Centre (Riga, Latvia).</p> <p>With the support of the Creative Europe program of the European Union.</p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/phantom-histories1" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>A Symphony from Remnants | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/20-2018-demusealization/a-symphony-from-remnants">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="A Symphony from Remnants | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="A Symphony from Remnants | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/20-2018-demusealization/a-symphony-from-remnants">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="A Symphony from Remnants | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ce0058 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ce0058 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ce0058 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ce0058 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ce0058 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ce0058 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+			/* background-color:#ce0058 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(206,0,88,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ce0058 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ce0058; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ce0058 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ce0058 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ce0058 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-383 parent-id-353">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="335" data-selected-issue-color="#ce0058" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/20-2018-odmuzealnienie/symfonia-z-resztek">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/20-2018-odmuzealnienie/symfonia-z-resztek">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/20-2018-demusealization#toc">20</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-20/20-madejska-en.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>A Symphony from Remnants</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-20/20-madejska-en.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=384">Marta Madejska</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Jan Szelągiewicz
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Long Story Short</h2> <p>In Latin, <em>ursus</em> means bear, a&nbsp;large mammal from&nbsp;the <em>Ursidae </em>family, often considered a&nbsp;paragon of physical strength and sheer mass. It is also the name of a&nbsp;character from&nbsp;the Henryk Sienkiewicz novel <em>Quo Vadis</em>, which portrayed him killing an aurochs with&nbsp;his bare hands. The character likely inspired the rebranding of a&nbsp;Warsaw fixture company after&nbsp;its owners retooled it to manufacture internal combustion engines for&nbsp;use in heavy machinery. Prior to the renaming, the factory bore the name P7P, an acronym of “posag siedmiu panien,” the “seven maidens’ dowry” that&nbsp;was used as the company’s start-up capital. In the 1920s, the company secured a&nbsp;loan from&nbsp;the government to buy land in suburban Czechowice and nearby villages, to where it later moved all of its production facilities. Such were the opening chapters in the history of a&nbsp;place that&nbsp;was to be inextricably linked with&nbsp;both the factory and the company that&nbsp;would become synonymous with&nbsp;the mechanization of rural agriculture in Poland.</p> <p>The Ursus engineers designed the company’s first tractor in 1922, using licensed blueprints for&nbsp;International Harvester’s Titan 10-20, but&nbsp;the machine never went into&nbsp;mass production. After&nbsp;the Great Depression, the factory was nationalized and incorporated into&nbsp;the National Engineering Works, a&nbsp;state-owned defense manufacturer.<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a> After&nbsp;its assimilation, Ursus mostly manufactured armored vehicles, reconnaissance tanks, and artillery tractors. The first tractor to be developed in the Polish People’s Republic after&nbsp;WW2 was a&nbsp;replica of the German Lanz Bulldog tractor, many of which had been left behind&nbsp;by the Germans. Furthermore, its production was actually handled by old “Ursus men,” who had managed to survive the war and return home from&nbsp;its many fronts. The first original Polish design, the C-325, was developed in the late 1950s. As intrepidly reported by the Polish Film Chronicle, to the accompaniment of faux-folksy tunes, Ursus bravely committed itself to the grand socialist project of remaking the Polish countryside, and was instrumental in solving the challenge of feeding the nation: “The land won’t produce crops on its own; the more tractors we have, the richer the harvest will be!”<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> Given the growing population, and the rapid urbanization and industrialization of the country, the task faced was substantial, to say the least. It entailed feeding the great migration streaming into&nbsp;the cities and building national industry, a&nbsp;migration “unknown to Poland, but&nbsp;known to history,”<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a> about&nbsp;which Adam Ważyk, disillusioned with&nbsp;communism, wrote: “the working class is shaped out of it. / There is a&nbsp;lot of refuse. So far, there are Frits.”<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a> The Chronicle also features newsreels about&nbsp;the millionth tractor to be manufactured; about&nbsp;welding, twisting, and tempering steel; pictures of smiling women driving tractors; rows of gleaming new vehicles; and rivers of workers streaming out of the factory after&nbsp;their shift’s end. In 1952, the residential areas that&nbsp;had sprung up around&nbsp;the factory grounds –&nbsp;along&nbsp;with nurseries, kindergartens, and schools built to accommodate the population influx –&nbsp;were officially incorporated into&nbsp;the city of Czechowice, eventually renamed Ursus in 1954.</p> <p>The waiting lists for&nbsp;tractors were at least as long as those for&nbsp;apartments. Individual farmers had to petition the local authorities for&nbsp;an allocation, and then wait as the request made its way through&nbsp;the labyrinthine corridors of the centrally planned economy. Some farmers were even offered the option to pay off&nbsp;their tractors with&nbsp;livestock.<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a> Naturally, large State Agricultural Farms had precedence over&nbsp;individual farmers in tractor allocation. Ursus played a&nbsp;considerable part in the post-WW2 modernization of rural agriculture across&nbsp;the entire Eastern Bloc, and the company aimed at export agreements that&nbsp;would take it far beyond&nbsp;just Europe. In 1972, an Ursus tractor pulling a&nbsp;camper van set out on a&nbsp;grand research expedition/advertising campaign, with&nbsp;an accompanying camera crew from&nbsp;the Polish Film Chronicle. They recorded the tractor’s journey through&nbsp;Syrian deserts at 20 kilometers per hour, and a&nbsp;race between&nbsp;the driver and boat captains working on the Euphrates and the Tigris on the Iraqi leg of the trip. In total, the tractor covered “14,000 kilometers across&nbsp;11 countries, demonstrating the resilience and robustness of Polish tractors and explorers.”<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a></p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-default">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xU6WF15nidg?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>    <div class="c-article-video__caption"><p>Ursus to Kuwait with&nbsp;a&nbsp;trailer</p></div>   </div>  </section><section class="u-typo">   <p>Soon thereafter, the Ursus Tractor Works purchased a&nbsp;license from&nbsp;the British tractor manufacturer Ferguson, under&nbsp;a&nbsp;credit agreement stipulating that&nbsp;Ursus repay the loan in goods. The new production line required additional factory space, so the company decided to construct new assembly halls. The endeavor, however, ended up failing and left the company in debt. After&nbsp;the expansion, the factory spanned nearly 170 hectares and employed up to 24,000 people. The factory grounds were larger than&nbsp;the city I&nbsp;grew up in.</p> <p>The events of June 1976 were obviously a&nbsp;major turning point in the history of the company. The Gierek cabinet failed in its quest to reinvigorate the economy, and repeated the same mistakes of the Gomułka government that&nbsp;initially brought it to power in 1970. In 1976, in a&nbsp;gesture of protest against&nbsp;the government raising food prices, workers from&nbsp;Ursus, Radom, and Płock organized a&nbsp;joint walkout, later moving the protest onto&nbsp;the streets and railways. In response, the government ordered law enforcement and its paramilitary auxiliaries to break the strikes. The ensuing government crackdown spurred the formation of the Workers’ Defense Committee. The following&nbsp;year, Ursus was officially incorporated into&nbsp;the city of Warsaw. In the 1980s, as the Ursus works were mass-producing its flagship C-360 and C-360-3P tractors, and the factory’s workforce gradually became one of the pillars of the Solidarity labor union, the country was suffering from&nbsp;one of the most severe crises in the production and distribution of food in post-war history, an event that&nbsp;ultimately contributed to the demise of the Polish People’s Republic.</p> <p>Following the post-1989 transition to a&nbsp;free market economy, the Ursus Tractor Works were privatized at the turn of the millennium and later split into&nbsp;multiple smaller companies, while its property assets were sold off&nbsp;to pay off&nbsp;the company’s outstanding debts.</p> <h2>The <em>Symphony of the Ursus Factory</em></h2> <p>These facts and narratives are missing from&nbsp;Jaśmina Wójcik’s film, as it is not a&nbsp;documentary rooted in the efforts of archivists and historians, but&nbsp;rather a&nbsp;project stemming directly from&nbsp;the experiences of former employees of the Ursus Tractor Works.</p> <p>The very title brings to mind a&nbsp;cinematic symphony exploring urban and industrial life, wherein the lens of the camera and the eye of the editor come together to craft exquisite visual rhythms. Black-and-white symphonies produced in the inter-war period were products primarily of a&nbsp;widespread fascination with&nbsp;the hypnotic hold of modern cities, heavy industry, and universal electrification.</p> <p>city, mass, machine.</p> <p>However, a&nbsp;film exploring the perspective of the modern-day, post-industrial Ursus offers a&nbsp;quite different aura.</p> <p>city, mass, ruin.</p> <p>Based around&nbsp;a&nbsp;handful of parallel threads –&nbsp;space, remembrance, embodied memory, and sound –&nbsp;it is surprising and moving.</p> <p>A group project, it was directed by Jaśmina Wójcik and written by Wójcik and Igor Stokfiszewski; their collaborators include choreographer Rafał Urbacki, composer Dominik Strycharski, and visual designer Jakub Wróblewski. The men and women of Ursus portrayed in the film are listed in the credits as co-creators, on a&nbsp;par with&nbsp;the rest of the production staff.<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a> The early draft of the script was based on previously recorded oral histories. Subsequent stages of production involved intense, nine-month-long workshops with&nbsp;the choreographer and the composer, attended by sixteen former Ursus employees selected for&nbsp;participation. Each of them generated their own part of the symphony, and the creators amended or modified the script in response to their memories or to tailor it to their needs. Additionally, the production crew managed to either gradually recreate the factory’s phonosphere or to create one from&nbsp;the ground up. The complexity of the process is worth noting in detail, as many may be unaware of the incredible amount of the work that&nbsp;went into&nbsp;producing the movie.</p> <p>The seven years of Jaśmina Wójcik (whose father is an Ursus native) and her collaborators’ artistic-activist research efforts yielded, among&nbsp;others, a&nbsp;non-fiction volume (<em>Ursus –&nbsp;Where it all Started</em>) and a&nbsp;space at the <em>Gotong Royong. Things we do together</em> exhibition, curated by Marianna Dobkowska and held at the Ujazdowski Castle Center for&nbsp;Contemporary Art. And now the film is supposed to offer something of a&nbsp;denouement to their work. Jaśmina Wójcik spoke about&nbsp;the early days of the idea and what drove her to take it up in an interview with&nbsp;<em>Wysokie Obcasy</em>:<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a></p> <blockquote>In 2011, I&nbsp;took a&nbsp;walk through&nbsp;what were once the factory grounds, and saw the sprawling landscape of empty production and assembly halls, like&nbsp;something straight out of Tarkovsky’s <em>Stalker</em>. I&nbsp;kept snapping pictures and thinking about&nbsp;the people who once populated these now-vacant hulks –&nbsp;what happened to them? So I&nbsp;posted a&nbsp;couple of notices in the Niedźwiadek neighborhood and began to collect and organize the stories people told me. They were so moving that&nbsp;I&nbsp;felt I&nbsp;could no longer leave that&nbsp;place. The factory closed its doors during&nbsp;the post-1989 transition, but&nbsp;these people still felt so closely connected to it –&nbsp;it was their life through&nbsp;and through. To this&nbsp;day they keep meeting up, going on trips together; they feel compelled to help one another, to come together in a&nbsp;community. Sipping on tea or high-proof infusions, they spoke of mutual respect, reminiscing about&nbsp;foremen showing newcomers the ropes, about&nbsp;spending time together after&nbsp;work, going on vacation together, making lifelong friends at the factory. About&nbsp;how they felt rejected, discarded in this&nbsp;new post-communist era, how their factory was razed to make space for&nbsp;new residential communities. Similar stories can be found across&nbsp;the world, whether in Poland or, for&nbsp;example, Indonesia, which we visited to present our project, where small islander communities are being displaced by real-estate developers and hotel magnates. To me, all these stories reveal something about&nbsp;how we approach our work and ourselves nowadays, and about&nbsp;the gradual deterioration of our interpersonal relationships. The latter is particularly evident in the ease with&nbsp;which politicians are able to set us against&nbsp;one another.</blockquote> <p>The film’s pillars –&nbsp;space, remembrance, embodied memory, and sound –&nbsp;are rooted in what remains of the Ursus Tractor Works and the aftermath of the few attempts to breathe life back into&nbsp;the factory before&nbsp;its irrevocable disappearance. “Space” means the former factory grounds, where the historic production and assembly halls were illegally razed by a&nbsp;real-estate developer, without&nbsp;prior approval from&nbsp;the local authorities. The remaining halls now stand vacant, waiting for&nbsp;the construction of the Osiedle Ursus residential community. Their walls are peppered with&nbsp;graffiti, including the currently overused wartime Fighting Poland symbol; their windows are mostly broken; their facades are cracked and crumbling, with&nbsp;nature slowly but&nbsp;inexorably reclaiming what was wrenched from&nbsp;it in the name of industry. That&nbsp;is all there is left of the once-mighty Ursus.</p> <p>“Remembrance” means the voice of the men and women portrayed in the film, people whose attachment to the place and the factory went back decades, sometimes even whole generations.</p> <blockquote>- First the foundry, then the turnery, finally the furnaces… I&nbsp;caught the bug –&nbsp;hard work was what brought me up. <br> -&nbsp;I&nbsp;was strong, you know. The first and only woman at the Bergers… <br> -&nbsp;Fifty years I&nbsp;spent driving for&nbsp;the company –&nbsp;never broke as much as a&nbsp;mirror. No accidents whatsoever.<br> -&nbsp;…my father worked there, so did my brothers and sisters… in the yard I&nbsp;used to play in you’d find technicians, engineers, and ordinary workers.<br> -&nbsp;Back in the day, people used to respect the machinery, respect work itself… <br> -&nbsp;21,000 men and women used to work here. The place was swarming with&nbsp;people when the shifts changed. It was beautiful.</blockquote> <p>These are the good memories. They carry clear echoes of a&nbsp;strong work ethic and a&nbsp;profound respect for&nbsp;local traditions; a&nbsp;sense of community and a&nbsp;measure, however small, of prosperity, especially when compared to the conditions experienced by prior generations, who suffered through&nbsp;two world wars and an international economic crisis. The workers were well-fed –&nbsp;“whatever you wanted, you had –&nbsp;sandwiches, soup, all the trimmings” –&nbsp;the company sent them on vacations, organized summer camps for&nbsp;their children and employee outings to strengthen bonds within&nbsp;the workplace; on Saturday, a&nbsp;good portion of the crew could be found dancing at the “Kaukaska” café. Industry in the Polish People’s Republic worked according to several hierarchies that&nbsp;intersected internally: geography, gender, and sector. Ursus was one of the privileged few –&nbsp;a&nbsp;fact confirmed, at the very least, by the reflections and memories of the former workers of the Krosno linen mills. But&nbsp;despite the privileges, work at Ursus still took its toll: “When you were young, you didn’t really notice the drawbacks. Even when it was bad it was good.”</p> <p>Embodied memory plays out in space: women and men, both assembly workers and administrative or service staff, return to their former place of work –&nbsp;currently in ruins they call “dunes” –&nbsp;and re-enact their typical workday from&nbsp;decades ago. I&nbsp;know the process from&nbsp;my own interviews with&nbsp;former textile workers: when I&nbsp;ask them about&nbsp;their work, their stories are told by their hands first, and their tongues second. The “Ursus folk” re-enact the choreography of gestures and sounds: they growl, grumble, and stomp; the sounds blend together into&nbsp;the symphony of the factory. Thus, the film’s creators manage to capture in the frame what is no longer there in reality.</p> <p>In film studies, works like&nbsp;these are usually labeled “creative documentaries.” Matching genre, however, is not the only reason for&nbsp;bringing up <em>Wanda Gościmińska: Textile Worker</em>, a&nbsp;1975 creative documentary directed by Wojciech Wiszniewski. Contrary to Wiszniewski, however, Wójcik leaves the creation process largely in the hands of the participants themselves, as evidenced by behind-the-scenes footage. Such an approach required considerable openness from&nbsp;all parties involved, and would not have been possible without&nbsp;the months spent before&nbsp;the commencement of principal photography on building close relationships with&nbsp;the cast and on proper research. The sole exception is the scene featuring a&nbsp;staged shot of the brass band, which most closely resembles the precisely arranged frames of <em>Wanda Gościmińska</em>.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-default">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4FehESASB4c?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>    <div class="c-article-video__caption"><p>Winter Plowing</p></div>   </div>  </section><section class="u-typo">   <p>Wiszniewski and his contemporaries primarily examined the generation that&nbsp;preceded them –&nbsp;the <em>udarniks </em>glorified in the post-war rush to rebuild the nation. Our enquiry, however, focuses on a&nbsp;generation of workers that&nbsp;suffered through&nbsp;mass lay-offs incurred by the economic transformation –&nbsp;“Only the ruling class got any taste of that&nbsp;democracy they so loudly hailed –&nbsp;the workers got nothing,” says one of the characters featured in the <em>Symphony of the Ursus Factory</em>. In recent years, we have seen a&nbsp;number of similarly themed artistic and research projects, such as “The Shipyard is Female,” the Topographies Association, the Historic Trail of the Female Textile Worker in Łódź, and Joanna Warecha’s book and documentary <em>State Agricultural Farms: A&nbsp;Portrayal</em>. Maybe it is high time we use local experiences and draw more comprehensive conclusions from&nbsp;all of these projects? What sort of legacy do they represent, and who does that&nbsp;legacy belong to? Which historical processes have shaped it? How can we take stock of this&nbsp;intangible heritage? Or –&nbsp;what actually happened in the 1990s, as Poland underwent its political and economic transition? Unfortunately, most national and local museums, such as the Ursus Museum, for&nbsp;example, rarely feature any sort of enquiries into&nbsp;the life of communities that&nbsp;emerged around&nbsp;major factories and other industrial facilities. Obversely, material artifacts should instead be treated only as starting points for&nbsp;meditations on the nature of processes which, it seems, we still haven’t understood well within&nbsp;the context of Poland’s socio-economic history. It is possible, therefore, that&nbsp;this is one of the reasons why now, and often without&nbsp;the requisite cognitive resources, we find ourselves returning to fundamental questions, including the role that&nbsp;work plays in our lives.</p> <p>We strive to acknowledge and honor the past, to process it in a&nbsp;more therapeutic manner, and to understand where it is that&nbsp;we ultimately come from. And, as it turns out, most of us are children of the great migration, of the dust and toil, of that&nbsp;gas.</p> <h2>Genius Loci</h2> <p>The <em>Symphony of the Ursus Factory</em> concludes with&nbsp;a&nbsp;grand finale performed by the still-active Ursus brass band, complemented by an impressively arranged tractor choreography (featuring over&nbsp;twenty vintage tractors brought in from&nbsp;all over&nbsp;the country). This&nbsp;shindig on the ruins of the Ursus factory grounds, held for&nbsp;the people featured in the project, can also be considered cathartic in nature. One particularly prevalent sentiment in the reflections of the majority of the “Ursus folk” is the experience of the loss of historical continuity, particularly interesting given the fact that&nbsp;the Ursus brand is far from&nbsp;dead –&nbsp;after&nbsp;being privatized and moving its production and assembly lines to a&nbsp;former truck manufacturing plant in Lublin, the company continues to operate; recently, government officials from&nbsp;Poland and Ethiopia concluded an inter-governmental agreement under&nbsp;which a&nbsp;new Ursus factory line will be opened in the African country.<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a> Vintage Ursus vehicles can be found, at the very least, at the annual Antique Tractor Plowing Competition in Lubecko. There’s also an active URSUS Club, which has a&nbsp;dedicated online platform (available at <a href="http://mojursus.pl/klub-ursusa/">mojursus.pl</a>). As I&nbsp;was finishing this&nbsp;essay on my way to Sztum, I&nbsp;passed no less than&nbsp;four red C-360s. YouTube is crammed with&nbsp;tractors appearing in <em>samizdat</em>-like clips shot and edited by farmers themselves –&nbsp;either commemorative in nature or featuring still-functional Ursuses, set either to mawkish or dynamic tunes, depending on the mood they’re supposed to evoke: winter plowing or the summer harvest, with&nbsp;the setting sun and a&nbsp;stork pacing the neighboring field in the background. The Ursuses continue to serve.</p> <p>The grand ballet of tractors in the finale of the <em>Symphony of the Ursus Factory</em> is, by design, a&nbsp;symbolic resurrection of the factory –&nbsp;the machines return to their birthplace to pay homage to the people who delivered them, to thank them for&nbsp;their tireless labors. “The factory’s halls may crumble and disappear, but&nbsp;the tractors and the factory staff will forever remain its genius loci,” wrote the film’s creators.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-default">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/m4T2Rz0IILc?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>    <div class="c-article-video__caption"><p>Haymaking</p></div>   </div>  </section><section class="u-typo">   <p>The local authorities could commemorate and pay tribute to the district’s industrial past&nbsp;with a&nbsp;bold urban vision and appropriate street names. While some had official names, including ulica Traktorowa [Tractor Street], ulica Posag 7 Panien [Seven Maidens’ Dowry Street], and Plac Czerwca ‘76 [June 1976 Square], most of the streets running through&nbsp;the factory grounds only had internal, rather utilitarian names. Although unofficial, they were nevertheless marked with&nbsp;appropriate signage and featured in the local zoning plans: Centralna [Central St.], Silnikowa [Engine St.], Odlewnicza [Foundry St.], Dyrekcyjna [Executive St.], Strażacka [Firefighter St.], Laboratoryjna [Laboratory St.], Lakiernicza [Lacquer St.], Sprężarkowa [Compressor St.], Podwoziowa [Undercarriage St.]. But&nbsp;will the real-estate developer who bought the former factory grounds ever be interested in commemorating them? Will the people interested in purchasing apartments at 5,800 PLN/square meter be? “Buildings in our community will carry beautiful names, including Vision, Impression, Unique, and Harmony. We believe that&nbsp;their positive energy will help keep you motivated every single day”<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a> –&nbsp;that’s about&nbsp;all you can read right now on the website for&nbsp;the housing community that&nbsp;will one day stand on the redeveloped grounds of the Ursus Tractor Works.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><h2></h2>
+<p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> “URSUS – THE LEGEND RETURNS,” ep. 1/4, <a href="https://www.youtube.com/watch?v=SMUnmG_2yv8" target="_blank" rel="noopener">https://www.youtube.com/watch?v=SMUnmG_2yv8</a> (accessed Sept. 27, 2018).</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> “Polish Film Chronicle,” <a href="https://www.youtube.com/watch?v=DymeuENPbIE" target="_blank" rel="noopener">https://www.youtube.com/watch?v=DymeuENPbIE</a> (accessed Sept. 27, 2018).</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Adam Ważyk, “Poemat dla dorosłych [A Poem for Grown-Ups],” <em>Nowa Kultura</em>, Aug. 21, 1955, unattributed translation from <a href="https://konicki.com/blog2/2009/06/04/june-4-a-poem-for-adults-by-adam-wazyk/" target="_blank" rel="noopener">(WAS A) DEACON'S BLOG</a>.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Ibid. The context of the poem’s writing was described in Bernard Ziffer, “A Poem for Adults,” <em>The Polish Review</em> 1, no. 1 (1956): 56-63.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> “Magazyn Motowizja [Motovision Magazine] – Ursus C-360,”<a href="https://www.youtube.com/watch?v=W_wsB5j-UgA" target="_blank" rel="noopener">https://www.youtube.com/watch?v=W_wsB5j-UgA</a> (accessed Sept. 27, 2018).</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> “Polish Film Chronicle,” <a href="https://www.youtube.com/watch?v=xU6WF15nidg&amp;t=3s" target="_blank" rel="noopener">https://www.youtube.com/watch?v=xU6WF15nidg&amp;t=3s</a> (accessed Sept. 27, 2018).</p>
+<p><a name="_GoBack"></a><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Ryszard Cieślak, Jerzy Cieślik, Józef Dąbrowski, Jerzy Dobrzyński, Stanisława Drankiewicz, Zofia Gościcka, Henryk Goździewski, Elżbieta Jastrzębska, Mieczysław Łysiak, Tomasz Łysiak, Czesław Sajnaga, Stefan Sobczak, Marianna Staszewska, Jan Staszewski, Wacław Włodarski i Jan Woźniak.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Anna Sańczuk,<a href="http://www.wysokieobcasy.pl/wysokie-obcasy/7,127763,22600416,fabryka-ursus-upadla-hale-zburzono-zostali-ludzie-jasmina.html" target="_blank" rel="noopener"> “Fabryka Ursus upadła, hale zburzono, zostali ludzie. Jaśmina Wójcik symbolicznie zwraca im to miejsce [The Ursus factory collapsed, the halls were demolished, the people remained. Jaśmina Wójcik aims to symbolically return the factory to them]</a>,” <em>Wysokie Obcasy</em>, Nov. 4, 2017.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> After: “URSUS – THE LEGEND RETURNS,” ep. 4/4, <a href="https://www.youtube.com/watch?v=TERJ9cFOWTI" target="_blank" rel="noopener">https://www.youtube.com/watch?v=TERJ9cFOWTI</a> (accessed Sept. 27, 2018).</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Cf. the website for the developer of the Next Ursus housing community, <a href="https://nextursus.pl/lokalizacja/" target="_blank" rel="noopener">https://nextursus.pl/lokalizacja/</a> (accessed Aug. 17, 2018).</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/20-2018-demusealization/a-symphony-from-remnants" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Poruszenia. O gdyńskim Muzeum Emigracji | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/20-2018-odmuzealnienie/poruszenia.-o-gdynskim-muzeum-emigracji">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Poruszenia. O gdyńskim Muzeum Emigracji | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Poruszenia. O gdyńskim Muzeum Emigracji | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/20-2018-odmuzealnienie/poruszenia.-o-gdynskim-muzeum-emigracji">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Poruszenia. O gdyńskim Muzeum Emigracji | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ce0058 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ce0058 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ce0058 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ce0058 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ce0058 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ce0058 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+			/* background-color:#ce0058 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(206,0,88,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ce0058 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ce0058; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ce0058 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ce0058 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ce0058 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-467 parent-id-361">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="333" data-selected-issue-color="#ce0058" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/20-2018-demusealization#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/20-2018-demusealization/frictions.-on-gdynia-emigration-museum">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/20-2018-odmuzealnienie#toc">20</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-20/20-litwinowicz.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Poruszenia. O gdyńskim Muzeum Emigracji</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-20/20-litwinowicz.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=465">Małgorzata Litwinowcz-Droździel</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/litwinowicz/01-d-1920x-a7a.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/litwinowicz/01-d-333x-67d.jpg 333w,assets/cache/images/issues/2018/20/litwinowicz/01-d-666x-613.jpg 666w,assets/cache/images/issues/2018/20/litwinowicz/01-d-1332x-834.jpg 1332w" src="assets/cache/images/issues/2018/20/litwinowicz/01-d-666x-613.jpg" alt="" ></a>    <figcaption><p><a href="http://www.polska1.pl/" target="_blank" rel="noopener">Strona internetowa Muzeum Emigracji</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Zacznę od nieco ryzykownego odniesienia się do powszechnych wyobrażeń i&nbsp;tego, jak w&nbsp;konstelacji potoczności funkcjonuje pojęcie „emigracja” wiązane z&nbsp;historią kultury polskiej. Sądzę, że&nbsp;głównym punktem tej konstelacji jest Wielka Emigracja, czyli nieliczne demograficznie, ale istotne dla społecznej wyobraźni wychodźstwo po&nbsp;klęsce powstania listopadowego w&nbsp;1831 roku. Historia, na&nbsp;którą składa się wysiłek przekuwania emigracji w&nbsp;pielgrzymstwo, doświadczenia izolacji społecznej i&nbsp;pasma klęsk osobistych w&nbsp;uniwersalne, ogólnoludzkie poselstwo wolności, stała się wzorem każdego polskiego doświadczenia emigracyjnego. Albo odwrotnie: fale migracji Polaków, bardzo regularne w&nbsp;ciągu ostatnich dwustu lat, zyskiwały w&nbsp;potocznym wyobrażeniu status procesów/zdarzeń znaczących wyłącznie wtedy, gdy złączone zostały z&nbsp;misją, najczęściej – z&nbsp;odzyskiwaniem państwa polskiego oraz ratowaniem i&nbsp;podtrzymywaniem tożsamości narodowej. Sądzę, że&nbsp;to jest wyposażenie, z&nbsp;którym każdy zwiedzający wkracza <a href="http://www.polska1.pl/" target="_blank" rel="noopener">w przestrzeń gdyńskiego Muzeum Emigracji</a>, i&nbsp;jest to sytuacja, w&nbsp;której wiedza musi konfrontować się z&nbsp;doświadczeniem albo inaczej jeszcze: doświadczenie ekspozycji musi przebijać się przez to, co wiemy – o&nbsp;sobie, o&nbsp;historii rodziny, regionu, kraju.</p> <p>Siedzibą tego muzeum jest gdyński Dworzec Morski i&nbsp;można uznać samą tę lokalizację za&nbsp;część ekspozycji, bo&nbsp;jest to przestrzeń bardzo bogata semantycznie. Budynek oddany do użytku w&nbsp;1933 roku to jeden z&nbsp;emblematów historii dwudziestolecia międzywojennego: nowoczesny w&nbsp;formie i&nbsp;funkcjonalny, służyć miał obsłudze transatlantyckiego ruchu towarowego i&nbsp;pasażerskiego. Można go widzieć na&nbsp;rozmaitych mapach znaczeń: to zapis polskich snów o&nbsp;potędze kolonialnej, bardzo przecież żywych w&nbsp;międzywojniu, to teatr luksusu, to – podobnie jak cała Gdynia – mocny, fizyczny znak nowego otwarcia; architektoniczny modernizm i&nbsp;geometryczna przejrzystość, która charakteryzuje całość założenia miejskiego, miały być przecież emanacją nowości, która – choć oddawała dyskretnie hołdy należne historii – zrywała z&nbsp;etosem życia zaściankowego i&nbsp;wpisującymi się w&nbsp;ten model wzorami estetycznymi. Skromny fragment wybrzeża z&nbsp;jednym zbudowanym w&nbsp;błyskawicznym tempie portem i&nbsp;miastem miał spełniać bardzo wiele obietnic: o&nbsp;państwie nowym i&nbsp;światowym, które jest morską potęgą, jego miasta żyją prawdziwym metropolitalnym rytmem, a&nbsp;ludzie noszą się po&nbsp;europejsku i&nbsp;standard ich życia nie odbiega od tego, co kryje się pod&nbsp;pojęciem „zachodni”. Czytanie znaczeń Gdyni jako esencjonalnej reprezentacji polskiego dyskursu modernizacyjnego wydaje mi się ciągle zadaniem wartym podjęcia, a&nbsp;przy okazji rozważań na&nbsp;temat Muzeum Emigracji – istotnym. Mimo wszystkich komplikacji, które mogą z&nbsp;tej przestrzennej lektury wynikać, powołanie do życia tej placówki właśnie w&nbsp;tym miejscu jest decyzją szczęśliwą.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/litwinowicz/02-d-1920x-a7a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/litwinowicz/02-d-330x-cba.jpg 330w,assets/cache/images/issues/2018/20/litwinowicz/02-d-660x-597.jpg 660w,assets/cache/images/issues/2018/20/litwinowicz/02-d-768x-02b.jpg 768w,assets/cache/images/issues/2018/20/litwinowicz/02-d-1320x-c67.jpg 1320w" src="assets/cache/images/issues/2018/20/litwinowicz/02-d-660x-597.jpg" alt="" ></a>    <figcaption><p><a href="02-d.JPG"><img></a>Plakat zachęcający do emigracji. Ekspozycja Muzeum. Fot. Małgorzata Litwinowicz-Droździel</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Zanim przejdzie się ekspozycję, zobaczy cokolwiek z&nbsp;tego, co jest w&nbsp;muzeum wystawiane jako zbiór rzeczy i&nbsp;obrazów mówiących o&nbsp;doświadczeniu emigracyjnym, zwiedzający przy odrobinie uwagi odczuć mogą to, co zamknęłabym w&nbsp;zdaniu: „Emigracja zaczyna się od utraty gruntu pod&nbsp;nogami”. Muzeum Emigracji położone jest w&nbsp;dosłownym sensie na&nbsp;skraju: lądu i&nbsp;morza, Polski i&nbsp;nie-Polski, tego, co stabilne czy określone, i&nbsp;tego, co rozkołysane i&nbsp;pozbawione przewidywalności, przestrzeni zróżnicowanej i&nbsp;tej, która choć niesie wiele impulsów, pozbawiona jest widocznych znaków ludzkiej organizacji przestrzennej. Morze opisane jest przez mapy nawigacyjne, jednak dla podróżnych płynących statkiem nawet przez niewielki Bałtyk nie ma to specjalnego znaczenia: nie widzą przecież znaków informacyjnych i&nbsp;po utracie lądu z&nbsp;pola widzenia tracą możliwość samodzielnego poszukiwania odpowiedzi na&nbsp;pytanie: „Gdzie jesteśmy?”. Niezależnie od zbiorów teoretycznych mądrości i&nbsp;praktycznych umiejętności podróż morska pozostaje doświadczeniem spotkania z&nbsp;żywiołem. W&nbsp;podręcznym słowniku do opisu tego doświadczenia umieściłabym następujące frazy i&nbsp;pojęcia: ryzyko, niepewność, brak orientacji w&nbsp;przestrzeni, bycie zdanym na&nbsp;łaskę (losu, natury, czasem innych ludzi), ograniczona swoboda poruszania się, reglamentacje: żywności, wody, przestrzeni, dyskomfort fizyczny i&nbsp;intensywne doświadczenie ciała: niemoc, choroba, zawieszenie bądź ograniczenie możliwości komunikowania się ze światem zewnętrznym.</p> <p>Oczywiście – w&nbsp;cenę biletu pierwszej klasy na&nbsp;transatlantyku wliczona była obietnica redukcji wszystkich tych doznań, „wygładzenia” podróży tak, by dawała wrażenie całkowitego panowania nad rzeczywistością morza; wrażenie zbliżające podróżnych do przeświadczenia w&nbsp;rodzaju „morze powstało po&nbsp;to, by służyło statkom”, a&nbsp;od żywiołu oczekuje się tego, że&nbsp;będzie się zachowywał jak trakt. Po&nbsp;pierwsze jednak pasażerowie pierwszej klasy transatlantyckiej to niewielka część spośród tych, którzy w&nbsp;XX wieku przeprawiali się przez morza. Po&nbsp;drugie zbiór, który uważam za&nbsp;podręczny słownik do opisu podróży morskiej, składa się z&nbsp;pojęć opisujących doświadczenie emigracji jako takie. Nie podróży, wycieczki, wyprawy, pielgrzymki czy innych form mniej przymusowego i&nbsp;bardziej podmiotowego przemieszczania się. Z&nbsp;powodu tej zbieżności uważam wybór siedziby muzeum za&nbsp;trafny, a&nbsp;możliwość kontemplacji tej przestrzeni za&nbsp;wielką wartość całego założenia. To jest znakomity punkt wyjścia do rozważań o&nbsp;migracji i&nbsp;do budowania ekspozycji. której zwiedzanie wywołuje rozmaite, czasem sprzeczne uczucia.</p> <p>„Dzisiaj może pani wziąć udział w&nbsp;oprowadzaniu z&nbsp;jednym z&nbsp;naszych przewodników-wolontariuszy” – poinformowała mnie kasjerka. Skorzystałam z&nbsp;entuzjazmem.</p> <p>W sali, która miała opowiadać o&nbsp;różnych społecznościach zamieszkujących ziemie polskie, zastosowano rozwiązanie interaktywne: można było stanąć na&nbsp;wybranym polu i&nbsp;usłyszeć brzmienie języków, które tworzyły pejzaż dźwiękowy Pierwszej Rzeczypospolitej. Zapytałam, dlaczego możemy usłyszeć hebrajski, a&nbsp;nie jidysz. „Bo w&nbsp;tej sali prezentujemy języki historyczne”. „Jidysz też jest historyczny...” – „Ale ukształtował się późno”. W&nbsp;kolejnej sali – portrety słynnych polskich migrantów. Więc jednak Wielka Emigracja – bo&nbsp;i&nbsp;Mickiewicz, i&nbsp;Chopin. I&nbsp;Józef Bem, i&nbsp;Sadyk Pasza. „Dlaczego Józef Bem jest podpisany tylko jako Józef Bem, a&nbsp;nie Murad Pasza, i&nbsp;nie ma ani słowa o&nbsp;tym, że&nbsp;zmarł w&nbsp;Aleppo jako gubernator tego miasta? Dlaczego dla odmiany przy Sadyku Paszy nie ma informacji, że&nbsp;nazywał się Michał Czajkowski i&nbsp;był – jak wielu oficerów armii Imperium Osmańskiego – byłym powstańcem listopadowym?”. Z&nbsp;dość nerwowej odpowiedzi udzielonej przez przewodnika wynikało, że&nbsp;reprezentujemy odmienne szkoły historyczne, ja – jakąś szczególną, oprowadzający – jakąś bardziej uniwersalną.</p> <p>Nie przypisywałabym nadmiernej wagi tej sytuacji, choć ewidentna irytacja wynikająca z&nbsp;pojawienia się w&nbsp;grupie osoby, która pyta zamiast słuchać, jest niepokojącym sygnałem na&nbsp;temat pomysłu muzeum na&nbsp;relacje z&nbsp;odwiedzającymi. Istotniejsze jest to, że&nbsp;ekspozycja Muzeum Emigracji staje się w&nbsp;efekcie próbą odrobienia każdej możliwej lekcji: opowieść ma być nowa, ale jednak powtarzająca to, co rozpoznajemy, współczesna, ale jednak zakorzeniona w&nbsp;odległej przeszłości, nachylona ku historii społecznej, ale oddająca to, co należne elicie i&nbsp;kulturze wysokiej. I&nbsp;wszystko to jeszcze ozdobione wiązanką obrazów i&nbsp;dźwięków o&nbsp;tolerancyjnej Rzeczypospolitej, która zawsze chętnie przyjmowała emigrantów (choć w&nbsp;jakim sensie Rusini byli migrantami na&nbsp;Podolu czy Wołyniu, nie mogę pojąć).</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/litwinowicz/03-d-1920x-942.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/litwinowicz/03-d-330x-82c.jpg 330w,assets/cache/images/issues/2018/20/litwinowicz/03-d-660x-e64.jpg 660w,assets/cache/images/issues/2018/20/litwinowicz/03-d-768x-7b7.jpg 768w,assets/cache/images/issues/2018/20/litwinowicz/03-d-1320x-bf5.jpg 1320w" src="assets/cache/images/issues/2018/20/litwinowicz/03-d-660x-e64.jpg" alt="" ></a>    <figcaption><p>Ekspozycja Muzeum: „W okresie międzywojennym Liga Morska i&nbsp;Kolonialna organizowała zasiedlenia polskich osad w&nbsp;stanie Espirito Santo. Na&nbsp;zdjęciu: polska chata w&nbsp;puszczy brazylijskiej, lata 20-30. XX w. Fot. Małgorzata Litwinowicz-Droździel</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Prawdę powiedziawszy, początkowe sale muzeum wyglądają jak obowiązkowa danina na&nbsp;rzecz tej polityki historycznej, w&nbsp;której centrum znajduje się mit tolerancyjnej Polski, domu wielu narodów, kultur, religii, w&nbsp;którym wszyscy pod&nbsp;jednym dachem zgodnie, wszystkich z&nbsp;otwartymi ramionami etc. „Kamieniec Podolski – twierdzę na&nbsp;Kresach Wschodnich Rzeczypospolitej nazywano w&nbsp;XVII w. przedmurzem chrześcijaństwa” – informuje jeden z&nbsp;podpisów, inna zaś tablica informuje: „Od wieków na&nbsp;ziemiach polskich osiedlali się ludzie różnych kultur i&nbsp;religii. Osadnicy z&nbsp;całej Europy zmieniali oblicze miast i&nbsp;wsi, przyczyniając się do rozwoju kraju. (...) Napływ grup prześladowanych w&nbsp;innych krajach, na&nbsp;przykład Żydów, także powodował zróżnicowanie religijne, etniczne i&nbsp;kulturowe. W&nbsp;dobie krwawych wojen religijnych Rzeczypospolita była oazą tolerancji i&nbsp;równouprawnienia wyznań chrześcijańskich”. Wszystkie tablice są po&nbsp;polsku i&nbsp;angielsku i&nbsp;uważny czytelnik (wprowadzająca część ekspozycji charakteryzuje się wysoką tekstowością i&nbsp;raczej się tutaj czyta, niż ogląda) musi przejść przez tę wytartą nieco opowieść o&nbsp;Rzeczypospolitej jako zrealizowanej utopii równości i&nbsp;tolerancji, stanowiącej jednocześnie stabilną zaporę przed obcymi (Wschodem, światem niechrześcijańskim). Swoją drogą – trudno uwierzyć, że&nbsp;w&nbsp;dobie krytycznych narracji i&nbsp;uprawianej z&nbsp;powodzeniem postkolonialnej refleksji o&nbsp;wschodnich pograniczach Rzeczypospolitej, po&nbsp;książkach Daniela Beauvois, Danuty Sosnowskiej czy Andrzeja Mencwela<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>, można w&nbsp;nowoczesnej instytucji kultury ujrzeć tablicę z&nbsp;toksycznym postsienkiewiczowskim przekładańcem, na&nbsp;który składają się Kresy, przedmurze i&nbsp;twierdza Kamieniec.</p> <p>Potem ta narracja zrywa się nagle i&nbsp;nie wiadomo, jaką ścieżką zostajemy doprowadzeni do serca ekspozycji. Tutaj otwiera się inna opowieść. Dotyczy ona powszechnych, rozpoznawalnych, znaczących społecznie migracji Polaków istotnych w&nbsp;pamięci społecznej, choć nieobecnych zupełnie w&nbsp;przestrzeni wiedzy historycznej kształtowanej na&nbsp;przykład przez edukację szkolną. Przedmiotem muzealnej narracji stają się więc tutaj wielkie migracje chłopskie do Brazylii i&nbsp;Stanów Zjednoczonych na&nbsp;przełomie XIX i&nbsp;XX wieku, bieżeństwo, repatriacje, oraz migracje ekonomiczne i&nbsp;polityczne w&nbsp;XX wieku. Jeśli ten zwrot w&nbsp;narracji próbowalibyśmy powiązać z&nbsp;osią czasu – powiedzieć by można, że&nbsp;obraz Polski jako ziemi, do której się przybywa, lokuje się w&nbsp;silnie mitologizowanej epoce staropolskiej, polska nowoczesność zostaje zaś powiązana z&nbsp;doświadczeniem migracji, charakteryzowanej przez dwa przymiotniki: wymuszona (najistotniejszy jest tutaj przymus ekonomiczny zwany potocznie biedą) oraz możliwa (na przykład dzięki zmianom prawnym umożliwiającym samodzielne opuszczenie miejsca zamieszkania – czyli zniesieniu pańszczyzny).</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/litwinowicz/05-d-1920x-a74.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/litwinowicz/05-d-330x-f09.jpg 330w,assets/cache/images/issues/2018/20/litwinowicz/05-d-660x-96f.jpg 660w,assets/cache/images/issues/2018/20/litwinowicz/05-d-768x-16d.jpg 768w,assets/cache/images/issues/2018/20/litwinowicz/05-d-1320x-dde.jpg 1320w" src="assets/cache/images/issues/2018/20/litwinowicz/05-d-660x-96f.jpg" alt="" ></a>    <figcaption><p><a href="05-d.JPG"><img></a>Ekspozycja Muzeum: „Wkład emigracji polskiej w&nbsp;rozwój rolnictwa w&nbsp;Brazylii upamiętnia Pomnik Polskiego Siewcy w&nbsp;Kurytybie, odsłonięty w&nbsp;1925 roku”. Fot. Małgorzata Litwinowicz-Droździel</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Zmienia się tutaj tryb muzealnej narracji. Z&nbsp;ekspozycji, na&nbsp;którą składają się głównie plansze tekstowe, fotografie i&nbsp;grafiki, przechodzimy do sal, które dawać mają choćby wyobrażenie o&nbsp;tym, czym mogła być pod&nbsp;koniec XIX wieku podróż z&nbsp;galicyjskiej wsi za&nbsp;ocean. Przewodnikiem tej części jest chłopska rodzina Sikorów, których droga zaczyna się w&nbsp;podtarnowskiej wsi Chmielnik, kończy – w&nbsp;Stanach Zjednoczonych. Można oczywiście skupić się na&nbsp;krytycznej dyskusji o&nbsp;tym, czy prycze ustawione w&nbsp;sali ekspozycyjnej oddają doświadczenie podróży transoceanicznej między pokładami i&nbsp;czy łącząca poszczególne sale opowieść o&nbsp;galicyjskich migrantach nie jest zbyt prostoduszna i&nbsp;tchnąca dydaktyzmem. Albo nad tym, czy wątek emigracji jako doświadczenia przemocy i&nbsp;klęski nie jest zbyt mocno ukryty – ostatecznie wyjść można z&nbsp;odbiegającą od prawdy wizją, że&nbsp;ucieczka z&nbsp;Galicji do Stanów była spełnioną wędrówką do Ziemi Obiecanej. Albo nad tym, że&nbsp;opowieść emigrantek różniłaby się przecież od opowieści emigrantów, i&nbsp;że tej genderowej perspektywy bardzo tutaj brakuje. Można (i warto!) przechodzić tę ekspozycję z&nbsp;<em>Cesarzem Ameryki </em>Martina Pollacka (niektóre fotografie obecne na&nbsp;ekspozycji są zresztą ilustracjami tej książki), <em>Historią słabych</em> Urszuli Glensk czy innymi pracami, które w&nbsp;ostatnich latach podejmowały podobną problematykę<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Można wykazywać, że&nbsp;przecież powiedziano już wiele i&nbsp;wyraziście – o&nbsp;przemocy ekonomicznej i&nbsp;fizycznej, na&nbsp;którą narażeni byli podróżujący ze strony agentów linii transoceanicznych, o&nbsp;strachu (przed władzą, przed celnikami, ale też po&nbsp;prostu – przed nieznanym), który tej podróży towarzyszył, o&nbsp;handlu żywym towarem i&nbsp;kobietach-migrantkach doświadczających przemocy seksualnej; o&nbsp;niepowodzeniach w&nbsp;budowaniu nowego życia za&nbsp;oceanem i&nbsp;o rozpaczy, której świadectwem jest skąpy zbiór zachowanych do dzisiaj migranckich listów<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>.</p> <p>Stawiam jednak, że&nbsp;wiele osób, być może większość właśnie z&nbsp;tej ekspozycji dowiaduje się o&nbsp;istnieniu takiego zjawiska jak masowe migracje nowoczesnych Polaków, że&nbsp;z&nbsp;pewnym zdumieniem odkrywa ekonomiczny kontekst tych migracji. Mit „dobrego dawniej” zostanie ostro zweryfikowany, jeśli będzie nam się chciało poświęcić po&nbsp;dwie minuty na&nbsp;proste infografiki ilustrujące na&nbsp;przykład wydajność pracy (roczna produkcja żywności w&nbsp;Galicji pod&nbsp;koniec XIX wieku to 675 kg na&nbsp;osobę, we Francji – 1600, w&nbsp;Belgii i&nbsp;Anglii – 2200), dostępność i&nbsp;jakość żywności (proporcje wypadają podobnie: roczna konsumpcja rolnika galicyjskiego to 10 kg mięsa rocznie i&nbsp;120 litrów mleka, brytyjskiego – odpowiednio: 50 i&nbsp;200). Statystyki to nudy, wiadomo. Ale w&nbsp;Muzeum Emigracji plansze są syntetyczne i&nbsp;przejrzyste, zachęcają do lektury. Finałowa jest chyba tabela z&nbsp;długością życia: mieszkaniec wsi galicyjskiej pod&nbsp;koniec wieku pary i&nbsp;elektryczności żył 27 lat, mieszkanka – 28,5. Brytyjskie 40 i&nbsp;42 lata nie wypadają imponująco wobec dzisiejszych danych, ale między 27 a&nbsp;40 jest jednak przestrzeń życia na&nbsp;tyle rozległa, że&nbsp;warto było podjąć ryzykowną decyzję o&nbsp;podróży do Bremy czy Hamburga, a&nbsp;potem na&nbsp;inny kontynent. Nawet jeśli przedtem najdalszą podróżą życia były odwiedziny wsi parafialnej z&nbsp;okazji odpustu. Zwłaszcza że&nbsp;„do Ameryki i&nbsp;Kanady prawie za&nbsp;pół darmo!” – jak krzyczy jeden z&nbsp;plakatów umieszczonych na&nbsp;ekspozycji – a&nbsp;informacje o&nbsp;jakości statków (najnowsze i&nbsp;największe: Imperator i&nbsp;Vaterland), o&nbsp;taryfach i&nbsp;bezpłatnym noclegu w&nbsp;Hamburgu skwitowane zostają jednoznacznym wezwaniem: „Pośpiech jest zatem wskazanem we własnym interesie”. Tyle tekstu, dużych i&nbsp;małych liter, liczb, taryf, walut, warunków spisanych drobnym drukiem, tyle tego marketingowego impetu, który oszałamiał przecież podróżnych żyjących w&nbsp;świecie od miedzy do miedzy, od przednówka do przednówka.</p> <p>Ta część wystawy z&nbsp;pewnością odwołuje się do emocji i&nbsp;próbuje uruchomić tryb „wyobraź sobie”, uświadomić zwiedzającym, że&nbsp;każde doświadczenie ma aspekt somatyczny. Ekspozycja działa też na&nbsp;podstawowym poziomie poznawczym – opowiedziane zostaje to, o&nbsp;czym po&nbsp;prostu mało wiadomo.</p> <p>Jasne, że&nbsp;coś, co już istnieje, zawsze mogłoby być trochę inne. Zwłaszcza jeśli zbiega się z&nbsp;pytaniem, które brzmi na&nbsp;przykład: „Czy możliwe jest opowiedzenie chłopskiej historii Polski?” – skoro to chłopi byli największą grupą emigrantów. Poczucie niedostatku, które towarzyszy każdemu, kto sobie to pytanie zadał, jest ogromne i&nbsp;dotyczy wszystkich wymiarów opowiadania historii: źródeł i&nbsp;reprezentacji, kategorii, procesów i&nbsp;zdarzeń. Wspominany już niewielki tom migranckich listów Henryk Bereza uznał za&nbsp;epos założycielski chłopskiej historii. Tekst Berezy, przypomniany niedawno przy okazji wydania jego pism<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>, odsłania warunki brzegowe chłopskiej historyczności. Jej podstawą jest zbiór wypowiedzi osobistych (listy do bliskich), wysyłanych z&nbsp;daleka (porty odprawy – Hamburg albo Brema, i&nbsp;miejsca osiedlenia – Stany Zjednoczone, rzadziej Brazylia), zasadniczo należących do kultury oralnej (formalnie często listy mają strukturę lamentu, litanii, opowieści i&nbsp;stają się bardziej zrozumiałe przy pewnej odwadze performatywnej – jeśli zaczynamy je czytać na&nbsp;głos, melodyzować czy nawet śpiewać). Są zapisem niepowodzenia: często treść samych listów jest po&nbsp;prostu opowieścią o&nbsp;trudnościach życia w&nbsp;nowym świecie. Nieredukowalnym aspektem ich znaczenia jest jednak to, że&nbsp;znamy je, ponieważ nigdy nie dotarły do adresatów: zostały zatrzymane przez cenzurę, potem trafiły do archiwów, na&nbsp;koniec bardzo niewielka kolekcja przetrwała drugą wojnę światową. I&nbsp;oto mamy, co mamy: przejętą prywatność zdesperowanych niepiśmiennych. Dyskurs ekspercki może z&nbsp;łatwością rozmontować tę sekwencję słów, zracjonalizować ją czy jej zaprzeczyć. Mam jednak poczucie, że&nbsp;spokojny proces przyswajania historii migracji, w&nbsp;której doprawdy trudno odróżnić, co było szansą, a&nbsp;co krzywdą, to ważne zadanie dla muzealników, historyków czy popularyzatorów. I&nbsp;że może on prowadzić do rozmontowania rozmaitych niebezpieczeństw wynikających z&nbsp;tego zestawienia: przejęcie – wykluczenie.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/litwinowicz/04-d-1920x-f41.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/litwinowicz/04-d-330x-8e1.jpg 330w,assets/cache/images/issues/2018/20/litwinowicz/04-d-660x-588.jpg 660w,assets/cache/images/issues/2018/20/litwinowicz/04-d-768x-b44.jpg 768w,assets/cache/images/issues/2018/20/litwinowicz/04-d-1320x-95b.jpg 1320w" src="assets/cache/images/issues/2018/20/litwinowicz/04-d-660x-588.jpg" alt="" ></a>    <figcaption><p><a href="04-d.jpg"><img></a>Muzeum Emigracji w&nbsp;Gdyni. Fot. Bogna Kociumbas</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Gdyńskie muzeum nie ma w&nbsp;nazwie żadnego usprawiedliwiającego przymiotnika, który partykularyzowałby zakres pracy tej instytucji albo opisywał niektóre części ekspozycji jako „etnograficzne”. Umieszczenie w&nbsp;centrum wystawy stałej właśnie opowieści o&nbsp;ekonomicznej migracji wiejskiej jako doświadczeniu powszechnym uważam za&nbsp;ogromną wartość i&nbsp;świadectwo myślenia skierowanego w&nbsp;stronę historii społecznej. Częścią pracy tej instytucji jest zresztą rozrastające się Archiwum Emigranta, czyli zasoby historii mówionej. Sądzę, że&nbsp;może ono być nie tylko archiwum rozumianym jako zbiór materiałów do dalszych badań. Może – podobnie jak całe muzeum – stać się częścią pracy na&nbsp;rzecz demokratyzacji narracji historycznej o&nbsp;najnowszych dziejach kultury polskiej.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Zob. Daniel Beauvois, <em>Ukraiński trójkąt: szlachta, lud i carat na Wołyniu, Podolu i Kijowszczyźnie 1793-1914</em>, przeł. K. Rutkowski, Wyd. UMCS, Lublin 2011; Daniel Beauvois, <em>Jak się ma pojęcie kresów do Ukrainy</em>, Pracownia, Gdańsk 2017; <em>Wiele twarzy Ukrainy</em>, red. I. Chruślińska, P. Tyma, Europejskie Kolegium Polskich i Ukraińskich Uniwersytetów – Wyd. UMCS, Lublin 2005; Andrzej Mencwel, <em>Wyobraźnia antropologiczna. Próby i studia</em>, Wydawnictwa Uniwersytetu Warszawskiego, Warszawa 2006; Danuta Sosnowska, <em>Inna Galicja</em>, Elipsa, Warszawa 2008.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Zob. Martin Pollack, <em>Cesarz Ameryki. Wielka ucieczka z Galicji</em>, przeł. K. Niedenthal, Czarne, Wołowiec 2017; Urszula Glensk, <em>Historia słabych. Reportaż i życie w Dwudziestoleciu (1918–1939)</em>, Universitas, Kraków 2014; Małgorzata Szejnert, <em>Wyspa klucz</em>, Znak, Kraków 2014; Aleksandra Pluta, <em>Droga do Rio. Historie polskich emigrantów</em>, PWN, Warszawa 2017 i inne.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a><em>Listy emigrantów z Brazylii i Stanów Zjednoczonych 1890–1891</em>, red. W. Kula, N. Assorodobraj-Kula, M. Kula, Biblioteka Iberyjska, Warszawa 2012.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Henryk Bereza, <em>Odzyskane źródła, </em>„Mały Format” 2018, nr 6, <a href="http://malyformat.com/2018/06/odzyskane-zrodla" target="_blank" rel="noopener">http://malyformat.com/2018/06/odzyskane-zrodla</a>, dostęp 21 września 2018. Tekst po raz pierwszy opublikowany został w piśmie „Regiony” w 1975 roku, ukazał się także w zbiorze pism Berezy <em>Alfabetyczność. Teksty o literaturze i życiu </em>(PIW, Warszawa 2018).</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/20-2018-odmuzealnienie/poruszenia.-o-gdynskim-muzeum-emigracji" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Czasopisma fotograficzne jako narracje o fotografii | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/czasopisma-fotograficzne-jako-narracje-o-fotografii">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Czasopisma fotograficzne jako narracje o fotografii | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Czasopisma fotograficzne jako narracje o fotografii | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/czasopisma-fotograficzne-jako-narracje-o-fotografii">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Czasopisma fotograficzne jako narracje o fotografii | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ff5239 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ff5239 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ff5239 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ff5239 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ff5239 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ff5239 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+			/* background-color:#ff5239 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,82,57,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ff5239 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ff5239; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ff5239 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ff5239 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ff5239 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1344 parent-id-1333">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="419" data-selected-issue-color="#ff5239" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/the-visibility-of-things#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/the-visibility-of-things/photo-magazines-as-narratives-on-photography">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/widzialnosc-rzeczy#toc">1</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/czasopisma-fotograficzne-jako-narracje-o-fotografii?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Czasopisma fotograficzne jako narracje o fotografii</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/czasopisma-fotograficzne-jako-narracje-o-fotografii?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=306">Karolina Ziębińska-Lewandowska</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-221-1-pb-1920x-1c3.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-221-1-pb-330x-7dc.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-221-1-pb-660x-e28.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-221-1-pb-768x-0a9.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-221-1-pb-1320x-55c.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-221-1-pb-660x-e28.jpg" alt="" ></a>    <figcaption><p>Prace Andrzeja Pawłowskiego w&nbsp;artykule Urszuli Czartoryskiej, "Fotografia" 1957 nr 7</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Czasopisma branżowe, a&nbsp;o takich jest niniejszy tekst, nie są nośnikami prawdy, są jednak nośnikami i&nbsp;jednocześnie generatorami dyskursu. Z&nbsp;jednej strony posiadają własną, linearną narrację, tworzoną przez kolejno ukazujące się numery, z&nbsp;drugiej, z&nbsp;analizy poszczególnych numerów i&nbsp;roczników wyłania się narracja alternatywna, która powstaje w&nbsp;wyniku zaburzania porządku i&nbsp;wyrywania rozmaitych wypowiedzi, informacji i&nbsp;sformułowań z&nbsp;ich pierwotnego umiejscowienia. W&nbsp;efekcie otrzymujemy z&nbsp;tego samego zestawu czasopism zupełnie różne historie. W&nbsp;omawianym przypadku czasopism fotograficznych z&nbsp;okresu PRL mogą to być historia sprzętu i&nbsp;technik fotograficznych, fotografii artystycznej, dokumentu, historia badań historycznych czy zbiorów fotograficznych. Każda tyleż odsłania prawdę, co ją skrywa, gdyż jest to zawsze praca na&nbsp;fragmencie. W&nbsp;takiej analizie czasopisma nie są źródłami – są faktami, których poszczególne elementy i&nbsp;ich wzajemne powiązania są badane.</p> <p>W przypadku fotografii przyjrzenie się czasopismom specjalistycznym jest szczególnie istotne, mimo iż&nbsp;są one tylko wycinkiem historii fotografii. Należy przede wszystkim podkreślić, że&nbsp;tworzyły one stosunkowo spójną przestrzeń, która do początku lat 70. była reprezentatywna dla całości życia fotograficznego w&nbsp;Polsce, a&nbsp;zwłaszcza dla krytyki. Do 1974 roku wychodził zawsze tylko jeden tytuł poświęcony jednocześnie zagadnieniom amatorskim, zawodowym, artystycznym i&nbsp;teoretycznym. W&nbsp;latach 1946–52 był to „Świat Fotografii”, w&nbsp;latach 1953–74 miesięcznik „Fotografia”. W&nbsp;czasopismach tych, oprócz tekstów redakcyjnych, zamieszczano także przedruki z&nbsp;katalogów, fragmenty z&nbsp;narad twórczych ZPAF, recenzje wydawnictw. Propagowano w&nbsp;nich różne modele fotografii artystycznej, a&nbsp;także dokument czy fotografię amatorską. To na&nbsp;ich łamach podejmowano ambitne próby wyeksplikowania bądź zredefiniowania obowiązującego w&nbsp;danym czasie modelu, a&nbsp;także teoretycznego określenia tego, czym była i&nbsp;czym jest, lub czym być powinna fotografia artystyczna. Od połowy lat 70. wychodziły dwa tytuły, „Foto” i&nbsp;kwartalnik „Fotografia”, a&nbsp;w latach 80. jeszcze dodatkowo „Obscura”. Pluralizm tytułów odzwierciedlał pluralizm w&nbsp;życiu fotograficznym. Czasopisma branżowe w&nbsp;tym okresie w&nbsp;coraz mniejszym stopniu reprezentowały to, co działo się w&nbsp;całym środowisku fotograficznym. W&nbsp;związku z&nbsp;tym ich zawartość już nie pokrywała się, w&nbsp;tak dużym stopniu jak wcześniej, z&nbsp;ogólną historią fotografii i&nbsp;krytyki w&nbsp;Polsce.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-220-1-pb-1920x-15d.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-220-1-pb-330x-51d.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-220-1-pb-660x-9ab.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-220-1-pb-768x-3a6.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-220-1-pb-1320x-262.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-220-1-pb-660x-9ab.jpg" alt="" ></a>    <figcaption><p>Zdzisław Beksiński, <em>Kompozycja</em>, ok. 1957</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Narracje historyczne oparte na&nbsp;branżowych tekstach krytycznych mogą się znacznie różnić, co wynika ze skoncentrowania się tych ujęć na&nbsp;arbitralnie wybranym, fragmentarycznym materiale – określonym rodzaju czasopism. Można sobie wyobrazić, że&nbsp;narracje rekonstruowane osobno na&nbsp;podstawie np.&nbsp;biuletynów ZPAF, czasopism fotograficznych lub materiałów posympozjalnych, choć odnoszące się do zagadnienia fotografii w&nbsp;Polsce, mogą okazać się zupełnie różne. Wiemy jednak, że&nbsp;w&nbsp;badaniu przeszłości możliwe jest wypowiadanie zdań prawdziwych jedynie wobec pojedynczych faktów. Nie da się zrekonstruować przeszłości, ale można ustalić, które twierdzenia doń się odnoszące są prawdziwe, a&nbsp;które fałszywe.</p> <p style="text-align: center;">***</p> <p>Analiza zawartości ówczesnych czasopism fotograficznych (choć z&nbsp;pozoru bardzo szeroko obejmują zagadnienia związane z&nbsp;fotografią), doprowadza dość szybko do zredukowanej kategorii „fotografii artystycznej”. Prawie cały dyskurs o&nbsp;fotografii z&nbsp;okresu PRL wytwarzany przez teksty i&nbsp;reprodukcje, prowadzony był w&nbsp;obrębie bądź w&nbsp;odniesieniu do tej kategorii. Dziś, kiedy właściwie nie istnieje już podział na&nbsp;fotografię artystyczną i&nbsp;nieartystyczną, kategoria ta straciła na&nbsp;znaczeniu<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a>. Jednak przez cały wiek XX była ona w&nbsp;Polsce kluczowa: radykalnie regulowała podziały przeprowadzane w&nbsp;obrębie pola fotografii.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-210-1-pb-1920x-6ac.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-210-1-pb-330x-840.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-210-1-pb-660x-332.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-210-1-pb-768x-c0e.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-210-1-pb-1320x-6b1.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-210-1-pb-660x-332.jpg" alt="" ></a>    <figcaption><p>Leonard Sempoliński, <em>Walka</em>, 1957</p></figcaption>   </figure>  </section><section class="u-typo">   <p><span class="rozstrzelony">Dyskurs fotografii</span> wytwarzany jest przez całość złożonego i&nbsp;wieloelementowego systemu artystycznego-społecznego, podczas gdy <span class="rozstrzelony">dyskursy o&nbsp;fotografii</span> wytwarzane są przez teksty. Dla fotografii artystycznej tworzą je sposoby opowiadania o&nbsp;fotografiach i&nbsp;sztuce, zestaw terminów służących jako narzędzia do przypisywania bądź wykluczania rozmaitych obrazów z&nbsp;pola sztuki, a&nbsp;także częstotliwość ich występowania.</p> <p>Niniejszy tekst dotyczy właśnie fotografii artystycznej i&nbsp;ważkiego dla niej zagadnienia <span class="rozstrzelony">abstrakcji</span>. Fotografia jest w&nbsp;nim obecna w&nbsp;sposób zapośredniczony: poprzez teksty krytyczne, teoretyczne i&nbsp;kronikarskie oraz poprzez reprodukcje, zamieszczane w&nbsp;czasopismach fotograficznych ukazujących się w&nbsp;okresie PRL. Jednak tematem tekstu nie jest ani krytyka fotograficzna, ani historia fotografii, choć analizowane są tu przede wszystkim teksty krytyczne oraz teksty, które historię fotografii nam przybliżają<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a>.</p> <h2>Spór o&nbsp;abstrakcję</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-218-1-pb-1920x-1f8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-218-1-pb-330x-5ae.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-218-1-pb-660x-8e1.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-218-1-pb-768x-b3e.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-218-1-pb-1320x-204.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-218-1-pb-660x-8e1.jpg" alt="" ></a>    <figcaption><p>Ryszard Marjański, <em>Formy</em>, ok. 1957</p></figcaption>   </figure>  </section><section class="u-typo">   <p>U schyłku lat 50. promowana wówczas przez krytyków już od kilku lat koncepcja metaforycznego reportażu jako najbardziej pożądanej formy fotografii artystycznej zaczęła być na&nbsp;dobre realizowana w&nbsp;praktyce artystycznej. Pojawił się wtedy jednak Inny fotografii – abstrakcja. Modernistyczna logika medium została wystawiona na&nbsp;próbę. Organiczna abstrakcja, którą widać w&nbsp;pracach takich autorów, jak Marek Piasecki, Bronisław Schlabs czy Andrzej Pawłowski, wyłamywała się z&nbsp;paradygmatu nowoczesności właściwego dla medium. Jednocześnie wizualnie wydawała się doskonałą wersją tego paradygmatu, aktualną dla całości sztuk plastycznych. <em>Informel</em> był wtedy nowoczesny <em>par excellence.</em> Krytycy oceniający fotografię stanęli wobec dylematu: odłożyć na&nbsp;bok narzędzia służące dotychczas do tworzenia kryteriów oceny lub zdyskwalifikować nowo powstałe formy.</p> <p>W 1958 roku na&nbsp;łamach „Fotografii” rozgorzał spór między krytykami o&nbsp;to, czy obrazy potocznie nazywane „abstrakcyjnymi” są fotografiami czy też grafikami, a&nbsp;także o&nbsp;definicję abstrakcji w&nbsp;ogóle. Jednak znaczenie tak postawionych pytań było dużo głębsze: pytania te dotyczyły granic medium, ontologicznego statusu obrazu fotograficznego, relacji fotografii z&nbsp;tzw. plastyką. Kryło się za&nbsp;nimi także pytanie o&nbsp;przyjętą strategię uprawomocniania fotografii w&nbsp;polu sztuki – czy będzie ono realizowane przez wyodrębnianie, różnicowanie czy raczej przez integrację, upodabnianie.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-219-1-pb-1920x-6d8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-219-1-pb-330x-70a.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-219-1-pb-660x-35c.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-219-1-pb-768x-c59.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-219-1-pb-1320x-721.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-219-1-pb-660x-35c.jpg" alt="" ></a>    <figcaption><p>Marian Jerzy Szulc, <em>Chwila</em>, ok. 1957</p></figcaption>   </figure>  </section><section class="u-typo">   <p>W wymianie opinii brali udział prawie wszyscy wówczas aktywni krytycy fotografii: Lech Grabowski, Alfred Ligocki, Wojciech Kiciński, Zbigniew Dłubak i&nbsp;w jakimś stopniu Urszula Czartoryska. Główna debata trwała od sierpnia 1958 do kwietnia 1960 roku, kiedy to ukazał się tekst Ligockiego <em>Nowa podróż do kresu fotografii</em><a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a>. Pierwszy artykuł w&nbsp;tej debacie to tekst Lecha Grabowskiego <em>Od malarstwa do reportażu</em><a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a><em></em>. Jednak już od 1957 roku były reprodukowane prace, które wpisywały się w&nbsp;tę debatę, czy też ją zwiastowały. Pierwszą taką fotografią był – paradoksalnie – fotogram dokumentalisty, Leonarda Sempolińskiego, <em>Walka </em>(1957).</p> <p>Następne to fotografie Andrzeja Pawłowskiego, fotomontaż Zdzisława Beksińskiego, pojedyncze prace Mariana Jerzego Szulca, Ryszarda Marjańskiego, Witolda Dederki.</p> <p>Kolejne pojawiają się już w&nbsp;1958 i&nbsp;1959 roku – ponownie Beksiński, Bożena Michalik, „grafiki” Marka Piaseckiego, jedna z&nbsp;debiutanckich fotografii Stefana Wojneckiego<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-213-1-pb-1920x-dcd.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-213-1-pb-330x-d5a.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-213-1-pb-660x-a2c.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-213-1-pb-768x-9e0.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-213-1-pb-1320x-d39.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-213-1-pb-660x-a2c.jpg" alt="" ></a>    <figcaption><p>Zdzisław Beksiński, <em>Wiry</em>, ok. 1958</p></figcaption>   </figure>  </section><section class="u-typo">   <p>A także reprodukcje ilustrujące teksty będące głosami w&nbsp;opisywanym sporze – cała grupa zdjęć abstrakcyjnych przy okazji artykułu Kicińskiego o&nbsp;polskiej fotografii współczesnej<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a>, fotogramy Schlabsa przy artykule Ligockiego i&nbsp;prezentacji indywidualnej<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a>, fotografie Dłubaka z&nbsp;1947 roku ilustrujące jego tekst o&nbsp;problemie abstrakcji<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a>, prace mało znanego gliwickiego fotografa Tadeusza Teodorowicza-Todorowskiego<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a>.</p> <p>Przez dwa lata krytycy zmagali się z&nbsp;problemem abstrakcji w&nbsp;fotografii, próbując wprowadzić rozróżnienia terminologiczne. Pojawiły się takie terminy jak: grafika fotograficzna (Grabowski), grafika (Czartoryska, Łagocki), fotografika i&nbsp;abstrakcja subiektywna (Ligocki), fotografika graficzna (Dłubak) na&nbsp;określenie abstrakcyjnej fotografii bezkamerowej; makrofotografia (Grabowski), abstrakcja obiektywna (Ligocki) i&nbsp;fotografika abstrakcyjna (Dłubak) na&nbsp;określenie abstrakcyjnej fotografii kamerowej. Określenie fotografia artystyczna (Ligocki) zarezerwowane zostało dla realistycznej fotografii bezpośredniej.</p> <h2>Co to jest abstrakcja?</h2> <p><em>Abstractio </em>to odłączenie, odciągnięcie. A&nbsp;więc zerwanie związku, oddzielenie, którego efektem jest powołanie nowego, autonomicznego bytu. <em>Abstrakcyjny</em> to, według słownikowej definicji, oderwany od rzeczywistości, nieoparty na&nbsp;doświadczeniu, nie dający się urzeczywistnić.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-215-1-pb-1920x-9f2.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-215-1-pb-330x-665.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-215-1-pb-660x-b2a.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-215-1-pb-768x-dd8.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-215-1-pb-1320x-a03.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-215-1-pb-660x-b2a.jpg" alt="" ></a>    <figcaption><p>Bożena Michalik, <em>Kwiat Jesieni</em> (z cyklu <em>Woda</em>), ok. 1958</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Z przywołanego tu materiału ilustracyjnego wynika podstawowy problem dotyczący tego, czym jest abstrakcja w&nbsp;fotografii. Na&nbsp;czym polega to oderwanie? Czy w&nbsp;przypadku „przyległej” fotografii jest ono możliwe? Czy jest abstrakcyjnym każdy obraz nie pozwalający na&nbsp;rozpoznanie sfotografowanego obiektu, czy tylko ten, który nie rejestruje żadnego istniejącego przedmiotu? Sytuację komplikował fakt, że&nbsp;w&nbsp;okresie powojennym w&nbsp;polskiej krytyce pojawiły się argumenty na&nbsp;rzecz uznawania za&nbsp;realistyczne fotografii ukazujących rzeczywistość w&nbsp;sposób zacierający związki z&nbsp;przedmiotem odniesienia<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a>. Czy dziesięć lat później ich realizm okazał się fikcją? Jeśli te nie są abstrakcyjne, a&nbsp;z kolei prace wykonane bez użycia aparatu, jedynie zrobione z&nbsp;materiałów światłoczułych są grafiką, jak uznawali zgodnie krytycy, to abstrakcja w&nbsp;fotografii nie istnieje. Czyżby więc spór był wokół czegoś, czego nie ma? Jeśli abstrakcja jest niemożliwa, to jak nazwać fotografie, które w&nbsp;sposób intuicyjny określane są jako abstrakcyjne?</p> <h2>Nie ma abstrakcji</h2> <p>W sporze o&nbsp;abstrakcję możemy wyróżnić trzy zasadnicze postawy – ortodoksyjną, która za&nbsp;abstrakcyjne uznaje wszelkie anty-realistyczne obrazy i&nbsp;wyrzuca je poza właściwy obszar fotografii artystycznej; umiarkowaną, która dopuszcza w&nbsp;fotografii abstrakcję pod&nbsp;warunkiem, że&nbsp;jest ona wynikiem działania nie tylko materiałów światłoczułych, ale również kamery; oraz postawę otwartą, w&nbsp;której dochodzi do próby zniesienia wyraźnego podziału na&nbsp;fotografię realistyczną i&nbsp;abstrakcyjną na&nbsp;rzecz szeroko rozumianego obrazu jako konstrukcji.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-214-1-pb-1920x-fb7.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-214-1-pb-330x-018.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-214-1-pb-660x-96b.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-214-1-pb-768x-340.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-214-1-pb-1320x-c5c.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-214-1-pb-660x-96b.jpg" alt="" ></a>    <figcaption><p>Marek Piasecki, <em>***</em>, 1955</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Dwie pierwsze postawy, reprezentowane przez Lecha Grabowskiego, Alfreda Ligockiego i&nbsp;Wojciecha Kicińskiego i&nbsp;w jakimś stopniu przez Urszulę Czartoryską, budowane były według logiki, która musiała doprowadzić do stwierdzenia, że&nbsp;w&nbsp;fotografii abstrakcja jest niemożliwa. Ostatnia formuła, której wyznawcą był Zbigniew Dłubak, Zbigniew Łagocki i&nbsp;Zdzisław Beksiński, nie tylko dopuszczała abstrakcję w&nbsp;fotografii, ale wręcz ją promowała jako wartościową propozycję nowoczesności, a&nbsp;przede wszystkim znosiła opozycję reportaż – abstrakcja.</p> <p>Problem abstrakcji w&nbsp;fotografii pojawił się po&nbsp;raz pierwszy w&nbsp;roku 1957. Lech Grabowski pisząc recenzję z&nbsp;międzynarodowej wystawy fotografii w&nbsp;Warszawie dzielił pokazywane fotografie wedle dwóch tendencji, które w&nbsp;nich rozpoznawał. Dowartościowywał „fotografię związaną z&nbsp;życiem, ze światem rzeczywistym”, a&nbsp;ostrożnie ganił prace odchodzące od rzeczywistości, pisał, że&nbsp;„udziwnienie, formalizująca abstrakcja mało mają zwolenników”, że&nbsp;jest to „importowany abstrakcjonizm”, którego zbyt wiele było w&nbsp;dziale fotografii polskiej, ale jednocześnie przyznawał, że&nbsp;gdy „fotografia zatrzymuje układy architektury lub plamy pejzażu na&nbsp;granicy abstrakcji, gdy wnika w&nbsp;budowę materii, ukazuje fakturę i&nbsp;konstrukcję przedmiotu, gdy nawet w&nbsp;oderwaniu od swego tematu poprzez układ form daje estetyczne wrażenie – wyrażające przy tym więcej – jest w&nbsp;pełni swych praw”<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-209-1-pb-1920x-24c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-209-1-pb-330x-966.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-209-1-pb-660x-aed.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-209-1-pb-768x-d8e.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-209-1-pb-1320x-9a6.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-209-1-pb-660x-aed.jpg" alt="" ></a>    <figcaption><p>Stefan Wojnecki, <em>Układ kryształów</em>, ok. 1959</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Kiedy rok później wypowiadał się na&nbsp;temat tendencji abstrakcyjnych, jego stanowisko uległo radykalizacji. W&nbsp;tekście <em>Od malarstwa do reportażu</em> wykazywał, że&nbsp;współczesne, żywe wśród fotografów, inspiracje formami znanymi z&nbsp;przedwojennego malarstwa awangardowego są wsteczne, a&nbsp;więc według krytyka godne potępienia<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a>. Jeśli jako niewłaściwe uznawane były nawiązania piktorializmu do impresjonizmu i&nbsp;symbolizmu, to takimi były również nawiązania współczesnych fotografów, komponujących kadry na&nbsp;wzór obrazów abstrakcyjnych. Autor argumentował, że&nbsp;fotografia Stefana Wojneckiego, przedstawiająca fragment budynku, sprowadzający się do układu ciemnych linii na&nbsp;jasnym tle, zapożycza się np.&nbsp;w&nbsp;obrazach Stażewskiego. Według imperatywu postępu, któremu, jak się wydaje, podlegał krytyk, wszelkie zapożyczenia były złe, a&nbsp;według logiki modernistycznej odchodzenie od właściwości materiału prowadziło na&nbsp;manowce, zatem tendencje abstrahujące w&nbsp;fotografii były błędne. Konsekwencją takiego rozumowania było stanowisko uznające reportaż za&nbsp;jedyną dopuszczalną formę fotografii artystycznej. W&nbsp;artykule tym Grabowski posługiwał się argumentami znanymi już z&nbsp;wcześniejszego okresu - lat 1956-58 - które doprowadziły do wylansowania metaforycznego reportażu. Ale teraz ich przedstawienie służyło czemuś jeszcze – przygotowaniu się do ataku na&nbsp;tendencje abstrakcyjne<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a>. Nastąpił on w&nbsp;następnym numerze miesięcznika w&nbsp;recenzji z&nbsp;wystawy wrocławskiej grupy „Podwórko” (skupionej wokół Bożeny Michalik) oraz z&nbsp;wystawy Beksińskiego, Lewczyńskiego i&nbsp;Schlabsa<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a>. Grabowski nazwał jednych i&nbsp;drugich „awangardą fotograficzną”, przyznając, że&nbsp;w&nbsp;ich pracach można znaleźć wszelkie cechy sztuki nowoczesnej, a&nbsp;jednak proponowane przez tych autorów formuły nowoczesności były według krytyka w&nbsp;fotografii niedopuszczalne. „Trudno jednak będzie znaleźć powody do entuzjazmu najgorliwszym nawet zwolennikom sztuki nowoczesnej po&nbsp;obejrzeniu wystawy. W&nbsp;jaki sposób spróbują uzasadnić istnienie takiej sztuki? W&nbsp;czym znajdą jej odkrywczość? Można spotkać dziesiątki takich wystaw. Czy to w&nbsp;ogóle jest fotografia?”, pyta krytyk. Eksperymenty z&nbsp;obrazem przez wielokrotne nakładanie negatywów, działania wprost na&nbsp;kliszy fotograficznej, wytwarzanie układów abstrakcyjnych tylko do sfotografowania Grabowski uznawał za&nbsp;przejawy „grafiki fotograficznej” a&nbsp;nie fotografii i&nbsp;nazywał je „błędnymi drogami nowoczesności”. Jako przeciwwaga do takich „fotograficznych absurdów” przedstawione były fotografie, „którym autorzy nie zdołali odebrać realności konkretnych przedmiotów” [<em>Skóra </em>Jerzego Lewczyńskiego]<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-223-1-pb-1920x-31e.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-223-1-pb-330x-9d9.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-223-1-pb-660x-ebc.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-223-1-pb-768x-ffb.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-223-1-pb-1320x-750.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-223-1-pb-660x-ebc.jpg" alt="" ></a>    <figcaption><p>Jerzy Lewczyński, <em>Skóra</em> (z cyklu <em>Głowy Wawelskie</em>), 1957</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Druga recenzja z&nbsp;tej samej gliwickiej wystawy – Wojciecha Kicińskiego – była powtórzeniem argumentacji Grabowskiego, tyle że&nbsp;w&nbsp;nieco łagodniejszej formie<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a>. Krytyk doceniał wizualną siłę omawianych prac i&nbsp;postrzegał je jako próby nowatorstwa mającego doprowadzić do przezwyciężenia dominujących tendencji reportażowych, tym niemniej uważał, że&nbsp;kierunek jest zły, „nie umacnia bowiem specyficznej pozycji zawojowanej przez fotografikę dzięki reportażowi”<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a>. Propozycje Michalik, Beksińskiego czy Schlabsa oceniał wysoko, ale wydawały się one zbyt skupione na&nbsp;analizie i&nbsp;budowaniu formy, więc niosły niebezpieczeństwo odejścia od istoty fotografii (co zostało <em>implicite</em> ocenione negatywnie).</p> <p>Dwa numery później na&nbsp;temat tendencji abstrakcyjnych wypowiedział się Alfred Ligocki w&nbsp;ostrym tekście <em>Rozwieść fotografię artystyczną z&nbsp;fotografiką</em><a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a>. Podobnie jak Grabowski, I&nbsp;Międzynarodową Wystawę Fotografii uznał on za&nbsp;symptom problemu, ale dopiero obecność prac abstrakcyjnych Beksińskiego czy Schlabsa sprowokowała go do, jak twierdził, zajęcia stanowiska publicznie. Realizacje wyżej wymienionych autorów nazywał grafiką, zarówno ze względu na&nbsp;technikę wykonania, jak i&nbsp;na źródło zapożyczeń obrazowych. Konsekwencją tego myślenia były pewne propozycje terminologiczne. Postulował stworzenie nowych definicji dla terminów do tej pory tożsamych: „fotografii artystycznej” i&nbsp;„fotografiki”. Ta pierwsza powinna być definiowana jako „najbardziej przedmiotowy sposób twórczej interpretacji rzeczywistości”, ta druga zaś „ząbkującym środkiem kreacji nowych form wizualnych rzeczywistości, dzielącym swą problematykę i&nbsp;kryteria oceny z&nbsp;grafiką i&nbsp;malarstwem”<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a>. W&nbsp;artykule pojawił się również drugi ważny element charakterystyczny dla prowadzonej dyskusji – wątek definicji abstrakcji w&nbsp;sztuce. Ligocki pisał: „Obraz nie jest abstrakcyjny dlatego, że&nbsp;nie odpowiada mu żaden istniejący w&nbsp;naturze przedmiot, ale dlatego, że&nbsp;nie odpowiada mu żaden potocznie postrzegany wygląd przedmiotu”<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a>. Zatem wszystkie fotografie nie pozwalające zidentyfikować sfotografowanego przedmiotu są abstrakcyjne, a&nbsp;to, co abstrakcyjne jest przedmiotem kontemplacji estetycznej, podlega więc tym samym kryteriom oceny, co abstrakcyjna plastyka. Ta stoi zaś w&nbsp;opozycji do istoty fotografii, która „zmierza do wizualnego odtworzenia wyglądu przedmiotów i&nbsp;to zarówno potocznie postrzeganego jak i&nbsp;wyglądu ich makro- lub mikrostruktury”, jest więc według dedukcji Ligockiego realistyczna<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-207-1-pb-1920x-2f6.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-207-1-pb-330x-4ae.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-207-1-pb-660x-082.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-207-1-pb-768x-a81.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-207-1-pb-1320x-564.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-207-1-pb-660x-082.jpg" alt="" ></a>    <figcaption><p>Bronisław Schlabs, <em>Fotogram 1/37</em>, ok. 1958</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Do dyskusji włączył się wkrótce Leonard Sempoliński, zgadzając się z&nbsp;Ligockim co do potrzeby redefinicji terminu „fotografika” i&nbsp;wyraźnego oddzielenia jej od fotografii artystycznej<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a>. Bułhakowski termin według krytyków stracił czytelność i&nbsp;powinien służyć określeniu grafiki robionej za&nbsp;pomocą materiałów światłoczułych, jak obaj rozumieją fotografię bezkamerową. Powtarzał argumenty katowickiego krytyka dotycząca istoty fotografii i&nbsp;słuszności artystycznych wyborów<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a>.</p> <p>Kolejnym punktem znaczącym spór o&nbsp;abstrakcję w&nbsp;fotografii była I&nbsp;Ogólnopolska Wystawa Fotografii Abstrakcyjnej we Wrocławiu<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a>. Odbyła się ona na&nbsp;początku 1959 roku z&nbsp;inicjatywy wrocławskiego okręgu ZPAF. Lech Grabowski, omawiając to wydarzenie, a&nbsp;także wystawę indywidualną Bożeny Michalik, jednej z&nbsp;przedstawicielek ówczesnego nurtu abstrakcji, zmodyfikował swoje wcześniejsze stanowisko i&nbsp;przeszedł od pierwszej z&nbsp;wymienionych na&nbsp;początku postaw do drugiej. O&nbsp;ile w&nbsp;1958 roku wszelkie obrazy fotograficzne o&nbsp;cechach abstrakcyjnych były przez niego krytykowane, to niespełna rok później wprowadził inne rozróżnienie. Definiował „abstrakcję” nie według kryteriów epistemologicznych, lecz ontologicznych. Głównym kryterium stała się dla niego nie forma zewnętrzna a&nbsp;sposób wykonania. Elementem gwarantującym rzeczywisty według krytyka związek z&nbsp;rzeczywistością był aparat fotograficzny. Zatem wszędzie tam, gdzie obraz był wynikiem działania aparatu i&nbsp;materiałów światłoczułych, nie mogło być mowy o&nbsp;abstrakcji, nawet jeśli przedmiot odniesienia nie był do zidentyfikowania<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a>. Omawiane w&nbsp;części tekstu <em>Magiczne oko obiektywu </em>prace Bożeny Michalik, nazywał „światem olśnień” nie wykraczających poza obszar fotografii. To „najprawdziwsza fotografia, ścisła jak dokument. Reportaż z&nbsp;drżeń rozedrganych na&nbsp;milimetrach kwadratowych”<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a>. Nie mógł więc zgodzić się z&nbsp;uogólnieniem terminologicznym dokonanym przez organizatorów Wystawy Fotografii Abstrakcyjnej, którzy jako abstrakcyjne kwalifikowali zarówno to, co Grabowski określał jako „makrofotografię”, jak i&nbsp;to, co nazywał „grafiką fotograficzną”<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-216-1-pb-1920x-33d.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-216-1-pb-330x-bc4.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-216-1-pb-660x-a2b.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-216-1-pb-768x-eed.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-216-1-pb-1320x-f10.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-216-1-pb-660x-a2b.jpg" alt="" ></a>    <figcaption><p>Bronisław Schlabs, <em>Fotogram 10/57</em>, ok. 1957</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Urszula Czartoryska, analizując prace abstrakcyjne Piaseckiego i&nbsp;Schlabsa, również jednoznacznie nazywała je „grafiką”. Podkreślała, że&nbsp;są to prace graficzne, przypominające monotypie, ale wzbogacone o&nbsp;środki dostępne tylko dzięki materiałom światłoczułym. Kwalifikowała je jako <span class="rozstrzelony">obrazy</span>, a&nbsp;nie kadry fotograficzne: „są autonomiczne, niezależne od natury, zrodzone w&nbsp;wyobraźni i&nbsp;niesprawdzalne z&nbsp;naturą” pisała, podkreślając ich ontologiczną inność<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a>. Działalność ta była według niej tak odległa od działalności fotograficznej, że&nbsp;„nie zachodzi już sprzeczność, lecz jedynie nieantagonistyczne zjawisko «wykluczenia»”<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a>. Nie kwalifikowała działań „abstrakcjonistów” precyzyjnie, podkreślała jedynie, że&nbsp;stanowią one część współczesnej plastyki, z&nbsp;jej brakiem precyzyjnych podziałów wyznaczanych według kryteriów technicznych. Nie zgadzała się jednak, aby je „mylić z&nbsp;pojęciem fotografii – które obejmuje nie tylko fotochemię, ale właśnie wartości poznawcze, dokumentarne, wierność naturze, użyteczność w&nbsp;porozumiewaniu się ludzi między sobą”<a href="#sdfootnote30sym" name="sdfootnote30anc"><sup>30</sup></a>. Kiedy kilka lat później opublikowała książkę <em>Przygody plastyczne fotografii</em>, widziała te relacje już w&nbsp;inny sposób.</p> <p>W obu prezentowanych tu postawach pojawił się mechanizm wykluczenia tego, co inne. Jednocześnie ta inność abstrakcji pozwalała na&nbsp;wzmocnienie tożsamości fotografii czystej. Bój był jednak toczony nie tyle o&nbsp;samą fotografię czystą, a&nbsp;o jej prymat w&nbsp;świecie nowoczesności, a&nbsp;także o&nbsp;prymat modernistycznego charakteru medium. Wyznawcy wykluczenia abstrakcji z&nbsp;pola fotografii nowoczesnej uważali, że&nbsp;demokratyzacja formuły nowoczesności doprowadzi do jej rozmycia, a&nbsp;więc do utraty dominującej pozycji. Choć ta radykalna definicja fotografii czystej nie utrzymała się, to podstawowa opozycja przetrwała. Zespół cech obrazu fotograficznego był stały, zmienne było tylko przypisywanie ich do jednego lub drugiego elementu tej dialektyki.</p> <h2>Niech żyje abstrakcja</h2> <p>W sporze o&nbsp;abstrakcję istotne znaczenie miał trzyczęściowy tekst Zbigniewa Dłubaka <em>Czy istnieje fotografika abstrakcyjna</em><a href="#sdfootnote31sym" name="sdfootnote31anc"><sup>31</sup></a>. Zagadnienie to omówione zostało nie tyle w&nbsp;napięciu pomiędzy fotografią artystyczną i&nbsp;plastyką, a&nbsp;w kontekście szerszego zagadnienia nowoczesności w&nbsp;sztuce. Tekst ten, podobnie jak o&nbsp;kilka miesięcy późniejsza wypowiedź Zbigniewa Łagockiego<a href="#sdfootnote32sym" name="sdfootnote32anc"><sup>32</sup></a>, dowodzi przesunięcia, jakie się dokonało w&nbsp;myśleniu krytyków. Z&nbsp;zainteresowania samym medium – na&nbsp;kontekst (na razie artystyczny).</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-217-1-pb-1920x-7ff.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-217-1-pb-330x-98d.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-217-1-pb-660x-7d8.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-217-1-pb-768x-91a.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-217-1-pb-1320x-2e6.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-217-1-pb-660x-7d8.jpg" alt="" ></a>    <figcaption><p>Bronisław Schlabs, <em>Fotogram 7/57</em>, ok. 1957</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Wypowiedź redaktora naczelnego „Fotografii” była skierowana, jak podkreślał autor, do artystów i&nbsp;krytyków, aby wśród nich rozpowszechniać najnowsze zagadnienia teoretyczne. Zagadnieniem wyjściowym była „nowoczesność”, której formuła dla fotografii była według Dłubaka sprawą mniej oczywistą niż w&nbsp;przypadku plastyki. Przede wszystkim ze względu na&nbsp;to, że&nbsp;mogła być realizowana według dwóch odmiennych strategii. Podobnie jak autorzy przywoływani wcześniej, artysta budował dualizm fotografii współczesnej na&nbsp;reportażu i&nbsp;fotografii abstrakcyjnej, tyle, że&nbsp;próbował nie przeciwstawiać ich w&nbsp;sposób radykalny. Podkreślał, że&nbsp;ontologicznie nie ma między nimi różnicy, gdyż w&nbsp;obu przypadkach obraz jest konstrukcją, choć komponowaną z&nbsp;różnych elementów – w&nbsp;pierwszym przypadku z&nbsp;gotowych elementów rzeczywistości, w&nbsp;drugim z&nbsp;wyobraźni. To, co powstawało miało status obrazu autonomicznego, którego pierwowzór nie musiał wcale być odnajdywany w&nbsp;naturze. Podkreślał, że&nbsp;nie ma ontologicznej różnicy pomiędzy działaniami na&nbsp;papierze światłoczułym a&nbsp;wyborem kadru, którego efektem jest silna, nowa forma. Jest to bodajże pierwsza wypowiedź wśród krytyków fotografii, w&nbsp;której pojawiła się myśl, że&nbsp;nawet perspektywiczny, bezpośredni fotograficzny zapis rzeczywistości jest konstrukcją, a&nbsp;nie mimetyczną reprezentacją. W&nbsp;obu przypadkach zapis bezpośredni jest punktem wyjścia: „jest dla fotografiki elementem danym – posługuje się ona nim tak, jak teatr posługuje się aktorem (...) W&nbsp;nowoczesnej fotografice pozostaje więc obraz fotograficzny jako podstawowy czynnik – zmienia się tylko rola tego obrazu, zmienia się sposób jego oddziaływania”<a href="#sdfootnote33sym" name="sdfootnote33anc"><sup>33</sup></a>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-212-1-pb-1920x-3b9.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-212-1-pb-330x-fd1.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-212-1-pb-660x-458.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-212-1-pb-768x-98a.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-212-1-pb-1320x-877.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-212-1-pb-660x-458.jpg" alt="" ></a>    <figcaption><p>Tadeusz Teodorowicz-Todorowski, <em>Rozterka</em>, ok. 1960</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Dla Dłubaka kierunek abstrakcyjny nie był ślepą uliczką, wprost przeciwnie, stwarzał szanse nowych poszukiwań. Dowartościował go, gdyż widział w&nbsp;nim element eksperymentu, tak dla niego ważny. Aby pokonać problem „specyfiki”, który w&nbsp;oczach innych krytyków dyskwalifikował abstrakcję jako fotografię nowoczesną, postulował definiowanie abstrakcji nie poprzez analogie z&nbsp;grafiką, a&nbsp;poprzez „specyficzne cechy techniczne”, poprzez efekty możliwe do osiągnięcia tylko środkami fotograficznymi – czy to czysto chemicznymi, czy również optycznymi. „Kiedy mówimy o&nbsp;fotografice abstrakcyjnej, powinniśmy mieć na&nbsp;myśli abstrakcję właściwą odrębnej dziedzinie sztuki – fotografice”<a href="#sdfootnote34sym" name="sdfootnote34anc"><sup>34</sup></a>. Odnosi się to do możliwości jednoznacznego określenia "fotograficzności" danego obrazu, co mogło się stać tylko jeśli kryteria byłyby wyprowadzone ze "specyficznej cechy fotografiki".(Ową cechą była naturalnie dokumentalność, choć szczególnie rozumiana, co Dłubak głosił właściwie od 1948 roku). Dokumentalność nie była związana tylko z&nbsp;fotografią publicystyczną i&nbsp;reportażową – twierdził autor. Była podstawowym narzędziem tworzenia w&nbsp;fotografii. W&nbsp;roku 1948 nazwał tę właściwość „realizmem”. „W fotografii abstrakcyjnej dokumentowanie przeżyć artysty jest też podstawową funkcją obrazu”<a href="#sdfootnote35sym" name="sdfootnote35anc"><sup>35</sup></a>. Z&nbsp;tekstu wynika, że&nbsp;fotografia abstrakcyjna to ta, która unieważnia funkcję fotografowanego przedmiotu na&nbsp;rzecz interpretacji subiektywnej, rejestrując tylko formę w&nbsp;sposób oddziałujący na&nbsp;wyobraźnię, co nie jest wcale sprzeniewierzeniem się medium. Intuicyjne rozróżnienie w&nbsp;obrębie realizacji abstrakcyjnych znane z&nbsp;wyżej omawianych tekstów występowało również w&nbsp;tej wypowiedzi, choć nie decydowało o&nbsp;przynależności bądź wykluczeniu z&nbsp;obszaru fotografii. Dłubak fotografię bezkamerową nazywał „fotografiką graficzną”, dla której typowy był konstrukcyjny stosunek artysty do przedmiotów, a&nbsp;fotografię czystą, rejestrującą inne niż potoczne widoki rzeczy, określał „fotografiką abstrakcyjną”, dla której typowy był obserwacyjno-wrażeniowy stosunek artysty do przedmiotów. Obie mieściły się w&nbsp;obszarze fotografii, czego artysta zdecydowanie bronił<a href="#sdfootnote36sym" name="sdfootnote36anc"><sup>36</sup></a>.</p> <p></p> <p>Mimo że&nbsp;redaktor pisma swój tekst kończył zachętą do dalszej dyskusji na&nbsp;temat abstrakcji w&nbsp;fotografii, to temat został podjęty jeszcze tylko w&nbsp;jednym tekście, pół roku później, przez Alfreda Ligockiego<a href="#sdfootnote37sym" name="sdfootnote37anc"><sup>37</sup></a>. Modyfikował w&nbsp;nim swoje wcześniejsze, bardzo radykalne stanowisko, na&nbsp;rzecz pośredniego, wyrażonego wcześniej przez Lecha Grabowskiego, dopuszczającego w&nbsp;obrębie fotografii abstrakcję z&nbsp;użyciem aparatu fotograficznego, określaną przez niego mianem „abstrakcji obiektywnej” i&nbsp;przeciwstawianej „abstrakcji subiektywnej” (która należała już według krytyka do grafiki).</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-211-1-pb-1920x-2c6.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-211-1-pb-330x-253.jpg 330w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-211-1-pb-660x-fec.jpg 660w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-211-1-pb-768x-a43.jpg 768w,assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-211-1-pb-1320x-a46.jpg 1320w" src="assets/cache/images/issues/2013/01/czasopisma-fotograficzne/19-211-1-pb-660x-fec.jpg" alt="" ></a>    <figcaption><p>Tadeusz Teodorowicz-Todorowski, <em>Drapacze</em>, ok. 1960</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Na zakończenie powinno się postawić pytanie, dlaczego ostatecznie abstrakcja została usunięta z&nbsp;oficjalnego dyskursu krytyki i&nbsp;twórczości fotograficznej? Byłaby to wszak najbezpieczniejsza formuła nowoczesności. Gwarantowała brak zaangażowania w&nbsp;rzeczywistość społeczną, a&nbsp;więc i&nbsp;brak niebezpiecznej dla władzy postawy krytycznej. W&nbsp;ten właśnie sposób tłumaczy się w&nbsp;polskiej historii sztuki permisywizm władzy wobec rodzącej się w&nbsp;latach 60. neoawangardy. Wydaje się, że&nbsp;nie obejmował on fotografii. Zwyciężyła logika modernistyczna, nakazująca spójność koncepcji medium. Argumentacja na&nbsp;rzecz szeroko pojmowanej dokumentalności fotografii, tak jak ją przedstawiał Dłubak, była nie do przyjęcia, gdyż w&nbsp;sposób jawny przeczyła doświadczeniu wizualnemu, na&nbsp;podstawie którego było dokonowane rozróżnienie realizm – abstrakcja. Mogło się to wiązać z&nbsp;próbami, nieudanymi zresztą, rehabilitacji socrealizmu podjętymi w&nbsp;roku 1959<a href="#sdfootnote38sym" name="sdfootnote38anc"><sup>38</sup></a>. Wydaje się jednak, że&nbsp;zadziałał tu mechanizm eliminowania elementów obcych. W&nbsp;perspektywie, w&nbsp;której abstrakcja była dyskutowana pod&nbsp;koniec lat 50., jawiła się ona jako Inny polskiej fotografii. Próby oswojenia nie doprowadziły do asymilacji, inność zawsze była w&nbsp;końcu wypomniana. Jak każdy Inny była postrzegana jako zagrożenie autonomii: w&nbsp;imię tej autonomii wzmacniano antagonizmy. Relacja ta miała jeszcze jeden szczególny rys – abstrakcja fotograficzna w&nbsp;tekstach krytyków wydawała się pozbawiona tożsamości. Była definiowana poprzez negację cech fotografii reportażowej. Szansa na&nbsp;przekroczenie własnej podmiotowości, jaką jest spotkanie z&nbsp;Innym (rozumianym społecznie lub psychoanalitycznie), nie została wykorzystana przez polską fotografię artystyczną końca odwilży. Mimo iż&nbsp;wszyscy krytycy byli zgodni w&nbsp;wysokiej ocenie prac abstrakcyjnych Schlabsa, Piaseckiego czy Beksińskiego, to nie mogli znaleźć sposobu na&nbsp;uprawomocnienie ich w&nbsp;tak definiowanym na&nbsp;przełomie lat na&nbsp;przełomie lat 50. i&nbsp;60 polu fotografii. Działania fotograficzne polegające na&nbsp;odchodzeniu od mimetycznych reprezentacji zostały na&nbsp;jakiś czas przytłumione, by pojawić się w&nbsp;zmodyfikowanej formule pod&nbsp;sztandarem szeroko pojmowanego eksperymentu w&nbsp;drugiej połowie lat 60.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Choć trzeba podkreślić, że kategoria „fotografii artystycznej” nadal funkcjonuje w środowisku ASP i – zwłaszcza – ZPAF.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Por. Krzysztof Jurecki, <em>Polska krytyka fotograficzna wobec problemów awangardy, nowoczesności i metafory w 2 połowie lat 50. XX wieku</em>, „Rocznik Historii Sztuki” 2006, t. XXXI, s. 199.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Alfred Ligocki, <em>Nowa podróż do kresu fotografii abstrakcyjnej</em>, „Fotografia” 1960, nr 4, s. 132.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Lech Grabowski, <em>Od malarstwa do reportażu, </em>„Fotografia”, 1958, nr 8, s. 373.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Lech Grabowski, z cyklu <em>Rozmowy i Spotkania – Leonard Sempoliński,</em> „Fotografia” 1957, nr 5; Urszula Czartoryska, <em>Abstrakcyjne fotogramy Andrzeja Pawłowskiego,</em> „Fotografia” 1957, nr 7; Lech Grabowski, <em>Dwa przykłady i kilka uwag…</em> „Fotografia” 1957, nr 8, s. 216; Urszula Czartoryska, <em>Kraków – poważny ośrodek,</em> „Fotografia” 1957, nr 8, s. 219; Witold Dederko, <em>Grupa „Przedszkole”,</em> „Fotografia” 1957, nr 8, s. 221; Stanisław Somer, z cyklu <em>Rozmowy i spotkania – Witold Dederko, </em>„Fotografia” 1957, nr 10, s. 242; „Fotografia” 1958, nr 4, s. 191 i 1958, nr 9, s.528; <em>Wystawa grupy „Podwórko”,</em> „Fotografia” 1958, nr 6, s. 283 i „Fotografia” 1958, nr 9 oraz przy artykule Lecha Grabowskiego,<em>Abstrakcja” – wielka przygoda fotografii współczesnej,</em> „Fotografia” 1959, nr 4, s. 169; Urszula Czartoryska, <em>Grafiki Marka Piaseckiego,</em> „Fotografia” 1958, nr 10, s. 490, „Fotografia” 1959, nr 5, s. 246.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> „Fotografia” 1958, nr 9, s. 432-435.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> „Fotografia” 1958, nr 11, s. 526; Urszula Czartoryska, <em>Fotogramy Schlabsa,</em> „Fotografia” 1959, nr 7, s. 340.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Zbigniew Dłubak, <em>Czy istnieje fotografika abstrakcyjna?,</em> „Fotografia” 1959, nr 7, s. 314 i 1959, nr 8, s. 367 i 1959, nr 9, s. 419.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Alfred Ligocki, <em>Nowa podróż do kresu fotografii,</em> „Fotografia” 1960, nr 4, s. 132.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Przede wszystkim chodzi o teoretyczny komentarz Dłubaka do jego prac z lat 1947-50.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Lech Grabowski, <em>Dwa przykłady i kilka uwag o I Międzynarodowej Wystawie Fotografii w Warszawie, </em>„Fotografia” 1957, nr 8.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Lech Grabowski, <em>Od malarstwa do reportażu, </em>„Fotografia”, 1958, nr 8, s. 373.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Kiedy ten sam autor dwa lata wcześniej pisał recenzję z wystawy Mariana Dederki, stosowana przez niego technika szlachetna fotonit została przez Grabowskiego uznana za rodzaj grafiki, ale fotograf nie został skrytykowany. Jego propozycja została doceniona jako wyraz indywidualizmu i niezależności. <em>Między fotografiką a malarstwem,</em> „Fotografia” 1956, nr 7.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Lech Grabowski, <em>Błędne drogi nowoczesności,</em> „Fotografia” 1958, nr 9, s. 425.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Wszystkie cytaty z tekstu <em>Błędne drogi nowoczesności</em>...</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Wojciech Kiciński, <em>Nowe drogi czy własne ścieżki, </em>„Fotografia”, 1958, nr 9, s. 426.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ibidem.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Alfred Ligocki, <em>Rozwieść fotografię artystyczną z fotografiką</em>, „Fotografia” 1958, nr 11, s. 523.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Ibidem.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>Ibidem, s. 525.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Ibidem, s. 526.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Leonard Sempoliński, <em>Sprawy o których warto pomówić,</em> „Fotografia” 1959, nr 2, s. 62. Pisze wprost, że jego tekst jest w dialogu z wypowiedziami Lecha Grabowskiego, Alfreda Ligockiego i Zbigniewa Beksińskiego.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Zabawnym aneksem do dyskusji jest przedstawienie w tym samym numerze techniki robienia papierów introligatorskich z XIX wieku. Jest to rodzaj pastiszu na abstrakcję. <em>Z tajemnic fotografii abstrakcyjnej, </em>„Fotografia” 1959, nr 2, s. 88.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Recenzja Alfreda Ligockiego krytykująca wystawę ukazała się w „Fotografii” 1959, nr 4.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Jest to argumentacja przypominająca wypowiedzi Zbigniewa Dłubaka z 1948 roku, kiedy bronił realizmu swoich eksperymentalnych prac.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Ibidem, część tekstu <em>Magiczne oko obiektywu</em>.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> W 1959 roku ukazał się satyryczny artykuł na temat zagadnienia abstrakcji w fotografii ilustrowany zdjęciami nieznanego autora. Dionizy Gumiguta, <em>Z tajemnic fotografii abstrakcyjnej,</em> „Fotografia” 1959, nr 2, s. 88.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Urszula Czartoryska, <em>Fotogramy Schlabsa,</em> „Fotografia” 1959, nr 7.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Ibidem.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Ibidem.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Zbigniew Dłubak, <em>Czy istnieje fotografika abstrakcyjna</em>. I <em>Wstęp</em>. II <em>Fotografika czy grafika</em>. III <em>Abstrakcja a dokumentalność</em>, „Fotografia” 1959, nr 7, 8, 9.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Zbigniew Łagocki, <em>Nowoczesność – problem stale aktualny,</em> „Fotografia” 1960, nr 3, s. 75.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Zbigniew Dłubak, <em>Czy istnieje fotografika abstrakcyjna</em>, „Fotografia” 1959, nr 7, s. 318.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Ibidem.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Ibidem.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> Podobnie kwestię podziałów widział inny artysta zajmujący się równolegle fotografią i malarstwem – Zdzisław Beksiński. W tekście <em>Kryzys w fotografice i perspektywy jego przezwyciężania</em> („Fotografia” 1958, nr 11, s. 540), bronił on prac bezkamerowych i nie wypychał ich poza obszar działań fotograficznych, wskazując na naturalną interdyscyplinarność sztuki. Podkreślał, że nie powinno się opierać tezy o właściwej formule fotografii artystycznej na haśle specyfiki medium, gdyż specyfika jest rzeczą zmienną.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> Alfred Ligocki, <em>Nowa podróż do kresu fotografii, </em>„Fotografia” 1960, nr 4, s. 132.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> W listopadzie 1959 roku ukazał się w „Nowej Kulturze” artykuł Stefana Żółkiewskiego <em>Przygoda intelektualna czy walka ideowa,</em> będący taką próbą. Tekst wywołał burzliwą dyskusję w prasie na przełomie lat 1959 i 1960. Por. Marta Fik, <em>Kultura polska po Jałcie,</em> Niezależna Oficyna Wydawnicza, Warszawa 1991, s. 349-50.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/czasopisma-fotograficzne-jako-narracje-o-fotografii" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

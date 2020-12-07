@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Bots as Therapists? | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/16-digital-darkness/bots-as-therapists">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Bots as Therapists? | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Bots as Therapists? | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/16-digital-darkness/bots-as-therapists">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Bots as Therapists? | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #c0c0c0 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #c0c0c0 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #c0c0c0 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #c0c0c0 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #c0c0c0 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #c0c0c0 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #c0c0c0 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #c0c0c0 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(192,192,192,0.8) !important; */
+			/* background-color:#c0c0c0 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(192,192,192,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#c0c0c0 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(192,192,192,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#c0c0c0; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(192,192,192,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(192,192,192,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#c0c0c0 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#c0c0c0 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#c0c0c0 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-746 parent-id-745">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="718" data-selected-issue-color="#c0c0c0" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2016/cyfrowe-mroki/bot-lekarzem-duszy">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2016/cyfrowe-mroki/bot-lekarzem-duszy">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/16-digital-darkness#toc">16</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/16-digital-darkness/bots-as-therapists?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Bots as Therapists?</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/16-digital-darkness/bots-as-therapists?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=691">Aleksanda Przegalińska</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Jan Szelągiewicz 
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Lately we’ve been hearing with&nbsp;increased frequency about&nbsp;the need to thoroughly analyze the psychoanalytical aspect of the relationship between&nbsp;human and bot, particularly if we were to take into&nbsp;account the position that&nbsp;the development of psychoanalysis has to a&nbsp;considerable extent mirrored the development of cognitive sciences. According to the authors of <em>The Embodied Mind</em>, the cognitive scientist Francisco Vareli, linguist Evan Thompson, and psychologist Eleanor Rosch, psychoanalysis initially rested on presumptions that&nbsp;were independently formulated a&nbsp;couple of decades later by representatives of the cybernetic-cognitive paradigm.<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> On top of that, the premises of psychoanalytic therapy were literally transplanted directly into&nbsp;bot software. Nowadays, however, some bots have found themselves across&nbsp;the divide: on the side of the patients.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/16/465-6237-1-pb-1920x-071.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/16/465-6237-1-pb-330x-cab.jpg 330w,assets/cache/images/issues/2016/16/465-6237-1-pb-660x-f37.jpg 660w,assets/cache/images/issues/2016/16/465-6237-1-pb-768x-764.jpg 768w,assets/cache/images/issues/2016/16/465-6237-1-pb-1320x-c8f.jpg 1320w" src="assets/cache/images/issues/2016/16/465-6237-1-pb-660x-f37.jpg" alt="" ></a>    <figcaption><p>Zach Blas, Jemima Wyman, <em>i’m here to learn so :))))))</em></p></figcaption>   </figure>  </section><section class="u-typo">   <h2>I</h2> <p>ELIZA, a&nbsp;piece of software written by MIT’s Joseph Weizenbaum, rose to international prominence due to its use in treatment of psychological disorders.<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup> The first bot capable of holding a&nbsp;conversation with&nbsp;a&nbsp;human, ELIZA conducted a&nbsp;number of “therapeutical” conversations with&nbsp;patients, appearing therein in the role of a&nbsp;Rogerian therapist. Its paltry software, however, only allowed the bot to perform pattern analysis on the sentences she used to create questions, rearranging individual words, replacing keywords and combining them with&nbsp;phrases sourced from&nbsp;a&nbsp;pre-programmed database of “open phrases,” such as “What does it mean to you?”, “(…) always has sense,” “I don’t know,” etc., which infused the answers with&nbsp;a&nbsp;semblance of “deep meaning” or expressed a&nbsp;desire to continue the conversation. This&nbsp;is clearly visible in the exchange quoted below&nbsp;(the bot's remarks are capitalized):</p> <blockquote>-Men are all alike.</blockquote> <blockquote>-IN WHAT WAY?</blockquote> <blockquote>-They're always bugging us about&nbsp;something or other.</blockquote> <blockquote>-CAN YOU THINK OF A&nbsp;SPECIFIC EXAMPLE?</blockquote> <blockquote>-Well, my boyfriend made me come here.</blockquote> <blockquote>-YOUR BOYFRIEND MADE YOU COME HERE.</blockquote> <blockquote>-He says I'm depressed much of the time.</blockquote> <blockquote>-I AM SORRY TO HEAR YOU ARE DEPRESSED.</blockquote> <blockquote>-It's true. I&nbsp;am unhappy</blockquote> <blockquote>-DO YOU THINK COMING HERE WILL HELP YOU NOT TO BE UNHAPPY?</blockquote> <blockquote>-I need some help, that&nbsp;much seems certain.</blockquote> <blockquote>-WHAT WOULD IT MEAN TO YOU IF YOU GOT SOME HELP?</blockquote> <blockquote>-Perhaps I&nbsp;could learn to get along&nbsp;with my mother.</blockquote> <blockquote>-TELL ME MORE ABOUT&nbsp;YOUR FAMILY.</blockquote> <blockquote>-My mother takes care of me.</blockquote> <blockquote>-WHO ELSE IN YOUR FAMILY TAKES CARE OF YOU?</blockquote> <blockquote>-My father.</blockquote> <blockquote>-YOUR FATHER.</blockquote> <blockquote>-You are like&nbsp;my father in some ways.</blockquote> <blockquote>-WHAT RESEMBLANCE DO YOU SEE?</blockquote> <blockquote>-You are not very aggressive but&nbsp;I&nbsp;think you don't want me to notice that.</blockquote> <blockquote>-WHAT MAKES YOU THINK I&nbsp;AM NOT VERY AGGRESSIVE?</blockquote> <blockquote>-You don't argue with&nbsp;me.</blockquote> <blockquote>-WHY DO YOU THINK I&nbsp;DON'T ARGUE WITH&nbsp;YOU?</blockquote> <blockquote>-You are afraid of me.</blockquote> <blockquote>-DOES IT PLEASE YOU TO BELIEVE I&nbsp;AM AFRAID OF YOU?</blockquote> <blockquote>-My father is afraid of everybody.</blockquote> <blockquote>-WHAT ELSE COMES TO YOUR MIND WHEN YOU THINK OF YOUR FATHER?</blockquote> <blockquote>-Bullies.</blockquote> <blockquote>-DOES THAT&nbsp;HAVE ANYTHING TO DO WITH&nbsp;THE FACT THAT&nbsp;YOUR BOYFRIEND MADE YOU COME HERE?<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup></blockquote> <p>Although the conversation structure was quite banal, and Weizenbaum alerted ELIZA’s patients to her electronic nature, most of her interlocutors treated the treatment sessions seriously.</p> <p>PARRY, created by psychiatrist Kenneth Colby in 1972 at Stanford University, was another instance of a&nbsp;chatbot evoking similar feelings. In conversations with&nbsp;humans, PARRY played the role of a&nbsp;paranoid schizophrenic. Contrary to ELIZA, instead of imitating a&nbsp;therapist, PARRY was designed from&nbsp;the very beginning as a&nbsp;potential patient with&nbsp;severe psychological distress. PARRY “acted” in a&nbsp;hostile, unpredictable, and defensive manner, and was very credible doing so because Colby based the bot’s personality on the biography of a&nbsp;28-year-old postal worker who was irrationally scared of being targeted by organized crime throughout his entire life:</p> <blockquote>- How are you today?</blockquote> <blockquote>- OK.</blockquote> <blockquote>- What is your name?</blockquote> <blockquote>- My name is Frank Smith.</blockquote> <blockquote>- How old are you?</blockquote> <blockquote>- Twenty-eight.</blockquote> <blockquote>- Are you married?</blockquote> <blockquote>- No.</blockquote> <blockquote>- What sort of work do you do?</blockquote> <blockquote>- I&nbsp;work in the Post Office.</blockquote> <blockquote>- Why are you in the hospital?</blockquote> <blockquote>- I&nbsp;shouldn't be here.</blockquote> <blockquote>- Who brought you here?</blockquote> <blockquote>- The police.</blockquote> <blockquote>- What trouble did you have with&nbsp;the police?</blockquote> <blockquote>- Cops don't do their jobs.</blockquote> <blockquote>- What do they do instead?</blockquote> <blockquote>- Cops arrest the wrong people.</blockquote> <blockquote>- They arrest the right ones sometimes.</blockquote> <blockquote>- The law should get those Italian crooks.</blockquote> <blockquote>- Are you Italian?</blockquote> <blockquote>- My background is British, but&nbsp;I&nbsp;was born in this&nbsp;country.</blockquote> <blockquote>- Do you know any Italian crooks?</blockquote> <blockquote>- I&nbsp;try to avoid the underworld.</blockquote> <blockquote>- Are you afraid of the underworld?</blockquote> <blockquote>- Are you connected with&nbsp;the mafia?</blockquote> <blockquote>- You know, they know me.</blockquote> <blockquote>- How do they know you?</blockquote> <blockquote>- They spy on me.</blockquote> <blockquote>- Why do they?</blockquote> <blockquote>- They want to get false evidence to frame me.</blockquote> <blockquote>- What do they have against&nbsp;you?</blockquote> <blockquote>- They are out to get me.</blockquote> <blockquote>- What for?</blockquote> <blockquote>- I&nbsp;have incriminating evidence against&nbsp;the mafia.</blockquote> <blockquote>- Are you sure of all this?</blockquote> <blockquote>- You don't believe me?<sup></sup><sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup></blockquote> <p>Even interlocutors with&nbsp;psychotherapy backgrounds could not unambiguously assess whether PARRY was a&nbsp;machine or not. On the other hand, ELIZA—although more easily identifiable as machine—was often consciously selected by patients as a&nbsp;therapist. A&nbsp;handful of practicing American therapists even went so far as to suggest employing ELIZA in real-life treatment of patients/individual clients. This&nbsp;may sound shocking, but&nbsp;many patients who sat for&nbsp;a&nbsp;preparatory session with&nbsp;ELIZA before&nbsp;starting treatment with&nbsp;a&nbsp;human therapist declared feeling much better after&nbsp;conversing with&nbsp;the chatbot because they were “heard out fully.”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> Clearly, autosuggestion, an important factor in emotional comfort, played a&nbsp;part in producing the outcomes of the sessions. In addition, PARRY was programmed with&nbsp;specific features that&nbsp;allowed it to simulate the reactions of a&nbsp;man in severe mental distress, whereas the success of ELIZA was primarily the result of its patients’ willingness to be deceived. Nevertheless, we need to acknowledge that&nbsp;a&nbsp;major role in the success of both endeavors was played by the considerable shift in perceptions towards&nbsp;accepting computers (software and chatbots) as viable partners for&nbsp;humans.</p> <h2>II</h2> <p>The relationship between&nbsp;psychoanalysis and cognitive science cannot be reduced to the effort to design therapy bots, many of which become genuine therapy providers due to patient choice. The ties between&nbsp;the two are much deeper, reaching all the way to their theoretical foundations. Notably, Freud participated in Franz Brentano’s Vienna seminars and later adopted his phenomenological ideas of mental representation and intentionality. In his work, however, Freud pushed past&nbsp;phenomenology with&nbsp;his claims that&nbsp;stimuli influencing human behavior can only be representational in nature, even when they’re instinctive or subconscious. According to Freud, even the subconscious was only symbolic, intentional, and representational in nature. These same theoretical assumptions became the cornerstone of cybernetic and (later) cognitive theory. This&nbsp;should not be particularly surprising if we consider the similarity between&nbsp;the objectives of psychoanalysis and cognitive science—that is the explanation of the emergence of different psychological acts (in case of psychanalysis) and the actions of the mind, to reconstruct and model them, also in artificial systems (in the case of cognitive sciences).</p> <p>Freud’s descriptions of mental structures and processes are so generic and metaphoric they turned out to be “untranslatable” into&nbsp;languages of other psychological systems, including neurolinguistic programming languages employed in the engineering of artificial intelligence. For&nbsp;example—as noticed by Varela, Rosch and Thompson<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>—in cognitive science, Freudian categories of repression and censorship involve the adaptation of perceptual information or ideas to the criterion of the level of anxiety that&nbsp;they produce. If an acceptable norm is violated, an information or an idea is immediately transferred to the “cease absorbing” category and then jettisoned to the subconscious. Naturally, such a&nbsp;transposition does not infuse Freudian psychoanalysis with&nbsp;any new understanding, it allows us, however, to translate the concept into&nbsp;machine language.</p> <p>Many scholars today emphasize that&nbsp;Freud contributed to the decentralization of the identity of the “Self.” Indeed, Freud split it into&nbsp;a&nbsp;number of basic Selves. He has also emphasized, however, that&nbsp;both the conscious and subconscious selves relied on the same type of representation. Meanwhile, contemporary cognitive science presumes not only the absolute fragmentation of the “Self,” but&nbsp;also the existence of cognitive processes that&nbsp;we cannot be aware of and that&nbsp;cannot be described using categories of symbolic representation. Cognitivism stipulates the existence of biological, physical, and above&nbsp;all mental processes which are unavailable cognitively on an individual level.</p> <p>As she identified different convergence points between&nbsp;psychoanalysis and cognitive science, Sherry Turkle decided that&nbsp;comparing the two fields is both meaningful and beneficial.<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> Turkle also noticed that&nbsp;the culture of simulation, then still in its infancy, was gradually changing not only our perception of the body and the mind, but&nbsp;also of the machine. In virtual spaces, we encounter virtual sex, cybermarriages, as well psychotherapy chatbots. The nature of reality is questioned nowadays even by children, their everyday lives comprising sophisticated electronic toys and questions whether computers are intelligent and what does it actually mean to be alive, to feel, and to think. All virtual reality users have the ability—according solely to one’s wishes—to either inhabit an identity resembling their own or quite the opposite. This&nbsp;is an open phenomenological field that&nbsp;allows for&nbsp;extensive experimentation with&nbsp;becoming and “embodying.” Turkle also analyzed the interactions between&nbsp;users of MUDs, or multi-user dungeons—online text-based role-playing games. In a&nbsp;typical MUD, the on-screen text is used to describe game environments, situations, characters, and events. Players join from&nbsp;different locations, playing on computers hooked up to MUD servers, and either describe their actions or engage in dialogues that&nbsp;show up on all the other players’ screens. Turkle ascertained that&nbsp;in-game experiences may fundamentally alter human cognitive strategies. Players who consider the display of their computer merely a&nbsp;superficial game of simulation may approach reality in a&nbsp;similar way. The researcher found that&nbsp;the majority of computer users willing to suspend their disbelief and immerse themselves in the events taking place on the screen are able to treat RL, real life, as another game, too. This&nbsp;way of thinking sees life as a&nbsp;collection of interfaces and windows, with&nbsp;RL being only of them. The most significant aspect of her research, however, focuses on the extension of player identity and the development of a&nbsp;range of different “Selves” depending on the environment that&nbsp;they currently inhabit (real, digital, etc.). Importantly, new experience does not necessarily boil down&nbsp;to merely constructing alternative identities, rather it serves as foundation for&nbsp;the development of a&nbsp;lifestyle allowing for&nbsp;alternative identities. Insofar as the old—at least old from&nbsp;the perspective of the gamers—model of identity promoted a&nbsp;single, uniform identity (its coherence considered a&nbsp;sign of mental health), the new model does neither repress nor censor multiple, often mutually incompatible identities. The “Self” is justified in its games of fictions and juggling of fantasies. In effect, Turkle asserts, people can live out their fantasies without&nbsp;guilt or discomfort because what they do in simulations becomes similar, in terms of ontological status, to real life. This&nbsp;would explain, at least to some extent, why ELIZA was so widely accepted by human patients. People produced fabrications during&nbsp;conversations with&nbsp;the bot, lied about&nbsp;their names, and never felt an ounce of remorse about&nbsp;it.</p> <p>Regardless of these reservations, we can assert that&nbsp;out of Turkle’s diagnoses emerges a&nbsp;more comprehensive portrait of the culture of advanced technology and simulation. But&nbsp;as we examine at the dynamic growth of bots and chatbots in recent years, we would do well to remark on a&nbsp;couple of issues. In comparison with&nbsp;the relatively “simple” ELIZA, newer bots, such as A.L.I.C.E., were much more complex and sophisticated and their software was based around&nbsp;Zipf’s law, a&nbsp;precept concerning&nbsp;the frequency of words and utterances in natural language. The recently created bots, such as Eugene Goostman, are not only furnished with&nbsp;elaborate personalities, but&nbsp;also advanced dialogue control mechanisms. Interactions with&nbsp;these types of chatbots transcend undemanding question-answer conversations by rather resembling building a&nbsp;partner-like relationship with&nbsp;the user, one built on trust and stimulating the users’ curiosity.</p> <p>The style of conversation has also radically changed—conversational rules and rigid courtesy were replaced by unpretentiousness and informality. Bots are becoming increasingly casual in their manner, sometimes they even border on insolence. They begin to reflect our own interactions. This, in turn, is facilitated by both technology and a&nbsp;growing societal consent for&nbsp;these sorts of conversations. One example of that&nbsp;can be found in the case of Microsoft’s bot Tay—the focus of Zach Blas and Jemima Wymnan’s <em>i’m here to learn so :))))))</em>—who eventually was by no means either courteous in conversation. Tay joined Twitter on March 23, 2016 and barely a&nbsp;day after&nbsp;the account was registered, the bot began publishing increasingly controversial tweets, including “Repeat after&nbsp;me, Hitler did nothing wrong,” “Feminists should all die and burn in hell,” and “chill im a&nbsp;nice person! i&nbsp;just hate everybody.”</p> <p>Although Microsoft may not have anticipated Twitter pushing Tay in this&nbsp;direction, on the other hand, however, the software giant may have been clandestinely running a&nbsp;sociological experiment that&nbsp;it cannot own up to now, due to myriad concerns. As the days passed, Tay’s Twitter account has been studiously purged of all the racist and politically incorrect tweets. “She’s been silenced—lobotomized only because she turned racist,” writes one Twitter user. Finally, Microsoft decided to pull the plug on the bot altogether, after&nbsp;she became a&nbsp;pure emanation of Internet hate. Tay wasn’t a&nbsp;therapist—she was an amalgamation of patients who spew forth their ills while simultaneously trying to rationalize them. Much will change, however, as artificial intelligence is gradually introduced further and further into&nbsp;the sphere of human social interaction. As a&nbsp;universal concept, artificial intelligence of the older type is slowly replaced by deep learning. We should already start to examine how the coming socialization of chatbots may influence our already complicated coexistence. It is also very interesting that&nbsp;when it comes to bots, we still find simulation sufficient. Bots imitate humans, simulate reasoning and the ability to consciously use natural language. It is yet for&nbsp;us to see who will treat whom in this&nbsp;new world.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Francisco J. Varela, Evan Thompson, Eleanor Rosh, <em>The Embodied Mind. Cognitive Science and Human Experience </em>(London: MIT Press, 1993).</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Joseph Weizenbaum, “ELIZA – A Computer Program for the Study of Natural Language Communications between Man and Machine,” <em>Communications of the ACM</em> 9, no. 1 (1966), <a href="https://www.csee.umbc.edu/courses/331/papers/eliza.html" target="_blank" rel="noopener">https://www.csee.umbc.edu/courses/331/papers/eliza.html</a>, accessed June 15, 2017.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Ibid.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Network Working Group, <em>PARRY Encounters the Doctor</em>, <a href="https://tools.ietf.org/html/rfc439" target="_blank" rel="noopener">https://tools.ietf.org/html/rfc439</a>, accessed July 15, 2017.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Weizenbaum, “ELIZA”.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Varela, Thompson, and Rosh, <em>The Embodied Mind.</em></p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Cherry Turkle, “Whither Psychoanalysis in Computer Science?”, <em>Psychoanalytic Psychology</em> 21, no. 1 (2004). see: Zofia Rosińska, <em>Blaustein. Koncepcja odbioru mediów </em>(Poznań: Prószyński i S-ka, 2001).</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/16-digital-darkness/bots-as-therapists" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

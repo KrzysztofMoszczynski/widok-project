@@ -1,0 +1,937 @@
+<?php die('Unauthorized access.'); ?>a:48:{s:2:"id";s:3:"575";s:4:"type";s:8:"document";s:11:"contentType";s:9:"text/html";s:9:"pagetitle";s:7:"Reviews";s:9:"longtitle";s:0:"";s:11:"description";s:0:"";s:5:"alias";s:9:"reviewers";s:15:"link_attributes";s:0:"";s:9:"published";s:1:"1";s:8:"pub_date";s:1:"0";s:10:"unpub_date";s:1:"0";s:6:"parent";s:3:"289";s:8:"isfolder";s:1:"0";s:9:"introtext";s:0:"";s:7:"content";s:3493:"{"richtext":"<h2><span>Peer review process</span></h2>\n<p><a href=\"http://pismowidok.org/index.php/one/about/history\"><span>Reviewers</span></a><span> include Polish and international scholars, outstanding specialists in various domains of research in the field of visual culture. The quality of the journal’s scholarship is also guaranteed by the </span><a href=\"http://pismowidok.org/index.php/one/about/index\"><span>Editorial Board</span></a><span>, which comprises acclaimed scholars from Poland and abroad.</span></p>\n<p><span>Reviewers of articles published in </span><span><em>View</em></span><span> are obliged to report any conflict of interests to the editorial team.</span></p>\n<p><span>Articles submitted for publication are to be relevant to the </span><a href=\"http://pismowidok.org/index.php/one/about/editorialPolicies\" target=\"_blank\" rel=\"noopener\"><span>thematic scope of the journal</span></a><span> and meet the </span><a href=\"http://pismowidok.org/index.php/one/about/submissions\"><span>formal requirements</span></a><span>.</span></p>\n<p><span>Article evaluation criteria are stipulated in the review form with the following structure:</span></p>\n<ol>\n<li>Does the article introduce new qualities to the research in the given field? If yes, how?\n<ul>\n<li>In the choice of the field</li>\n<li>In the way the issues are presented</li>\n<li>In the proposed interpretation</li>\n<li>Methodologically</li>\n<li>Other</li>\n</ul>\n</li>\n<li>What are the virtues of the article?</li>\n<li>What are the shortcomings of the article?</li>\n<li>Is the article well constructed? Does it have any stylistic errors?</li>\n<li>Could the article be cut down without hurting the analysis? If yes, where?</li>\n<li>Does the article make good use of other research on the topic?</li>\n<li>Are the illustrations (if there are any) well chosen and placed?</li>\n<li>Other remarks</li>\n</ol>\n<p><span>Each review ends with a conclusion concerning the acceptance of an article for publication (with potential corrections) or rejection. The reviews adopt the character of recommendations. The final decision – concerning both specific corrections and publication – belongs to the editorial team. Exceptions occur when an article is negatively evaluated by two reviewers, which entails the need for a third, external positive review.</span></p>\n<p><span>The editorial team reserves the right to desk reject submissions.</span></p>\n<h2><span>Reviewers</span></h2>"}{"name":"Lista recenzentów: 2018","collapse":"0","layout":"basic","profiles":[{"profile":"502"},{"profile":"508"},{"profile":"552"},{"profile":"505"},{"profile":"500"},{"profile":"551"},{"profile":"512"},{"profile":"516"},{"profile":"573"},{"profile":"501"},{"profile":"569"},{"profile":"504"},{"profile":"511"},{"profile":"556"},{"profile":"572"},{"profile":"515"},{"profile":"507"},{"profile":"571"},{"profile":"509"},{"profile":"491"},{"profile":"553"},{"profile":"554"},{"profile":"570"},{"profile":"506"},{"profile":"513"},{"profile":"498"},{"profile":"510"},{"profile":"555"},{"profile":"517"},{"profile":"499"},{"profile":"399"},{"profile":"574"},{"profile":"514"},{"profile":"492"}]}{"name":"2017","collapse":"1","layout":"basic","profiles":[]}{"name":"2016","collapse":"1","layout":"basic","profiles":[]}{"name":"2015","collapse":"1","layout":"basic","profiles":[]}{"name":"2014","collapse":"1","layout":"basic","profiles":[]}{"name":"2013","collapse":"1","layout":"basic","profiles":[]}";s:8:"richtext";s:1:"1";s:8:"template";s:1:"4";s:9:"menuindex";s:1:"5";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:2:"11";s:9:"createdon";s:10:"1555353599";s:8:"editedby";s:2:"17";s:8:"editedon";s:10:"1567426653";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1555353732";s:11:"publishedby";s:2:"11";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"0";s:13:"alias_visible";s:1:"1";s:14:"sitemapInclude";a:5:{i:0;s:14:"sitemapInclude";i:1;s:1:"1";i:2;s:0:"";i:3;s:0:"";i:4;s:16:"custom_tv:switch";}s:15:"sitemapPriority";a:5:{i:0;s:15:"sitemapPriority";i:1;s:3:"0.5";i:2;s:0:"";i:3;s:0:"";i:4;s:6:"option";}s:16:"meta_description";a:5:{i:0;s:16:"meta_description";i:1;s:10:"Recenzenci";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:19:"translationSelector";a:5:{i:0;s:19:"translationSelector";i:1;s:3:"284";i:2;s:0:"";i:3;s:0:"";i:4;s:18:"custom_tv:selector";}s:13:"GooglePreview";a:5:{i:0;s:13:"GooglePreview";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:9:"custom_tv";}s:17:"meta_custom_title";a:5:{i:0;s:17:"meta_custom_title";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:13:"meta_img_fitv";a:5:{i:0;s:13:"meta_img_fitv";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:17:"__MODxSJScripts__";a:1:{i:1;s:120:"	<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.4672983195df0c0237c3.css" />";}s:16:"__MODxJScripts__";a:1:{i:1;s:118:"	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.0e8961e12996bd7f5cde.js"></script>";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="https://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Reviews | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="Recenzenci">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="https://www.pismowidok.org/[~575~]">
+		<link rel="alternate" href="https://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="https://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Reviews | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="Recenzenci">
+		<meta itemprop="image" content="https://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Reviews | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="Recenzenci">
+		<meta name="twitter:image:src" content="https://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="https://www.pismowidok.org/[~575~]">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Reviews | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="Recenzenci">
+		<meta property="og:image" content="https://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		
+		[!storedIssueData!]
+<style>
+	#header,
+	.form-control,
+	.m-presentation--bgc-issue,
+	.selectric,
+	.selectric-items,
+	.u-typo ul li::before {
+		background-color: [+cfg_storedIssue_color+] !important;
+	}
+	
+	.form-control,
+	.selectric {
+		border-color: [+cfg_storedIssue_color+] !important;
+	}
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	.m-presentation--audio .m-presentation__caption,
+	.m-presentation--audio .m-presentation__caption * {
+    color: #000 !important;
+  }
+	
+	[data-toggle="popover"],
+	.btn-primary,
+	.c-archive-year,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-title a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-search-results-listheader span,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.sl-wrapper .sl-close,
+	.sl-wrapper .sl-image .sl-caption,
+	.sl-wrapper .sl-navigation button,
+	.c-sitenav__search,
+	.c-subnav li.active span, 
+	.c-subnav a:hover span,
+	.c-team__meta a,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p,
+	.m-presentation__caption,
+	.m-presentation__caption * {
+		color: [+cfg_storedIssue_color+] !important;
+	}
+	
+	.c-archive-year span,
+	.c-subnav li.active span, 
+	.c-subnav a:hover span {
+		/*
+		background-image:    -moz-linear-gradient(left, [+cfg_storedIssue_color+] 0%, [+cfg_storedIssue_color+] 100%) !important;
+		background-image: -webkit-linear-gradient(left, [+cfg_storedIssue_color+] 0%, [+cfg_storedIssue_color+] 100%) !important;
+    background-image:     linear-gradient(to right, [+cfg_storedIssue_color+] 0%, [+cfg_storedIssue_color+] 100%) !important;
+		*/
+		border-color: [+cfg_storedIssue_color+] !important;
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: [+cfg_storedIssue_color+] !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: [+cfg_storedIssue_color+] !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: [+cfg_thisIssue_color+] !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: [+cfg_thisIssue_color+] !important;
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    color: #fff !important;
+  }
+}
+</style>
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		
+	</head>
+	<body class="context-en tpl-4 page-id-575 parent-id-289">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="[+cfg_thisIssue_id+]" data-selected-issue-color="[+cfg_thisIssue_color+]" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="https://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/o-nas/recenzenci"><span>PL</span></a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="[~284~]"><span>PL</span></a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="[~39~]">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					[!headerCircleHtml!]
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="[~39~]">Wyszukaj</a>
+            </li>
+            <li class="active">
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li>
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+<section class="m-subnav">
+	<div class="container-fluid">
+		<div class="content-canvas">
+			<div class="c-subnav clearfix">
+				<ul>
+<li>
+	<a href="/en/about/journal-profile" title="Journal profile" ><span>Journal profile</span></a>
+</li>
+<li>
+	<a href="/en/about/editorial-team" title="Editorial Team" ><span>Editorial Team</span></a>
+</li>
+<li>
+	<a href="/en/about/editorial-board" title="Board" ><span>Board</span></a>
+</li>
+<li>
+	<a href="/en/about/our-politics" title="Our Politics" ><span>Our Politics</span></a>
+</li>
+<li>
+	<a href="/en/about/submissions" title="Submissions" ><span>Submissions</span></a>
+</li>
+<li class="active">
+	<a href="/en/about/reviewers" title="Reviews" ><span>Reviews</span></a>
+</li>
+<li class="last">
+	<a href="/en/about/contact" title="Publisher and Contact" ><span>Publisher and Contact</span></a>
+</li>
+
+</ul>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div class="container-fluid">
+		<div class="content-canvas content-canvas--small">
+			<div class="content-canvas__inner">
+				<section class="u-typo">
+	<h2><span>Peer review process</span></h2>
+<p><a href="http://pismowidok.org/index.php/one/about/history"><span>Reviewers</span></a><span> include Polish and international scholars, outstanding specialists in various domains of research in the field of visual culture. The quality of the journal’s scholarship is also guaranteed by the </span><a href="http://pismowidok.org/index.php/one/about/index"><span>Editorial Board</span></a><span>, which comprises acclaimed scholars from Poland and abroad.</span></p>
+<p><span>Reviewers of articles published in </span><span><em>View</em></span><span> are obliged to report any conflict of interests to the editorial team.</span></p>
+<p><span>Articles submitted for publication are to be relevant to the </span><a href="http://pismowidok.org/index.php/one/about/editorialPolicies" target="_blank" rel="noopener"><span>thematic scope of the journal</span></a><span> and meet the </span><a href="http://pismowidok.org/index.php/one/about/submissions"><span>formal requirements</span></a><span>.</span></p>
+<p><span>Article evaluation criteria are stipulated in the review form with the following structure:</span></p>
+<ol>
+<li>Does the article introduce new qualities to the research in the given field? If yes, how?
+<ul>
+<li>In the choice of the field</li>
+<li>In the way the issues are presented</li>
+<li>In the proposed interpretation</li>
+<li>Methodologically</li>
+<li>Other</li>
+</ul>
+</li>
+<li>What are the virtues of the article?</li>
+<li>What are the shortcomings of the article?</li>
+<li>Is the article well constructed? Does it have any stylistic errors?</li>
+<li>Could the article be cut down without hurting the analysis? If yes, where?</li>
+<li>Does the article make good use of other research on the topic?</li>
+<li>Are the illustrations (if there are any) well chosen and placed?</li>
+<li>Other remarks</li>
+</ol>
+<p><span>Each review ends with a conclusion concerning the acceptance of an article for publication (with potential corrections) or rejection. The reviews adopt the character of recommendations. The final decision – concerning both specific corrections and publication – belongs to the editorial team. Exceptions occur when an article is negatively evaluated by two reviewers, which entails the need for a third, external positive review.</span></p>
+<p><span>The editorial team reserves the right to desk reject submissions.</span></p>
+<h2><span>Reviewers</span></h2>
+</section>
+<div class="clearfix"></div><section class="m-team m-team--basic">
+	
+	<h2><span>Lista recenzentów: 2018</span></h2>
+	<div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Anna Barcz</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://animalstudies.ibl.waw.pl/uk/menuhome/about-us">Institute of Literary Studies, Polish Academy of Sciences</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://tcd.academia.edu/AnnaBarcz">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Joanna Bednarek</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.praktykateoretyczna.pl/english/editorial-board-2/">Theoretical Practice</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://independent.academia.edu/BednarekJ">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Ewa Bińczyk</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://filozofia.umk.pl/o-instytucie/pracownicy/dr-hab-ewa-binczyk-prof-umk/">Institute of Philosophy, Nicolaus Copernicus University, Torun</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Jan Borowicz</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://ikp.uw.edu.pl/dr-jan-borowicz/">Institute of Polish Culture, University of Warsaw</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://uw.academia.edu/JanBorowicz">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Anna Burzyńska</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.ktl.polonistyka.uj.edu.pl/prof.-dr-hab.-anna-burzynska">Department of Literary Theory, Jagiellonian University</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Heather Davis</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="https://www.newschool.edu/lang/faculty/Heather-Davis/">Eugene Lang College, The New School, New York</a>
+	
+	
+</span><span>
+	
+	
+	<a target="_blank" href="https://heathermdavis.com">https://heathermdavis.com</a>
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Mirosław Filiciak</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="https://english.swps.pl/miroslaw-filiciak">SWPS University of Social Sciences and Humanities</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://www.researchgate.net/profile/Miroslaw_Filiciak">researchgate.net</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Maciej Gdula</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.is.uw.edu.pl/pl/pracownicy/pracownicy-instytutu/http://www.is.uw.edu.pl/pl/pracownicy/pracownicy-instytutu/">Institute of Sociology, University of Warsaw</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Małgorzata Maria Grąbczewska</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="https://dagerotyp.com/editorial-board-eng/">Daguerreotype. Studies in the history and theory of photography</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://independent.academia.edu/MałgorzataMariaGrąbczewska">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Irena Grudzińska-Gross</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="https://ispan.waw.pl/default/pracownik/irena-gross/">Institute of Slavic Studies, Polish Academy of Science</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://princeton.academia.edu/IrenaGross">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Margaretha Häggström</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="https://idpp.gu.se/english/about-idpp/staff/?languageId=100001&disableRedirect=true&returnUrl=http%3A%2F%2Fidpp.gu.se%2Fom-idpp%2Fpersonal%2F%3FuserId%3Dxhaggm&userId=xhaggm">Faculty of Education, University of Gothenburg</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://www.researchgate.net/profile/Margaretha_Haeggstroem">researchgate.net</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Beata Halicka</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://iw.amu.edu.pl/nasi-wykladowcy/64-prof-uam-dr-hab-beata-halicka">Eastern Studies, Faculty of Historical Studies, Adam Mickiewicz University Poznań</a>
+	
+	
+</span><span>
+	
+	
+	<a target="_blank" href="http://beatahalicka.pl/home/">http://beatahalicka.pl/home/</a>
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Benjamin Halligan</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="https://www.wlv.ac.uk/research/research-policies-procedures--guidelines/research-policy-unit-rpu/dr-benjamin-halligan/">University of Wolverhampton</a>
+	
+	
+</span><span>
+	
+	
+	<a target="_blank" href="https://benjaminhalligan.com">https://benjaminhalligan.com</a>
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Marc Herbst</h3>
+		<p class="c-team__meta">
+			<span><span>
+	
+	Center for Cultural Studies, Goldsmiths, University of London
+	
+</span><span>
+	<a target="_blank" href="https://goldsmiths.academia.edu/MarcHerbst">academia.edu</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://www.researchgate.net/profile/Marc_Herbst">researchgate.net</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Olga Kaczmarek</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://ikp.uw.edu.pl/dr-olga-kaczmarek-2/?lang=en">Institute of Polish Culture, University of Warsaw</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Agnieszka Karpowicz</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://ikp.uw.edu.pl/dr-hab-agnieszka-karpowicz/">Institute of Polish Culture, University of Warsaw</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Bogna Kietlińska</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.isns.uw.edu.pl/index.php?isns=o-instytucie-pracownicy-kietlinska">Institute of Applied Social Sciences, University of Warsaw</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://uw.academia.edu/BognaKietlinska">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Karolina Kosińska</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.ispan.pl/pl/o-instytucie-sztuki-pan/biogramy-pracownikow/dr-karolina-kosinska">Institute of Art, Polish Academy of Sciences</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://ispan.academia.edu/KarolinaKosinska">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Julia Kubisa</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.is.uw.edu.pl/pl/pracownicy/pracownicy-instytutu/">Institute of Sociology, University of Warsaw</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://uw.academia.edu/JuliaKubisa">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Andrzej Leśniak</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="https://ibl.waw.pl/pl/o-instytucie/pracownicy/lesniak-andrzej">Institute of Literary Research, Polish Academy of Sciences</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"><p>Art historian and philosopher. He was awarded with the Szczesny Detloff's prize for the best dissertation of the young art historian (2009). He is the author of three books: <em>Ikonofilia. Francuska semiologia pikturalna i obrazy (</em><em>Iconophilia. French Pictural Semiology and the Images</em>, 2013),<em> </em><em>Obraz płynny. Georges Didi-Huberman i dyskurs historii sztuki (</em><em>Fluid Image. Georges Didi-Huberman and the Discourse of Art History</em>, 2010), <em>Topografie doświadczenia: Maurice Blanchot i Jacques Derrida </em>(<em>Topographies of Experience: Maurice Blanchot and Jacques Derrida, </em>2003).</p></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Jacek Małczyński</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://kulturoznawstwo.uni.wroc.pl/Instytut-Kulturoznawstwa/Zespol/Pracownicy/Dr-Jacek-Malczynski">Culture Studies, University of Wrocław</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://wroc.academia.edu/JacekMałczyński">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Wojciech Michera</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://ikp.uw.edu.pl/dr-hab-wojciech-michera/">Institute of Polish Culture, University of Warsaw</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Kuba Mikurda</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.filmschool.lodz.pl/en/szkola/wydzialy/specjalnosc/rezyseria-filmowa-i-telewizyjna/2/wykladowcy">Lodz Film School</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://www.imdb.com/name/nm9812445/">IMDB</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Jakub Momro</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.antropologia.polonistyka.uj.edu.pl/dr-jakub-momro">Department for the Anthropology of Literature and Cultural Research, Jagiellonian University</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Anna Nacher</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.film.uj.edu.pl/dr-anna-nacher">Institute of Audiovisual Arts, Jagellonian University</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://jagiellonian.academia.edu/AnnaNacher">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Sidsel Nelund</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="https://kunstakademiet.dk/en/schools-and-institutes/institute-art-writing-and-research">The Royal Danish Academy of Fine Arts, Copenhagen</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://kunstakademiet.academia.edu/SidselNelund">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Lara Perry</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="https://research.brighton.ac.uk/en/persons/lara-perry">University of Brighton</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://brighton.academia.edu/LaraPerry">academia.edu</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://orcid.org/0000-0002-3129-8802">ORCID</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Michał Pawleta</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://archeo.amu.edu.pl/pawleta.htm">Institute of Archeology, Adam Mickiewicz University in Poznań</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://amu.academia.edu/MichałPawleta">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Kacper Pobłocki</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.euroreg.uw.edu.pl/en/team,kacper-poblocki">Centre for European Regional and Local Studies (EUROREG), University of Warsaw</a>
+	
+	
+</span><span>
+	
+	
+	<a target="_blank" href="https://kacperpoblocki.com">https://kacperpoblocki.com</a>
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Dorota Sajewska</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="https://www.slav.uzh.ch/de/institut/mitarbeitende/Interart-Studies/dsajewska.html">University of Zurich, Switzerland</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://uzh.academia.edu/dorotasajewska">academia.edu</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	
+          <div class="c-team__image">
+		    <img src="assets/resource_images/399/profilePicture_1553052054_roma_sendyka.jpg" alt="">
+          </div>
+        
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Roma Sendyka</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.antropologia.polonistyka.uj.edu.pl/katedra/pracownicy/dr-roma-sendyka">Center for Anthropology of Literature and Culture Studies at the Polish Studies Department, Jagiellonian University</a>
+	
+	
+</span><span>
+	<a target="_blank" href="https://sites.google.com/site/romasendyka/">English home page</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"><p>Lecturer at the Department of Anthropology of Literature and Cultural Research of the Jagiellonian University. She runs the Center for the Study of Cultures of Memory. She is active in the Curatorial Collective. Her fields of research include theories of literary and cultural research, in particular research on visual culture and cultures of memory. Author of books <em>Nowoczesny </em><em>esej. Studium historycznej świadomości gatunku</em> [Modern Essay. The Study in the Historical Consciousness of the Genres (2006)], <em>Od kultury ja do kultury siebie</em> [From the I-Culture to the Culture of the Self. On Reflexive Forms in Identity Projects (2015)], co-editor of several volumes in memory studies. In 2011, she taught at the University of Chicago. The leader of the project <em>Awkward Objects of Genocide</em> (TRACES, Horizon 2020) and <em>Unacknowledged Genocide Sites </em>(National Programme for the Development of Humanities in Poland).</p></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Jolanta Sikorska-Kulesza</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://en.ihuw.pl/institute/about/academic-staff/dr-hab-prof-uw-jolanta-sikorska-kulesza">Institute of History, University of Warsaw</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Xawery Stańczyk</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.ifispan.pl/members/xstanczyk/">Institute of Philosophy and Sociology, Polish Academy of Sciences</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div><div class="c-team">
+	[+prepared.image_html+]
+	<div class="c-team__desc">
+		<h3 class="c-team__title">Gabriela Świtek</h3>
+		<p class="c-team__meta">
+			<span><span>
+	<a target="_blank" href="http://www.ihs.uw.edu.pl/spis-pracownikow/gabriela-switek/">Institute of Art History, University of Warsaw</a>
+	
+	
+</span></span>
+		</p>
+		<div class="c-team__content u-typo"></div>
+	</div>
+</div>
+	
+</section><section class="m-team m-team--basic">
+	
+	<h2 class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseProfiles_3_34" aria-controls="collapseProfiles_3_34" aria-expanded="false"><span>2017</span></h2>
+	<div class="c-collapselist__content collapse" id="collapseProfiles_3_34">
+		
+	</div>
+	
+</section><section class="m-team m-team--basic">
+	
+	<h2 class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseProfiles_4_34" aria-controls="collapseProfiles_4_34" aria-expanded="false"><span>2016</span></h2>
+	<div class="c-collapselist__content collapse" id="collapseProfiles_4_34">
+		
+	</div>
+	
+</section><section class="m-team m-team--basic">
+	
+	<h2 class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseProfiles_5_34" aria-controls="collapseProfiles_5_34" aria-expanded="false"><span>2015</span></h2>
+	<div class="c-collapselist__content collapse" id="collapseProfiles_5_34">
+		
+	</div>
+	
+</section><section class="m-team m-team--basic">
+	
+	<h2 class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseProfiles_6_34" aria-controls="collapseProfiles_6_34" aria-expanded="false"><span>2014</span></h2>
+	<div class="c-collapselist__content collapse" id="collapseProfiles_6_34">
+		
+	</div>
+	
+</section><section class="m-team m-team--basic">
+	
+	<h2 class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseProfiles_7_34" aria-controls="collapseProfiles_7_34" aria-expanded="false"><span>2013</span></h2>
+	<div class="c-collapselist__content collapse" id="collapseProfiles_7_34">
+		
+	</div>
+	
+</section>
+			</div>
+		</div>
+	</div>
+</section>
+
+</main>
+
+[!evoSystemInfo?&theme=`dark`!]
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+</body>
+</html>

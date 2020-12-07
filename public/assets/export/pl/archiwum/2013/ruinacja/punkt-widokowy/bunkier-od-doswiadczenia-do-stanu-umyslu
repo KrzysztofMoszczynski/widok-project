@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Bunkier: od doświadczenia do stanu umysłu | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/ruinacja/bunkier-od-doswiadczenia-do-stanu-umyslu">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Bunkier: od doświadczenia do stanu umysłu | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Bunkier: od doświadczenia do stanu umysłu | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/ruinacja/bunkier-od-doswiadczenia-do-stanu-umyslu">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Bunkier: od doświadczenia do stanu umysłu | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ffb300 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ffb300 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ffb300 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ffb300 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ffb300 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ffb300 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+			/* background-color:#ffb300 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,179,0,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ffb300 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ffb300; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ffb300 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ffb300 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ffb300 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1198 parent-id-1187">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="422" data-selected-issue-color="#ffb300" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/4-ruin/from-bunker-experience-to-bunker-mentality">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/4-ruin/from-bunker-experience-to-bunker-mentality">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/ruinacja#toc">4</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/ruinacja/bunkier-od-doswiadczenia-do-stanu-umyslu?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Bunkier: od doświadczenia do stanu umysłu</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/ruinacja/bunkier-od-doswiadczenia-do-stanu-umyslu?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=1196">Arne Schmitt</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Przełożyła: 
+		
+		Iwona Kurz
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Wiele lat temu natrafiłem przypadkiem na&nbsp;pewną wypowiedź Adolfa Loosa, która powróciła do mnie podczas pracy nad tym tekstem. Pochodzi z&nbsp;jego programowego eseju z&nbsp;1910 roku, zatytułowanego <em>Architektura</em><sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>:</p> <blockquote>Jeśli w&nbsp;lesie natknęlibyśmy się na&nbsp;mały kopiec w&nbsp;formie piramidy, długi na&nbsp;sześć stóp, szeroki na&nbsp;trzy, wesołość by nas opuściła i&nbsp;stwierdzilibyśmy: widzimy czyjś grób. To właśnie jest architektura<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a>.</blockquote> <p>Ta krótka, epicka z&nbsp;ducha opowiastka zawsze wydawała mi się poruszająca. Wydobywa ona kilka przynajmniej kwestii, które miałaby jakoby komunikować architektura. Po&nbsp;pierwsze, pojawia się proste rozpoznanie – a&nbsp;oto jak wygląda prowizoryczna mogiła. Po&nbsp;drugie, wraz z&nbsp;rozpoznaniem przychodzi nastrój; trzeba się zmierzyć z&nbsp;czyjąś śmiercią. Wreszcie, po&nbsp;trzecie, i&nbsp;być może najbardziej interesujące, spomiędzy dwu pierwszych wymiarów wyłania się tu coś abstrakcyjnego, co skrywa się w&nbsp;określeniu „wewnętrzny głos”. Być może chodzi tu o&nbsp;pewną logikę, jak w&nbsp;rozumowaniu: „Spośród wielu rzeczy, które ludzie mogliby pogrzebać, kształt tego kopca najprędzej przypomina człowieka”; albo też o&nbsp;wyraz potocznej wiedzy, jak w&nbsp;przekonaniu: „Jak wiem z&nbsp;dzieciństwa, z&nbsp;wielu rytualnych i&nbsp;higienicznych przyczyn ludzie grzebią ciała swoich pobratymców”; lub o&nbsp;wrażenie wywiedzione z&nbsp;doświadczenia osobistego, jak we wspomnieniu: „Kiedy zmarła moja babcia, została pochowana w&nbsp;podobnie ukształtowanym grobie”.</p> <p>Wcześniej, kiedy zacząłem fotografować i&nbsp;badać niemiecką architekturę powojenną – z&nbsp;pewną przyjemnością i&nbsp;zainteresowaniem odczuwanymi wobec budynków przeklętych, jak się zdawało, przez całe niemal społeczeństwo, uznające je za&nbsp;brzydkie, niegościnne i&nbsp;nieludzkie – zdałem sobie sprawę, że&nbsp;jedną z&nbsp;najczęstszych i&nbsp;prawdopodobnie najcięższych obelg pod&nbsp;adresem budowli było nazwanie jej bunkrem. Początkowo sądziłem, że&nbsp;to jedna z&nbsp;wielu form wyrażania przez ludzi pogardy dla architektury, która agresywnie zrywała z&nbsp;podobieństwem do wyobrażenia domu za&nbsp;sprawą surowości zastosowanego materiału lub świadomego lekceważenia przyjętej skali czy też abstrakcyjnego zamknięcia kształtu.</p> <p>Był jeszcze trzeci element, który ostatecznie doprowadził mnie do prezentowanej tutaj pracy: lektura <em>Wojny powietrznej i&nbsp;literatury</em> W.G. Sebalda<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Zawsze lubiłem powieści Sebalda, jednak ta książka przeszła moje oczekiwania. Złożona z&nbsp;wykładów wygłoszonych w&nbsp;1997 roku na&nbsp;Uniwersytecie w&nbsp;Zurychu, jest prawdopodobnie najbardziej bezlitosną i&nbsp;zdecydowaną rozprawą z&nbsp;nazizmem i&nbsp;powojennymi Niemcami, z&nbsp;jaką kiedykolwiek miałem do czynienia. Dobrze pamiętam, jak podczas czytania wybuchałem głośnym śmiechem wywołanym mieszanką zaskoczenia, przyjemności i&nbsp;uznania, że&nbsp;ktoś potrafi w&nbsp;tak bezwzględny, a&nbsp;zarazem precyzyjny sposób mówić o&nbsp;stanie niemieckich umysłów w&nbsp;niesławnych latach „po 1945”. Nie podejmuję się streszczenia argumentacji Sebalda, spróbuję jedynie wydobyć kilka jego podstawowych tez, które mogą posłużyć jako wskazówki do mojej pracy fotograficznej.</p> <p>W skrócie, pisarz twierdzi, że&nbsp;zbombardowanie przez aliantów największych miast Niemiec stało się zarówno punktem wyjścia, jak i&nbsp;napędem rozwoju niemieckiego społeczeństwa po&nbsp;wojnie. Traumatyczny wymiar nalotów posłużył do wzniesienia swoistej wewnętrznej ściany, na&nbsp;której zatrzymywało się jakiekolwiek krytyczne spojrzenie na&nbsp;przeszłość i&nbsp;na rolę, jaką zwykli Niemcy odegrali w&nbsp;polityce nazistowskiej, również w&nbsp;dziele Zagłady jako najbardziej przerażającej ze wszystkich zbrodni. Społeczeństwo niemieckie samo mogło poczuć się ofiarą – ofiarą ogromnej i&nbsp;niewytłumaczalnej fali zniszczenia, która z&nbsp;trudem dawała się skojarzyć z&nbsp;polityką i&nbsp;działaniami wojennymi Trzeciej Rzeszy. Jednocześnie tę ścianę wykorzystywano do „odbijania” myśli ku przyszłości, do pozyskiwania energii, by stale patrzeć przed siebie i&nbsp;coraz szybciej zmierzać ku <em>Wirtschaftwunder</em> – określenie to znacząco przywołuje cud tam, gdzie chodziło o&nbsp;niezwykłe stłumienie i&nbsp;strategiczne zaprzeczenie właściwej Niemcom żądzy władzy i&nbsp;prestiżu.</p> <p>Sebald przywołuje wnikliwe spostrzeżenie niemieckiego poety Hansa Magnusa Enzensbergera, że&nbsp;„»zagadkową energię Niemców« wytłumaczyć da się tylko jednym: oto Niemcy z&nbsp;braku zrobili cnotę. »Warunkiem sukcesu Niemców – pisze – była ich nieświadomość«”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Sebald uzupełnia to w&nbsp;nieco zawiły, ale równie ostry sposób:</p> <blockquote>Katalizatorem [cudu gospodarczego] był jednak wymiar całkiem niematerialny: do dziś niewygasły strumień psychicznej energii, którego źródłem jest powszechnie strzeżona tajemnica zamurowanych u&nbsp;podwalin naszej państwowości trupów, tajemnica, która w&nbsp;latach powojennych łączyła i&nbsp;do dziś łączy Niemców silniej niż jakikolwiek cel pozytywny, na&nbsp;przykład urzeczywistnienie demokracji<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>.</blockquote> <p>To rozpoznanie znalazło symboliczny wyraz w&nbsp;niedawnej architektonicznej konstrukcji w&nbsp;Berlinie.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/bunkier/137-1479-1-pb-1920x-a5b.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/bunkier/137-1479-1-pb-333x-81a.jpg 333w,assets/cache/images/issues/2013/04/bunkier/137-1479-1-pb-666x-358.jpg 666w,assets/cache/images/issues/2013/04/bunkier/137-1479-1-pb-1332x-9ac.jpg 1332w" src="assets/cache/images/issues/2013/04/bunkier/137-1479-1-pb-666x-358.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Kościół Pamięci Cesarza Wilhelma (<em>Kaiser-Wilhelm-Gedächtniskirche</em>) z&nbsp;końca XIX wieku został w&nbsp;dużym stopniu zniszczony podczas nalotów w&nbsp;nocy 23 listopada 1943 roku. Jego ruiny trwały w&nbsp;krajobrazie miasta do późnych lat pięćdziesiątych, ponieważ alianci niechętnie odnosili się do odbudowy tego okazu dawnej dumy narodowej z&nbsp;czasów wilhelmińskich. Wreszcie w&nbsp;1957 roku modernistyczny architekt Egon Eiermann wygrał konkurs na&nbsp;nowy projekt kościoła. Społeczność lokalna nie była jednak zadowolona, że&nbsp;traci swój ikoniczny budynek. Znaleziono zatem kompromis: Eiermann zaprojektował aneks architektoniczny o&nbsp;geometrycznym, kubicznym kształcie w&nbsp;całości pokryty równomiernym, gęstym wzorem siatki – niczym abstrakcyjny obserwator ruin oryginalnej wieży kościoła. W&nbsp;tej postaci upamiętniał nie tylko traumę związaną z&nbsp;nalotami, ale też nie dający się załagodzić konflikt pomiędzy powszechną nostalgią za&nbsp;utraconym wczoraj i&nbsp;ślepą wiarą w&nbsp;nadejście lepszego jutra. Ten paradoks najlepiej charakteryzuje powojenne Niemcy.</p> <p>Był rok 2011, kiedy ujrzałem ten kościół w&nbsp;niezwykłym stanie – choć niezwykłym tylko w&nbsp;jasnowidzeniu. Uzbrojona w&nbsp;rusztowania stara wieża zyskała kamuflaż, dzięki któremu nie raziła obcością oka przechodniów w&nbsp;centrum zachodnioniemieckiego miasta. Bardzo prosty efekt, białe rusztowanie z&nbsp;szarymi platformami, sprawił, że&nbsp;wyglądała jak typowy biurowiec z&nbsp;lat sześćdziesiątych. Może nie tak purystycznie jak ściany osłonowe Miesa van der Rohe, ale jednak bez ornamentów i&nbsp;o elegancji z&nbsp;ducha pragmatycznej. I&nbsp;z fasadą, która wiele mówi o&nbsp;twarzy zachodnioniemieckiego sukcesu: tak gładka, że&nbsp;nic się do niej nie może przykleić, żadne pytające spojrzenie, żadna próba przywołania przeszłości.</p> <p>Trzeba sobie wyobrazić prace budowlane prowadzone na&nbsp;otwartym widoku, dowodzące, że&nbsp;jakakolwiek próba zachowania ruiny jest najtrudniejszą formą powstrzymania przemijania.</p> <p>Wracając do Sebalda. Nie tylko został on ostro zaatakowany za&nbsp;mówienie o&nbsp;czasach, których nie zna z&nbsp;doświadczenia (urodził się w&nbsp;1944 roku w&nbsp;zapadłej wiosce w&nbsp;Alpach Niemieckich), ale też potraktowany z&nbsp;pogardą za&nbsp;opuszczenie ojczyzny i&nbsp;emigrację do Anglii w&nbsp;1966 roku oraz za&nbsp;kalanie własnego gniazda i&nbsp;zwrócenie się przeciwko własnej braci, niemieckim pisarzom okresu powojennego.</p> <p>Rzeczywiście był bezlitosny w&nbsp;swojej ocenie kilku literackich prób podejmujących temat doświadczenia bunkra. Ostrze jego krytyki dotyczyło skłonności do tłumienia gwałtownej rzeczywistości bombardowań z&nbsp;powietrza, do przekształcania jej w&nbsp;realność mitu, do jej uniwersalizowania za&nbsp;sprawą porównań do piekła, otchłani, Sodomy i&nbsp;Gomory etc.</p> <p>Co więcej, Sebald powątpiewa w&nbsp;autentyczność większości dokumentalnych zapisów i&nbsp;relacji świadków z&nbsp;tych nocy. Jego wątpliwości budzi ciągłe powracanie tych samych obrazów słownych i&nbsp;tych samych figur retorycznych, które wywołują wrażenie, że&nbsp;raczej zakrywają, niż odsłaniają jakiekolwiek rzeczywiste wspomnienia:</p> <blockquote>Dalsze, pozornie nienadwątlone funkcjonowanie normalnego języka w&nbsp;relacjach naocznych świadków budzi wątpliwości co do autentyzmu uchwyconego w&nbsp;nich doświadczenia<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>.</blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/bunkier/137-1483-1-pb-1920x-373.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/bunkier/137-1483-1-pb-333x-fdf.jpg 333w,assets/cache/images/issues/2013/04/bunkier/137-1483-1-pb-666x-746.jpg 666w,assets/cache/images/issues/2013/04/bunkier/137-1483-1-pb-1332x-9c0.jpg 1332w" src="assets/cache/images/issues/2013/04/bunkier/137-1483-1-pb-666x-746.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Prolog do mojej pracy zatytułowałem zatem <em>Das Versagen der Normalsprache</em> [<em>Kryzys języka codzienności</em>]. Trafiłem na&nbsp;tę pozbawioną kontekstu rzeźbę publiczną przez czysty przypadek, gdzieś na&nbsp;tyłach głównego dworca w&nbsp;Hanowerze. Wyglądała niczym alternatywny alfabet wizualny proponujący konkretny język, który pozwoli poradzić sobie z&nbsp;podejmowanym tematem.</p> <p>Pomimo ostrości swojej krytyki Sebald nie zapominał o&nbsp;tym, by różnicować i&nbsp;by widzieć rzeczy we właściwej perspektywie i&nbsp;stosownie do czasu. Krytykuje zatem pisarzy, wydawców i&nbsp;organizacje polityczne za&nbsp;to, że&nbsp;nie umieją sprostać swojej odpowiedzialności w&nbsp;procesie mierzenia się ze zbiorową traumą wojny powietrznej. Z&nbsp;drugiej jednak strony staje on po&nbsp;stronie jednostki, broniąc jej bezsilności, jej nieumiejętności, by stawić czoła temu wszystkiemu na&nbsp;własną rękę. Przyznaje, że&nbsp;to ciężar nieproporcjonalnie wielki dla pojedynczej kobiety czy mężczyzny.</p> <blockquote>Relacje poszczególnych świadków mają zatem tylko względną wartość i&nbsp;muszą być uzupełnione tym, co odsłania się spojrzeniu sztucznemu, synoptycznemu<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>.</blockquote> <p>Moja praca <em>Bunker-Erfahrung</em> [<em>Doświadczenie bunkra</em>] próbuje tak właśnie zadziałać: sugeruje, że&nbsp;były takie momenty w&nbsp;procesie odbudowy zbombardowanych miast, kiedy zbiorowa nieświadomość wytwarzała kształty przywołujące doświadczenie bunkra – ich współczesna masywność i&nbsp;trwałość odzwierciedlała pamięć o&nbsp;kruchym szkielecie miasta w&nbsp;ruinie.</p> <p>Bez roszczeń do kompletności mój projekt wskazuje pięć trybów powracania:</p> <p></p> <h2>Nieprzenikalne</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/bunkier/137-1478-1-pb-1920x-964.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/bunkier/137-1478-1-pb-333x-b3b.jpg 333w,assets/cache/images/issues/2013/04/bunkier/137-1478-1-pb-666x-de9.jpg 666w,assets/cache/images/issues/2013/04/bunkier/137-1478-1-pb-1332x-e26.jpg 1332w" src="assets/cache/images/issues/2013/04/bunkier/137-1478-1-pb-666x-de9.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p></p> <h2>Wielopiętrowe</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/bunkier/137-1480-1-pb-1920x-ea2.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/bunkier/137-1480-1-pb-333x-416.jpg 333w,assets/cache/images/issues/2013/04/bunkier/137-1480-1-pb-666x-acf.jpg 666w,assets/cache/images/issues/2013/04/bunkier/137-1480-1-pb-1332x-453.jpg 1332w" src="assets/cache/images/issues/2013/04/bunkier/137-1480-1-pb-666x-acf.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <h2></h2> <h2>Uwięzione/odsłonięte</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/bunkier/137-1477-1-pb-1920x-691.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/bunkier/137-1477-1-pb-333x-c97.jpg 333w,assets/cache/images/issues/2013/04/bunkier/137-1477-1-pb-666x-7d4.jpg 666w,assets/cache/images/issues/2013/04/bunkier/137-1477-1-pb-1332x-835.jpg 1332w" src="assets/cache/images/issues/2013/04/bunkier/137-1477-1-pb-666x-7d4.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <h2></h2> <h2>Wskrzeszone</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/bunkier/137-1481-1-pb-1920x-787.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/bunkier/137-1481-1-pb-333x-cad.jpg 333w,assets/cache/images/issues/2013/04/bunkier/137-1481-1-pb-666x-283.jpg 666w,assets/cache/images/issues/2013/04/bunkier/137-1481-1-pb-1332x-787.jpg 1332w" src="assets/cache/images/issues/2013/04/bunkier/137-1481-1-pb-666x-283.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p></p> <h2>Pomszczone</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/bunkier/137-1482-1-pb-1920x-d09.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/bunkier/137-1482-1-pb-333x-a78.jpg 333w,assets/cache/images/issues/2013/04/bunkier/137-1482-1-pb-666x-4c4.jpg 666w,assets/cache/images/issues/2013/04/bunkier/137-1482-1-pb-1332x-a57.jpg 1332w" src="assets/cache/images/issues/2013/04/bunkier/137-1482-1-pb-666x-4c4.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Obraz miejsca zniszczenia działa niczym broń obosieczna: przywołuje na&nbsp;nowo pierwotny obraz traumy i&nbsp;zarazem obiecuje zbawienie od niej. Jednocześnie obraz miejsca zniszczenia miesza ze sobą trzy historyczne stany: budowę – zniszczenie – odbudowę. Wszystkie trzy tworzą wspólnie jedno niszczycielskie równanie.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Prwdr. „Der Sturm” z 15 grudnia 1910.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Adolf Loos, <em>Architektura</em>, w: idem, <em>Ornament i zbrodnia. Eseje wybrane</em>, przeł. A. Stępnikowska-Berns, Centrum Architektury–BWA Tarnów, Warszawa–Tarnów 2013, s. 154.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> W.G. Sebald, <em>Wojna powietrzna i literatura</em>, przeł. M. Łukasiewicz, W.A.B., Warszawa 2012.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Ibidem, s. 21.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Ibidem, s. 21–22.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Ibidem, s. 36.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Ibidem.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/ruinacja/bunkier-od-doswiadczenia-do-stanu-umyslu" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>The Vagaries of Imagination | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/the-vagaries-of-imagination">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="The Vagaries of Imagination | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="The Vagaries of Imagination | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/the-vagaries-of-imagination">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="The Vagaries of Imagination | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #c69 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #c69 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #c69 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #c69 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #c69 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #c69 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #c69 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #c69 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(204,102,153,0.8) !important; */
+			/* background-color:#c69 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(204,102,153,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#c69 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(204,102,153,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#c69; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(204,102,153,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(204,102,153,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#c69 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#c69 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#c69 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-918 parent-id-910">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="906" data-selected-issue-color="#c69" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2015/fotografia-i-skutecznosc-gestu#toc">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2015/panorama/the-vagaries-of-imagination-robert-smithsons-hotel-palenque">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/15-photography-and-the-efficacy-of-gesture#toc">12</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/the-vagaries-of-imagination?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>The Vagaries of Imagination: Robert Smithson’s Hotel Palenque and the Early Poetry of William Carlos Williams</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/the-vagaries-of-imagination?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=917">Mikołaj Wiśniewski</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>In this&nbsp;essay I&nbsp;would like&nbsp;to consider a&nbsp;slidework project by Robert Smithson entitled Hotel Palenque, undertaken in 1969 during&nbsp;the artist’s visit to Mexico, and presented to an audience at Kent State University three years later. The interpretive context in which I&nbsp;intend to place Smithson’s work (i.e. the early poetry of William Carlos Williams: 1917-1923) may seem somewhat odd considering&nbsp;that Smithson was a&nbsp;postmodern visual artist, and not a&nbsp;modernist poet. I&nbsp;believe, however, that&nbsp;his Hotel Palenque may serve as an excellent introduction to Williams’s work, and vice versa –&nbsp;that&nbsp;the tensions inherent in Williams’s poetics of the “glimpse” (as Kenneth Burke called it) may help bring into&nbsp;focus the ambiguities of Smithson’s project. Both the aesthetics and the theoretical quandaries Smithson’s work hints at, have a&nbsp;lot in common with&nbsp;what Williams was doing in the late ‘teens and early twenties of the twentieth century, coining a&nbsp;radically new style for&nbsp;himself, and simultaneously engaging meta-poetic questions in his essays, his book of improvisations, Kora in Hell, as well as in the prose passages included in the first edition of his famous volume of poetry Spring and All. I&nbsp;do not want to suggest that&nbsp;Williams is essentially a&nbsp;postmodern writer –&nbsp;this&nbsp;would be an obvious overstatement. However, some of his basic aesthetic concerns, as I&nbsp;hope to show on the example of Smithson, were of equal importance to the avant-garde artists working in America in the 60s and 70s.</p> <p>I have decided to limit my presentation of Robert Smithson to just one of his projects because, firstly, a&nbsp;more detailed discussion of Smithson’s artistic achievement would require a&nbsp;separate essay, and secondly –&nbsp;because in its design Hotel Palenque seems to me perfectly “Williamsian”. There is one more thing which Williams and Smithson have in common: both were born in New Jersey, and in fact they knew each other from&nbsp;there: “William Carlos Williams impressed Robert Smithson from&nbsp;an early age. He was the artist’s pediatrician, and they met briefly again in 1959. Beyond&nbsp;incidents of personal biography, their shared New Jersey backgrounds, which Smithson became aware of through&nbsp;Williams’s poetry, brought them together as artists.”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup></p> <p>Robert Smithson was born in Passaic in 1938 –&nbsp;in a&nbsp;poem written in 1914, entitled The Wanderer, which is said to mark the transitional point in Williams’s career, the river Passaic represents the poet’s initiation into&nbsp;modernity, and away from&nbsp;his initial romantic diction. Just as Williams had been, Smithson was introduced into&nbsp;the artistic world in New York, where he moved in 1957 and where –&nbsp;two years later –&nbsp;he had his first solo exhibition at the Artist’s Gallery. Smithson was initially greatly influenced by abstract expressionism, and later by the minimalist artists with&nbsp;whom he is sometimes associated. He began to produce what he considered his first mature works of writing and sculpture in 1964, although perhaps the word “sculpture” is not entirely apt here. Smithson himself referred to his projects of that&nbsp;period as nonsites, and he propounded the dialectics of site/nonsite in various essays and commentaries which divulge his interest in contemporary French philosophy –&nbsp;in writers such as Claude Lévi-Strauss, Michel Foucault and Roland Barthes. In his book Robert Smithson and Art after&nbsp;Babel, Gary Shapiro stresses that&nbsp;“years before&nbsp;[these authors] began to have a&nbsp;noticeable impact on the American intellectual and artistic scene [Smithson] developed his own critique of structuralism, which he called destructuration”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>.</p> <p>In his nonsites Smithson radically challenged the institutional frames of galleries and museums, as well as the dominant modes of aesthetic representation. These projects, as Gary Shapiro says, have “an oddly decentering effect” on the viewer. The nonsites, in Smithson’s definition, are “maps which [point] to sites in the world outside&nbsp;the gallery” –&nbsp;they comprise a&nbsp;peculiar reportage of the artist’s expedition beyond&nbsp;the gallery, into&nbsp;the natural. This&nbsp;reportage includes various forms of representation: photographs, prints and sketches, films and maps, and a&nbsp;quasi-sculptural installation composed of materials collected at the original site, which are secured inside&nbsp;a&nbsp;geometrical frame made of glass, wood or metal. All these elements are at the same time difficult to gauge: the maps for&nbsp;example are particularly confusing –&nbsp;they seem aesthetically self-referential, rather than&nbsp;pointing to a&nbsp;world beyond, and are arranged according to a&nbsp;purely formal principle, not an epistemological one. They may even strike one as surreal, rather than&nbsp;factual.</p> <p>On the other hand the original sites which the nonsites are supposed to map afford no stability, no fixed reference point in this&nbsp;theater of representations. They are in no traditional sense aesthetically salient, and in fact stand for&nbsp;nature’s erasure or obfuscation, rather than&nbsp;its beauty and grandeur. What Smithson maps are industrial wastelands, disused mines, building sites, littered and muddy riverbanks overgrown with&nbsp;common weeds: places whose only distinguishing mark is their uncanny monotony; places, so to speak, wholly interchangeable –&nbsp;a&nbsp;quality which renders the very effort of mapping absurdly ineffectual. Thus Gary Shapiro observes that&nbsp;in Smithson’s nonsite projects “there is no primary, authentic object to which [the modes of representation in the gallery] are merely ancillary”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Smithson deconstructs the integrity of the work of art, substituting it with&nbsp;a&nbsp;play of narratives, or –&nbsp;as Derrida would perhaps put it –&nbsp;the grounding presence of the work of art is (always already) superseded by a&nbsp;set of supplements.</p> <p>The nonsites are one of the first instances of what later was to be called land art, or –&nbsp;perhaps less adequately –&nbsp;environmental art. Smithson himself used the term earthworks. His best-known earthwork project is Spiral Jetty: a&nbsp;1500 feet long and 16 feet wide jetty built in 1970 on the Great Salt Lake in Utah. It follows the dialectic of the earlier nonsites in that, on the one hand, we have the rock structure itself, i.e. the site, and on the other –&nbsp;both a&nbsp;long film, likewise entitled Spiral Jetty, screened in the gallery, and an essay (published in 1972) discussing both the spiral itself and the film, in a&nbsp;language which Gary Shapiro describes as mythopoetic. The site, with&nbsp;its monumental and almost totemic artifact, is located in a&nbsp;particularly desolate area and “can be reached only by a&nbsp;series of dirt roads with&nbsp;the guidance of a&nbsp;detailed map”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. What is more, in order to reach it one has to steal across&nbsp;a&nbsp;number of gates with&nbsp;NO TRESPASSING signs, and so –&nbsp;visiting the site involves an act of transgression. Since&nbsp;1970 the spiral’s color has changed from&nbsp;muddy red to white, due to the formation of salt crystals. The jetty periodically disappears, submerged by the rising waters of the lake; in the 80s it vanished from&nbsp;sight for&nbsp;several years. Despite&nbsp;its magnitude Spiral Jetty is curiously elusive or even intangible.</p> <p>The film Spiral Jetty is not simply a&nbsp;documentation of the jetty’s making. It does include sequences with&nbsp;a&nbsp;bulldozer dumping huge rocks and masses of dirt into&nbsp;the lake’s waters, but&nbsp;there are also sequences of telescopic photography in which the sun, with&nbsp;explosions visible on its surface, fills most of the screen; we see microscopic images of the forming of salt crystals; images of dinosaur skeletons from&nbsp;the Natural History Museum in New York; maps of real and fictitious continents; and short scenes from&nbsp;a&nbsp;50s sci-fi movie. We hear the machinery’s roar, the tumbling of the rocks, the water splashing, but&nbsp;also the ticking of a&nbsp;clock and the sound of a&nbsp;Geiger counter. Above&nbsp;all –&nbsp;we hear Smithson’s commentary, for&nbsp;example: “The earth’s history seems at times like&nbsp;a&nbsp;story recorded in a&nbsp;book each page of which is torn into&nbsp;small pieces. Many of the pages and some of the pieces of each page are missing”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Towards&nbsp;the end of the film Smithson intones:</p> <blockquote>From the center of the Spiral Jetty<br> North –&nbsp;Mud, salt crystals, rocks, water<br> North by East –&nbsp;Mud, salt crystals, rocks, water<br> Northeast by North –&nbsp;Mud, salt crystals, rocks, water<br> Northeast by East –&nbsp;Mud, salt crystals, rocks, water</blockquote> <p>This continues through&nbsp;no less than&nbsp;twenty points on the compass. In the brief presentation of Smithson’s project here there is no time to go into&nbsp;all its possible theoretical implications. Let me however stress one thing which later will be important in my discussion of Williams: there is, as Gary Shapiro observes, no such thing as a&nbsp;“pure Spiral Jetty, no work uncontaminated by language (…). One could say either that&nbsp;there are three distinguishable but&nbsp;interrelated works that&nbsp;bear that&nbsp;name or that&nbsp;there is one work existing simultaneously in a&nbsp;number of modes”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. Similarly, in Williams’s work, especially in Kora in Hell and Spring and All, we witness a&nbsp;constant shifting, or even –&nbsp;a&nbsp;constant tension, between&nbsp;various modes of discourse. What presents itself as pure or primary work of the imagination (a phrase Williams uses repeatedly) is soon questioned, considered and reconsidered in a&nbsp;series of supplementary texts whose rhetoric oscillates between&nbsp;the mystical and the hysterical.</p> <p>Another important project of Smithson’s which needs to be mentioned here is Partially Buried Woodshed. It was completed in the same year as Spiral Jetty, and –&nbsp;due to the artwork’s radically unconventional character –&nbsp;immediately sparked off&nbsp;a&nbsp;conflict which lasted for&nbsp;decades.</p> <p>In 1970 Robert Smithson was invited by Kent State University to give a&nbsp;series of lectures on contemporary art. The students and members of the staff suggested that&nbsp;Smithson could execute an earthwork project on the university’s grounds if he wished. “I have always wanted to bury a&nbsp;house” –&nbsp;was Smithson’s reply. The authorities agreed that&nbsp;an old disused woodshed standing on a&nbsp;plot of ground belonging to the university could be used for&nbsp;this –&nbsp;eccentric –&nbsp;purpose. After&nbsp;inspecting the site Smithson decided that&nbsp;he intended to keep piling earth onto&nbsp;the woodshed until&nbsp;its central beam cracked. After&nbsp;a&nbsp;day’s work, again using a&nbsp;bulldozer, the plan was accomplished.</p> <p>Soon, however, the Partially Buried Woodshed (together with&nbsp;its author and those who invited him to the university) became an object of stricture. “The king is naked but&nbsp;the university won’t admit it!” –&nbsp;a&nbsp;local newspaper proclaimed, suggesting that&nbsp;the artistic project was a&nbsp;sham. Those very same authorities who had agreed to Smithson’s project now wanted to pull the shed down. And so –&nbsp;protests began. Amidst the political turmoil of the Vietnam era the woodshed became Ohio’s symbol of civil disobedience and anti-conservatism. It became a&nbsp;popular spot for&nbsp;student gatherings. Following&nbsp;the tragic events at Kent State, when National Guard troops opened fire on and killed four students who were demonstrating against&nbsp;the bombing of Cambodia, someone inscribed MAY 4 KENT 70 with&nbsp;white paint on the front wall of the shed. Later, someone set fire to it, but&nbsp;miraculously the shed endured. It was now generally recognized as an important contemporary work of art, and although there were many who still wished it gone all subsequent attempts to remove the Partially Buried Woodshed were torpedoed. Finally, the university planted a&nbsp;row of decorative bushes around&nbsp;the site to conceal what they considered to be an eyesore. In time, of course, the woodshed collapsed altogether; it removed itself, and today a&nbsp;shady bower stands on the site, covering the remains of the shed’s concrete foundation. As Robert Frost might have put it: a&nbsp;woodshed “to none but&nbsp;who remember long”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. Indeed, the Partially Buried Woodshed, with&nbsp;its thematization of entropy –&nbsp;the woods stepping in to obliterate manmade form –&nbsp;is (however strange this&nbsp;may seem) a&nbsp;typically Frostian project. Its relation to Williams’s work I&nbsp;see in the way natural and discursive (historical, political, aesthetic, etc.) temporality overlap. I&nbsp;shall later discuss this&nbsp;issue in greater detail.</p> <p>The slidework project in question Smithson presented to students of architecture at the University of Utah less than&nbsp;a&nbsp;year before&nbsp;his untimely death in 1973.<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup> However, instead of immediately explaining the general idea of the work, let me introduce the reader to Hotel Palenque in a&nbsp;more ‘natural’ way –&nbsp;as if she or he was actually strolling around&nbsp;the Museum of Contemporary Art in Los Angeles (for this&nbsp;is where the most recent retrospective of Smithson’s work took place in 2005).</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5092-1-pb-1920x-1db.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5092-1-pb-330x-704.jpg 330w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5092-1-pb-660x-304.jpg 660w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5092-1-pb-768x-92c.jpg 768w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5092-1-pb-1320x-c4e.jpg 1320w" src="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5092-1-pb-660x-304.jpg" alt="" ></a>    <figcaption><p>Robert Smithson, Hotel Palenque, 1969, Art © Holt-Smithson Foundation/Licensed by VAGA, New York, NY, slide 7</p></figcaption>   </figure>  </section><section class="u-typo">   <p>We walk into&nbsp;a&nbsp;dark room and hear a&nbsp;voice commenting on the following&nbsp;slide, projected on the wall. The voice announces:</p> <blockquote>Now this&nbsp;is the escarpment. This&nbsp;is the… it’s very moving actually. There you see where the stairs just completely fall away and you have these uninhabited old motel sections, and once again you get a&nbsp;better idea of the careful way that&nbsp;they don’t tear everything down&nbsp;all in one fell swoop. It’s done slowly with&nbsp;a&nbsp;certain degree of sensitivity and grace so that&nbsp;there is time for&nbsp;the foliage to grow through&nbsp;the broken concrete, and there is time for&nbsp;the various colors on the wall to mellow under&nbsp;the sun. So you get this&nbsp;kind of really sensuous sense of something extending both in and out of time, something that&nbsp;doesn’t belong to the earth and really something that&nbsp;is rooted very much into&nbsp;the earth. This&nbsp;kind of de-architecturization pervades the entire structure. And you have to remember that&nbsp;it’s a-centric, no focuses, nothing to grip on to, no certainty, everything is completely random and done to please somebody’s everyday activity.</blockquote> <p>Smithson –&nbsp;for&nbsp;the voice is his –&nbsp;talks in a&nbsp;slow and ruminative manner. He often pauses; he is hesitant, as if struggling to express his reasons (both emotional and intellectual) for&nbsp;being so arrested by this&nbsp;scene of urban disarray. This&nbsp;is also reflected in Smithson’s use of words: the repetition of “something”, of phrases such as “the way that” or “this kind of”, and of course the pleonastic “sensuous sense”. In fact, when you hear him, Smithson sounds quite lackadaisical, and because he speaks so slowly there is plenty of time to take in the picture with&nbsp;all its details. The viewer’s perception, however, is clearly guided by the artist: the gesture of presenting the image does not suffice.</p> <p>On the one hand, Smithson seems to be saying: “There it is. Something simply captured; something that&nbsp;presents itself as artistically significant with&nbsp;all the force and unexpectedness of natural revelation”. Thus, the experience Smithson is attempting to convey is almost paradigmatically Kantian (or –&nbsp;romantic): first, there is the encounter with&nbsp;a&nbsp;gratuitous but&nbsp;extremely potent symbol –&nbsp;nature’s gift arbitrarily bestowed upon&nbsp;a&nbsp;passer-by, i.e. nature’s elect. Secondly, the gift itself reveals, as Kant puts it, a&nbsp;purposiveness without&nbsp;purpose: purposiveness, for&nbsp;Smithson obviously induces a&nbsp;sense of formal purposiveness here, by saying, for&nbsp;example, that&nbsp;the scene was arranged in a&nbsp;“careful way” and “with a&nbsp;certain degree of sensitivity and grace”; and without&nbsp;purpose, for&nbsp;he also says that&nbsp;“everything is completely random”. The image’s meaning is also in that&nbsp;peculiar semantic mode of the Kantian aesthetic idea which induces “such a&nbsp;wealth of thought as would never admit of comprehension in a&nbsp;definite concept” (Critique of Judgment, §49); similarly, Smithson says that&nbsp;the “sensuous sense of something” that&nbsp;we get from&nbsp;the picture affords “nothing to grip on to”. Also, this&nbsp;“something extending both in and out of time” invests the scene with&nbsp;a&nbsp;metaphysical quality which takes after&nbsp;Emersonian transcendentalism. In fact –&nbsp;the way Smithson discusses it –&nbsp;the picture of the demolished motel sections seems to corroborate Emerson’s belief “that the trivial rightly envisioned is sublime, and that&nbsp;our perceiving, poetic selves have a&nbsp;role in revelation when we find out the oneness of words within&nbsp;things”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>.</p> <p>The situation is similar in many of Williams’s poems. Consider the poem “Pastoral,” from&nbsp;the volume Al Que Quiere, for&nbsp;example, in relation to Smithson’s photograph and auto-commentary described earlier:</p> <blockquote>When I&nbsp;was younger<br> it was plain to me<br> I&nbsp;must make something of myself.<br> Older now<br> I&nbsp;walk back streets<br> admiring the houses<br> of the very poor:<br> roof out of line with&nbsp;sides<br> the yards cluttered<br> with&nbsp;old chicken wire, ashes,<br> furniture gone wrong;<br> the fences and outhouses<br> built of barrel-staves<br> and parts of boxes, all,<br> if I&nbsp;am fortunate,<br> smeared a&nbsp;bluish green<br> that&nbsp;properly weathered<br> pleases me best<br> of all colors.<br> No one<br> will believe this<br> of vast import to the nation.<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup></blockquote> <p>Although Williams’s poem lacks the direct metaphysical implications of Smithson’s commentary<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>, and –&nbsp;in the coda –&nbsp;employs a&nbsp;tone of hurt self-righteousness which is absent in Smithson’s, the central theme in both is identical –&nbsp;an acknowledgement of the formal purposiveness of an otherwise highly fortuitous and negligible spectacle. [In another poem by Williams the image of an old man who walks in the gutter gathering dog-lime astonishes the speaker “beyond words”<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>.] But&nbsp;the presence of an idealist aesthetic paradigm is not the most important parallel between&nbsp;Williams and Smithson. It is rather the way in which both artists question that&nbsp;paradigm, and ironically unfix it, that&nbsp;makes them comparable.</p> <p>The transcendental intimations in Smithson’s commentary, as well as its idealistic phraseology which I&nbsp;have pointed out, are both asserted and ironized –&nbsp;made to seem dubious. Generally speaking, this&nbsp;is done by heightening the clash and the incongruity between&nbsp;the two elements of Emerson’s pronouncement: the trivial and the sublime. Also, the revelatory character of the image –&nbsp;its naturalness, is likewise questioned, or even parodied, together with&nbsp;the philosophical rhetoric which such revelations are part of. This&nbsp;becomes more apparent in other scenes of Hotel Palenque, but&nbsp;in the one I&nbsp;have just presented there is already a&nbsp;sense of deliberate grotesqueness –&nbsp;for&nbsp;example in the way the chaotic and neglectful manner of tearing down&nbsp;the hotel is portrayed as a&nbsp;masterly artistic performance. And indeed it is difficult to imagine those whose “everyday activity” confronts them with&nbsp;this scene of devastation responding to it with&nbsp;enthusiasm similar to Smithson’s.</p> <p>Of course grotesqueness itself is not necessarily incompatible with&nbsp;romantic subjectivity. To the contrary –&nbsp;in the following&nbsp;statement Hegel defines romantic art but&nbsp;his observations seem to apply perfectly to Smithson’s strategy in Hotel Palenque:</p> <blockquote>[The] romantic inwardness can display itself in all circumstances, and move relentlessly from&nbsp;one thing to another in innumerable situations, states of affairs, relations, errors, and confusions, conflicts and satisfactions, for&nbsp;what is sought and is to count is only its own inner subjective formation, the spirit’s expression and mode of receptivity, and not an objective and absolutely valid subject-matter. (…) The aspect of external existence is consigned to contingency and abandoned to the adventures devised by an imagination whose caprice can mirror what is present to it, exactly as it is, just as readily as it can jumble the shapes of the external world and distort them grotesquely.<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup></blockquote> <p>No doubt imagination’s capriciousness and grotesqueness, as well as the function of contingency in artistic creation, are themes present both in Williams’s work and the Hotel Palenque project. But&nbsp;whereas in Hegel’s account all these qualities testify to the spirit’s potency, to the subject’s autonomy and its unlimited creative capacities, in Williams and Smithson they lose that&nbsp;idealistic glamour: “the adventures devised by (…) imagination” are constantly checked, their significance is impugned, at times they become mocking echoes of various philosophical and artistic discourses.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5094-1-pb-1920x-044.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5094-1-pb-330x-667.jpg 330w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5094-1-pb-660x-6cf.jpg 660w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5094-1-pb-768x-64c.jpg 768w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5094-1-pb-1320x-659.jpg 1320w" src="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5094-1-pb-660x-6cf.jpg" alt="" ></a>    <figcaption><p>Robert Smithson, Hotel Palenque, 1969, Art © Holt-Smithson Foundation/Licensed by VAGA, New York, NY, slide 11</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Let me explain this&nbsp;by discussing some other scenes from&nbsp;Hotel Palenque. This&nbsp;one comes directly after&nbsp;the picture of the demolished motel sections. And this&nbsp;is what Smithson has to say about&nbsp;it:</p> <blockquote>Here is another view of the braced-up poles that&nbsp;are really supporting a&nbsp;good deal of the hotel. If you look closely in the upper left corner you can see the lobby through&nbsp;a&nbsp;hole in the wall there. Once again you have the sense of space going from&nbsp;one side of the hotel to the other and back again, back and forth, to and fro. And then there is always a&nbsp;bit of color there you know, just right, like&nbsp;that little piece of red just sets off&nbsp;the whole thing so that&nbsp;there is no lack of color excitement. Way in the back –&nbsp;you can barely make it out –&nbsp;there is a&nbsp;sort of abandoned refrigerator just sitting there and way in the back –&nbsp;you can hardly see it –&nbsp;if you look closely, you see our car. It’s sort of between&nbsp;the two poles on the right side. That’s how we arrived there actually, in a&nbsp;rent-a-car, but&nbsp;also you can see how there is no fussy meticulous over-compulsive… they are not uptight. When something chips off&nbsp;they just leave the chips there, and that&nbsp;adds to the general feeling of the interior.</blockquote> <p>As before, Smithson is pointing to the formal qualities of the scene –&nbsp;despite&nbsp;its accidental arrangement (“When something chips off&nbsp;they just leave the chips there”) –&nbsp;on closer scrutiny it strikes him as a&nbsp;consciously designed aesthetic composition: Smithson recognizes the linear effect of the poles, the dynamic space effect, as well as the color balance made “just right” by the red flower in the lower left corner of the photograph. Interestingly, the flower seems included in the picture as a&nbsp;result of mere chance; it almost falls outside&nbsp;the margin. And yet its formal importance is central to the composition’s coloration. This&nbsp;opens up the issue of whether the image is a&nbsp;guileless natural design, “just sitting there”, or whether its compelling formal quality is the result of the artist’s gesture of framing, but&nbsp;also –&nbsp;and perhaps even more importantly –&nbsp;of his narrative strategies. These narratives, however, are at times highly dubious. Note for&nbsp;example how Smithson facetiously moves beyond&nbsp;what is immediately given. He leads the viewer’s attention outside&nbsp;the perceptive field –&nbsp;the car to which he is pointing is actually not there, although Smithson declares: “you see our car”. The information about&nbsp;the rent-a-car is an obvious non sequitur –&nbsp;a&nbsp;narrative flippancy.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5096-1-pb-1920x-f21.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5096-1-pb-330x-b36.jpg 330w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5096-1-pb-660x-c4c.jpg 660w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5096-1-pb-768x-5f5.jpg 768w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5096-1-pb-1320x-9fa.jpg 1320w" src="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5096-1-pb-660x-c4c.jpg" alt="" ></a>    <figcaption><p>Robert Smithson, Hotel Palenque, 1969, Art © Holt-Smithson Foundation/Licensed by VAGA, New York, NY, slide 12</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Throughout Hotel Palenque Smithson creates this&nbsp;tension between&nbsp;what is immediately given, what seems a&nbsp;natural symbolic revelation, and what, as we may suspect, is a&nbsp;pure contrivance. In the following&nbsp;photograph we are confronted with&nbsp;another such equivocal ‘natural’ symbol.</p> <blockquote>This is interesting, back in the garden again. Here we have some bricks piled up with&nbsp;sticks sort of horizontally resting on these bricks. And they signify something. I&nbsp;never figured it out while I&nbsp;was there but&nbsp;it seemed to suggest some kind of impermanence. Something was about&nbsp;to take place. We were just kind of grabbed by it. You just really felt that&nbsp;any minute something was going to happen. It was like&nbsp;a&nbsp;sign, a&nbsp;sign from&nbsp;something ageless actually.</blockquote> <p>We are back in the paradigm of Emersonian transcendentalism. A&nbsp;symbol –&nbsp;somewhat similar to those found in the book of I&nbsp;Ching –&nbsp;presents itself. Its primacy and naturalness are confirmed by the phrase we were grabbed by it. Its revelatory (and semantic) character (“a sign from&nbsp;something ageless”) was conspicuous, as Smithson claims, although typically the sign evades conceptualization (just as Kant’s aesthetic ideas). However, since&nbsp;the viewer is by now well acquainted with&nbsp;the narrator’s ironic strategies, the symbol might strike them as highly suspect: perhaps it is a&nbsp;structure set up by Smithson himself for&nbsp;the purposes of his narrative performance? Although it may just as well be real scaffolding used by the workers in the hotel. The ambiguity here is permanent.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5098-1-pb-1920x-f1b.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5098-1-pb-330x-107.jpg 330w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5098-1-pb-660x-64b.jpg 660w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5098-1-pb-768x-072.jpg 768w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5098-1-pb-1320x-6ed.jpg 1320w" src="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5098-1-pb-660x-64b.jpg" alt="" ></a>    <figcaption><p>Robert Smithson, Hotel Palenque, 1969, Art © Holt-Smithson Foundation/Licensed by VAGA, New York, NY, slide 14</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The other strategy I&nbsp;have pointed to is that&nbsp;of discussing the pictures in terms of what is not there, rather than&nbsp;by referring to that&nbsp;which symbolically presents itself. This&nbsp;is either done in an overtly facetious manner, or by employing a&nbsp;discourse which, so to speak, sheds a&nbsp;new light on the picture, endowing it with&nbsp;an even stronger symbolic significance –&nbsp;sometimes to the point of exorbitance and implausibility. Smithson’s discussion of the following&nbsp;picture belongs no doubt to the facetious kind.</p> <blockquote>Now we are finally in the lobby of the hotel and looking through, we see some turtles swimming the turtle pool. There’s an alligator in there too, but&nbsp;he doesn’t seem to bother the turtles. I&nbsp;like this, as you come in you see this&nbsp;turtle pond and it’s a&nbsp;kind of nice situation to see.</blockquote> <p>The alligator is not to be seen on the photograph due –&nbsp;as we may suspect –&nbsp;to the reflection from&nbsp;the windowpanes which cover the turtle pond. But&nbsp;on another photograph of the same “nice situation” we still do not find any alligator. And it is interesting that&nbsp;Smithson hardly ever chooses to present two images of the same scene in Hotel Palenque –&nbsp;in a&nbsp;sense the alligator is twice-absent. It seems a&nbsp;purely imaginary character, a&nbsp;textual figure the function of which is the narrative impact of the sudden declaration “There’s an alligator in there too”.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5100-1-pb-1920x-e52.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5100-1-pb-330x-660.jpg 330w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5100-1-pb-660x-1a8.jpg 660w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5100-1-pb-768x-ee2.jpg 768w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5100-1-pb-1320x-56b.jpg 1320w" src="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5100-1-pb-660x-1a8.jpg" alt="" ></a>    <figcaption><p>Robert Smithson, Hotel Palenque, 1969, Art © Holt-Smithson Foundation/Licensed by VAGA, New York, NY, slide 18</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The witticism here is quite simple; at least in comparison with&nbsp;a&nbsp;far more sophisticated one in the commentary to this&nbsp;photograph.</p> <blockquote>We come to the dance hall. This&nbsp;is a&nbsp;dance hall which is inoperative, of course. You can see the Spanish moss that&nbsp;was imported from&nbsp;the Southern part of the United States and is now gracefully hanging from&nbsp;these ropes. They decided that&nbsp;they would just make this&nbsp;square box enclosure and then just cover it all over&nbsp;with this&nbsp;scaffolding of wood, and then over&nbsp;the wood they put all this&nbsp;translucent plastic. But&nbsp;all the children in the neighborhood just kept throwing rocks through&nbsp;the plastic and just broke it all to pieces. It sort of discouraged people when they were dancing because at any moment someone from&nbsp;outside might throw a&nbsp;rock through&nbsp;and one of the dancers would be hit by a&nbsp;rock. So the popularity of the dance hall diminished but&nbsp;I&nbsp;think that&nbsp;it is quite a&nbsp;remarkable interior and quite satisfying to me anyway.</blockquote> <p>In the museum, when actually listening to the artist, one can hear in the background the laughter of Smithson’s audience. In fact, people start giggling the moment Smithson utters the first sentence: “We come to the dance hall”. What is so funny about&nbsp;it? Obviously, it is the clash between&nbsp;what is immediately given, i.e. the dismal image of the ruined dance hall, and the voice –&nbsp;as if of a&nbsp;proud owner of the hotel –&nbsp;introducing us to the dance hall. The very glamour suggested by the name stands in clear contrast to the interior on the picture. Of course, the hilarity of the audience increases as Smithson starts recounting the story of the little stone-throwing rascals. He starts weaving a&nbsp;playful narrative for&nbsp;which the immediate image is but&nbsp;an excuse. Or in fact, it is the narrative which is immediate and primary, since&nbsp;it conditions the viewer’s perception of the image<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Hence, all the other narratives (or discourses) previously employed by Smithson (including the one which speaks of the scene being “a sign from&nbsp;something ageless”, a&nbsp;living symbol as Emerson might say) are equally arbitrary, no single one is closer to the ultimate significance of the sign. Imagine, for&nbsp;example, how the significance of the scene would change if Smithson had said the following:</p> <blockquote>We come to the slaughterhouse. They kept animals in this&nbsp;little building adjacent to the hotel kitchen. Whenever unexpected guests arrived, or when they needed to prepare more food for&nbsp;some festive occasion, they would come here and… well, I&nbsp;don’t know how they did it, but&nbsp;probably in a&nbsp;very… how shall I&nbsp;put it?… ancient way. You can see the stains where they hung the carcasses. Yes, there is some ancient quality to it, something that&nbsp;made me think of the sacrificial practices of the ancient Mayans. It sort of resembles a&nbsp;temple.</blockquote> <p>The reason I&nbsp;included “the ancient Mayans” in this&nbsp;fabricated narrative is because, as the title of the project suggests, Hotel Palenque was produced in Mexico. In 1969 Smithson, together with&nbsp;his wife, the artist Nancy Holt, and his friend and gallerist, Virginia Dwan, went to Mexico to see the famous Palenque temple. As an artist, however, he was more interested in the nearby run-down hotel than&nbsp;in the temple itself. This&nbsp;gesture of turning away from&nbsp;a&nbsp;site of established aesthetic and cultural importance, towards&nbsp;an apparently insignificant one, is also characteristic of Williams who shared Duchamp’s belief that&nbsp;“a stained glass window that&nbsp;had fallen out and lay more or less together on the ground was of far greater interest than&nbsp;the thing originally composed in situ”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. Thus, the refusal to take photographs of the temple (Mexico’s major tourist attraction), the absence of the “real” Palenque becomes a&nbsp;context which informs the whole project, even its formal qualities. In his presentation Smithson behaves like&nbsp;a&nbsp;guide taking a&nbsp;group of tourists on a&nbsp;tour around&nbsp;the demolished hotel, just as he may have himself been guided on his visit to the temple. But&nbsp;above all, this&nbsp;context renders possible the meta-perspective which complicates the significance of the narratives employed by Smithson in his project. The turning away from&nbsp;the culturally important temple to behold some shabby hotel seems a&nbsp;critical gesture the purpose of which is to question our aesthetic categories. As Smithson suggests, the temple is no longer present in fact –&nbsp;it is replaced by institutionalized discourses, turned into&nbsp;a&nbsp;tourist icon. (Similarly Smithson’s earth art, in general, challenges the function of museums, and our opinions on what is and what is not ART.)</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5102-1-pb-1920x-767.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5102-1-pb-330x-76a.jpg 330w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5102-1-pb-660x-3be.jpg 660w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5102-1-pb-768x-7ce.jpg 768w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5102-1-pb-1320x-fea.jpg 1320w" src="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5102-1-pb-660x-3be.jpg" alt="" ></a>    <figcaption><p>Robert Smithson, Hotel Palenque, 1969, Art © Holt-Smithson Foundation/Licensed by VAGA, New York, NY, slide 19</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The context of the Mayan temple is stressed by Smithson in his commentaries. It becomes the basis of many of his narratives, although –&nbsp;of course –&nbsp;nothing in the picture itself necessitates such a&nbsp;reference. In this&nbsp;photograph, for&nbsp;example, Smithson posits the temple as a&nbsp;vanishing point for&nbsp;both the literal (pictorial) perspective and the ensuing textual one.</p> <blockquote>Now here is one of the more interesting windows in the hotel. This&nbsp;looks out, I&nbsp;mean you really can’t see it because the natives burn down&nbsp;the tropical foliage so that&nbsp;they can farm the land and the air fills up with&nbsp;incredible clouds of smoke. They call these things “milpa”: It’s a&nbsp;very ancient form of farming which goes back to pre-Spanish times. But&nbsp;in that&nbsp;mist if you look through… I&nbsp;mean if you could see actually back there you might remotely be able to pick out a&nbsp;fragment of the Palenque ruins, the temples, the Mayan observatories and other wonders that&nbsp;the pre-Spanish Indians built. My feeling is that&nbsp;this hotel is built with&nbsp;the same spirit that&nbsp;the Mayans built their temples. Many of the temples change their facades continually: there are sort of facades within&nbsp;facades overlapping facades, facades on facades. You know this&nbsp;window is actually looking out over&nbsp;the things that&nbsp;we went there to see but&nbsp;you won’t see any of those temples in this&nbsp;lecture; that’s something that&nbsp;you have to go there to see for&nbsp;yourself, and I&nbsp;hope that&nbsp;you go to the Hotel Palenque so that&nbsp;you learn something about&nbsp;how the Mayans are still building. The structure has all of the convolution and terror, in a&nbsp;sense, that&nbsp;you would find in a&nbsp;typical Mayan temple –&nbsp;especially of the Uxmal variety which is very very… it’s called Mayan Baroque and made out of serpentine facades loaded with&nbsp;spirals and rocks carved in the shape of woven twigs and things; it’s quite nice. So that&nbsp;to me this&nbsp;window, this&nbsp;seemingly useless window really called forth all sorts of truths about&nbsp;the Mexican temperament.</blockquote> <p>This long statement is especially important here as Smithson employs that&nbsp;Emersonian rhetoric of the living symbol which I&nbsp;pointed to earlier. The spirit of the Mayans is present in the Mexican land and the blood of the Mexican people, and it continually manifests itself. The same primal significance is still symbolically revealed in nature. Yet, at the same, in his lecture Smithson challenges the validity of such symbolic revelations and readings. The hotel resembles the temple not so much because both are symbols “for all sorts of truths about&nbsp;the Mexican temperament,” but&nbsp;because Hotel Palenque is likewise a&nbsp;confusion of “facades overlapping facades, facades on facades,” –&nbsp;only these are textual ones. What Hotel Palenque really is remains curiously uncertain: Is it an old disused hotel? One destroyed in an earthquake? Or perhaps it is simply still in the process of construction? Or undergoing renovation? In general, it seems to be a&nbsp;structure which is being simultaneously erected and demolished. The temple of Palenque is also known as the temple of the inscriptions; similarly, Hotel Palenque might be called the hotel of inscriptions, the crucial difference being that&nbsp;in the temple symbolic significance resides permanently, whereas in the hotel it is a&nbsp;temporary resident.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5104-1-pb-1920x-1fe.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5104-1-pb-330x-b4e.jpg 330w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5104-1-pb-660x-ebd.jpg 660w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5104-1-pb-768x-298.jpg 768w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5104-1-pb-1320x-ece.jpg 1320w" src="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5104-1-pb-660x-ebd.jpg" alt="" ></a>    <figcaption><p>Robert Smithson, Hotel Palenque, 1969, Art © Holt-Smithson Foundation/Licensed by VAGA, New York, NY, slide 20</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Smithson extends the Mayan tour de force in his commentaries to a&nbsp;number of other pictures, for&nbsp;example –&nbsp;this&nbsp;one.</p> <blockquote>Now this&nbsp;is the restaurant where I&nbsp;spent many happy hours discussing the rise and fall of the ancient Mayan Gods with&nbsp;Virginia Dwan and Nancy Holt. We discussed many things. Actually, the old Mexican Gods were rather cruel. As a&nbsp;matter of fact they had quite an interesting corn… er… agricultural processes. When they would plant corn and seed they would sacrifice a&nbsp;baby, and cut him all up, and then plant him along&nbsp;with the corn seed in the ground. And then when the corn grew a&nbsp;little higher, they would take a&nbsp;young boy, and slice him all up, and plant him along&nbsp;with the adolescent corn sprouts. And then when it was fully grown and ready to take off&nbsp;they would do the same thing with&nbsp;an old man, so that&nbsp;that sort of gives you the feeling that&nbsp;lurks in Mexico. There is something about&nbsp;Mexico, an overall hidden concealed violence about&nbsp;the landscape itself. Many artists and writers have gone to Mexico and been completely destroyed, you know. It happened to Hart Crane after&nbsp;he left Mexico. He jumped off&nbsp;the back off&nbsp;a&nbsp;boat into&nbsp;the propellers and was completely cut to ribbons. So you have to be very careful when you go to Mexico so that&nbsp;you are not caught up in this&nbsp;–&nbsp;in any of this&nbsp;kind of unconscious, dangerous violence that&nbsp;is really lurking in every patch of earth. It is just there, everywhere trying to get you so that&nbsp;you have to be on your guard at all times. (…)</blockquote> <p>The grim description endows the image with&nbsp;an eerie atmosphere: the restaurant (with its crimson color) and the wooden bridge are gradually transformed into&nbsp;a&nbsp;sacrificial site as Smithson tells the story of the bloody vegetational rites. At the same time, however, one may get the impression that&nbsp;Smithson is distancing himself from&nbsp;the terror which he stimulates. Notice the offhand diction when he says that&nbsp;the Mayans “would take a&nbsp;young boy, and slice him all up”; or the macabre insouciance of the statement that&nbsp;Hart Crane “was completely cut to ribbons”. Thus, although Smithson warns the audience against&nbsp;the “unconscious, dangerous violence” which lurks in Mexico (and perhaps also in the images of Hotel Palenque), he himself seems unaffected by it. He is in on his guard, and his guard is irony.</p> <p>Also perhaps because Smithson uses the Mayan context so many times, it starts to sound unconvincing, as if it was a&nbsp;tourist’s latest thrill rather than&nbsp;a&nbsp;genuine recognition of some essential existential truth. Later on in the commentary –&nbsp;of which I&nbsp;have quoted only half –&nbsp;Smithson tells a&nbsp;story far different from&nbsp;the one with&nbsp;which he began. It is the story of a&nbsp;hippy who came to Palenque to work (for free) for&nbsp;a&nbsp;local farmer –&nbsp;“a kind of romantic flower-power idea,” Smithson adds. On his first day at work, however, the hippie was supposed to help castrate cattle, could not take it, and so –&nbsp;quit the job… The story not only undermines the profound intensity of the initial remarks, but&nbsp;may in itself be seen as a&nbsp;critique of narrative ideologies which belie reality, whether they are New Age narratives of peace and love, Emersonian narratives of nature and Over-soul, or Hegelian narratives of spirit.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5106-1-pb-1920x-8dd.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5106-1-pb-330x-4e6.jpg 330w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5106-1-pb-660x-29b.jpg 660w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5106-1-pb-768x-494.jpg 768w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5106-1-pb-1320x-1d9.jpg 1320w" src="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5106-1-pb-660x-29b.jpg" alt="" ></a>    <figcaption><p>Robert Smithson, Hotel Palenque, 1969, Art © Holt-Smithson Foundation/Licensed by VAGA, New York, NY, slide 23</p></figcaption>   </figure>  </section><section class="u-typo">   <p>All throughout Hotel Palenque Smithson employs this&nbsp;strategy of spinning narrative sequences, some of which are overt yarns, others faint echoes of various philosophical discourses; some witty pastiches, and others downright parodies. A&nbsp;further example, the artist’s discussion of the following&nbsp;picture.</p> <blockquote>Again in the shadows you can see our car. In the back you can see the sticks, but&nbsp;in the front you see sort of you know, oh, a&nbsp;little pile of cement. It’s hard to say exactly what they are going to do with&nbsp;that. There it is, just for&nbsp;itself. I&nbsp;mean there is nothing like&nbsp;a&nbsp;pile of cement just as cement. It’s not going anywhere, it’s just there, just think of it and dig it for&nbsp;its cementness. (…)</blockquote> <p>Again, of course, the car cannot be seen, no matter how hard we look. This&nbsp;oft-repeated gesture of pointing to something which obviously isn’t there appears to be Smithson’s strategy of suggesting the constant use of irony in his lecture. No suggestions are necessary, however, to immediately recognize the parodic character of the ‘pile of cement episode’. It seems a&nbsp;sort of phenomenological stutter, but&nbsp;also –&nbsp;in reference to Williams’s poetry –&nbsp;it resembles, in an exaggerated and humorous way of course, the rhetoric employed by many critics and readers of poems such as The Red Wheelbarrow. Alan Ostrom for&nbsp;example believes that:</p> <blockquote>Williams has brought attention to the things of our world. By insisting upon&nbsp;“no ideas but&nbsp;in things” he has forced his readers (many of them poets themselves) to discard their assumptions about&nbsp;the world, assumptions, for&nbsp;the most part, that&nbsp;permit men to avoid having to look at things; he has forced them to examine the objects in his poems for&nbsp;what they are in themselves, not for&nbsp;what they represent.<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup></blockquote> <p>What “they represent,” however, is highly perplexing to critics, for&nbsp;it seems to paralyze critical discourse as such, that&nbsp;is –&nbsp;discourse which attempts to translate the effect of that&nbsp;ocular examination of things into&nbsp;the language of general determinate concepts. As Ostrom adds elsewhere: “To attempt any discussion of ‘meanings’ would thus be a&nbsp;pointless effort here; such an attempt is the proper burden of an entirely different sort of work in which a&nbsp;few poems can be considered in great detail and from&nbsp;varying points of view”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. Of course Ostrom, in his incisive study, does not always decline to interpret Williams’s poems. But&nbsp;in my own essay I&nbsp;would like&nbsp;to focus not so much on their ‘meanings’, ethical, ontological or otherwise, as on the way Williams questions the very notion of poetic significance. This&nbsp;does not mean that&nbsp;I&nbsp;wish to present him as an artist concerned solely with&nbsp;the formal qualities of poetry. Although Williams was greatly inspired by the avant-garde visual arts of the day, and although he is known to have discussed poetry in terms of painting and to have remarked that&nbsp;it is not made of beautiful thoughts but&nbsp;of words on the page, it does not necessarily follow that&nbsp;Williams was an irrational poet, as one of the popular tags applied to his work claims. In fact, he is at times over-rational; not only a&nbsp;poet of immediacy, or –&nbsp;as Allen Ginsberg put it –&nbsp;a&nbsp;poet of things as symbols of themselves, but&nbsp;also a&nbsp;careful critic of the rhetorical strategies which establish such aesthetic ideologies of immediacy. Williams very often overtly invites all the “varying points of view” which Alan Ostrom says have to be adopted in order to fully grasp the ‘meaning’ of the poems; but&nbsp;Williams also plays fast and loose with&nbsp;these points of view –&nbsp;just as Smithson does in Hotel Palenque.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5108-1-pb-1920x-10e.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5108-1-pb-330x-ac9.jpg 330w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5108-1-pb-660x-6f3.jpg 660w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5108-1-pb-768x-22d.jpg 768w,assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5108-1-pb-1320x-8cc.jpg 1320w" src="assets/cache/images/issues/2015/12/vagaries-of-imagination/358-5108-1-pb-660x-6f3.jpg" alt="" ></a>    <figcaption><p>Robert Smithson, Hotel Palenque, 1969, Art © Holt-Smithson Foundation/Licensed by VAGA, New York, NY, slide 25</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Let us leave Hotel Palenque through&nbsp;the door which appears in the 30<sup>th</sup> and final photograph of the project.</p> <blockquote>There’s not really much you can say about&nbsp;it, I&nbsp;mean it’s just a&nbsp;green door. We’ve all seen green doors at one time in our lives. It gives out a&nbsp;sense of universality that&nbsp;way, a&nbsp;sense of kind of global cohesion. The door probably opens to nowhere and closes on nowhere so that&nbsp;we leave the Hotel Palenque with&nbsp;this closed door and return to the University of Utah.</blockquote> <p>Similarly –&nbsp;what is there really to say about&nbsp;Williams’s Lines? I&nbsp;quote the entire poem:</p> <blockquote>Leaves are greygreen,<br> the glass broken, bright green.</blockquote> <p>We should perhaps ask ourselves the one basic question here: Can Smithson’s comments be disregarded altogether? After&nbsp;all, the author himself undermines their validity, and not only by means of ironic allusion, but&nbsp;sometimes overtly. At one point Smithson tells the audience that: “It should be starting to take shape in your mind at this&nbsp;point. You should be getting the point that&nbsp;I&nbsp;am trying to make, which is no point actually.” Such a&nbsp;blatant declaration confirms, as one may suppose, the impression that&nbsp;the photographs of Hotel Palenque are to be appreciated solely for&nbsp;their formal qualities, coloristic and linear, and for&nbsp;their ambience, rather than&nbsp;the content which Smithson reads into&nbsp;them. If anything, the only comments which can be taken seriously are the artist’s observations on form, and his true intention is perhaps revealed when he says: “I thought it might be an interesting thing for&nbsp;you to see just as a&nbsp;shape, as a&nbsp;form.”</p> <p>But there remains a&nbsp;doubt. Is not the formal purposiveness of shapes and forms, and the interest we might take in them, equally the result of Smithson’s narrative? Let us take the red flower to which our attention is directed in one of the photographs: Is its importance immanent in the composition of the photograph, or is it the function of the formalist discourse employed by Smithson? Of course, no definite answer can be given here. The point is that&nbsp;Smithson’s ironic strategies make the formulation of such a&nbsp;question possible in the first place. They offer a&nbsp;new perspective by putting the viewer on guard, by, for&nbsp;example, making them aware of the way in which perception (that, in other words, which defines a&nbsp;viewer) is in fact textual –&nbsp;a&nbsp;matter of narration. Thus, Smithson’s project becomes a&nbsp;critique of what I&nbsp;have referred to as the aesthetics of immediacy or the aesthetics of natural revelation, of which the paradigmatic representative –&nbsp;in America –&nbsp;is Transcendentalism, and in Europe –&nbsp;Romantic aesthetics with&nbsp;its basic tenets formulated by Kant. It is interesting, however, that&nbsp;this critique cherishes the notion of nature as fable and myth, as Thoreau put it, while at the same it undermines the revelatory character of such fables and myths. Smithson, for&nbsp;example, obviously celebrates and delights in the imaginative act of reading the phenomena which he has recorded with&nbsp;his camera, although at the same time he will mock those readings by –&nbsp;more or less overtly –&nbsp;suggesting that&nbsp;he is simply spinning a&nbsp;yarn. Williams often does a&nbsp;similar thing, and in various other ways as well, for&nbsp;which he was once reprimanded by Hilda Doolittle who said:</p> <blockquote>It is as if you were ashamed of your Spirit, ashamed of your inspiration! –&nbsp;as if you mocked your own song. It is very well to mock at yourself –&nbsp;it is a&nbsp;spiritual sin to mock at your inspiration.<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup></blockquote> <p>Williams’s work in the period which is my reference point here, between&nbsp;1917 and 1923, reveals a&nbsp;similar tension –&nbsp;or perhaps simply play –&nbsp;between&nbsp;image and discourse as we find in Smithson’s Hotel Palenque. The simplicity of the image, for&nbsp;example that&nbsp;of the “Red Wheelbarrow,” so guilelessly and ‘naturally’ presented in the poem, is placed in the context of a&nbsp;particularly complex, or even obscure and almost entirely hermetic discourse, which at times is in the mode of critical or philosophical speculation, at times resembles William Blake’s prophetic writing, and at times is autobiographical. Most importantly, however, Williams also employs that&nbsp;tone of ironic innuendo (or even downright sarcasm) that&nbsp;I&nbsp;have pointed to in Smithson’s lecture. This&nbsp;is especially evident in the 1923 Spring and All volume, and in the earlier book of improvisations, Kora in Hell. To read Williams’s poems outside&nbsp;this context is of course still enjoyable, but&nbsp;our understanding of them may be limited and some of their nuances may go unnoticed. This&nbsp;constant play between&nbsp;image and discourse may be said to depend upon&nbsp;two basic but&nbsp;opposing realizations (and in fact two major themes of Williams’s oeuvre) which I&nbsp;can provisionally describe here as 1) the despoilment of imagination, and 2) the inadequacy (or deficiency) of discursiveness.<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup></p> <p>However, the poems themselves are not only reports of this&nbsp;or other immediate sensation, as in “Lines” or “The Red Wheelbarrow,” but&nbsp;they also include a&nbsp;critical meta-perspective, a&nbsp;scrutiny of their own aesthetic status and rhetorical modes. Thus, far from&nbsp;being symbols of themselves (i.e. of what they immediately present), symbols whose natural significance is supposedly pre-textual, and transcends discursive qualification (“beyond words” as Williams says in one of the three poems in Ale Que Quiere entitled “Pastoral”), the poems are self-referential commentaries, disclosing –&nbsp;often in an ironic way –&nbsp;their rhetorical establishment, or their purely narrative character. Williams does not simply record ‘raw data’ –&nbsp;on another level he continually engages in a&nbsp;critique of traditional philosophical and aesthetic concepts (and their underlying tenets) of which imagination is the most important.<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Ann Reynolds, <em>Robert Smithson: Learning from New Jersey and Elsewhere</em> (Cambridge, Mass.: The MIT Press, 2003), 10.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Gary Shapiro, <em>Earthwards: Robert Smithson and Art after Babel</em> (Berkeley: University of California Press, 1995), 3.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Ibid., 7.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Ibid., 5.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Ibid., 14.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Ibid., 7.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Robert Frost, “Hyla Brook”, in <em>The Poetry of Robert Frost</em> (New York: Henry Holt and Company, 1979), 119.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Robert Smithson was killed in a plane crash in 1973 while surveying his latest earthwork, Amarillo Ramp, in Tecovas Lake, Texas.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Quoted after Guy Rotella, <em>Reading &amp; Writing Nature: The Poetry of Robert Frost, Wallace Stevens, Marianne Moore and Elizabeth Bishop</em> (Boston: Northeastern University Press, 1991), 26.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> William Carlos Williams, <em>The Collected Poems</em>, vol. 1: 1909-1939 (Manchester: Carcanet Press Ltd., 2000), 64.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Such implications, however, are to be found in other poems of the same volume; for example in “Gulls,” and in another poem also titled “Pastoral.”</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> William Carlos Williams, <em>The Collected Poems</em>, 71.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Quoted after Carl Rapp, <em>William Carlos Williams and Romantic Idealism</em> (London: Brown University Press, 1984), 66.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> “No ideas but in things”, says Williams, but – as I will later try to show – his poems often suggest something different: No things <u>but for</u> ideas.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> William Carlos Williams, <em>Kora in Hell: Improvisations</em> (Boston: The Four Seas Company, 1920), 11.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Alan Ostrom, <em>The Poetic World of William Carlos Williams</em> (Carbondale: Southern Illinois University Press, 1966), 21.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ibid., 29.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> William Carlos Williams, <em>Kora in Hell: Improvisations</em>, 15.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> I have coined the term “the despoilment of imagination” in reference to the following passage from the Prologue to Kora in Hell (Williams is talking of his mother here, but in the context of the entire Prologue it is also clear that he is making a theoretical statement and has in mind – as usual – the notion of imagination): “She is a creature of great imagination. I might say this is her sole remaining quality. She is a despoiled, moulted castaway but by this power she still breaks life between her fingers” (<em>Kora in Hell</em>, 11, emphasis added).</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> For a more detailed discussion of the way in which Williams grapples with the idealistic notion of the creative imagination, see my essay “Perplexing Immediacy: The Early Poetry of William Carlos Williams”, <em>Soundings: An Interdisciplinary Journal</em> 86 (2007): 347-378.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/the-vagaries-of-imagination" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

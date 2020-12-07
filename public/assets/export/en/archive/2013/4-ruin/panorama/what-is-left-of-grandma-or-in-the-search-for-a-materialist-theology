@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Co zostaje z babci, czyli w poszukiwaniu materialistycznej teologii... | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/ruinacja/co-zostaje-z-babci-czyli-w-poszukiwaniu-materialistycznej-teologii">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Co zostaje z babci, czyli w poszukiwaniu materialistycznej teologii... | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Co zostaje z babci, czyli w poszukiwaniu materialistycznej teologii... | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/ruinacja/co-zostaje-z-babci-czyli-w-poszukiwaniu-materialistycznej-teologii">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Co zostaje z babci, czyli w poszukiwaniu materialistycznej teologii... | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ffb300 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ffb300 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ffb300 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ffb300 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ffb300 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ffb300 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+			/* background-color:#ffb300 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,179,0,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ffb300 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ffb300; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ffb300 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ffb300 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ffb300 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1232 parent-id-1189">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="422" data-selected-issue-color="#ffb300" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/4-ruin#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/4-ruin/what-is-left-of-grandma-or-in-the-search-for-a-materialist-theology">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/ruinacja#toc">4</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/ruinacja/co-zostaje-z-babci-czyli-w-poszukiwaniu-materialistycznej-teologii?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Co zostaje z babci, czyli w poszukiwaniu materialistycznej teologii fotografii i filmu</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/ruinacja/co-zostaje-z-babci-czyli-w-poszukiwaniu-materialistycznej-teologii?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=314">Adam Lipszyc</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Dla Tomka Majewskiego, kierownika filii Uniwersytetu Muri im. Franza Kafki<br> w&nbsp;Niebiescerze, który kazał nam czytać Kracauera</p> <p></p> <p>Czy istnieje coś takiego jak materialistyczna teologia fotografii i/lub filmu? Być może tak – i&nbsp;to właśnie chciałbym sprawdzić, zaglądając do tekstów Siegfrieda Kracauera. Skupiam się przede wszystkim na&nbsp;dwóch, bez wątpienia nierównorzędnych pracach: na&nbsp;wczesnym eseju zatytułowanym <em>Die Photographie</em> (<em>Fotografia</em>; 1927) oraz klasycznej <em>Teorii filmu</em> (1960) będącej <em>opus magnum</em> autora. Zanim jednak przyjrzę się tym tekstom, chciałbym gwoli wprowadzenia rzucić okiem na&nbsp;dwa inne eseje Kracauera, które pozwolą nam uchwycić szerszy kontekst, a&nbsp;zarazem i&nbsp;właściwą – nader wysoką – stawkę jego prac o&nbsp;fotografii i&nbsp;filmie.</p> <p>Pierwszym z&nbsp;nich jest głośny tekst <em>Das Ornament der Masse</em> (<em>Ornament masy</em>) opublikowany w&nbsp;tym samym roku, co esej o&nbsp;fotografii, i&nbsp;w szczególny sposób wyróżniony przez samego autora: gdy w&nbsp;roku 1963 ukazywał się wybór jego prac z&nbsp;okresu weimarskiego, tytuł tego eseju posłużył Kracauerowi za&nbsp;tytuł całego tomu<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. I&nbsp;słusznie. W&nbsp;tym ważnym szkicu Kracauer w&nbsp;sposób niezwykle klarowny szkicuje swoją nader rozsądną – a&nbsp;w owych czasach nowatorską – strategię badawczą i&nbsp;przedstawia jej błyskotliwe zastosowanie, które pozwala mu postawić diagnozę współczesngo społeczeństwa, wpisaną na&nbsp;dodatek w&nbsp;pewien wyraziście zarysowany schemat historiozoficzny – a&nbsp;wszystko to na&nbsp;niespełna piętnastu stronach tekstu. Owa strategia wygląda następująco: po&nbsp;to, by wskazać „miejsce, jakie dana epoka zajmuje w&nbsp;procesie historycznym” (OM, s.50), lepiej przyglądać się zjawiskom stanowiącym jej powierzchniową ekspresję niż jej wyrafinowanym intelektualnie samoopisom, takie zjawiska bowiem – generowane nieświadomie – dają bezpośredni wgląd w&nbsp;naturę epoki. Z&nbsp;drugiej strony, analiza tego rodzaju ekspresji epoki wymaga ulokowania ich w&nbsp;szerokim kontekście procesu historycznego. Strategia badawcza Kracauera skonstruowana jest zatem rozmyślnie w&nbsp;sposób kolisty czy raczej dialektyczny: powierzchniowe zjawiska pozwalają uchwycić tendencje historyczne, a&nbsp;owe tendencje zwrotnie oświetlają sens zjawisk.</p> <p>Zjawiskiem, które Kracauer bierze pod&nbsp;lupę w&nbsp;swoim eseju, są popularne w&nbsp;owym czasie kolektywne pokazy gimnastyczne, zapoczątkowane przez niejakiego Johna Tillera. Posługując się pewną wersją nieco już wówczas zbanalizowanego przeciwstawienia wspólnoty i&nbsp;społeczeństwa, Kracauer odróżnia organiczne formy rytualnego ornamentu złożonego z&nbsp;ludzi żyjących w&nbsp;tradycyjnej wspólnocie od owych geometrycznych układów dziewczęcych ciał. Ornament masowy jest precyzyjnie odmierzony i&nbsp;doskonale autoteliczny. Tworzące go ciała ulegają całkowitej deseksualizacji, a&nbsp;także fragmentacji, liczą się bowiem przede wszystkim jako zbiór członków do wykorzystania w&nbsp;geometrycznej, masowej konstrukcji, nie zaś jako ciała poszczególnych jednostek. Wedle Kracauera to z&nbsp;pozoru poboczne zjawisko wykazuje silną analogię wobec kapitalistycznego systemu produkcji, który ma charakter równie zmechanizowany i&nbsp;autoteliczny. Co więcej, los robotnika włączonego w&nbsp;ów proces produkcji przypomina do złudzenia los dziewczyny z&nbsp;układów Tillera: również i&nbsp;on nie ogarnia całego procesu, nie stanowi też jednak części pewnej organicznej całości, a&nbsp;jedynie fragmentaryczny element mechanicznej konstrukcji. Pisze Kracauer: „Nogom tillerówek odpowiadają ręce w&nbsp;fabrykach. (…) Ornament masowy to estetyczne odzwierciedlenie racjonalności, do której dąży panujący system gospodarczy” (OM, s.54).</p> <p>Pojęcie racjonalności jest zasadniczą kategorią schematu historiozoficznego, który szkicuje Kracauer. Przyjęło się już dziś, by w&nbsp;schemacie tym upatrywać źródeł idei „dialektyki oświecenia”, którą w&nbsp;swojej słynnej książce rozwijają Theodor W. Adorno i&nbsp;Max Horkheimer. Nie ma powodu, by kwestionować to rozpoznanie, choć warto zaznaczyć, że&nbsp;kreśląc swój schemat Kracauer także przecież nie zaczyna od zera: wyraźnie widać tu wpływy Waltera Benjamina oraz György Lukácsa jako interpretatora myśli Marksowskiej. Zgodnie z&nbsp;tym schematem proces dziejowy to historia zmagań rozumu z&nbsp;siłami natury, a&nbsp;zarazem proces odczarowania i&nbsp;demitologizacji świata, mit bowiem stanowi formację historiozoficzną, która afirmuje panowanie natury nad człowiekiem pod&nbsp;postacią niewzruszonego losu. Rozum wydobywa człowieka z&nbsp;natury i&nbsp;mitu, zmierzając ku prawdzie i&nbsp;sprawiedliwości – ku sprawiedliwemu porządkowi przyszłego, prawdziwego, doskonale ujednostkowionego człowieczeństwa, którego antycypację odnajdujemy w&nbsp;bajkach, stanowiących model prawdziwej racjonalności (OM, s.55-56)<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>.</p> <p>Na tle tego schematu epoka kapitalistyczna zajmuje pozycję dwuznaczną. Kracauer odróżnia pełny, niezdeformowany „rozum bajkowy” od jednowymiarowej – dziś powiedzielibyśmy za&nbsp;Horkheimerem: instrumentalnej – kapitalistycznej <em>ratio</em>. Jako „rozum zmącony” (OM, s.57) <em>ratio</em> ma charakter obosieczny. Z&nbsp;jednej strony jest, owszem, potężnym narzędziem demitologizacji, odczarowania i&nbsp;rozbicia wszystkiego, co organiczne. Kracauer zgłasza akces do tradycji oświeceniowej i&nbsp;nie wzdycha bynajmniej za&nbsp;wspólnotą rozbitą przez <em>ratio</em>. W&nbsp;jego przekonaniu – pod&nbsp;którym podpisałby się każdy marksista – kapitalizm „nie racjonalizuje za&nbsp;bardzo, lecz za&nbsp;mało” (OM, s.57). Albowiem, z&nbsp;drugiej strony, <em>ratio</em> staje się teraz przeszkodą na&nbsp;drodze ku urzeczywistnieniu rozumu i&nbsp;„nadejściu człowieka” (OM, s.59). Dzieje się tak dlatego, że&nbsp;jako czysto instrumentalna ma ona także charakter doskonale abstrakcyjny. W&nbsp;rezultacie – i&nbsp;tutaj dokonuje się zgubna, dialektyczna przewrotka – z&nbsp;narzędzia demitologizacji, z&nbsp;najskuteczniejszej broni w&nbsp;ręku człowieka <em>ratio</em> przeradza się w&nbsp;najgroźniejszą przeciwniczkę ludzkiej jednostkowości, niespodziewaną stronniczkę remitologizacji i&nbsp;recydywy mrocznej, niemej natury (OM, s.59, 61, 63). Ornament masowy stanowi najczytelniejszą wizualizację tego ponurego procesu. Nie zmienia to faktu, że&nbsp;droga ku prawdziwej racjonalności i&nbsp;ku nowemu ornamentowi, w&nbsp;jaki prawdziwe życie ludzkie zaplata się w&nbsp;bajkach, wiedzie „poprzez” ornament masowy nie zaś wstecz – ku ornamentom mitycznym. Kracauer, który z&nbsp;tradycji marksistowskiej zapożycza schematy i&nbsp;diagnozy, lecz niekoniecznie recepty, wszelako nie mówi nam, jak miałoby wyglądać owo utopijne przejście.</p> <p>Idea społeczeństwa opartego na&nbsp;instrumentalnej <em>ratio</em> pojawia się już we wcześniejszej pracy Kracauera, czyli w&nbsp;nader zajmującym „traktacie filozoficznym” poświęconym „powieści detektywistycznej”. Rzecz powstawała w&nbsp;latach 1922-1925, lecz za&nbsp;życia autora opublikowany został tylko jeden rozdział, „Die Hotelhalle” (Hol hotelowy), który – wraz z&nbsp;metodologicznym fragmentem rozdziału poprzedniego – pomieścił Kracauer w&nbsp;tomie <em>Das Ornament der Masse</em><sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Zasadniczymi źródłami inspiracji dla tej znakomitej rozprawy są pisma Sørena Kierkegaarda oraz prace wczesnego, kierkegaardyzującego Lukácsa, nie zaś Karola Marksa. Stąd właśnie, jak się zdaje, nie odnajdziemy tutaj rozróżnienia na&nbsp;wrażą <em>ratio</em> i&nbsp;dzielny rozum: Kracauer nie jest jeszcze chyba miłośnikiem oświecenia i&nbsp;pojęcie <em>ratio</em>, które jest określeniem zdecydowanie pejoratywnym, zdaje się tu obejmować racjonalność jako taką. Nie wydaje się więc również, by na&nbsp;tym etapie Kracauer optował za&nbsp;dialektycznym rozwiązaniem z&nbsp;eseju o&nbsp;ornamencie, zgodnie z&nbsp;którym zintensyfikowanie dobrze pojętej racjonalizacji mogłoby wydobyć z&nbsp;impasu społeczeństwo oparte na&nbsp;<em>ratio</em>. Wygląda po&nbsp;prostu na&nbsp;to, że&nbsp;my, ludzie nowocześni, zostaliśmy wygnani ze sfery religijnej, w&nbsp;której „ukazują się imiona” stłumione w&nbsp;naszym marnym, zracjonalizowanym, odczarowanym świecie, teraz zaś możemy chyba tylko czekać Mesyjasza<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Te kwestie mają zasadnicze znaczenie dla wymowy całego traktatu, który skądinąd zasługuje na&nbsp;odrębną, szczegółową analizę jako rozprawa o&nbsp;naturze nowoczesności i&nbsp;nieoczywistych relacjach między sferą estetyczną a&nbsp;teologiczną we współczesnym świecie. Tutaj interesuje mnie przede wszystkim portret społeczeństwa opartego na&nbsp;<em>ratio</em>, proponuję więc dla wygody zerknąć jedynie na&nbsp;ów wyróżniony przez autora rozdział o&nbsp;holu hotelowym, gdzie portret ten nakreślony zostaje w&nbsp;sposób szczególnie klarowny i&nbsp;ekscytujący.</p> <p>Jest to portet społeczeństwa „odrealnionego”, które zostaje „domyślane do końca” w&nbsp;ultraracjonalistycznym uniwersum powieści detektywistycznej. Pisze Kracauer: „Tak jak detektyw odkrywa tajemnicę ukrytą między ludźmi, powieść detektywistyczna odsłania w&nbsp;medium estetycznym tajemnicę odrealnionego społeczeństwa i&nbsp;zaludniających go, pozbawionych substancji marionetek” (OM, s.159). Wyróżnioną przestrzenią tej prezentacji jest właśnie hol hotelowy, który Kracauer przedstawia jako dokładne przeciwieństwo „domu Bożego”, jako „kościół negatywny” (ibidem). O&nbsp;ile bowiem kościół miałby być przestrzenią, w&nbsp;której gromadzi się wspólnota, by w&nbsp;oniemieniu spotkać się z&nbsp;tajemnicą transcendencji po&nbsp;kierkegaardowsku przekraczającej prawo, o&nbsp;tyle hol hotelowy jest miejscem, w&nbsp;którym gromadzą się odrealnione marionetki, zatomizowani obywatele społeczeństwa opartego na&nbsp;instrumentalnej <em>ratio</em>, by w&nbsp;martwej, głuchej ciszy spotkać się z&nbsp;prawdą o&nbsp;pustce swego życia, a&nbsp;jedyną tajemnicą pozostaje zagadka kryminalna, którą musi rozwiązać detektyw. W&nbsp;holu hotelowym znajdujemy się dosłownie „<em>vis à vis de rien</em>”, w&nbsp;przestrzeni „nagiej luki” (OM, s.161), gdzie równość między ludźmi ustanowiona zastaje nie tyle przez odniesienie do Boga – jak w&nbsp;kościele – ile przez „odniesienie do nicości” (OM, s.163). Społeczeństwo współczesne, domyślane do końca w&nbsp;kryminale, jest więc zbieraniną marionetek skupionych wokół wielkiego Nic, które stanowi odpowiednik i&nbsp;zaprzeczenie transcendentnego Boga.</p> <p>Te właśnie analizy współczesności pomieszczone w&nbsp;eseju o&nbsp;ornamencie masowym i&nbsp;traktacie o&nbsp;powieści detektywistycznej stanowią właściwe tło eseju poświęconego fotografii. Pod&nbsp;względem ogólnego schematu historiozoficznego bliżej tutaj Kracauerowi do analiz ornamentu – jak wspominałem, esej o&nbsp;fotografii i&nbsp;szkic o&nbsp;ornamencie pochodzą z&nbsp;tego samego roku – a&nbsp;zarazem wyczuwa się tu również ową upiorną atmosferę, jaka panuje w&nbsp;rozprawie o&nbsp;kryminale. Fotografia zostaje ostro przeciwstawiona dziełu sztuki i&nbsp;– podobnie jak ornament masowy – zaprezentowana jako charakterystyczna ekspresja współczesnego społeczeństwa, która daje wyjątkowy wgląd w&nbsp;jego naturę i&nbsp;miejsce w&nbsp;procesie dziejowym. Z&nbsp;eseju o&nbsp;ornamencie wiemy już, że&nbsp;owo miejsce to punkt krytyczny; teraz dowiadujemy się czegoś, co tam pozostało niedopowiedziane: że&nbsp;jest to punkt skrajnego ryzyka, moment szalonej gry o&nbsp;najwyższą stawkę, w&nbsp;którym ludzkość może wszystko wygrać albo wszystko przegrać.</p> <p>W trzeciej cząstce eseju, wychodząc od rozsądnych oczywistości, a&nbsp;kończąc na&nbsp;metafizycznych ekstrawagancjach, kreśli Kracauer pewną koncepcję pamięci (OM, s.24-26). Pamięć nie rejestruje wszystkiego, co się zdarza, lecz selekcjonuje i&nbsp;kondensuje swoje dane, tu i&nbsp;ówdzie dodając akcenty, przeskakując lata lub rozdymając całe okresy. W&nbsp;ten sposób powstają obrazy pamięciowe, które pozostają niejasne, matowe, „demonicznie dwuznaczne”, dopóki praca pamięci splata się z&nbsp;naszym życiem popędowym. Prześwietlone przez świadomość rozmaite obrazy człowieka, rzeczy czy wydarzenia redukują się wszakże – w&nbsp;punkcie zbiegu – do „obrazu ostatecznego”, który utożsamia Kracauer z&nbsp;„zawartością prawdy” owego szeregu obrazów, z&nbsp;tym, co w&nbsp;danej rzeczy „niezapomniane”, z&nbsp;jej właściwą „historią”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Obraz ostateczny nie rejestruje powierzchni tego, co pamiętane, lecz prawdę o&nbsp;tej rzeczy. Proces destylacji pozwala zatem wytrącić prawdę z&nbsp;mętnej sfery pośredniej, w&nbsp;którym obrazy błąkały się między powierzchnią rzeczy a&nbsp;jej prawdą, dwuznacznie łącząc w&nbsp;sobie moment zafałszowania w&nbsp;stosunku do mimetycznej rejestracji i&nbsp;moment aproksymacji prawdy właściwej. Jeszcze inną nazwą tego pamięciowego destylatu prawdy jest „monogram”, w&nbsp;którym szereg redukujących się stopniowo obrazów pamięciowych osiąga status imienia, a&nbsp;imię przybiera postać obrazu i&nbsp;jako takie może zostać zachowane w&nbsp;pamięci. Tak pojęty monogram – imię-jako-obraz, obraz-jako-imię – utożsamia wreszcie Kracauer z&nbsp;„bajkowym ornamentem”, o&nbsp;którym – jako figurze utopijnej – mogliśmy już dowiedzieć się co nieco z&nbsp;lektury eseju o&nbsp;ornamencie.</p> <p>Tak zarysowana koncepcja pamięci pozwala Kracauerowi nakreślić ostrą opozycję między dziełem sztuki a&nbsp;fotografią. Warto zauważyć, że&nbsp;przywołując po&nbsp;raz pierwszy kategorię dzieła sztuki, Kracauer ujmuje ją w&nbsp;dystansujący cudzysłów i&nbsp;zastrzega, że&nbsp;idzie tu o&nbsp;dzieło sztuki w&nbsp;pewnej określonej epoce, która rozpoczęła się wraz z&nbsp;renesansem, a&nbsp;dziś może dobiega końca (OM, s.26-27). Tak czy owak, klasyczne dzieło sztuki stara się uchwycić monogram ludzi i&nbsp;rzeczy, to, co w&nbsp;nich niezapomniane, ich prawdę i&nbsp;historię. Samo dzieło z&nbsp;czasem ulega erozji, często jednak ów rozpad okazuje się nader fortunny, wspomaga bowiem proces destylacji monogramu. Tymczasem fotografia lokuje się na&nbsp;antypodach tak pojętej sztuki. Spokrewniona jest nie tyle z&nbsp;selektywną i&nbsp;modyfikacyjną pracą pamięci, ile z&nbsp;historystyczną praktyką nauki o&nbsp;dziejach, która stara się skompletować pełny rejestr wydarzeń. Dlatego też zamiast ekstrahować to, co niezapomniane, monogram rzeczy, fotografia chwyta powierzchnię rzeczy i&nbsp;ulotny moment. Kracauer ujmuje to w&nbsp;eleganckiej formule: „Albowiem w&nbsp;dziele sztuki znaczenie przedmiotu staje się zjawiskiem przestrzennym, podczas gdy na&nbsp;fotografii zjawisko przestrzenne staje się jego znaczeniem” (OM, s.27).</p> <p>Posługując się terminologią Kracauera, można zatem powiedzieć, że&nbsp;fotografia pozbawiona jest momentu imienia i&nbsp;prawdy. Ściślej rzecz ujmując, chwyta ona dokładnie te elementy rzeczy, które nie mogą stać się częścią jej ostatecznego obrazu pamięciowego, które ulegają wyeliminowaniu w&nbsp;alchemicznym procesie ekstrakcji monogramu. Fotografia przechowuje właśnie to, co odrzuca destylacyjna pamięć, gromadzi materialne ścinki, resztki, odpadki. Prawidłowość ta staje się szczególnie dojmująca, gdy fotografia bierze za&nbsp;przedmiot postać ludzką. Musi wówczas mieć w&nbsp;sobie coś upiornego, widmowego. Fotograficzny portret babci z&nbsp;czasów młodości – to kardynalny przykład Kracauera – nie uwiecznia jej samej, jej imienia i&nbsp;prawdy o&nbsp;niej, lecz „całą resztę”: strój i&nbsp;fryzurę zgodne z&nbsp;ulotną modą epoki, ale nic ponadto. Na&nbsp;fotografii nie widać zatem babci, lecz coś w&nbsp;rodzaju krawieckiego manekina, czy też – jeszcze dokładniej – pustkę przybraną w&nbsp;stare szmatki. Jeśli zaś proces ekstrakcji monogramu i&nbsp;zawartości prawdy to także – w&nbsp;języku teologicznym – proces zbawienia, to fotografia przechowuje materialne łupiny, które pozostają niczym odpadki po&nbsp;owym procesie. W&nbsp;najbardziej poruszającym, prawdziwie upiornym fragmencie eseju Kracauer pisze: „Ta widmowa rzeczywistość to rzeczywistość <em>niezbawiona</em>. Składa się z&nbsp;ulokowanych w&nbsp;przestrzeni części, których związek jest w&nbsp;tak niewielkim stopniu konieczny, że&nbsp;można je sobe także pomyśleć w&nbsp;innym układzie. Te rzeczy trzymały się nas niegdyś tak, jak nasza skóra i&nbsp;nasze własności dziś jeszcze nas się tak trzymają. Trwamy w&nbsp;niczym, a&nbsp;<em>fotografia gromadzi fragmenty wokół nicości</em>. Gdy babcia stała przed obiektywem, przez sekundę obecna była w&nbsp;kontinuum przestrzennym, które użyczało się aparatowi. Uwieczniona została jednak nie babcia, lecz ten właśnie aspekt. Człowieka, który ogląda stare fotografie, przechodzą dreszcze. Zdjęcia te bowiem nie uwidaczniają wiedzy o&nbsp;oryginale, lecz przestrzenną konfigurację pewnej chwili; to nie człowiek ukazuje się na&nbsp;fotografii, lecz suma tego, co można od niego oddzielić. Odzwierciedlając człowieka, fotografia go unicestwia i&nbsp;gdyby się miał z&nbsp;nią pokrywać, po&nbsp;prostu by nie istniał” (OM, s.32; pierwsze wyróżnienie Kracauera, drugie – moje).</p> <p>Zdecydowane rozróżnienie między dziełem sztuki a&nbsp;fotografią, między pracą pamięci zmierzającą do zbawiennej prawdy a&nbsp;powierzchniową rejestracją zachowującą niezbawione odpadki, może oczywiście budzić poważne wątpliwości. Czy – by zadać tylko jedno z&nbsp;wielu pytań, jakie narzucają się w&nbsp;tym kontekście – fotografia, właśnie rejestrując powierzchnię i&nbsp;ulotny moment, naprawdę nie jest w&nbsp;stanie uchwycić „monogramu”, prawdy ukazującej się przecież dopiero w&nbsp;strumieniu czasu i&nbsp;krystalizującej się na&nbsp;powierzchni rzeczy jako jej „historia”? Wydaje się jednak, że&nbsp;zamiast kwestionować ową opozycję, płodniej jest utrzymać ją na&nbsp;próbę w&nbsp;tak wyostrzonej postaci i&nbsp;zastanowić się nad czymś innym: a&nbsp;mianowicie nad pozornie naiwnym pytaniem o&nbsp;to, jak Kracauer ocenia wynalazek fotografii.</p> <p>Ta kwestia wydaje się prosta. Spore partie wywodu Kracauera sprawiają wrażenie jednoznacznej krytyki fotografii: zwłaszcza porównanie do topornego historyzmu sugeruje, że&nbsp;Kracauer bierze stronę pamięci przeciw fotografii. W&nbsp;tym duchu należy też zapewne odczytywać szóstą cząstkę eseju, w&nbsp;której Kracauer rozważa już nie tyle fotografie sprzed lat, ile wznoszącą się falę fotograficznych obrazów współczesności wypełniających pisma ilustrowane, narastające dążenie do sfotografowania wszystkiego, niszczący atak „śnieżnej zawiei fotografii” (OM, s.34) na&nbsp;ludzką percepcję, świadomość i&nbsp;pamięć, a&nbsp;także na&nbsp;tradycyjne dzieło sztuki<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>, zanik faktycznej wiedzy o&nbsp;rzeczach wywołany nadmiarem fotografii, ostatecznie zaś – metafizyczną przemianę świata w&nbsp;świat fotografowalny. Zgodnie z&nbsp;tezą Kracauera, która pointuje ów wywód, jest to świat dręczony lękiem przed śmiercią, świat, który fotografując się, próbuje śmierci umknąć, w&nbsp;istocie jednak, jako z&nbsp;gruntu jałowy i&nbsp;pusty, pozostaje całkowicie wydany jej władzy (OM, s.35). Krytyczny ton tych analiz nie ulega wątpliwości. A&nbsp;czy podobieństwo między figurami, którymi posługuje się Kracauer w&nbsp;opisach fotografii i&nbsp;holu hotelowego – analogia między wizją fotografii jako obrazu resztek skupionych wokół nicości oraz wizją holu jako miejsca, gdzie gromadzimy się wokół pustki naszego życia – nie sugeruje, że&nbsp;tak jak powieść kryminalna, fotografia domyśla do końca nasz świat i&nbsp;aktywnie uczestnicząc w&nbsp;procesie jego upiornej przemiany, zarazem ujawnia jego prawdę: prawdę o&nbsp;miejscu prawdy pozbawionym, o&nbsp;materialnej konstrukcji wzniesionej wokół pustki, o&nbsp;świecie bez imion?</p> <p>A przecież stosunek Kracauera do fotografii nie jest wcale tak jednoznacznie krytyczny. Świadczy o&nbsp;tym nie tylko niewątpliwa, choć mroczna fascynacja, jaką darzy on fotografię, lecz przede wszystkim miejsce, jakie wedle Kracauera wynalazek fotografii wyznacza w&nbsp;procesie dziejowym. Jest to, jak należało się chyba spodziewać, moment pokrywający się z&nbsp;tym opisanym w&nbsp;eseju o&nbsp;ornamencie. To punkt, zdawałoby się, dopełnienia racjonalnej demitologizacji i&nbsp;doskonałego oderwania człowieka od natury. Zgodnie jednak z&nbsp;dialektyką demitologizacji jest to zarazem moment, gdy mocą przewrotnych mechanizmów społeczeństwa kapitalistycznego naga, niema natura bierze górę nad człowiekiem. Na&nbsp;fotografiach z&nbsp;pism ilustrowanych ukazuje się zarys społeczeństwa całkowicie poddanego naturze. Gdyby to społeczeństwo miało umocnić się w&nbsp;istnieniu, wówczas „nieprzeniknięta świadomością natura zasiadłaby przy stole opuszczonym przez świadomość” (OM, s.37). Zarazem wszakże – twierdzi Kracauer – krytyczny i&nbsp;skrajnie ryzykowny moment oddzielenia świadomości od natury, który dokumentuje fotografia, jest też momentem wielkiej szansy. Dlatego „zwrot ku fotografii” określa on mianem „gry vabank” ludzkiej historii (OM, s.37).</p> <p>Jak jednak miałoby wyglądać zwycięstwo w&nbsp;tej grze? Jak fotografia może się do niego przyczynić? Czy może sprawić, że&nbsp;będziemy „racjonalizować bardziej, a&nbsp;nie mniej”? W&nbsp;zakończeniu eseju Kracauer stara się sformułować odpowiedzi na&nbsp;te pytania, nie wypadają one wszakże ani jasno, ani przekonująco. Jego zdaniem dzięki fotografii po&nbsp;raz pierwszy w&nbsp;dziejach ukazuje się naturalny fundament świadomości, czysta materialność, „łupina” rzeczy. Zadaniem fotografii jest sporządzenie „generalnego inwentarza” tego świata i&nbsp;przekazanie go władzy świadomości, która będzie się z&nbsp;nim mogła „skonfrontować”. Ponieważ świat dany jest nam teraz w&nbsp;postaci skrawków i&nbsp;pozostałości, bez żadnych imion, możemy nim swobodnie rozporządzać, możemy pojąć tymczasowy charakter naturalnej konstytucji świata i&nbsp;samą możliwość jej reorganizacji. Pomocny w&nbsp;tym miałby być zwłaszcza film, którego gra z&nbsp;rzeczami tego świata pokazuje jakoby, że&nbsp;„wciąż nieznana pozostaje wiążąca organizacja [rzeczy], której pewnego dnia musiałyby poddać się wciągnięte do generalnego inwentarza resztki babci i&nbsp;filmowej diwy” (OM, s.39).</p> <p>Trudno oprzeć się wrażeniu, że&nbsp;mamy tu do czynienia z&nbsp;jakimś poważnym zamieszaniem myślowym. Samowolne rozporządzanie naturą to wszak specjalność wyemancypowanej <em>ratio</em>, której działalność dialektycznie obraca świat ludzki w&nbsp;czystą naturę i&nbsp;poddaje człowieka jej mocom. Nie wydaje się zatem, by należało taką samowolę świadomości zalecać. Przede wszystkim jednak – skoro już mamy mówić o&nbsp;fotografii – nie widać, w&nbsp;jaki sposób sporządzony przez nią generalny inwentarz świata miałby dopomóc w&nbsp;wywikłaniu się z&nbsp;dialektyki de- i&nbsp;remitologizacji. Wygląda trochę na&nbsp;to, jakby Kracauer wahał się między odrazą wobec fotograficznego świata bez imion, świata marionetek z&nbsp;łachmanów otulających pustkę, a&nbsp;głęboką fascynacją tym odrealnionym światem. Fascynacja ta mogłaby wypływać z&nbsp;gniewnego, lecz przecież niebezzasadnego przeświadczenia, że&nbsp;naga, bezimienna materia, owe łupiny i&nbsp;drzagi, które stanowią produkt uboczny procesu zbawczej emancypacji, same domagają się zachowania – ocalenia w&nbsp;samej swej niezbawialności. Oficjalnie jednak Kracauer nie podąża tą ścieżką. Finałowi jego eseju patronuje raczej quasi-marksistowska myśl, zgodnie z&nbsp;którą zaawansowana technologia i&nbsp;rozbuchany przemysł grożą całkowitym wymazaniem człowieczeństwa, a&nbsp;zarazem mogą stać się sprzymierzeńcami wyzwolonej ludzkości, jeśli ta zdoła posłużyć się nimi w&nbsp;dziele okiełznania natury. Chyba w&nbsp;takim duchu mówi się tutaj właśnie o&nbsp;fotografii. Zarazem jednak – podobnie jak w&nbsp;eseju o&nbsp;ornamencie – Kracauer nie chce opowiedzieć się po&nbsp;stronie tak czy inaczej pojętej rewolucji. Nie mam zamiaru robić mu z&nbsp;tego powodu wyrzutów, w&nbsp;rezultacie wszakże naprawdę już nie wiadomo, jak fotografia miałaby dopomóc w&nbsp;emancypacji, jak miałaby dokonać się jej przemiana z&nbsp;trucizny w&nbsp;lek. Naprawdę nie wiadomo, dlaczego konfrontacja ze światem naturalnym, którą umożliwia pozytywistyczno-historystyczne archiwum fotografii, miałoby wyjść świadomości na&nbsp;zdrowie, nie widać też, dlaczego właściwie miałoby ono nam uzmysłowić przygodność naturalnych układów rzeczy: tak jakby pozytywizm nie był najlepszą drogą do zamknięcia świadomości w&nbsp;niezmiennym świecie tego, co jest. Dość rozpaczliwa uwaga o&nbsp;filmie jako medium swobodnej rekombinacji układów rzeczy niewiele tu pomaga. Być może jednak powinniśmy pójść tym tropem i&nbsp;zwrócić się ku najistotniejszej rozprawie Kracauera poświęconej filmowi.</p> <p>W eseju o&nbsp;fotografii Kracauer krytykuje „fotografię artystyczną”, która stara się w&nbsp;medium fotograficznym uprawiać tradycyjną sztukę – w&nbsp;jego przekonaniu ma ona charakter reakcyjny i&nbsp;remitologizacyjny; jej odpowiednikiem w&nbsp;rozważaniach nad ornamentem masowym miałaby być „gimnastyka rytmiczna”, która usiłuje umknąć bezwzględnej, odartej ze znaczeń geometryczności nowego ornamentu i&nbsp;powrócić do organicznej więzi z&nbsp;naturą (OM, s.28, 62-63). W&nbsp;książce o&nbsp;filmie podobną funkcję pełni heterogeniczna grupa wysiłków zmierzających do uczynienia z&nbsp;kina „dziesiątej muzy”, jeszcze jednej córki Mnemozyne<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. Tak więc przede wszystkim niepokoi Kracauera dominacja „tendencji kreacyjnej”. Jednym z&nbsp;jej przejawów jest nacisk położony wyłącznie na&nbsp;fabułę filmu, a&nbsp;zatem wszelkie próby realizowania w&nbsp;medium filmowym schematów klasycznej sztuki narracyjnej, na&nbsp;czele z&nbsp;tragedią: Kracauer sądzi, że&nbsp;„skończone, uporządkowane universum tragedii” kłóci się ze specyfiką filmu (TF, s.22, 303-309). Stąd też zresztą niechętnie odnosi się on do takiej praktyki montażu filmowego, która zmierza jedynie do skonstruowania opowieści fabularnej. Nieufnością darzy wręcz dialog filmowy jako taki, który ma skłonność do spychania filmu w&nbsp;stronę narracji, chętnie wita zaś wszelkie zabiegi, które – jak wygłupy Groucho Marxa – skutecznie podminowują cały porządek dyskursu (TF, s.141-142). Drugim zasadniczym przejawem „tendencji kreacyjnej” miałyby być natomiast „filmy eksperymentalne”, przez co rozumie Kracauer „zarówno rytmiczne abstrakcje, jak i&nbsp;surrealistyczne projekcje rzeczywistości wewnętrznej”. Są one poniekąd czymś jeszcze gorszym. Pisze Kracauer: „Wyzwalając film z&nbsp;tyranii narracji, poddają go sztuce tradycyjnej. W&nbsp;istocie podporządkowują jej kino. «Pomóżmy w&nbsp;rozwoju filmu jako formy sztuk pięknych…» – głosi ulotka nowojorskiej Creative Film Foundation z&nbsp;1957 roku. Ale taka wolność jest niewolą filmowca” (TF, s.229).</p> <p>Przeciwstawiając się tym reakcyjnym wysiłkom, Kracauer z&nbsp;całym zdecydowaniem głosi zasadę, zgodnie z&nbsp;którą prawdziwie „filmowy film” nie powinien małpować dzieł z&nbsp;innych mediów, lecz realizować specyficzne możliwości medium filmowego. Medium to zaś wyrasta z&nbsp;fotografii i&nbsp;splecione jest z&nbsp;nią nierozerwalną więzią. Film to dla Kracauera fotografia plus ruch. Tak pojęte medium filmowe jest czymś jedynym w&nbsp;swoim rodzaju: jako jedyne nie przetwarza swego materiału, lecz go pokazuje; trzyma się powierzchni rzeczy i&nbsp;odsłania ich materialność w&nbsp;ruchu. Pozwala – by użyć znakomitej formuły Osipa Mandelsztama – wystawić pomnik nie na&nbsp;cześć jeźdźca, lecz na&nbsp;cześć marmuru. Na&nbsp;tym film się zna i&nbsp;to powinien robić. Stąd też z&nbsp;takim naciskiem Kracauer opowiada się za&nbsp;czymś, co określa mianem „realizmu”. Nietrudno jednak dostrzec, że&nbsp;jest to realizm bardzo szczególny, któremu daleko od prostej mimetyczności. Zarówno fotografia, którą Kracauer ponownie charakteryzuje szczegółowo we wstępie do książki (TF, s.29-50), jak i&nbsp;sam film wzbogacający fotografię o&nbsp;możliwość rejestracji ruchu, skupiają się na&nbsp;tym, co materialne, lecz co tylko na&nbsp;ułamek chwili zjawia się w&nbsp;naszym świecie percepcyjnym, co lokuje się na&nbsp;jego obrzeżach bądź też nie pojawia się w&nbsp;nim nigdy, ponieważ zostaje przegapione. Film rejestruje to, co zbyt małe i&nbsp;zbyt wielkie, by mogło zostać dostrzeżone, to, co przemijające i&nbsp;poboczne; ukazuje świat materialny w&nbsp;jego przypadkowości, niedookreśleniu, nieskończoności – odsłania sam „potok życia”, coś, co Kracauer określa mianem „ulicy” jako domeny ruchu czystej zewnętrzności i&nbsp;czystej materialności (TF, s.100-101). Na&nbsp;dokładkę, choć jest to ulica wypełniona ludźmi – ruchliwy tłum stanowi wyróżniony temat kina (TF, s.77) – film to jedyne medium, które potrafi naprawdę użyczyć miejsca wielości przedmiotów nieożywionych. Dominację stosunków międzyludzkich nad światem przedmiotów, domknięcie tego, co międzyludzkie w&nbsp;kokonie fabularnych znaczeń, uznaje wręcz Kracauer za&nbsp;kolejne zjawisko obce specyfice filmu (TF, s.73). Ogólnie rzecz biorąc, tak pojęty realizm nie dba o&nbsp;opowieść, rozrywa porządek semantyczny, zmierzając raczej ku pozaznaczeniowej, materialnej powierzchni rzeczy. Kracauerowski film realistyczny wymyka się klasycznie pojętemu pięknu domkniętych, sensownych form i&nbsp;unikając wzniosłości tragedii czy form strzeliście rozdartych, stawia na&nbsp;nowe piękno horyzontalnego dryfu, migotania materialnej powierzchni rzeczy i&nbsp;strumienia ulicznego tłumu.</p> <p>W eseju z&nbsp;roku 1927 Kracauer przedstawiał fotografię jako właściwą (post)sztukę swoich czasów; tak też przedstawia film w&nbsp;roku 1960. O&nbsp;ile jednak tam jego stosunek do fotografii był dwuznaczny – przy czym moment krytyczny zarysowany był nader wyraziście, moment afirmatywny zaś wydawał się mocno niejasny – o&nbsp;tyle jego stosunek do filmu jest jednoznacznie entuzjastyczny. Z&nbsp;pewnością odpowiedzialna jest za&nbsp;to w&nbsp;dużej mierze modyfikacja polityczno-historiozoficznej perspektywy Kracauera. W&nbsp;traktacie o&nbsp;powieści detektywistycznej prezentował on chmurną wizję upadłej nowoczesności, niezdolnej raczej do jakiejś wewnętrznej przemiany. W&nbsp;esejach z&nbsp;roku 1927 flirtował ze schematami marksistowskimi, zgodnie z&nbsp;którymi trzeba nam „racjonalizować bardziej, a&nbsp;nie mniej”, możliwy jest więc jakiś progresywny ruch wyzyskujący alienujące zjawiska, takie jak fotografia, gwoli pracy wyzwolenia. I&nbsp;choć nie miał to być raczej akt w&nbsp;klasycznym sensie rewolucyjny, Kracauer igrał wówczas jeszcze z&nbsp;pewną wizją utopii, która skupiała się wokół idei urzeczywistnienienia niezdeformowanego rozumu i&nbsp;„ornamentu bajki”. W&nbsp;rozprawie o&nbsp;filmie Kracauer wydaje się ostatecznie cumować w&nbsp;bezpiecznym porcie antyutopijnego liberalizmu, nawet jeśli nie ustaje w&nbsp;deklaracjach wrażliwości społecznej.</p> <p>W epilogu książki stara się zarysować współczesny „krajobraz intelektualny”: żyjemy na&nbsp;gruzach dawnych wiar i&nbsp;ideologii, a&nbsp;próby ich ożywienia wydają się Kracauerowi reakcyjne (tyle pozostało z&nbsp;jego flirtu z&nbsp;marksizmem). Za&nbsp;destrukcję dawnych wiar, wielkich narracji i&nbsp;systemów znaczeń – zgodnie z&nbsp;dawniejszą terminologią: za&nbsp;proces demitologizacji i&nbsp;odczarowania – odpowiedzialna jest w&nbsp;dużej mierze dominacja nauki i&nbsp;techniki, która wszelako ma charakter obosieczny, popycha nas bowiem zarazem w&nbsp;stronę myślenia abstrakcyjnego. Tę diagnozę znamy z&nbsp;weimarskich esejów Kracauera – abstrakcyjność współczesnego myślenia i&nbsp;postrzegania świata była jego prawdziwą obsesją – choć tam jako zasadniczą przyczynę wskazywało się rozwój systemu kapitalistycznego. Także i&nbsp;tutaj można mówić o&nbsp;pewnej dialektyce naukowego oświecenia. Jeśli jednak w&nbsp;eseju z&nbsp;roku 1927 Kracauer upatrywał w&nbsp;fotografii czynnik alienacyjny, w&nbsp;sposób niejasny tylko zarysowując jej wyzwolicielskie możliwości, książka z&nbsp;roku 1960 przecina więź łączącą nowe media z&nbsp;siłami alienacji i&nbsp;bez wahania wskazuje film jako cudowny lek na&nbsp;nasze bolączki – oczywiście film „filmowy”. Rekonstrukcja dawnych wierzeń to gest reakcyjny, trwając w&nbsp;postideologicznej abstrakcji, pozostajemy wszakże głęboko zagubieni. Film, nasz prawdziwy przyjaciel, nie oferując żadnych nowych totalności, rozrywa kokon abstrakcji, wyzwala materialną rzeczywistość, odnajduje „skradzony list”, który zawsze leżał na&nbsp;powierzchni rzeczy (TF, s.338), nam zaś pozwala odnaleźć „coś, czego nie szukaliśmy” – konkretny „świat, który jest nasz” (TF, s.335). Kracauer może zatem ostatecznie uderzyć w&nbsp;pochwalne tony: „Po raz pierwszy w&nbsp;dziejach obraz filmowy pozwala nam zachować przedmioty i&nbsp;zdarzenia składające się na&nbsp;strumień materialnego życia” (TF, s.339).</p> <p>Wygląda więc na&nbsp;to, że&nbsp;Kracauer rzeczywiście zarzucił dwuznaczną ocenę nowych mediów i&nbsp;począł głosić bezwarunkową pochwałę rejestracji świata w&nbsp;medium filmowym. Czy stanowisko to oznacza również pozytywistyczną akceptację tego, co jest – także w&nbsp;wymiarze politycznym i&nbsp;gospodarczym? Cóż, nie byłaby to całkiem sprawiedliwa sugestia, jako że&nbsp;Kracauer podkreśla krytyczną rolę, jaką może odgrywać filmowy realizm zdolny demaskować krzywdę i&nbsp;ideologiczny fałsz (TF, s.345-346). Niemniej całe to stanowisko wikła się w&nbsp;zasadniczą trudność, której nie sposób tak łatwo unieważnić. Kracauer przedstawia „filmowy”, realistyczny film jako medium, które wyzwala rzeczy, a&nbsp;zarazem wyzwala człowieka do rzeczy; jako medium ocalające materialność, a&nbsp;zarazem medium w&nbsp;klasycznym sensie humanistyczne, poręczne narzędzie w&nbsp;rękach liberalnej, postideologicznej ludzkości, która wyrwała się ze szponów naukowo-technicznych abstrakcji. Nie wydaje mi się jednak, by można było mieć obie rzeczy naraz: wyzwolenie materialnej rzeczywistości i&nbsp;humanizm klasycznego liberalizmu. Jeśli za&nbsp;pomocą medium filmowego naprawdę wyzwalamy materialną rzeczywistość, jeśli każda fantazja, wewnętrzność, fabuła i&nbsp;każdy dialog zaczynają nam niebezpiecznie trącić reakcją, jeśli uwolnienie strumienia życia równoznaczne jest z&nbsp;wyzwoleniem przedmiotów nieożywionych, to nie utrzymamy też raczej wyodrębionej ze świata, autonomicznej, liberalnej jednostki. Ale jeśli tak, to choć książka Kracauera wydaje się dość poczciwa czy wręcz nudnawa, a&nbsp;jej zamierzona wymowa polityczna jakże słuszna, humanistyczna i&nbsp;odpowiedzialna, konsekwencje jego wywodu są prawdziwie niszczycielskie.</p> <p>Sądzę mianowicie, że&nbsp;na przekór deklarowanym intencjom i&nbsp;dobrodusznej tonacji swego wywodu Kracauer realizuje tutaj możliwość, która niczym mroczny ornament rysowała się w&nbsp;jego wczesnym eseju o&nbsp;fotografii: wyrzekłszy się utopii i&nbsp;teologicznych inspiracji, mimowolnie głosi materialistyczną teologię fotografii i&nbsp;filmu, która przynajmniej w&nbsp;tej postaci wydaje mi się czymś naprawdę upiornym. Jak pamiętamy, w&nbsp;eseju o&nbsp;fotografii majaczyło kuszące przeświadczenie, że&nbsp;gdy już zakończy się zbawczy proces abstrakcji monogramu, wydobycia z&nbsp;rzeczy tego, co niezapomniane, pozostają jeszcze materialne resztki i&nbsp;żałosne łupiny, to, co niezbawione i&nbsp;na zbawienie niepodatne, a&nbsp;co zasługuje na&nbsp;ocalenie, zachowanie czy wyzwolenie – i&nbsp;tym właśnie miałaby zajmować się fotografia. Wygląda na&nbsp;to, że&nbsp;w&nbsp;swoim traktacie o&nbsp;filmie Kracauer mimowolnie idzie w&nbsp;końcu za&nbsp;tym przekonaniem, wyciągając z&nbsp;niego najskrajniejsze konsekwencje: jeśli bowiem wszelkie tradycyjne działanie artystyczne ma charakter reakcyjny, jeśli właściwym medium naszego czasu jest „filmowy” film, to liczy się już tylko ów moment zachowania materialnych łupin. Wyzwolenie materialnej rzeczywistości to wyzwolenie tego, co bezimienne – prawdziwe wyzwolenie od pozorów imienia, które przecież dawno już uleciało z&nbsp;naszego świata, a&nbsp;wszystko, co się za&nbsp;imię podaje, może być tylko jego reakcyjną, ideologiczną protezą. Jeśli jednak Kracauer rzeczywiście stawia wyłącznie na&nbsp;swobodne wyzwolenie bezimiennej, materialnej rzeczywistości, które miałoby się dokonać w&nbsp;medium filmowym, to w&nbsp;istocie robi coś, czego wcześniej tak bardzo się obawiał: zaprasza niemą naturę – być może pod&nbsp;postacią wydrążonego manekina odzianego w&nbsp;babcine fatałaszki – by zasiadła przy stole porzuconym przez ludzką świadomość. Gdyby tej naturze użyczono głosu, zaniosłaby się prawdziwie szatańskim śmiechem<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>.</p> <p>W tej skrajnej postaci materialistyczna teologia, która wyłania się z&nbsp;pism Kracauera, wydaje mi się pouczająca wyłącznie jako diaboliczny, mimowolny efekt wyrzeczenia się marzeń o&nbsp;utopii. Porzuć utopię, a&nbsp;zostaniesz satanistą. A&nbsp;przecież teologia Kracauera warta jest ocalenia. Jak mogłoby ono wyglądać? Choćby i&nbsp;tak. Jakkolwiek prezentacja „ulicy”, owego „potoku życia”, jest dla Kracauera ideałem działalności filmowej, to przecież i&nbsp;on musi przystać na&nbsp;to, że&nbsp;najbardziej nawet filmowe filmy muszą – o&nbsp;zgrozo! – choć po&nbsp;trosze ulec „tendencji kreacyjnej”, czy to w&nbsp;trybie fabularnym, czy to w&nbsp;trybie „eksperymentalnym”. Jeśli – dla uproszczenia – weźmiemy w&nbsp;nawias tę ostatnią możliwość, musielibyśmy powiedzieć, że&nbsp;zgodnie z&nbsp;kategoriami Kracauera każdy film cechuje dwoistość fabuły i&nbsp;ulicy. Nie jest to jednak wyłącznie pospolita dwoistość. Nie chodzi przecież (tylko) o&nbsp;to, że&nbsp;w&nbsp;każdym filmie moment uliczny musi się posunąć i&nbsp;użyczyć nieco miejsca momentowi fabularnemu – choćby ze względów komercyjnych. Jest raczej tak, że&nbsp;ulica istnieje tylko jako dialektyczne zaburzenie, retardacja, rozproszenie fabuły. Film pragnie coś opowiedzieć, nagle jednak zbacza w&nbsp;jakąś uliczkę, błąka się po&nbsp;niej, pokazując więcej niż powinien, mniej lub bardziej mimowolnie rejestrując powierzchnię przedmiotów, inicjując lokalne wyzwolenie rzeczywistości materialnej. Zamiast o&nbsp;dwoistości, trafniej więc chyba mówić o&nbsp;dialektyce fabuły i&nbsp;ulicy. Snując opowieść, film składa pewną obietnicę: obiecuje, że&nbsp;odda sprawiedliwość przedstawionym ludziom i&nbsp;przedmiotom, że&nbsp;wyłuska i&nbsp;przekaże prawdę o&nbsp;nich, że&nbsp;uchwyci w&nbsp;fabule ich niezapomniane imiona, ostateczny obraz pamięciowy. Ironia polega jednak na&nbsp;tym, że&nbsp;musi nieuchronnie tę obietnicę złamać, ponieważ imion nie ma w&nbsp;opowieści – przynajmniej w&nbsp;naszym świecie zdominowanym przez <em>ratio</em> i&nbsp;podszytym nicością. Prawdziwe imiona pozostają w&nbsp;tym, co bezimienne, co przeoczone i&nbsp;porzucone, w&nbsp;łupinach samej materii, na&nbsp;ulicy. Film musi zatem, raz po&nbsp;raz przyznając się do kłamstwa, zawieszać opowieść, rozrywać porządek znaczeń i&nbsp;sięgać po&nbsp;to, czego nie sposób zapamiętać, a&nbsp;co najbardziej pamięci godne, po&nbsp;to, co pozbawione prawdy, a&nbsp;co jako „inne” nieuchronnie kłamliwej opowieści staje się niespodziewanie właściwą tej prawdy siedzibą. Nie jestem pewien, czy tak skonstruowany schemat materialistycznej teologii filmu można odnieść także do fotografii. Można by spróbować takiej sztuczki, mówiąc choćby o&nbsp;analogicznej dialektyce momentu „artystycznego” i&nbsp;prawdziwie „fotograficznego” w&nbsp;tym dość zgrubnym znaczeniu, w&nbsp;którym tymi terminami posługuje się Kracauer, mając na&nbsp;uwadze – odpowiednio – dążenie do uchwycenia prawdy, ostatecznego obrazu pamięciowego, oraz dążenie do wyzwolenia rzeczywistości materialnej. Gdyby dało się przeprowadzić taką operację, moglibyśmy powiedzieć, że&nbsp;i&nbsp;w tym wypadku prawda jest uciekinierką z&nbsp;obozu zwycięzców, że&nbsp;mocą dialektycznego zwrotu przechodzi naraz na&nbsp;stronę tego, co czysto materialne – i&nbsp;że monogramu babci trzeba jednak szukać w&nbsp;tym, co zostaje z&nbsp;niej na&nbsp;fotografii.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Zob. Siegfried Kracauer, <em>Das Ornament der Masse. Essays</em>, Suhrkamp Verlag, Frankfurt am Main 1977. Dalej w tekście jako OM, wraz z numerem strony.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Pojęcia mitu, losu i sprawiedliwości w mniej więcej takich właśnie konfiguracjach to kategorie Waltera Benjamina, choć Kracauer uwalnia je niewątpliwie od apokaliptycznej perspektywy charakterystycznej dla Benjamina, przygotowując tym samym ich bardziej świeckie przejęcie przez Adorna i Horkheimera. Zob. przede wszystkim Walter Benjamin, <em>Los i charakter</em> i <em>Przyczynek do krytyki przemocy</em>, w: idem, <em>Konstelacje</em>, przeł. A. Lipszyc, A. Wołkowicz, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2012, s. 61-68 i 69-95.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Jeśli chodzi o całość tej książki, zob. Siegfried Kracauer, <em>Werke</em>, t. 1, Suhrkamp Verlag, Frankfurt am Main 2006, s. 103-204. Warto zwrócić uwagę, że to tutaj właśnie po raz pierwszy Kracauer pisze o bajce jako właściwym modelu wybawienia człowieka (s. 115). Motyw ten pojawia się potem często w pismach Waltera Benjamina i Ernsta Blocha.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Idem, s. 107 i 201-204. Pojęcie imienia to kolejna kategoria, która łączy wczesnego Kracauera z Walterem Benjaminem i choć w tym wypadku czasowe pierwszeństwo Benjamina nie ulega akurat wątpliwości (swoją teorię języka rozwija Benjamin począwszy od roku 1916), nie mam pewności, czy obecność tej kategorii u Kracauera jest oznaką bezpośredniego wpływu.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Kategorie „zawartości prawdy” i „demonicznej dwuznaczności” wskazują znów na wpływ, jaki na tę koncepcję musiał wywrzeć Walter Benjamin. Zob. Walter Benjamin, <em>Goethego „Powinowactwa z wyboru”</em>, w: idem, <em>Konstelacje</em>, ..., s. 97-177. Zarazem wydaje się, że rozważania Kracauera nad relacjami między pamięcią, tradycyjnym dziełem sztuki i fotografią wywarły istotny wpływ na późniejsze prace Benjamina.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Kracauer przewiduje tutaj przemiany, które dotkną dawne dzieła sztuki za sprawą możliwosci ich reprodukcji, zapowiadając tym samym późniejsze analizy Waltera Benjamina.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Zob. Siegfried Kracauer, <em>Teoria filmu. Wyzwolenie materialnej rzeczywistości</em>, przeł. W. Wertenstein, słowo/obraz terytoria, Gdańsk 2008. Dalej w tekście jako TF, wraz z numerem strony.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> To sformułowanie zawdzięczam prof. Stefanowi Pruszkowskiemu (UMFK). Por. Walter Benjamin, <em>O języku w ogóle i o języku człowieka</em>, w: idem, <em>Konstelacje...</em>, s. 15 i idem, <em>Źródło dramatu żałobnego w Niemczech</em>, przeł. A. Kopacki, Wydawnictwo Sic!, Warszawa 2013, s. 308.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/ruinacja/co-zostaje-z-babci-czyli-w-poszukiwaniu-materialistycznej-teologii" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

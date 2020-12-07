@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Z bibliotecznej szafy. Przekłady i przepisania queer | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/queer-obrazy/z-bibliotecznej-szafy.-przeklady-i-przepisania-queer">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Z bibliotecznej szafy. Przekłady i przepisania queer | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Z bibliotecznej szafy. Przekłady i przepisania queer | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/queer-obrazy/z-bibliotecznej-szafy.-przeklady-i-przepisania-queer">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Z bibliotecznej szafy. Przekłady i przepisania queer | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #f0f !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #f0f !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #f0f !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #f0f !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #f0f !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #f0f !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+			/* background-color:#f0f !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,0,255,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#f0f !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#f0f; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#f0f !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#f0f !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#f0f !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1199 parent-id-1134">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="424" data-selected-issue-color="#f0f" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/queer-images#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/queer-images/from-a-book-closet.-queer-translations-and-transcriptions">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/queer-obrazy#toc">5</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/queer-obrazy/z-bibliotecznej-szafy.-przeklady-i-przepisania-queer?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Z bibliotecznej szafy. Przekłady i przepisania queer</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/queer-obrazy/z-bibliotecznej-szafy.-przeklady-i-przepisania-queer?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=312">Iwona Kurz</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Sebastian Jagielski, <em>Maskarady męskości. Pragnienie homospołeczne w&nbsp;polskim kinie fabularnym</em>, Universitas, Kraków 2013</p> <p><em>Kamp. Antologia przekładów</em>, red. Przemysław Czapliński, Anna Mizerka, Universitas, Kraków 2012</p> <p>Samuel Nowak, <em>Seksualny kapitał. Wyobrażone wspólnoty smaku i&nbsp;medialne tożsamości polskich gejów</em>, Universitas, Kraków 2013</p> <p>Małgorzata Radkiewcz, <em>Oblicza kina queer</em>, korporacja ha!art, Kraków 2013</p> <p><em>Teorie wywrotowe. Antologia przekładów</em>, red. Agnieszka Gajewska, Wydawnictwo Poznańskie, Poznań 2012</p> <p>Błażej Warkocki, <em>Różowy język. Literatura i&nbsp;polityka kultury na&nbsp;początku wieku</em>, Wydawnictwo Krytyki Politycznej, Warszawa 2013</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2347-1-pb-1920x-8cd.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2347-1-pb-330x-987.jpg 330w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2347-1-pb-660x-733.jpg 660w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2347-1-pb-768x-aea.jpg 768w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2347-1-pb-1320x-a98.jpg 1320w" src="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2347-1-pb-660x-733.jpg" alt="" ></a>    <figcaption><p><em>Kamp. Antologia przekładów</em>, red. Przemysław Czapliński, Anna Mizerka, Universitas, Kraków 2012</p></figcaption>   </figure>  </section><section class="u-typo">   <h2>1964: Susan Sontag robi <em>Notatki o&nbsp;kampie</em></h2> <p>We wstępie do poświęconej kampowi antologii przekładów Przemysław Czapliński zaczyna od przywołania obrazu dystopii, w&nbsp;której ścigani są ludzie czytający. Pół żartem, pół serio snuje wizję świata, gdzie wraz z&nbsp;upływem czasu od zakazu czytania, narastają, z&nbsp;jednej strony, prześladowania wobec książek, a&nbsp;także „czyciot” i&nbsp;„zbooków”, a&nbsp;z drugiej – przemyślne strategie czytania w&nbsp;ukryciu, tworzenia tajnych subkultur czytaczy i&nbsp;subtelnych, acz wyraźnych, kodów odgrywania przyjemności lektury.</p> <p>Metafora ta ładnie oddaje charakter przemocy wobec odmienności uprzednio i&nbsp;arbitralnie zdefiniowanej jako nienormatywna oraz dynamikę oporu wobec normy. Tym ładniej, że&nbsp;sformułowana została nie tylko w&nbsp;kraju sztywnej heteronormy, lecz również powszechnego narzekania na&nbsp;zanik czytelnictwa i&nbsp;powszechnego nieczytania pism, również świętych. Jednocześnie otwiera tom, który liczy ponad siedemset stron tekstu – wraz z&nbsp;kalendarium, podręczną bibliografią i&nbsp;krótkim słownikiem – oferując przegląd najważniejszych nazwisk i&nbsp;stanowisk dotyczących kampu.</p> <p>Kamp, w&nbsp;pewnym sensie, był pierwszym określeniem tożsamości podmiotów odrzucanych lub piętnowanych. Jego pojawienie się i&nbsp;nazwanie poprzedza wszelkie debaty na&nbsp;temat płci kulturowej oraz skonstruowanego/performatywnego charakteru tożsamości płciowej, a&nbsp;zarazem te debaty tematyzuje i&nbsp;teatralizuje, inscenizuje je w&nbsp;estetycznej grze z&nbsp;formą i&nbsp;stylem. Czapliński nazywa to sekretną ekspozycją, ujmując w&nbsp;tym zgrabnym oksymoronie, dynamiczną grę pomiędzy ujawnieniem i&nbsp;zakryciem, widzialnością i&nbsp;kamuflażem.</p> <p>To Susan Sontag wyoutowała kamp jako strategię estetyczną, ale też przecież egzystencjalną i&nbsp;polityczną. Otworzyła dyskusję, nieskończoną i&nbsp;niekończącą się. I&nbsp;dobrze. Dobrze też, że&nbsp;wreszcie pojawiają się po&nbsp;polsku teksty post-Sontagowskie; zaczynanie każdego artykułu na&nbsp;temat kampu od <em>Notatek</em> jest pewną normą światową, co po&nbsp;części tłumaczy dyskusje polskie, ale nie zmniejsza ochoty na&nbsp;urozmaicenie menu. W&nbsp;poszczególnych artykułach, pomieszczonych w&nbsp;antologii, pojawiają się sprzeczne tezy i&nbsp;polemiczne ujęcia, ale też wyłania się z&nbsp;nich – o&nbsp;czym dobitnie pisze Czapliński we wstępie – pochwała potencjalności, afirmacja wyjścia poza dychotomie, ku dynamice znaczeń i&nbsp;stylów.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2348-1-pb-1920x-272.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2348-1-pb-330x-20c.jpg 330w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2348-1-pb-660x-52a.jpg 660w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2348-1-pb-768x-4a6.jpg 768w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2348-1-pb-1320x-4a9.jpg 1320w" src="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2348-1-pb-660x-52a.jpg" alt="" ></a>    <figcaption><p><em>Teorie wywrotowe. Antologia przekładów</em>, red. Agnieszka Gajewska, Wydawnictwo Poznańskie, Poznań 2012</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Podobną strategię redakcyjną przyjęto w&nbsp;innym imponującym tomie (w sumie 815 stron tekstu napisanego przez blisko 40 autorów) <em>Teorie wywrotowe</em> pod&nbsp;redakcją Agnieszki Gajewskiej. Choć poszczególne działy – poświęcone odpowiednio myśli post-feministycznej, post-humanistycznej, afroamerykańskiej, kategorii monstrualności oraz perspektywie trans(gender)/queer – poprzedzono komentarzami tłumaczy, to intencją jest tutaj raczej pokazanie wewnętrznego zróżnicowania teorii, które próbują przepisać dominujący porządek, dokonując przewartościowania w&nbsp;obrębie refleksji nad tożsamością i&nbsp;jej rzekomo stabilnymi granicami. Już na&nbsp;samym początku Gajewska wydobywa z&nbsp;publikowanych tekstów ten właśnie rys autorefleksyjności, podkreślając, że&nbsp;wywrotowość oznacza zaangażowanie, otwarte jednak na&nbsp;ciągłe kwestionowanie własnego stanowiska.</p> <p>Wspólna wartość obu antologii – poza samą prezentacją tekstów – leży przede wszystkim w&nbsp;spolszczeniu ujęć teoretycznych i&nbsp;terminów. W&nbsp;niewielkim stopniu wprowadzają one nowe, nieznane w&nbsp;Polsce nazwiska, w&nbsp;jeszcze mniejszym sięgają poza obszary anglosaskie. Nawet jeśli jednak duża część z&nbsp;nich funkcjonowała wcześniej w&nbsp;obiegu, w&nbsp;którym internet daje dostęp do dóbr intelektualnych w&nbsp;całości i&nbsp;we fragmentach, a&nbsp;angielski jest językiem powszechnym Akademii, to przekłady wprowadzają zasadniczo nową jakość. Stają się bowiem, lub przynajmniej mogą się stać, zaczątkiem lub przyczynkiem do rodzimej teorii. Chodzi tu o&nbsp;istotny namysł właściwy dla lokalnego języka i&nbsp;kontekstu. Niedawna fala nienawiści do dżender (lub gender) pokazuje, jak pomocna jest obcość słów w&nbsp;doraźnej kampanii politycznej, jak bardzo potrzebne są kategorie i&nbsp;frazy zakorzenione tu i&nbsp;teraz.</p> <p>Nie wyczerpuje to jednak powodów, dla których poszukiwanie własnych odpowiedników słów jest grą wartą wysiłku tłumacza (lub tłumaczy – w&nbsp;tym sensie szkoda, że&nbsp;współpracownicy Agnieszki Gajewskiej nie spróbowali uzgodnić przynajmniej niektórych terminów). Chodzi tu także o&nbsp;kwestię zastosowania, interpretacyjnego odniesienia do zjawisk kultury polskiej, zwłaszcza jeśli nie miałoby ono być mechaniczne, czysto zewnętrzne, w&nbsp;którym pod&nbsp;praktyki i&nbsp;podmioty z&nbsp;jednego kontekstu społeczno-politycznego podstawi się – i&nbsp;zrozumie – podmioty i&nbsp;praktyki z&nbsp;innego (by przywołać żywy obecnie przykład: chłopi nie są czarnymi kultury polskiej, jak wynika niekiedy z&nbsp;dosłownego przekładu teorii afroamerykańskich na&nbsp;nasz rodzimy kontekst, co nie znaczy, że&nbsp;nie byli uciskani).</p> <p><br><br></p> <h2>1975: Laura Mulvey pisze <em>Wzrokowe przyjemności</em></h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2350-1-pb-1920x-3a4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2350-1-pb-330x-e4a.jpg 330w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2350-1-pb-660x-47c.jpg 660w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2350-1-pb-768x-66c.jpg 768w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2350-1-pb-1320x-969.jpg 1320w" src="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2350-1-pb-660x-47c.jpg" alt="" ></a>    <figcaption><p>Sebastian Jagielski, <em>Maskarady męskości. Pragnienie homospołeczne w&nbsp;polskim kinie fabularnym</em>, Universitas, Kraków 2013</p></figcaption>   </figure>  </section><section class="u-typo">   <p>W polskiej kulturze w&nbsp;jeszcze inny niż na&nbsp;Zachodzie sposób obecność przedstawień queer poprzedziła namysł nad nimi. Już przed 1989 rokiem docierały do Polski filmy czy książki, które można by interpretować w&nbsp;ten sposób. Kłopot jednak w&nbsp;tym, że&nbsp;w&nbsp;pewnym sensie wolność interpretacji okazała się bardziej ograniczona niż wolność dystrybucji. Z&nbsp;pewnością nie wchodziło w&nbsp;grę queerowanie <em>Wilka i&nbsp;zająca</em>, co proponuje Małgorzata Radkiewicz w&nbsp;<em>Obliczach kina queer</em>, odnajdując w&nbsp;tej kreskówce – z&nbsp;inspiracji książką Judith Halberstam <em>The Queer Art of Failure</em> – dziecięcą radość z&nbsp;tworzenia nieoczywistego środowiska oporu.</p> <p><em>Oblicza </em>opisują bogatą panoramę praktyk i&nbsp;strategii queer wykorzystywanych w&nbsp;filmie. Mogą one wynikać z&nbsp;nienormatywnych tożsamości bohaterów, ale też widzów, którzy rozpoznają swoje tożsamości jako nienormatywne lub utożsamiają się z&nbsp;bohaterami, z&nbsp;którymi „normalnie” by się nie utożsamili. Mogą wynikać z&nbsp;tożsamości autorów, których postawy i&nbsp;biografie tworzą tekst dodatkowy do dzieła filmowego. Często strategie te opierają się na&nbsp;parodystycznym, polemicznym czy po&nbsp;prostu odnowionym wykorzystaniu konwencji gatunkowej, której filmowe długie trwanie pozwala na&nbsp;rozbijacki dialog z&nbsp;nią, wręcz się go domaga. Autorka też próbuje interpretować na&nbsp;nowo polskie filmy, zwłaszcza te, w&nbsp;których wprost pojawia się motyw cross-dressingu. Dotyczy to dzieł z&nbsp;ostatniej dekady oraz, paradoksalnie, często przywoływanych przebieranek z&nbsp;okresu dwudziestolecia wojennego – na&nbsp;okładce książki widnieje znany fotos z&nbsp;filmu <em>Piętro wyżej</em> (reż. Leon Trystan, 1937) z&nbsp;Eugeniuszem Bodo w&nbsp;kostiumie Mae West.</p> <p>Do tych samych polskich filmów sięga także Sebastian Jagielski, który jednak konsekwentnie i&nbsp;w szerokim kontekście, podejmuje się przepisania historii polskiego kina przez pryzmat kategorii homospołeczności. To pierwsza tego rodzaju całościowa próba zastosowania teorii queer do tekstów polskiej kultury. Dostarcza ona sporo czytelniczej frajdy, bo&nbsp;Jagielski jest błyskotliwym analitykiem; nie występuje przy tym w&nbsp;roli tropiciela doktryny, lecz podąża za&nbsp;filmowym materiałem. Autor obejmuje materiał przekrojowo, dokonując zbliżeń w&nbsp;miejscach mniej lub bardziej przewidywalnych – przebieranki dwudziestolecia, kino na&nbsp;podstawie Iwaszkiewicza, <em>Ziemia Obiecana </em>Wajdy (jako przykład kina kumpelskiego), <em>Barwy ochronne </em>Zanussiego czy <em>Psy </em>Władysława Pasikowskiego. Z&nbsp;jego rozważań wyłania się obraz polskiego kina zdominowanego przez relacje męskie, często skrywające homoseksualne pożądanie, ale przede wszystkim wykluczające inne, niemęskie podmioty. Odsłania się przy tym wizerunek mężczyzn jako boleśnie nieświadomych siebie. Prowokuje to do pytania o&nbsp;ewentualne ciągi dalsze – o&nbsp;obecność podobnych figur i&nbsp;relacji w&nbsp;kinie popularnym, ale też w&nbsp;niemal pominiętej przez autora szkole polskiej. Czy to tylko (całkiem bogata) mozaika, czy jednak pewna prawidłowość?</p> <p>Jeśli czegoś mi w&nbsp;książce Jagielskiego brakuje, to refleksji nad formą filmową. Oczywiście, brakuje jej w&nbsp;polskim kinie w&nbsp;ogóle. Być może zresztą brakuje jej zasadniczo w&nbsp;kinie queerowym. Małgorzata Radkiewicz, za&nbsp;Bobem Nowlanem, pisze, że&nbsp;w&nbsp;queer najważniejsze jest „robienie”, a&nbsp;nie „bycie”. Można jednak odnieść wrażenie, że&nbsp;to „robienie” wiąże się jednak z&nbsp;performowaniem tożsamości, a&nbsp;nie performowaniem jej reprezentacji. Co prawda Halberstam, a&nbsp;za nią Radkiewicz, proponuje „kłirowanie” animacji; w&nbsp;książce pojawiają się też twórcy, którzy konsekwentnie posługują się własnym, osobnym i&nbsp;rozpoznawalnym stylem filmowym – jak Derek Jarman czy Pedro Almodóvar. Kiedy jednak w&nbsp;zakończeniu książki Radkiewicz przywołuje myśl Gilles’a Deleuze’a i&nbsp;Félixa Guattariego (swoje rozważania autorka rozwija <a href="http://pismowidok.org/index.php/one/editor/proofGalley/165/275" target="_blank" rel="noopener">w artykule w&nbsp;tym numerze „Widoku”</a>), to przede wszystkim ze względu na&nbsp;potencjał formy filmowej umożliwiającej zabranie głosu „mniejszościom”.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2352-1-pb-1920x-e21.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2352-1-pb-330x-189.jpg 330w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2352-1-pb-660x-23e.jpg 660w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2352-1-pb-768x-6ea.jpg 768w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2352-1-pb-1320x-c5e.jpg 1320w" src="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2352-1-pb-660x-23e.jpg" alt="" ></a>    <figcaption><p>Błażej Warkocki, <em>Różowy język. Literatura i&nbsp;polityka kultury na&nbsp;początku wieku</em>, Wydawnictwo Krytyki Politycznej, Warszawa 2013</p></figcaption>   </figure>  </section><section class="u-typo">   <p>W artykule <em>Przyjemność wzrokowa a&nbsp;kino narracyjne</em>, opublikowanym po&nbsp;raz pierwszy w&nbsp;1975 roku i&nbsp;założycielskim dla filmoznawczych studiów feministycznych, a&nbsp;potem lesbijskich i&nbsp;gejowskich oraz queer, Laura Mulvey postulowała konieczność rozbicia podstawowej struktury narracyjnej opartej na&nbsp;wzrokowej przyjemności wynikającej z&nbsp;identyfikacji z&nbsp;męskim podmiotem – władcą spojrzenia. Zarówno rekonstrukcja Radkiewicz, jak i&nbsp;analizy Jagielskiego dowodzą, że&nbsp;i&nbsp;twórcy, i&nbsp;widzowie, i&nbsp;badacze, nie ustają w&nbsp;poszukiwaniu i&nbsp;odnajdywaniu „innych” przyjemności, płynących z&nbsp;rozpoznawania i&nbsp;przekraczania reguł gry, norm i&nbsp;konwencji, z&nbsp;odkrywania intertekstualnych odniesień, z&nbsp;praktyki interpretacyjnej, która przywraca poznawczą sprawczość widzom, zdejmując z&nbsp;nich urok rzucony przez snop projektora. Polem tych praktyk jest jednak nadal i&nbsp;najczęściej kino narracyjne, tyle że&nbsp;opowiadające historie, które prowokują do nieoczywistych identyfikacji.</p> <p><br><br></p> <h2>1929: Joan Riviere odsłania „maskarady kobiecości”</h2> <p>Tytuł książki Jagielskiego <em>Maskarady męskości </em>odwołuje się do innego jeszcze klasycznego tekstu – i&nbsp;demonstruje, że&nbsp;maskarada jako forma i&nbsp;praktyka tożsamości, nie ma jednej płci, a&nbsp;właśnie jest powszechna. Czy rzeczywiście jednak każda maskarada niesie w&nbsp;sobie ożywczy potencjał queeru lub kampu? I&nbsp;czy każde odniesienie do tożsamości nienormatywnych musi być queerowe?</p> <p>W przenoszeniu teorii queer na&nbsp;grunt polski ważne jest, jak pisałam, jej spolszczenie i&nbsp;ważne, w&nbsp;konsekwencji, jej zastosowania. W&nbsp;poświęconym kampowi tomie znajdujemy niewielki (zwłaszcza w&nbsp;stosunku do jego objętości) przyczynek do tej kwestii. Anna Mizerka, współredaktorka tomu, odczytuje w&nbsp;duchu kampowym działania „Frondy”, która miałaby za&nbsp;sprawą nieoczywistych, radykalnych strategii estetycznych dokonywać odświeżenia języka wspólnoty katolickiej w&nbsp;Polsce, a&nbsp;zatem niejako zatrudniać zły smak w&nbsp;służbę wartości. To bardzo ciekawa interpretacja, dająca nową perspektywę na&nbsp;polskie spory tożsamościowe, które wybuchły po&nbsp;1989 roku, a&nbsp;szczególnej dynamiki nabrały na&nbsp;początku nowego tysiąclecia. Jednocześnie jednak, przyjmując definicję Przemysława Czaplińskiego kampu jako „maszyny do rozszczelniania systemu wytwarzania tożsamości”, nie mogę się zgodzić na&nbsp;podobne zrównanie – „cioty” i&nbsp;„mohera”. Chyba że&nbsp;również „ciota” stoi na&nbsp;twardym gruncie wartości i&nbsp;w istocie twardych tożsamości, tyle że&nbsp;szukających dla siebie widocznego i&nbsp;wyrazistego stylu.</p> <p>Trochę jak się dzieje w&nbsp;przypadku książki Samuela Nowaka <em>Seksualny kapitał</em>. Spotkała się ona już zresztą z&nbsp;polemikami ze strony <a href="http://www.interalia.org.pl/en/artykuly/reviews/02_seksualny_kapital.htm" target="_blank" rel="noopener">Przemysława Góreckiego</a> oraz <a href="https://www.academia.edu/5759334/Komentarz_do_artykulu_dr._Samuela_Nowaka_Studia_gejowsko-lesbijskie_reaktywacja_" target="_blank" rel="noopener">Rafała Majki</a>, personalnie „zaczepionego” w&nbsp;książce.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2351-1-pb-1920x-e21.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2351-1-pb-330x-189.jpg 330w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2351-1-pb-660x-23e.jpg 660w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2351-1-pb-768x-6ea.jpg 768w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2351-1-pb-1320x-c5e.jpg 1320w" src="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2351-1-pb-660x-23e.jpg" alt="" ></a>    <figcaption><p>Samuel Nowak, <em>Seksualny kapitał. Wyobrażone wspólnoty smaku i&nbsp;medialne tożsamości polskich gejów</em>, Universitas, Kraków 2013</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Proponowany przez Nowaka powrót do studiów gejowsko-lesbijskich zamiast nad-obecnych rzekomo studiów queer opiera się na&nbsp;nieprzekonującym rozumieniu obu tych perspektywy badawczych (co wytykają autorowi adwersarze), ale przede wszystkim budzi zdumienie z&nbsp;powodów, by tak rzec, retoryczno-energetycznych. Trochę to jest bowiem tak, jakby autor poświęcał siły i&nbsp;starania na&nbsp;dowodzenie wyższości zimy nad latem w&nbsp;kraju, w&nbsp;którym ciągle pada deszcz. Wyraża stanowisko sprzeczne z&nbsp;ducha z&nbsp;otwartością, potencjalnością, płynnością jako pożądanymi elementami postawy queerowej. Tym bardziej, że&nbsp;w&nbsp;części analitycznej, retoryczny i&nbsp;metodologiczny arsenał Nowaka daje bardzo nikłe rezultaty; konsekwentnie stosowane (a właściwie konsekwentnie powtarzane) tytułowe pojęcie „kapitału seksualnego” niewiele wnosi do analizy praktyk medialnych, w&nbsp;istocie nielicznych (<em>Magda M., </em>akcja „Niech nas zobaczą” i&nbsp;wizyty autora na&nbsp;portalach gejowskich). Mam wrażenie zmarnowanej szansy, bo&nbsp;ostatnia dekada w&nbsp;Polsce wręcz domaga się opisania (przepisania) za&nbsp;pomocą nowego języka.</p> <p>Dowodzi tego zresztą Błażej Warkocki, choć pozornie jego książka – <em>Różowy język </em>– jest ledwie zbiorem artykułów pisanych i&nbsp;publikowanych od 2002 roku. Znów tu jednak uwidaczniają się korzyści płynące z&nbsp;wnikliwej analizy czynionej przy użyciu języka świadomego teoretycznie. Warkocki oczywiście uważnie przeczytał swoje (nie)dawne teksty, przeredagował, a&nbsp;także opatrzył krótkimi komentarzami uwzględniającymi obecną wiedzę i&nbsp;świadomość. Jego komentarze do wydarzeń publicznych, recenzje książek i&nbsp;filmów, układają się w&nbsp;ten sposób w&nbsp;podwójną historię – przemian obecności podmiotów nienormatywnych w&nbsp;przestrzeni publicznej i&nbsp;przemian języka. Warkocki jest tu i&nbsp;teraz, nie ukrywa zaangażowania, zarazem jednak chłodno punktuje wszystkie wątpliwe miejsca dyskursu. Jest podejrzliwy, ale nie paranoiczny.</p> <p>Pojawia się w&nbsp;tym kontekście jeszcze jedna maska – akademika – i&nbsp;jako maska zostaje wyraźnie odsłonięta. Solidne zaplecze teoretyczne i&nbsp;badawcze dwu ośrodków akademickich (Poznań i&nbsp;Kraków), w&nbsp;których powstały omawiane tu książki, nie przeszkadza już wstępom pisanym w&nbsp;pierwszej osobie, wyraźnej artykulacji narracyjnego „ja”, dedykacjom i&nbsp;podziękowaniom osobistym oraz wprost formułowanym konkluzjom politycznym. Akademik zyskuje ciało i&nbsp;płeć, a&nbsp;perspektywa gender/kamp/queer prowokuje do „rozszczelnienia” sztywnych konwencji pisania „naukowego”, ukazując je również jako możliwe pole zaangażowania i&nbsp;politycznego, i&nbsp;egzystencjalnego. Język i&nbsp;praktyka naukowa warte są squeerowania; trzeba ożywić akademię – choćby za&nbsp;sprawą wszystkich tych rzeczy, których zabrakło Tildzie Swinton po&nbsp;śmierci Dereka Jarmana (ich listę cytuję za&nbsp;wstępem do książki Małgorzaty Radkiewicz):</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2349-1-pb-1920x-272.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2349-1-pb-330x-20c.jpg 330w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2349-1-pb-660x-52a.jpg 660w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2349-1-pb-768x-4a6.jpg 768w,assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2349-1-pb-1320x-4a9.jpg 1320w" src="assets/cache/images/issues/2014/5/z-bibliotecznej-szafy/192-2349-1-pb-660x-52a.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <blockquote>bałaganu <br> trywialności <br> żargonu <br> poezji <br> zjadliwości <br> prawdziwych twarzy <br> intelektualizmu <br> nauki <br> złego humoru <br> dobrego humoru <br> zuchwalstwa <br> wzorców <br> anarchii <br> prostactwa <br> romantyzmu <br> klasycyzmu <br> optymizmu <br> aktywizmu <br> wyzwań <br> radości <br> swawoli <br> napuszoności <br> sprzeciwu <br> dowcipu <br> walki <br> kolorów <br> wdzięku <br> pasji <br>piękna.</blockquote> <p></p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/queer-obrazy/z-bibliotecznej-szafy.-przeklady-i-przepisania-queer" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

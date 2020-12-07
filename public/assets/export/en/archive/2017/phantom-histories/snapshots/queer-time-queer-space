@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Queerowy czas, queerowa przestrzeń | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2017/historie-fantomowe/queerowy-czas-queerowa-przestrzen">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Queerowy czas, queerowa przestrzeń | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Queerowy czas, queerowa przestrzeń | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2017/historie-fantomowe/queerowy-czas-queerowa-przestrzen">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Queerowy czas, queerowa przestrzeń | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #9c9c53 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #9c9c53 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #9c9c53 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #9c9c53 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #9c9c53 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #9c9c53 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #9c9c53 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #9c9c53 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(156,156,83,0.8) !important; */
+			/* background-color:#9c9c53 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(156,156,83,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#9c9c53 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(156,156,83,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#9c9c53; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(156,156,83,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(156,156,83,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#9c9c53 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#9c9c53 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#9c9c53 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-608 parent-id-579">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="449" data-selected-issue-color="#9c9c53" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/phantom-histories#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/queer-time-queer-space">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2017/historie-fantomowe#toc">18</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2017/historie-fantomowe/queerowy-czas-queerowa-przestrzen?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Queerowy czas, queerowa przestrzeń</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2017/historie-fantomowe/queerowy-czas-queerowa-przestrzen?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=609">Sebastian Jagielski</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Grzegorz Stępniak, <em>Sztuka życia inaczej. Ustanawianie queerowego czasu i&nbsp;przestrzeni</em>, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2017</h2> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/queerowy-czas/534-7035-1-pb-1920x-11f.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2017/18/queerowy-czas/534-7035-1-pb-330x-83a.jpg 330w,assets/cache/images/issues/2017/18/queerowy-czas/534-7035-1-pb-660x-50f.jpg 660w,assets/cache/images/issues/2017/18/queerowy-czas/534-7035-1-pb-768x-b7d.jpg 768w,assets/cache/images/issues/2017/18/queerowy-czas/534-7035-1-pb-1320x-636.jpg 1320w" src="assets/cache/images/issues/2017/18/queerowy-czas/534-7035-1-pb-660x-50f.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>W artykule <em>Czytanie paranoiczne, czytanie reparacyjne, albo: masz paranoję i&nbsp;pewnie myślisz, że&nbsp;ten tekst jest o&nbsp;tobie</em> Eve Kosofsky Sedgwick przywołuje fragment z&nbsp;ostatniego – „ekstrawagancko reparacyjnego” – tomu <em>W poszukiwaniu straconego czasu</em> Marcela Prousta<a href="#sdendnote1sym" name="sdendnote1anc"><sup>1</sup></a>. Narrator uczestniczy w&nbsp;nim w&nbsp;przyjęciu, na&nbsp;którym wszyscy goście – jak mu się początkowo zdaje – przebrani są za&nbsp;starców. W&nbsp;końcu orientuje się, że&nbsp;to nie maskarada. Jasne staje się, że&nbsp;zarówno oni, jak i&nbsp;on są starzy. Doświadczenie tego rodzaju „temporalnej dezorientacji” nie koresponduje, rzecz jasna, z&nbsp;doświadczaniem czasu przez heteroseksualnego ojca rodziny, doświadczeniem opartym na&nbsp;„pokoleniowym pochodzie” i&nbsp;edypalnej powtarzalności („[j]eśli coś wydarzyło się ojcu mojego ojca, wydarzy się też mojemu ojcu, a&nbsp;więc wydarzy się i&nbsp;mnie, mojemu synowi i&nbsp;synowi mojego syna”<a href="#sdendnote2sym" name="sdendnote2anc"><sup>2</sup></a>). Dezorientacja ta cechuje czas queerowy, o&nbsp;którym w&nbsp;książce <em>Sztuka życia inaczej. Ustanawianie queerowego czasu i&nbsp;przestrzeni</em> pisze Grzegorz Stępniak.</p> <p>Refleksję nad „innym życiem” queerowych społeczności autor osadził na&nbsp;tle dokonującego się w&nbsp;latach 2000. na&nbsp;gruncie teorii queer zwrotu czasowo-przestrzennego. Zwrot ten pozwala uchwycić bodaj najważniejszą różnicę między refleksją queerową z&nbsp;lat 90. XX wieku a&nbsp;tą rozwijaną już w&nbsp;XXI wieku: w&nbsp;pierwszej z&nbsp;tych dekad zgłębiano głównie problem tożsamości seksualnych i&nbsp;genderowych, podczas gdy w&nbsp;drugiej „queerowych podmiotów” częściej szukano wśród grup społecznych, których piętno wiąże się z&nbsp;odmiennością i/lub słabością etniczną, rasową czy klasową. Innymi słowy, nad analizowanie modeli (homo)seksualności queerowi teoretycy przedkładają obecnie rozważania dotyczące wszystkich tych, których nie sposób pochwycić w&nbsp;normatywne ramy (nie tylko seksualne), którzy nie kształtują swojej codzienności według czasu określonego przez reprodukcję i&nbsp;rodzinę i&nbsp;nie sięgają po&nbsp;konserwatywne strategie równości. Tym samym Stępniak na&nbsp;swoich bohaterów wybrał nie tylko czarnych gejów i&nbsp;osoby transgenderowe, <em>princess boys</em> i&nbsp;<em>butch</em>-babcie, ale też heteroseksualnego, 40-letniego prawiczka czy białego hetero-emeryta, który swym powiernikiem (i psychoterapeutą) uczynił „wirtualnego” czarnoskórego chłopca z&nbsp;Afryki.</p> <p>Autor rozważa różne okresy ludzkiego życia, koncentrując się na&nbsp;kulturowych reprezentacjach, ukazujących subwersywny, alternatywny i&nbsp;niekonwencjonalny sposób bycia w&nbsp;świecie. Dowodzi przy tym, że&nbsp;wszystkie te fazy są w&nbsp;istocie konstruktami ideologicznymi. W&nbsp;rozdziale poświęconym dzieciństwu – za&nbsp;Kathryn Bond Stockton – stwierdza, że&nbsp;„wszystkie dzieci są queer” (s. 52). I&nbsp;nie idzie mu o&nbsp;to, że&nbsp;wszystkie dzieci są homoseksualne, lecz że&nbsp;wszystkie są nienormatywne, dziwne, niedopasowane, inne. Szczegółowo analizuje jednak głównie utwory opowiadające o&nbsp;dzieciństwie osób LGBT. Queerowe doświadczenie staje się dla nich dostępne tylko retrospektywnie, okazuje się czytelne dopiero, gdy dzieciństwo dobiegnie końca. Autor pisze więc o&nbsp;„wstecznych narodzinach”, będących zarazem „pogrzebem” wyprawionym przez dorosłych już odmieńców ich dawnemu heteroseksualnemu życiu. Opowiadają o&nbsp;tym analizowane przez Stępniaka autobiograficzne performanse: <em>My Queer Body</em> (1993) Tima Millera, <em>Mad Women</em> (2011) Johna Flecka i&nbsp;<em>You’re Just Like My Father</em> (1993) Peggy Shaw, w&nbsp;których dzieciństwo skojarzone zostało głównie z&nbsp;cross-genderowymi identyfikacjami. Najważniejszą postacią w&nbsp;procesie kształtowania się homoseksualnej podmiotowości okazuje się gwiazda: queerowe dzieci głęboko utożsamiają się z&nbsp;bohaterami i&nbsp;bohaterkami kultury popularnej, zdobywając w&nbsp;ten sposób ważne wiadomości o&nbsp;sobie, nie przypuszczając jednak, co te informacje w&nbsp;istocie oznaczają. Fleck łączy swoje dzieciństwo z&nbsp;Judy Garland, a&nbsp;Shaw z&nbsp;Elvisem Presleyem. Ten pierwszy widzi siebie w&nbsp;roli syna Garland, kojarząc z&nbsp;nią także swoich rodziców: matka była jej fanką, a&nbsp;ojciec – jak Judy – był alkoholikiem. Z&nbsp;kolei Presley okazał się dla Shaw, którą matka uwielbiała ubierać w&nbsp;koszule i&nbsp;krawaty ojca, nauczycielem męskości.</p> <p>Jeśli dzieciństwo jawi się u&nbsp;Stępniaka jako okres szczególnie nienormatywny, to dorosłość spętana jest rozlicznymi nakazami i&nbsp;zakazami. Ciekawy jest tu punkt wyjścia: autor szuka nienormatywności u&nbsp;heteryków/heteryczek i&nbsp;normatywności wśród białych lesbijek i&nbsp;gejów z&nbsp;klasy średniej. W&nbsp;przypadku queerowania heteroseksualizmu w&nbsp;użyciu są dwie kategorie: „niedojrzałość” i&nbsp;„porażka”. Przegrani niechybnie uderzają w&nbsp;promowany w&nbsp;kapitalistycznym systemie model spełnienia oparty na&nbsp;polityce sukcesu (oczywiście głównie finansowego). Jak twierdzi Halberstam, można przegrywać dobrze i&nbsp;uczyć się, jak „przegrywać lepiej” (s. 98). Przyglądając się filmom z&nbsp;gatunku <em>mumblecore</em>, Stępniak zauważa, że&nbsp;takie cechy, jak niedojrzałość, niezaradność życiowa, niezdarność czy głupota mogą przynieść kulturowe korzyści, ale tylko białym i&nbsp;heteroseksualnym mężczyznom (w przypadku kobiet te same cechy postrzegane są jednoznacznie negatywnie). Natomiast przykładem dorosłej homonormatywności<a href="#sdendnote3sym" name="sdendnote3anc"><sup>3</sup></a> są tu – zalegalizowane we wszystkich stanach USA w&nbsp;2015 roku – małżeństwa jednopłciowe. Omawiając amerykańską dyskusję na&nbsp;temat małżeństw homoseksualnych, Stępniak jasno określa swoje stanowisko – nie ma się z&nbsp;czego cieszyć, czego celebrować i&nbsp;świętować. Te rozwiązania prawne wiążą się bowiem z&nbsp;normalizującą i&nbsp;asymilacyjną polityką, która zamiast poszerzać obszar wolności, gruntuje i&nbsp;umacnia tylko system neoliberalny. Zdaniem autora polityka ta wiąże się z&nbsp;wieloma pułapkami: po&nbsp;pierwsze z&nbsp;demobilizacją homoseksualnych społeczności (zamiast podważać dominujące amerykańskie instytucje, geje i&nbsp;lesbijki dążą do tego, by stać się ich częścią), po&nbsp;drugie zaś z&nbsp;uprzywilejowaniem białej, wywodzącej się z&nbsp;klasy średniej elity gejowsko-lesbijskiej kosztem innych queerów: społeczności trans, osób kolorowych czy ubogich imigrantów. O&nbsp;tych wykluczeniach autor opowiada na&nbsp;przykładzie osób transgenderowych oraz odrzucających wielkomiejski styl życia. Transgenderyzm ze swoją obietnicą płciowej wolności i&nbsp;rebelii uderza nie tylko w&nbsp;heteronormatywność, lecz także w&nbsp;homonormatywność. „Nielegalni”, bo&nbsp;zagrażający państwowości, trans-bohaterowie quasi-autobiograficznego performansu Kate Bornstein <em>Virtually Yours</em> (1994) i&nbsp;filmu Johna Camerona Mitchella <em>Cal do szczęścia</em> (2001) nie tylko queerują dorosłość, destabilizując charakterystyczne dla tego okresu wzorce kulturowe, ale i&nbsp;problematyzują transgenderowe doświadczenie, sytuując się między hetero i&nbsp;homo, męskim i&nbsp;kobiecym, wirtualnym i&nbsp;rzeczywistym. Wykluczane są także te podmioty, które odrzuciły dominujący w&nbsp;środowisku LGBTQ „queerowy urbanizm”. Dorosłe życie gejów i&nbsp;lesbijek wiąże się przede wszystkim z&nbsp;przestrzenią miejską. Zgodnie z&nbsp;tradycyjną narracją ucieczka z&nbsp;prowincji do miasta oznacza psychologiczną i&nbsp;dosłowną podróż od życia w&nbsp;„szafie” do <em>coming outu</em>, od ostracyzmu i&nbsp;samotności do seksualnej wolności i&nbsp;gejowsko-lesbijskiego stylu życia. Jak w&nbsp;analizowanym przez Stępniaka w&nbsp;rozdziale o&nbsp;dzieciństwie filmie <em>Fucking Åmål</em> (reż. Lukas Moodysson, 1998), w&nbsp;którym odkrywanie lesbijskiej tożsamości wiąże się z&nbsp;jednej strony z&nbsp;odrzuceniem „pieprzonego Åmål”, a&nbsp;z drugiej z&nbsp;tęsknotą za&nbsp;wymarzonym Sztokholmem. Za&nbsp;przykład queerowego antyurbanizmu służy autorowi performans <em>Sweet Tea</em> E. Patricka Johnsona, opowiadający o&nbsp;czarnych religijnych gejach z&nbsp;Południa, których tożsamość seksualna ukształtowana została za&nbsp;sprawą miejsca, gdzie przyszło im żyć (np. homofobiczny, opresyjny Kościół jako przestrzeń poznawania partnerów).</p> <p>Czy starość może być nienormatywna? Konwencjonalną reprezentację starości – w&nbsp;<em>Miłości</em> (reż. Michael Haneke, 2012), <em>Prostej historii</em> (reż. David Lynch, 1999) – Stępniak zderza z&nbsp;tą subwersywną: między innymi performansem <em>A Menopausal Gentleman</em> (1996) Peggy Shaw, w&nbsp;którym społeczna niewidzialność starzejącego się ciała uzależniona jest nie tyle od biologii, ile od czynników społecznych i&nbsp;kulturowych. Performanse o&nbsp;starości i&nbsp;starzeniu się (prócz utworu Shaw także <em>Lost Lounge</em> Split Britches i&nbsp;<em>The Dog and Pony Show (Bring Your Own Pony)</em> Holly Hughes) częściej zrywają z&nbsp;konwencjonalnymi opowieściami o&nbsp;chorobie i&nbsp;niewidzialności niż ich filmowe odpowiedniki. W&nbsp;<em>Debiutantach</em> (reż. Mike Mills, 2010) 75-letni gej po&nbsp;śmierci żony robi <em>coming out</em> przed synem i&nbsp;rzuca się w&nbsp;wir gejowskiego, konsumpcyjnego życia. Jest w&nbsp;tym – z&nbsp;jednej strony – wywrotowa moc, bo&nbsp;starość stereotypowo kojarzy się z&nbsp;czasem, w&nbsp;którym nie ma miejsca na&nbsp;seks (zwłaszcza nieheteronormatywny). Z&nbsp;drugiej jednak euforia 75-latka okazuje się, zdaniem autora <em>Sztuki życia inaczej</em>, bardzo normatywna (gejowska kultura konsumpcyjna jako nagroda za&nbsp;lata spędzone w&nbsp;ukryciu).</p> <p>Zgodnie z&nbsp;zapowiedziami ze wstępu autor ilustruje rozważania najnowszymi amerykańskimi filmami niezależnymi i&nbsp;performansami. Wybór słuszny, bo&nbsp;prace spod znaku teorii queer – zwłaszcza te z&nbsp;lat 90. – koncentrowały się przede wszystkim na&nbsp;tekstach i&nbsp;obrazach zwykle sytuujących się w&nbsp;centrum kanonu, a&nbsp;nie na&nbsp;jego obrzeżach czy peryferiach. Było to zresztą w&nbsp;pełni zrozumiałe: badacze zwrócili się w&nbsp;stronę klasycznych dzieł, by sprzeciwić się krytykom lekceważącym queerowe reinterpretacje, określającym je jako marginalne, subkulturowe i&nbsp;nieistotne. Dowodzili tym samym, że&nbsp;zarówno queerowi twórcy, jak i&nbsp;queerowe dzieła są znaczącą częścią kanonu kultury euroamerykańskiej. Skoro wnikliwie squeerowano już Marcela Prousta i&nbsp;Virginii Woolf, Judy Garland i&nbsp;Rocka Hudsona, Andy'ego Warhola i&nbsp;Francisa Bacona, a&nbsp;nawet Alfreda Hitchcocka i&nbsp;Ingmara Bergmana, przyszedł czas na&nbsp;przyjrzenie się temu, co poza kanonem, co niszowe i&nbsp;niezależne. Stępniak swój wybór wyjaśnia jednak inaczej: najpierw – powołując się na&nbsp;dwie niedawno wydane książki Halberstama<a href="#sdendnote4sym" name="sdendnote4anc"><sup>4</sup></a> – zauważa, że&nbsp;„[w] ciągu ostatnich kilku lat teoretycy queer zajmujący się kulturą czy nauką o&nbsp;sztuce zwrócili się w&nbsp;stronę popularnych, mainstreamowych filmów, spektakli, dzieł sztuki oraz ikon popkultury” (warto dodać, że&nbsp;podstawowa dla queerowych badań kultury popularnej książka Alexandra Doty’ego – <em>Making Things Perfectly Queer. Interpreting Mass Culture</em><a href="#sdendnote5sym" name="sdendnote5anc"><sup>5</sup></a> – została opublikowana dwadzieścia lat temu), po&nbsp;czym dodaje, że&nbsp;jego wybór performansów i&nbsp;filmów podyktowany został chęcią stworzenia niszowego „queerowego archiwum”, w&nbsp;którym znalazłoby się miejsce głównie dla tych dzieł, które przez amerykańskich teoretyków są „rzadziej omawiane” i&nbsp;które w&nbsp;Polsce są „mniej znane” (s. 32). Po&nbsp;pierwsze jednak trudno się zgodzić, że&nbsp;filmy takie jak analizowany w&nbsp;zakończeniu <em>Shortbus</em> (reż. John Cameron Mitchell, 2006) są przez badaczy „rzadziej omawiane”. Interpretacje filmu Mitchella znaleźć można na&nbsp;łamach prestiżowych amerykańskich pism feministycznych i&nbsp;queerowych (np. „Camera Obscura” czy „GLQ”), pisała o&nbsp;nim również choćby Linda Williams, a&nbsp;w Polsce Tomasz Basiuk<a href="#sdendnote6sym" name="sdendnote6anc"><sup>6</sup></a>. Po&nbsp;tych – i&nbsp;innych – odniesieniach nie ma u&nbsp;Stępniaka śladu, co wcale nie oznacza, że&nbsp;literatura dotycząca omawianych przez niego filmów nie istnieje. Po&nbsp;drugie, o&nbsp;ile analizowane przez Stępniaka performanse być może rzeczywiście są w&nbsp;Polsce słabiej znane, o&nbsp;tyle nie jest pewne, czy podobnie rzecz się ma z&nbsp;filmami wyprodukowanymi przez tak duże wytwórnie, jak Universal Pictures (<em>40-letni prawiczek</em>, 2005, reż. Judd Apatow) czy Paramount Pictures (<em>Przodem do tyłu</em>, 1997, reż. Frank Oz) albo filmami nominowanymi do Oscara (np. <em>Schmidt</em>, reż. Alexander Payne, 2002 czy <em>Debiutanci</em>, którzy przynieśli Christopherowi Plummerowi Oscara).</p> <p>Co więcej, autor najpierw zapowiada, że&nbsp;książka dotyczyć będzie amerykańskiego performansu i&nbsp;filmu niezależnego, po&nbsp;czym pisze o&nbsp;szwedzkim <em>Fucking Åmål</em> czy austriacko-francuskiej <em>Miłości</em>. Geograficzne zamieszanie na&nbsp;tym jednak się nie kończy. Tytuł obszernego, trzydziestostronicowego wstępu brzmi: „<em>The Queerest of the Queer, the Strangest of the Strange</em>, czyli o&nbsp;tym, co i&nbsp;dlaczego jest queer w&nbsp;USA, Polsce i&nbsp;samych <em>queer studies</em>”, przy czym „sprawa polska” sprowadza się tu do zaledwie dwóch ogólnych zdań (s. 27, 37). Do kwestii teorii queer w&nbsp;Polsce autor wraca w&nbsp;finale pracy. Z&nbsp;jednej strony słusznie zauważa, że&nbsp;„nie miejsce tu, by zajmować się dziesięcioletnią bez mała historią <em>queer studies</em> na&nbsp;gruncie polskim”<a href="#sdendnote7sym" name="sdendnote7anc"><sup>7</sup></a> (s. 254), „nie miejsce tu”, bo&nbsp;książka osadzona jest w&nbsp;amerykańskim kontekście, dotyczy amerykańskiego performansu, kina i&nbsp;teorii wypracowanych przez amerykańskich teoretyków. Z&nbsp;drugiej jednak formułuje on na&nbsp;temat polskich <em>queer studies</em> – na&nbsp;podstawie o&nbsp;zaledwie dwóch tomów zbiorowych i&nbsp;jednej monografii<a href="#sdendnote8sym" name="sdendnote8anc"><sup>8</sup></a> – tezy albo wątpliwe, albo nazbyt oczywiste. Stępniak sądzi na&nbsp;przykład, że&nbsp;„jedną z&nbsp;podstawowych bolączek” trapiących polską refleksję spod znaku queer jest jej „spowinowacenie z&nbsp;szeroko pojętymi studiami socjologicznymi, w&nbsp;dodatku takie, które prowadzi do niemal mechanicznego przekładania teorii powstałych na&nbsp;gruncie amerykańskim do analizy polskich realiów” (s. 255). Teoria queer aplikowana jest w&nbsp;Polsce na&nbsp;obszarze nie tylko – a&nbsp;nawet nie przede wszystkim – socjologii, lecz literaturoznawstwa (specjalizują się w&nbsp;niej głównie poloniści/polonistki i&nbsp;angliści/anglistki, by wspomnieć choćby prace Tomasza Basiuka, Bartosza Dąbrowskiego, Błażeja Warkockiego, Tomasza Sikory, Dominiki Ferens, Wojciecha Śmiei, Tomasza Kaliściaka, Mariana Bieleckiego, Izabeli Morskiej (Filipiak)<a href="#sdendnote9sym" name="sdendnote9anc"><sup>9</sup></a>). Natomiast zarzutu mechanicznego aplikowania wypracowanych na&nbsp;odmiennym gruncie kulturowym teorii do analizy polskich tekstów i&nbsp;praktyk autor nie uwierzytelnia żadnymi przykładami. Apel Stępniaka jest słuszny – wypracowana głównie na&nbsp;amerykańskim gruncie teoria queer winna służyć nam za&nbsp;ramę i&nbsp;inspirację, ale nie powinniśmy tracić z&nbsp;oczu rodzimego kontekstu i&nbsp;rodzimej specyfiki kulturowej. Tymi ogólnymi uwagami autor jednak Ameryki nie odkrywa.</p> <p><a name="_GoBack"></a> Bardzo cenna jest za&nbsp;to kreślona tu mapa teoretycznych ścieżek, którymi współcześnie podążają amerykańscy badacze <em>queer studies</em>. Autor starannie opisuje wiele najbardziej wpływowych koncepcji współtworzących zwrot czasowo-przestrzenny. Odwołuje się między innymi do prac Lee Edelmana, Elizabeth Freeman, José Estebana Muñoza, Jacka Halberstama, Heather Love, Kathryn Bond Stockton. Wyłania się z&nbsp;nich, ale też i&nbsp;z interpretowanych przez Stępniaka performansów i&nbsp;filmów, nienormatywna i&nbsp;anarchistyczna „sztuka życia inaczej”. Tworzą ją tak różne zjawiska i&nbsp;postaci: dziecięce cross-genderowe identyfikacje i&nbsp;„intymność na&nbsp;odległość”; obnażający mit dziecięcej niewinności, perwersyjni i&nbsp;transgresyjni chłopcy („upiorne dziecko-gej”) oraz niedojrzali dorośli ćwiczący się w&nbsp;sztuce przegrywania; transgenderowe ciała destabilizujące system kapitalistyczny i&nbsp;otwarci na&nbsp;niekonwencjonalne praktyki, spotkania i&nbsp;przyjaźnie starzejący się ludzie. Negatywnym bohaterem okazuje się tu przede wszystkim homonormatywność, będąca domeną – żyjących zgodnie z&nbsp;czasem heteroseksualnej większości – białych lesbijek i&nbsp;gejów z&nbsp;klasy średniej. Stępniak zauważa, że&nbsp;są oni teraz – po&nbsp;zalegalizowaniu w&nbsp;USA małżeństw jednopłciowych – „nowym rodzajem »normalności«” (s. 24), stabilizującym, a&nbsp;nie podkopującym neoliberalny system, co oznacza, że&nbsp;doświadczenie „temporalnej dezorientacji”, o&nbsp;którym pisała w&nbsp;kontekście lesbijek i&nbsp;gejów Kosofsky Sedgwick, nie może być dalej ich udziałem. Heather Love argumentowała, że&nbsp;asymilacja (przejście gejów i&nbsp;lesbijek do mainstreamu kulturowego i&nbsp;politycznego) wiąże się nie tylko z&nbsp;korzyściami (Stępniak w&nbsp;ogóle o&nbsp;nich nie wspomina, małżeństwa jednopłciowe oceniając jednoznacznie negatywnie), lecz także ze stratami: zarówno z&nbsp;krótkowzrocznym odrzuceniem negatywnych afektów, wyznaczających dotąd trajektorię gejowsko-lesbijskiego bycia w&nbsp;świecie, jak i&nbsp;z zerwaniem więzów z&nbsp;innymi queerami: imigrantami, niepełnosprawnymi, osobami kolorowymi, transgenderowymi czy biednymi (s. 210). Ale czy oznacza to, że&nbsp;queerowość jest już gdzie indziej? Muñoz ujął to tak: „Nigdy nie byliśmy/łyśmy odmieńcami, a&nbsp;jednak odmieńczość [queerowość – dop. S.J.] istnieje dla nas jako idealność, która może być destylowana z&nbsp;przeszłości i&nbsp;której możemy użyć, by wyobrazić sobie przyszłość”<a href="#sdendnote10sym" name="sdendnote10anc"><sup>10</sup></a>. Queerowość staje się tu utopią majaczącą na&nbsp;horyzoncie. Książka Stępniaka – czytana „tu i&nbsp;teraz” – dowodzi, że&nbsp;„życie inaczej” jest możliwe.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdendnote1anc" name="sdendnote1sym">1</a><sup></sup> Eve Kosofsky Sedgwick, <em>Czytanie paranoiczne, czytanie reparacyjne, albo: masz paranoję i pewnie myślisz, że ten tekst jest o tobie</em>, przeł. M. Szcześniak, „Widok. Teorie i Praktyki Kultury Wizualnej” 2014, nr 5, <a href="http://pismowidok.org/index.php/one/article/view/184/299" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/article/view/184/299</a>, dostęp 29 grudnia 2017.</p>
+<p><a href="#sdendnote2anc" name="sdendnote2sym">2</a><sup></sup> Ibidem.</p>
+<p><a href="#sdendnote3anc" name="sdendnote3sym">3</a><sup></sup> Lisa Duggan, <em>The New Homonormativity. The Sexual Politics of Neoliberalism</em>, w: <em>Materializing Democracy: Toward a Revitalized Cultural Politics</em>, red. R. Castronovo, D.D. Nelson, Duke University Press, Durham–London 2002.</p>
+<p><a href="#sdendnote4anc" name="sdendnote4sym">4</a><sup></sup> Judith Halberstam, <em>The Queer Art of Failure</em>, Duke University Press, Durham-London 2011; J. Jack Halberstam, <em>Gaga Feminism: Sex, Gender, and the End of Normal</em>, Beacon Press, Boston 2012. Polski przekład <em>The Queer Art of Failure </em>ukaże się w 2018 roku nakładem Wydawnictwa Krytyki Politycznej.</p>
+<p><a href="#sdendnote5anc" name="sdendnote5sym">5</a><sup></sup> Alexander Doty, <em>Making Things Perfectly Queer. Interpreting Mass Culture</em>, University of Minnesota Press, Minneapolis–London 1997.</p>
+<p><a href="#sdendnote6anc" name="sdendnote6sym">6</a><sup></sup> Por. np. Nick Davis, <em>The View from the „Shortbus”, or All Those Fucking Movies</em>, „GLQ. A Journal of Lesbian and Gay Studies” 2008, t. 14, nr 4, s. 623–637; Corinn Columpar, <em>A Permeable Practice: „Shortbus” and the Politics of Cinematic Collaboration</em>, „Camera Obscura. Feminism, Culture, and Media Studies” 2016, t. 31, nr 1 (91), s. 5–25; Linda Williams, <em>Seks na ekranie</em>, przeł. M. Wojtyna, słowo/obraz terytoria, Gdańsk 2013; Tomasz Basiuk, <em>Wstyd w wielkim mieście: o filmie „Shortbus”</em>, w: <em>Spojrzenie – Spektakl – Wstyd</em>, red. J. Potkański, R. Pruszczyński, Elipsa, Warszawa 2011, s. 42–56.</p>
+<p><a href="#sdendnote7anc" name="sdendnote7sym">7</a><sup></sup> Jeśli przyjąć, że polską recepcję teorii queer otwiera wydany w 2002 roku tom <em>Odmiany odmieńca: mniejszościowe orientacje seksualne w perspektywie gender/A queer mixture: gender perspectives on minority sexual identities</em>, (red. T. Basiuk, D. Ferens, T. Sikora, Wyd. Naukowe Śląsk, Katowice 2002), to historia polskich <em>queer studies</em> liczy sobie więcej niż „bez mała” dziesięć lat.</p>
+<p><a href="#sdendnote8anc" name="sdendnote8sym">8</a><sup></sup> Joanna Mizielińska, <em>Płeć, ciało, seksualność. Od feminizmu do teorii queer</em>, Universitas, Kraków 2006; <em>Z odmiennej perspektywy. Studia queer w Polsce</em>, red. M. Baer, M. Lizurej, Oficyna Wydawnicza Arboretum, Wrocław 2007; <em>Strategie queer. Od teorii do praktyki</em>, red. M. Kłosowska, M. Drozdowski, A. Stasińska, Difin, Warszawa 2012.</p>
+<p><a href="#sdendnote9anc" name="sdendnote9sym">9</a><sup></sup> Por. np. <em>Parametry pożądania. Kultura odmieńców wobec homofobii</em>, red. T. Basiuk, D. Ferens, T. Sikora, Universitas, Kraków 2006; Izabela Filipiak, <em>Obszary odmienności. Rzecz o Marii Komornickiej</em>, słowo/obraz terytoria, Gdańsk 2006; Bartosz Dąbrowski, <em>Szymanowski. Muzyka jako autobiografia</em>, słowo/obraz terytoria, Gdańsk 2010; Tomasz Kaliściak, <em>Katastrofy odmieńców</em>, Wyd. Uniwersytetu Śląskiego, Katowice 2011; Marian Bielecki, <em>Kłopoty z innością</em>, Universitas, Kraków 2012; Błażej Warkocki, <em>Różowy język. Literatura i polityka kultury na początku wieku</em>, Wydawnictwo Krytyki Politycznej, Warszawa 2013; Wojciech Śmieja, <em>Homoseksualność i polska nowoczesność. Szkice o teorii, historii i literaturze</em>, Wydawnictwo UŚ, Katowice 2015.</p>
+<p><a href="#sdendnote10anc" name="sdendnote10sym">10</a><sup></sup> José Esteban Muñoz, <em>Uwodząc Utopię</em>, przeł. M.A. Pelczar, w: <em>Teorie wywrotowe. Antologia przekładów</em>, red. A. Gajewska, Wyd. Poznańskie, Poznań 2012, s. 797.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2017/historie-fantomowe/queerowy-czas-queerowa-przestrzen" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

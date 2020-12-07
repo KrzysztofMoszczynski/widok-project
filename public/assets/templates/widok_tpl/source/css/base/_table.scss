@@ -1,0 +1,135 @@
+.table > thead > tr > th, 
+.table > tbody > tr > th, 
+.table > tfoot > tr > th, 
+.table > thead > tr > td, 
+.table > tbody > tr > td, 
+.table > tfoot > tr > td {
+  vertical-align: middle;
+}
+
+.table-condensed > thead > tr > th, 
+.table-condensed > tbody > tr > th, 
+.table-condensed > tfoot > tr > th, 
+.table-condensed > thead > tr > td, 
+.table-condensed > tbody > tr > td, 
+.table-condensed > tfoot > tr > td {
+  font-size: 12px; 
+  line-height: 14px;
+}
+
+/* add background color to headers */
+
+.table > thead > tr > th, 
+.table > tbody > tr > th, 
+.table > tfoot > tr > th {
+  background-color: #ebebeb;
+}
+
+.table > thead > tr > th.text-left, 
+.table > tbody > tr > th.text-left, 
+.table > tfoot > tr > th.text-left {
+  text-align: left;
+}
+
+.table > thead > tr > th.text-right, 
+.table > tbody > tr > th.text-right, 
+.table > tfoot > tr > th.text-right {
+  text-align: left;
+}
+
+.table > thead > tr > th.text-center, 
+.table > tbody > tr > th.text-center, 
+.table > tfoot > tr > th.text-center {
+  text-align: center;
+}
+
+/* remove top border from first thead row */
+
+.table > thead > tr:last-child > th,
+.table > thead > tr:last-child > td {
+  border-bottom-width: 0;
+}
+
+/* responsive tables */
+
+@media only screen and (max-width: 768px) {
+  // Force table to not be like tables anymore 
+  /*
+  .responsive-table,
+  .responsive-table thead,
+  .responsive-table tbody,
+  .responsive-table th,
+  .responsive-table td,
+  .responsive-table tr {
+    display: block;
+  }
+
+  // Hide table headers (but not display: none;, for accessibility)
+  .responsive-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .responsive-table tr { border: 1px solid #ccc; margin-top: -2px;}
+  .responsive-table tr:nth-child(even) {background-color: #f7f7f7;}
+
+  .responsive-table td {
+    // Behave like a "row" 
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 50% !important;
+    white-space: normal;
+    text-align: left !important;
+    width: auto !important;
+  }
+
+  .responsive-table td:before {
+    // Now like a table header 
+    position: absolute;
+    // Top/left values mimic padding 
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    text-align:left;
+    font-weight: normal;
+    color: #781477;
+  }
+
+  // Label the data
+  .responsive-table td:before { content: attr(data-title); }
+  */
+
+  // make all tables responsive inside specified div 
+  /*
+  .content > table,
+  .content > table thead,
+  .content > table tbody,
+  .content > table th,
+  .content > table td,
+  .content > table tr {
+    display: block;
+  }
+
+  .content > table {
+    max-width: 100%;
+  }
+
+  .content > table tr {
+    border: 0 none;
+  }
+
+  .content > table td {
+    border: none;
+    border-bottom: 0 none;
+    position: relative;
+    white-space: normal;
+    text-align: left !important;
+    width: auto !important;
+  }
+  */
+
+}

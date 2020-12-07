@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>„Sztuka wiejska”. Poza styl narodowy | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2016/uchodzcy-obrazy-migracji-pamiec-w-ruchu/sztuka-wiejska.-poza-styl-narodowy">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="„Sztuka wiejska”. Poza styl narodowy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="„Sztuka wiejska”. Poza styl narodowy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2016/uchodzcy-obrazy-migracji-pamiec-w-ruchu/sztuka-wiejska.-poza-styl-narodowy">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="„Sztuka wiejska”. Poza styl narodowy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #808080 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #808080 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #808080 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #808080 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #808080 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #808080 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #808080 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #808080 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(128,128,128,0.8) !important; */
+			/* background-color:#808080 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(128,128,128,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#808080 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(128,128,128,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#808080; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(128,128,128,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(128,128,128,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#808080 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#808080 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#808080 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-811 parent-id-774">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="445" data-selected-issue-color="#808080" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/refugees-fugitive-images-memory-in-motion#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/refugees-fugitive-images-memory-in-motion/folk-art-moving-beyond-the-national-style">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2016/uchodzcy-obrazy-migracji-pamiec-w-ruchu#toc">14</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-14/14-borys.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>„Sztuka wiejska”. Poza styl narodowy</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-14/14-borys.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=809">Monika Borys</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>„Polska – kraj folkloru?”, kuratorka: Joanna Kordjak, Zachęta – Narodowa Galeria Sztuki, 15 października 2016 – 15 stycznia 2017</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5643-1-pb-1920x-418.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5643-1-pb-330x-fde.jpg 330w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5643-1-pb-660x-023.jpg 660w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5643-1-pb-768x-146.jpg 768w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5643-1-pb-1320x-c7b.jpg 1320w" src="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5643-1-pb-660x-023.jpg" alt="" ></a>    <figcaption><p>Zespół pieśni i&nbsp;tańca, założony przy spółdzielni Kamionka w&nbsp;Łysej Górze, podczas tournée, Egipt, lata 60.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Czarno-biała fotografia z&nbsp;wyjazdu Zespołu Pieśni i&nbsp;Tańca „Kamionka” na&nbsp;Międzynarodowy Festiwal Folklorystyczny w&nbsp;Kairze w&nbsp;1964 roku przyciąga uwagę surrealistyczną aurą. Zdjęcie wypełniają elementy imaginarium (polskich) „inności” – przedstawia ono grupę osób w&nbsp;krakowskich strojach ludowych pozujących na&nbsp;tle piramidy i&nbsp;sfinksa. Fantazyjne pawie pióropusze przyczepione do męskich rogatywek zaskakująco dobrze wtapiają się w&nbsp;egzotyczny krajobraz. Wśród uśmiechniętych tancerzy i&nbsp;tancerek są też dwie osoby ubrane zwyczajnie – to być może założyciele zespołu, który powstał przy Spółdzielni Wyrobów Ceramicznych „Kamionka” w&nbsp;Łysej Górze, utworzony w&nbsp;1947 roku przez ludowego działacza Franciszka Mleczkę. Fotografia jest bardzo mała, nieproporcjonalna względem swojej nadmiarowej symboliki i&nbsp;przerysowania. Dlatego zapewne zdjęcie w&nbsp;powiększonym formacie znalazło się na&nbsp;plakacie promującym wystawę „Polska – kraj folkloru?” kuratorowanej przez Joannę Kordjak w&nbsp;Zachęcie.</p> <p>Symbole odległych sobie światów łączy podobny sposób funkcjonowania w&nbsp;kulturze wizualnej. Piramidy, sfinks i&nbsp;strój ludowy to figury przesiąknięte mitem odwieczności i&nbsp;autentyczności, to obrazy-mity, które odsyłają jednak do konkretnej rzeczywistości. W&nbsp;społecznej wyobraźni funkcjonują jak synekdochy, powielane masowo i&nbsp;mocno osadzone w&nbsp;wyobrażeniach społecznych na&nbsp;temat Egiptu i&nbsp;Polski (albo szerzej Afryki Północnej i&nbsp;Europy Wschodniej). Polski folklor nabiera przy piramidach egzotycznego charakteru, z&nbsp;kolei piramidy przy „polskim chłopie” wydają się bardziej swojskie. Napięciem rozgrywającym się w&nbsp;fotografii rządzi dynamika pragnienia swojego/obcego, charakterystycznego dla kolonialnej wyobraźni esencjalizującej różnice kulturowe i&nbsp;społeczne.</p> <p>Wystawa „Polska – kraj folkloru?” jest kolejną po&nbsp;„Zaraz po&nbsp;wojnie” wystawą historyczną prezentowaną w&nbsp;Zachęcie, skupioną na&nbsp;relacji polskiej sztuki i&nbsp;przemian społeczno-politycznych w&nbsp;czasach powojennych. Ważnym punktem odniesienia dla Joanny Kordjak są także ekspozycje, które miały miejsce w&nbsp;Centralnym Biurze Wystaw Artystycznych „Zachęta” w&nbsp;latach 1949–1970, poświęcone sztuce ludowej i&nbsp;tak zwanej sztuce prymitywnej. Wystawa skupia się szczególnie na&nbsp;pierwszych dekadach powojnia, kiedy radykalnej zmianie ulega struktura polskiego społeczeństwa – masy wiejskie migrują do miast, a&nbsp;opowieść o&nbsp;ludowości PRL płynąca od władzy jest wszechobecna i&nbsp;najsilniejsza. Jej przedmiotem nie jest po&nbsp;prostu wieś i&nbsp;jej mieszkańcy, ale raczej Polacy jako chłopi i&nbsp;chłopi jako Polacy.</p> <p>Zaczęłam od przywołania dynamiki kolonialnego pragnienia, ponieważ ludowość na&nbsp;wystawie „Polska – kraj folkloru?” postrzegana jest podobnie jak Orient opisywany przez Edwarda Saida w&nbsp;książce <em>Orientalizm</em> z&nbsp;1978 roku, założycielskiej między innymi dla krytyki wizualnej w&nbsp;perspektywie postkolonializmu. Lud jest na&nbsp;wystawie ujmowany jako konstrukt – reprezentacja wsi tworzona przez elity w&nbsp;PRL; jest „wsią” widzianą oczami miasta. Folklor i&nbsp;sztuka ludowa to tworzony przez artystów, etnografów i&nbsp;instytucje obraz wsi wspierający wizję ludu lansowaną przez władzę. W&nbsp;takim rozumieniu folklor jest narzędziem wspomagającym mechanizm wewnętrznej kolonizacji, która miała na&nbsp;celu podporządkowanie mieszkańców wsi jako źródła tradycji i&nbsp;„zaplecza” narodu. Folklor to polityczno-estetyczny kompleks, to „wieś” wypreparowana w&nbsp;taki sposób, by mieściła się w&nbsp;peerelowskiej wizji polityki kulturalnej i&nbsp;hierarchii społecznej.</p> <h2>„Wieś” w&nbsp;sztuce współczesnej</h2> <p>Wystawa Joanny Kordjak wpisuje się w&nbsp;ogólniejszą tendencję zainteresowania wsią i&nbsp;jej mieszkańcami, jaką obserwujemy w&nbsp;ostatnich latach w&nbsp;humanistyce i&nbsp;sztuce współczesnej. Trudno tu oczywiście mówić o&nbsp;„powrocie do wsi” – temat ten nigdy bowiem nie zniknął z&nbsp;horyzontu; jest on raczej stałym punktem odniesienia w&nbsp;kulturze napędzanej dynamiką chłopomanii/chłopofobii. Dzisiejsza jego odsłona jest natomiast w&nbsp;wielu przypadkach inspirowana rozwijanymi w&nbsp;polskiej akademii badaniami postzależnościowymi – w&nbsp;tym studiami postkolonialnymi oraz filozofią feministyczną i&nbsp;badaniami nad pamięcią.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5645-1-pb-1920x-ed0.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5645-1-pb-330x-8fa.jpg 330w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5645-1-pb-660x-82b.jpg 660w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5645-1-pb-768x-d1f.jpg 768w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5645-1-pb-1320x-018.jpg 1320w" src="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5645-1-pb-660x-82b.jpg" alt="" ></a>    <figcaption><p>Okładka „Czasu Kultury” 2009, nr 2.<br>Projekt: Marianna Sztyma</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Drugi numer „Czasu Kultury” z&nbsp;2009 roku zatytułowany <em>Na ludowo</em> mógłby stanowić pierwszy przykład takiego ujęcia tematyki wiejskiej. W&nbsp;tomie znalazły się teksty poświęcone feminizmowi na&nbsp;wsi oraz wiejskim inspiracjom w&nbsp;sztuce współczesnej (między innymi artykuły <em>Studium błota</em> Romana Dziadkiewicza oraz <em>Lucim żyje!</em> Moniki Weychert Waluszko). Okładkę numeru można by uznać za&nbsp;obraz, zapowiadający niejako problematykę i&nbsp;sposób jej ujmowania w&nbsp;późniejszych rozpoznaniach dotyczących wiejskich wątków. Znalazła się na&nbsp;niej grafika przedstawiająca twarz mężczyzny o&nbsp;ciemnym kolorze skóry. Ma on na&nbsp;sobie białą koszulę i&nbsp;czerwoną czapkę rogatywkę z&nbsp;pękiem kolorowych wstążek oraz pawim piórem. Element stroju ludowego ma konotować „chłopskość” mężczyzny, a&nbsp;ciemny kolor skóry sugeruje perspektywę badawczą skupioną na&nbsp;władzy i&nbsp;przemocy (zarówno historycznej, jak i&nbsp;symbolicznej), budującą analogię między pańszczyzną chłopstwa a&nbsp;historycznym niewolnictwem czarnych.</p> <p>W tym samym roku wydana została książka Tomasza Rakowskiego <em>Łowcy, zbieracze, praktycy niemocy. Etnografia człowieka zdegradowanego, </em>która dotyczy granicznych doświadczeń czasu transformacji: bezrobocia, gwałtownego zubożenia, degradacji społecznej grup, które poniosły największe koszty przemian<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. Chociaż książka Rakowskiego nie jest skupiona wyłącznie na&nbsp;wsi, a&nbsp;opowiada również o&nbsp;terenach poprzemysłowych, należy ją uznać za&nbsp;jedną z&nbsp;ważniejszych pozycji w&nbsp;polu badań postzależnościowych, ponieważ stanowi próbę zmiany epistemologii Innego i&nbsp;przeformułowania znaczenia kulturowej różnicy konstruowanej w&nbsp;neoliberalnych narracjach. Badania Rakowskiego pozwalają szerzej myśleć o&nbsp;problemie reprezentacji klas niższych, o&nbsp;sposobach jej tworzenia oraz roli, jaką pełnić ma w&nbsp;jej kształtowaniu badacz/badaczka.</p> <p>Wiele z&nbsp;najnowszych rozpoznań dotyczących wsi stawia w&nbsp;centrum relacje władzy i&nbsp;historyczne podporządkowanie chłopów oraz jego społeczne, polityczne i&nbsp;psychologiczne konsekwencje. Wieś, a&nbsp;może – ze względu na&nbsp;uwikłanie w&nbsp;skomplikowany system reprezentacji – powinnam napisać „wieś” (desygnat ten nie odsyła do rzeczywistości społecznej) intepretowana jest jako zestaw cech polskiej tożsamości odpowiedzialnych za&nbsp;kształt współczesnego społeczeństwa, uznawana za&nbsp;zepchnięte do nieświadomości dziedzictwo, zbiór wypartych doświadczeń, wypaczony czy nawet fałszywy obraz skonstruowany przez elity.</p> <p>Jednym z&nbsp;głównych zagadnień poruszanych w&nbsp;debatach wokół „wiejskości” jest obraz. Wątpliwości budzą jej tendencyjne przedstawienia (sielska jak u&nbsp;Kolskiego <em>versus </em>jądro ciemności jak u&nbsp;Smarzowskiego, by przywołać stosunkowo nowe przedstawienia filmowe), ich zideologizowanie, brak wpływu mieszkańców wsi na&nbsp;swoją reprezentację, niewidzialność chłopów w&nbsp;historiografii i&nbsp;niewidoczność problemów dotykających wieś w&nbsp;neoliberalnej przestrzeni publicznej.</p> <p>Obecność „wątków wiejskich” w&nbsp;sztukach wizualnych usankcjonowała wystawa „Co widać. Polska sztuka dzisiaj” kuratorowana przez Łukasza Rondudę i&nbsp;Sebastiana Cichockiego i&nbsp;prezentowana w&nbsp;Muzeum Sztuki Nowoczesnej w&nbsp;Warszawie w&nbsp;2014 roku. Kuratorzy wyodrębnili jeden pawilon w&nbsp;całości poświęcony powrotowi wsi w&nbsp;sztuce współczesnej, nadając temu zjawisku miano „nowoczesnego folkloru” i&nbsp;sytuując je w&nbsp;kontrze do awangardy, jako formację, która „stara się wypracować współczesną formułę działalności artystycznej na&nbsp;wsi”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Wśród artystów zaliczonych do tego nurtu znaleźli się między innymi Daniel Rycharski, Krzysztof Maniak, Honorata Martin i&nbsp;Michał Łagowski. Najbardziej wyraźną wizję w&nbsp;tym gronie prezentuje jednak dwóch artystów – Łagowski i&nbsp;Rycharski, których działalność określiła stawkę dzisiejszego zainteresowania prowincją w&nbsp;sztukach wizualnych. Obaj artyści akcentują wiejskie pochodzenie, w&nbsp;inny sposób jednak przepracowują kwestię podziałów społecznych. Michał Łagowski zwraca uwagę na&nbsp;ograniczenia projektów emancypacyjnych, skierowanych zwykle do mieszkańców i&nbsp;mieszkanek miast (<em>Jagna idzie na&nbsp;Manifę</em>, 2011; <em>Transparenty</em>, 2013), w&nbsp;swoich performansach kładzie nacisk na&nbsp;fasadowość zainteresowania wsią w&nbsp;galeriach sztuki (<em>Dobrodziejstwa dyskursu</em>, 2011), aporię i&nbsp;niemożliwość porozumienia między dwoma światami. Działalność Daniela Rycharskiego skupia się z&nbsp;kolei na&nbsp;animowaniu lokalnej społeczności, „przenoszeniu” sztuki na&nbsp;wieś (wiejski <em>street art</em>, od 2009; <em>Multimedialne strachy na&nbsp;dziki i&nbsp;ptaki</em>, 2011) czy upamiętnianiu chłopskich krzywd i&nbsp;zniesienia pańszczyzny (<em>Pomnik chłopa</em>, 2015; <em>Brama w&nbsp;Kurówku zbudowana z&nbsp;okazji 150 rocznicy zniesienia pańszczyzny</em>, 2014). Ostatnio Daniel Rycharski otrzymał również Paszport Polityki w&nbsp;dziedzinie sztuk wizualnych, a&nbsp;kapituła, przyznając mu nagrodę „za intrygujące połączenie duchowości z&nbsp;aktywizmem, konserwatyzmu z&nbsp;otwartością i&nbsp;prowincjonalizmu z&nbsp;europejskością”, wskazywała, że&nbsp;„sztuka wiejska” nabrała dzięki działalności artysty nowego znaczenia<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5647-1-pb-1920x-f7f.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5647-1-pb-330x-4c5.jpg 330w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5647-1-pb-660x-967.jpg 660w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5647-1-pb-768x-409.jpg 768w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5647-1-pb-1320x-d3a.jpg 1320w" src="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5647-1-pb-660x-967.jpg" alt="" ></a>    <figcaption><p><em>Rolnik</em>, kolaż z&nbsp;wystawy „Chłoporobotnik i&nbsp;boa grzechotnik” (MSN Warszawa). Projekt graficzny: Paweł Olszczyński</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Z ostatnich wydarzeń warto wspomnieć o&nbsp;małej wystawie „Chłoporobotnik i&nbsp;boa grzechotnik” kuratorowanej przez Ewę Tatar i&nbsp;pokazanej w&nbsp;Muzeum Sztuki Nowoczesnej na&nbsp;początku 2016 roku. Tatar eksplorowała w&nbsp;niej różne porządki wizualne, za&nbsp;pomocą których konstruowano postać powojennego chłopo-robotnika – figury zawieszonej między klasami społecznymi, jednocześnie nosiciela tradycji i&nbsp;podmiotu modernizacji. Na&nbsp;wystawie zaprezentowane zostały bogate materiały wizualne z&nbsp;tygodnika „Nowa Wieś”, adresowanego do młodych mieszkańców peerelowskiej wsi, które miało ich uczyć, jak zmienić się z&nbsp;chłopa w&nbsp;nowoczesnego rolnika – postępowego zarówno w&nbsp;obyczajach, jak i&nbsp;w gospodarstwie. Kolaże z&nbsp;inteligenckiego czasopisma kuratorka zestawiła z&nbsp;<em>Notatnikami fotograficznymi </em>Władysława Hasiora oraz sztuką wiejskich artystów-amatorów, jak rzeźby Józefa Piłata czy fantazyjne obrazy Jana Płaskocińskiego. Choć ekspozycja była niewielka (pokazywana w&nbsp;sali MSN na&nbsp;Pańskiej) i&nbsp;dotykała tylko małego wycinka peerelowskiego uniwersum wizualnego, to udało się na&nbsp;niej pokazać wielowarstwowość przedstawianej historii – nakładanie się kilku sposobów performowania ludowości przez inteligencję i&nbsp;porządków obrazowania wiejskości w&nbsp;powojniu. „Chłoporobotnik i&nbsp;boa grzechotnik” było próbą – nieco chaotyczną – uchwycenia złożoności i&nbsp;dramaturgii różnych sposobów budowania dumy i&nbsp;uprzedzeń do ludu.</p> <h2>Kraj folkloru</h2> <p>Rewizje ideologii ludowości i&nbsp;jej wpływu na&nbsp;artystyczne i&nbsp;naukowe konceptualizacje społeczeństwa nie są nowym zjawiskiem w&nbsp;polskiej humanistyce i&nbsp;sztuce. W&nbsp;latach 80. XX wieku doszło do ważnego przesunięcia epistemologicznego – pojawiają się wtedy pierwsze samokrytyczne głosy w&nbsp;etnografii i&nbsp;antropologii, poddające rewizji Kolbergowski etnograficzny opis polskiej wsi. Prekursorską i&nbsp;brawurową pozycją na&nbsp;tym polu jest <em>Antropologia wsi polskiej XIX wieku</em> Ludwika Stommy. Zanim jednak etnografowie zaczęli dostrzegać własne uwikłanie i&nbsp;odkryli, że&nbsp;„niewinne oko badacza” nie istnieje, już w&nbsp;latach 70. powstawały filmy krytyczne zarówno wobec procesów modernizacyjnych uprzedmiotawiających lud, jak i&nbsp;naukowych dezinterpretacji na&nbsp;ten temat. Inteligenckie wizje ludowości demaskuje w&nbsp;<em>Awansie</em> (1974) Janusz Zaorski. Z&nbsp;tego samego roku pochodzi też krótki film telewizyjny <em>Fernando i&nbsp;humaniści</em> Stanisława Kokesza nakręcony na&nbsp;podstawie noweli Antoniego Kroha. Historia opowiada o&nbsp;wiejskim artyście „odkrytym” przez etnografów, którzy zachwyceni „dobroczynnymi wpływami choroby umysłowej” tytułowego bohatera i&nbsp;jego rzeźbami w&nbsp;„typie ludowym”, zaczynają sami czerpać materialne korzyści z&nbsp;jego talentów. Zarówno w&nbsp;filmie Zaorskiego, jak i&nbsp;Kokesza ważna jest postać filmowca/fotoreportera, który dokumentuje spotkanie przyjezdnych z&nbsp;twórcami ludowymi. Stworzenie filmowego lub fotograficznego obrazu ludu i&nbsp;jego wytworów przedłuża ich „życie”. To dzięki wizualnej reprezentacji pragnienie i&nbsp;oglądanie obcego/swojskiego może rozgrywać się poza wsią.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5649-1-pb-1920x-514.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5649-1-pb-330x-86c.jpg 330w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5649-1-pb-660x-367.jpg 660w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5649-1-pb-768x-316.jpg 768w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5649-1-pb-1320x-37f.jpg 1320w" src="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5649-1-pb-660x-367.jpg" alt="" ></a>    <figcaption><p>Rita Walter-Łomnicka, <em>Odwiedź Polskę</em>, plakat, 1956. <br>Dzięki uprzejmości Muzeum Niepodległości w&nbsp;Warszawie</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Zrealizowana w&nbsp;„Zachęcie” wystawa Joanny Kordjak dotyczy sztuki, która w&nbsp;czasach gwałtownych przemian gospodarczych, społecznej rewolucji i&nbsp;industrializacji ignorowała ludowy awans społeczny i&nbsp;pielęgnowała romantyczny mit ludu, który miał być źródłem autentyczności i&nbsp;rezerwuarem cech narodowych. W&nbsp;tej wizji wieś wpisywana jest w&nbsp;porządek natury, a&nbsp;chłopi postrzegani jako przypisani do ziemi – odwieczni i&nbsp;pierwotni. Mit ten wpłynął na&nbsp;późniejsze konceptualizacje klasy chłopskiej w&nbsp;nauce i&nbsp;sztuce, które klasę tę „odspołeczniały”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>, czyli pozbawiały ją kontekstu materialnego i&nbsp;historycznego, ujmując chłopów w&nbsp;kategoriach niezmiennych tożsamości, a&nbsp;nie podmiotowości zależnej od szeregu kulturowych, społecznych, ekonomicznych i&nbsp;psychologicznych czynników.</p> <p>Ekspozycja podzielona jest precyzyjnie na&nbsp;kilka części, a&nbsp;każda z&nbsp;nich dotyczy innego sposobu instrumentalizacji ludowości w&nbsp;okresie powojennym. Pierwsza sala poświęcona jest strategiom autoorientalizacji, czy – jak chce Ewa Klekot – samofolkloryzacji<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>, czyli wykorzystania ludowych motywów jako narzędzi konstruowania i&nbsp;performowania tożsamości Polaków i&nbsp;Polek na&nbsp;arenie międzynarodowej. Wyłania się z&nbsp;niej wizja ludu Kolbergowego, do szaleństwa niemal roztańczonego i&nbsp;rozśpiewanego<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. Oglądamy wieś zatraconą w&nbsp;żywiołowym tańcu, zwartą w&nbsp;uporządkowanej choreografii – ucieleśnioną w&nbsp;ludowych zespołach, jak Mazowsze czy Śląsk. Na&nbsp;wystawie pokazane zostały archiwalne nagrania z&nbsp;centralnych dożynek z&nbsp;lat 50. i&nbsp;60. oraz ze Światowego Festiwalu Młodzieży, który odbył się w&nbsp;Warszawie w&nbsp;1955 roku. W&nbsp;kolorowym korowodzie mieszkańcy demoludów jednoczyli się z&nbsp;przedstawicielami krajów Afryki czy Bliskiego Wschodu. Różnice kulturowe były „ubierane” w&nbsp;ludowe kostiumy, a&nbsp;przedstawiciele odległych krajów stawali się do siebie podobni w&nbsp;swojej egzotyczności. Tu dobrze widać napięcie między konstruowaną partykularnością ludu a&nbsp;uniwersalizmem wizji, w&nbsp;której funkcjonował on jako <em>pars pro toto</em> społeczeństwa PRL. Dzięki pokazaniu przez Joannę Kordjak różnych strategii estetycznych ludowość ma na&nbsp;wystawie raz wzniosły, raz niemal dziecinny charakter. Ogromna lniana kurtyna <em>Kukułka</em> wykonana przez Annę Wójcik na&nbsp;IV Światowy Festiwal Młodzieży i&nbsp;Studentów dla Pokoju i&nbsp;Przyjaźni w&nbsp;Bukareszcie w&nbsp;1953 roku imponuje swoją lekkością i&nbsp;kunsztem, i&nbsp;przytłacza wielkością i&nbsp;rozmachem. Rzeźba Jana Ślusarczyka <em>Oberek </em>z 1951 roku „uśmierca” żywiołowość ludowego tańca w&nbsp;monumentalnej, socrealistycznej formie.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5651-1-pb-1920x-bfb.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5651-1-pb-330x-225.jpg 330w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5651-1-pb-660x-22b.jpg 660w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5651-1-pb-768x-f71.jpg 768w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5651-1-pb-1320x-af6.jpg 1320w" src="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5651-1-pb-660x-22b.jpg" alt="" ></a>    <figcaption><p>„Polska — kraj folkloru?”, widok ekspozycji, Zachęta.<br>Fot. Marek Krzyżanek</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Druga część wystawy opowiada o&nbsp;obecności ludu w&nbsp;mieście i&nbsp;utowarowieniu ludowości, przejawiającym się nie tylko w&nbsp;wykorzystywaniu ludowych wzorów przez Cepelię, ale również w&nbsp;uprzedmiotawiającym spojrzeniu inteligenta na&nbsp;wiejską twórczość, dla którego była ona przede wszystkim odtrutką na&nbsp;estetykę mieszczańską. Zaprezentowane zostały między innymi fotografie wnętrz warszawskiego Domu Chłopa, projekt pawilonu Cepelii, krzesła-zydelki wykonane w&nbsp;Spółdzielni Artystów „Ład” czy talerze zalipiańskich malarek, które współpracowały z&nbsp;profesjonalnymi artystami – Heleną i&nbsp;Lechem Grześkiewiczami. Folkloryzowała się również muzyka, a&nbsp;bezpośrednim impulsem do inspirowania się oberkami, mazurami i&nbsp;kujawiakami przez kompozytorów było oficjalne zadekretowanie zasad socrealizmu. Efekty tych inspiracji możemy na&nbsp;wystawie usłyszeć dzięki dźwiękowym instalacjom Aleksandra Beksiaka, który zaprezentował imponujący wybór unikatowych nagrań z&nbsp;Archiwum Polskiego Radia – wśród nich między innymi utwory Włodzimierza Kotońskiego i&nbsp;Tadeusza Sygietyńskiego.</p> <p>Uwagę przyciągają dywany tkane techniką dwuosnowową przez tkaczki z&nbsp;okolic Janowa na&nbsp;Podlasiu. Pod&nbsp;koniec lat 40. trafiła do nich Eleonora Plutyńska, artystka ze Spółdzielni „Ład”. Chcąc ocalić oryginalną technikę tkacką, prowadziła w&nbsp;białostockich wioskach misję „ocalenia gustu”, ucząc wiejskie tkaczki „ludowych” wzorów, które spodobają się miejskiemu oku. Janowskie tkaczki tkały dywany dla mieszczan, ale na&nbsp;własne potrzeby używały innych, wiejskich wzorów. W&nbsp;tej części wystawy Joanna Kordjak najmocniej kładzie nacisk na&nbsp;zewnętrzność miasta wobec wsi i&nbsp;podkreśla władzę, jaką mieli miejscy artyści nad wiejskimi rzemieślnikami. To dostrzeżenie instrumentalnego i&nbsp;kolonialnego podejścia do wiejskich twórców jest oczywiście ważne, wydaje mi się jednak, że&nbsp;tak przejrzysta konceptualizacja władzy, kreująca dwie autonomiczne strony, nazbyt akcentuje podległość wsi i&nbsp;nie uwzględnia przenikania się wzorów kultury, gustów i&nbsp;sprawczości wiejskich twórców.</p> <p>Kolejne dwie sale poświęcone zostały tak zwanej sztuce prymitywnej, nieprofesjonalnej – sztuce artystów pochodzących z&nbsp;prowincji. Kuratorka rekonstruuje tu część głośnej wystawy Aleksandra Jackowskiego „Inni. Od Nikifora do Głowackiej”, pokazywanej w&nbsp;CBWA „Zachęta” w&nbsp;1965 roku. Zaprezentowane zostały gliniane rzeźby Adama Zegadły i&nbsp;Stanisława Zagajewskiego, <em>Podróżująca szafa</em> Leona Kudły wypełniona drewnianymi świątkami i&nbsp;rzeźbami zwierząt oraz film dokumentalny Andrzeja Wajdy <em>Zaproszenie do wnętrza</em> (1978), o&nbsp;największej kolekcji polskiej sztuki naiwnej Ludwiga Zimmerera. „Inności” w&nbsp;sztuce artystów naiwnych upatrywano w&nbsp;prostocie, przystępnym opisie rzeczywistości i&nbsp;artystycznej „nieświadomości”. W&nbsp;tej części wystawa nabiera autokrytycznego charakteru, wskazując na&nbsp;uwikłanie instytucjonalne Zachęty w&nbsp;politykę kulturalną PRL. Nie chodzi tu oczywiście o&nbsp;włączenie twórców ludowych do współczesnych kanonów sztuki, ale raczej o&nbsp;demistyfikację instytucjonalnych mechanizmów legitymizacji hierarchii estetycznych uznających sztukę nieprofesjonalną za&nbsp;naiwną. Wraz z&nbsp;prezentacją ceramiki Antoniego Kenara z&nbsp;lat 1948–1949 ta część wystawy układa się w&nbsp;opowieść o&nbsp;tym, na&nbsp;czym polegał paradoksalny zwrot w&nbsp;modernistycznej sztuce ku temu, co pierwotne. Artyści nowocześni, chcąc wyjść poza idiom rozwoju i&nbsp;postępu, widzieli szansę na&nbsp;odrodzenie sztuki europejskiej w&nbsp;twórczości ludowej, dziecięcej i&nbsp;amatorskiej. Fascynację prymitywem i&nbsp;„powrót do źródeł” doskonale wydobywa transowa muzyka, która towarzyszy ekspozycji dzbanów Kenara. Ścieżkę skomponował Antoni Beksiak razem z&nbsp;zespołem Niewte oraz Maciejem Filipczukiem, inspirując się tradycyjną muzyką radomską pochodzącą ze zbiorów Andrzeja Bieńkowskiego. Ta konfrontacja współczesnej muzyki elektronicznej z&nbsp;ludowością jest zdecydowanie najmocniejszym punktem ekspozycji.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5653-1-pb-1920x-8cf.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5653-1-pb-330x-71a.jpg 330w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5653-1-pb-660x-866.jpg 660w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5653-1-pb-768x-137.jpg 768w,assets/cache/images/issues/2016/14/sztuka-wiejska/414-5653-1-pb-1320x-b62.jpg 1320w" src="assets/cache/images/issues/2016/14/sztuka-wiejska/414-5653-1-pb-660x-866.jpg" alt="" ></a>    <figcaption><p>„Polska — kraj folkloru?”, widok ekspozycji, Zachęta.<br>Fot. Marek Krzyżanek</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Wystawa „Polska – kraj folkloru?” opowiada o&nbsp;sposobach wypierania tego, co wiejskie w&nbsp;sztuce, i&nbsp;legitymizowania tego, co ludowe w&nbsp;peerelowskiej sferze publicznej, o&nbsp;kreowaniu takiego wizerunku „wiejskości”, który mieściłby się w&nbsp;inteligenckiej wizji społeczeństwa jako zasób „polskości”. Joanna Kordjak pokazuje, jak estetyka czasów powojnia zakrywała różnicę klasową, wytwarzając obraz i&nbsp;naukowy dyskurs na&nbsp;temat ludu. Wystawa jest – niejako programowo – skoncentrowana na&nbsp;miejskiej perspektywie i&nbsp;mechanizmach władzy. Dlatego też być może nie mierzy się z&nbsp;tym, co wyparte i&nbsp;niemieszczące się w&nbsp;ustalonych kanonach estetycznych, z&nbsp;wsią „nie-ludową”, niepasującą do skansenu, wsią, która nie tańczy i&nbsp;nie śpiewa oraz nie wytwarza rzeczy, które można by pokazać w&nbsp;muzeum etnograficznym czy galerii sztuki. Trudno nie odnieść wrażenia, że&nbsp;taka perspektywa osuwa się w&nbsp;pułapkę esencjalizacji: na&nbsp;wystawie różnica między inteligentem a&nbsp;chłopem pokazywana jest jako nieprzekraczalna. Mogłoby tu pomóc przyjrzenie się innym strategiom obrazowania chłopów i&nbsp;kontr-archiwom dokumentującym cywilizacyjne zmiany, jakie dokonały się na&nbsp;polskiej wsi. Interesującego materiału dostarcza na&nbsp;przykład kolekcja sześciu tysięcy fotografii przesłana na&nbsp;konkurs „Fotografia wsi polskiej’ zorganizowany w&nbsp;1983 roku przez redakcję „Nowej wsi” i&nbsp;„Fotografii” oraz zaprezentowana w&nbsp;1985 roku właśnie w&nbsp;„Zachęcie”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>.</p> <p>Ewa Klekot, cytując Piotra Kowalskiego, pisała w&nbsp;katalogu wystawy o&nbsp;wypaczeniach wyobrażeń ludu, do których dochodziło w&nbsp;wyniku „manipulacji obrazami” w&nbsp;polskim ludoznawstwie<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Społeczna wyobraźnia wypełniona jest „niezwykle trwałymi obrazami rzeczy ludowych”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>, które na&nbsp;wystawie tę trwałość niestety zachowują. Obraz folkloru, chociaż uhistoryczniony i&nbsp;wpisany w&nbsp;kontekst instytucjonalny, jest tu raczej statyczny. Nie jest konfrontowany z&nbsp;innymi porządkami wizualnymi, które kształtowały peerelowską wieś i&nbsp;nie uzyskuje niestety kontekstu współczesnego, który pomógłby pokazać, czy folkloru jako tradycji można „używać” na&nbsp;inne sposoby – oglądać go poza ciasnymi ramami propagandy, narodowej tożsamości i&nbsp;„krupówkowej” estetyki<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>.</p> <p>Dzisiaj figury „wsi” i&nbsp;„chłopa” służą przypominaniu o&nbsp;pańszczyźnianej przeszłości, o&nbsp;powojennej rewolucji społecznej oraz o&nbsp;klasowym pochodzeniu większości Polaków. Mimo to rzadko stają się pretekstem do konfrontacji z&nbsp;polskim klasizmem. Często „sztuka wiejska” prowadzi do konserwatywnych w&nbsp;swoim charakterze konkluzji o&nbsp;tym, że&nbsp;mieszkańcy wsi (również) mogą być odbiorcami sztuki. Takie realizacje wzmacniają zmitologizowaną różnicę między miastem a&nbsp;wsią i&nbsp;pozwalają twórcom zaspokoić mieszczańską potrzebę niesienia kaganka kultury. „Powrót do wsi” czy też „nowoczesny folklor” w&nbsp;humanistyce i&nbsp;sztukach wizualnych mógłby stać się (w czasach twardych polityk tożsamości) formą „terapii” polskiego społeczeństwa, gdyby konsekwentnie przekraczał błędne koło chłopomanii/chłopofobii. Chociaż poszukiwania stylu narodowego (i upatrywanie go na&nbsp;przykład w&nbsp;stylu zakopiańskim) mogą wydawać się pieśnią przeszłości, nie milkną przecież postulaty stworzenia „konstytucji polskiej wsi” i&nbsp;polonizacji ziemi oraz partyjne licytacje, kto jest prawdziwym spadkobiercą i&nbsp;przedstawicielem ideałów Wincentego Witosa. Dlatego być może zamiast stawiania pomników, estetyzowania nierówności społecznych i&nbsp;pielęgnowania dumy z&nbsp;pochodzenia, powinnyśmy raczej interpretować momenty klasowej niezgody, estetycznego niedopasowania i&nbsp;dyskomfortu oraz redefiniować to, co ludowe w&nbsp;sferze publicznej, wyrywając je z&nbsp;zawłaszczającej i&nbsp;powracającej dziś opowieści o&nbsp;ludzie jako ostoi narodu.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Tomasz Rakowski, <em>Łowcy, zbieracze, praktycy niemocy. Etnografia człowieka zdegradowanego</em>, słowo/obraz terytoria, Gdańsk 2009.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Sebastian Cichocki, Łukasz Ronduda, <em>Co widać. Polska sztuka dzisiaj</em>, interaktywny przewodnik po wystawie, <a href="http://artmuseum.pl/public/upload/files/co_widac_tekst_kuratorski.pdf" target="_blank" rel="noopener">http://artmuseum.pl/public/upload/files/co_widac_tekst_kuratorski.pdf</a>, dostęp 14 stycznia 2017.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a><em>Daniel Rycharski laureatem Paszportów POLITYKI w kategorii Sztuki wizualne</em>, „Polityka.pl” z 10 styczna 2017, <a href="http://www.polityka.pl/tygodnikpolityka/kultura/paszporty/1689576,1,daniel-rycharski-laureatem-paszportow-polityki-w-kategorii-sztuki-wizualne.read" target="_blank" rel="noopener">http://www.polityka.pl/tygodnikpolityka/kultura/paszporty/1689576,1,daniel-rycharski-laureatem-paszportow-polityki-w-kategorii-sztuki-wizualne.read</a>, dostęp 14 stycznia 2017.</p>
+<p></p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Roch Sulima, <em>Słowo i etos</em>, FA ZMW „Galicja”, Kraków 1992, s. 5.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Ewa Klekot, <em>Samofolkloryzacja. Współczesna sztuka ludowa z perspektywy postkolonialnej</em>, „Kultura Współczesna” 2014, nr 1 (81), s. 90.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Ludwik Stomma wylicza – z uzasadnioną uszczypliwością – że Oskar Kolberg w swoich pismach poświęconych wsi mazowieckiej 84% obrazu poświęca zajęciom związanym z czasem wolnym. Zob. Ludwik Stomma, <em>Antropologia wsi polskiej XIX wieku</em>, Tower Press, Gdańsk 2000, s. 147.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Zob. Roch Sulima, <em>Fotografia chłopów polskich</em>, „Konteksty. Polska Sztuka Ludowa” 1987, t. 41, z. 1-4, s. 113-120. Publikacja dostępna w internecie: <a href="http://cyfrowaetnografia.pl/Content/3007/Strony od PSL_XLI-21_Sulima_popraw113.pdf" target="_blank" rel="noopener">http://cyfrowaetnografia.pl/Content/3007/Strony od PSL_XLI-21_Sulima_popraw113.pdf</a>, dostęp 25 stycznia 2017.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Ewa Klekot, <em>Trwałe obrazy rzeczy ludowych</em>, w: <em>Polska – kraj folkloru?,</em> red. J. Kordjak, Zachęta – Narodowa Galeria Sztuki, Warszawa 2016, s. 142.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Cyt. za. ibidem.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Interesującą próbą wyrwania folkloru z kontekstu narodowego był projekt muzyczno-choreograficzny <em>Soft Powe</em>r zaprezentowany podczas ostatniej edycji festiwalu Unsound w Krakowie, którego tematem przewodnim była „dyslokacja”. Brytyjski producent muzyki elektronicznej felicita z wytwórni PC Music zaprosił do współpracy Zespół Pieśni i Tańca „Śląsk”. Tancerze korzystając z tradycyjnych figur tańca ludowego, stworzyli choreografię do muzyki felicity – eksperymentalnego, syntetycznego, epatującego sztucznością popu, który eksploruje estetykę późnego kapitalizmu – reklam, korporacji, życia w internecie. Zob. Filip Lech, <em>„Soft Power”, czyli felicita i Zespół Pieśni i Tańca „Śląsk”,</em> „Culture.pl”, z 18 października 2016, <a href="http://culture.pl/pl/wideo/soft-power-czyli-felicita-i-zespol-piesni-i-tanca-slask" target="_blank" rel="noopener">http://culture.pl/pl/wideo/soft-power-czyli-felicita-i-zespol-piesni-i-tanca-slask</a>, dostęp 15 stycznia 2017.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2016/uchodzcy-obrazy-migracji-pamiec-w-ruchu/sztuka-wiejska.-poza-styl-narodowy" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

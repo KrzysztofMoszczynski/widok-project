@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Rozszerzenie czasu trwania. Kontakt Zygmunta Rytki | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2015/panorama/rozszerzenie-czasu-trwania.-kontakt-zygmunta-rytki">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Rozszerzenie czasu trwania. Kontakt Zygmunta Rytki | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Rozszerzenie czasu trwania. Kontakt Zygmunta Rytki | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2015/panorama/rozszerzenie-czasu-trwania.-kontakt-zygmunta-rytki">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Rozszerzenie czasu trwania. Kontakt Zygmunta Rytki | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #c69 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #c69 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #c69 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #c69 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #c69 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #c69 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #c69 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #c69 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(204,102,153,0.8) !important; */
+			/* background-color:#c69 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(204,102,153,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#c69 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(204,102,153,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#c69; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(204,102,153,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(204,102,153,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#c69 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#c69 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#c69 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-898 parent-id-852">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="441" data-selected-issue-color="#c69" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/15-photography-and-the-efficacy-of-gesture#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/spreading-of-duration.-contact-by-zygmunt-rytka">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2015/fotografia-i-skutecznosc-gestu#toc">12</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2015/panorama/rozszerzenie-czasu-trwania.-kontakt-zygmunta-rytki?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Rozszerzenie czasu trwania. Kontakt Zygmunta Rytki</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2015/panorama/rozszerzenie-czasu-trwania.-kontakt-zygmunta-rytki?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=897">Piotr Urbanowicz</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p><em>Kontakt </em>to cykl zdjęć autorstwa Zygmunta Rytki pochodzący z&nbsp;1993 roku. Przedstawia mrówki podejmujące różne działania z&nbsp;fragmentem nitki. Ich czynności zostają utrwalone na&nbsp;fotografiach, dzięki czemu powstają układy – ciał oraz nitek – dające efekt minimalistycznych kompozycji. Niektóre formy ułożone przez mrówki przypominają kształty geometryczne – dzieje się tak wówczas, gdy mrówki niejako naprężają między sobą nić, formując wierzchołek trójkąta. W&nbsp;innych miejscach sznurek jest zakręcony lub skłębiony. Pośród zdjęć znajduje się również takie, które przedstawia dłoń człowieka w&nbsp;cielesnym kontakcie z&nbsp;mrówkami. Prace są czarno-białe, dzięki czemu odnosimy wrażenie, że&nbsp;materia nitki i&nbsp;mrówek zostaje spojona z&nbsp;materią fotografii.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5074-1-pb-1920x-087.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5074-1-pb-330x-eef.jpg 330w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5074-1-pb-660x-627.jpg 660w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5074-1-pb-768x-b2d.jpg 768w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5074-1-pb-1320x-da6.jpg 1320w" src="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5074-1-pb-660x-627.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Tytułowy „kontakt” to projekt zapisu doświadczenia relacji między człowiekiem i&nbsp;zwierzęciem. Pytania, jakie rodzi praca Rytki, zyskują nowy kształt dzięki metodologii posthumanizmu – daje ona możliwość zidentyfikowania i&nbsp;przekroczenia antropocentrycznego podejścia. Równocześnie nawet wyrywkowe prześledzenie dotychczasowych sposobów opisywania <em>Kontaktu</em> sprawia wrażenie, jakby nie wszystkie aspekty tej pracy zostały uchwycone. Dlatego też warto zwrócić uwagę, w&nbsp;jaki sposób dzieło Rytki problematyzuje pojęcia „działania”, „sprawczości”, wreszcie – „podmiotowości”. Następnie: w&nbsp;jaki sposób spotkanie artysty z&nbsp;Innym zostaje zapisane i&nbsp;jakie rodzi to problemy natury teoretycznej. W&nbsp;końcu: jaki gest towarzyszy koncepcji zawartej w&nbsp;tym cyklu fotografii. Ten przypadek chciałbym traktować jednostkowo, choć z&nbsp;pewnymi odniesieniami do innych prac artysty. W&nbsp;moim odczytaniu <em>Kontakt</em> to eksperymentalna próba utrwalenia spotkania, która nie tylko prowokuje namysł nad jego afektywnością, ale również nad granicami technologicznego zapisu oraz tego, co zapisowi umyka. W&nbsp;<em>Kontakcie</em> wybrzmiewa charakterystyczne dla twórczości Rytki napięcie między czasem i&nbsp;jego obrazem, poszerzone tu również o&nbsp;temat możliwości zaistnienia zwierząt w&nbsp;horyzoncie ludzkich działań.</p> <p>Artystyczna droga Zygmunta Rytki zaczyna się w&nbsp;latach 70. XX wieku. Krytycy sztuki łączą go z&nbsp;„tradycją sztuki konceptualnej”<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a>, „analitycznej”<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> czy też „formacją postawangardową”<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a>. Działa za&nbsp;pomocą medium fotografii i&nbsp;wideo. W&nbsp;swojej twórczości podejmuje problemy dotyczące „trwałości elementów struktury świata”<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a>, czego dowodem mogą być cykle prac o&nbsp;znamiennych tytułach: <em>Przedziały czasowe</em> (1974), <em>Ciągłość nieskończoności</em> (1983-1985), <em>Obiekty chwilowe </em>(1988). Widać tu wyraźnie zainteresowanie artysty pojęciem czasu, a&nbsp;dokładniej sposobami jego konceptualizacji, materialności trwania i&nbsp;wydarzeniowości. W&nbsp;artykułach opisujących twórczość Rytki, kładzie się duży nacisk na&nbsp;występującą tam szczególną refleksję nad samym medium sztuki. Akcentuje się ponadto ważną dla twórcy koncepcję natury (pisanej wielką literą), co jest właściwie punktem wyjścia mojego artykułu. Podejmując się bowiem analizy <em>Kontaktu</em>, trzeba na&nbsp;początku stwierdzić, że&nbsp;model pracy artysty z&nbsp;naturą, którego opis proponują niektórzy badacze twórczości Rytki, nie oddaje pełni znaczeń tego cyklu.</p> <p>Sam twórca odżegnywał się od klasyfikowania swojej twórczości, czy to przez wpisywanie go w&nbsp;konkretne nurty artystyczne, czy też przez łączenie jej z&nbsp;określonymi instytucjami kulturalnymi<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a>. Być może właśnie dlatego jego działania z&nbsp;naturą uznawano za&nbsp;rodzaj mistycznego przeżycia, podkreślano zainteresowanie artysty filozofią Dalekiego Wschodu. Natura miałaby w&nbsp;jego pracach odgrywać rolę przestrzeni, dzięki której poszukujący podmiot odnajduje „odpowiedzi na&nbsp;pytania dotyczące miejsca człowieka w&nbsp;nieskończoności Kosmosu, sensu jego istnienia, <span class="rozstrzelony">celowości</span> działań”<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a>. W&nbsp;pracach niektórych krytyków widać symptomatyczne dla tradycyjnej humanistyki traktowanie natury jako szczególnego dla artysty miejsca objawienia się celu i&nbsp;sensu egzystencji. Spoglądając przez pryzmat duchowego doskonalania się, staje się ona dla poznającego ją podmiotu narzędziem samorealizacji. Jak pisała Joanna Szczepanik, „poszukiwania swojego miejsca w&nbsp;układzie wszechświata skłaniały twórcę do nieustannych prób jego opisywania, mimo świadomości nieosiągalności celu”<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a>.</p> <p>Użycie takiego aparatu krytycznego do opisania <em>Kontaktu</em> jest w&nbsp;przypadku tego dzieła chybione<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a>. Jak będę starał się wykazać, cykl zdjęć Rytki z&nbsp;1993 roku może być pojmowany jako gest emancypacji alternatywnej koncepcji podmiotu wobec antropocentrycznego pojmowania i&nbsp;definiowania natury. Choć praca ta nie ma charakteru artystycznego czy politycznego manifestu, tak częstego dla artystów konceptualnych, to w&nbsp;sposób nieunikniony - poprzez rozwiniętą w&nbsp;niej koncepcję współdziałania człowieka i&nbsp;zwierząt - stoi ona w&nbsp;sprzeczności z&nbsp;tradycyjnym podejściem do zwierząt.</p> <p>I tak Alicja Cichowicz pisze, że&nbsp;w&nbsp;<em>Kontakcie </em>Rytka</p> <blockquote>próbuje »namówić« do współpracy mrówki. Co prawda, nie zdoła nauczyć ich <span class="rozstrzelony">czytać i&nbsp;liczyć</span>, czy zapamiętać całej tablicy Mendelejewa, lecz uda mu się <span class="rozstrzelony">zmusić</span> je do wiązania pętli z&nbsp;podanej im nitki, a&nbsp;także siłowego pojedynku o&nbsp;martwą osę<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a>.</blockquote> <p>W podobnym stylu wypowiada się także Krzysztof Jurecki: „warto zwrócić uwagę na&nbsp;ogromną konsekwencję działalności Rytki, dostrzegalną także w&nbsp;pojedynczych cyklach i&nbsp;pracach, jak <em>Kontakt</em> (1993), która wręcz zniewala połączeniem idei sztuki geometrycznej z… subtelnym <b></b>humorem”<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a>.</p> <p>Wypowiedzi te interesują mnie ze względu na&nbsp;ich znaczącą komplementarność. Źródłem humoru, paradoksalnie wbrew samemu tytułowi pracy, okazuje się <span class="rozstrzelony">niemożliwość nawiązania</span> kontaktu między autorskim podmiotem a&nbsp;mrówkami. W&nbsp;tym podejściu, nie wiedzieć czemu – bo&nbsp;przecież praca artysty nie daje podstaw do wysnucia takich wniosków – artysta ponosi porażkę w&nbsp;„racjonalizowaniu” mrówek (uczenie czytania, liczenia, tablicy Mendelejewa). Wrażliwy artystycznie i&nbsp;stanowiący podstawę <em>Kontaktu</em> epistemologiczny eksperyment, Alicja Cichowicz nazywa „namawianiem” czy też „zmuszaniem” mrówek do zabawy.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5076-1-pb-1920x-fba.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5076-1-pb-330x-f13.jpg 330w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5076-1-pb-660x-d89.jpg 660w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5076-1-pb-768x-235.jpg 768w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5076-1-pb-1320x-6a0.jpg 1320w" src="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5076-1-pb-660x-d89.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Termin „racjonalności” przywołuje sam Krzysztof Jurecki, aby opisać istotę sztuki Zygmunta Rytki. Punktem wyjścia miałby być Habermasowski „rozum komunikacyjny”, co w&nbsp;interesującym nas kontekście oznacza, że&nbsp;„odpowiedź Rytki [na pytanie: »kim jestem?«] jest zazwyczaj racjonalna, analizująca różne aspekty fizjologii widzenia w&nbsp;kontekście uporządkowania i&nbsp;zracjonalizowania wizji o&nbsp;świecie”<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a>. Humor analizowanego dzieła wiąże się więc z&nbsp;niemożliwością ustanowienia racjonalnego porozumienia między uczestnikami sytuacji komunikacyjnej. Mimo że&nbsp;mrówki symulują pewne geometryczne kształty, nie działają racjonalnie, co zresztą według Jureckiego Rytka odsłania z&nbsp;pozycji racjonalnego podmiotu. Używanie kategorii „racjonalności” zbędnie obciąża pracę Rytki, nie tłumacząc jej znaczenia; odsłania także antropocentryczne podejście krytyków do <em>Kontaktu</em> - pracy, która wyrasta z&nbsp;refleksji zgoła odmiennej.</p> <p>Sam autor w&nbsp;wywiadzie opublikowanym na&nbsp;łamach „Magazynu Sztuki”, na&nbsp;pytanie, czy „czuje się trochę jak Bóg, stwórca – który – ingeruje w&nbsp;naturę, jakoś ją formuje?”, tak tłumaczy swoje zainteresowanie naturą w&nbsp;projekcie <em>Obiekty chwilowe </em>(1990):</p> <blockquote>Współpracuję z&nbsp;Naturą. Czasami jest to ingerencja, a&nbsp;czasami jest to właściwie uzależnienie, na&nbsp;przykład przychodzi chmura i&nbsp;cienie znikają, wtedy się zatrzymuję. Później nagle chmura odpływa, pojawiają się cienie, zaczynam rysować. Czyli współpracuję z&nbsp;Naturą, ale z&nbsp;ałożeniem, że&nbsp;podporządkowuję się jej prawom<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a>.</blockquote> <p>Sugerowanie twórcy pewnych kreacjonistycznych zapędów w&nbsp;sferze, w&nbsp;której pragnie podjąć kontakt i&nbsp;współpracę z&nbsp;szeroką rozumianą naturą, nakłada na&nbsp;jego twórczość znamię myślenia teleologicznego. Choć sam Rytka odżegnuje się od wyznaczania sztuce transcendentnych celów, robią to za&nbsp;niego krytycy. Jurecki tak w&nbsp;skrócie określa jego drogę zmagania się z&nbsp;koncepcją natury w&nbsp;sztuce: „od formuły konceptualnego kreatora […], poprzez <span class="rozstrzelony">demiurga</span> budującego na&nbsp;nowo świat, by ostatecznie przez dalekowschodnie rozumienie istoty przyrody (cykl <em>Żywioły</em>, 1997) utożsamiać się i&nbsp;<span class="rozstrzelony">pojednać</span> z&nbsp;naturą (<em>Leżąc</em>, 1999)”<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a>. W&nbsp;moim odczytaniu <em>Kontaktu</em> taki schemat rywalizacji artysty z&nbsp;przytłaczającą potęgą natury w&nbsp;ogóle nie ma miejsca. Wręcz przeciwnie: droga artystyczna Rytki to jakby wciąż na&nbsp;nowo podejmowana próba eksplorowania możliwości wejścia z&nbsp;nią w&nbsp;kontakt – prowokująca pytanie o&nbsp;media, które w&nbsp;tych spotkaniach są używane.</p> <p></p> <p>W tej intymnej historii kontaktu dochodzi do spotkania człowieka i&nbsp;zwierząt. Wszyscy jego uczestnicy realizują działania estetyczne wedle ściśle wytyczonych praw natury. Działanie mrówek nie różni się od sposobu wchodzenia w&nbsp;interakcję z&nbsp;innymi elementami naturalnymi, pojawiającymi się w&nbsp;pracach Rytki. W&nbsp;wideo <em>Czas do dyspozycji / Czas na&nbsp;podjęcie decyzji</em> (1989) zostają ze sobą zestawione obrazy działania artysty z&nbsp;kamieniami oraz obrazy przyrody z&nbsp;towarzyszącym im odgłosem tykającego zegara. Artysta podejmuje różne akcje z&nbsp;kamieniami, jednakże nie mają one żadnej racjonalnej przyczyny ani celu. Obrazy przyrody – pochmurnego nieba, płynącej rzeki, materialności kamieni – zderzone z&nbsp;tykaniem zegara zdają się odsłaniać nieadekwatność ludzkiego czasu do mierzenia rytmu natury. Działania artysty z&nbsp;kamieniami to poddanie się właśnie temu rytmowi i&nbsp;uwolnienie z&nbsp;ograniczeń czasu ludzkiego, czyli – mówiąc słowami samego artysty – „podporządkowanie się prawom natury”.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5078-1-pb-1920x-ccf.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5078-1-pb-330x-695.jpg 330w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5078-1-pb-660x-e55.jpg 660w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5078-1-pb-768x-5b7.jpg 768w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5078-1-pb-1320x-00d.jpg 1320w" src="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5078-1-pb-660x-e55.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Jaki więc projekt rozumienia działania i&nbsp;podmiotu proponuje Rytka, jeśli zestawić na&nbsp;jednym poziomie działanie mrówek z&nbsp;nitką i&nbsp;działanie człowieka z&nbsp;kamieniami? Czy mrówki posiadają ten sam rodzaj sprawczości co Zygmunt Rytka? Czy Zygmunt Rytka jest mrówką? Czy po&nbsp;prostu, podobnie jak zwierzęta, podlegamy tym samym prawom natury, które strukturyzują nasze czynności? Czy sprawczość nie rodzi się dopiero w&nbsp;konkretnej relacji, tzn. nie istnieje, podobnie jak podmiotowość, jako autonomiczna cecha, czy też siła danego organizmu? W&nbsp;relacji z&nbsp;obiektami natury?</p> <p><em>Kontakt</em> prowokuje wszystkie te pytania, podważając status artysty jako wszechwiedzącego podmiotu, racjonalizującego obiekty swojej pracy. Po&nbsp;pierwsze jest spotkaniem z&nbsp;Innym: ze zwierzęciem, z&nbsp;którym twórca współdziała, podporządkowując się pewnym holistycznie pojętym prawom natury. Praca Rytki proponuje etyczny projekt spotkania z&nbsp;Innym, dążący do przedefiniowania pojęcia działającego podmiotu. Po&nbsp;drugie <em>Kontakt </em>problematyzuje rolę medium w&nbsp;zapisywaniu owego spotkania. Najlepiej można chyba zrozumieć ten problem, powołując się na&nbsp;inną pracę artysty, <em>Przedziały czasowe – 1/1000 sek </em>(1971). Zdjęcia z&nbsp;tego cyklu prezentują rozpryskujące się krople wody, zaś tytułowa 1/1000 sekundy odpowiada czasowi otwarcia migawki. Fotografie zderzają widza z&nbsp;różnicami między układem kropel, dowodząc, że&nbsp;nawet przy tak krótkim czasie ekspozycji technologia nie może uchwycić ich rzeczywistego ruchu w&nbsp;czasie. A&nbsp;więc zapis fotograficzny jest zawsze niekompletny wobec żywego doświadczenia.</p> <p>Jak pisała Joanna Żylińska, warunkiem przemyślenia współczesnej kondycji człowieka oraz definicji życia jest odwołanie się do nowych technologii oraz mediów. Jej projekt bioetyki polega na&nbsp;uznaniu ekologicznych podstaw posthumanizmu, to znaczy zakwestionowania założenia, „że człowiek to punkt wyjścia i&nbsp;oś wszelkich etycznych rozważań oraz przypisywania »ludzkiemu życiu« apriorycznej, nadrzędnej wartości zawsze cenniejszej niż, na&nbsp;przykład, »zwierzęce życie«”<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a> oraz technologicznych, czyli uznania pewnej technicznej „protetyczności” za&nbsp;„pierwotną relację między jednostkami żywymi i&nbsp;nie-żywymi”<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a>.</p> <p>Ten splot dwóch planów widać również w&nbsp;metodzie pracy artysty. Opisując swój proces twórczy, Rytka zaznacza, że&nbsp;ważniejsze od artefaktu w&nbsp;postaci fotografii czy wideo jest inicjujący późniejszy zapis „miniperformans”. Dlatego Rytka nazywa aparat fotograficzny „protezą”<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a> i&nbsp;przypisuje mu wtórną funkcję rejestracji działania. Oznacza to, że&nbsp;fotografie nie są celem jego sztuki. Jak mówił, „ma się świadomość, że&nbsp;coś gdzieś ma jakiś koniec, jakiś cel, ale <span class="rozstrzelony">w rzeczywistości nigdy nie ma końca</span>. Dany jest proces dochodzenia w&nbsp;perspektywie życia ludzkiego, w&nbsp;jego przedziale czasowym. Ważny jest proces, a&nbsp;nie dojście do… Zdążanie…”<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5080-1-pb-1920x-9d6.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5080-1-pb-330x-0fe.jpg 330w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5080-1-pb-660x-5c3.jpg 660w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5080-1-pb-768x-786.jpg 768w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5080-1-pb-1320x-dec.jpg 1320w" src="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5080-1-pb-660x-5c3.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>W działaniu artysty nie chodzi więc o&nbsp;ustanowienie końca, przez który można rozumieć rozpoczęcie etapu racjonalnego wnioskowania, lecz o&nbsp;pewne doświadczenie trwania w&nbsp;wyizolowanym przez zawiązanie performansu przedziale czasowym. Gdyby podążając za&nbsp;słowami Rytki, wyobrazić sobie, że&nbsp;nie ma końca – racjonalnie ustanowionego punktu w&nbsp;czasoprzestrzeni, który pomaga nam tłumaczyć i&nbsp;strukturyzować nasze doświadczenie miernikami czasu – to czy nie zbliżamy się bardziej do afektywnej relacji z&nbsp;Innym? Z&nbsp;mrówką, która, jak każde zwierzę - a&nbsp;także jak człowiek, co dla Moniki Bakke stanowi <em>clou </em>posthumanizmu - „nie jest autonomiczne, zawsze jest w&nbsp;relacji, jak woda w&nbsp;wodzie”<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a>?</p> <p>W moim odczytaniu Rytka problematyzuje w&nbsp;<em>Kontakcie</em> sprawczość działania artystycznego. Jeśli za&nbsp;moment przełomowy każdej pracy artysta uznaje miniperformans, a&nbsp;aparat fotograficzny za&nbsp;rodzaj protezy, to niejako rozszerza pojęcie człowieka (i jego działania) o&nbsp;to, co techniczne, z&nbsp;drugiej zaś strony o&nbsp;to, co zwierzęce. Człowiek, zdaniem Żylińskiej, definiuje się właśnie jako istota techniczna, jednocześnie pozostająca w&nbsp;biologicznym i&nbsp;etycznym związku ze zwierzętami. Techniczność to nie tylko umiejętność posługiwania się narzędziami: pojęcie to obejmuje każdy sposób funkcjonowania podmiotu w&nbsp;świecie, oznacza więc całe „środowisko, czy też pole działania dynamicznych sił”<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a>. Granice ludzkiego ciała zostały otwarte przez technologie, a&nbsp;protetyczność jest podstawowym doświadczeniem, na&nbsp;podstawie którego odbieramy rzeczywistość zewnętrzną. Tam, gdzie człowieka przeciwstawia się technologii, popełniony zostaje fundamentalny błąd polegający na&nbsp;wyparciu naszych znaturalizowanych technik porozumiewania się ze światem.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5082-1-pb-1920x-38b.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5082-1-pb-330x-5e4.jpg 330w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5082-1-pb-660x-a24.jpg 660w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5082-1-pb-768x-33a.jpg 768w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5082-1-pb-1320x-907.jpg 1320w" src="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5082-1-pb-660x-a24.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Czymże jest więc tutaj medium fotografii, jeśli nie gestem wskazującym na&nbsp;realne a&nbsp;zarazem trudno uchwytne doświadczenie? W&nbsp;jakim stopniu medium to jest arbitralne, na&nbsp;ile zaś precyzyjnie oddaje spotkanie z&nbsp;Innym? Cóż reprezentuje, jeśli nie moment kontaktu? Paradoksalnie moment kontaktu pozbawiony w&nbsp;następstwie technicznego zapośredniczenia i&nbsp;wyzbycia emocjonalnej i&nbsp;cielesnej więzi między poszczególnymi aktorami tej sytuacji. Te pytania wydają się szczególnie interesujące w&nbsp;kontekście proponowanego przez Żylińską rozszerzenia zakresu pojęcia techniczności. W&nbsp;jej rozumieniu wykracza ono poza racjonalne działanie w&nbsp;kierunku wszystkich akcji podejmowanych w&nbsp;środowisku. A&nbsp;w pracy mrówek widać techniczną dyspozycję ich działań krzyżujących się z&nbsp;inną techniką człowieka. Można tu zaobserwować, jak technika pozostaje w&nbsp;podwójnej zależności wobec działań podejmowanych przez mrówki i&nbsp;przez artystę. Sam zapis nie stoi w&nbsp;opozycji do afektywności doświadczenia, ponieważ, jak pokazuje artysta, natura, którą bada, ma wymiar techniczny – podlegamy więc tym samym prawom, tworzącym pewną ogólną architektonikę relacji. Tak można zrozumieć projekt spotkania człowieka z&nbsp;mrówką. Podobnie jak w&nbsp;ujęciu Żylińskiej kondycja człowieka – ale i&nbsp;zwierzęcia – opiera się na&nbsp;technologicznych ekstensjach pozwalających na&nbsp;pozostawanie w&nbsp;ciągłej relacji ze środowiskiem.</p> <p>W nawiązaniu do książki Ronalda Broglia<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a> proponuję, aby strategię współdziałania z&nbsp;mrówkami nazwać tu „pozostawaniem na&nbsp;powierzchni” (<em>staying on the surface</em>). Można to uznać za&nbsp;swoiste rozwinięcie wspólnej, środowiskowej techniki, zbioru praw i&nbsp;sił decydujących o&nbsp;możliwości zaistnienia kontaktu. To eksplorowanie „powierzchownych” i&nbsp;jednocześnie ulotnych znaków, jakie poszczególne elementy natury czynią widocznym dla ludzkiego oka, jest dla Rytki dalece charakterystyczne. Broglio, wychodząc od rozróżnienia człowieka i&nbsp;zwierzęcia, znajdującego swoje umocowanie w&nbsp;tradycyjnym humanistycznym podziale na&nbsp;powierzchniowość oraz głębię życia, rekonstruuje strategie przedstawiania zwierząt w&nbsp;sztuce najnowszej; zwraca szczególną uwagę na&nbsp;pewne konceptualne odwrócenie relacji powierzchnia-głębia. Jak pisze:</p> <blockquote>jeśli nie możemy wejść w&nbsp;skórę zwierząt, to wówczas nasze rozumienie zwierząt wynika z&nbsp;<span class="rozstrzelony">kontaktu</span> powierzchni dwóch światów – miejsca, gdzie światy człowieka i&nbsp;zwierzęcia zderzają się ze sobą i&nbsp;wstrząsają [<em>jarring and jamming</em>] naszymi kodami kulturowymi, których używamy do opisywania zwierząt.<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a></blockquote> <p>Działania artysty z&nbsp;kamieniami, podobnie jak działanie mrówek ze sznurkiem, są pewnym powierzchniowym działaniem, wpisanym w&nbsp;rytm natury i&nbsp;podlegającym jej prawom. Oczywiście tę „powierzchniowość” nie należy rozumieć pejoratywnie, bowiem projekt tak holistycznie rozumianej sprawczości jest w&nbsp;tym wypadku raczej świadectwem bogactwa tego życia. Oba pojęcia często się mieszają - szczególnie w&nbsp;logice głębokości życia ludzkiego zderzonego z&nbsp;płytkością życia zwierząt - łatwo więc wpaść w&nbsp;antropocentryczną pułapkę, która w&nbsp;każde spotkanie ze zwierzęciem każe nam wpisywać ten aspekt zabawy i&nbsp;błahości. Istotą spotkania jest więc „gra powierzchni” (<em>play of surfaces</em>). W&nbsp;ten sposób możemy rozumieć zdjęcie mrówek w&nbsp;cielesnym kontakcie z&nbsp;dłonią artysty: przełamuje ono geometryczność form z&nbsp;nitki układanych na&nbsp;pozostałych fotografiach.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5084-1-pb-1920x-26d.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5084-1-pb-330x-c33.jpg 330w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5084-1-pb-660x-412.jpg 660w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5084-1-pb-768x-ec8.jpg 768w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5084-1-pb-1320x-51a.jpg 1320w" src="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5084-1-pb-660x-412.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Rytm natury – wątek, który pojawia się zarówno w&nbsp;wypowiedziach Rytki, jak i&nbsp;w instrumentarium posthumanistyki – można rozwinąć powołując się na&nbsp;Alphonso Lingisa, który pisał o&nbsp;symbiozie człowieka z&nbsp;innymi organizmami<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a>. W&nbsp;symbiozie Lingis dostrzega szansę przedefiniowania antropocentrycznego podejścia do zwierząt. Zwraca uwagę, że&nbsp;to, co człowiek określa jako „nieludzkie”, stanowi fundament jego funkcjonowania w&nbsp;świecie. Nie tylko nie jesteśmy w&nbsp;stanie przetrwać bez bakterii, które są obecne w&nbsp;naszym przewodzie pokarmowym, lecz jesteśmy również w&nbsp;symbiozie z&nbsp;elementami „zewnętrznymi” – zwierzętami, roślinami i&nbsp;bakteriami - czyniącymi świat możliwym do życia. Nie chodzi jednak o&nbsp;prostą zależność od natury. Lingis idzie krok dalej mówiąc, że&nbsp;„na nasze ruchy, na&nbsp;pewne ich zmienne, kierunki, prędkości składają się ruchy występujące w&nbsp;środowisku”<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a>. W&nbsp;związku z&nbsp;tym nie tylko składamy się materialnie z&nbsp;elementów „nieludzkich”, lecz również nasza percepcja jest strukturyzowana przez inne organizmy występujące w&nbsp;danym środowisku naturalnym. Nasze bycie w&nbsp;świecie ma więc charakter nie-ludzki. To, co ludzkie stoi z&nbsp;kolei po&nbsp;stronie świadomości, której przypada rola tłumaczenia i&nbsp;racjonalizowania doświadczenia, lokalizowania i&nbsp;nazywania danych lokalizacji. Ustanawia ona cele i&nbsp;tłumaczy zamiary.</p> <blockquote>W codziennym życiu przykładamy wielką wagę do ruchów rozmyślnych, nastawionych na&nbsp;cel. (…) Większość ruchów – rzeczy, które spadają, toczą się, upadają, zmieniają się, osadzają się, które zderzają się z&nbsp;innymi, wprawiają inne w&nbsp;ruch – nie są celowe. (…) Znaczenie tych ruchów nie pochodzi z&nbsp;zewnątrz, z&nbsp;wyobrażenia o&nbsp;ich początku; nie nabierają one kierunku w&nbsp;punkcie zakończenia, celu, rezultatu. Bez tematu, punktu kulminacyjnego, rozwiązania akcji, powiększają się od środka, są <span class="rozstrzelony">rozszerzeniem czasu trwania</span><a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup>.</a></blockquote> <p>Istnieją pewne ruchy, których nie możemy kontrolować za&nbsp;pomocą tego, co uznaje się za&nbsp;esencję człowieczeństwa, czyli świadomości. Ruchy te uczestniczą w&nbsp;kształtowaniu się naszej percepcji i&nbsp;są od niej nieodłączne. Są wspólne dla wszystkich organizmów żywych i&nbsp;w tym sensie zbliżają nas do nich. Dlatego też Rytka problematyzuje udział technologii zapisu tych właśnie chwil, które odsłaniają współzależność człowieka i&nbsp;zwierzęcia. Techniczność może być tutaj narzędziem rozszerzania czasu trwania poprzez przywołanie wspólnej płaszczyzny ruchów i&nbsp;rytmów, wyznaczającym wspólny dla ludzi i&nbsp;zwierząt horyzont doświadczenia.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5086-1-pb-1920x-0aa.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5086-1-pb-330x-231.jpg 330w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5086-1-pb-660x-663.jpg 660w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5086-1-pb-768x-4db.jpg 768w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5086-1-pb-1320x-4ec.jpg 1320w" src="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5086-1-pb-660x-663.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Relacja etyczna nie jest tu niczym innym jak zdaniem sobie sprawy z&nbsp;istnienia wspólnych rytmów i&nbsp;praw, które można równie dobrze nazwać swoistą techniką środowiska w&nbsp;organizowaniu poszczególnych jego elementów. Oczywiście wymaga to przesunięcia sprawczości z&nbsp;podmiotu ludzkiego na&nbsp;czynniki pozaludzkie, z&nbsp;indywidualnie rozumianego działania ku pewnym ogólniejszym procesom, którym w&nbsp;równej mierze podlegają wszystkie organizmy. Nie ma tutaj oczywiście wielkich instancji, żadnych animistycznie nawet pojmowanych bogów, ale jakaś nieuchwytna organizacja, która pojawia się od czasu do czasu w&nbsp;spotkaniu z&nbsp;Innym. Każde znaczenie nadawane temu doświadczeniu jest nieadekwatne. Trafnie opisał to Broglio: „Ludzko-zwierzęca strefa kontaktu staje się kontaktem bez kontaktu, relacją nie-relacji i&nbsp;komunikacją, której język zostanie poddany wymazaniu”<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a>.</p> <p>W tym sensie unikanie nadawania znaczeń – co widać doskonale na&nbsp;przykładzie przywoływanych już tutaj prac, takich jak <em>Czas do dyspozycji / Czas na&nbsp;podjęcie decyzji </em>i <em>Obiekty chwilowe</em> – stawia tę relację w&nbsp;„»teraz« poza ludzkim czasem”<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a>. Afektywność tego doświadczenia zawiesza możliwość sytuowania go w&nbsp;określonym czasie. W&nbsp;tym także znaczeniu doświadczenie czasu wymyka się strukturalnym ograniczeniom. Jak pisał Lingis, rozszerza się od środka: od źródła samego wydarzenia, materialnej, cielesnej i&nbsp;intymnej relacji między dwoma podmiotami relacji.</p> <p><a name="_GoBack"></a> Rytka i&nbsp;mrówki tworzą – poza czasem - „tymczasowy punkt stabilizacji”<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a>. Pojęcie to jest kluczowe dla projektu bioetyki Żylińskiej. W&nbsp;moim przekonaniu tłumaczy ono także paradygmat współdziałania z&nbsp;naturą, na&nbsp;którym opierają się konceptualne prace Rytki. W&nbsp;szeroko zakrojonej koncepcji punktem ciężkości staje się uznanie sprawczości innych podmiotów niż ludzkie. W&nbsp;świetle teorii, do której nawiązuje Żylińska, sprawczość mieściłaby się po&nbsp;stronie nie tylko człowieka, lecz także rzeczy i&nbsp;zwierząt, a&nbsp;podmiot ludzki działałby nie w&nbsp;pojedynkę, lecz w&nbsp;formie asamblaży, czyli zbiorowości zespolonych nie racjonalnymi, lecz afektywnymi relacjami. Podobnie jak u&nbsp;Lingisa oznacza to taki rodzaj działania, którego autorem jest symbiotyczny organizm.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5088-1-pb-1920x-51e.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5088-1-pb-330x-cac.jpg 330w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5088-1-pb-660x-67c.jpg 660w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5088-1-pb-768x-d96.jpg 768w,assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5088-1-pb-1320x-dac.jpg 1320w" src="assets/cache/images/issues/2015/12/rozszerzenie-czasu-trwania/324-5088-1-pb-660x-67c.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Podsumowując te rozważania, można raz jeszcze sięgnąć do zdjęć z&nbsp;cyklu <em>Kontakt</em>. Na&nbsp;jednym z&nbsp;nich widać, jak artysta śledzi markerem ruch mrówki poruszającej się wraz z&nbsp;innymi owadami po&nbsp;kartce papieru. Tworzy kreskę, będącą zapisem ruchu mrówek. Pytanie o&nbsp;celowość wydaje się w&nbsp;tym miejscu zbędne. Ręka artysty podąża za&nbsp;mrówką kierowaną pewnym instynktem: nie pojęcia są tu istotne (ponieważ zawsze znajdzie się miejsce na&nbsp;niepewność i&nbsp;niedoprecyzowanie), lecz fakt zdeterminowania sztuki przez nie-ludzkich aktorów, którzy z&nbsp;kolei podlegają pewnym stałym, warunkującym nas wszystkich prawom. W&nbsp;tym prostym ruchu śledzenia nie-ludzi – chmur, mrówek, kamieni – Rytka wychwytuje właśnie nie-ludzkie, a&nbsp;zarazem determinujące nas rytmy. Czym jest wobec tego fotografia, jeśli nie gestem odsłaniającym ową faktyczną linię zależności? Performanse Rytki są więc jednocześnie tworzeniem, ale i&nbsp;naśladowaniem, nawet bowiem w&nbsp;najbardziej przypadkowym i&nbsp;oryginalnym spotkaniu z&nbsp;naturą artysta odkrywa swoją podległość wobec stałych i&nbsp;niewytłumaczalnych praw. To performatywne działanie (czy też naśladowanie) stanowi również komentarz problematyzujący rolę technologii w&nbsp;procesie afektywnego spotkania. Tak jakby fotografia miała nie tylko przedstawiać oraz wskazywać na&nbsp;nieuchwytność doświadczenia (jak o&nbsp;tych dwóch funkcjach pisałem wcześniej), ale jako element sztuki naśladować również wspólne rytmy oraz prowadzić do nowej etyki w&nbsp;kontaktach z&nbsp;nie-ludźmi.</p> <p></p> <h2>Redakcja dziękuje artyście za&nbsp;zgodę na&nbsp;wykorzystanie fotografii.</h2>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Zob. biogram Zygmunta Rytki: <a href="http://culture.pl/pl/tworca/zygmunt-rytka" target="_blank" rel="noopener"> http://culture.pl/pl/tworca/zygmunt-rytka</a>, dostęp 25 stycznia 2016.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Alicja Cichowicz, <em>Natura świata wg Zygmunta Rytki</em>, „Magazyn Sztuki” 2012, nr 2, s. 128.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Krzysztof Jurecki, <em>Nagroda im. Katarzyny Kobro dla Zygmunta Rytki i wynikające stąd nieporozumienia</em>, „Magazyn O.pl” z 4 stycznia 2012, <a href="http://magazyn.o.pl/2012/nagroda-im-katarzyny-kobro-zygmunt-rytka-krzysztof-jurecki" target="_blank" rel="noopener"> http://magazyn.o.pl/2012/nagroda-im-katarzyny-kobro-zygmunt-rytka-krzysztof-jurecki</a>, dostęp 25 stycznia 2016.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Alicja Cichowicz, <em>Natura świata…</em>, s. 128.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> W wywiadzie z Adamem Mazurem, artysta mówił: „Takie klasyfikowanie należy właśnie do was – historyków sztuki, krytyków – jak się zaszufladkuje to nie umknie”. Zob. Zygmunt Rytka, <em>Wynik doboru naturalnego</em>, rozm. przepr. A. Mazur, „Fototapeta” z marca 2001, <a href="http://fototapeta.art.pl/2003/zrt.php" target="_blank" rel="noopener"> http://fototapeta.art.pl/2003/zrt.php</a>, dostęp 25 stycznia 2016.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Alicja Cichowicz, <em>Natura świata…</em>, s. 128 [podkr. aut.].</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Joanna Szczepanik, <em>Czasoprzestrzenne projekty Zygmunta Rytki</em>, „Obieg” z 10 grudnia 2011, <a href="http://www.obieg.pl/prezentacje/23325" target="_blank" rel="noopener"> http://www.obieg.pl/prezentacje/23325</a>, dostęp 25 stycznia 2016.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Wśród krytyków sztuki znajdują się oczywiście również tacy, którzy dostrzegli posthumanistyczny potencjał pracy Zygmunta Rytki. W 2014 roku odbyła się wystawa „Ecce Animalia” prezentująca <em>Kontakt</em> w Centrum Rzeźby Polskiej w Orońsku. Jej kuratorami byli Dorota Łagodzka i Leszek Golec.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Alicja Cichowicz, <em>Natura świata…</em>, s. 130 [podkr. aut.].</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Krzysztof Jurecki, <em>Nagroda im. Katarzyny Kobro…</em> [podkr. aut.].</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Ibidem.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Zygmunt Rytka, <em>Dwie cząstki wodoru i tlen</em>, rozm. przepr. J. Szczepanik, „Magazyn Sztuki” 2012, nr 2, s. 99.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Krzysztof Jurecki, <em>Nagroda im. Katarzyny Kobro…</em> [podkr. aut.].</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Joanna Żylińska, <em>Bioetyka w epoce nowych mediów</em>, przeł. P. Poniatowska, Wydawnictwo IBL PAN, Warszawa 2013, s. 15.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Ibidem, s. 40.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Zygmunt Rytka, <em>Dwie cząstki wodoru</em>…, s. 96.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ibidem, s. 95 [podkr. aut.].</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Monika Bakke, <em>Bio-transfiguracje. Sztuka i estetyka posthumanizmu</em>, Wydawnictwo Naukowe UAM, Poznań 2010, s. 105.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Joanna Żylińska, <em>Bioetyka…</em>, s. 40.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Zob. Ron Broglio, <em>Surface Encounters. Thinking with Animal and Art</em>, University of Minnesota Press, Minneapolis-London 2011.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Ibidem, s. XIX [podkr. aut.].</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Zob. Alphonso Lingis, <em>Animal Body, Inhuman Face</em>, w: <em>Zoontologies. The Question of the Animal</em>, red. C. Wolfe, University of Minnesota Press, Minneapolis-London 2003, s. 165-182.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Ibidem, s. 167.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Ibidem, s. 167-168. Świadomy umykających znaczeń w tłumaczeniu, przytaczam tutaj cytowany fragment w oryginale: „We assign special importance, in everyday life, to purposive or goal oriented movement. […] Most movements - things that fall, that roll, that collapse, that shift, that settle, that collide with other things, that set other things in motion are not goal-oriented. […] These movements do not get their meaning from an outside referent envisioned from the start, and do not get their direction from an end point, a goal or result. Without theme, climax, or denouement, they extend from the middle, they are <span class="rozstrzelony">spreadings of duration</span> [podkr. aut.].</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Zob. Ron Broglio, <em>Surface Encounters…</em>, s. XXIV.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Ibidem.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Joanna Żylińska, <em>Bioetyka…</em>, s. 62.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2015/panorama/rozszerzenie-czasu-trwania.-kontakt-zygmunta-rytki" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

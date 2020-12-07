@@ -1,0 +1,27 @@
+.c-footnotes {
+  list-style: none;
+  margin: 0;
+  margin-bottom: 40px;
+  padding: 0;
+  
+  &__item {
+    position: relative;
+    padding-left: 36px;
+    color: $color_primary;
+    font-size: 1rem;
+    line-height: 1.5em;
+    + li {
+      margin-top: 1em;
+    }
+  }
+  
+  &__number {
+    position: absolute;
+    left: 0;
+    color: inherit;
+  }
+  
+  &__content {
+    color: inherit;
+  }
+}

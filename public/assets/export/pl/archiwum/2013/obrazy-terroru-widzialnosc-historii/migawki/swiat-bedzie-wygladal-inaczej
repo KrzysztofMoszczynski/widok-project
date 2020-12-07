@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Świat będzie wyglądał inaczej | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/obrazy-terroru-widzialnosc-historii/swiat-bedzie-wygladal-inaczej">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Świat będzie wyglądał inaczej | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Świat będzie wyglądał inaczej | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/obrazy-terroru-widzialnosc-historii/swiat-bedzie-wygladal-inaczej">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Świat będzie wyglądał inaczej | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #31508b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #31508b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #31508b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #31508b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #31508b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #31508b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #31508b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #31508b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(49,80,139,0.8) !important; */
+			/* background-color:#31508b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(49,80,139,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#31508b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(49,80,139,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#31508b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(49,80,139,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(49,80,139,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#31508b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#31508b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#31508b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1309 parent-id-1288">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="420" data-selected-issue-color="#31508b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/2-images-of-terror-visibility-of-history#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/2-images-of-terror-visibility-of-history/world-shall-look-different">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/obrazy-terroru-widzialnosc-historii#toc">2</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/obrazy-terroru-widzialnosc-historii/swiat-bedzie-wygladal-inaczej?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Świat będzie wyglądał inaczej</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/obrazy-terroru-widzialnosc-historii/swiat-bedzie-wygladal-inaczej?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=307">Adam Mazur</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2><em>Fotospołeczeństwo. Antologia tekstów z&nbsp;socjologii wizualnej</em>, red. M. Bogunia-Borowska, P. Sztompka, Wydawnictwo Znak, Kraków 2012.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/02/swiat-bedzie-wygladal-inaczej/65-442-1-pb-1920x-c6e.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/02/swiat-bedzie-wygladal-inaczej/65-442-1-pb-330x-5b4.jpg 330w,assets/cache/images/issues/2013/02/swiat-bedzie-wygladal-inaczej/65-442-1-pb-660x-64f.jpg 660w,assets/cache/images/issues/2013/02/swiat-bedzie-wygladal-inaczej/65-442-1-pb-768x-04c.jpg 768w,assets/cache/images/issues/2013/02/swiat-bedzie-wygladal-inaczej/65-442-1-pb-1320x-073.jpg 1320w" src="assets/cache/images/issues/2013/02/swiat-bedzie-wygladal-inaczej/65-442-1-pb-660x-64f.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p><em>Fotospołeczeństwo</em> Piotra Sztompki i&nbsp;Małgorzaty Boguni-Borowskiej to lektura obowiązkowa i&nbsp;przełomowa, jedna z&nbsp;pierwszych i&nbsp;być może ostatnich tego typu książek. Opasły, niemal 900-stronicowy tom, w&nbsp;dobie rozbuchanej wizualności rządzonej ekonomią internetowej obfitości, wydaje się zbytkownym reliktem odchodzącej w&nbsp;przeszłość analogowej kultury druku, kultu słowa. Wysiłek redaktorów, autorów i&nbsp;wsparcie wydawcy uzasadniane są przekonaniem o&nbsp;doniosłości propozycji. <em>Blurb</em> na&nbsp;czwartej stronie okładki głosi, że&nbsp;„po lekturze <em>Fotospołeczeństwa</em> świat będzie wyglądał inaczej”. W&nbsp;dalszej części rynkowej rekomendacji można dowiedzieć się, że&nbsp;książka jest „niezbędną lekturą zarówno dla socjologów, jak i&nbsp;designerów, marketingowców czy grafików”. Zapewne nieprzypadkowo nie wymieniono straceńców w&nbsp;rodzaju historyków sztuki, kulturoznawców czy też medioznawców. By zachęcić do zakupu tej stosunkowo drogiej publikacji – wycenionej na&nbsp;99,90 złotych – na&nbsp;okładce umieszczono szereg przypominających internetowe <em>tagi</em> haseł: „obrazy, widowisko, spektakl, wyobraźnia, foto, spojrzenie, postrzeganie, patrzenie, widzialność”. Brzmi i&nbsp;wygląda dobrze, ale też mąci w&nbsp;głowach potencjalnych czytelników. Nikt bowiem nie wyjaśnia zainteresowanym, czym na&nbsp;przykład różni się widowisko od spektaklu, spojrzenie od patrzenia, i&nbsp;jak wyobraźnia ma się do widzialności, czym jest fotospołeczeństwo, jakie są relacje socjologii wizualnej do studiów nad kulturą wizualną, i&nbsp;wreszcie, dlaczego autorzy antologii zdecydowali się wybrać z&nbsp;całego współczesnego, jakże bogatego środowiska medialnego, właśnie fotografię.</p> <p>Antologia wpisuje się w&nbsp;szereg podręczników podstawowych dla procesu edukacji magistrów socjologii, by wymienić choćby opublikowane książki Piotra Sztompki: <em>Socjologia codzienności </em>(również współredagowana z&nbsp;Małgorzatą Bogunią-Borowską) czy <em>Socjologia. Lektury </em>(wraz z&nbsp;Markiem Kucią)<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. Jest też dopełnieniem książek autorskich Sztompki (np. <em>Socjologia. Analiza społeczeństwa </em>czy, bliżej tematu, <em>Fotospołeczeństwa</em>,<em> Socjologia wizualna</em><sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>).</p> <p><em>Fotospołeczeństwo</em> to antologia w&nbsp;dość swobodny sposób złożona z&nbsp;artykułów źródłowych i&nbsp;wtórnych opracowań, tekstów tłumaczonych i&nbsp;dobrze znanych w&nbsp;polskim kontekście, jak i&nbsp;pierwszych tłumaczeń autorów niemal nieznanych. Obok fragmentów napisanych przez gwiazdy humanistyki (Susan Sontag, Umberto Eco, Jean Baudrillard czy Roland Barthes), przyciągające uwagę nawet niewtajemniczonych, w&nbsp;tomie znajduje się zasadniczy wybór tekstów o&nbsp;fotografii napisanych przez socjologów tak istotnych, jak Pierre Bourdieu, Howard S.&nbsp;Becker czy Erving Goffman. Zrozumiała – choć już nie oczywista i&nbsp;niedomagająca się wyjaśnienia – jest obecność najważniejszych nie tyle dla socjologii, ile właśnie dla kultury wizualnej autorów, takich jak Nicholas Mirzoeff (choć zapytać można, dlaczego twórcy antologii zdecydowali się na&nbsp;przekład artykułu, z&nbsp;którego ten autor wycofał się po&nbsp;latach<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>), Gottfried Boehm czy W.J.T. Mitchell. Docenić też należy włączenie tłumaczeń tekstów mniej znanych, lecz wybitnych socjologów wizualnych: Terence’a Wrighta, Diany Crane, Mikko Villiego, Janne Marikainena, Michaela Emmisona, Philipa Smitha, Sophie Woodward czy José van Dijck. Wybór ten zdaje się uzupełniać istniejące już antologie dotyczące kultury wizualnej, redagowane z&nbsp;perspektywy socjologicznej (chociażby konkurencyjny tom zredagowany przez Macieja Frąckowiaka, Marka Krajewskiego i&nbsp;Krzysztofa Olechnickiego<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> czy dużo skromniejszy wybór tekstów polskich autorów Jerzego Kaczmarka<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>), medioznawczej (Maryli Hopfinger<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>, Andrzeja Gwóździa<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>), filmoznawczej (Iwony Kurz<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>), kulturoznawczej (pod redakcją zespołu Iwony Kurz, Pauliny Kwiatkowskiej, Łukasza Zaremby<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>) i&nbsp;– <em>last but not least </em>– historycznosztucznej (zespołu: Mariusz Bryl, Piotr Juszkiewicz, Piotr Piotrowski, Wojciech Suchocki<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>).</p> <p>W kwestiach szczegółowego doboru artykułów tworzących <em>Fotospołeczeństwo </em>uznać należy, że&nbsp;od całości odstaje artykuł Umberto Eco, nie dość, że&nbsp;już leciwy, to jeszcze odległy od tematu. Nie do końca sensowne wydaje się przedrukowywanie fragmentów tekstów André Bazina czy fragmentów dostępnych książek Rolanda Barthes’a i&nbsp;Susan Sontag. Ciekawsze byłyby opracowania wtórne dotyczące tych dobrze znanych polskiemu czytelnikowi klasyków<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Niezrozumiały wydaje się brak autorów, których doniosłość dla dyscypliny akcentują w&nbsp;swoich autorskich esejach Sztompka i&nbsp;Bogunia-Borowska (np. James Elkins, Hans Belting czy Michel Foucault). Z&nbsp;drugiej strony, jeśli już redaktorzy zdecydowali się umieścić w&nbsp;antologii znane czytelnikowi teksty źródłowe, to dziwnie wypada na&nbsp;przykład brak fragmentów <em>Społeczeństwa spektaklu </em>Guy Deborda w&nbsp;dziale „Wizualne spektakle i&nbsp;obrazowanie codzienności”. Można przyjąć, że&nbsp;idee Deborda reprezentuje opracowanie wtórne Douglasa Kellnera, <em>Czas spektaklu</em>, ale połowiczna tylko obecność tekstów źródłowych w&nbsp;<em>Fotospołeczeństwie</em> (podobnie jak <em>Badaniach wizualnych w&nbsp;działaniu</em>) uświadamia dojmujący brak konsekwentnie zredagowanej antologii. W&nbsp;efekcie mamy do czynienia ze zbiorami, w&nbsp;których względnie nowe źródła i&nbsp;najnowsze opracowania dotyczące kultury wizualnej uzupełniane są o&nbsp;wyciągnięte nieco przypadkowo z&nbsp;lamusa fragmenty klasyków tematu.</p> <p>Motywacje stojące za&nbsp;wyborem artykułów mógłby wytłumaczyć wstęp. Tym bardziej dojmujący jest jego brak. Zamiast niego redaktorzy <em>Fotospołeczeństwa</em> poprzedzili antologię własnymi esejami, co w&nbsp;jakiejś mierze pozwala zlokalizować ich pozycje krytyczne i&nbsp;podejście teoretyczne.</p> <h2>Wyobraźnia wizualna</h2> <p>Książkę otwiera niemal trzydziestostronicowy artykuł Sztompki, <em>Wyobraźnia wizualna i&nbsp;socjologia</em>, i&nbsp;prawie dwukrotnie dłuższy esej Boguni-Borowskiej <em>Fotospołeczeństwo. Społeczno-kulturowe konteksty dyskursu o&nbsp;społeczeństwie</em>. Tekst profesora zaczyna się od przywołania klasyków w&nbsp;rodzaju Maxa Webera czy Émila Durkheima. Sztompka, dla którego istotą życia społecznego są – za&nbsp;Weberem – znaczenia, dostrzega wagę momentu, w&nbsp;którym przyszło nam żyć (s. 11). „Nie ulega wątpliwości” – pisze – „że dokonuje się jakiś istotny przełom. Jeden z&nbsp;jego aspektów polega na&nbsp;tym, że&nbsp;znaczenia, mówiąc metaforycznie, wypełzły na&nbsp;powierzchnię, stały się bardziej bezpośrednio obserwowalne” (s. 12). Możliwość ich bezpośredniego obserwowania nie przekłada się jednak na&nbsp;ich rozumienie. Naturalnie, zrozumienie to ma umożliwić lektura antologii i&nbsp;ogólnie pojęta edukacja wizualna socjologów. Artykuł Sztompki to rodzaj wprowadzenia do kultury wizualnej widzianej z&nbsp;perspektywy socjologa, wprowadzenia na&nbsp;bardzo podstawowym poziomie, stąd proste zwroty, nieopatrzone szczegółowymi rozpoznaniami i&nbsp;przypisami intuicje. „Według niedawnych badań ponad połowa Polaków nie czyta w&nbsp;ogóle, ale za&nbsp;to trudno byłoby znaleźć mieszkanie bez telewizora czy nawet kilku” – pisze na&nbsp;przykład i&nbsp;– co niezwykłe dla zawodowego socjologa – nie podaje, o&nbsp;jakie badania mu chodzi, o&nbsp;jaki procent populacji, ile właściwie jest telewizorów i&nbsp;ile czasu przed nimi spędzają Polacy.</p> <p>Brak precyzji można uznać za&nbsp;manifestacyjne odejście od danych ilościowych, które fascynują socjologów w&nbsp;rodzaju Henryka Domańskiego. Socjologia wizualna w&nbsp;ujęciu redaktorów <em>Fotospołeczeństwa</em> zbliża się do dziedzin tak nieścisłych, jak wspomniane już kulturoznawstwo, medioznawstwo, a&nbsp;nawet historia sztuki. Nieprzypadkowo zaraz po&nbsp;Weberze i&nbsp;Durkheimie w&nbsp;tekście Sztompki pojawiają się nazwiska autorów dobrze znanych z&nbsp;przekładów publikowanych w&nbsp;„Artium Quaestiones”, „Kulturze Popularnej” czy „Tekstach Drugich”. Pisząc o&nbsp;zwrocie ikonicznym (<em>iconic turn</em>) Gottfrieda Boehma i&nbsp;zwrocie obrazowym (<em>pictorial turn</em>) W. J. T. Mitchella, Sztompka obstaje przy „zwrocie wizualnym”, zaproponowanym przez Jamesa Elkinsa (jednocześnie, paradoksalnie, umieszczając w&nbsp;antologii teksty Mitchella i&nbsp;Boehma, ale wykluczając z&nbsp;niej samego Elkinsa). Pisze:</p> <blockquote>Zwrot wizualny obejmuje dla mnie oba postulaty formułowane przez Boehma i&nbsp;Mitchella: że&nbsp;przedmiotem badań muszą być wszelkie rodzaje obrazów, nie tylko artystycznych, ale także tych, które wypełniają ikonosferę naszego życia codziennego, oraz że&nbsp;te obrazy trzeba analizować nie tylko z&nbsp;uwagi na&nbsp;znaczenia, jakie niosą i&nbsp;przekazują, lecz również ze względu na&nbsp;ich autonomiczny performatywny wpływ na&nbsp;świadomość i&nbsp;działania odbiorców oraz na&nbsp;sposoby obchodzenia się z&nbsp;obrazami jako przedmiotami szczególnego rodzaju (s. 22).</blockquote> <p>Po odwołaniu do Elkinsa Sztompka dodaje też do definicji coś od siebie:</p> <blockquote>Ale idea zwrotu wizualnego mówi jeszcze coś więcej. Sugeruje mianowicie włączenie do przedmiotu badań nie tylko obrazów stworzonych przez kogoś w&nbsp;jakimś substracie materialnym (na płótnie malarskim, kliszy fotograficznej, taśmie filmowej, matrycy elektronicznej), lecz także obrazów potencjalnych, na&nbsp;razie obecnych tylko na&nbsp;siatkówce oka, czyli inaczej wszystkich aspektów życia społecznego, które mają wymiar wizualny, mogą być postrzeżone i&nbsp;zaobserwowane, nawet gdy jeszcze – lub w&nbsp;ogóle – nie zostaną zarejestrowane, materialnie utrwalone w&nbsp;postaci obrazu (malarskiego, fotograficznego, filmowego, cyfrowego)... Przełom wizualny w&nbsp;naukach społecznych to zatem dla mnie poddanie naukowemu rozpoznaniu wszelkich obrazów znajdujących się w&nbsp;przestrzeni społecznej (ikonosfery) oraz wszelkich widzialnych przejawów życia społecznego – wizualnej socjosfery (s. 23, podkr. oryg).</blockquote> <p>Odejście od esencjalizmu wizualnego zbiega się u&nbsp;Sztompki z&nbsp;intrygującym zanikiem różnicy pomiędzy światem społecznym a&nbsp;obrazem. W&nbsp;jego ujęciu badania mogą zmierzać w&nbsp;dwóch kierunkach. Po&nbsp;pierwsze, skupić się mogą na&nbsp;samej kulturze wizualnej, jak przypadku kulturoznawstwa i&nbsp;medioznawstwa. Po&nbsp;drugie jednak, mogą korzystać z&nbsp;obrazów w&nbsp;sposób instrumentalny, traktując je jako zasób badawczy, „zespół wskaźników czegoś innego poza nimi samymi: ukrytych mechanizmów, struktur, znaczeń, jakimi są przeniknięte ludzkie działania indywidualne i&nbsp;zbiorowe. Obrazy i&nbsp;postrzegalna otoczka życia społecznego służy wtedy jako okno, poprzez które odkrywamy różne społeczne sekrety (s. 22)”. Jako ilustrację Sztompka podaje doroczne wystawy World Press Photo, w&nbsp;dobrej wierze uznając zbiór nagrodzonych zdjęć za&nbsp;podstawowe dane wizualne, dostarczające ogólnych informacji o&nbsp;„rozpiętości nierówności społecznych, istotnych różnicach między społeczeństwami na&nbsp;osi między egalitaryzmem i&nbsp;elitaryzmem” (s. 35). Okazuje się zatem oddanym zwolennikiem obrazów i&nbsp;to traktowanych właśnie w&nbsp;sposób bezproblemowy, niczym „okna” służące do podglądania społeczeństwa.</p> <p>Piotr Sztompka jest autentyczny, nieszablonowo nienaukowy, co liczy mu się na&nbsp;plus, choć może zakrawać na&nbsp;swoistą naiwność, na&nbsp;którą tylko profesor zwyczajny może sobie pozwolić. W&nbsp;środowiskach profesorów socjologii wizualnej staje się to powoli rutyną: podobna dezynwoltura cechowała <em>Za fotografię! </em>Drozdowskiego i&nbsp;Krajewskiego<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. W&nbsp;autorskim eseju Sztompka podaje anegdotę o&nbsp;początkach swojego zainteresowania socjologią wizualną, która po&nbsp;części wyjaśnia to podejście. Autor cytuje rozmowę z&nbsp;Erwinem Scheuchem „przy śniadaniu na&nbsp;balkonie hotelu w&nbsp;Amalfi”, w&nbsp;której to scenerii Scheuch mówi Sztompce: „Kiedy chcę naprawdę zrozumieć społeczeństwo włoskie, nie robię ankiet, tylko idę do baru na&nbsp;rogu albo na&nbsp;<em>piazza</em> i&nbsp;po prostu patrzę wokół” (s. 28). Niezwykłe wyznanie profesora socjologii brzmi niczym abdykacja z&nbsp;roszczeń dyscypliny do naukowości. To posunięcie ma w&nbsp;sobie niestety też coś z&nbsp;krytykowanego – choćby przez cenionego przez Sztompkę Elkinsa – <em>de-skillingu</em>. Zrzucenie sztywnego gorsetu naukowości, który w&nbsp;socjologii przyjmuje często postać fetyszyzacji badań ankietowych i&nbsp;statystyki, można zaakceptować lub nie – rodzi się jednak pytanie, co otrzymujemy w&nbsp;zamian.</p> <p>Nieliczne i&nbsp;krótkie fragmenty, w&nbsp;których Sztompka interpretuje zjawiska z&nbsp;obszaru socjologii wizualnej, pozostawiają poczucie niedosytu. Również proponowana przez niego wykładnia myśli innych autorów – jak choćby wspomnianego Wrighta czy wręcz klasyków w&nbsp;rodzaju Barthes’a – budzi niekiedy zdziwienie. Na&nbsp;przykład w&nbsp;podrozdziale eseju, zatytułowanym <em>Strategie interpretacji wizualnej</em>, pisze on o&nbsp;Barthes’owskich pojęciach <em>studium</em> i&nbsp;<em>punctum</em>, zaznaczając, że&nbsp;„zdjęcia są lepsze, mają większą moc ekspresyjną i&nbsp;perswazyjną, jeśli zawierają to, co Barthes nazywał <em>punctum</em>, tzn. szczególny walor estetyczny czy artystyczny. Nie ma jednak recept, jak to osiągnąć, zależy to już od indywidualnego talentu fotografa” (s. 30). Z&nbsp;lektury opublikowanego w&nbsp;antologii fragmentu znanego tekstu źródłowego Barthesa wynika raczej, że&nbsp;ani nie chodzi o&nbsp;perswazję, ani o&nbsp;talent, ani o&nbsp;„szczególny walor estetyczny czy artystyczny”.</p> <p>Swój tekst Sztompka kończy próbą definicji zawartej w&nbsp;tytule „wyobraźni wizualnej”:</p> <blockquote>Obcowanie z&nbsp;socjologicznie nasyconym materiałem fotograficznym i&nbsp;wykonywanie fotografii z&nbsp;socjologiczną intencją pomaga w&nbsp;wyrobieniu szczególnej wrażliwości i&nbsp;kompetencji, którą określam jako wyobraźnię wizualną. Uważam ją za&nbsp;niezbędne wyposażenie intelektualne każdego socjologa (s. 37, podkr. oryg.).</blockquote> <p>Nic więcej. Koniec.</p> <h2>Fotospołeczeństwo</h2> <p>Opublikowany w&nbsp;antologii jako drugi, zaraz za&nbsp;tekstem Piotra Sztompki, esej Małgorzaty Boguni-Borowskiej <em>Fotospołeczeństwo. Społeczno-kulturowe konteksty dyskursu o&nbsp;społeczeństwie</em> w&nbsp;jakiejś mierze pełni funkcję wstępu do książki. Autorka nie tylko próbuje wytłumaczyć tytuł publikacji (swoją drogą, redakcja w&nbsp;niedługim przecież tytule przepuściła dwa razy „społeczeństwo” i&nbsp;raz „społeczno-kulturowe”), ale też pozwala lepiej zrozumieć zasady wyboru. Jej esej ma luźną strukturę i&nbsp;łączy cechy tekstu naukowego, publicystyki zahaczającej o&nbsp;aktualności polityczne oraz wydarzenia z&nbsp;zakresu kultury popularnej, oraz autorskiej interpretacji obrazów malarskich (te fragmenty zostały wyróżnione kursywą). Interpretacje obrazów są trzy, tak jak trzy są reprodukcje barwne obrazów malarskich poprzedzające każdą z&nbsp;trzech zasadniczych części <em>Fotospołeczeństwa. </em>Te części to „Fundamenty kultury wizualnej”, „Konteksty kultury wizualnej” oraz „Metody badania kultury wizualnej”, a&nbsp;wybrane obrazy to <em>Fotografia </em>Marty Lipowskiej, <em>Fotograf w&nbsp;kropli deszczu </em>Zdzisława Nitki oraz <em>No Flash I&nbsp;</em>Beaty Bigaj. O&nbsp;ile struktura książki jest w&nbsp;miarę klarowna – nawet biorąc poprawkę na&nbsp;płynne przejście od fundamentów do kontekstów kultury wizualnej – o&nbsp;tyle niezrozumiałe jest umieszczenie w&nbsp;słabo ilustrowanej publikacji poświęconej fotografii barwnych reprodukcji dość przeciętnego malarstwa. Niechęć do redaktorskiej zapewne decyzji może dodatkowo podsycać lektura interpretacji. By oddać ducha tekstu, najlepiej przytoczyć obszerny fragment z&nbsp;podrozdziału <em>Fotograf w&nbsp;kropli deszczu</em>, poświęconego niedatowanemu obrazowi Zdzisława Nitki:</p> <blockquote>Obraz przedstawia zieloną łąkę, na&nbsp;którą spadają krople deszczu. Krople są duże i&nbsp;wyraźne. W&nbsp;jednej z&nbsp;nich widać człowieka, którego twarz zasłania aparat fotograficzny. Człowiek ten robi zdjęcia, celując w&nbsp;wpatrzonego i&nbsp;stojącego przed obrazem widza. Wydaje się, że&nbsp;fotograf zamknięty w&nbsp;kropli opada, wdziera się do rzeczywistości, aby ją obejrzeć z&nbsp;bliska poprzez obiektyw. Kropla nie jest jednak pojedyncza. Deszcz kropli oznacza wielość fotografów, którzy jak krople deszczu spadają na&nbsp;świat, aby robić zdjęcia. Deszcz pojawia się zazwyczaj nagle i&nbsp;nieoczekiwanie. Człowiek jest nań raczej nieprzygotowany. Fotografowie jak krople „spadają” wszędzie i&nbsp;docierają do rozmaitych miejsc, usiłując je „opisać światłem”, jak mówi Jean Baudrillard. Trochę przypadkowo wdzierają się w&nbsp;różne przestrzenie nie zawsze godne uwagi. Czasem bardziej, czasem mniej istotne. Kropla deszczu żyje jednak krótko. Czasu na&nbsp;zrobienie zdjęcia jest mało, tyle ile spada kropla deszczu. Na&nbsp;obrazie spadające krople tworzą kałużę. Każda zwiększa objętość kałuży. Wydaje się duża i&nbsp;groźna, ale tylko przez chwilę. Jest tutaj sugestia ulotności tego, co zapisuje się na&nbsp;zdjęciach. Wszystko bowiem przemija, mimo to fotografowanie jako proces, niczym deszcz natrętny i&nbsp;uciążliwy staje się częścią kultury i&nbsp;procesów społecznych… (s. 73–74).</blockquote> <p>To skromny, choć reprezentatywny wyimek z&nbsp;obszernej interpretacji. Przy czym należy dodać, że&nbsp;im dłużej czytelnik próbuje się w&nbsp;tekst wczytać, tym mocniej przeciera oczy zdumiony nagromadzeniem komunałów i&nbsp;erupcją średniej literacko metaforyki. Bogunia-Borowska puściła wodze wyobraźni i&nbsp;dała upust poetyckim ciągotom zapewne pod&nbsp;wpływem tyleż prostych, ile szczerych wypowiedzi profesora Sztompki. Można mieć tylko nadzieję, że&nbsp;jej opisy nie są symptomem zapowiadanej na&nbsp;okładce zmiany, jaka miałaby wynikać z&nbsp;zapoznania się z&nbsp;treścią antologii<em></em>(dla przypomnienia: „Po lekturze <em>Fotospołeczeństwa </em>świat będzie wyglądał inaczej”).</p> <p>W dużo lepszej części, pisanej jako tekst naukowy, Małgorzata Bogunia-Borowska spotyka się z&nbsp;Drozdowskim i&nbsp;Krajewskim (także tam, gdzie Sztompka się z&nbsp;nimi rozmija), odnosi się do badań prowadzonych przez zespół Mirosława Filiciaka, tekstów Wiesława Godzica, Alicji Helman i&nbsp;– przede wszystkim – dialoguje z&nbsp;samym Piotrem Sztompką. Odniesienia do lektur badaczy polskich i&nbsp;zagranicznych są ciekawe i&nbsp;pełne krytycznego dystansu, jednak relacja z&nbsp;mistrzem sprawia, że&nbsp;tekst wydaje się pęknięty. Autorski koncept „fotospołeczeństwa” Bogunia-Borowska przymierza do teorii Sztompki, który widzi strukturę społeczną w&nbsp;czterech wymiarach: normatywnym, idealnym, interakcyjnym oraz interesów. Badaczka „sprawdza”, jak różne formy „widoczności, widzialności, czy wizualności przenikają się na&nbsp;poziomie tejże struktury stając się jej budulcem” (s. 87). Dość ogólne podziały zaproponowane przez Sztompkę i&nbsp;zanalizowane pod&nbsp;odpowiednim kątem przez Bogunię-Borowską, jak nietrudno odgadnąć, prowadzą autorkę do wniosku, że&nbsp;obrazy są wszędzie, na&nbsp;każdym poziomie struktury społecznej, a&nbsp;co za&nbsp;tym idzie, możemy śmiało mówić o&nbsp;„fotospołeczeństwie”. Definicję warto przytoczyć <em>in extenso</em>:</p> <blockquote>Społeczeństwo nowego paradygmatu nazywam fotospołeczeństwem. Uznaję je za&nbsp;model istnienia współczesnych społeczeństw, które w&nbsp;wyraźny sposób konstytuują się wokół znaczeń obrazów na&nbsp;wielu płaszczyznach i&nbsp;etapach oraz na&nbsp;wielu poziomach. Dotyczy to zarówno poziomu jednostkowego, jak i&nbsp;zbiorowego, sfery publicznej i&nbsp;prywatnej, wymiaru instytucjonalnego i&nbsp;jednostkowego, historii i&nbsp;teraźniejszości, współczesności i&nbsp;przyszłości, obszarów widzialnego i&nbsp;zakrytego, estetyki i&nbsp;antyestetyki, polityki i&nbsp;etyki, ideologii i&nbsp;mitologii, kultury i&nbsp;sztuki. Fotospołeczeństwo jest wielowymiarowym i&nbsp;wieloaspektowym uniwersalnym projektem społeczeństwa ogarniającym wszelkie praktyki społeczne konstruowane wokół wizualności i&nbsp;widzialności, stających się osią indywidualnych i&nbsp;zbiorowych działań oraz zachowań ludzkich (s. 46).</blockquote> <p>Wyczerpująca, dosłownie wyczerpująca, propozycja definicyjna traci na&nbsp;ostrości z&nbsp;każdym kolejnym rozwinięciem. Uniwersalizm wydaje się uzurpatorski, wszystko łączy się ze wszystkim, teraźniejszość miesza ze współczesnością, a&nbsp;nowy byt niebezpiecznie przypomina pojęciową pałubę. Bogunia-Borowska chcąc niechcąc wchodzi w&nbsp;rolę – <em>toutes proportions gardées </em>– cytowanego w&nbsp;tekście i&nbsp;obecnego w&nbsp;antologii Nicholasa Mirzoeffa<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>: zarówno jeśli chodzi o&nbsp;retorykę (hurraoptymizm), kwestie merytoryczne (skupienie na&nbsp;kulturze popularnej, aferach medialnych i&nbsp;tabloidach), jak i&nbsp;przyjemność czerpaną z&nbsp;zawieszenia do pewnego stopnia aparatu krytycznego zwykle wykorzystywanego przez badaczy analizujących kulturę wizualną.</p> <p>Innymi słowy, artykuły Boguni-Borowskiej i&nbsp;Sztompki można potraktować jako wstęp do dyskusji, która w&nbsp;polu anglosaskiej refleksji nad kulturą wizualną przetoczyła się lata temu, choćby przy okazji publikacji ankiety w&nbsp;magazynie „October”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>, by powrócić echem w&nbsp;dyskusji wokół artykułu Mieke Bal, <em>Wizualny esencjalizm i&nbsp;przedmiot kultury wizualnej</em><sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. Co charakterystyczne, tę ostatnią dyskusję w&nbsp;całości odnaleźć można w&nbsp;porównywalnej do <em>Fotospołeczeństwa </em>antologii wydanej na&nbsp;potrzeby historii sztuki, czyli w&nbsp;<em>Perspektywach współczesnej historii sztuki</em><sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. Optymistyczne nastawienie redaktorów <em>Fotospołeczeństwa</em> w&nbsp;kwestii perspektyw współczesnej socjologii wizualnej – jakże odmienne od minorowych nastrojów udzielających się historykom sztuki – imponuje, ale też budzi obawy o&nbsp;trafność diagnoz. Najciekawsze byłoby chyba spotkanie tych dyskursów, kształtujących refleksję o&nbsp;kulturze wizualnej.</p> <h2>Antologia, przedmiot, język</h2> <p>Obejmując w&nbsp;intencji całość „fotospołeczeństwa”, redaktorzy musieli uznać własne i&nbsp;narzucone przez wydawcę ograniczenia, dotyczące wyboru tekstów do i&nbsp;tak niemałego tomu. Nieunikniona redukcja polegała przede wszystkim na&nbsp;skupieniu na&nbsp;fotografii – wyjąwszy nieliczne teksty odwołujące się zdawkowo do wideo, internetu czy telewizji. Tytuł książki zatem, pomimo teoretycznych deklaracji współredaktorki tomu, odpowiada jej zawartości.</p> <p>Dominacja medium fotografii nie przeszkadza jednak w&nbsp;forsowaniu wciąż mało oczywistego, socjologicznego ujęcia tematu. Oprócz Ervinga Goffmana, Howarda S.&nbsp;Beckera, czy wreszcie – choćby i&nbsp;we fragmencie – dostępnego tekstu Pierre’a Bourdieu z&nbsp;klasycznej, wciąż niedostępnej po&nbsp;polsku, <em>Un Art moyen</em><sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>, w&nbsp;antologii znalazł się artykuł Michaela Emmisona i&nbsp;Philipa Smitha, <em>Żywe formy danych wizualnych: ciała, tożsamości i&nbsp;interakcje</em>. Sporo tekstów dotyczy mody, autoprezentacji, wizerunku medialnego czy uwikłania obrazów w&nbsp;politykę płci kulturowej. Fotografia wydaje się wciąż użytecznym narzędziem do zrozumienia kultury. Także z&nbsp;perspektywy socjologicznej<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>.</p> <p>Na zakończenie kilka zdań o&nbsp;języku antologii. Z&nbsp;przekładami jest sporo problemów. Nie chodzi nawet o&nbsp;drobne błędy czy potknięcia, choć tych niedoróbek redakcyjnych jest dużo. Cały tekst W.J.T. Mitchella, <em>Showing Seeing</em>, poczynając od tytułu, dowodzi niezrozumienia przez tłumacza dość prostej tezy artykułu. Notabene tekst ten opublikowano już w&nbsp;Polsce w&nbsp;lepszym tłumaczeniu Mariusza Bryla<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. Paradoksalnie, najwięcej drobnych, lecz irytujących wpadek znajduje się w&nbsp;artykule Piotra Sztompki, w&nbsp;którym Maurice Merleau-Ponty pojawia się jako Lucien, Rafał Drozdowski jako Marek, znany skądinąd autor testu psychologicznego Rorschah jako Roschach, a&nbsp;Keith Moxey uparcie nazywany jest Moxleyem. Z&nbsp;kolei podczas lektury tekstu Boguni-Borowskiej trudno prześlizgnąć się obojętnie po&nbsp;pisanym kursywą słowie „egzemplum” (s. 52). Od literowych drobiazgów ważniejsze wydają się różnice w&nbsp;tłumaczeniach istotnych terminów. Przyrost przekładów literatury przedmiotu w&nbsp;ostatnich latach wyzwolił kreatywność translatorską – w&nbsp;pewnej mierze właśnie rolą redaktorów opracowań zbiorowych jest praca nad ujednoliceniem terminologicznego bałaganu. Być może w&nbsp;przypadku włączonych do antologii tekstów już publikowanych wcześniej po&nbsp;polsku dyskusja z&nbsp;wydawcami i&nbsp;tłumaczami byłaby stratą czasu, jednak zdziwienie budzą różnice występujące w&nbsp;artykułach redaktorów tomu – np.&nbsp;Piotr Sztompka <em>pictorial turn</em> Mitchella przekłada jako „zwrot obrazowy” (choć wcześniej bywał tłumaczony na&nbsp;polski jako „zwrot piktorialny”<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>), a&nbsp;Bogunia-Borowska  – jako „piktograficzny” (s. 46).</p> <p>Mimo tych zastrzeżeń, to dobrze jednak, że&nbsp;kolejne tłumaczenia najważniejszych tekstów są coraz łatwiej dostępne, napędzają debatę w&nbsp;środowisku akademickim, inspirują do negocjacji sensów podstawowych kategorii, przemyślenia granic dotychczas funkcjonujących dyscyplin, takich jak socjologia, historia sztuki czy kulturoznawstwo<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a><em>Socjologia. Lektury</em>, red. M. Kucia, P. Sztompka, Znak, Kraków 2009; <em>Socjologia codzienności</em>, red. M. Bogunia-Borowska, P. Sztompka, Znak, Kraków 2008.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Piotr Sztompka, <em>Socjologia. Analiza społeczeństwa</em>, Znak, Kraków 2002; Idem, <em>Socjologia wizualna. Fotografia jako metoda badawcza</em>, PWN, Warszawa 2005.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Nicholas Mirzoeff, <em>Introduction. What is visual culture</em>, w: idem, <em>An Introduction to Visual Culture</em>, Routledge, London–New York 1999.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a><em>Badania wizualne w działaniu. Antologia tekstów</em>, red. M. Frąckowiak, M. Krajewski, K. Olechnicki, Fundacja Bęc Zmiana, Warszawa 2011.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a><em>Do zobaczenia. Socjologia wizualna w praktyce badawczej</em>, red. J. Kaczmarek, Wydawnictwo Naukowe Uniwersytetu im. Adama Mickiewicza, Poznań 2008. Podobnych antologii, będących opracowaniami materiałów konferencyjnych, jest dużo więcej.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a><em>Nowe media w komunikacji społecznej w XX wieku. Antologia</em>, red. M. Hopfinger, Oficyna Naukowa, Warszawa 2002.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a><em>Widzieć, myśleć, być. Technologie mediów</em>, red. A. Gwóźdź, Universitas, Kraków 2001.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a><em>Film i historia. Antologia</em>, red. I. Kurz, Wydawnictwo Uniwersytetu Warszawskiego, Warszawa 2008.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a><em>Antropologia kultury wizualnej</em>, red. I. Kurz, P. Kwiatkowska, Ł. Zaremba, Wydawnictwo Uniwersytetu Warszawskiego, Warszawa 2012.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a><em>Perspektywy współczesnej historii sztuki. Antologia przekładów „Artium Quaestiones”</em>, red. M. Bryl, P. Juszkiewicz, P. Piotrowski, W. Suchocki, Wydawnictwo Naukowe Uniwersytetu im. Adama Mickiewicza, Poznań 2009.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Np. z tomu zredagowanego przez Geoffreya Batchena, <em>Photography Degree Zero. Reflections on Roland Barthes's</em> Camera Lucida, MIT Press, Cambridge–London 2009.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Por. też: Rafał Drozdowski, Marek Krajewski, <em>Za fotografię! W stronę radykalnego programu socjologii wizualnej</em>, Fundacja Bęc Zmiana, Warszawa 2010.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Por. krytyka Mirzoeffa w wykonaniu Mieke Bal oraz dyskusja wokół jej artykułu wraz z odpowiedzią Mirzoeffa, <em>Wizualny esencjalizm i przedmiot kultury wizualnej</em>, przeł. M. Bryl, w: <em>Perspektywy współczesnej historii sztuki</em>…, s. 839–927.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a><em>Visual Culture Questionnaire</em>, „October” 1996, nr 77.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Ibidem.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Ibidem.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Pierre Bourdieu et al.,<em> Un Art moyen. </em><em>Essai sur les usages sociaux de la photographie</em>, Minuit, Paris 1965.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Skupienie na fotografii charakteryzuje również wspomnianą już, wydaną w 2011 roku przez warszawską Fundację Bęc Zmiana, antologię Macieja Frąckowiaka, Marka Krajewskiego i Krzysztofa Olechnickiego <em>Badania wizualne w działaniu</em>…<em>. </em>Parafrazując tytuł artykułu Bal, przedmiotem polskiej socjologii wizualnej jest fotografia – także za sprawą zainteresowania i publikacji innych naukowców, na przykład Tomasza Ferenca.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> W.J.T. Mitchell, <em>Pokazując widzenie: krytyka kultury wizualnej</em>, przeł. M. Bryl, w: <em>Perspektywy współczesnej historii sztuki</em>…</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> W.J.T. Mitchell, <em>Zwrot piktorialny</em>, przeł. M. Drabek, „Kultura Popularna” 2009, nr 1, s. 4–19.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Więcej na temat historii rozwoju badań wizualnych w Polsce zob. Maciej Frąckowiak, Łukasz Rogowski, <em>W poszukiwaniu polskiej socjologii wizualnej, </em>„Kultura i Społeczeństwo” 2009, nr 1, s. 123–152.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/obrazy-terroru-widzialnosc-historii/swiat-bedzie-wygladal-inaczej" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

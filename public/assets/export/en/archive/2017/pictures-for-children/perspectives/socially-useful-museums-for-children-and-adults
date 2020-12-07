@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Muzea przydatne społecznie: dla dzieci i dorosłych | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2017/obrazy-dla-dzieci/muzea-przydatne-spolecznie-dla-dzieci-i-doroslych">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Muzea przydatne społecznie: dla dzieci i dorosłych | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Muzea przydatne społecznie: dla dzieci i dorosłych | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2017/obrazy-dla-dzieci/muzea-przydatne-spolecznie-dla-dzieci-i-doroslych">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Muzea przydatne społecznie: dla dzieci i dorosłych | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #747ca8 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #747ca8 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #747ca8 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #747ca8 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #747ca8 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #747ca8 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #747ca8 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #747ca8 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(116,124,168,0.8) !important; */
+			/* background-color:#747ca8 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(116,124,168,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#747ca8 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(116,124,168,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#747ca8; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(116,124,168,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(116,124,168,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#747ca8 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#747ca8 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#747ca8 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-558 parent-id-557">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="450" data-selected-issue-color="#747ca8" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2017/obrazy-dla-dzieci/muzea-przydatne-spolecznie-dla-dzieci-i-doroslych">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2017/obrazy-dla-dzieci/muzea-przydatne-spolecznie-dla-dzieci-i-doroslych">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2017/obrazy-dla-dzieci#toc">19</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2017/obrazy-dla-dzieci/muzea-przydatne-spolecznie-dla-dzieci-i-doroslych?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Muzea przydatne społecznie: dla dzieci i dorosłych</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2017/obrazy-dla-dzieci/muzea-przydatne-spolecznie-dla-dzieci-i-doroslych?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=559">Aleksandra Janus</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7311-1-pb-1920x-67f.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7311-1-pb-330x-698.jpg 330w,assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7311-1-pb-660x-f97.jpg 660w,assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7311-1-pb-768x-bc7.jpg 768w,assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7311-1-pb-1320x-0ea.jpg 1320w" src="assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7311-1-pb-660x-f97.jpg" alt="" ></a>    <figcaption><p><em>Wszystko widzę jako sztukę. Wystawa dla dzieci</em>, Zachęta. Fot. Marek Krzyżanek</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Główną nagrodę Sybilla w&nbsp;kategorii muzealne wydarzenie roku 2016 otrzymało Muzeum Narodowe w&nbsp;Warszawie za&nbsp;wystawę <em>W muzeum wszystko wolno</em><a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a> w&nbsp;całości przygotowaną przez dzieci. W&nbsp;2017 roku podczas Biennale Sztuki Nowych Mediów <em>Draft Systems</em> w&nbsp;Centrum Sztuki WRO podczas oficjalnego otwarcia witano także rodzinny zespół kuratorski <em>Małego WRO</em><a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a>, złożony z&nbsp;członków zaprzyjaźnionej z&nbsp;instytucją rodziny Kraszewskich – pięciorga dzieci i&nbsp;ich rodziców. W&nbsp;grudniu tego roku w&nbsp;Warszawie odbyła się konferencja poświęcona muzeom dla dzieci. Wraz z&nbsp;początkiem 2018 roku WRO otworzyło wystawę <em>Sygnały. Interaktywny plac zabaw </em>adresowaną do dzieci i&nbsp;ich rodzin oraz opiekunów, a&nbsp;niedługo później warszawska Zachęta zaprosiła dzieci na&nbsp;wystawę <em>Wszystko widzę jako sztukę</em><a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a>.</p> <p>Nie jest to oczywiście kompletna lista najnowszych działań adresowanych do dzieci oraz realizowanych i&nbsp;współtworzonych przez dzieci w&nbsp;polskich muzeach. Bez wątpienia dzieci zawsze były publicznością muzeów, jednak w&nbsp;ostatnim czasie propozycje ze strony instytucji wykraczają zdecydowanie poza sztywne ramy lekcji muzealnych i&nbsp;programu dla wycieczek szkolnych. Dzieje się tak za&nbsp;sprawą co najmniej trzech procesów: przemian samych instytucji, zmian w&nbsp;postrzeganiu dzieciństwa i&nbsp;dzieci jako członków społeczeństwa oraz dostrzeżenia potencjału dzieci jako klientów przemysłu czasu wolnego.</p> <h2>Kogo i&nbsp;czego brakowało w&nbsp;muzeum?</h2> <p>Samokrytyczny zwrot, który stał się udziałem wielu instytucji muzealnych i&nbsp;humanistów zainteresowanych problematyką muzeum, skierował muzealników ku obszarom dotąd pomijanym w&nbsp;ich codziennej praktyce zawodowej. Nurty takie jak muzeologia krytyczna, nowe muzeologie czy krytyka instytucjonalna nie tylko punktowały nierzadko mroczną proweniencję kolekcji muzealnych, ale także problematyczny rodowód samych instytucji, ściśle związanych z&nbsp;procesami budowania państw narodowych czy potrzebą reprezentowania imperialnej potęgi mocarstw kolonialnych. Autorzy posługujący się koncepcją muzeum partycypacyjnego<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a> czy pozostający w&nbsp;obrębie socjomuzeologii<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a> domagali się instytucji bardziej otwartych, inkluzywnych i&nbsp;transparentnych. Wydłużały się listy grup i&nbsp;osób identyfikowanych jako niereprezentowane w&nbsp;muzeach lub na&nbsp;różne sposoby z&nbsp;nich wykluczone lub pozbawione do nich dostępu. Wraz z&nbsp;próbą dekolonizacji instytucji muzealnych pojawił się problem własności ujawniający skomplikowaną sieć relacji łączących muzea z&nbsp;tak zwanymi społecznościami źródłowymi (<em>source communities</em>)<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a> oraz ich możliwymi potomkami i&nbsp;(nie zawsze łatwymi do wskazania) spadkobiercami. Rzucił on prawdziwe wyzwanie zwolennikom deakcesji, czyli zwrotu lub sprzedaży nowym podmiotom, obiektów i&nbsp;kolekcji muzealnych. Próby przemyślenia na&nbsp;nowo etyki muzealnej musiały uwzględnić także obecność – zarówno na&nbsp;wystawach, jak i&nbsp;w muzealnych magazynach – zbiorów o&nbsp;statusie „trudnego dziedzictwa”<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a>, jak na&nbsp;przykład szczątki ludzkie lub obiekty będące świadectwem lub wynikiem przemocy, często powiązanej wprost z&nbsp;samymi źródłami danej instytucji lub kolekcji. Tak zwana nowa etyka muzealna<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> – definiowana przez Janet Marstine – domaga się od instytucji „radykalnej transparentności” i&nbsp;„odpowiedzialności społecznej”, dodając do niej co prawda tradycyjnie brzmiącą „ochronę”, ale jednocześnie kwestionując powiązane z&nbsp;nią ewentualne roszczenia do własności zbiorów, czy to o&nbsp;charakterze materialnym, czy intelektualnym<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a>. Postulat poważnego potraktowania społecznej odpowiedzialności czy – jak chcą niektórzy – przydatności muzeum przesuwa te instytucje coraz bliżej aktywizmu społecznego, co nie jest niczym nowym na&nbsp;gruncie pozaeuropejskiej praktyki muzealnej (zwłaszcza w&nbsp;Ameryce Łacińskiej i&nbsp;Afryce, czego doskonałym przykładem jest <a href="http://www.museudamare.org.br/" target="_blank" rel="noopener">brazylijskie Museu du Mare</a> mieszczące się w&nbsp;jednej z&nbsp;faweli w&nbsp;Rio de Janeiro czy <a href="http://www.districtsix.co.za/" target="_blank" rel="noopener">District Six Museum w&nbsp;Kapsztadzie</a>, jednak nie zawsze okazuje się łatwe w&nbsp;muzeach europejskich<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a>. Rodowód muzeów europejskich jako instytucji elitarnych i&nbsp;służących raczej propagowaniu pewnego punktu widzenia niż negocjowaniu wielu możliwych perspektyw ukształtował je jako instytucje niechętnie dzielące się władzą. Uprzywilejowując myślenie w&nbsp;kategoriach długiego trwania, nie bez podejrzliwości odnoszą się one do działań ulotnych odpowiadających na&nbsp;aktualne potrzeby społeczne lub nie dających się łatwo przełożyć na&nbsp;konkretny produkt (wystawę, publikację, itp.).</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7313-1-pb-1920x-a3a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7313-1-pb-330x-6a6.jpg 330w,assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7313-1-pb-660x-658.jpg 660w,assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7313-1-pb-768x-26a.jpg 768w,assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7313-1-pb-1320x-7bd.jpg 1320w" src="assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7313-1-pb-660x-658.jpg" alt="" ></a>    <figcaption><p><em>W Muzeum wszystko wolno</em>. Konferencja prasowa. Fot. Bartosz Bajerski. Dzięki uprzejmości Muzeum Narodowego w&nbsp;Warszawie</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Przemyślenie relacji muzeów wobec społeczności, którym mają one służyć<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a>, stało się punktem wyjścia do postulatów większej inkluzywności – poczynając od dostępności dla osób niepełnosprawnych, przez osoby wykluczone społecznie i&nbsp;ekonomicznie, aż&nbsp;po osoby rozpoznające się jako niewystarczająco kompetentne, by korzystać z&nbsp;oferty instytucji. Krytyki nie uniknął także tradycyjny sposób myślenia o&nbsp;edukacji muzealnej, w&nbsp;którym zwiedzający przychodzi do muzeum jako „puste naczynie”<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a>, zadaniem zaś instytucji jest „napełnić je wiedzą”. Laurajane Smith analizując cały kompleks zjawisk i&nbsp;procesów określany przez nią jako autorytatywny dyskurs dziedzictwa (<em>authoritative heritage discourse</em>) – zinstytucjonalizowany między innymi właśnie w&nbsp;muzeach – podkreśla, że&nbsp;wyraźnie oddzielał on tych, którzy są upoważnieni do mówienia w&nbsp;imieniu przeszłości, dziedzictwa czy sztuki, od tych, których rolą jest bierne uczestnictwo, a&nbsp;jednocześnie wytyczał granice pola dozwolonej dyskusji, krytyki i&nbsp;aktywnego zaangażowania<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a>. Taki charakter relacji edukacyjnej pomiędzy instytucją a&nbsp;jej odbiorcami – bez względu na&nbsp;ich wiek – przekładał się na&nbsp;myślenie o&nbsp;miejscu samej edukacji i&nbsp;edukatorów w&nbsp;muzealnej hierarchii. Uczenie się w&nbsp;muzeum długo postrzegane było jako akumulacja wiedzy przekazywanej biernemu odbiorcy przez instytucję o&nbsp;naukowym autorytecie. Nowe modele zakwestionowały tę perspektywę, postulując aktywność i&nbsp;zaangażowanie uczących się oraz wykorzystanie ich naturalnych zdolności do rozwiązywania problemów. Zwracając uwagę na&nbsp;to, że&nbsp;człowiek nieustannie reorganizuje swoją wiedzę w&nbsp;interakcjach społecznych oraz przyswaja nowe informacje i&nbsp;doświadczenia (o ile pomagają lepiej sprostać nowym wyzwaniom), konstruktywistyczny model uczenia się neguje statyczność procesu, podkreśla zaś jego nielinearność i&nbsp;wielowymiarowość w&nbsp;efekcie dopuszczenia wielości perspektyw<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a>. Instytucje, aby przeformułować sposób rozumienia i&nbsp;wcielania w&nbsp;życie misji edukacyjnej, zmuszone zostały do rewizji nie tylko samych programów edukacyjnych, ale także leżących u&nbsp;ich podstaw założeń.</p> <p>Zmieniły się nie tylko instytucje czy teorie uczenia się, ale także sposób postrzegania dzieciństwa, co wpłynęło zarówno na&nbsp;praktyki społeczne, jak i&nbsp;polityki publiczne. Cristina Carvalho, zainteresowana stykiem muzeologii i&nbsp;edukacji, podkreśla, że&nbsp;instytucje powinny widzieć dzieciństwo jako „etap życia, w&nbsp;którym dzieci jako podmioty nieustająco konfrontowane są z&nbsp;koniecznością rozumienia różnych rzeczywistości, przyswajają wartości oraz strategie, które umożliwiają im kształtowanie tożsamości indywidualnej i&nbsp;społecznej”<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a>. Instytucje mogą wspierać ten proces zarówno za&nbsp;pośrednictwem konkretnych strategii ekspozycyjnych, jak i&nbsp;programów edukacyjnych. Zakłada to jednak nie tylko podmiotowe traktowanie dzieci, ale też uznanie, że&nbsp;mają one, jak obywatele, prawo do bycia dostrzeżonym przez instytucje. „Małym dzieciom – piszą Carvalho i&nbsp;Lopes – należy się odpowiednia uwaga oraz uznanie, że&nbsp;mogą odwiedzać te miejsca, że&nbsp;mają takie prawo – jako podmioty i&nbsp;obywatele – a&nbsp;ich charakter [jako publiczności – A.J.], musi zostać uszanowana”<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a>. Muzea – przestrzenie, w&nbsp;których komunikuje się wiele treści w&nbsp;sposób dynamiczny i&nbsp;pozwalający na&nbsp;interakcję – są potencjalnie atrakcyjnymi środowiskami edukacji i&nbsp;rozwoju dzieci. Zwłaszcza że&nbsp;ciekawość świata i&nbsp;otoczenia właściwa dzieciństwu często wiąże się z&nbsp;tworzeniem przez dzieci własnych kolekcji<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a>, co dowodzi ich zainteresowania odkrywaniem i&nbsp;nadawaniem porządku obiektom. W&nbsp;instytucjach, zdaniem Carvalho i&nbsp;Lopes, dzieci mogłyby uczyć się siebie jako podmiotu, a&nbsp;także rozumienia innych i&nbsp;relacji kształtujących świat społeczny pod&nbsp;warunkiem, że&nbsp;przestrzenie te będą oferowały doświadczenia uwzględniające ich potrzeby. „Aby rozumieć świat i&nbsp;uczestniczyć w&nbsp;społeczeństwie, dzieci wykorzystują swoją wyobraźnię, kreatywność i&nbsp;zdolności obserwacji, (...) angażują się w&nbsp;zabawę, gry i&nbsp;odgrywanie ról”<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a> – dzięki odwołaniu się do języka sztuki czy udostępnieniu obiektów kultury instytucje mogą sprzyjać tym aktywnościom, a&nbsp;jednocześnie podkreślać rolę eksperymentu i&nbsp;zachęcać do osobistej ekspresji. Mogą również kształtować i&nbsp;wspierać krytyczne zaangażowanie, pomagać „nadawać nowy sens historii ludzkiej i&nbsp;naturalnej oraz czynić widzialnym to, co pozostawało niewidzialne”<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a>. Wówczas, pozwalając dzieciom być twórcami, muzea pełniłyby nie tylko rolę miejsc zabawy i&nbsp;rozrywki, ale także środowisk tworzenia i&nbsp;produkcji, co sprzyja reinterpretacji prezentowanych treści za&nbsp;pomocą różnych narzędzi poszerzających sposób widzenia świata.</p> <h2>Dla i&nbsp;przez dzieci</h2> <p>Realizowanie tak zakrojonych, ambitnych przedsięwzięć muzealnych czy też po&nbsp;prostu reformowanie w&nbsp;podobnym duchu całych instytucji niewątpliwie wymaga nie tylko zgody na&nbsp;te założeniam oraz uznania roli edukacji i&nbsp;rozwoju publiczności w&nbsp;muzealnej hierarchii, ale także zasobów, otwartości i&nbsp;odejścia od rozpowszechnionych, mniej nastawionych na&nbsp;krytyczne zaangażowanie modeli doświadczenia muzealnego. Wśród zdarzeń muzealnych wymienionych na&nbsp;początku tego artykułu znalazły się dwa, które wprost zaangażowały dzieci w&nbsp;roli twórców i&nbsp;producentów.</p> <p>Wystawa w&nbsp;Muzeum Narodowym powstała przy udziale 69 dzieci w&nbsp;wieku 6–14 lat, które podzielono na&nbsp;sześć zespołów kuratorskich. Praca nad wystawą trwała sześć miesięcy i&nbsp;obejmowała cotygodniowe, czterogodzinne spotkania w&nbsp;Muzeum, podczas których dzieci poznawały instytucję i&nbsp;tworzyły swoje ekspozycje<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a>. Proces ten angażował wielu pracowników muzeum – od edukatorów, przez kuratorów i&nbsp;konserwatorów, aż&nbsp;po pracowników działów marketingu, komunikacji, wydawnictw i&nbsp;wielu innych.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7313-1-pb-1920x-a3a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7313-1-pb-330x-6a6.jpg 330w,assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7313-1-pb-660x-658.jpg 660w,assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7313-1-pb-768x-26a.jpg 768w,assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7313-1-pb-1320x-7bd.jpg 1320w" src="assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7313-1-pb-660x-658.jpg" alt="" ></a>    <figcaption><p>Zespół kuratorski <em>Małego WRO</em>, Centrum Sztuki WRO. Za&nbsp;stroną: <a href="http://wro2017.wrocenter.pl/malewro/" target="_blank" rel="noopener">http://wro2017.wrocenter.pl/malewro/</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Przewodnik po&nbsp;wystawie Biennale Sztuki Nowych Mediów <em>Draft Systems </em>zatytułowany <em>Małe WRO</em><a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a> to przedsięwzięcie o&nbsp;innej skali, angażujące rodzinę Kraszewskich<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a> – jako jedną z&nbsp;wielu odwiedzających instytucję – we współpracę z&nbsp;inicjatorką i&nbsp;pomysłodawczynią działania, Magdą Kreis, odpowiedzialną za&nbsp;rozwój publiczności w&nbsp;Centrum Sztuki WRO. Jednocześnie, jako siedmioosobowa rodzina, Kraszewscy wnieśli do tej współpracy wiele punktów widzenia, a&nbsp;możliwość pracy z&nbsp;pięciorgiem dzieci w&nbsp;różnym wieku zaowocowała tym, że&nbsp;z&nbsp;<em>Małego WRO </em>może skorzystać każda rodzina. Wprost wyrażonym celem przedsięwzięcia była „chęć wypracowania nowej jakości pracy z&nbsp;publicznością, stworzenia nowatorskiej formuły wyboru i&nbsp;opisu prac pod&nbsp;kątem młodego odbiorcy”, a&nbsp;współpraca z&nbsp;Kraszewskimi zakładała wspólny wybór i&nbsp;opis prac na&nbsp;potrzeby przewodnika. W&nbsp;efekcie powstała publikacja, której celem jest zachęcenie dzieci i&nbsp;ich najbliższych „do dyskusji o&nbsp;pracach, poszukiwania własnych interpretacji, a&nbsp;także pobudzanie do własnych działań twórczych”<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a>.</p> <p>W obu przykładach, choć różnią się one skalą, widać wyraźnie, że&nbsp;sytuacje i&nbsp;doświadczenia muzealne nie tylko przeznaczone <span class="rozstrzelony"> dla dziec</span>i, ale także tworzone lub współtworzone <span class="rozstrzelony"> przez dziec</span>i, wymagają dużego zaangażowania instytucji. Zaangażowania, które nie jest możliwe bez uznania działań tego rodzaju za&nbsp;integralny i&nbsp;równoprawny element programu instytucji, nie zaś pracę podporządkowaną innym zadaniom, tradycyjnie uznawanym za&nbsp;bardziej istotne<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a>. Ma to bezpośrednie przełożenie na&nbsp;dostępność tego rodzaju przedsięwzięć, gdyż tworzenie wysokiej jakości projektów angażujących dzieci jako producentów i&nbsp;twórców wymaga przedefiniowania priorytetów w&nbsp;zarządzaniu zasobami instytucji oraz proponowanymi przez nią warunkami pracy i&nbsp;zatrudnienia<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a>. W&nbsp;innym przypadku takie zdarzenia będą dostępne dla niewielkiej i&nbsp;uprzywilejowanej (ze względu na&nbsp;miejsce zamieszkania, warunki ekonomiczne, poziom kompetencji rodziców czy krąg społeczny, do którego przynależą) grupy dzieci.</p> <h2>Muzea dla dzieci?</h2> <p>Istnieją oczywiście, zwłaszcza w&nbsp;Stanach Zjednoczonych, muzea w&nbsp;całości pomyślane jako instytucje <span class="rozstrzelony"> dla dziec</span>i. Warszawska konferencja „Po co nam muzea dla dzieci?” zgromadziła przedstawicieli niektórych z&nbsp;nich, stwarzając okazję do wymiany wiedzy i&nbsp;praktyk. Postrzeganie muzeów jako atrakcyjnych i&nbsp;efektywnych środowisk edukacyjnych, często będących jednocześnie uzupełnieniem dla – niekiedy nisko ocenianej przez rodziców – edukacji formalnej, to ważny, obok przemysłu czasu wolnego, czynnik ich popularności<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a>. Liczne amerykańskie instytucje – takie jak centra nauki oraz parki tematyczne czy parki rozrywki – określają się jako muzea, niezależnie od tego, czy istotnie mieszczą się w&nbsp;muzealnej definicji<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a>. W&nbsp;większości są one elementem przemysłu czasu wolnego i&nbsp;czerpią intensywnie z&nbsp;modelu właściwego przedsięwzięciom o&nbsp;podobnym profilu. Kładą przy tym akcent na&nbsp;wytworzenie immersyjnego, angażującego emocjonalnie doświadczenia za&nbsp;pomocą strategii ekspozycyjnych opartych na&nbsp;symulacji i&nbsp;spektaklu.</p> <p>Doświadczenia parków rozrywki, parków tematycznych oraz tak zwanych miejsc dziedzictwa (<em>heritage sites</em>) stały się punktem odniesienia dla wielu instytucji muzealnych w&nbsp;Stanach Zjednoczonych już w&nbsp;latach 90. Te działające na&nbsp;zasadach komercyjnych muzea właśnie z&nbsp;doświadczenia uczyniły podstawowy produkt instytucjonalnej oferty<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a>. Strategie ekspozycyjne kształtujące dramaturgię przestrzeni muzealnych, tak by stymulować emocjonalne zaangażowanie zwiedzających, rozpowszechniły się nie tylko w&nbsp;USA, ale także w&nbsp;Europie, zwłaszcza w&nbsp;muzeach o&nbsp;profilu historycznym. Mają one korzenie w&nbsp;pierwszych parkach rozrywki z&nbsp;jednej strony, z&nbsp;drugiej – w&nbsp;modelu <em>expo</em>, czerpiącym z&nbsp;tradycji wystaw światowych i&nbsp;targów międzynarodowych<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a>. Ekonomia doświadczenia – według autorów książki pod&nbsp;tym tytułem – definiuje rolę współczesnych przedsiębiorców właśnie jako projektantów doświadczeń, które następnie inscenizowane są na&nbsp;potrzeby klientów<a href="#sdfootnote30sym" name="sdfootnote30anc"><sup>30</sup></a>. Oczywiście doświadczenie, co przyznają autorzy, istniało zawsze, ale dopiero na&nbsp;pewnym etapie rozwoju kapitalizmu zostało zidentyfikowane jako szczególny rodzaj towaru. Od usługi różni je właśnie aspekt performatywny.</p> <blockquote>Kiedy ktoś kupuje usługę, płaci za&nbsp;wykonanie zestawu konkretnych czynności przez kogoś w&nbsp;jego imieniu. Ale kiedy nabywa doświadczenie, uzyskuje za&nbsp;opłatą serię przyjemnych, zapadających w&nbsp;pamięć wydarzeń, które sprzedawca inscenizuje dla niego – jak w&nbsp;spektaklu teatralnym – aby osobiście go zaangażować<a href="#sdfootnote31sym" name="sdfootnote31anc"><sup>31</sup></a>.</blockquote> <p>Muzea dla dzieci w&nbsp;większości nie mają kolekcji, które określają ich charakterystykę lub zakres merytoryczny, ale są przestrzeniami tematycznymi z&nbsp;zaaranżowanymi stanowiskami do zabawy lub interaktywnymi wpisanymi w&nbsp;całościową, stałą lub zmienną, scenografię. Niektóre mają stały zakres tematów, inne regularnie opracowują nowe zagadnienia. Nierzadko podejmują one wątki społecznie ważne, jak na&nbsp;przykład różnorodność i&nbsp;religia, które były tematem wystawy w&nbsp;prezentowanym na&nbsp;konferencji „Po co nam muzea dla dzieci?" Children’s Museum of Indianapolis w&nbsp;Stanach Zjednoczonych. Stosująca strategię wystawienniczą czerpiącą z&nbsp;modelu <em>expo</em>, w&nbsp;którym kolejne stanowiska ekspozycyjne oferują reprezentacje kultur, religii i&nbsp;przekonań światopoglądowych, wystawa prezentowała jednak dosyć uproszczoną, posiłkującą się kulturowymi stereotypami wizję świata. Podobnie jak parki tematyczne i&nbsp;miejsca dziedzictwa, takie komercyjne przedsięwzięcia spotkały się z&nbsp;krytyką, która akcentuje przede wszystkim ryzyko upowszechniania za&nbsp;ich pośrednictwem szczególnego rodzaju tematycznego, historycznego i&nbsp;kulturowego <em>bricolage’u</em>. Ponieważ reprezentują one w&nbsp;specjalnie zaaranżowanym do tego celu miejscu wiele lokalizacji i&nbsp;czasów, niosą ze sobą raczej zagrożenie „wytwarzania historycznej amnezji”<a href="#sdfootnote32sym" name="sdfootnote32anc"><sup>32</sup></a> niż możliwość kształtowania świadomości historycznej i&nbsp;kulturowej. Uwagi domaga się także ich ewentualna podatność na&nbsp;reprodukowanie urynkowionych przekazów na&nbsp;temat przeszłości i&nbsp;współczesności oraz dobór i&nbsp;opracowanie tematów w&nbsp;sposób gwarantujący przede wszystkim „pozytywne doświadczenie klienta”.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7317-1-pb-1920x-228.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7317-1-pb-330x-c06.jpg 330w,assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7317-1-pb-660x-49d.jpg 660w,assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7317-1-pb-768x-053.jpg 768w,assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7317-1-pb-1320x-8ab.jpg 1320w" src="assets/cache/images/issues/2017/19/muzea-przydatne-spolecznie/542-7317-1-pb-660x-49d.jpg" alt="" ></a>    <figcaption><p><em>Wszystko widzę jako sztukę. Wystawa dla dzieci</em>, Zachęta. Fot. Marek Krzyżanek</p></figcaption>   </figure>  </section><section class="u-typo">   <p>ie wolno jednak zapomnieć, że&nbsp;nie wszystkie tego rodzaju instytucje zostały podobnie pomyślane. Odmiennym przykładem jest zaprezentowana podczas konferencji „Po co nam muzea dla dzieci?” <a href="http://www.villazebra.nl/infosite/?page_id=61/" target="_blank" rel="noopener">holenderska Villa Zebra w&nbsp;Rotterdamie</a>. Ma ona dziecięcą radę programową, która może realnie wpływać na&nbsp;kształtowanie programu instytucji, co świadczy o&nbsp;tym, że&nbsp;angażuje ona dzieci nie tylko jako klientów, ale także jako podmioty, współtwórców i&nbsp;aktorów. Wyjątkowość tej instytucji potwierdza jednak, jak ambitny jest model proponowany przez Carvalho i&nbsp;Lopes.</p> <h2>Muzeum przydatne społecznie</h2> <p>Opisane wcześniej przemiany instytucji muzeum oraz dążenie do coraz większej „społecznej przydatności muzeum”<a href="#sdfootnote33sym" name="sdfootnote33anc"><sup>33</sup></a> domagają się długofalowej, opartej na&nbsp;zaufaniu współpracy z&nbsp;odbiorcami traktowanymi jako przedstawiciele społeczności, której instytucja ma służyć. Dzieci są pełnoprawnymi członkami tej społeczności. Postulat ich aktywnego uczestnictwa w&nbsp;tworzeniu i&nbsp;prowadzeniu instytucji działających na&nbsp;ich rzecz obejmuje także instytucje o&nbsp;różnych profilach, nie tylko tradycyjnie klasyfikowane jako te „dla dzieci”.</p> <p>O tym, jak wygląda i&nbsp;jak mogłoby wyglądać zaangażowanie dzieci we współtworzenie instytucji powołanej do opowiadania o&nbsp;„trudnym dziedzictwie”, pisze Monica Eileen Patterson. Przyglądając się instytucji tworzonej w&nbsp;dawnym szpitalu dziecięcym w&nbsp;efekcie projektu <a href="http://www.kznchildrenshospital.org.za/" target="_blank" rel="noopener">KwaZulu-Natal Children’s Hospital Restoration</a><a href="#sdfootnote34sym" name="sdfootnote34anc"><sup>34</sup></a>, Patterson proponuje zaangażowanie dzieci – bo&nbsp;przecież to one niegdyś były głównymi aktorami w&nbsp;tej przestrzeni – w&nbsp;tworzenie muzeum opowiadającego o&nbsp;dziedzictwie kolonializmu we współczesnej Republice Południowej Afryki. Opowieść ta, łącząca historię apartheidu, kolonializmu i&nbsp;ochrony zdrowia, wymagałaby zmiany postrzegania dzieci i&nbsp;dzieciństwa w&nbsp;RPA. Wymagałaby także, jak podkreśla Patterson, uznania dzieci nie tylko za&nbsp;przedmiot opieki, ale za&nbsp;pełnoprawnych członków społeczeństwa, aktywnych uczestników procesów historycznych, w&nbsp;tym walki z&nbsp;biedą i&nbsp;nierównością<a href="#sdfootnote35sym" name="sdfootnote35anc"><sup>35</sup></a>. Jednocześnie zadaniem instytucji byłoby również podejmowanie współczesnych problemów dotyczących dzieci i&nbsp;ich roli w&nbsp;społeczeństwie, kwestii ich zdrowia i&nbsp;prawa do godnej opieki, przy zaangażowaniu ich zarazem w&nbsp;definiowanie tych zagadnień z&nbsp;własnej perspektywy.</p> <p>Propozycja Patterson wpisuje się w&nbsp;– rozpropagowane zwłaszcza w&nbsp;Ameryce Południowej za&nbsp;sprawą tamtejszego wariantu nowej muzeologii – myślenie o&nbsp;instytucjach jako narzędziach zmiany społecznej<a href="#sdfootnote36sym" name="sdfootnote36anc"><sup>36</sup></a>. Spoza świata zachodniego wywodzą się również najciekawsze przykłady skuteczności takich praktyk i&nbsp;realnego wpływu, jaki instytucje dziedzictwa mogą wywierać na&nbsp;życie swoich społeczności. Przykładem jest wspomniane już <a href="http://www.districtsix.co.za/" target="_blank" rel="noopener">południowoafrykańskie District Six Museum w&nbsp;Kapsztadzie</a>, które za&nbsp;sprawą zgromadzonej i&nbsp;kolektywnie wytworzonej dokumentacji o&nbsp;zniszczonej przez rząd „szóstej” dzielnicy zdołało pomóc mieszkańcom uzyskać prawo powrotu na&nbsp;teren, z&nbsp;którego oni lub ich rodziny zostali wysiedleni, na&nbsp;warunkach uwzględniających ich możliwości ekonomiczne.</p> <p>Cytowana już Janet Marstine, związana z&nbsp;ośrodkiem badań muzealnych w&nbsp;Leicester, skąd wywodzi się idea społecznej przydatności muzeum, jest jednocześnie autorką określenia „moralna sprawczość muzeum”<a href="#sdfootnote37sym" name="sdfootnote37anc"><sup>37</sup></a>. Łączy ono społeczną przydatność i&nbsp;radykalną transparentność instytucji oraz współodpowiedzialność w&nbsp;opiece nad zbiorami. Powrót obiektów do społeczności pochodzenia Marstine traktuje jako jedno z&nbsp;praw człowieka<em>. </em>Badacze związani z&nbsp;ośrodkiem w&nbsp;Leicester widzą muzeum jako</p> <blockquote>dynamiczną, żywą instytucję, która tworzy liczne związki z&nbsp;różnorodnymi grupami odbiorców; sprzyja partycypacji i&nbsp;współtworzeniu, wpisując się w&nbsp;codzienne życie ludzi; wspiera postępowe wartości społeczne, będąc jednocześnie miejscem szeroko zakrojonej debaty i&nbsp;dialogu; a&nbsp;także współpracuje z&nbsp;wieloma instytucjami z&nbsp;i spoza sektora kultury w&nbsp;celu budowania żywotnych, inkluzywnych i&nbsp;bardziej sprawiedliwych społeczeństw<a href="#sdfootnote38sym" name="sdfootnote38anc"><sup>38</sup></a>.</blockquote> <p>Tak pomyślane instytucje – nastawione raczej na&nbsp;długofalowe procesy, często niespektakularne w&nbsp;efektach, gotowe angażować się w&nbsp;pracę z&nbsp;różnorodnymi grupami odbiorców, biorące odpowiedzialność za&nbsp;relacje, które się w&nbsp;tych procesach tworzą, skłonne mierzyć się z&nbsp;koniecznością negocjacji wielu perspektyw oraz dzielić się prawem do kontroli nad samym procesem – mogą stać się platformą dla zaangażowania wykraczającego poza sprzedaż przyjemnych doświadczeń, służąc zarówno dzieciom, jak i&nbsp;dorosłym (którymi dzieci kiedyś się staną).</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Wystawa <em>W muzeum wszystko wolno</em>, kuratorzy: 6 dziecięcych zespołów kuratorskich, Muzeum Narodowe w Warszawie, 28 lutego – 8 maja 2016, <a href="http://www.mnw.art.pl/wystawy/w-muzeum-wszystko-wolno-wystawa-przygotowana-przez-dzieci,195.html" target="_blank" rel="noopener">http://www.mnw.art.pl/wystawy/w-muzeum-wszystko-wolno-wystawa-przygotowana-przez-dzieci,195.html</a>, dostęp 22 maja 2018.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> <em>Małe WRO</em>, Centrum Sztuki WRO, <a href="http://wro2017.wrocenter.pl/malewro/" target="_blank" rel="noopener">http://wro2017.wrocenter.pl/malewro/</a>, dostęp 22 maja 2018.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> <em>Wszystko widzę jako sztukę. Wystawa dla dzieci</em>, kuratorka: Ewa Solarz, Zachęta Narodowa Galeria Sztuki, 10 marca – 3 czerwca 2018, <a href="https://zacheta.art.pl/pl/wystawy/wszystko-widze-jako-sztuke" target="_blank" rel="noopener">https://zacheta.art.pl/pl/wystawy/wszystko-widze-jako-sztuke</a>, dostęp 22 maja 2018.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Nina Simon, <em>The Participatory Museum</em>, Museum 2.0, Santa Cruz 2010, <a href="http://www.participatorymuseum.org/" target="_blank" rel="noopener">http://www.participatorymuseum.org/</a>, dostęp 30 maja 2018.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Socjomuzeologia to nurt teoretyczny zakorzeniony w nowej muzeologii południowoamerykańskiej, który bywa również postrzegany jako rezultat osiągnięcia przez nią pewnej dojrzałości. Jak pisze Paula Assunção dos Santos, „zakres socjomuzeologii jako nauki stosowanej kładzie nacisk na kategorie środków i celów: podmiotowości i sprawczości muzeów (np. ich zdolności działania w społeczeństwie) oraz narzędzi, metod i języków, których mogą używać do realizacji swoich celów. Obiekty i kolekcje muzealne można potraktować jako narzędzia pracy. Możliwe sposoby ich wykorzystania są zmienne i zależą od ról, jakie decydują się przyjmować muzea, oraz strategii wdrażanych przez nie w poszukiwaniu własnego miejsca w dynamicznie przeobrażającym się społeczeństwie. Zaangażowanie w pracę dla ludzi i we współpracy z ludźmi otwiera ważny, polityczny aspekt tej praktyki. Pytania: »kto produkuje?«, »kto decyduje?«, »w jakim celu?« oraz »dlaczego?« wytyczają obszar zainteresowania socjomuzeologii jako refleksji nad sposobem działania muzeów w społeczeństwie”. Paula Assunção dos Santos, <em>O dawaniu i braniu. Rozważania na temat kolekcji muzealnych jako narzędzia pracy i ich relacji z człowiekiem, </em>przeł. K. Markiewicz, K. Świątoniowska, A. Janus, w: <em>Laboratorium muzeum. Społeczność, </em>red. A. Banaś, A. Janus, Muzeum Warszawy, Warszawa 2015, s. 57, <a href="http://laboratoriummuzeum.pl/wp-content/uploads/2016/02/Laboratorium-muzeum-spolecznosc.pdf">http://laboratoriummuzeum.pl/wp-content/uploads/2016/02/Laboratorium-muzeum-spolecznosc.pdf</a>, dostęp 30 maja 2018.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Léontine Meijer-van Mensch, Peter van Mensch, <em>Etyka odpowiedzialności, radykalna transparentność i moralna sprawczość muzeum</em>, w: <em>Laboratorium muzeum. Tożsamość</em>, red. A. Banaś, W. Chodacz, A. Janus, Dom Spotkań z Historią, Warszawa 2017, s. 20, <a href="http://laboratoriummuzeum.pl/wp-content/uploads/2018/03/muzeum_publikacja_all-1.pdf" target="_blank" rel="noopener">http://laboratoriummuzeum.pl/wp-content/uploads/2018/03/muzeum_publikacja_all-1.pdf</a>, dostęp 30 maja 2018.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Por. Sharon MacDonald, <em>Difficult Heritage. Negotiating the Nazi Past in Nuremberg and Beyond</em>, Routledge, London 2008.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Janet Marstine, <em>The Contingent Nature of the New Museum Ethics</em>, w: <em>The Routledge Companion to Museum Ethics. Redefining Ethics for the Twenty-First-Century Museum</em>, red. J. Marstine, Routledge, Abingdon 2011, s. 3–25.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Léontine Meijer-van Mensch, Peter van Mensch, <em>Etyka odpowiedzialności…</em>, s. 30.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Ibidem, s. 33.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Stwierdzenie, że muzea są instytucjami działającymi „w służbie społeczeństwa i jego rozwoju” dodano do definicji muzeum International Council for Museums (ICOM) w 1972 roku.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> John H. Falk, Lynn D. Dierking, <em>The Museum Experience Revisited</em>, Left Coast Press Inc, Walnut Creek 2013, s. 7.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Laurajane Smith, <em>The Uses of Heritage</em>, Routledge, London 2006.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Taki pogląd prezentują zwolennicy konstruktywistycznego modelu uczenia się, zob. m.in. Bonnie L. Shapiro, <em>What Children Bring to Light. </em><em>A Constructivist Perspective on Children’s Learning in Science</em>, Teachers College Press, New York 1994.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Cristina Carvalho, Thamiris Lopes, <em>Children in Museums</em>, „Educação&amp;Realidade” 2016, vol. 41, nr 3, s. 911–929.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Ibidem, s. 916.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ibidem.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Ibidem, s. 918.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Ibidem.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> O wystawie pisze w tym numerze „Widoku” Marta Rakoczy, <em>Czy w muzeum wszystko wolno? Problemy z nowoczesnym pajdocentryzmem</em>, <a href="http://pismowidok.org/index.php/one/article/view/496/1073" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/article/view/496/1073</a>.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> <em>Małe WRO </em>to zarówno tytuł adresowanego do rodzin przewodnika po wystawie <em>Draft Systems</em>, jak i programu istniejącego od 2009 roku w Centrum Sztuki WRO.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Rodzina Kraszewskich zaczęła współpracę z Magdą Kreis w styczniu 2017 roku. Aby wspólnie stworzyć przewodnik dla rodzin i dzieci, od stycznia do kwietnia wspólnie pracowali nad wyborem dzieł do przewodnika, a następnie ich opracowaniem i przygotowaniem treści publikacji, w czasie Biennale prowadzili zaś oprowadzania; Agnieszka, mama dzieci, przygotowała również, wspólnie z Magdaleną Kreis, dodatkowy materiał edukacyjny <em>Cyjanospacer</em>, a najstarsze dzieci – Basia i Krzyś – obecnie zaangażowane są w wolontariat we WRO, pomagając przy wystawie <em>Sygnały</em>. Program <em>Małe WRO</em> istnieje od 2009 roku, więcej na jego temat zob.: Magdalena Kreis, <em>Little WRO</em>, w: <em>16th Media Art Biennale WRO 2015 Test Exposure</em>, red. V. Kutlubasis-Krajewska, P. Krajewski, B. Kręgiel, Centrum Sztuki WRO, Wrocław 2016, s. 19–21.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Zob. podstronę poświęconą przewodnikowi: <a href="http://wro2017.wrocenter.pl/przewodnik-malego-wro/" target="_blank" rel="noopener">http://wro2017.wrocenter.pl/przewodnik-malego-wro/</a>, dostęp 30 maja 2018.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Ten pogląd wydaje się coraz mniej rozpowszechniony, znamienna była jednak dyskusja podczas I Kongresu Muzealników Polskich, w której padło pytanie o to, komu przysługuje miano muzealnika – czy mogą i powinni być tak nazywani edukatorzy.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Edukatorzy w muzeach często zatrudniani są na umowy cywilnoprawne lub proponuje im się niskie wynagrodzenie oraz nie zawsze korzystne warunki pracy. Problem ten dotyczy zresztą także innych stanowisk w instytucjach, czego przykładem jest ogłoszenie zamieszczone w marcu 2018 roku przez Victoria &amp; Albert Museum w Londynie, proponujące pracę bezpłatną, co komentowano w mediach i na blogach branżowych, zob. np. blog F Yeah History: <a href="https://fyeahhistory.com/2018/03/26/how-demanding-unpaid-work-is-killing-off-museums/" target="_blank" rel="noopener">https://fyeahhistory.com/2018/03/26/how-demanding-unpaid-work-is-killing-off-museums/</a>, dostęp 30 maja 2018.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> W USA badania na ten temat prowadził m.in. John H. Falk, w Polsce o atrakcyjności muzeów historycznych jako uzupełnienia, a czasem także alternatywy, dla edukacji formalnej przekonałam się, prowadząc własne badania, zob. Aleksandra Janus, <em>Muzeum i reprezentacje historii. Badania zwiedzających w polskich muzeach historycznych</em>, Vivid Studio, Kraków 2014, s. 87–90.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Chociaż sposób działania i organizacji instytucji muzealnych w Stanach Zjednoczonych znacząco różni się od tego, do którego jesteśmy przyzwyczajeni w Europie, międzynarodowe organizacje zrzeszające muzea na świecie, na przykład Międzynarodowa Rada Muzeów, przyjmują, że muzea to instytucje nieobliczone na zysk, które mają za zadanie gromadzić i upowszechniać materialne świadectwa działalności człowieka, zob. definicja muzeum przyjęta przez ICOM, w: <em>Kodeks Etyki ICOM dla Muzeów</em>, przeł. S. Waltoś, <a href="http://icom.museum/fileadmin/user_upload/pdf/Codes/poland.pdf" target="_blank" rel="noopener">http://icom.museum/fileadmin/user_upload/pdf/Codes/poland.pdf</a>, <br>dostęp 30 maja 2018.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Świadectwem tego podejścia jest m.in. artykuł Neila Kotlera, <em>Delivering Experience. Marketing the Museum’s Full Range of Assets</em>, „Museum News” 1999, nr 5–6.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Zwraca na to uwagę m.in. Barbara Kirshenblatt-Gimblett: „Targi międzynarodowe stanowią wzorzec, do którego muzea coraz częściej mają się stosować. Powinny być »sfokusowane na kliencie« i »komercyjnie pozytywne«. Najważniejsze, żeby wystawy były realizowane zgodnie z ustalonym harmonogramem i zawierały przykuwające wzrok instalacje. Dzieje się tak zwłaszcza w Wielkiej Brytanii, Stanach Zjednoczonych, Kanadzie, Australii i Nowej Zelandii, aczkolwiek muzea kontynentalnej Europy, które tradycyjnie korzystały ze znacznego wsparcia budżetowego, także stopniowo zmierzają w tym kierunku”. Barbara Kirshenblatt-Gimblett, <em>Muzeum jako katalizator</em>, w: <em>Laboratorium muzeum. Tożsamość…</em>, s. 39.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> B. Joseph Pine II, James H. Gilmore, <em>Experience Economy. Work is Theatre &amp; Every Business a Stage</em>, Harvard Business School Press, Boston 1999, s. 2.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Przytaczam fragment w tłumaczeniu Doroty Kawęckiej powstałym na potrzeby opracowania, które wspólnie przygotowałyśmy w 2011 roku na zamówienie Instytutu Teatralnego im. Zbigniewa Raszewskiego w Warszawie.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Kevin Walsh, <em>The Representations of the Past. Museums and heritage in the post-modern world</em>, Routledge, London–New York 2002, s. 104.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Léontine Meijer-van Mensch, Peter van Mensch, <em>Etyka odpowiedzialności</em>…, s. 33.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Monica E. Patterson, <em>By and For Children. History and Healing in a Hospital Museum, KwaZulu-Natal</em>, w: <em>Curatorial Dreams. Critics Imagine Exhibitions</em>, red. E. Lehrer, S.R. Butler, McGill-Queen’s University Press, <br>Montreal–Kingston–London–Chicago 2016, s. 83–102.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Ibidem, s. 87–88.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> Zob. Paula Assunção dos Santos, <em>O dawaniu</em>…, s. 56–69.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> Janet Marstine, <em>The Contingent Nature of the New Museum Ethics</em>…, s. 5.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> Zob. Léontine Meijer-van Mensch, Peter van Mensch, <em>Etyka odpowiedzialności</em>..., s. 34.</p></div>
+
+				
+
+				
+	<div class="m-bibliography" style="margin-bottom: 2em;">
+		<a class="c-issue-toc__article-collapse-btn" role="button" data-toggle="collapse" href="#collapseSummary558" aria-expanded="false" aria-controls="collapseSummary558" data-lexicon-show="" data-lexicon-hide="">
+			Bibliografia
+		</a>
+		<div class="c-issue-toc__article-collapse collapse" id="collapseSummary558">
+			<div class="c-issue-toc__article-collapse-inner">
+				<div class="m-bibliography__content u-typo">
+	<ul>
+<li>ytrytry</li>
+<li>bvcbcvb</li>
+</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2017/obrazy-dla-dzieci/muzea-przydatne-spolecznie-dla-dzieci-i-doroslych" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

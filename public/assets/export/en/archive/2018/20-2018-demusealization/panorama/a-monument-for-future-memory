@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>A Monument for Future Memory | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/20-2018-demusealization/a-monument-for-future-memory">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="A Monument for Future Memory | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="A Monument for Future Memory | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/20-2018-demusealization/a-monument-for-future-memory">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="A Monument for Future Memory | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ce0058 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ce0058 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ce0058 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ce0058 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ce0058 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ce0058 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+			/* background-color:#ce0058 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(206,0,88,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ce0058 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ce0058; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ce0058 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ce0058 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ce0058 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-461 parent-id-352">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="335" data-selected-issue-color="#ce0058" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/20-2018-demusealization#toc">20</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-20/20-alphen.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>A Monument for Future Memory: The Ringelblum Archive as a Classical Archive</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-20/20-alphen.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=460">Ernst van Alphen</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p>“During this&nbsp;war every Jew is a&nbsp;separate, individual world.”</p> <p><b>Emanuel Ringelblum</b></p> </blockquote> <p>The story about&nbsp;the underground archive of the Warsaw ghetto is, strangely enough, not very well known to a&nbsp;wider audience. Whereas people all over&nbsp;the world know about&nbsp;the diaries of Anne Frank, and of the house in Amsterdam where she and her family hid and were caught by the Nazis, not many people know about&nbsp;the archive that&nbsp;was put together in the Warsaw Ghetto and that&nbsp;stored the narratives, everyday objects and facts of the lives of the Polish Jews in the ghetto. What makes this&nbsp;archive extraordinary is that&nbsp;its main purpose was not scientific or historical, but&nbsp;rather that&nbsp;the very act of archiving was in itself an act of resistance.</p> <p>The archive bears the name of its initiator, the historian Emanuel Ringelblum, who was the head of a&nbsp;group which used the code name <em>Oneg Szabat</em> or <em>Oyneg Shabes</em> (Hebrew for&nbsp;“Joy of the Sabbath”). They began to work on the archive in November 1940. Ringelblum’s collaborators included journalists, economists, teachers, writers and rabbis, and numbered between&nbsp;50 and 60 people. The archived material was stored in milk cans and metal boxes and hidden in different parts of the ghetto. One part was retrieved from&nbsp;the ruins of the Warsaw ghetto in 1946, and a&nbsp;second part in 1950. The third part has not been found yet despite&nbsp;numerous efforts. The archive is now housed in the building where Ringelblum and his associates worked after&nbsp;Nazi Germany occupied Poland and established the ghetto for&nbsp;Polish Jews in Warsaw. This&nbsp;building was then home to the Central Judaic Library and now is the premises of the Jewish Historical Institute. The building is one of very few buildings to have survived the fire started by the Nazis which almost completely destroyed this&nbsp;section of the city. Of Ringelblum’s <em>Oneg Shabbat</em> team of associates, only three people survived: economist Hersz Wasser, his wife Bluma, who was involved in teaching Hebrew, and writer Rachela Auerbach.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/van-alphen/1-d-1920x-08d.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw -&nbsp;78px), calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/van-alphen/1-d-333x-2cb.jpg 333w,assets/cache/images/issues/2018/20/van-alphen/1-d-666x-8cb.jpg 666w,assets/cache/images/issues/2018/20/van-alphen/1-d-1332x-10d.jpg 1332w" src="assets/cache/images/issues/2018/20/van-alphen/1-d-666x-8cb.jpg" alt="" ></a>    <figcaption><p><em>What we could not shout out to the world</em>, exhibition view. Photo Jakub Certowicz, courtesy of Jewish Historical Institute, Warsaw</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Imprisoned in the Warsaw ghetto, Ringelblum and his associates knew very well what their fate was going to be besides&nbsp;hunger, cold, lack of any resources and overcrowding. The systematic mass murder of Jews performed by the Nazis in Poland was going to also include those who were at the time isolated in the ghetto. The stories of the genocide of Jewish people also entered the Jewish ghettos in Poland, and most people became aware that&nbsp;the ghetto was the purgatory or limbo of the extermination camps. How is it possible that&nbsp;under these circumstances Ringelblum decided in November 1940 to conceive of, and organize, the archival project of collecting facts and stories of Polish Jews? When I&nbsp;imagine the situation in the ghetto, it seems more plausible that&nbsp;people despaired, became utterly depressed, and even committed suicide. And quite a&nbsp;number of people in the ghetto did just that. Although Ringelblum’s situation was literally hopeless in all respects, he began his archival project as an act of resistance. What most probably inspired him were the lessons of his teacher Isaac Schipper, a&nbsp;famous Jewish historian. Schipper had argued that&nbsp;“what one knows about&nbsp;murdered peoples is usually what their killers choose to say about&nbsp;them.”<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a> So, if the Nazis were to win the war, then they would write about&nbsp;the murder of European Jewry as one of the most glorious chapters of world history. Ringelblum’s response to this&nbsp;seems to have been to obstruct “these German plans to distort or obliterate the memory of Polish Jewry,” by taking control over&nbsp;the material on the basis of which the history of Polish Jews could be written,<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> by collecting and preserving whatever he and his associates could find.</p> <p>Schipper’s general remark about&nbsp;murdered peoples and their killers and how killers want to have control over&nbsp;how the people they murder are to be remembered, is particularly true for&nbsp;the Nazis. After&nbsp;liquidating the European Jews, Adolf Hitler intended to build a&nbsp;museum to the Jewish people, the so-called Central Museum of the Extinguished Jewish Race. In Czechoslovakia the Nazis brought Jewish religious artefacts from&nbsp;153 provincial communities to Prague to be part of the collection of this&nbsp;institution. Included were 5,400 religious objects, 24,500 prayer books and 6,070 artefacts of historical value. After&nbsp;the end of the war it became the core of the collection of the Jewish Museum of Prague.<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a></p> <p>Adolf Hitler showed some perverse insight when he understood that&nbsp;it mattered to remember European Jewry, and even more importantly, that&nbsp;it mattered how they were going to be remembered, who would shape this&nbsp;memory and for&nbsp;whom. Like&nbsp;Ringelblum, he wanted to wield control over&nbsp;the production of memory. He could be in control by establishing a&nbsp;museum: after&nbsp;having killed all European Jews, he would create his Central Museum of the Extinguished Jewish Race. One is tempted to wonder why? Why would he not have reached his goal once all Europe’s Jews had been killed? Hitler’s museum project suggests that&nbsp;liquidation was not enough, because even after&nbsp;their destruction the Jewish people could live on in the memory of the living, in living memory. That&nbsp;which was to remain had to be dealt with&nbsp;effectively, so that&nbsp;the possible continued existence of the Jews in memory was totally controlled. In terms of the linguistic distinctions of the verb tenses used to talk about&nbsp;the past&nbsp;(in some languages), we could say that&nbsp;it was only then that&nbsp;the present perfect of European Jewish culture was transformed into&nbsp;the past&nbsp;simple or <em>preterite</em> (in French <em>passé défini</em>) of that&nbsp;culture.<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a></p> <p>Hitler’s planned museum of the extinguished race proves the point of Ringelblum’s role-model Isaac Schipper -&nbsp;that&nbsp;it matters which agent is in charge of the production not only of historical knowledge but&nbsp;also of memory. Museums and archives can also be used as media and counter forces that&nbsp;challenge other narratives about&nbsp;the past, especially the dominant ones. Ringelblum used the archive as a&nbsp;model for&nbsp;cultural resistance. But&nbsp;the fact that&nbsp;people like&nbsp;Schipper and Ringelblum were convinced that&nbsp;archives could be used critically as counter-forces, does not guarantee that&nbsp;Ringelblum’s archival project was also successful in creating the conditions for&nbsp;the productive memorialization of Polish Jewry. What is it in this&nbsp;archive that&nbsp;enables it to be an active means of resistance? The fact that&nbsp;Jewish, instead of German, sources were collected by Ringelblum does not seem to be any guarantee. It is not only what is stored in the archive that&nbsp;matters, but&nbsp;also the very organization of that&nbsp;archive which determines how it can and will be used. What is it that&nbsp;enables us in the present to have memories of the Holocaust past&nbsp;that differ, and are in that&nbsp;sense countermemories in relation to the prevalent narratives about&nbsp;that event?</p> <h2>Archival Organizations Employed by Nazism</h2> <p>This is a&nbsp;crucial issue because many archival organizations have the opposite&nbsp;effect. I&nbsp;am now no longer talking about&nbsp;archives in the literal, institutional sense, but&nbsp;in a&nbsp;more conceptual one. I&nbsp;think we must examine this&nbsp;because collecting, storing, listing, and categorizing, does not only take place in archives and museums, but&nbsp;is also a&nbsp;symbolic mode human beings use to impose order on the world and on their experiences in and of that&nbsp;world. In addition, our very thinking is based on these archival principles: we collect, list and categorize all the time, arranging our ideas and experiences. And with&nbsp;our thinking as an archiving machine, we also structure many dimensions of societal and political order on the basis of archival principles. From&nbsp;this perspective, ghettos and concentration camps are also prime examples of archival organizations: they are the result of the application of a&nbsp;very limited number of categories, such as Jews, Roma, homosexuals, and political enemies. And having been categorized on the basis of these categories, people are collected and stored in ghettos and concentration camps. Their very diverse individual identities are reduced to one single category.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/van-alphen/2-d-1920x-992.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/van-alphen/2-d-330x-4f0.jpg 330w,assets/cache/images/issues/2018/20/van-alphen/2-d-660x-cd4.jpg 660w,assets/cache/images/issues/2018/20/van-alphen/2-d-768x-69b.jpg 768w,assets/cache/images/issues/2018/20/van-alphen/2-d-1320x-1a3.jpg 1320w" src="assets/cache/images/issues/2018/20/van-alphen/2-d-660x-cd4.jpg" alt="" ></a>    <figcaption><p>Alain Resnais, <em>Night and Fog</em>, 1955</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Alain Resnais’ documentary on the Holocaust from&nbsp;1955, entitled <em>Night and Fog</em>, demonstrates well the sense in which concentration camps were archival machines. Whereas the first half of the film presents the camps as factories, the second half presents the camps as monstrous archives and warehouses. Of course both are presented as being intimately related: the camps are factory-like-archives, and archive-like-factories. What the factory and the archive, according to Resnais, have in common is that&nbsp;in both efficiency is of the utmost importance. But&nbsp;what kind of efficiency?</p> <p>Within this&nbsp;archival organization a&nbsp;complete depletion of individual identity has taken place. As the voice-over tells us, at arrival all the inmates had to leave their names behind. Instead they became numbers, not only in the administrative records of the camps but&nbsp;also by having the number tattooed on their forearms. Thus the intimate, physical relationship between&nbsp;archival organization and the depletion of identity was established. The film ends with&nbsp;color footage showing nature taking over&nbsp;the remains of the camps. There is no trace of human life. Life and identity have been depleted efficiently, or so it seems.</p> <p>The understanding of concentration camps as monstrous archival machines implies that&nbsp;one defines the Holocaust as a&nbsp;<em>method</em>. The Nazis employed the archival organization as their method for&nbsp;genocide. They were good at it; they were master-archivists.<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a> The Nazis pursued what they called a&nbsp;“restlose Erfassing,” which means “total registering,” without&nbsp;loose ends; an expression that&nbsp;also implies “all-embracing seizure.” This&nbsp;ambition led to a&nbsp;fanatical policy of counting, listing, and conducting censuses.<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a> Keeping the registry of the inhabitants of the German Reich up-to-date was the main task of the Bureau for&nbsp;Publications of the SS Security Office, the so-called <em>Sicherheitsdienst</em>. But&nbsp;the census did not stop with&nbsp;the registration of all inhabitants of the <em>Reich</em>; it was also performed in the camps where those who were no longer seen as fellow-inhabitants ended up.</p> <p><a href="#sdfootnote1anc" name="sdfootnote1sym"></a></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/van-alphen/3-d-1920x-992.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/van-alphen/3-d-330x-4f0.jpg 330w,assets/cache/images/issues/2018/20/van-alphen/3-d-660x-cd4.jpg 660w,assets/cache/images/issues/2018/20/van-alphen/3-d-768x-69b.jpg 768w,assets/cache/images/issues/2018/20/van-alphen/3-d-1320x-1a3.jpg 1320w" src="assets/cache/images/issues/2018/20/van-alphen/3-d-660x-cd4.jpg" alt="" ></a>    <figcaption><p><img>Alain Resnais, <em>Night and Fog</em>, 1955</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Let me explain in more detail which particular structural principles of the camps can be characterized as archival. In many concentration camps the Nazis were fanatical about&nbsp;making lists of all the people who entered the labour camps. It was thanks to the existence of these lists that, in many cases, after&nbsp;the liberation it was possible to determine if the detainees had survived the Holocaust, and if not, in which camp and on which date they had been killed.</p> <p>On arrival, new camp detainees were transformed into&nbsp;archived objects with&nbsp;a&nbsp;number instead of a&nbsp;name: the inscription classified them as traceable elements within&nbsp;a&nbsp;collection. Upon&nbsp;entering the death camps, they were also sorted into&nbsp;groups: men with&nbsp;men, women with&nbsp;women; children, old people and pregnant women to the gas chambers. Artists, musicians, and architects from&nbsp;Western European countries were usually sent to camps like&nbsp;Theresiënstadt. Selecting and sorting on the basis of a&nbsp;fixed set of categories are basic archival activities.</p> <p>As we have seen in Resnais’ <em>Night and Fog, </em>the same procedures were applied to the belongings of the Holocaust victims. In Auschwitz their possessions were sorted and stored in warehouses called Canada: heaps of suitcases, of pairs of glasses, of shaved hair, and other categories of objects. The aim of archiving belongings was primarily their re-use by the German population. However, as has already been mentioned, Hitler also had the idea of the museum in mind. The archived belongings of the people who had entered the camps were going to became part of the museum’s collection.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/van-alphen/4-d-1920x-738.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/van-alphen/4-d-330x-459.jpg 330w,assets/cache/images/issues/2018/20/van-alphen/4-d-660x-cc9.jpg 660w,assets/cache/images/issues/2018/20/van-alphen/4-d-768x-2e1.jpg 768w,assets/cache/images/issues/2018/20/van-alphen/4-d-1320x-ae4.jpg 1320w" src="assets/cache/images/issues/2018/20/van-alphen/4-d-660x-cc9.jpg" alt="" ></a>    <figcaption><p><img>Alain Resnais, <em>Night and Fog</em>, 1955</p></figcaption>   </figure>  </section><section class="u-typo">   <p>If an archive can be used as a&nbsp;genocidal tool, how can one imagine it as cultural resistance? How does Ringelblum’s archive differ from&nbsp;the way the Nazis employed archival principles and how is it possible that&nbsp;his archive is productive in creating the right conditions for&nbsp;the production of memory –&nbsp;a&nbsp;counter-memory that&nbsp;resists the one constructed by the Nazis? When I&nbsp;say that&nbsp;archives create conditions for&nbsp;the production of memories, I&nbsp;distance myself from&nbsp;the idea that&nbsp;archives <em>contain</em> memories, that&nbsp;archives are rich treasuries full of memories. Of course archives (and museums) house historical objects, documents and narratives, but&nbsp;this is not the same as saying that&nbsp;they contain memories. Memories do not come to us from&nbsp;the past&nbsp;in any direct or unmediated way; rather, they are performed in a&nbsp;present that&nbsp;establishes a&nbsp;relationship with&nbsp;the past.<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a> So, archives should be evaluated in terms of how they enable the production of memory in the present, and what kind of memories are the result. It is in the use of the archive that&nbsp;acts of memory are performed.</p> <h2>Conceptualizing the Archive</h2> <p>In order to answer the questions raised above, I&nbsp;will first explore some theoretical and historical understandings of the archive -&nbsp;those of the French philosophers Jacques Derrida and Michel Foucault. In his book <em>Archive Fever</em> Derrida argues that&nbsp;the archive marks an institutional passage from&nbsp;private to public. Even private archives, such as family archives, demonstrate this, not in being publicly accessible, but&nbsp;in what they store. Even private archives usually store that&nbsp;which is storable and worth storing in the eyes of the public or culture at large.<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> It is in the archive that&nbsp;the singularity of stored objects and documents is, or better -&nbsp;becomes -&nbsp;representative of the category under&nbsp;which the objects have been classified. The status of the archive as a&nbsp;place of transition, of private to public, has fundamental consequences for&nbsp;the nature of that&nbsp;place. It implies that&nbsp;not everything can be included in an archive. Archiving is a&nbsp;selective procedure.</p> <p>Because it intersects with&nbsp;the public and with&nbsp;the law, an archive is ruled by the functions of unification, consignation, and classification. The acts of unification and consignation imply that&nbsp;the archive is not passive; it is not a&nbsp;place that&nbsp;stores uncritically. Rather, it introduces a&nbsp;distinction between&nbsp;archivable and non-archivable content, and on the basis of that&nbsp;distinction, one could even say, the archive actively produces its own content. According to Derrida, consignation is power: the power to decide what is archivable and what is not. Each object is not just stored because of its singularity, but&nbsp;because of what it means and does in relation to the other stored objects.</p> <p>Foucault differentiates between&nbsp;the role of archives in the classical and in the modern period. For&nbsp;what changed radically in the modern period is the so-called “threshold of description,” the minimum of importance a&nbsp;piece of information must have to be worthy of archiving. This&nbsp;threshold was lowered dramatically in order to include common people. In the words of Foucault:</p> <blockquote>For a&nbsp;long time ordinary individuality –&nbsp;the everyday individuality of everybody –&nbsp;remained below&nbsp;the threshold of description. To be looked at, observed, described in detail, followed from&nbsp;day to day by an interrupted writing, was a&nbsp;privilege […..] The disciplinary methods reserved this&nbsp;relation, lowered the threshold of describable individuality and made of this&nbsp;description a&nbsp;means of control and a&nbsp;method of domination. [What is archived] is no longer a&nbsp;monument for&nbsp;future memory, but&nbsp;a&nbsp;document for&nbsp;possible use. And this&nbsp;new describability is all the more marked in that&nbsp;the disciplinary framework is a&nbsp;strict one: the child, the patient, the madman, the prisoner, were to become [….] the object of individual descriptions and biographical accounts.<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a></blockquote> <p>Foucault argues that&nbsp;a&nbsp;variety of new ways of examining and describing individuals was developed. The question thus emerges in what sense this&nbsp;accumulation and processing of new data differed from&nbsp;knowledge production in earlier centuries since&nbsp;scientists from&nbsp;long ago also had an obsession with&nbsp;classifying objects and archiving the results of these classifications.<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a></p> <p>Foucault’s answer is that&nbsp;while it is true that&nbsp;plants, animals and even human beings had been the subjects of study before&nbsp;the examination regime was put in place, they entered the field of knowledge as general categories, as a&nbsp;species for&nbsp;example, and not as singular individuals.</p> <blockquote>What was innovative about&nbsp;the new archives was precisely that&nbsp;they objectified individuals not as members of a&nbsp;pre-existing category, but&nbsp;in all their uniqueness and singularity. Far from&nbsp;being archivable in terms of their shared properties, human beings became linked to all the unique series of events (medical, military, educational, penal events) which made them who they are as historical individuals –&nbsp;a&nbsp;history which could now take the form of a&nbsp;file while the individual became a&nbsp;case.<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a></blockquote> <p>In other words, whereas in the old archives individuals were used to build or substantiate categories, in the modern archive, categories are being used to build or substantiate the individual<em>.</em> This&nbsp;leads to a&nbsp;situation in which human bodies, events and archives interact, and it is this&nbsp;interaction which brings about&nbsp;individual identity. This&nbsp;identity is then not seen as a&nbsp;subjective interiority, but&nbsp;as an objective exteriority. All the facts about&nbsp;people accumulated in files and dossiers, extracted from&nbsp;us via&nbsp;a&nbsp;variety of examinations (medical reports, bank statements, educational degrees), provide people with&nbsp;an identity. This&nbsp;identity is not a&nbsp;matter of interiorized representation, like&nbsp;an ideology, but&nbsp;of an external body of archives within&nbsp;which we are caught and which compulsorily fabricate an objective identity -&nbsp;of and for&nbsp;us. This&nbsp;“archival identity” may perhaps have little to do with&nbsp;our sense of our identity, but&nbsp;this may not be the case for&nbsp;an insurance company, for&nbsp;example, for&nbsp;whom archived medical facts are the key to our identity, whether we like&nbsp;it or not.<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a></p> <p>One of the radical implications of the modern archive is that&nbsp;whatever, or whoever, is not in the records does not really exist. This&nbsp;drastic consequence is understandable when we realize that&nbsp;archival administrators do not observe, describe and classify reality, e.g. the unique identities of individuals, but&nbsp;the other way around: they shape people and events into&nbsp;entities that&nbsp;both fit the categorizations and are recordable. This&nbsp;kind of reification means that&nbsp;there are virtually no other facts than&nbsp;the ones contained in records and archives.<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a></p> <h2>The Ringelblum Archive as Classical Archive</h2> <p>Foucault’s differentiation of the role of old, classical archives and the role of modern archives enables me to assess the difference between&nbsp;the Ringelblum archive and the archival organization of ghettos and concentration camps. It is against&nbsp;these Nazi archival gestures that&nbsp;Ringelblum tried to organize the archive in such a&nbsp;way that&nbsp;it would work as a&nbsp;counter force. The archival practice of the Nazis is the extreme case of the modern archive: a&nbsp;very restricted number of categories were used to objectify human beings. Their individual identities were reduced to one single, racial category.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/van-alphen/5-d-1920x-56f.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/van-alphen/5-d-330x-4a8.jpg 330w,assets/cache/images/issues/2018/20/van-alphen/5-d-660x-60f.jpg 660w,assets/cache/images/issues/2018/20/van-alphen/5-d-768x-dae.jpg 768w,assets/cache/images/issues/2018/20/van-alphen/5-d-1320x-f95.jpg 1320w" src="assets/cache/images/issues/2018/20/van-alphen/5-d-660x-60f.jpg" alt="" ></a>    <figcaption><p><em>What we could not shout out to the world</em> exhibition view. Photo Jakub Certowicz, courtesy of Jewish Historical Institute, Warsaw</p></figcaption>   </figure>  </section><section class="u-typo">   <p>In contrast, Ringelblum used the archive to include all the people who had ended up with&nbsp;a&nbsp;“Jewish” identity, attributing to them a&nbsp;great variety of individual characteristics. He declared defiantly: “During this&nbsp;war every Jew is a&nbsp;separate, individual world.”<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a> His formulation of how he understood Jewish people in his archival project is what positions his archive explicitly as a&nbsp;means of cultural resistance, as a&nbsp;counter-archive. It is this&nbsp;war that&nbsp;necessitated him to understand every Jew as a&nbsp;separate individual world, because the Nazis did exactly the opposite: they understood all Jews as belonging to one category and having one unified identity: Jewishness. In the words of Bożena Keff: “The ‘Jew' is a&nbsp;construct superimposed on the faces of individuals to produce a&nbsp;uniform mask.”<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a> By using the archive for&nbsp;his goal of dealing with&nbsp;Jews as separate individual worlds, Ringelblum assigns a&nbsp;role to the archive, which is within&nbsp;the Foucauldian framework -&nbsp;not modern but&nbsp;classical. For&nbsp;in old, classical archives individuals were used to build or substantiate categories. Whereas in the old archives of elite persons like&nbsp;kings, noblemen, or important, powerful families, the category of sovereign or the family was exemplified by the specific person who was at that&nbsp;moment the sovereign or head of the family, the racial category of Jew was depicted by Ringelblum as a&nbsp;form of resistance by presenting the individual worlds of each Jewish person. By doing this&nbsp;the restricted nature of that&nbsp;category was deconstructed and undermined. This&nbsp;demonstrated that&nbsp;the category in question was not unified at all, but&nbsp;contained an enormous amount of variety, difference and specificity.</p> <p>How exactly did Ringelblum succeed in his archival act of resistance? How did he organize his archive? First of all, by not being rigorous, that&nbsp;is to say, by not restricting himself to one exclusive form or subject:</p> <blockquote>With regard to the form of the materials, the archive includes not only personal writings (accounts, journals, diaries, letters), but&nbsp;also newspapers, official documents (German and Jewish), public documents (posters, announcements, a&nbsp;school timetable), candy wrappers, poetry and prose, as well as many other types of documents. The topics touched on are similarly diverse, ranging from&nbsp;the misery of life under&nbsp;German occupation, i.e., indirect extermination through&nbsp;so-called liquidation operations, to relations between&nbsp;Jewish institutions, German regulations, etc.<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a></blockquote> <p>From the perspective of the modern archive, Ringelblum’s archive seems to be a&nbsp;complete mess, because it lacks a&nbsp;clear principle of selection and organization. And not only are the included materials extremely diverse; a&nbsp;systematic and orderly classification of the materials is also missing. Of course, it has been argued that&nbsp;Ringelblum and his associates had no time for&nbsp;classifying the materials they were collecting. All they could do is hide the materials in milk cans and metal boxes and bury them in different places. Although the lack of order in the archive is probably not intentional, it now contributes to its status as a&nbsp;classical archive. Bożena Keff has described the Ringelblum archive as “a multi-voice chronicle, each voice adding to the chorus”:</p> <blockquote>Through their stories, letters, and notes, the male and female narrators describe a&nbsp;portion of reality. What emerges is necessarily a&nbsp;collective work. The record covers the whole ghetto and, virtually, a&nbsp;much larger expanse, as it also includes voices from&nbsp;letters, postcards, and messages to and from&nbsp;family, friends and acquaintances.<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a></blockquote> <p>Although Keff talks only about&nbsp;the testimonial writings in the archive, her characterization of it as a&nbsp;“multi-voice chronicle” indicates that&nbsp;the archive does not impose a&nbsp;unified, coherent meaning on the lives and identities of the people isolated in the ghetto. A&nbsp;good example of this&nbsp;are the texts in the archive written by the historian Marian Małowist. Writing about&nbsp;young people and Polish-Jewish intellectuals in the ghetto he also writes about&nbsp;Catholic Jews in the ghetto who found themselves in a&nbsp;completely alien community. They identified themselves first of all as Catholic and Polish, not as Jewish. Jewish identity had been imposed on them by Nazism when they were imprisoned in the ghetto.<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a></p> <h2>The Ringelblum Archive as Memorial</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/van-alphen/6-d-1920x-56f.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw -&nbsp;78px), calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/van-alphen/6-d-333x-07d.jpg 333w,assets/cache/images/issues/2018/20/van-alphen/6-d-666x-bad.jpg 666w,assets/cache/images/issues/2018/20/van-alphen/6-d-1332x-3d7.jpg 1332w" src="assets/cache/images/issues/2018/20/van-alphen/6-d-666x-bad.jpg" alt="" ></a>    <figcaption><p><img><em>What we could not shout out to the world</em> exhibition view. Photo Jakub Certowicz, courtesy of Jewish Historical Institute, Warsaw</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Most of the Ringelblum Archive is now housed in the Jewish Historical Institute in Warsaw, the building that&nbsp;before the war housed the Central Judaic Library. In 2017 a&nbsp;permanent installation or exhibition, entitled <em>What we could not shout out to the world</em> was opened in the Institute, presenting a&nbsp;small selection of the original materials in spaces that&nbsp;have first of all a&nbsp;symbolic function. These spaces refer back to typical archive and library furnishings, alluding to the original function of the building as a&nbsp;Judaic library as well as to the archival workings of <em>Oneg Shabbat</em>. Tomasz Pietrasiewicz, co-author of the concept of the exhibition, shares his ideas concerning&nbsp;the symbolic space of the exhibition and its memorial function. In fact, the memorial to the Ringelblum Archive consists of three symbolic spaces. The first one is a&nbsp;space with&nbsp;a&nbsp;large table with&nbsp;25 seats, for&nbsp;each of the main “archivists” responsible for&nbsp;the creation of the collection. The second symbolic space is the reconstructed brick cellar, in which parts of the archive were hidden. This&nbsp;cellar is “cut” in half by a&nbsp;corridor running through&nbsp;it. Visitors can walk through&nbsp;the corridor and inspect glass panes that&nbsp;show a&nbsp;glimpse of the geological cross-section of the cellar that&nbsp;held the Ringelblum Archive. The third symbolic space consists of the space surrounding the reconstructed cellar, featuring a&nbsp;presentation of life in the ghetto using original material from&nbsp;the Archive.</p> <p>Pietrasiewicz explicitly states that&nbsp;the main aim of the exhibition is symbolic; it commemorates the Ringelblum Archive and is a&nbsp;kind of “sanctuary.” But&nbsp;another function fulfilled by the installation is more conventionally archival, namely to provide information about&nbsp;the Holocaust. This&nbsp;function is usually phrased (also by Pietrasiewicz) as the moral obligation to let the world know about&nbsp;the Holocaust. Although many Holocaust museums exist already and although many books have been published about&nbsp;the event, it is also true that&nbsp;many people still do not know about&nbsp;the Holocaust. So, this&nbsp;obligation to let the world know is still extremely important.</p> <p>What does it mean to combine a&nbsp;symbolic function with&nbsp;the mission to provide information? In other words, in what way can an archive be symbolic? This&nbsp;must be understood, for&nbsp;the referential, historical function of providing information about&nbsp;the Holocaust requires a&nbsp;different focus or attention, other than&nbsp;the attention needed for&nbsp;commemoration. The referential function of the archival materials also seems to be challenged by the fact that&nbsp;the historical meaning of it is in a&nbsp;certain sense limited. As Krzysztof Środa remarks in his “reading” of the Ringelblum archive, the archival materials are rather repetitive, and in many cases too detailed or already known. It is impossible to read the Ringelblum archive as a&nbsp;historical novel about&nbsp;a&nbsp;past one is not yet familiar with.<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a> But&nbsp;of course, as Środa explains, an archive is not a&nbsp;book one reads, but&nbsp;more like&nbsp;an encyclopedia that&nbsp;can be consulted.<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a> This&nbsp;sheds yet more light on the referential function but&nbsp;does not answer how it can be combined with&nbsp;the symbolic function of commemoration.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/van-alphen/7-d-1920x-7fd.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/van-alphen/7-d-330x-495.jpg 330w,assets/cache/images/issues/2018/20/van-alphen/7-d-660x-daa.jpg 660w,assets/cache/images/issues/2018/20/van-alphen/7-d-768x-09b.jpg 768w,assets/cache/images/issues/2018/20/van-alphen/7-d-1320x-8f2.jpg 1320w" src="assets/cache/images/issues/2018/20/van-alphen/7-d-660x-daa.jpg" alt="" ></a>    <figcaption><p><img><em>What we could not shout out to the world</em> exhibition view. Photo Jakub Certowicz, courtesy of Jewish Historical Institute, Warsaw</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The preservation of the Ringelblum Archive by means of the exhibition that&nbsp;opened in 2017 has an archival as well as commemorative function. But, one could argue, the archive created and organized by Ringelblum already had those two functions. His archival project was the result of a&nbsp;moral duty towards&nbsp;the Polish Jewish community. He wanted to give meaning to all their individual lives, by building a&nbsp;memorial out of words. These words not only refer back to what happened, but&nbsp;they are also future-oriented. In the words of Abraham Lewin: “We want our sufferings, these ‘birth pangs of the Messiah,’ to be impressed upon&nbsp;the memories of future generations and on the memory of the whole world.” The words of Marta Janczewska articulate even more explicitly in which sense the referential, historical function of words is at the same oriented towards&nbsp;the future: “Here is a&nbsp;group of people who stake all of their hopes on words, they cast into&nbsp;earth a&nbsp;‘treasury of words’ to be read in better times.”<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a></p> <p>Janczewska’s terse statement implies that&nbsp;words point towards&nbsp;a&nbsp;future, because they only have meaning when they are being read or heard. We are living in the “better times” of the future, because the Holocaust now belongs to the past. But&nbsp;the archival memorial built out of words depends on “that bit of attention and focus that&nbsp;those whose deaths we are reading deserve.”<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a> That&nbsp;attention and focus in the present is precisely what the recent exhibition of the Ringelblum Archive is able to create as a&nbsp;condition for&nbsp;its symbolic function as memorial. The facts, the information, the narratives, included in an archival, referential organization, now also have, as Ringelblum intended, symbolic value. This&nbsp;is not because all the details of individual Jewish lives are so “interesting” or “historically meaningful,” but&nbsp;because Ringelblum’s cultural resistance has transformed the unified category of Jewishness into&nbsp;a&nbsp;myriad of individual lives and identities against&nbsp;the logic of Nazi genocide.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Samuel D. Kassow, “Foreword”, in <em>The Ringelblum Archive. Underground Archive of the Warsaw Ghetto</em>, vol. 1, ed. Katarzyna Person, (Warszawa: Jewish Historical Institute, 2017), XV.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Ibid.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> See <em>Encyclopedia of the Holocaust</em>, ed. Israel Gutman, (New York: Macmillan, 1990), 118.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> See Ernst van Alphen, <em>Staging the Archive,</em><em>Art and Photography in Times of New Media</em>. (London: Reaktion Books, 2016) 209-211.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> For a more elaborate discussion of the concentration camps as monstrous archival machines, see the chapter “Depletion” in Ernst van Alphen’s <em>Staging the Archive.</em></p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> For a discussion of the role archiving played in Nazi Germany, see Eric Ketelaar’s “Archival Temples, Archival Prisons: Modes of Power and Protection,” <em>Archival Science</em>, 2002 no II: 221-38.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> See Mieke Bal, “Introduction,” in: <em>Acts of Memory: Cultural Recall in the Present</em>, eds. Mieke Bal, Jonathan Crewe, Leo Spitzer. (Hanover, NH: University Press of New England, 1999) vii–xvii.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> For a discussion of how and why archival records are socially constructed and maintained entities, see: Ciaran Trace, “What is Recorded is Never Simply ‘What Happened’: Record Keeping in Modern Organizational Culture”, <em>Archival Science</em> 2002, no 2: 137-59.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Michel Foucault, <em>Discipline and Punish:</em><em>The Birth of Prison</em>, trans. Alan Sheridan. (New York: Pantheon, 1977), 191-92.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> For clear descriptions of the history of archival science, see Fernanda Ribeiro, “Archival Science and Changes in the Paradigm,” <em>Archival Science</em> 2001, no 1: 295-310 and Hermann Rumschöttel, “The Development of Archival Science as a Scholarly Discipline.” <em>Archival Science</em>, 2001, no 1: 143-55.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Manuel Delanda, “The Archive before and after Foucault,” in <em>Information Is Alive</em>, eds. Joke Brouwer and Arjen Mulder. (Rotterdam: V2_Publishing and NAi, 2003), 11.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Ibid., 12.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> In archives interfaces function as the critical nodes through which archivists enable and constrain the interpretation of the past. The interface is a site where power in the Foucauldian sense is negotiated and exercised. It is power exercised over documents and their representation, over the access to them and over the uses of archives. On archival interfaces, see Margaret Hedstrom, “Archives, Memory, and Interfaces with the Past,” <em>Archival Science</em>, 2002, no 2: 21-43.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Emanuel Ringelblum, <em>Kronika getta warszawskiego wrzesień 1939 – styczeń 1943</em>, ed. Artur Eisenbach, trans. Adam Rutkowski. (Warsaw: Czytelnik, 1983), 476.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Bożena Keff, “Churban Forschung,” in: <em>Letters to the Oneg Shabbat</em>. (Warsaw: Jewish Historical Institute, 2017) 54.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Marta Janczewska, “Numbers and Words: On Death Figures in the Ringelblum Archive,” in: <em>Letters,</em> 29.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Bozena Keff, “Churban Forschung,” 53.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> See Eleonora Bergman, Tadeusz Epsztein, Katarzyna Person, “Introduction,” <em>The Ringelblum Archive, </em>xxxi.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Krzysztof Środa, “The Ringelblum Archive: A Reading,” in: <em>Letters to the Oneg Shabbat</em>, 139.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Ibid., 142.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Marta Janczewska, quoted in Tomasz Pietrasiewicz, “The Ringelblum Archive Exhibition: Chronicle of a Journey,” in: <em>Letters to the Oneg Shabbat</em>, 106.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Krzysztof Środa, “The Ringelblum Archive,” 140.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/20-2018-demusealization/a-monument-for-future-memory" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

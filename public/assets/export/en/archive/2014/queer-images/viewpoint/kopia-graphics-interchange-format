@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Graphics Interchange Format | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/queer-images/kopia-graphics-interchange-format">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Graphics Interchange Format | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Graphics Interchange Format | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/queer-images/kopia-graphics-interchange-format">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Graphics Interchange Format | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #f0f !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #f0f !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #f0f !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #f0f !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #f0f !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #f0f !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+			/* background-color:#f0f !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,0,255,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#f0f !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#f0f; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#f0f !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#f0f !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#f0f !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1452 parent-id-1412">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1410" data-selected-issue-color="#f0f" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/queer-obrazy/graphics-interchange-format1">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/queer-obrazy/graphics-interchange-format1">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/queer-images#toc">5</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/queer-images/kopia-graphics-interchange-format?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Graphics Interchange Format</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/queer-images/kopia-graphics-interchange-format?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=312">Iwona Kurz</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>1.</h2> <p>As a&nbsp;starting point, the GIF allows for&nbsp;the creation and unveiling of the kingdom of kitsch.</p> <p>This straightforward graphic form invented in 1987 was from&nbsp;the very beginning widely used on the internet. Today it primarily serves for&nbsp;the creation of simple animations, or maybe rather, of putting specific elements of images into&nbsp;motion.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2069-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2069-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>The popularity of this&nbsp;technology and the range of its forms <a href="https://giphy.com" target="_blank" rel="noopener">is so big</a>, that&nbsp;there is no point in trying to formulate a&nbsp;typology or classification that&nbsp;aims at completeness and precision. The widely used GIF shimmers (often literally) in myriad ways.</p> <p>A gilded and sequined armor is worn by figures from&nbsp;the world of “cuteness”—kittens, puppies, turtles—and from&nbsp;the world of fantasy—dragons, princesses, Piglet, and unicorns.</p> <p>The effect can be rich:</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2070-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2070-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>Or rather austere:</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2071-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2071-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>The colors, most often pink, gold, and various shades of neon, hide the picture’s weaknesses. The GIF assaults the eyes. The joy of GIF creation can be likened to the pleasures of an amateur writer, who writes because s/he likes to. The world smiles at its creator with&nbsp;all the colors of the rainbow, redeemed and available at the reach of a&nbsp;hand, from&nbsp;the distance of a&nbsp;keyboard and a&nbsp;monitor. Pleasure.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2072-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2072-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <h2>2.</h2> <p>Simple pleasures are not always enough. With&nbsp;an enjoyment and repetition akin to obsessive compulsive disorder, the GIF registers all possible human accidents, reminding us of the cruelties of hidden camera TV shows. When watching the Polish version of <em>America's Funniest Home Videos</em>, featuring the bluff host Tadeusz Drozda, one has the sense that&nbsp;what is “worthy of laughter”—in keeping with&nbsp;the Polish title—is the spectacle of painful accidents and spectacular falls. Many of them are in fact staged. The show carries with&nbsp;it the optimism of an era of large, heavy video cameras. Contemporary technology grants us continuous access to images of people stumbling and falling. One competes to be recognized as the most strange or absurd, a&nbsp;desire reflecting the need to impress. The internet is full of <a href="http://www.pbh2.com/humor/fail-gif/" target="_blank" rel="noopener">failed stunts</a>, some of which could easily be nominated for&nbsp;a&nbsp;Darwin Award (granted posthumously to members of the species who actively participated in the process of natural selection)</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2073-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2073-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>The record of an appearance can easily turn into&nbsp;the record of a&nbsp;downfall. Jean Baudrillard wrote about&nbsp;the precession of media in relation to violence.<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> The logic of the presence of TV cameras almost ensures its appearance. The audience is in a&nbsp;state of anticipation, waiting for&nbsp;something to happen, for&nbsp;something unexpected to disrupt the scene—this is the secret of “live” television. The GIF changes an image broadcast “live” into&nbsp;one broadcast “forever,” which robs the threat of its force. The fall is repeated infinitely, eliciting primordial laughter, just like&nbsp;the immortal scene with&nbsp;the banana peel.This may remind us of the early pleasures of the discovery of cinematography. One of the first films by the Lumière brothers showed a&nbsp;wall crumbling and then, through&nbsp;the use of a&nbsp;single mechanism the effect was reversed and the wall rose again before&nbsp;the viewer’s eyes. A&nbsp;person run over&nbsp;by a&nbsp;car would get up and walk away, and another, flattened by a&nbsp;steam-roller, only needed to be re-inflated with&nbsp;a&nbsp;bicycle pump in order to be resurrected. This&nbsp;ease of reanimation is still alive in contemporary cartoons. GIFs introduced a&nbsp;new mechanism and moved from&nbsp;that which is reversible to that&nbsp;which is repeatable. As with&nbsp;Beckett’s poorly completed homework assignment: “Try again. Fail again. Fail better.”</p> <p>Is this&nbsp;already the queer art of failure that&nbsp;Judith Halberstam describes in her praise of blunders and falls, as well as the childish delight of creation; anarchic enough to accept defeat (defining success differently), and brave enough to create utopia?<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup></p> <p>A lot depends on where you make the cut.</p> <p>Looping a&nbsp;failed bungee jump undoubtedly yields satisfaction. It effectively emulates a&nbsp;purely bodily mechanism, an impulsive reaction to the pain of someone else's body, a&nbsp;reaction which turns one’s own body into&nbsp;one torn with&nbsp;laughter. But&nbsp;in the GIF everything depends on editing. What if the rhythm of repetition creates a&nbsp;point of return before&nbsp;the (possible) fall?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2074-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2074-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <h2>3.</h2> <p>The creators of a&nbsp;GIF installation exhibited in May 2014 in the Museum of Moving Image in New York, invoked the category of the gesture. They titled their installation <em>The Reaction GIF. Moving Image as Gesture</em> <a href="http://www.movingimage.us/exhibitions/2014/03/12/detail/the-reaction-gif-moving-image-as-gesture/" target="_blank" rel="noopener"><em>The Reaction GIF. Moving Image as Gesture</em> </a>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2075-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2075-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>The first image on the page is striking: Michael Jackson (his new album, <em>Xscape</em>, has just been released) is gorging on popcorn in the darkness of a&nbsp;movie theatre— he might for&nbsp;example be watching policemen and thieves throw pies at each other. The gesture is understood as a&nbsp;visual rejoinder to an event on the internet or in reality, an extended and complicated emoticon. These moving images for&nbsp;every occasion record the emotions of the sender, amplifying them through&nbsp;the use of the loop. Emoticons were meant to protect users from&nbsp;overly flat expressions of feelings, from&nbsp;the disappearance of nuance, but&nbsp;instead they killed all irony by forcing us to be explicit. The GIF on the other hand introduces hysteria, an expression of emotion at the limits of the scream. A&nbsp;scream that&nbsp;freezes through&nbsp;repetition. Signaling, in effect, a&nbsp;lack of trust in reality—excess and exaggeration sap the rules of communication.</p> <p>This is explicitly thematized by the author of the GIF-blog <a href="http://phdstress.com" target="_blank" rel="noopener">„PhD Stress”</a>, where GIFs serve as a&nbsp;form of meta-commentary on the process of (not) writing academic articles and the life of the academic precariat, as well as the situation of the LGBTQ community—both to ways of talking about&nbsp;them in humanist discourse and to their social and political contexts. In this&nbsp;visual narration what is striking is precisely the gap between&nbsp;hopes and expectations and that&nbsp;which reality brings.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2076-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2076-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>Defeat, however, is taken on and accepted as a&nbsp;part of identity—accordingly with&nbsp;the optimistic interpretations of Judith Halberstam. This&nbsp;relates both to failures to fulfill one’s social roles as well as a&nbsp;strong identification with&nbsp;subjects deprived of political support, the persecuted.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2077-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2077-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>One of the author’s posts directly quotes <a href="http://phdstress.com/post/69014906635/the-future-is-queernesss-domain" target="_blank" rel="noopener">the words of José Esteban Muñoz</a>: "The future is queerness's domain,” from&nbsp;the book <em>Cruising Utopia</em><sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Similarly to Judith Halberstam, who in fact references Muñoz, in <em>Cruising Utopia </em>the author clearly expresses the need to think in terms of futurity and suggests faith in utopia. He calls for&nbsp;the transgression of the rigors of time and space, which characterize our contemporary moment.</p> <p></p> <h2>4.</h2> <p>The GIF becomes a&nbsp;work of art when the cut is introduced in the right place.</p> <p>This isn’t about&nbsp;introducing this&nbsp;form into&nbsp;the gallery, though that&nbsp;discussion has already begun, particularly in the wake of the anniversary of animation in 2012. That&nbsp;year (May 19—June 10, 2012), The Photographer’s Gallery in London prepared an exhibition of GIFS, “Born in 1987: the Animated GIF” <a href="http://www.thephotographersgallery.org.uk/the-wall-2" target="_blank" rel="noopener">Born in 1987. The Animated GIF”</a> and invited the audience to submit <a href="http://joyofgif.tumblr.com" target="_blank" rel="noopener"> their own animations</a>.</p> <p>In an article for&nbsp;Artnet News, Paddy Johnson expressed skepticism about&nbsp;the introduction of GIFs into&nbsp;the art world<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> emphasizing among&nbsp;other things the role of the digital environment in their functioning. Animation existed on the internet pretty much from&nbsp;the beginning, but&nbsp;it was only the universalization of various platforms of exchange, so-called communities, that&nbsp;maximized their visibility. Simultaneously, their expressive character—a small fragment demonstrated in an over-expressive loop—is well suited to the kind of distribution characteristic of the internet, which is in conflict with&nbsp;the white walls of the gallery. A&nbsp;provocation to shine and sparkle, to delight in form.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2078-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2078-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p><a href="http://pixlpa.com" target="_blank" rel="noopener">Andrew Benson</a>, an artist who uses GIFs, defines them as a&nbsp;form that&nbsp;is above&nbsp;all else exploratory, a&nbsp;laboratory or practice-run. Their simplicity and accessibility serve a&nbsp;“proper” artistic effect: “The lowbrow quality of animated GIFs opens up the opportunity to do something off-the-cuff and experimental.” GIFs are defined here as a&nbsp;low and weak category within&nbsp;the hierarchy of images.<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup></p> <p>It seems, however, that&nbsp;this is in fact its strength. The GIF opens onto&nbsp;the museum of the imagination and allows one to fumble with&nbsp;the commonly accepted norms of the construction of space-time.</p> <p>In a&nbsp;recent text about&nbsp;GIFs, <a href="http://www.dwutygodnik.com/artykul/4622-perpetuum-mobile.html" target="_blank" rel="noopener">Agnieszka Słodownik</a> captured a&nbsp;certain joy flowing from&nbsp;a&nbsp;sense of the infinite:<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> “the GIF frolics ad infinitum.” It’s a&nbsp;specific kind of infinity. The GIF is a&nbsp;product of technological reproduction based on other images (film for&nbsp;instance). It thus inserts itself, it would seem, into&nbsp;the normative order of reproduction characteristic of capitalist society. Nobody demonstrates this&nbsp;better than&nbsp;Disney, with&nbsp;its call to labor.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2079-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2079-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>But to sentence the Princess to endless labor? To demonstrate that&nbsp;the dust will never disappear?</p> <p></p> <h2>5.</h2> <p>The disruption of the time and space of heteronormative society and the logic of sexual and social reproduction is of fundamental importance for&nbsp;determining a&nbsp;truly queer gesture. Even so, a&nbsp;GIF, the child of reproduction, can assume a&nbsp;certain queerness, and sometimes it tries to. It acts as a&nbsp;Generator of Identity Freakness.</p> <p>It thematizes the dimensions of reality.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2080-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2080-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2081-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2081-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>Sometimes, it plays with&nbsp;uncanny impressions.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2082-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2082-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>Above all else, it problematizes temporality—not only through&nbsp;its ostentatious reproducibility and play with&nbsp;endless repetition.</p> <p>In this&nbsp;context the gesture takes on another meaning. It is not only the question of an expressive reaction to reality, but&nbsp;of presenting the gesture as a&nbsp;social gesture, as understood by Giorgio Agamben.<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> The GIF isolates a&nbsp;certain practice or action from&nbsp;a&nbsp;greater whole. It refers to it, but&nbsp;the effect of looping and cutting, specifically, demonstrates that&nbsp;reality is a&nbsp;glitch in the matrix.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2083-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2083-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p><em>Déjà vu </em>is raised to the rank of cognitive principle. It simultaneously reveals the separation of gesture and context—because the whole is severed through&nbsp;the workings of montage. The gap between&nbsp;reality and the reaction to it might be painful, but&nbsp;it also gives hope for&nbsp;the possibility of the appearance of something new, a&nbsp;glimmer or heralding of a&nbsp;new reality.</p> <p>(Even if a&nbsp;girl named Glitch, who finally becomes queen, reveals her terrifying face for&nbsp;a&nbsp;moment)</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2084-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2084-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>In essence, this&nbsp;is about&nbsp;recognizing the potential for&nbsp;perception and creation—and the delight of it. GIF art begins at the moment when the thousandth fall from&nbsp;the trampoline is transformed into&nbsp;the anticipation of a&nbsp;successful leap.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2085-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2085-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>The category of childishness returns. Its anarchic nature, even if it isn’t capable of creating a&nbsp;new world, can at least function as a&nbsp;glitch that&nbsp;shows the failures of the project we live in. That&nbsp;and how much we would love to get a&nbsp;unicorn.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/graphics-interchange/185-2086-1-pb.gif"><img src="assets/images/issues/2014/5/graphics-interchange/185-2086-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p><b>The essay was financed by the National Science Center (DEC-2012/05/B/HS2/03985)</b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> See Jean Baudrillard, "Le syndrome du Heysel", in: <em>Le Monde Diplomatique,</em> June 12, 1998.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> See Judith Halberstam, <em>The Queer Art of Failure</em> (Durham–London: Duke University Press, 2011).</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> José Esteban Muñoz, <em>Cruising Utopia. The Then and There of Queer Futurity</em>, (London–New York: New York University Press, 2009).</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Paddy Johnson, <em>Will Galleries and Museums Ever Embrace Animated GIF Art?</em>, “Artnet News”, 11 April 2014, <a href="http://news.artnet.com/art-world/will-galleries-and-museums-ever-embrace-animated-gif-art-9650" target="_blank" rel="noopener">http://news.artnet.com/art-world/will-galleries-and-museums-ever-embrace-animated-gif-art-9650</a>, accessed May 30, 2014.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> See Hito Steyerl, <em>Spam of the Earth: Withdrawal from Representation, </em>e-flux 32 (2012), <a href="http://www.e-flux.com/journal/the-spam-of-the-earth/" target="_blank" rel="noopener">http://www.e-flux.com/journal/the-spam-of-the-earth/</a></p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Agnieszka Słodownik, <em>Perpetuum mobile</em>, “Dwutygodnik.com” 2013 nr 111, <a href="http://www.dwutygodnik.com/artykul/4622-perpetuum-mobile.html" target="_blank" rel="noopener">http://www.dwutygodnik.com/artykul/4622-perpetuum-mobile.html</a>, accessed June 1, 2014</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Georgio Agamben, “Notes on Gesture,” in Infancy and History: Essays on the Destruction of Experience, trans. Liz Heron (London: Verso, 1993)</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/queer-images/kopia-graphics-interchange-format" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

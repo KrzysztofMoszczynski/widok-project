@@ -1,0 +1,39 @@
+.c-pageshare {
+  display: none;
+  
+  @media (min-width: 768px) {
+    display: block;
+  }
+}
+
+.c-pageshare__title {
+  display: block;
+  margin-bottom: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: $base_font_family;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.c-pageshare__services {
+  display: block;
+  text-align: center;
+}
+
+.c-pageshare__service {
+  display: inline-block;
+  margin: 0 12px;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  background-color: $color_primary;
+  color: #fff !important;
+  border-radius: 50%;
+  font-size: 28px;
+  @include transition(.3s);
+  
+  &:hover {
+    background-color: $color_default;
+  }
+}

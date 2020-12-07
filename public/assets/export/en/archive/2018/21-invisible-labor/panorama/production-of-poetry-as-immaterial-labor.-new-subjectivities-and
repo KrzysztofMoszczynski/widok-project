@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Produkcja poetycka jako praca niematerialna. | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/21-praca-niewidzialna/produkcja-poetycka-jako-praca-niematerialna">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Produkcja poetycka jako praca niematerialna. | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Produkcja poetycka jako praca niematerialna. | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/21-praca-niewidzialna/produkcja-poetycka-jako-praca-niematerialna">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Produkcja poetycka jako praca niematerialna. | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #00205b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #00205b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #00205b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #00205b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #00205b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #00205b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #00205b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #00205b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(0,32,91,0.8) !important; */
+			/* background-color:#00205b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(0,32,91,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#00205b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(0,32,91,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#00205b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(0,32,91,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(0,32,91,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#00205b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#00205b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#00205b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-497 parent-id-455">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="451" data-selected-issue-color="#00205b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/21-invisible-labor#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/21-invisible-labor/production-of-poetry-as-immaterial-labor.-new-subjectivities-and">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/21-praca-niewidzialna#toc">21</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/21-praca-niewidzialna/produkcja-poetycka-jako-praca-niematerialna?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Produkcja poetycka jako praca niematerialna. Nowe podmiotowości i możliwe Światy komunizmu</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/21-praca-niewidzialna/produkcja-poetycka-jako-praca-niematerialna?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=1491">Dawid Kujawa</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p><b>Olivier Zahm:</b> Zatem artysta jest ekologiem tego, co wirtualne. Bohaterem pozwalającym przetrwać temu, co podmiotowe?</p> <p><b>Félix Guattari:</b> Tak, jest bohaterem stającym w&nbsp;obronie bezcielesnych gatunków. Nie tylko stającym w&nbsp;ich obronie, ale i&nbsp;wspierającym je, umożliwiającym ich proliferację, jest bohaterem ich maszyn<sup><a href="#sdendnote1sym" name="sdendnote1anc">1</a></sup>.</p> <p style="text-align: right;">Felix Guattari<br><br></p> </blockquote> <p>Pojęcie pracy niematerialnej, którego autorstwo przypisuje się włoskiemu filozofowi Mauriziowi Lazzarato, w&nbsp;kręgach marksistowskiej lewicy nie od dziś stanowi przedmiot kontrowersji<sup><a href="#sdendnote2sym" name="sdendnote2anc">2</a></sup>. David Graeber uznaje je wręcz za&nbsp;„transparentnie absurdalne”, przekonując, że&nbsp;stanowi ono jedynie „o wiele bardziej wymyślną wersję wzrostu ekonomii usługowej”<sup><a href="#sdendnote3sym" name="sdendnote3anc">3</a></sup>, zaś samo wprowadzenie tej kategorii przez postoperaistów do dyskusji o&nbsp;współczesnym kapitalizmie wynikało nie z&nbsp;diagnozy nowych form pracy, lecz z&nbsp;właściwego włoskim autonomistom przeświadczenia o&nbsp;istnieniu rewolucyjnej klasy uosabianej przez najbardziej „zaawansowany segment proletariatu”<sup><a href="#sdendnote4sym" name="sdendnote4anc">4</a></sup>. Choć dostrzegam liczne słabości pojęcia pracy niematerialnej, uważam, że&nbsp;wciąż może ono być użyteczne jako narzędzie analizy form produkcji kulturowej. Przede wszystkim dlatego, że&nbsp;pozwala przekroczyć ortodoksyjnie marksistowski podział na&nbsp;bazę i&nbsp;nadbudowę, który wszelkie działania w&nbsp;przestrzeni kultury sprowadza do problemu ideologii, tak jakby ta ostatnia funkcjonowała w&nbsp;oderwaniu od tego, co realne<sup><a href="#sdendnote5sym" name="sdendnote5anc">5</a></sup>.</p> <p>Przy pomocy tego pojęcia zamierzam opisać pracę poetycką – i&nbsp;takie podejście do problemu może się okazać cenne z&nbsp;co najmniej dwóch powodów. Po&nbsp;pierwsze, pozwoli ono w&nbsp;przekonujący sposób wpisać aktywność poetycką w&nbsp;przestrzeń społeczną, unikając przy tym archaicznego ujmowania wiersza jako sztywnej reprezentacji zjawisk pozaliterackich. Po&nbsp;drugie, umożliwi wskazanie tych aspektów pracy niematerialnej, które nie służą reprodukowaniu <em>status quo</em>, ale mogą się przyczyniać do wynajdywania nowych sposobów stawiania oporu kapitalistycznej ekstrakcji wartości dodatkowej. Oznacza to, że&nbsp;w&nbsp;niewielkim stopniu interesować mnie będzie statyczny „wiersz”, instytucjonalnie wyalienowany, funkcjonujący w&nbsp;ramie wąsko rozumianej estetyki. Aby uniknąć takiego zawężenia badań poezji – charakteryzującego niestety także badania nonszalancko adaptujące teorię schizoanalityczną<sup><a href="#sdendnote6sym" name="sdendnote6anc">6</a></sup> – produkcję poetycką opisywać będę, zgodnie z&nbsp;definicją Maurizia Lazzarato, jako „aktywność mającą na&nbsp;celu ustanowienie i&nbsp;utrzymanie standardów kulturalnych i&nbsp;artystycznych, mód, smaków, norm konsumenckich oraz, bardziej strategicznie, opinii publicznej”<sup><a href="#sdendnote7sym" name="sdendnote7anc">7</a></sup>, zwracając uwagę przede wszystkim na&nbsp;jej dywersyjne możliwości w&nbsp;tym zakresie. Innymi słowy, niewidzialność pracy poetyckiej dotyczy produkcji podmiotowości, którą za&nbsp;Félixem Guattarim rozumiem jako wytwarzanie „współczynników (<em>facteurs</em>) podmiotowości”. Ustanawiają one transwersalną relację między różnymi poziomami egzystencji (biologicznym, technologicznym, ekonomicznym, społecznym) i&nbsp;składają się na&nbsp;„kolektywne układy wypowiedzenia” odpowiadające za&nbsp;„modelowanie podmiotowości”<sup><a href="#sdendnote8sym" name="sdendnote8anc">8</a></sup>. Permanentne działanie kolektywnych układów wypowiedzenia – których elementem jest poezja – pozwala się stabilizować „egzystencjalnym refrenom”, które wyznaczając określony rytm funkcjonowania w&nbsp;świecie, odpowiadają z&nbsp;kolei za&nbsp;„krystalizowanie się egzystencjalnych Terytoriów”<sup><a href="#sdendnote9sym" name="sdendnote9anc">9</a></sup>. Są to relatywnie stabilne – choć oczywiście poddawane przekształceniom na&nbsp;skutek rozmaitych deterytorializacji – przestrzenie (nie tylko geograficzne, ale także dyskursywne czy afektywne), umożliwiające społeczne u<em>ja</em>rzmienie<sup><a href="#sdendnote10sym" name="sdendnote10anc">10</a></sup>. Postaram się unikać suchych definicji pojęć – mam nadzieję, że&nbsp;Guattariański język uda się rozjaśnić w&nbsp;toku rozważań i&nbsp;w relacji z&nbsp;omawianym materiałem<sup><a href="#sdendnote11sym" name="sdendnote11anc">11</a></sup>.</p> <h2>Założenia</h2> <p>Deleuze i&nbsp;Guattari mówią zwykle o&nbsp;podmiotowości, nie o&nbsp;podmiocie. Nie bez powodu – podmiotowość ujmowana jest bowiem w&nbsp;sposób procesualny i&nbsp;nie dotyczy autonomicznych jednostek, które tradycyjnie – jako podmioty właśnie – przeciwstawiane są społeczeństwu rozumianemu jako anonimowa, homogeniczna masa. Guattariańska podmiotowość dotyczy zarówno jednostek, jak i&nbsp;kolektywów, ale nie jest z&nbsp;nimi utożsamiana:</p> <blockquote>Tradycyjnie podmiot był postrzegany jako ostateczna esencja indywiduacji, jako czyste, puste, przedrefleksyjne pojmowanie świata, jako ognisko wrażliwości, ekspresji – unifikator stanów świadomości. Z&nbsp;kolei wraz z&nbsp;podmiotowością kładziemy nacisk na&nbsp;założycielską instancję intencjonalności. To zakłada ujmowanie relacji między podmiotem i&nbsp;przedmiotem poprzez to, co pomiędzy nimi, poprzez usytuowanie na&nbsp;pierwszym planie ekspresywnej instancji […]<sup><a href="#sdendnote12sym" name="sdendnote12anc">12</a></sup>.</blockquote> <p>Podmiotowość, warunek wyłonienia się intencjonalności, okazuje się zatem po&nbsp;prostu fałdą powstającą na&nbsp;płaszczyźnie immanencji (gdy ta staje się płaszczyzną organizacji). Podobnie rzecz ujmował Michel Foucault. Zgodnie z&nbsp;interpretacją Deleuze’a, „Foucault nie używa słowa «podmiot» w&nbsp;sensie osoby czy formy tożsamości; mówi raczej o&nbsp;«upodmiotowieniu» jako procesie”<sup><a href="#sdendnote13sym" name="sdendnote13anc">13</a></sup>. Foucaultowska podmiotowość to „zagięcie zewnętrza przez praktyczne ćwiczenia”<sup><a href="#sdendnote14sym" name="sdendnote14anc">14</a></sup>. Założenia te należy zachować w&nbsp;pamięci, by zrozumieć, dlaczego produkcja podmiotowości nie sprowadza się do działania aparatów ideologicznych na&nbsp;poziomie „nadbudowy”, jakoby autonomicznej wobec ekonomicznej „bazy”.</p> <p>Wytwarzanie nowych stylów życia, wartości czy pragnień nie jest po&nbsp;prostu kwestią walki klasowej prowadzonej w&nbsp;dyskursie. Współczynniki u<em>ja</em>rzmienia transwersalnie<sup><a href="#sdendnote15sym" name="sdendnote15anc">15</a></sup> łączą wiele warstw: podmiotowość wytwarzana jest nie tylko przez przepływy językowe czy semiotyczne (choćby przez to, jakie książki czytamy albo jakie programy telewizyjne oglądamy), ale i&nbsp;przez przepływy materialne (organizację pracy, formy konsumpcji, infrastrukturę miasta, transport czy rozwój technologiczny), także w&nbsp;rozumieniu biologicznym. Wyłonienie się intencjonalności poprzedza zatem zaistnienie cielesnej autonomii, umożliwiającej postrzeganie „ja” jako jednostki zachowującej organiczną spójność. Uwzględnienie takich zróżnicowanych czynników pozwala wyjść poza myślenie o&nbsp;u<em>ja</em>rzmieniu jako biernym konsumowaniu ideologicznych komunikatów, które z&nbsp;czasem stają się aksjomatami. Podmiotowość wyłania się bowiem w&nbsp;wyniku konstytuowania się rytmu egzystencjalnych refrenów, czyli powracających modułów istnienia w&nbsp;świecie<sup><a href="#sdendnote16sym" name="sdendnote16anc">16</a></sup>.</p> <p>Czytamy: „Wystarczająco wiele krytycznych uwag wypowiedzieliśmy już pod&nbsp;adresem Terytorium, dlatego przyszła teraz pora, by docenić wszelkie możliwe wytwory, które ku niemu dążą, w&nbsp;nim powstają i&nbsp;z niego się wydobywają, a&nbsp;lepiej jeszcze – wydobędą”<sup><a href="#sdendnote17sym" name="sdendnote17anc">17</a></sup>. Przywołuję te słowa, by podkreślić, że&nbsp;deterytorializacja nie jest jedyną stawką schizoanalizy, a&nbsp;w niektórych okolicznościach okazuje się wręcz mniej istotnym zagadnieniem. Realne przekształcenie maszyny społecznej wymaga nie tylko mikropolityki, ale również makropolityki, wykrystalizowania się nowych egzystencjalnych Terytoriów – do tego zaś konieczne jest wytworzenie nowych egzystencjalnych rytmów.</p> <p>W obliczu tych wniosków nie można już myśleć o&nbsp;produkcji podmiotowości jako domenie dyskursu, pewnej funkcji ideologii. U<em>ja</em>rzmienie zaś nie sprowadza się do działania aparatów semiotycznych, a&nbsp;produkcja komunistycznej (czy postkapitalistycznej) podmiotowości przestaje być domeną dyskursywnych maszyn wojennych. Egzystencjalne refreny mogą przyjmować postać dyskursywną, ale nie czyni to wcale dyskursu głównym źródłem refrenów, te bowiem mogą mieć charakter zarówno „znaczący”, jak i&nbsp;„nie znaczący”, mogą być tyleż narracyjne, co rytualne i&nbsp;afektywne<sup><a href="#sdendnote18sym" name="sdendnote18anc">18</a></sup>. To swoiste odfetyszyzowanie języka jako rzekomo jedynej przestrzeni polityczności sprawia, że&nbsp;schizoanaliza sytuuje się w&nbsp;opozycji do większości popularnych systemów filozoficznych skupionych na&nbsp;podmiocie czy upodmiotowieniu – choćby myśli Jacques’a Rancière’a, Slavoja Žižka czy Alaina Badiou.</p> <h2>Lektura schizoanalityczna</h2> <p>Jak w&nbsp;tym świetle wyglądać powinna schizoanalityczna lektura wierszy rozumianych jako współczynniki podmiotowości, punkty-wektory wskazujące możliwe, bezcielesne Światy? Taka lektura odrzuca tradycyjną hermeneutykę, w&nbsp;myśl której interpretator dokonuje „odkrycia” źródłowego sensu stojącego za&nbsp;poszczególnymi aktami językowymi. Hermeneutyka immanentna proponowana przez Deleuze’a i&nbsp;Guattariego zmusza czytelniczkę do wytwarzania sensu za&nbsp;sprawą realnie istniejących, choć wirtualnych bloków afektów i&nbsp;perceptów<sup><a href="#sdendnote19sym" name="sdendnote19anc">19</a></sup>. To jednak nie wystarczy: ów sens musi być sensem maszynistycznym, nieufundowanym na&nbsp;desausurre’owskiej dychotomii znaczonego i&nbsp;znaczącego, odizolowanych i&nbsp;spetryfikowanych, niezależnych od otaczających je układów maszynowych. Przyglądanie się wierszom jako kompozycjom współczynników umożliwiających modelowanie podmiotowości wymaga skrupulatnego rozpoznania refrenów, jakie wiersze te mogą powoływać do życia wespół z&nbsp;innymi maszynami wchodzącymi w&nbsp;skład określonego kolektywnego układu wypowiedzenia, lub też rozpoznania, jak wiersze te mogą wpływać na&nbsp;deterytorializację już teraz istniejących egzystencjalnych refrenów. Podkreślając, że&nbsp;wiersze wchodzą w&nbsp;skład kolektywnych układów wypowiedzenia, chcę zwrócić uwagę, iż&nbsp;produkty kultury – choć zawierają już pewne „układy wypowiedzenia” na&nbsp;planie kompozycji, nazywane „podmiotami lirycznymi”, „narratorami” etc. – same w&nbsp;sobie nie są w&nbsp;stanie wywołać nawet najmniejszej społecznej zmiany<sup><a href="#sdendnote20sym" name="sdendnote20anc">20</a></sup>. Sęk w&nbsp;tym, że&nbsp;nie ma czegoś takiego jak „czyste dzieło sztuki”, które istniałoby w&nbsp;odosobnieniu; zawsze stanowi ono element większego układu wykraczającego poza wymiar dyskursywny. Aby ze „znaczących” refrenów, które w&nbsp;zalążku wskazują wiersze, mogły się wykrystalizować egzystencjalne Terytoria, potrzebują one „nie-znaczących” refrenów ufundowanych na&nbsp;technologicznych innowacjach (maszyna druku, maszyna internetowej dystrybucji treści), ekonomicznej organizacji (kapitalistyczny czy socjalistyczny sposób zarządzania produkcją kulturową, rynek książki) czy makropolitycznej emancypacji (na przykład wprowadzenie powszechnego systemu edukacji).</p> <blockquote>Owe gry reprezentacji [znane ze sztuki – przyp. D.K.] mają wiele rejestrów, które powodują nieprzewidziane konsekwencje w&nbsp;egzystencjalnych Światach. Ale niezależnie od tego, jak bardzo są one wyrafinowane, blok percepcji lub afektu poprzez estetyczną kompozycję aglomeruje w&nbsp;tym samym transwersalnym przebłysku podmiot i&nbsp;przedmiot, ja i&nbsp;innego, to, co materialne, i&nbsp;to, co bezcielesne, to, co przed i&nbsp;to, co po… Krótko mówiąc, afekt jest kwestią nie reprezentacji i&nbsp;dyskursywności, ale egzystencji<sup><a href="#sdendnote21sym" name="sdendnote21anc">21</a></sup>.</blockquote> <p>Reprezentacja nie zajmuje więc centralnego miejsca – maszyna językowa jest tylko jedną z&nbsp;wielu heterogenicznych maszyn umożliwiających dystrybucję afektów odpowiedzialnych za&nbsp;egzystencjalne modalności. Nie chodzi zatem o&nbsp;to, by udawać, że&nbsp;dyskursywność w&nbsp;sztuce nie istnieje. Poezja potrzebuje wertykalnych struktur reprezentacji, ale to jeszcze nie skazuje jej na&nbsp;działanie transcendentnej hermeneutyki, która zmusza nas do uznania, że&nbsp;poszczególne bloki językowe niosą ze sobą niezmienny ładunek znaczenia. Słowa muszą zostać puszczone w&nbsp;ruch wraz z&nbsp;układami, do których są podłączone, i&nbsp;choć nie przestaną być znakami, ujmowane będą jako „nadkodowane” siły i&nbsp;intensywności.</p> <h2>„Ratunku! Jestem pracą” – Andrzej Szpindler</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/produkcja_poetycka/559-8159-1-PB-1920x-e46.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/21/produkcja_poetycka/559-8159-1-PB-330x-315.jpg 330w,assets/cache/images/issues/2018/21/produkcja_poetycka/559-8159-1-PB-660x-aa3.jpg 660w,assets/cache/images/issues/2018/21/produkcja_poetycka/559-8159-1-PB-768x-f1d.jpg 768w,assets/cache/images/issues/2018/21/produkcja_poetycka/559-8159-1-PB-1320x-d8e.jpg 1320w" src="assets/cache/images/issues/2018/21/produkcja_poetycka/559-8159-1-PB-660x-aa3.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Andrzej Szpindler zadebiutował w&nbsp;2007 roku, publikując tom poetycki zatytułowany <em>King Kong, a&nbsp;co? Nic. Rozległe pole bobu i&nbsp;jego mięsopust prawy</em>. Był wówczas jednym z&nbsp;redaktorów portalu „Cyc Gada”, jednego z&nbsp;najbardziej twórczych, a&nbsp;jednocześnie najbardziej lekceważonych przez akademicki obieg punktów literackiego internetu. Na&nbsp;próżno byłoby szukać krytycznoliterackich szkiców zawierających jakiekolwiek wzmianki o&nbsp;tej wichrzycielskiej „warszawskiej szkole”, na&nbsp;której wychowało się całe pokolenie poetek i&nbsp;poetów.</p> <p>Michał Kasprzak, pisząc o&nbsp;twórczości Szpindlera w&nbsp;blurbie jego książki, wprowadza pojęcie „kinderyzmu” – intuicja krytyka jest słuszna, ale powierzchowna. Poezja ta może budzić skojarzenia z&nbsp;procesami myślowymi zachodzącymi w&nbsp;dziecięcej wyobraźni, ale nie ma w&nbsp;niej nic istotowo dziecięcego:</p> <blockquote> <p><b>Odcinek III pt.: Benzyna amfibii ducha</b></p> <p>Wielokrotnie powtarzane prawdy<br>stają się głupie jak mleko albo brukselka wystrzelona z&nbsp;procy.<br>Np. coś takiego:<br>Polska bawi jak piknik w&nbsp;razowcu,<br>jest piękna jak cisza po&nbsp;przyjacielu<br>i czarowałaby jak Jim Morrison, bo&nbsp;tęskni,<br>tęskni za&nbsp;pogańskim rytmem i&nbsp;pajdą skały<br>wiszącą w&nbsp;turkusie.<br><br>Albo coś takiego:<br>rusałki – rusałki<br>profesor – podrywacz<br>jajko – w&nbsp;prochowcu<br>[…]<sup><a href="#sdendnote22sym" name="sdendnote22anc">22</a></sup></p> </blockquote> <p>Szpindler może jawić się jako „kinderysta” ze względu na&nbsp;obecny w&nbsp;jego poezji zdeterytorializowany sposób komponowania bloków afektów, który rzeczywiście przypomina dziecięce procesy myślowe, ale się do nich nie ogranicza. System Guattariego na&nbsp;tle innych teorii z&nbsp;zakresu psychoanalizy i&nbsp;psychiatrii wyróżnia założenie, że&nbsp;schizofreniczna nieświadomość jest nie tyle jej patologiczną formą, ile przedodmiotowym punktem wyjścia do późniejszego wyłonienia się wszelkich form racjonalności oraz intencjonalności. Schizofrenia jest posiadającym teksturę i&nbsp;bogatym w&nbsp;przepływy pragnienia chaosem, który w&nbsp;wyniku mutacji, pofałdowań i&nbsp;uwarstwień – przypominających procesy geologiczne<sup><a href="#sdendnote23sym" name="sdendnote23anc">23</a></sup> – wytworzy dopiero konkretne formy uporządkowania, te zaś dadzą się nam poznać jako egzystencjalne Terytoria. To ujęcie pozwala dostrzec, że&nbsp;Szpindler, podobnie jak dziecko znajdujące się w&nbsp;fazie „wyłaniającego się ja”<sup><a href="#sdendnote24sym" name="sdendnote24anc">24</a></sup>, stara się w&nbsp;pewnym stopniu wrócić do tego rodzaju egzystencjalnego doświadczania, które nie było jeszcze podłączone do molowych maszyn (a więc do maszyn, które zostały nadkodowane na&nbsp;afektach i&nbsp;intensywnościach, maszyn, które w&nbsp;wyniku społecznych praktyk spetryfikowały się i&nbsp;w pewnym zakresie zinstytucjonalizowały). Układ wypowiedzenia funkcjonujący w&nbsp;jego poezji nie jest więc z&nbsp;natury dziecięcy, ale raczej jest równie zdeterytorializowany, co nieświadomość dziecka, która w&nbsp;początkowych etapach życia jest nieświadomością schizofreniczną. Poeta używa języka tak, aby uniknąć refrenów znanych z&nbsp;codziennych aktów komunikacji. W&nbsp;zamian w&nbsp;znanej nam rzeczywistości wskazuje linie ujścia, nawiązuje kontakt z&nbsp;możliwymi Światami, które już teraz możemy sobie wyobrazić za&nbsp;sprawą realnie istniejącego wiersza. To, co możliwe, zostaje zatem w&nbsp;wierszu sfałdowane<sup><a href="#sdendnote25sym" name="sdendnote25anc">25</a></sup>.</p> <p>Skoro schizofreniczny proces deterytorializacji z&nbsp;konieczności „musi stwarzać nową Ziemię”<sup><a href="#sdendnote26sym" name="sdendnote26anc">26</a></sup>, powinniśmy zastanowić się nad tym, jaką „nową Ziemię” obiecują nam wiersze Szpindlera, w&nbsp;których natrafiamy przecież na&nbsp;„tęsknotę za&nbsp;pogańskim rytmem” (s. 4), a&nbsp;nawet na&nbsp;frazy pulsacyjnie odpychające i&nbsp;przyciągające procesy terytorializacji: „kopnął mnie prąd / szukam refrenu / kopnął mnie potwór / szukam refrenu” (s. 20). Jaka podmiotowość ma się wyłonić z&nbsp;kolektywnych układów wypowiedzenia zaprzęgniętych do pracy w&nbsp;wierszach Szpindlera? W&nbsp;jakiej relacji ta potencjalna podmiotowość pozostaje z&nbsp;podmiotowością reprodukowaną w&nbsp;świecie postfordowskiego kapitalizmu, który na&nbsp;sztandary wziął kreatywność, samorealizację i&nbsp;inwestycję w&nbsp;siebie? Jakie są polityczne stawki tego rodzaju produkcji i&nbsp;czy mogłaby ona przyczynić się do systemowej zmiany? Aby odpowiedzieć na&nbsp;te pytania, musimy zobaczyć, jak kapitalistyczna maszyna społeczna wykorzystuje u<em>ja</em>rzmienie do realizacji swoich celów. Innymi słowy: jak w&nbsp;społeczeństwie kontroli organizuje się przepływy pragnienia, by te nie zagrażały <em>status quo</em>, ale służyły jego reprodukcji i&nbsp;ekspansji.</p> <p>Teorie ideologii pozwalają dostrzec związki podmiotowości i&nbsp;władzy, ale nie uwzględniają dwupoziomowego charakteru kapitalistycznej dominacji<sup><a href="#sdendnote27sym" name="sdendnote27anc">27</a></sup>. U<em>ja</em>rzmienie jest tym, co pozwala trzymać w&nbsp;ryzach społeczne pragnienie, tworząc dobrze rozpoznane, łatwe do kontrolowania molowe maszyny. Ale cywilizowana maszyna kapitalistyczna, jako jedyna maszyna społeczna bazująca na&nbsp;deterytorializacjach, nie potrzebuje podmiotu, by dokonywać akumulacji. Tym, co pozwala jej funkcjonować, jest spotkanie przepływów zdeterytorializowanej siły roboczej (która powstaje, gdy robotnik zostaje wywłaszczony ze środków produkcji) i&nbsp;zdekodowanego pieniądza (formalnie w&nbsp;kapitalizmie nic przecież nie odróżnia zysku od płacy), „który przekształcił się w&nbsp;kapitał zdolny do jej kupna”<sup><a href="#sdendnote28sym" name="sdendnote28anc">28</a></sup>. Dla ujmowanej w&nbsp;sposób abstrakcyjny kapitalistycznej ekspansji samoświadomy podmiot nie ma większego znaczenia; wartość dodatkowa powstawać może niezależnie od tego, jakiej płci jest wyzyskiwana robotnica, jaki ma kolor skóry, nawyki, preferencje i&nbsp;pragnienia oraz jakie relacje utrzymuje z&nbsp;resztą społeczeństwa. Maszynistyczne zniewolenie nie wymaga istnienia jednostki jako niezmiennej „całości”, wystarczą pozbawione intencjonalności „obiekty częściowe”; „rozmontowuje [ono] indywidualny podmiot, świadomość i&nbsp;reprezentacje, działając zarówno na&nbsp;poziomie przedindywidualnym, jak i&nbsp;ponadindywidualnym”<sup><a href="#sdendnote29sym" name="sdendnote29anc">29</a></sup>.</p> <p>Nie oznacza to jednak, że&nbsp;znane nam formy produkcji kapitalistycznej obchodzą się bez społecznego u<em>ja</em>rzmienia. To ono kieruje społeczne pragnienie w&nbsp;stronę „właściwych” maszyn molowych, a&nbsp;tym samym pozwala zachować określony stopień deterytorializacji pracy i&nbsp;zdekodowania pieniądza. Na&nbsp;przykład społeczne u<em>ja</em>rzmienie czasów fordowskiej produkcji wytworzyło model rodziny nuklearnej z&nbsp;„jednym przychodem” – dzięki temu darmowa praca kobiet pozwalała na&nbsp;sprawną i&nbsp;tanią reprodukcję siły roboczej mężczyzn zatrudnionych w&nbsp;fabrykach. Choć maszynistyczne zniewolenie nie „używa” podmiotowości, potrzebuje ono takich form u<em>ja</em>rzmienia, które przystosowując się do określonych uwarunkowań, zapewnią dostęp do niezbędnych, zdeterytorializowanych przepływów.</p> <p>Produkcja podmiotowości radykalnie odmiennej od tej późnokapitalistycznej może w&nbsp;realny sposób zakłócić sprawne działanie maszyny kapitalistycznej. Nie chcę przez to powiedzieć, że&nbsp;twórczość poetycka posiada szczególny potencjał rewolucyjny. Postfordowski model produkcji sprawił, że&nbsp;praca artystyczna naznaczona została ambiwalencją: nigdy nie wiemy, które formy kreatywności pozwolą wykrystalizować się egzystencjalnym Terytoriom stanowiącym realne zagrożenie dla kapitalistycznych procesów waloryzacji, a&nbsp;które zostaną przejęte przez reżim produkcji i&nbsp;zaczną służyć akumulacji kapitału. Ale to właśnie eksperymentowanie z&nbsp;nimi daje nadzieję na&nbsp;możliwość wykroczenia w&nbsp;stronę nieznanej, bardziej sprawiedliwej maszyny społecznej, „nowej Ziemi”.</p> <p>Szpindler w&nbsp;swojej twórczości nie tylko zwraca uwagę na&nbsp;konieczność przemodelowania obecnych egzystencjalnych Terytoriów („Wielokrotnie powtarzane prawdy / stają się głupie jak mleko albo brukselka wystrzelona z&nbsp;procy”; s.&nbsp;4), ale i&nbsp;tworzy „punkty ogniskowe wypowiedzenia” oraz wektory nowych podmiotowości<sup><a href="#sdendnote30sym" name="sdendnote30anc">30</a></sup>.</p> <p></p> <blockquote><b>A może praca jest medium prosiaczka</b></blockquote> <blockquote>Ratunku! Jestem pracą.<br>A, jak wiadomo, praca jest krową,<br>która wybucha i&nbsp;rozświetlając pokój<br>– czyli kryjówkę wojny –<br>staje się siostrą telewizora.<br><br>Policja zanotowała, że&nbsp;jestem dorywczą pracą,<br>Bo śledząc buuum cycuszków,<br>Zgubiłem się w&nbsp;wybuchu.<br>[…] (s. 16)</blockquote> <p></p> <p>Autor wykonuje tu ciekawy manewr: absurdalny, zdeterytorializowany sposób komponowania bloków wrażeń łączy z&nbsp;rozpoznaniem wymagającym bardzo dobrej znajomości zasad funkcjonowania kapitalistycznej maszyny społecznej. U<em>ja</em>rzmienie, do którego twórca ma przykładać rękę, wytwarzając podmiotowości łatwe do „rozmontowania” i&nbsp;maszynistycznego użycia, u&nbsp;Szpindlera oparte zostaje na&nbsp;zasadach organizujących maszynistyczne zniewolenie. Kolektywny układ wypowiedzenia – który na&nbsp;potrzeby tych rozważań możemy nazwać „podmiotem” – w&nbsp;samozwrotnym geście określa siebie jako „pracę”, a&nbsp;więc mimo poczucia swojej trwałości, bycia „unifikatorem stanów świadomości”, wyraża przekonanie, że&nbsp;sam stanowi jedynie intensywność rozpływającą się w&nbsp;zdeterytorializowanym przepływie siły roboczej. Poeta osobliwie miesza zatem funkcje dwóch poziomów kapitalistycznej dominacji, co w&nbsp;połączeniu ze specyfiką jego „przygłupich” bloków językowych sprawia wrażenie genialnego przypadku: co prawda mamy tu do czynienia z&nbsp;jakimś u<em>ja</em>rzmieniem (wskazuje na&nbsp;to samoświadomość „podmiotu”), ale nie nosi ono żadnych znamion tego u<em>ja</em>rzmienia społecznego, które reprodukuje się w&nbsp;ramach codziennych praktyk. Autor wprowadza logikę maszynową w&nbsp;centrum tego, co wytworzone w&nbsp;oparciu o&nbsp;dużo bardziej „strukturalne” zasady. Tym sposobem osiąga efekt humoru w&nbsp;rozumieniu Deleuze’a: tak bardzo utożsamia się z&nbsp;logiką władzy („stając się pracą”), że&nbsp;ośmiesza jej siłę i&nbsp;zaburza rytm funkcjonowania<sup><a href="#sdendnote31sym" name="sdendnote31anc">31</a></sup>. „Podmiot” rezygnuje ze swojej tożsamości, płci i&nbsp;pragnień, by stać się zderegulowanym, zawsze dostępnym przepływem siły roboczej – przecież tego właśnie chce od niego kapitał. Konsekwencje są znaczące: stając się zdeterytorializowaną „pracą”, można łatwo nauczyć się tego, jak przestać być robotnikiem skłonnym do sprzedaży siły roboczej, konsumentem podtrzymującym rynki zbytu, studentem produkującym przyszłą siłę roboczą, bezrobotnym zapewniającym istnienie rezerwowej armii pracy itd. Nim się obejrzymy, układ wypowiedzenia Szpindlera wykrzyczy: „Nie mogę powiedzieć, że&nbsp;stanę się patelnią, kiedy ja jestem patelnią!” (s. 4), by po&nbsp;chwili dodać: „no i&nbsp;nie da się ukryć, / jestem okaryną” (s. 7), a&nbsp;zaraz później: „jestem księżycem van Gogha” (s. 19), „Ja jestem znakiem zapytania w&nbsp;głuchoniemej jamie / tekturowego cyborga” (s. 20), „jak murzyn / w&nbsp;lekarskim kitlu staję się latarką” (s. 26), „<em>jestem flotą zimnych koparek</em>” (s. 26), „Ja jako flak / z&nbsp;problematyką fajności” (s. 33), „Byłem duchem, chciałem do ciebie zadzwonić” (s. 38). Nie trzeba dodawać, że&nbsp;z&nbsp;pozycji tak efemerycznych podmiotowości nie ma już powrotu do tego u<em>ja</em>rzmienia społecznego, które kapitał swobodnie rozmontowuje, by wyciągnąć z&nbsp;niego to, co pozwala mu na&nbsp;ekstrakcję wartości dodatkowej.</p> <p>Refreny odgrywane przez bloki afektów i&nbsp;perceptów (choćby powracający we wszystkich możliwych wariantach „bób”, za&nbsp;którym nie stoi żadne ukryte, głęboko symboliczne „znaczenie”) pozwalają wyobrazić sobie nowe, nieistniejące jeszcze, a&nbsp;jedynie możliwe Światy. Pozostają one jednak tak wysoce zdeterytorializowane, że&nbsp;wykraczają poza nasze u<em>ja</em>rzmione zdolności percepcyjne. Szpindler w&nbsp;swoich działaniach nie jest oczywiście „rewolucyjny” w&nbsp;tradycyjnym ujęciu tego słowa. Nie przekonuję, że&nbsp;twórczość tego rodzaju sama w&nbsp;sobie może wywołać systemową zmianę. Rzecz w&nbsp;tym, że&nbsp;poeta na&nbsp;prawach eksperymentu wytwarza coś w&nbsp;rodzaju utopijnych atraktorów przyciągających nasze u<em>ja</em>rzmione podmiotowości. Zostają one w&nbsp;pewnym stopniu „rozluźnione” i&nbsp;tym samym dają się pojąć nie jako „ostateczna esencja indywiduacji”, ale jako coś permanentnie wytwarzanego w&nbsp;toku kolektywnych praktyk, co pozwala trzymać w&nbsp;ryzach społeczne pragnienie, a&nbsp;jednocześnie (za sprawą wywłaszczenia ze środków produkcji) dostarcza niezbędnych do akumulacji kapitału przepływów siły roboczej. Szpindler nie proponuje więc gotowych projektów „nowej Ziemi”, ale licytuje się sam ze sobą na&nbsp;takie współczynniki możliwych podmiotowości, które będą jak najbardziej odstawać od znanych nam egzystencjalnych Terytoriów. Sytuując się w&nbsp;jednej z&nbsp;możliwych przyszłości<sup><a href="#sdendnote32sym" name="sdendnote32anc">32</a></sup>, poeta pozwala zobaczyć, czym są Terytoria, w&nbsp;których próbujemy zmieścić się w&nbsp;ramach społecznego u<em>ja</em>rzmienia, łudząc się, że&nbsp;zapewnią nam one minimum autonomii wobec kapitalistycznego reżimu produkcji. Układ wypowiedzenia przemawiający z&nbsp;jego tomu ujmuje to zresztą dużo zgrabniej: „ja sobie jestem i, jadąc w&nbsp;mroku przez pole, jak ufo naświetlam wieś” (s. 7).</p> <h2>„Pzygarniam tę pomyłkę do serca” – Piotr Janicki</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/produkcja_poetycka/559-8157-1-PB-1920x-e46.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/21/produkcja_poetycka/559-8157-1-PB-330x-315.jpg 330w,assets/cache/images/issues/2018/21/produkcja_poetycka/559-8157-1-PB-660x-aa3.jpg 660w,assets/cache/images/issues/2018/21/produkcja_poetycka/559-8157-1-PB-768x-f1d.jpg 768w,assets/cache/images/issues/2018/21/produkcja_poetycka/559-8157-1-PB-1320x-d8e.jpg 1320w" src="assets/cache/images/issues/2018/21/produkcja_poetycka/559-8157-1-PB-660x-aa3.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Choć druga książka Piotra Janickiego, <em>Wyrazy uznania</em>, w&nbsp;roku 2015 została wyróżniona Nagrodą Literacką Gdynia, dotychczasowa krytycznoliteracka recepcja jego wierszy objęła raczej poboczne wątki tej twórczości: to literatura zrobiona z&nbsp;literatury (stąd liczne kiczowate klisze) i&nbsp;oparta na&nbsp;zagęszczonej materii „codzienności”, wywiedzionej po&nbsp;trosze z&nbsp;Mirona Białoszewskiego, a&nbsp;w jeszcze większym stopniu z&nbsp;Franka O’Hary. Nie zwracano jednak uwagi na&nbsp;to, co wydaje się w&nbsp;przypadku Janickiego najistotniejsze: jest on poetą nowych połączeń. Poszukuje przede wszystkim możliwości dokonywania koniunkcji, to znaczy takiego łączenia otaczających go intensywności, które nie doprowadzi do racjonalnych (czyli przewidywalnych) wniosków, ale pozwoli osadzić je we wspólnym nie-racjonalnym źródle – immanentnej, niepodzielnej substancji. Koniunkcja „jest aktem twórczym, ponieważ […] umożliwia wytwarzanie nieskończonej liczby konstelacji, nie podążając liniami prowadzącymi do z&nbsp;góry określonych wzorców czy [uprzednio] przyjętych programów”<sup><a href="#sdendnote33sym" name="sdendnote33anc">33</a></sup>:</p> <p></p> <blockquote><b>Fiukające okna</b></blockquote> <blockquote>Miętoliłem w&nbsp;kieszeni zapałki,<br>paczkę Światowidów.<br>Powiedziałem: „Światowidzie, rzygam samotnością”;<br>pod Placem na&nbsp;Rozdrożu minąłem kobietę o&nbsp;kaszlu mojej żony.<br>(NA, s.&nbsp;17)<sup><a href="#sdendnote34sym" name="sdendnote34anc">34</a></sup></blockquote> <p></p> <p>Ta zasada sprawia, że&nbsp;kategorie ustanawiające zwyczajowe bieguny „pisania” – dereferencjalizacja i&nbsp;reprezentacja – zupełnie tracą znaczenie. Figuratywność i&nbsp;niefiguratywność nie powstają w&nbsp;wyniku prymarnego rozróżnienia na&nbsp;sztukę „o życiu” i&nbsp;sztukę „o sztuce”, ale stanowią zaledwie dwa odmienne spojrzenia na&nbsp;przepływy afektywne, z&nbsp;których pierwsze prowadzi do wytworzenia dobrze rozpoznanych układów, drugie z&nbsp;kolei – układów eksperymentalnych. Zatem nawet gdy Janicki pracuje na&nbsp;blokach wrażeń odnoszących się do jego własnego życia (zapałki, Plac na&nbsp;Rozdrożu, obca kobieta, kaszel żony), zagęszcza plan kompozycji w&nbsp;taki sposób, by jego wiersze nie wytwarzały już mimetycznego złudzenia. Czyta się je raczej tak, jak płótna abstrakcjonistów: nie szukając żadnych śladów narracji, ale śledząc intensywności powstałe w&nbsp;wyniku zestawienia konkretnych bloków wrażeń. To właśnie intensywności, a&nbsp;nie reprezentacje interesują nas w&nbsp;kontekście poetyckiego kreowania nowych egzystencjalnych Terytoriów:</p> <p>Gdy patrzymy z&nbsp;perspektywy egzystencjalnej funkcji – to znaczy zrywając ze znaczeniem i&nbsp;denotacją – zwykłe kategorie estetyczne w&nbsp;dużej mierze tracą swoją istotność. Odniesienia do „wolnej figuracji”, „abstakcji” czy „konceptualizmu” prawie nie mają znaczenia! Ważne jest to, by wiedzieć, czy praca prowadzi do zmutowanej produkcji wypowiedzenia. Ognisko aktywności artystycznej zawsze pozostawia wartość dodatkową podmiotowości czy, mówiąc inaczej, oświetla negentropię istniejącą w&nbsp;samym sercu banalności środowiska […]<sup><a href="#sdendnote35sym" name="sdendnote35anc">35</a></sup>.</p> <p>Oto polityczne implikacje Guattariańskiego paradygmatu etyczno-estetycznego: akcentując doniosłość przedsięwzięcia, jakim jest projektowanie możliwych Światów, Janicki wytwarza wektory podmiotowości zdolnych do ciągłego eksperymentowania z&nbsp;syntezą koniunktywną – podmiotowości organizujących życie społeczne w&nbsp;„kłączasty” sposób, gotowych rozszerzać istniejące układy, podpinając do nich nowe elementy na&nbsp;zasadzie aliansu. Obcowanie z&nbsp;poezją, która skomponowana została z&nbsp;„obcych sobie” bloków – bez podporządkowywania takiej kompozycji jakiejkolwiek teleologii – ujawnia wielość społecznych scenariuszy potencjalnie stojących za&nbsp;każdym gestem kreacji. Janicki, stając przed nieskończonym kontinuum bezcielesnych Światów, konkretyzuje te z&nbsp;nich, których istnienie nawet nam się nie śniło w&nbsp;życiu skrojonym pod&nbsp;wąski zakres dostępnych nam wyborów:</p> <p></p> <blockquote><b>I. Fałszerze</b></blockquote> <blockquote>Pewnego razu <br>zdejmujemy z&nbsp;ojcem w&nbsp;wiatrołapie buty<br>i pytam go, dlaczego człowiek ma uczucia.<br>Dlaczego raz jest kinestetykiem,<br>a kiedy indziej wzrokowcem.<br>Dlaczego jest taki silny,<br>ma słuch muzyczny<br>i łączy różne rzeczy.<br>Dlaczego wytwarza obrazy,<br>A potem przenosi je z&nbsp;miejsca na&nbsp;miejsce.<br>Mam – mówię – na&nbsp;myśli człowieka<br>w statku międzygwiezdnym.<br>Człowieka bez kończyn,<br>który turla się po&nbsp;pokładzie.<br>I tak gadam do ojca i&nbsp;patrzymy<br>Na siebie oparci o&nbsp;szafę.<br>(13, s.&nbsp;25)</blockquote> <p></p> <p>Poeta zdaje sprawę z&nbsp;heterogenicznego charakteru rzeczywistości, której tylko mały wycinek możemy zobaczyć i&nbsp;odczuć, bowiem „bogactwo społeczeństw, w&nbsp;których panuje kapitalistyczny sposób produkcji, występuje jako «olbrzymie zbiorowisko towarów»”<sup><a href="#sdendnote36sym" name="sdendnote36anc">36</a></sup> i&nbsp;to właśnie forma towarowa wyznacza pole dostępnych nam opcji.</p> <p>Maurizio Lazzarato, rozwijając koncepcję człowieka zadłużonego, zwraca uwagę na&nbsp;przepatrzenia lewicowej krytyki oskarżającej neoliberalny reżim o&nbsp;zduszenie kolektywnej wyobraźni poprzez rzekomą gwarancję indywidualnej samorealizacji. Odnotowuje on, że&nbsp;podmiotowość typowa dla postfordyzmu wcale nie gwarantuje realnego „wyboru” i&nbsp;nie tworzy warunków do samorealizacji. Z&nbsp;perspektywy maszynistycznego zniewolenia liczy się nie „indywidualność”, lecz „dywidualność”, pozbawiona żywego pierwiastka, doskonale przewidywalna i&nbsp;łatwa do rozmontowania. Jej działania mogą mieć charakter wyłącznie skodyfikowany, jej aktywność to generowanie informacji, które kapitalistyczna maszyna przetworzy, wprowadzi do bazy danych i&nbsp;zmonetyzuje<sup><a href="#sdendnote37sym" name="sdendnote37anc">37</a></sup>. W&nbsp;społeczeństwie kontroli wybór, jakiego dokonuje (dywidualna) jednostka, przypomina korzystanie z&nbsp;bankomatu: dostępne opcje mogą jawić się nam jako zróżnicowane, ale realnie istniejące linie ujścia zostają przesłonięte przez pozorną mnogość rozwiązań. Punktów egzystencjalnej bifurkacji, z&nbsp;których wytyczone zostaną nowe linie, szukać musimy poza tym, co zostało już uwzględnione w&nbsp;maszynistycznym zniewoleniu. Tylko tak doprowadzimy do wykrystalizowania się egzystencjalnych Terytoriów, które nie znajdą się w&nbsp;zasięgu kapitalistycznej waloryzacji, a&nbsp;będą w&nbsp;stanie zachować pewną autonomię, być może dającą sposobność do powstania innych systemów waloryzacji<sup><a href="#sdendnote38sym" name="sdendnote38anc">38</a></sup>.</p> <p>Janicki, jak łatwo możemy się przekonać, nie przepuszcza żadnej okazji, by ulokować w&nbsp;wierszu taki właśnie punkt bifurkacji, dlatego w&nbsp;jego twórczości znajdziemy fanatyczną wręcz afirmację przypadku – ten bowiem zawsze wskazywać będzie na&nbsp;bezcelowość sztuki, ujawniając to, jak z&nbsp;immanentnego pola egzystencji wyłaniają się niepowtarzalne, pozbawione transcendentnych wzorców osobliwości, które za&nbsp;każdym razem otwierają przed nami kolejny horyzont działania:</p> <p></p> <blockquote>[…]<br>Napisałem dziś „kwiestionariusz”<br>i „konicznie”. Jestem tym przymocowany do was […]<br>(NA, s.&nbsp;16)</blockquote> <p></p> <blockquote>może trudno w&nbsp;to uwierzyć,<br>tymczasem,<br>MAJUSKUŁY NA&nbsp;KOŃCU POPRZEDNIEJ STROFY CHOĆ<br>SĄ DZIEŁEM PRZYPADKU<br>TO MIMO TEGO STAJĄ SIĘ WYMOWNE<br>[…] (WU, s.&nbsp;9)</blockquote> <p></p> <blockquote>Mój przyjaciel pisząc pocieszającego esemesa w&nbsp;słowie „powiedzieć” wstawia w&nbsp;miejsce „ć” literę „a” <br>Przygarniam tę pomyłkę do serca <br>[…]<br>Przez chwilę czuję się jakbym był greckim myślicielem przyrody<br>czy powinienem podziękować?<br>[…] (WU, s.&nbsp;17)</blockquote> <p></p> <p>Te pozornie „prywatne” wiersze uwidaczniają to, co w&nbsp;Guattariańskim projekcie jawnie kolektywne i&nbsp;polityczne: nieprzerwane rozrastanie się i&nbsp;mnożenie nieznanych, wciąż niewcielonych modułów egzystencji, które w&nbsp;sztuce przyjmują postać zalążków nowych podmiotowości. Od ich artystycznej artykulacji rozpoczyna się proces ontologicznego krystalizowania się alternatywnych form istnienia i&nbsp;samowaloryzacji pracy żywej – w&nbsp;przyszłości mogą one „okazać się powodem, dla którego żyć będą ludzkie kolektywy i&nbsp;jednostki odrzucające śmiertelną entropię, charakterystyczną dla okresu, przez który przechodzimy”<sup><a href="#sdendnote39sym" name="sdendnote39anc">39</a></sup>.</p> <h2>„Nie pytaj mnie więcej, jak to jest, że&nbsp;Ziemia się obraca” – Miłosz Biedrzycki (MLB)</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/produkcja_poetycka/559-8155-1-PB-1920x-e46.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/21/produkcja_poetycka/559-8155-1-PB-330x-315.jpg 330w,assets/cache/images/issues/2018/21/produkcja_poetycka/559-8155-1-PB-660x-aa3.jpg 660w,assets/cache/images/issues/2018/21/produkcja_poetycka/559-8155-1-PB-768x-f1d.jpg 768w,assets/cache/images/issues/2018/21/produkcja_poetycka/559-8155-1-PB-1320x-d8e.jpg 1320w" src="assets/cache/images/issues/2018/21/produkcja_poetycka/559-8155-1-PB-660x-aa3.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Współczesny język poetycki, według potransformacyjnej krytyki, w&nbsp;Polsce może się realizować albo poprzez wzorzec naiwnej, często melancholicznej prywatności (w którym dyskursywna reprezentacja rzeczywistości nie zostaje zakwestionowana), albo zdereferencjalizowanej autoteliczności (w której jedynym walorem literatury okazuje się „piękna niezdolność” do przedstawiania świata)<sup><a href="#sdendnote40sym" name="sdendnote40anc">40</a></sup>. Autor <em>Sofostrofy i&nbsp;innych wierszy </em>nieskutecznie interpretowany był w&nbsp;duchu obydwu tych ujęć. Stąd, jak sądzę, jego wieloletnia marginalizacja.</p> <p>Miłosz Biedrzycki tworzy poezję opartą na&nbsp;„konstrukcyjnym” stosunku do języka. Nie jest ona przy tym poezją intelektualnego roztrząsania warunków możliwości znaczenia, a&nbsp;raczej ledwo zakreślonych, mglistych, a&nbsp;przy tym wyjątkowo silnych intensywności<sup><a href="#sdendnote41sym" name="sdendnote41anc">41</a></sup>. Istotę pisarstwa Biedrzyckiego stanowi jednak nie tyle samo ich pojawianie się, ile maksymalne wyzyskiwanie potencjału stojącego za&nbsp;afektywnym – a&nbsp;nie denotacyjnym – użyciem narzędzi dyskursywnych. Dlatego właśnie, wprowadzając na&nbsp;polski grunt „linię Šalamuna”, miał on wielki udział w&nbsp;pojawieniu się nowych refrenów, opartych na&nbsp;stosunku do języka<sup><a href="#sdendnote42sym" name="sdendnote42anc">42</a></sup>, który nie jest ani reprezentacyjny, ani autoreferencyjny, ale ekstatyczny<sup><a href="#sdendnote43sym" name="sdendnote43anc">43</a></sup>. Tymi śladami poszli później Tomasz Pułka, (wczesny) Szczepan Kopyt, Kamil Brewiński, Adam Grzelec, (późna) Natalia Malek i&nbsp;wielu innych. Intensywności Biedrzyckiego widać doskonale choćby w&nbsp;utworze z&nbsp;tomu <em>OO</em> (<em>„Dwa groszki”</em>):</p> <p></p> <blockquote><b>Jestem nocą która nie chce się skończyć</b></blockquote> <blockquote>Gorącą i&nbsp;suchą aż&nbsp;skleja się gardło<br>Miękkie ściany wyściełane śluzem, kurzem<br><br>Jestem metrowej wysokości literami IŁAWA GŁÓWNA<br>Trupim światłem lamp sodowych<br>Wściekłym świstem świetlówki w&nbsp;korytarzu<br><br>Jestem bełkotem hipisa domagającego się<br>Trzech tysięcy na&nbsp;herbatę<br>Bo psy przed chwilą go puściły<br><br>Jestem psami kulącymi się w&nbsp;przeciągu na&nbsp;peronie<br>Z oczami czerwonymi z&nbsp;niewyspania<br>Z głowami w&nbsp;kołnierzach mundurowych kurtek<br><br>Jestem stalową rzeką pod&nbsp;mostem<br>Jestem dudnieniem pociągu o&nbsp;kratownicę mostu<br>Jestem rtęciowymi mgłami budzącymi się po&nbsp;polach<br><br>Jestem urwanym oknem, podróżą bez morału<br>Jestem urwanym oknem przez które mgły wdzierają się<br>Do środka, jestem stukotem, drogą, nocą <br>(s. 77)</blockquote> <p></p> <p>Pod wieloma względami jest to wiersz symptomatyczny dla całego jego dorobku MLB. Co dzieję się tu z&nbsp;układem wypowiedzenia? Nie jesteśmy zwodzeni przez homogeniczne ja, dokonujące prostego opisu świata. Zamiast tego mamy do czynienia z&nbsp;„podmiotem-terminalem”<sup><a href="#sdendnote44sym" name="sdendnote44anc">44</a></sup>, przez który przetaczają się napotkane siły i&nbsp;intensywności, kształtujące jego efemeryczną, zmienną „jaźń”. „Jestem w&nbsp;świecie, ponieważ jestem światem!”<sup><a href="#sdendnote45sym" name="sdendnote45anc">45</a></sup>. Takie podejście do procesu twórczego, oparte na&nbsp;maksymalnie afektywnym użyciu dyskursu, pozwoliło wypracować nowe spojrzenie na&nbsp;literaturę, które z&nbsp;czasem stanęło u&nbsp;podstaw „jawnie politycznych” wystąpień poetyckich.</p> <p>Naiwna reprezentacja każe myśleć o&nbsp;języku jako czymś, co służy komunikowaniu się ze światem, ale nie jest jego częścią. Estetyzacja kryzysu reprezentacji opiera się na&nbsp;przekonaniu o&nbsp;niemożliwości pogodzenia świata i&nbsp;języka. Dopiero odfetyszyzowanie języka i&nbsp;ujęcie go jako jednego z&nbsp;instrumentów służących doznaniom, układającym się w&nbsp;zrytmizowane refreny, pozwala sformułować wniosek, zgodnie z&nbsp;którym poezja nie znajduje się na&nbsp;zewnątrz świata. Poezja jest jedną z&nbsp;praktyk społecznych i&nbsp;jako taka musi być opisywana.</p> <p>Nie skupiając się dłużej na&nbsp;molekularnym wymiarze twórczości MLB, należy zwrócić uwagę na&nbsp;jeden z&nbsp;gestów poety, który w&nbsp;molowym ujęciu okazuje się niezwykle istotny dla politycznego kontekstu potransformacyjnej poezji. Uważam, że&nbsp;czytanie utworów MLB dziś retroaktywnie czyni z&nbsp;niego twórcę warunków dla silnego, lewicowego nurtu, często nazywanego „poezją zaangażowaną”<sup><a href="#sdendnote46sym" name="sdendnote46anc">46</a></sup>. W&nbsp;debiutanckiej <em>* („Gwiazdce”) </em>znajdujemy wiersz zupełnie nieprzystający do krytycznoliterackich rozpoznań na&nbsp;temat prywatnego czy ironicznego wymiaru tej twórczości. Nosi on znaczący tytuł <em>O doniosłości klasy robotniczej</em>:</p> <blockquote> <p>myślisz, że&nbsp;nie widziałem tych tysięcy mężczyzn <br>z początkiem każdej zmiany przemieniających się <br>w brudnobure E.T. w&nbsp;gumiakach, z&nbsp;nonszalancją <br>odbijających karty w&nbsp;zegarze, uchylających <br>hełmów przed oleodrukowych kolorów św. Barbarą <br>w nadszybiu. te wagoniki z&nbsp;węglem w&nbsp;telewizji <br>to kamuflaż (o właściwym celu kopalń się <br>nie mówi) większość z&nbsp;nich pod&nbsp;ziemią po&nbsp;prostu <br>ustawia się w&nbsp;korytarzach, twarzami na&nbsp;zachód, <br>cierpliwie, na&nbsp;trzy zmiany, drepczą w&nbsp;miejscu. <br>(wiewiórka biegnąc w&nbsp;miejscu wprawia bęben w&nbsp;ruch) <br>nie pytaj mnie więcej, jak to jest, że&nbsp;się Ziemia obraca<br>(s. 28)</p> </blockquote> <p>Publikacja otwarcie panegirycznego wiersza na&nbsp;cześć ludzi pracy w&nbsp;roku 1993, kiedy to cała sfera publiczna przesiąknięta była wulgarną agitacją na&nbsp;rzecz „terapii szokowej”, dziś jawi się jako gest Foucaultowskiej parezji. Parezja jest czymś zupełnie odmiennym od performatywu. Ten ostatni bowiem, jak zauważa Lazzarato, „jest zawsze mniej lub bardziej ściśle zinstytucjonalizowany, tak że&nbsp;jego «warunki», jak również «efekty», pozostają «z góry przewidywalne». W&nbsp;ten sposób niemożliwe jest wytworzenie jakiegokolwiek pęknięcia w&nbsp;ustaleniach ról i&nbsp;dystrybucji praw”<sup><a href="#sdendnote47sym" name="sdendnote47anc">47</a></sup>. Z&nbsp;kolei parezja, sztuka mówienia prawdy, pozostaje nieskodyfikowana i&nbsp;tym samym zdolna jest tworzyć pęknięcie w&nbsp;zastanym egzystencjalnym Terytorium. Ponadto odsłania „mechanizmy konstytuowania się jednostki jako podmiotu pozostającego w&nbsp;pewnym stosunku do siebie i&nbsp;do innych”<sup><a href="#sdendnote48sym" name="sdendnote48anc">48</a></sup>. Innymi słowy, ujawnia ona, że&nbsp;wypowiedziana prawda, rozrywając oportunistyczny, doskonale rozpoznany porządek, „otwiera przestrzeń pewnego ryzyka”<sup><a href="#sdendnote49sym" name="sdendnote49anc">49</a></sup> i&nbsp;staje się wektorem nieznanej, nieskodyfikowanej podmiotowości (jako że&nbsp;owo „zdarzenie wypowiedzi kształtuje sposób bycia podmiotu albo […] podmiot modyfikuje bądź potwierdza”<sup><a href="#sdendnote50sym" name="sdendnote50anc">50</a></sup>); może ona ukonstytuować się i&nbsp;skodyfikować na&nbsp;drodze zrytmizowanego tworzenia nowych egzystencjalnych Terytoriów.</p> <p>Biedrzycki ani nie reprodukuje postsolidarnościowego etosu narodowowyzwoleńczego, ani nie korzysta z&nbsp;liberalnej koniunktury, która pozwala mówić „ja” zamiast „my”. Nie rozrzedza swoich eksperymentów w&nbsp;zdereferencjalizowanym oceanie ironii, tępiącej ostrze poetyckiej krytyki społecznej. Z&nbsp;językowym luzem i&nbsp;surrealną swobodą wyobraźni poetycko opracowuje Marksowską teorię wartości<sup><a href="#sdendnote51sym" name="sdendnote51anc">51</a></sup>: wszelkie formy społecznego bogactwa zawdzięczamy ludzkiej pracy, a&nbsp;nie rzekomym magicznym zdolnościom kapitału do samopomnażania.</p> <p>Polska tradycja awangardowa i&nbsp;wyrastająca z&nbsp;niej poetyka konstruktywizmu (reprezentowana np.&nbsp;przez socrealizującego Witolda Wirpszę) bogata jest w&nbsp;konteksty afirmujące ruch robotniczy z&nbsp;marksistowskiej perspektywy. Ludziom pracy uwagę poświęcali też twórcy Nowej Fali, szczególnie ci z&nbsp;jej lewicowego skrzydła. MLB jest jednak jednym z&nbsp;pierwszych poetów, którzy w&nbsp;potransformacyjnej Polsce uznali pracę najemną za&nbsp;kategorię wartościową artystycznie. Jego hołd złożony klasie robotniczej po&nbsp;latach wróci refrenem w&nbsp;wierszach Szczepana Kopyta („kto udaje że&nbsp;płaci zrzuca stopy z&nbsp;krzesła”), Konrada Góry („zamiatał / ulicę za&nbsp;pieniądze mniejsze niźli / na&nbsp;niej leżą”), Macieja Taranka („robotnik ma czerwoną koszulę, ciągnie wózek za&nbsp;ręce, jada posiłki łopatą”) czy Kiry Pietrek („na świecie jest 200 mln bezrobotnych / w&nbsp;ciągu ostatnich trzech lat / pracę straciło 27 mln osób”).<br><br></p> <p style="text-align: center;">***<br><br></p> <p>W krótkiej konkluzji konieczne wydaje mi się zaakcentowanie dwóch kwestii. Po&nbsp;pierwsze, choć Guattariański paradygmat etyczno-estetyczny uprzywilejowuje sztukę jako laboratorium społecznych eksperymentów, to autor <em>Chaosmozy </em>zaznacza, że&nbsp;sztuka sama w&nbsp;sobie, traktowana jako elitarna i&nbsp;instytucjonalnie wyobcowana, nie jest w&nbsp;stanie doprowadzić do systemowej zmiany. Jeśli impulsy estetyczne nie znajdą właściwych maszyn umożliwiających ich mutacje w&nbsp;sferach polityki, ekonomii i&nbsp;technologii, nie będzie możliwe przeprowadzenie trwałych instytucjonalnych zmian. Zaznaczam zatem, że&nbsp;powyższe rozważania, choć starałem się, by miały jak najbardziej materialistyczny charakter, są w&nbsp;gruncie rzeczy naznaczone wysokim stopniem abstrakcji – nie wynika to z&nbsp;faktu, że&nbsp;przywołane projekty poetyckie są zbyt radykalne pod&nbsp;względem proponowanych w&nbsp;nich wyobrażonych Światów, ale raczej z&nbsp;problemu typowego dla sztuki silnie elitarystycznej: nawet gdy mamy do czynienia z&nbsp;autorami dążącymi do egalitaryzacji poezji, wciąż tkwimy w&nbsp;przestrzeni słabo skomunikowanej z&nbsp;codziennym życiem społecznej większości. Powracające sformułowania o&nbsp;wysokiej jakości powstających u&nbsp;nas wierszy wydają mi się wiązać z&nbsp;przyjęciem pewnego błędnego kryterium, bo&nbsp;choć zgadzam się, że&nbsp;twórczość aktywnych dziś poetek i&nbsp;poetów języka polskiego to niewyczerpane źródło estetycznych impulsów umożliwiających pomyślenie nieznanych rzeczywistości, to jednocześnie trudno mi się z&nbsp;zgodzić rozpoznaniem, że&nbsp;poezja niemal zupełnie nieobecna w&nbsp;społecznym obiegu może być „jedną z&nbsp;najlepszych w&nbsp;Europie”. Bez odpowiedniej infrastruktury (w niektórych krajach funkcję takiej platformy pełni kultura hip-hopowa i&nbsp;<em>spoken word</em>), która pozwoliłaby uczynić poetycką kreatywność bardziej popularną – a&nbsp;nawet populistyczną – nie ma szansy, by eksperymenty te wpłynęły na&nbsp;powszechną wyobraźnię. Pierwszym krokiem ku „uspołecznieniu” poezji wydaje mi się odkrycie jej niewidzialnego, produktywnego charakteru: dopiero gdy poeci i&nbsp;poetki zrezygnują z&nbsp;zamkniętej przestrzeni wiersza, stanie się on skutecznym narzędziem proliferacji społecznej kreatywności.</p> <p>Druga kwestia dotyczy kierowanych pod&nbsp;adresem teorii Guattariego zarzutów, że&nbsp;reprodukuje ona narzędzia służące polityce tożsamościowej i&nbsp;w związku z&nbsp;tym pozostaje doskonale kompatybilna z&nbsp;postfordowskim kapitalizmem, a&nbsp;więc nie oferuje żadnych instrumentów umożliwiających realne wyłonienie się postkapitalistycznej maszyny społecznej. Intuicje krytyków na&nbsp;pierwszy rzut oka wydają się trzeźwe: produkcja podmiotowości jest dziś w&nbsp;tzw. krajach rozwiniętych jednym z&nbsp;kluczowych elementów przemysłu. Jej emancypacyjny potencjał z&nbsp;kolei wydaje się wręcz złudny: tworzenie nowych tożsamości zaowocować może mnożeniem się kolejnych grup wysuwających żądanie społecznego uznania, a&nbsp;przy tym doskonale wpisujących się w&nbsp;kapitalistyczną akumulację, przyczyniających się do powstawania nowych sektorów produkcji i&nbsp;rynków zbytu (roboczo nazwać to możemy zasadą „tęczowych gadżetów”). Nie jest jednak prawdą, że&nbsp;Guattariańska teoria ogranicza się do strategii tworzenia tożsamości: podmiotowość interesuje schizoanalityka nie jako jednostkowy styl życia, ale raczej jako kondycja kolektywna, zakładająca silne interakcje między aktorami wchodzącymi w&nbsp;skład grupy. Guattari przez cały okres swojej aktywności teoretycznej zmagał się z&nbsp;problemem Leninowskiego „skoku”<sup><a href="#sdendnote52sym" name="sdendnote52anc">52</a></sup>, usiłując zrozumieć, jak mając do dyspozycji infrastrukturę powstałą w&nbsp;kapitalizmie, można przejść do budowy komunistycznych maszyn społecznych. W&nbsp;<em>Psychoanalizie i&nbsp;transwersalności </em>– przeciwstawiając maszynowy sposób myślenia o&nbsp;nowych instytucjach spetryfikowanej „strukturze”, odpowiedzialnej za&nbsp;porażki<em></em>ruchów rewolucyjnych – autor pisał:</p> <blockquote>Problem organizacji rewolucyjnej polega na&nbsp;stworzeniu instytucjonalnej maszyny, której wyróżniającymi cechami byłaby taka aksjomatyka i&nbsp;praktyka, które sprawiłyby, że&nbsp;nie cofnie się ona do rozmaitych struktur społecznych, a&nbsp;już na&nbsp;pewno nie do struktury państwa, która jawi się jako kamień węgielny dominujących stosunków produkcji, nawet jeśli nie odpowiada już środkom produkcji. Pułapka wyobraźni polega na&nbsp;tym, że&nbsp;wydaje nam się, iż&nbsp;nic nie jest dziś możliwe do wyartykułowania na&nbsp;zewnątrz tej struktury. […]</blockquote> <p>Rewolucyjny program […] powinien wskazywać właściwy podmiotowy potencjał i&nbsp;na każdym etapie walki powinien zapewniać, że&nbsp;jest on odporny na&nbsp;wszelkie próby „strukturyzowania” tego potencjału<sup><a href="#sdendnote53sym" name="sdendnote53anc">53</a></sup>.</p> <p>Produkcja podmiotowości nigdy zatem nie interesowała Guattariego jako kwestia fabrykowania jednostkowego „stylu życia”, który mógłby okazać się jakkolwiek emancypujący w&nbsp;ramach kapitalizmu. Jego rozważania można czytać wręcz jako „molekularny leninizm”<sup><a href="#sdendnote54sym" name="sdendnote54anc">54</a></sup>, odrzucający blokady stawiane przez „struktury” i&nbsp;koncepcję scentralizowanej partii, ale skupiony na&nbsp;budowie instytucjonalnych maszyn komunizmu i&nbsp;na próbach ustanowienia warunków pozwalających na&nbsp;„zerwanie” z&nbsp;kapitalistycznym porządkiem. Schizoanalityczne podejście do literatury musi uwzględniać ten problem, inaczej zawsze będzie się sprowadzać do wybiórczego traktowania dostępnych nam instrumentów teoretycznych, a&nbsp;tym samym z&nbsp;łatwością da się zaprzęgać w&nbsp;postfordowski reżim produkcji – egzystencjalne Terytoria, których krystalizacji oczekujemy, to przecież nie Terytoria indywidualnych interesów i&nbsp;kreatywności subsumowanej pod&nbsp;kapitał; to Terytoria wolności i&nbsp;samorządności, dezalienacji i&nbsp;autonomii – ostatecznego uwolnienia nieskończonych społecznych potencjałów.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdendnote1anc" name="sdendnote1sym">1</a>Zob. np. Marcin Kowalski, Aleksandra Szyłło, <em>Ostatnie 48 godzin Andrzeja Leppera</em>, „Wyborcza.pl” z 16 sierpnia 2011, <a href="http://wyborcza.pl/1,75398,10120320,Ostatnie_48_godzin_Andrzeja_Leppera.html" target="_blank" rel="noopener">http://wyborcza.pl/1,75398,10120320,Ostatnie_48_godzin_Andrzeja_Leppera.html</a>, dostęp 25 maja 2018; Mig, <em>Andrzej Lepper nie żyje. Kariera przywódcy Samoobrony</em>, „Gazeta.pl” z 5 sierpnia 2011 roku, <a href="http://wiadomosci.gazeta.pl/wiadomosci/5,114873,10071653.html" target="_blank" rel="noopener">http://wiadomosci.gazeta.pl/wiadomosci/5,114873,10071653.html</a>, dostęp 25 maja 2018; <em>Andrzej Lepper nie żyje. Przed siedzibą Samoobrony znicze, krzyż, ludzie…</em>, „Gazetaprawna.pl” z 5 sierpnia 2011 roku, <a href="http://www.gazetaprawna.pl/galerie/536714,duze-zdjecie,1,andrzej-lepper-nie-zyje-przed-siedziba-samoobrony-znicze-krzyz-ludzie.html" target="_blank" rel="noopener">http://www.gazetaprawna.pl/galerie/536714,duze-zdjecie,1,andrzej-lepper-nie-zyje-przed-siedziba-samoobrony-znicze-krzyz-ludzie.html</a>, dostęp 25 maja 2018.</p>
+<p><a href="#sdendnote2anc" name="sdendnote2sym">2</a>W ciągu ostatnich kilku lat nawet liberałowie przestali być już przekonani, czy wypowiedzi i taktyki polityczne Leppera – choćby słynne okupowanie mównicy sejmowej – aż tak bardzo odbiegały od standardów zachodniego parlamentaryzmu. Szczególnie popularne stało się zmiękczanie obrazu szefa Samoobrony w kontekście współczesnej erupcji prawicowych populizmów. Por. Aleksandra Pawlicka, <em>Ranking największych chamów polskiej polityki</em>, „Newsweek.pl” z 10 lutego 2014 roku, <a href="https://www.newsweek.pl/polska/kto-jest-dzis-pierwszym-chamem-polskiej-polityki-na-newsweekpl/0vsx002" target="_blank" rel="noopener">https://www.newsweek.pl/polska/kto-jest-dzis-pierwszym-chamem-polskiej-polityki-na-newsweekpl/0vsx002</a>, dostęp 25 maja 2018.</p>
+<p><a href="#sdendnote3anc" name="sdendnote3sym">3</a><em>Andrzej Lepper nie żyje</em> (galeria), „Wyborcza.pl” z 5 sierpnia 2011 roku, <a href="http://wyborcza.pl/51,76842,10071704.html" target="_blank" rel="noopener">http://wyborcza.pl/51,76842,10071704.html</a>, dostęp 25 maja 2018.</p>
+<p><a href="#sdendnote4anc" name="sdendnote4sym">4</a>Zob. Marcin Kącki, <em>Lepperiada</em>, Czarne, Wołowiec 2013.</p>
+<p><a href="#sdendnote5anc" name="sdendnote5sym">5</a>Witold Mrozek, <em>„Tu Wersalu nie będzie!”: Libańczyk wystawił spektakl o Lepperze. Na widowni – Samoobrona</em>, „Wyborcza.pl” z 20 czerwca 2016 roku, <a href="http://wyborcza.pl/1,75410,20269474,teatr-polski-w-bydgoszczy-wystawil-tu-wersalu-nie-bedzie.html" target="_blank" rel="noopener">http://wyborcza.pl/1,75410,20269474,teatr-polski-w-bydgoszczy-wystawil-tu-wersalu-nie-bedzie.html</a>, dostęp 25 maja 2018.</p>
+<p><a href="#sdendnote6anc" name="sdendnote6sym">6</a>Ibidem.</p>
+<p><a href="#sdendnote7anc" name="sdendnote7sym">7</a>Zob. js, <em>Tajemnica sukcesu Leppera, </em>„Wp.pl” z 19 maja 2014, <a href="https://wiadomosci.wp.pl/tajemnica-sukcesu-leppera-6038714275717761g" target="_blank" rel="noopener">https://wiadomosci.wp.pl/tajemnica-sukcesu-leppera-6038714275717761g</a>, dostęp 20 listopada 2018.</p>
+<p><a href="#sdendnote8anc" name="sdendnote8sym">8</a>Dyskusję zainicjował tekst Jarosława Tomasiewicza <em>Narodziny, wzlot i upadek Anteusza, </em>opublikowany w „Nowym Obywatelu” z okazji piątej rocznicy śmierci Andrzeja Leppera. Artykuł, kreślący sylwetkę szefa Samoobrony jako obrońcy klas wykluczonych i miejscami rzeczywiście zupełnie bezkrytyczny, spotkał się z ostrą reakcją części liberalnych i centrolewicowych publicystów, prowokując odpowiedzi na blogach i w prasie, a przede wszystkim – w mediach społecznościowych. W walce toczonej na komentarze książki Kąckiego i Krasowskiego przywoływano nie tylko jako materiał źródłowy, ale także jako dowód na wrodzone „chamstwo” Leppera. Zob. Jarosław Tomasiewicz, <em>Narodziny, wzlot i upadek Anteusza. W piątą rocznicę śmieci Andrzeja Leppera</em>, „Nowyobywatel.pl” z 13 stycznia 2017, <a href="https://nowyobywatel.pl/2017/01/17/narodziny-wzlot-i-upadek-anteusza-w-piata-rocznice-smierci-andrzeja-leppera/" target="_blank" rel="noopener">https://nowyobywatel.pl/2017/01/17/narodziny-wzlot-i-upadek-anteusza-w-piata-rocznice-smierci-andrzeja-leppera/</a>, dostęp 20 listopada 2018; Wojciech Orliński, <em>Kim był Andrzej Lepper</em>, „Wo.blox.pl” z 6 sierpnia 2018, <a href="http://wo.blox.pl/2018/08/Kim-byl-Andrzej-Lepper.html" target="_blank" rel="noopener">http://wo.blox.pl/2018/08/Kim-byl-Andrzej-Lepper.html</a>, dostęp 20 listopada 2018; Jakub Majmurek, <em>Lepper i jego mit</em>, „Tygodnikpowszechny.pl” z 20 sierpnia 2018, <a href="https://www.tygodnikpowszechny.pl/lepper-i-jego-mit-154566" target="_blank" rel="noopener">https://www.tygodnikpowszechny.pl/lepper-i-jego-mit-154566</a>, dostęp 20 listopada 2018.</p>
+<p><a href="#sdendnote9anc" name="sdendnote9sym">9</a>Zob. np. Paweł Wroński, <em>W Sejmie unosi się duch Andrzeja Leppera, </em>„Wyborcza.pl” z 23 lipca 2008, <a href="http://wyborcza.pl/1,76842,5483837,W_Sejmie_unosi_sie_duch_Andrzeja_Leppera.html" target="_blank" rel="noopener">http://wyborcza.pl/1,76842,5483837,W_Sejmie_unosi_sie_duch_Andrzeja_Leppera.html</a>, dostęp 25 maja 2018; Joanna Cieśla, Agnieszka Rybak, <em>Andrzej Lepper. Od blokady do posady, </em>„Polityka.pl” z 13 lipca 2006, <a href="https://www.polityka.pl/tygodnikpolityka/kraj/185795,1,lepper-andrzej.read" target="_blank" rel="noopener">https://www.polityka.pl/tygodnikpolityka/kraj/185795,1,lepper-andrzej.read</a>, dostęp 20 listopada 2018.</p>
+<p><a href="#sdendnote10anc" name="sdendnote10sym">10</a>Wojciech Orliński klasowemu „demaskowaniu” Leppera poświęcił cały wpis na swoim blogu. Dziennikarz rozpatrywał przy tym przynależność klasową szefa Samoobrony wyłącznie przez pryzmat kategorii ekonomicznych, pisząc: „Chciałbym być z takiego ludu! Jeśli ktoś jest panem na 113 hektarach, nie jest już rolnikiem, jest obszarnikiem. Latyfundystą. Przecież nie potrzebował 6 traktorów po to, żeby samemu nimi jeździć”. Wojciech Orliński, <em>Kim był Andrzej Lepper…</em></p>
+<p><a href="#sdendnote11anc" name="sdendnote11sym">11</a>Zob. Bartłomiej Radziejewski, <em>Jego Wysokość Andrzej Lepper</em>, „Nowakonfederacja.pl” z 6 marca 2018, <a href="https://nowakonfederacja.pl/wysokosc-andrzej-lepper/" target="_blank" rel="noopener">https://nowakonfederacja.pl/wysokosc-andrzej-lepper/</a>, dostęp 20 listopada 2018.</p>
+<p><a href="#sdendnote12anc" name="sdendnote12sym">12</a>Zob. Magda Szcześniak, „<em>Chytra baba z Radomia” – studium przypadku, </em>projekt „Wizjonerzy”, <a href="http://wizjonerzy.e.org.pl/Wizjonerzy/Teksty/Chytra-baba-z-Radomia-studium-przypadku/27" target="_blank" rel="noopener">http://wizjonerzy.e.org.pl/Wizjonerzy/Teksty/Chytra-baba-z-Radomia-studium-przypadku/27</a>, dostęp 25 maja 2018.</p>
+<p><a href="#sdendnote13anc" name="sdendnote13sym">13</a>Zob. np. Marcin Kącki, <em>Lepperiada…</em>, s. 78–85.</p>
+<p><a href="#sdendnote14anc" name="sdendnote14sym">14</a>Zob. np. Rafał Pleśniak, <em>Orła cień, </em>„Wprost” 2000, nr 16, s. 8; Adam Romer, <em>Lepper rozdawał krawaty, </em>„Gazeta Wyborcza” z 18 września 2001.</p>
+<p><a href="#sdendnote15anc" name="sdendnote15sym">15</a><em>Jak to się robi? Rozmowa z Piotrem Tymochowiczem, </em>„Marketingpolityczny.org” z 28 października 2012, <a href="http://www.marketingpolityczny.org/jak-to-sie-robi-rozmowa-z-piotrem-tymochowiczem" target="_blank" rel="noopener">http://www.marketingpolityczny.org/jak-to-sie-robi-rozmowa-z-piotrem-tymochowiczem</a>, dostęp 25 maja 2018.</p>
+<p><a href="#sdendnote16anc" name="sdendnote16sym">16</a>Marcin Kącki, <em>Lepperiada…</em>, s. 9-10.</p>
+<p><a href="#sdendnote17anc" name="sdendnote17sym">17</a>Magda Szcześniak, <em>„Chytra baba…</em>.</p>
+<p><a href="#sdendnote18anc" name="sdendnote18sym">18</a>Ibidem.</p>
+<p><a href="#sdendnote19anc" name="sdendnote19sym">19</a>Na temat „dyspozycji estetycznej” jako dystynktywnego wyrazu uprzywilejowanej pozycji klasowej zob. Pierre Bourdieu, <em>Dystynkcja. Społeczna krytyka władzy sądzenia</em>, przeł. P. Biłos, Scholar, Warszawa 2005, s. 74. Por. też Magda Szcześniak, <em>Normy widzialności. Tożsamość w czasach transformacji</em>, Fundacja Bęc Zmiana – Instytut Kultury Polskiej UW, Warszawa 2016, s. 115–121.</p>
+<p><a href="#sdendnote20anc" name="sdendnote20sym">20</a>Ibidem.</p>
+<p><a href="#sdendnote21anc" name="sdendnote21sym">21</a>O stereotypie jako figurze wizualnej zob. W.J.T. Mitchell, <em>Seeing Through Race, </em>Harvard University Press, Cambridge 2012.</p>
+<p><a href="#sdendnote22anc" name="sdendnote22sym">22</a>Zob. Monika Bobako, <em>Konstruowanie odmienności klasowej jako urasowianie. Przypadek polski po 1989 roku</em>, w: <em>Podziały klasowe i nierówności społeczne. Refleksje po dwóch dekadach realnego kapitalizmu w Polsce</em>, red. P. Żuk, Oficyna Naukowa, Warszawa 2013; Etienne Balibar, Immanuel Wallerstein, <em>Race, Nation, Class. Ambigous Identities</em>, Verso, London–New York 1991. Por. z koncepcją „Murzyna głębokiego” w: Achille Mbembe, <em>Polityka wrogości. Nekropolityka</em>, przeł. U. Kropiwiec, K. Bojarska, Karakter, Kraków 2018, s. 185–186.</p>
+<p><a href="#sdendnote23anc" name="sdendnote23sym">23</a>Przemysław Czapliński, <em>Śmierć, śmierć, inne życie. Wieś w literaturze polskiej przełomu XX i XXI wieku, </em>„Teksty Drugie” 2017, nr 6, s. 23.</p>
+<p><a href="#sdendnote24anc" name="sdendnote24sym">24</a>W głośnym wywiadzie z maja 2016 roku Przemysław Czapliński wskazywał na wzbudzanie wstydu jako jedną z głównych afektywnych strategii tożsamościotwórczych i modernizacyjnych w Polsce: „Widzimy to u schyłku Oświecenia, kiedy mieliśmy kampanię zawstydzania wzorców osobowościowych Sarmaty, szlachcica, podobnie było po przegranym powstaniu styczniowym i po odzyskaniu niepodległości w 1918 r. […] U podstaw III RP leżą trzy wstydy założycielskie: z powodu niedawnego życia w Peerelu, pokątnych narodzin kapitalizmu i tradycyjnej katolickiej tożsamości”, <em>Czas na horror. Z Przemysławem Czaplińskim rozmawia Grzegorz Sroczyński</em>, „Duży Format” – dodatek do „Gazety Wyborczej” z 25 maja 2016, s. 14. Por. także Przemysław Czapliński, <em>Wojna wstydów</em>, „Teksty Drugie” 2016, nr 4, s. 349–401; James Wilce, <em>Jak wstyd rozprzestrzenia się w nowoczesności</em>, przeł. P. Czapliński, „Teksty Drugie” 2016, nr 4, s. 213–234.</p>
+<p><a href="#sdendnote25anc" name="sdendnote25sym">25</a>„Od zachowania i działania Leppera w mediach i szerokich kręgach społecznych rozpowszechniło się określenie »lepperyzm« na zdefiniowanie określonych postaw roszczeniowych i rozwiązywania spraw spornych dotyczących nie tylko chłopów”. Mirosława Drozd-Piasecka, <em>Andrzej Lepper – chłopski przywódca charyzmatyczny? </em>(<em>Wizerunek medialny przewodniczącego „Samoobrony”</em>), „Etnografia Polska” 2001, nr 45, z. 1–2, s. 49.</p>
+<p><a href="#sdendnote26anc" name="sdendnote26sym">26</a><em>Napalony na władzę Mulat</em>. Z Andrzejem Lepperem rozmawia Piotr Najsztub, „Wp.pl” z 31 lipca 2003, <a href="https://wiadomosci.wp.pl/napalony-na-wladze-mulat-6037167356744833a" target="_blank" rel="noopener">https://wiadomosci.wp.pl/napalony-na-wladze-mulat-6037167356744833a</a>, dostęp 25 maja 2018.</p>
+<p><a href="#sdendnote27anc" name="sdendnote27sym">27</a>Zob. W.J.T. Mitchell, <em>Czego chcą obrazy?, </em>przeł. Ł. Zaremba, Narodowe Centrum Kultury, Warszawa 2013.</p>
+<p><a href="#sdendnote28anc" name="sdendnote28sym">28</a>Zdaję sobie oczywiście sprawę z kariery, jaką zrobiło określenie „pedagogika wstydu” w prawicowych dyskursach medialnych, tutaj podążam jednak za teorią „polityki afektywnej” i rozpoznaniami Przemysława Czaplińskiego, rezygnując z refleksji nad dialektyczną relacją „narodowych” dumy i wstydu w kontekście prawicowej polityki historycznej. Por. Jakub Majmurek, <em>III RP, czyli dwie cele wstydu</em>, „Krytykapolityczna.pl” z 13 lipca 2013, <a href="http://krytykapolityczna.pl/kraj/majmurek-iii-rp-czyli-dwie-cele-wstydu/" target="_blank" rel="noopener">http://krytykapolityczna.pl/kraj/majmurek-iii-rp-czyli-dwie-cele-wstydu/</a>, dostęp 25 maja 2018.</p>
+<p><a href="#sdendnote29anc" name="sdendnote29sym">29</a>Por. Marcin Stachowicz, <em>Widoki wstydu. Prorozwojowe zawstydzanie i wizualna ekologia</em>, „Więź” 2016, nr 3, s. 208–216.</p>
+<p><a href="#sdendnote30anc" name="sdendnote30sym">30</a>Mirosława Drozd-Piasecka, <em>Andrzej Lepper…</em>, s. 53.</p>
+<p><a href="#sdendnote31anc" name="sdendnote31sym">31</a>Marcin Kącki, <em>Lepperiada…</em>, s. 7.</p>
+<p><a href="#sdendnote32anc" name="sdendnote32sym">32</a>Ibidem, s. 9.</p>
+<p><a href="#sdendnote33anc" name="sdendnote33sym">33</a>Ibidem, s. 7–9.</p>
+<p><a href="#sdendnote34anc" name="sdendnote34sym">34</a>Ibidem, s. 7.</p>
+<p><a href="#sdendnote35anc" name="sdendnote35sym">35</a>Ibidem, s. 7–8.</p>
+<p><a href="#sdendnote36anc" name="sdendnote36sym">36</a>Ibidem, s. 7–22.</p>
+<p><a href="#sdendnote37anc" name="sdendnote37sym">37</a>Jest to obecnie jedna z najczęściej powielanych fotografii Andrzeja Leppera z lat 90., przypominana na blogach i w artykułach w prasie papierowej i internetowej. W wyszukiwarce Google po wpisaniu frazy „Andrzej Lepper lata 90.” pojawia się już na trzeciej pozycji. Zob. np. Radż, <em>Niesamowite metamorfozy. Metamorfozy – tak zmieniali się politycy</em>, „Fakt.pl” z 25 września 2014, <a href="https://www.fakt.pl/wydarzenia/polityka/najwieksze-metamorfozy-polskich-politykow-z-przecietniakow-gwiazdy/b023bnq#slajd-18" target="_blank" rel="noopener">https://www.fakt.pl/wydarzenia/polityka/najwieksze-metamorfozy-polskich-politykow-z-przecietniakow-gwiazdy/b023bnq#slajd-18</a>, dostęp 20 listopada 2018; Red., <em>Pierwsza rocznica śmierci Andrzeja Leppera, </em>„Onet.pl” z 5 sierpnia 2012, <a href="https://wiadomosci.onet.pl/kraj/pierwsza-rocznica-smierci-andrzeja-leppera/nry01" target="_blank" rel="noopener">https://wiadomosci.onet.pl/kraj/pierwsza-rocznica-smierci-andrzeja-leppera/nry01</a>, dostęp 20 listopada 2018.</p>
+<p><a href="#sdendnote38anc" name="sdendnote38sym">38</a>Zob. np. Krystyna Naszkowska, <em>Nowy Szela</em>, „Gazeta Wyborcza” z 4 lipca 1992; Jacek Hugo-Bader, <em>Lepperiada, </em>„Gazeta Wyborcza” z 20 stycznia 1993; Adam Michnik, <em>Gdy w Polsce szaleje Lepper</em>, „Gazeta Wyborcza” z 4 lutego 1999; Witold Gadomski, <em>Lepper i grzech zaniechania</em>, „Gazeta Wyborcza” z 9 lutego 1999; Jacek Szczęsny i inni, <em>Chłopska droga</em>, „Wprost.pl” z 31 stycznia 1999, <a href="https://www.wprost.pl/2991/mob.html" target="_blank" rel="noopener">https://www.wprost.pl/2991/mob.html</a>, dostęp 20 listopada 2018; Bogusław Mazur, <em>Argument kos</em>, „Wprost” 1998, nr 20, s. 30–31; Aleksander Chećko, <em>Skuty na cztery nogi</em>, „Polityka” 2000, nr 16, s. 30–31.</p>
+<p><a href="#sdendnote39anc" name="sdendnote39sym">39</a>Zob. np. fotografia Jarosława Stachowicza ilustrująca artykuł Janiny Paradowskiej <em>Przegrana gra Andrzeja Leppera</em>, „Polityka.pl” z 15 sierpnia 2011, <a href="https://www.polityka.pl/tygodnikpolityka/kraj/1518476,1,przegrana-gra-andrzeja-leppera.read" target="_blank" rel="noopener">https://www.polityka.pl/tygodnikpolityka/kraj/1518476,1,przegrana-gra-andrzeja-leppera.read</a>, dostęp 20 listopada 2018; albo zdjęcie Jakuba Ostałowskiego do tekstu Jarosława Stóżyka i Wojciecha Wybranowskiego, <em>Lider Samoobrony nie żyje, „</em>Archiwum.rp.pl” z 6 sierpnia 2011, <a href="http://archiwum.rp.pl/artykul/1068495-Lider-Samoobrony-nie-zyje.html" target="_blank" rel="noopener">http://archiwum.rp.pl/artykul/1068495-Lider-Samoobrony-nie-zyje.html</a>, dostęp 20 listopada 2018.</p>
+<p><a href="#sdendnote40anc" name="sdendnote40sym">40</a>Wystarczy zajrzeć na przykład do przygotowanej przez portal „Wirtualna Polska” galerii okolicznościowej z okazji premiery książki <em>Czas gniewu</em> Krasowskiego. Jeden z slajdów (nr 3) składa się z fotografii Leppera w kajdankach i nagłówka <em>Rozbierał do naga i chłostał.</em> W tym samym artykule możemy również oglądać zupełnie zwyczajne fotografie portretowe premiera Leszka Millera. Zob. js, <em>Tajemnica sukcesu Leppera…</em></p>
+<p><a href="#sdendnote41anc" name="sdendnote41sym">41</a>Zob. Magda Szcześniak, <em>Normy widzialności…</em>, szczególnie s. 110–130.</p>
+<p><a href="#sdendnote42anc" name="sdendnote42sym">42</a>Przemysław Czapliński, <em>Śmierć, śmierć…</em>, s. 20.</p>
+<p><a href="#sdendnote43anc" name="sdendnote43sym">43</a>Zob. Judith Butler, <em>Zapiski o performatywnej teorii zgromadzeń, </em>przeł. J. Bednarek, Wydawnictwo Krytyki Politycznej, Warszawa 2016.</p>
+<p><a href="#sdendnote44anc" name="sdendnote44sym">44</a>Na temat koncepcji kontr- czy przeciwwizualności (<em>countervisuality</em>) jako „żądania prawa do patrzenia”, ale także do „bycia widzianym” zob. Nicholas Mirzoeff, <em>The Right To Look. A Counterhistory of Visuality</em>, Duke University Press, Durham 2011, s. 22–30.</p>
+<p><a href="#sdendnote45anc" name="sdendnote45sym">45</a>Przemysław Czapliński, <em>Śmierć, śmierć…</em>, s. 20–21.</p>
+<p><a href="#sdendnote46anc" name="sdendnote46sym">46</a>Ibidem, s. 22.</p>
+<p><a href="#sdendnote47anc" name="sdendnote47sym">47</a>Ibidem, s. 23.</p>
+<p><a href="#sdendnote48anc" name="sdendnote48sym">48</a>Ibidem, s. 24.</p>
+<p><a href="#sdendnote49anc" name="sdendnote49sym">49</a>Zob. także Przemysław Czapliński, <em>Wojna wstydów…</em>; idem, <em>Poruszona mapa</em>, Wydawnictwo Literackie, Kraków 2016; <em>Czas na horror…</em>, s. 14.<em></em></p>
+<p><a href="#sdendnote50anc" name="sdendnote50sym">50</a>Na temat wizualności jako nowoczesnego porządku władzy i praktyki jej sprawowania zob. Nicholas Mirzoeff, <em>The Right To Look…</em>, szczególnie s. 1–117.</p>
+<p><a href="#sdendnote51anc" name="sdendnote51sym">51</a>Jak pisze Waldemar Kuligowski, „zaliczenie całej populacji chamów do zbioru niewolników potwierdza kłopot (nie tylko antropologów) z kategorią chłopstwa, która pojawiła się jako nowy, prototypowy inny i została skonstruowana według logiki przypominającej opozycję prymitywne/nowoczesne […] nie istniała jedna, homogeniczna, podlegająca prawodawstwu, skutecznie przywiązana do ziemi masa chłopska; jej podmiotowe ujmowanie wymaga korekty tego nośnego i perswazyjnego obrazu”. Waldemar Kuligowski, <em>Chamska historia Polski. Tezy i antytezy</em>, „Czas Kultury” 2016, nr 3, s. 77. Por. Kacper Pobłocki, <em>Niewolnictwo po polsku</em>, „Czas Kultury” 2016, nr 3, s. 62–68.</p>
+<p><a href="#sdendnote52anc" name="sdendnote52sym">52</a>Przemysław Czapliński, <em>Śmierć, śmierć…</em>, s. 20.</p>
+<p><a href="#sdendnote53anc" name="sdendnote53sym">53</a>Marcin Kącki, <em>Lepperiada…</em>, s. 7–10. To „psie” porównanie nabiera dodatkowego znaczenia, kiedy przypomnimy sobie fragmenty <em>Ferdydurke</em> Witolda Gombrowicza o chłopach-psach, których „miejski”, inteligencki bohater widzi właśnie jako istoty silne wyłącznie w gromadzie (Andrzej Leder pisze w tym kontekście, że chłopi stają się tu „groźną watahą, morderczą dla każdego obcego”), a indywidualnie – śmiertelnie przerażone, groteskowe: „Z pobliskiego dołu po kartoflach wyjrzała głowa chłopia i natychmiast skryła się z powrotem, a gdyśmy podeszli bliżej, z jamy ozwało się wściekłe ujadanie […]. Ale już z opłotków wynurzała się cała wieś szczekając i warcząc: – Bierzta go, kumie! Nie bójta się! (…) Bierzta Inteligencję!”. Witold Gombrowicz, <em>Ferdydurke</em>, Wydawnictwo Literackie, Kraków-Warszawa 1997, s. 192-195. Zob. też Andrzej Leder, <em>Prześniona rewolucja. Ćwiczenie z logiki historycznej</em>, Wydawnictwo Krytyki Politycznej, Warszawa 2013, s. 101–105.</p>
+<p><a href="#sdendnote54anc" name="sdendnote54sym">54</a>Marcin Kącki, <em>Lepperiada…</em>, s. 8.</p>
+<p><a href="#sdendnote55anc" name="sdendnote55sym">55</a>Ibidem, s. 7.</p>
+<p><a href="#sdendnote56anc" name="sdendnote56sym">56</a>Ibidem, s. 8.</p>
+<p><a href="#sdendnote57anc" name="sdendnote57sym">57</a>Zob. Magda Szcześniak, <em>Normy widzialności…</em>, s. 24–37<em>.</em></p>
+<p><a href="#sdendnote58anc" name="sdendnote58sym">58</a>Mirosława Drozd-Piasecka, <em>Andrzej Lepper…</em>, s. 52.</p>
+<p><a href="#sdendnote59anc" name="sdendnote59sym">59</a><em>Ładny plon mi wyrósł. Z Andrzejem Lepperem rozmawia Jarosław Kurski</em>, „Wyborcza.pl” z 4 października 2000, <a href="http://wyborcza.pl/1,76842,10071948,Ladny_plon_mi_wyrosl.html" target="_blank" rel="noopener">http://wyborcza.pl/1,76842,10071948,Ladny_plon_mi_wyrosl.html</a>, dostęp 25 maja 2018.</p>
+<p><a href="#sdendnote60anc" name="sdendnote60sym">60</a>Zob. Andrzej Lepper, <em>Każdy kij ma dwa końce</em>, Towarzystwo Wydawnicze i Literackie, Warszawa 2001; idem, <em>Czas barbarzyńców</em>, Depo, Warszawa 2005.</p>
+<p><a href="#sdendnote61anc" name="sdendnote61sym">61</a>Mirosława Drozd-Piasecka, <em>Andrzej Lepper…</em>, s. 73.</p>
+<p><a href="#sdendnote62anc" name="sdendnote62sym">62</a>Przemysław Czapliński, <em>Śmierć, śmierć…</em>, s. 23.</p>
+<p><a href="#sdendnote63anc" name="sdendnote63sym">63</a>Por. Nicholas Mirzoeff, <em>The Right to Look…</em>, s. 15–16.</p>
+<p><a href="#sdendnote64anc" name="sdendnote64sym">64</a>Przemysław Czapliński, <em>Śmierć, śmierć…</em>, s. 21.</p>
+<p><a href="#sdendnote65anc" name="sdendnote65sym">65</a>Ibidem, s. 22.</p>
+<p><a href="#sdendnote66anc" name="sdendnote66sym">66</a>Nicholas Mirzoeff, <em>The Right to Look…</em>, s. 30. Por. Natasha Lennard, Nicholas Mirzoeff, <em>What Protest Looks Like</em>, „The New York Times” z 3 sierpnia 2016, <a href="https://www.nytimes.com/2016/08/03/opinion/what-protest-looks-like.html" target="_blank" rel="noopener">https://www.nytimes.com/2016/08/03/opinion/what-protest-looks-like.html</a>, dostęp 21 maja 2018; Nicholas Mirzoeff, <em>The Appearance of Black Lives Matter</em>, „[NAME]” 2017, s. 90–91, .<a href="http://namepublications.org/item/2017/the-appearance-of-black-lives-matter/" target="_blank" rel="noopener">http://namepublications.org/item/2017/the-appearance-of-black-lives-matter/</a>, dostęp 21 maja 2018.</p>
+<p><a href="#sdendnote67anc" name="sdendnote67sym">67</a> Nicholas Mirzoeff, <em>The Right to Look…</em>, s. 31.</p>
+<p><a href="#sdendnote68anc" name="sdendnote68sym">68</a>Ibidem, rozdział <em>The Ordering of Slavery</em>, s. 46–76.</p>
+<p><a href="#sdendnote69anc" name="sdendnote69sym">69</a>Zob. Michel Foucault, <em>Nadzorować i karać. Narodziny więzienia</em>, przeł. T. Komendant, Aletheia, Warszawa 2009.</p>
+<p><a href="#sdendnote70anc" name="sdendnote70sym">70</a>Nicholas Mirzoeff, <em>The Right to Look…</em>, s. 80.</p>
+<p><a href="#sdendnote71anc" name="sdendnote71sym">71</a>Zob. Maciej Górny, <em>Wielka Wojna profesorów. Nauki o człowieku (1912–1923)</em>, Instytut Historii PAN, Warszawa 2014.</p>
+<p><a href="#sdendnote72anc" name="sdendnote72sym">72</a>Ibidem, s. 181.</p>
+<p><a href="#sdendnote73anc" name="sdendnote73sym">73</a>Ibidem, s. 172–179.</p>
+<p><a href="#sdendnote74anc" name="sdendnote74sym">74</a>Zob. Anna Engelking, <em>„Poleszuk” nieoswojony. Wokół funkcji chłopskości w konstruowaniu polskości</em>, „Teksty Drugie” 2017, nr 6, s. 68–94.</p>
+<p><a href="#sdendnote75anc" name="sdendnote75sym">75</a>Michał Marczak, <em>Ze spostrzeżeń nad Poleszukami</em>, „Ziemia” 1935, nr 6–7, s. 134.</p>
+<p><a href="#sdendnote76anc" name="sdendnote76sym">76</a>Zob. np. Tomasz Zarycki, <em>Modernizacja kulturowa i psychologiczna jako ideologia inteligenckiej hegemonii</em>, „Przegląd Socjologiczny” 2015, t. 64, nr 2, s. 45–68; Rafał Smoczyński, Tomasz Zarycki, <em>Totem inteligencki. Arystokracja, szlachta i ziemiaństwo w polskiej przestrzeni społecznej</em>, Scholar, Warszawa 2017; Andrzej Leder, <em>Relacja folwarczna</em>, „Krytykapolityczna.pl” z 24 grudnia 2016, <a href="http://krytykapolityczna.pl/kraj/leder-relacja-folwarczna/" target="_blank" rel="noopener">http://krytykapolityczna.pl/kraj/leder-relacja-folwarczna/</a>, dostęp 25 maja 2018; Jan Śpiewak, <em>Dobra zmiana, czyli o zmianie, której nie było</em>, <a href="https://janspiewak.pl/blog/2018-03-30-dobra-zmiana%E2%80%9D-czyli-o-zmianie-kt%C3%B3rej-nie-by%C5%82o/" target="_blank" rel="noopener">https://janspiewak.pl/blog/2018-03-30-dobra-zmiana%E2%80%9D-czyli-o-zmianie-kt%C3%B3rej-nie-by%C5%82o/</a>, dostęp 25 maja 2018.</p>
+<p><a href="#sdendnote77anc" name="sdendnote77sym">77</a>Por. Marcin Stachowicz, <em>Widoki wstydu…</em></p>
+<p><a href="#sdendnote78anc" name="sdendnote78sym">78</a>Zob. Magda Szcześniak, Łukasz Zaremba, <em>Za wizualnym śmietnikiem</em>, „Dwutygodnik.com” 2014, nr 104, <a href="http://www.dwutygodnik.com/artykul/4386-za-wizualnym-smietnikiem.html" target="_blank" rel="noopener">http://www.dwutygodnik.com/artykul/4386-za-wizualnym-smietnikiem.html</a>, dostęp 27 lipca 2016; Łukasz Zaremba, <em>Polobrazy, krajobraz i to, co wspólne</em>, „Widok. Teorie i Praktyki Kultury Wizualnej” 2014, nr 8, <a href="http://pismowidok.org/index.php/one/article/view/266/469" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/article/view/266/469</a>, dostęp 27 lipca 2018.</p>
+<p><a href="#sdendnote79anc" name="sdendnote79sym">79</a>Zob. Hito Steyerl, <em>W obronie nędznego obrazu</em>, przeł. Ł. Zaremba, „Konteksty” 2013, nr 3, s. 101; eadem, <em>Spam ziemi. O wycofaniu się z reprezentacji</em>, przeł. Ł. Zaremba, „Widok. Teorie i Praktyki Kultury Wizualnej” 2014, nr 5, <a href="http://pismowidok.org/index.php/one/article/view/179/271" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/article/view/179/271</a>, dostęp 20 listopada 2018. Por. też Łukasz Zaremba, <em>Męki obrazów,</em> „Widok. Teorie i Praktyki Kultury Wizualnej” 2014, nr 5, <a href="http://pismowidok.org/index.php/one/article/view/169/284" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/article/view/169/284</a>, dostęp 20 listopada 2018.</p>
+<p><a href="#sdendnote80anc" name="sdendnote80sym">80</a>Mirosława Drozd-Piasecka<em>, Andrzej Lepper…</em>, szczególnie s. 60–65.</p>
+<p><a href="#sdendnote81anc" name="sdendnote81sym">81</a><em>Zarycki (I): Hipokryzja na peryferiach.</em> Aleksandra Bilewicz rozmawia z Tomaszem Zaryckim, „Nowe-peryferie.pl” <br>z 19 stycznia 2015, <a href="https://nowe-peryferie.pl/index.php/2015/01/hipokryzja-peryferiach-czesc/" target="_blank" rel="noopener">https://nowe-peryferie.pl/index.php/2015/01/hipokryzja-peryferiach-czesc/</a>, dostęp 25 maja 2018. Por. <em>Polska jako peryferie</em>, red. T. Zarycki, Scholar, Warszawa 2016.</p>
+<p><a href="#sdendnote82anc" name="sdendnote82sym">82</a><em>Zarycki (I): Hipokryzja na peryferiach…</em></p>
+<p><a href="#sdendnote83anc" name="sdendnote83sym">83</a>Por. Magda Szcześniak, <em>Normy widzialności…</em>, s. 138–139.</p>
+<p><a href="#sdendnote84anc" name="sdendnote84sym">84</a>Zob. np. wypowiedzi Jamesa Baldwina w filmie <em>I Am Not Your Negro</em>, reż. Raoul Peck, 2016. Por. James Baldwin, <em>The Fire Next Time, </em>Penguin Books, London 1990.</p>
+<p><a href="#sdendnote85anc" name="sdendnote85sym">85</a>Por. Magda Szcześniak, <em>Normy widzialności…</em>, s. 21–23.</p>
+<p><a href="#sdendnote86anc" name="sdendnote86sym">86</a><em>Ładny plon mi wyrósł…</em></p>
+<p><a href="#sdendnote87anc" name="sdendnote87sym">87</a>Ibidem.</p>
+<p><a href="#sdendnote88anc" name="sdendnote88sym">88</a>Aleksander Chećko, <em>Skuty na cztery nogi, </em>„Polityka” 2000, nr 16, s. 18. Por. Marcin Kącki, <em>Lepperiada…</em>, s. 14–17.</p>
+<p><a href="#sdendnote89anc" name="sdendnote89sym">89</a>Mirosława Drozd-Piasecka, <em>Andrzej Lepper…</em>, s. 55–56. Por. Janina Paradowska, <em>Blok z blokady</em>, „Polityka” 2000, nr 5, s. 31.</p>
+<p><a href="#sdendnote90anc" name="sdendnote90sym">90</a>Lech Falandysz, <em>Europejczyk Lepper</em>, „Wprost” 1999, nr 6, s. 107.</p>
+<p><a href="#sdendnote91anc" name="sdendnote91sym">91</a>Ibidem.</p>
+<p><a href="#sdendnote92anc" name="sdendnote92sym">92</a>Ibidem.</p>
+<p><a href="#sdendnote93anc" name="sdendnote93sym">93</a>Zob. np. Nicholas Mirzoeff, <em>Diana’s Death. Gender, Photography and the Inauguration of Global Culture</em>, w: idem, <em>An Introduction to Visual Culture</em>, Routledge, London 1999, s. 231–254. Por. Judith Butler, <em>Zapiski o performatywnej teorii…</em>, szczególnie s. 80–85.</p>
+<p><a href="#sdendnote94anc" name="sdendnote94sym">94</a>Zob. np. Leszek K. Talko, Wojciech Maziarski, <em>Wielki Brat Puszcza Balony</em>, „Gazeta Wyborcza” z 6 stycznia 2000, s. 12; Luiza Zalewska, <em>Wielki brat małych ludzi, </em>„Rzeczpospolita” z 25 listopada 2000, <a href="http://archiwum.rp.pl/artykul/311054_Wielki_Brat_malych_ludzi.html" target="_blank" rel="noopener">http://archiwum.rp.pl/artykul/311054_Wielki_Brat_malych_ludzi.html</a>, dostęp 20 listopada 2018; Piotr Zaremba, <em>Egzamin z Big Brothera, </em>„Onet.pl” z 15 maja 2001, <a href="https://kultura.onet.pl/wiadomosci/egzamin-z-big-brothera/0yrhyl5" target="_blank" rel="noopener">https://kultura.onet.pl/wiadomosci/egzamin-z-big-brothera/0yrhyl5</a>, dostęp 20 listopada 2018.</p>
+<p><a href="#sdendnote95anc" name="sdendnote95sym">95</a>„<em>Czerń</em> to słowo, które zna każdy czytelnik <em>Ogniem i mieczem</em>, pojawia się tam ono dziesiątki razy. Znaczenie wcale nie jest oczywiste. Genealogicznie określenie odnosi się do najniższej grupy społecznej, to jest chłopów pańszczyźnianych na dawnej Litwie i Ukrainie. Sienkiewicz pozbawia <em>czerń</em> podstwowych odruchów społecznych […] Jej krwawe działania nie dadzą się klasyfikować moralnie, unicestwianie czerni nie jest opisywane jak zabijanie ludzi, ale przypomina operację higieniczną […]. Wśród czerni nie ma jednostek. Jest rozpętana i dzika…”, w: Ryszard Koziołek, <em>Wybuchowe znaki</em>, „Pismo. Magazyn Opinii” 2018, nr 5, s. 79.</p>
+<p><a href="#sdendnote96anc" name="sdendnote96sym">96</a>Marcin Kącki, <em>Lepperiada…</em>, s. 12.</p>
+<p><a href="#sdendnote97anc" name="sdendnote97sym">97</a> Ibidem, s. 12–13.</p>
+<p><a href="#sdendnote98anc" name="sdendnote98sym">98</a> Józef Obrębski, <em>Legenda leśnych ludzi</em>, w: idem, <em>Polesie. Studia etnosocjologiczne</em>, t. 1, oprac. A. Engelking, Oficyna Naukowa, Warszawa 2007, s. 443.</p>
+<p><a href="#sdendnote99anc" name="sdendnote99sym">99</a> Nagrobki, <em>Rabacja</em>, YouTube.pl z 4 października 2018, <a href="https://www.youtube.com/watch?v=60G-Wbcq5GI" target="_blank" rel="noopener">https://www.youtube.com/watch?v=60G-Wbcq5GI</a>, dostęp 20 listopada 2018.</p>
+<p><a href="#sdendnote100anc" name="sdendnote100sym">100</a> Zob. np. Anna Szulc, <em>Wakacje nad Bałtykiem? – Mamy najazd Hunów – mówi doświadczony ratownik z Pomorza, </em>„Newsweek.pl” z 31 lipca 2016, <a href="http://www.newsweek.pl/polska/polacy-nad-baltykiem-czyli-najazd-hunow-panstwo-kiepscy-i-mlynarska,artykuly,394671,1.html" target="_blank" rel="noopener">http://www.newsweek.pl/polska/polacy-nad-baltykiem-czyli-najazd-hunow-panstwo-kiepscy-i-mlynarska,artykuly,394671,1.html</a>, dostęp 13 grudnia 2018.</p>
+<p><a href="#sdendnote101anc" name="sdendnote101sym">101</a> Bruno Jasieński, <em>Słowo o Jakóbie Szeli</em>, „WolneLektury.pl”, <a href="https://wolnelektury.pl/media/book/pdf/slowo-o-jakobie-szeli.pdf" target="_blank" rel="noopener">https://wolnelektury.pl/media/book/pdf/slowo-o-jakobie-szeli.pdf</a>, dostęp 20 listopada 2018.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/21-praca-niewidzialna/produkcja-poetycka-jako-praca-niematerialna" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

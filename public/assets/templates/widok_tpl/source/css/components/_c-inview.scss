@@ -1,0 +1,71 @@
+/* animations when elements show up in viewport */
+
+/* keyframes */
+
+@keyframes anim-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(100px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@-webkit-keyframes anim-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(100px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* default elements state */
+
+.js-inview-reveal {
+  opacity: 0;
+  transform: translateY(100px);
+}
+
+/* fallback */
+
+html.ie8,
+html.ie9,
+html.no-js {
+  .js-inview-reveal {
+    opacity: 1 !important;
+    transform: translateY(0);
+  }
+}
+
+/* detection */
+
+.is-inview-reveal {
+  animation-name: anim-reveal;
+  animation-duration: .5s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+  -webkit-animation-name: anim-reveal;
+  -webkit-animation-duration: .5s;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-timing-function: ease;
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-name: anim-reveal;
+  -moz-animation-duration: .5s;
+  -moz-animation-iteration-count: 1;
+  -moz-animation-timing-function: ease;
+  -moz-animation-fill-mode: forwards;
+}
+
+section.is-inview-reveal,
+footer.is-inview-reveal {
+  opacity: 0;
+  animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+}

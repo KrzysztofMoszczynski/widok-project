@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.4.2" xsi:schemaLocation="http://www.crossref.org/schema/4.4.2  http://www.crossref.org/schemas/crossref4.4.2.xsd">
+	<head>
+		<doi_batch_id>10.36854.2</doi_batch_id>
+		<timestamp>20200422230304</timestamp>
+		<depositor>
+			<depositor_name>wfkw</depositor_name>
+			<email_address>redakcja@pismowidok.org</email_address>
+		</depositor>
+		<registrant>Widok. Fundacja Kultury Wizualnej</registrant>
+	</head>
+	<body>
+	<journal>
+		<journal_metadata language="pl">
+				<full_title>Widok. Teorie i Praktyki Kultury Wizualnej</full_title>
+				<abbrev_title>Widok</abbrev_title>
+				<issn media_type="electronic">2300-200X</issn>
+				<doi_data>
+					<doi>10.36854/widok/</doi>
+					<resource>http://pismowidok.org</resource>
+				</doi_data>
+			</journal_metadata>
+						<journal_issue>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>XXX</given_name>
+						<surname>XXX</surname>
+						<affiliation>XXX</affiliation>
+						<ORCID>https://orcid.org/0000-1111-0000-1111</ORCID>
+					</person_name>
+					<person_name sequence="additional" contributor_role="editor">
+						<given_name>XXX</given_name>
+						<surname>XXX</surname>
+						<affiliation>XXX</affiliation>
+						<ORCID>https://orcid.org/0000-1111-0000-2211</ORCID>
+					</person_name>
+				</contributors>
+				<titles>
+  					<title>XXX</title>
+					<original_language_title language="pl">XXX</original_language_title>
+				</titles>
+				<publication_date media_type="online">
+					<year>2020</year>
+				</publication_date>
+				<issue>11</issue>
+				<doi_data>
+					<doi>10.36854/widok/2020.11</doi>
+					<resource>XXX</resource>
+				</doi_data>
+			</journal_issue>
+	
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Response to Andrzej Marzec</title>
+					<original_language_title language="pl">Odpowiedź na recenzję Andrzeja Marca</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Ewa</given_name>
+						<surname>Domańska</surname><affiliation>Department of History at the Adam Mickiewicz University in Poznań </affiliation><ORCID>https://orcid.org/0000-0003-0875-976X</ORCID>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.1981</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/odpowiedz-na-recenzje-andrzeja-marca</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>The Veil and Fascism</title>
+					<original_language_title language="pl">Zasłona i faszyzm</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Michał</given_name>
+						<surname>Pospiszyl</surname><affiliation>Institute of Political Studies of the Polish Academy of Sciences</affiliation><ORCID>https://orcid.org/0000-0002-7889-3692</ORCID>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2040</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/zaslona-i-faszyzm</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>War, violence, anti-fascism</title>
+					<original_language_title language="pl">Wojna, przemoc, antyfaszyzm</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Marta</given_name>
+						<surname>Rakoczy</surname><affiliation>Institute of Polish Culture at the University of Warsaw</affiliation><ORCID>https://orcid.org/0000-0002-7967-2939</ORCID>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2070</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/wokol-wystawy-nigdy-wiecej</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>A Book of Her Own: R. H. Quaytman’s Visual Historiography</title>
+					<original_language_title language="pl">A Book of Her Own</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Marta</given_name>
+						<surname>Rakoczy</surname><affiliation>Institute of Polish Culture at the University of Warsaw</affiliation><ORCID>https://orcid.org/0000-0002-7967-2939</ORCID>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2013</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/a-book-of-her-own</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Haiti and Speculative History</title>
+					<original_language_title language="pl">Haiti i historia spekulatywna</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Dorota</given_name>
+						<surname>Sosnowska</surname><affiliation>Institute of Polish Culture, University of Warsaw</affiliation><ORCID>https://orcid.org/0000-0002-6073-460X</ORCID>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2042</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/haiti-i-historia-spekulatywna</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Never Embrace Burning Statues </title>
+					<original_language_title language="pl">Nie obejmuj płonących posągów</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Róża</given_name>
+						<surname>Duda</surname><affiliation>michalsoja.pl</affiliation>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2085</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/nie-obejmuj-plonacych-posagow</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>So It’s War</title>
+					<original_language_title language="pl">A więc wojna</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Agnieszka</given_name>
+						<surname>Rayss</surname><affiliation>Culture.pl</affiliation>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2087</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/a-wiec-wojna</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Barren Battles: Reconstruction</title>
+					<original_language_title language="pl">Jałowe boje. Rekonstrukcja</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Iwona</given_name>
+						<surname>Kurz</surname><affiliation>academia.edu</affiliation>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2097</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/jalowe-boje.-rekonstrukcja</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Uncanny Histories</title>
+					<original_language_title language="pl">Historie niesamowite</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Agata</given_name>
+						<surname>Sierbińska</surname><affiliation>linkedin</affiliation><ORCID>https://orcid.org/0000-0003-1977-7955</ORCID>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2044</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/historie-niesamowite</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Other Images of the Past</title>
+					<original_language_title language="pl">Inne obrazy przeszłości</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Piotr</given_name>
+						<surname>Słodkowski</surname><affiliation>ORCID</affiliation>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2067</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/inne-obrazy-przeszlosci</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Semiocapitalism, Spectacle, Eikonomia, and the Function of Art</title>
+					<original_language_title language="pl">Semiocapitalism, Spectacle, Eikonomia, and the Function of Art</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Piotr</given_name>
+						<surname>Słodkowski</surname><affiliation>ORCID</affiliation>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2074</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/semiocapitalism-spectacle-eikonomia-and-the-function-of-art</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Rethinking Paleolithic Visual Culture</title>
+					<original_language_title language="pl">Rethinking Paleolithic Visual Culture</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Piotr</given_name>
+						<surname>Słodkowski</surname><affiliation>ORCID</affiliation>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2082</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/rethinking-paleolithic-visual-culture</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Black Woman's Gaze</title>
+					<original_language_title language="pl">Black Woman's Gaze</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Piotr</given_name>
+						<surname>Słodkowski</surname><affiliation>ORCID</affiliation>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2090</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/black-womans-gaze</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Statues and Status Quo</title>
+					<original_language_title language="pl">Statuy i status quo</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Łukasz</given_name>
+						<surname>Zaremba</surname><affiliation>Institute of Polish Culture, University of Warsaw</affiliation><ORCID>https://orcid.org/0000-0001-6945-7082</ORCID>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2058</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/statuy-i-status-quo</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Necrocartography</title>
+					<original_language_title language="pl">Nekrokartografia</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Łukasz</given_name>
+						<surname>Zaremba</surname><affiliation>Institute of Polish Culture, University of Warsaw</affiliation><ORCID>https://orcid.org/0000-0001-6945-7082</ORCID>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2062</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/nekrokartografia</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>“Product Not Available in Pre-War Quantities – but Quality Remains...</title>
+					<original_language_title language="pl">„Produkt niedostępny w ilościach sprzed wojny....”</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Magdalena</given_name>
+						<surname>Saryusz-Wolska</surname><affiliation>Institute of Contemporary Culture, University of Łódź</affiliation>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2059</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/produkt-niedostepny-w-ilosciach-sprzed-wojny</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Just Numbers</title>
+					<original_language_title language="pl">Just Numbers</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>Magdalena</given_name>
+						<surname>Saryusz-Wolska</surname><affiliation>Institute of Contemporary Culture, University of Łódź</affiliation>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2093</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/just-numbers</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>Historian's Eye and Voice of the History</title>
+					<original_language_title language="pl">Oko historyka a głos historii</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>François</given_name>
+						<surname>Hartog</surname>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2099</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/oko-historyka-a-glos-historii</resource>
+				</doi_data>
+			</journal_article>
+			
+			<journal_article publication_type="full_text" language="pl">
+				<titles>
+  					<title>History Is Present</title>
+					<original_language_title language="pl">Historia obecna</original_language_title>
+				</titles>
+				<contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>François</given_name>
+						<surname>Hartog</surname>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>25</issue>
+				<doi_data>
+					<doi>10.36854/widok/2019.25.2110</doi>
+					<resource>https://www.pismowidok.org/pl/archiwum/2019/25-historia-obecna/wstep-historia-obecna</resource>
+				</doi_data>
+			</journal_article>
+			
+		</journal>
+	</body>
+</doi_batch>

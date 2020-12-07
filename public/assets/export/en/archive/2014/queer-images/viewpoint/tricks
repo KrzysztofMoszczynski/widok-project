@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Tricks | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/queer-images/tricks">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Tricks | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Tricks | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/queer-images/tricks">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Tricks | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #f0f !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #f0f !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #f0f !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #f0f !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #f0f !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #f0f !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+			/* background-color:#f0f !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,0,255,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#f0f !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#f0f; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#f0f !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#f0f !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#f0f !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1454 parent-id-1412">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1410" data-selected-issue-color="#f0f" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/queer-obrazy/figle">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/queer-obrazy/figle">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/queer-images#toc">5</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/queer-images/tricks?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Playing Tricks</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/queer-images/tricks?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=301">Krzysztof Pijarski</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;">Anyone who belongs to a&nbsp;sphere of culture that&nbsp;seeks the perfect state somewhere in the past<br> must feel very queerly indeed when confronted by the figure of the trickster.</p> <p style="text-align: right;">C.G. Jung<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a></p> <p style="text-align: right;"></p> <p style="text-align: right;">He dressed up like&nbsp;a&nbsp;clown for&nbsp;them<br>With his face paint white and red<br>And on his best behavior<br>In a&nbsp;dark room on the bed he kissed them all<br>He'd kill ten thousand people<br>With a&nbsp;sleight of his hand<br>Running far, running fast to the dead<br>He took off&nbsp;all their clothes for&nbsp;them<br>He put a&nbsp;cloth on their lips<br>Quiet hands, quiet kiss<br>On the mouth<br><br>And in my best behavior<br>I am really just like&nbsp;him<br>Look beneath&nbsp;the floorboards<br>For the secrets I&nbsp;have hid</p> <p style="text-align: right;">Sufjan Stevens, <em>John Wayne Gacy, Jr.</em><a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a></p> </blockquote> <p></p> <blockquote> <p style="text-align: right;">After Kafka, we are all tricksters, evading our doom as best we can.</p> <p style="text-align: right;">Harold Bloom<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a></p> </blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/figle/186-2142-1-pb-1920x-bc8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2014/5/figle/186-2142-1-pb-330x-947.jpg 330w,assets/cache/images/issues/2014/5/figle/186-2142-1-pb-660x-ab6.jpg 660w,assets/cache/images/issues/2014/5/figle/186-2142-1-pb-768x-387.jpg 768w,assets/cache/images/issues/2014/5/figle/186-2142-1-pb-1320x-c74.jpg 1320w" src="assets/cache/images/issues/2014/5/figle/186-2142-1-pb-660x-ab6.jpg" alt="" ></a>    <figcaption><p>Alex and his droogs (Stanley Kubrick, <em>Clockwork Orange</em>, 1971)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The figures in the pictures are outlandish: their faces are covered in clown make-up that&nbsp;disfigures traits and amplifies features, thus rendering them eerie, if not disturbing. Many of these images were shot with&nbsp;flash against&nbsp;a&nbsp;black background, imbuing the scene with&nbsp;a&nbsp;sinister atmosphere, stirring up a&nbsp;sense of foreboding. Moreover, this&nbsp;darkness surrounding the protagonists produces a&nbsp;“black box” effect of sorts: they seem to come out of nowhere (our darkest dreams?), and rowdily attack every onlooker, his or her sense of order and propriety, as with&nbsp;Faith No More’s <em>Gentle Art of Making Enemies</em>:</p> <blockquote>Don't Look So Surprised<br>Happy Birthday...Fucker<br>Blow That&nbsp;Candle Out,<br>We're Gonna Kick You, Kick You!<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a></blockquote> <p>Indeed, the clowns seem to belong to some sort of gang — like&nbsp;Alex and his three droogs from&nbsp;Stanley Kubrick’s <em>Clockwork Orange </em>(1971), who dress queerly, with&nbsp;bowler hats and white uniforms and groin pads, and are always up for&nbsp;some of the old ultra-violence: “How are thou, thou globby bottle of cheap, stinking chip-oil?” That’s how Alex addresses a&nbsp;spontaneous adversary and unhesitatingly challenges him: “Come and get one in the yarble, if you have any yarbles, you eunuch jelly, thou!” The clown’s violence is serious and playful at once, scary and fun, so that&nbsp;we see their innocuous smile transform into&nbsp;a&nbsp;malevolent grin. Their tracksuits betray certain class aspiration — to be art <em>workers</em>, to be hooligans in spite of their bourgeois provenance, and in spite of the fact that&nbsp;in Poland almost everybody is of peasant origins. To prove this, they will fuck you up; they may not mean to, but&nbsp;they will.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/figle/186-2153-1-pb.gif"><img src="assets/images/issues/2014/5/figle/186-2153-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>This might be one possible meaning of the title of Irena Kalicka’s series of photographs, <em>What Happened Will Not Unhappen</em>. Once the horror has started, there is no going back. While looking at Kalicka’s clown images one cannot but&nbsp;think of Pennywise the Dancing Clown from&nbsp;Stephen King’s <em>It </em>(I am thinking of the miniseries from&nbsp;1990; it was recently announced that&nbsp;a&nbsp;remake will be directed by Cary Fukunaga), but&nbsp;here it is as if the roles were reversed and instead of one monster that&nbsp;feeds on children we now have a&nbsp;gang of young brutes in clown disguises showing their teeth, a&nbsp;pack of laughing Ronald McDonalds roaming the streets, scaring the shit out of children and adults alike. Of course, there is also the Joker from&nbsp;Christopher Nolan’s <em>Dark Knight</em> (2008), a&nbsp;profoundly terrifying clown bent on bringing society down&nbsp;on itself, who walks among&nbsp;us wreaking havoc. This&nbsp;is why among&nbsp;the most disturbing images of the series are one where the gang walks down&nbsp;a&nbsp;street in broad daylight as if nothing is happening, and a&nbsp;kind of class portrait done in a&nbsp;sports hall, with&nbsp;all the protagonists lined up neatly in three rows, well-behaved and friendly, a&nbsp;classroom full of <em>Lost Highway </em>Mystery Men (and Women).</p> <p>In all this&nbsp;violence, real or imagined, Kalicka’s clowns also have fun together: they dance and pose for&nbsp;the camera, roll on the richly patterned carpets of bourgeois homes, laugh, and take grinning selfies; they piss in public, show off&nbsp;their private parts –&nbsp;both real and symbolic –&nbsp;and hump each other fervently, and, finally, lie together in the grass after&nbsp;all mischief has been done, spent. Everything going on in these pictures has an ex-centric energy to it, questioning the prevailing social and symbolic order, undermining our sense of security while at the same time establishing a&nbsp;sort of sociality — in point of fact they are not one, deviant individual, but&nbsp;a&nbsp;pack, a&nbsp;model mini-society, but&nbsp;of whom and for&nbsp;whom? In spite of all this&nbsp;energy, we will also find a&nbsp;deep sadness in these pictures, even despair — not only in the Weegee-like image of the dead clown, laying on blood-stained tarmac with&nbsp;a&nbsp;hole in his head, but&nbsp;above all in one harrowing portrait that&nbsp;cannot but&nbsp;overwhelm us with&nbsp;a&nbsp;feeling of utter hopelessness.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/figle/186-2156-1-pb-1920x-37c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2014/5/figle/186-2156-1-pb-330x-522.jpg 330w,assets/cache/images/issues/2014/5/figle/186-2156-1-pb-660x-1d6.jpg 660w,assets/cache/images/issues/2014/5/figle/186-2156-1-pb-768x-ce6.jpg 768w,assets/cache/images/issues/2014/5/figle/186-2156-1-pb-1320x-d87.jpg 1320w" src="assets/cache/images/issues/2014/5/figle/186-2156-1-pb-660x-1d6.jpg" alt="" ></a>    <figcaption><p>Wolfgang Tillmans, <em>Suzanne &amp; Lutz, white dress, army skirt</em>, 1993 (<a href="http://arttattler.com/archivetillmans.html" target="_blank" rel="noopener">source</a>)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>So, what are we to make of all this? Kalicka’s images leave us a&nbsp;bit assaulted, a&nbsp;bit abused, and in the first moment clueless as to what we are supposed to do when faced with&nbsp;their situations and gestures, photographed — as if spontaneously documented — in an amateurish, direct manner. The beholder finds herself unable to discern a&nbsp;unity in the series; neither in style nor in straightforward content. For&nbsp;an art audience the first reassuring moment might come with&nbsp;the recognition of certain echoes, for&nbsp;instance of the famous Wolfgang Tillmanns picture from&nbsp;the cover of his first book. So this&nbsp;is not for&nbsp;real, it is art — we can finally say, relieved.</p> <p>Then there is Paul McCarthy, echoed above&nbsp;all in the clown figure, but&nbsp;also in all the messiness and murkiness of the setup, in all the awkwardness and humping and falling over&nbsp;and laughing and crying. Yet this&nbsp;affinity doesn’t fully play itself out on this&nbsp;level. What connects the two artists is their interest in the figure of the Trickster: not quite a&nbsp;god and at the same time less than&nbsp;human; a&nbsp;mediator between&nbsp;the realm of man and that&nbsp;of the gods, he keeps playing tricks on both, in the end always bringing disaster upon&nbsp;himself, equally cunning as he is unconscious. Although he is able to change appearances and so is one with&nbsp;the world — among&nbsp;his many incarnations we will find coyote, raven, fox, and cat, but&nbsp;also the jester (all of Kalicka’s animals are trickster representations) — he never tires of producing distance between&nbsp;himself and lived reality. His role is to question all truths and to undermine all certitudes. So for&nbsp;example Ananse, the West African spider-trickster, according to Robert Pelton,</p> <blockquote>is free to modify his own bodily parts and those of others according to whim or need. He can break social rules by maltreating guests or by having sexual relations with&nbsp;a&nbsp;female in-law. He can disregard the requirement that&nbsp;words and deeds be in some sort of rough harmony, just as he can overlook the demands of biology, economics, family loyalty, and even metaphysical possibility. He shows disrespect for&nbsp;sacred powers and beings, including the High God; his tricks reorder their limits.<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a></blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/figle/186-2152-1-pb.gif"><img src="assets/images/issues/2014/5/figle/186-2152-1-pb.gif" alt=""></a>    <figcaption><p>From Paul McCarthy, <em>Painter</em>, 1995 (<a href="http://www.youtube.com/watch?v=-fw4gYWkXgo" target="_blank" rel="noopener">watch on YouTube</a>)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>For Carl Gustav Jung the trickster is a&nbsp;vestige of a&nbsp;more primitive stage in social evolution and has a&nbsp;therapeutic role: “It holds the earlier low intellectual and moral level before&nbsp;the eyes of the more highly developed individual, so that&nbsp;he shall not forget how things looked yesterday”<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a> — a&nbsp;moral admonition of sorts. Or, one can put it another way by saying that&nbsp;“trickster stories serve a&nbsp;tension-releasing function in societies.”<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a> But&nbsp;this seems too simple a&nbsp;conceptualization of the trickster, as in the end his role is anything but&nbsp;primitive, or simply destructive. Victor Turner for&nbsp;his part claimed that&nbsp;it is through&nbsp;the ritual suspension of social order during&nbsp;<em>rites de passage</em> that&nbsp;new metaphors arise, new possibilities of envisaging our being together as community; the trickster’s liminal status allows for&nbsp;exactly such a&nbsp;suspension. In that&nbsp;sense “[l]iminaliy may perhaps be regarded as the Nay to all positive structural assertions, but&nbsp;as in some sense [also] the source of them all, and, more than&nbsp;that, as a&nbsp;realm of pure possibility whence novel configurations of ideas and relations may arise.”<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> It is this&nbsp;trait that&nbsp;brings together the figures of trickster, court jester, and clown. But&nbsp;what I&nbsp;find most important here is a&nbsp;recognition by Mary Douglas’, namely that&nbsp;ultimately, the trickster’s role is to show us the utter conventionality of any given social order. Not in the sense that&nbsp;it is always imposed and should hence be abolished, but&nbsp;that it is never absolute, that&nbsp;it can always be changed.<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a></p> <p></p> <p>Understood in this&nbsp;way, the trickster figure ceases to be just another means of social control, of disarming dissent, an apotropaic practice of sorts, and becomes a&nbsp;real condition of the possibility of change. Indeed, in many cultures it is the trickster figure that&nbsp;is responsible for&nbsp;organizing the natural world (What else could that&nbsp;picture with&nbsp;two clowns in front of a&nbsp;cupboard with&nbsp;a&nbsp;skull, mussels, starfish and old prints be about?). Yet outside&nbsp;of creation myths the trickster is rather a&nbsp;type of awkward hero “who is always wandering, who is always hungry, who is not guided by normal conceptions of good or evil, who is either playing tricks on people or having them played on him and who is highly sexed.”<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a> This&nbsp;sexedness can be light and playful, but&nbsp;also violent and disruptive, but&nbsp;it ultimately serves one goal: to render opaque what culture has made transparent, to focus on what it has repressed. In this&nbsp;way, the trickster brings much pleasure, but&nbsp;also leaves us helplessly confronting drives that&nbsp;we had thought well mastered:</p> <blockquote>I deserve a&nbsp;reward<br>Cuz I'm the best fuck that&nbsp;you ever had<br>And if I&nbsp;tighten up my hole -<br>You may never see the light again!<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a></blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/figle/186-2146-1-pb-1920x-37c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2014/5/figle/186-2146-1-pb-330x-522.jpg 330w,assets/cache/images/issues/2014/5/figle/186-2146-1-pb-660x-1d6.jpg 660w,assets/cache/images/issues/2014/5/figle/186-2146-1-pb-768x-ce6.jpg 768w,assets/cache/images/issues/2014/5/figle/186-2146-1-pb-1320x-d87.jpg 1320w" src="assets/cache/images/issues/2014/5/figle/186-2146-1-pb-660x-1d6.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>On the one hand, the trickster is the creator of the world, on the other he is utterly unselfconscious. All he can offer is an intervention into&nbsp;the horizon of our imagination, a&nbsp;minute transfiguration of the commonplace. We find splinters of the above&nbsp;in all of Irena Kalicka’s <em>What Happened</em>. Already the first picture of the series, a&nbsp;clown eating mushrooms — a&nbsp;clear sign of a&nbsp;transformation of consciousness — imposes the structure of ritual on the whole. And because the clothes of at least some of the clowns bear the marks of paint, one might surmise that&nbsp;Kalicka thought of the whole as a&nbsp;clever allegory of the artist as trickster, as somebody who tries to intervene in reality, to change, if not reality itself, then our understanding of it (this is what Klaus Theweleit called “the claim to leadership of art<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a>”), but&nbsp;is most of the time bound to fail miserably. And if we were to agree that&nbsp;in modern times art took over&nbsp;the role of religion, the vision of the artist as the high priest is nothing but&nbsp;a&nbsp;fancy projection, or rather — a&nbsp;smoke screen to protect us from&nbsp;the truth. And the truth is that&nbsp;the artist is within&nbsp;this framework much more of a&nbsp;trickster whose practice now and then turns out to be effective, but&nbsp;most of the time exposes him as a&nbsp;fraud, a&nbsp;quack, selling us a&nbsp;placebo, or worse — mere decoration.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/images/issues/2014/5/figle/186-2151-1-pb.gif"><img src="assets/images/issues/2014/5/figle/186-2151-1-pb.gif" alt=""></a>       </figure>  </section><section class="u-typo">   <p>In another <em>Gentle Art of Making Enemies</em>, the painter James Abbott McNeill Whistler tries to counter the spiteful criticism of John Ruskin, who tried to expose Whistler’s painting as capitalist art; as mere surface, pure commodity. He cites Ruskin’s harshest words from&nbsp;his notorious <em>Fors Clavignera</em> from&nbsp;July 2, 1877 as prologue to his whole plea:</p> <blockquote>For Mr. Whistler's own sake, no less than&nbsp;for the protection of the purchaser, Sir Coutts Lindsay ought not to have admitted works into&nbsp;the gallery in which the ill-educated conceit of the artist so nearly approached the aspect of wilful imposture. I&nbsp;have seen, and heard, much of cockney impudence before&nbsp;now; but&nbsp;never expected to hear a&nbsp;coxcomb ask two hundred guineas for&nbsp;flinging a&nbsp;pot of paint in the public's face.<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a></blockquote> <p>Don’t we find something of this&nbsp;sort of indictment in our own reaction to Kalicka’s work? How is one to deal with&nbsp;that? The artist as melancholic clown, trying to change the world but&nbsp;not being taken seriously, at times even ridiculed and rejected; engaging in cultivated discussions that&nbsp;are in fact all grounded in privilege, a&nbsp;fig leaf for&nbsp;art’s contingency. (“No culture can develop without&nbsp;a&nbsp;social basis, without&nbsp;a&nbsp;source of stable income,” Clement Greenberg famously claimed. “And in the case of the avant-garde, this&nbsp;was provided by an elite among&nbsp;the ruling class of that&nbsp;society from&nbsp;which it assumed itself to be cut off, but&nbsp;to which it has always remained attached by an umbilical cord of gold.”<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a>) The artist’s ultimate horror: to acknowledge that&nbsp;art might in the end turn out to be easily disposable and insignificant, a&nbsp;minor trick. (Think of all the dead tricksters, think of the dead clown.) Is this&nbsp;not reason enough for&nbsp;unmitigated despair and hopelessness? Luckily enough there is always the possibility of distraction.</p> <p></p> <p><b>This project was funded by the National Science Centre on the basis of decision number DEC-2011/03/N/HS2/01800.</b></p> <p></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a><sup></sup> Carl Gustav Jung, “On the Psychology of the Trickster Figure,” in Paul Radin, <em>The Trickster: A Study in American Indian Mythology </em>(New York: Philosophical Library, 1956), 206.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a><sup></sup> Sufjan Stevens, “John Wayne Gacy, Jr.,” from <em>Come on Feel the Illinoise</em>, Asthmatic Kitty, 2005, compact disc.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a><sup></sup> Harold Bloom, <em>Volume Introduction</em>, in <em>Bloom’s Literary Themes: The Trickster</em>, ed. Harold Bloom (New York: Infobase Publishing), xvi.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a><sup></sup> Faith No More, “The Gentle Art of Making Enemies”, from <em>King For a Day, Fool For a Lifetime</em>, Polydor K. K., 1995, compact disc.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a><sup></sup> Robert Pelton, “West African Tricksters: Web of Purpose, Dance of Delight,” in William G. Doty, William J. Hynes, eds., <em>Mythical Trickster Figures: Contours, Contexts, and Criticisms </em>(Tuscaloosa &amp; London: University of Alabama Press, 1993), 125.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a><sup></sup> Carl Gustav Jung, “On the Psychology of the Trickster Figure,” in Paul Radin, <em>The Trickster: A Study in American Indian Mythology </em>(New York: Philosophical Library, 1956), 207.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a><sup></sup> William G. Doty, William J. Hynes, “Historical Overview of Theoretical Issues: The Problem of the Trickster,” in <em>Mythical Trickster Figures</em>, 16.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a><sup></sup> See Victor Turner, “Betwixt and Between: The Liminal Period in<em> Rites de Passage</em>,” in idem, <em>The Forest of Symbols: Aspects of Ndembu Rituals </em>(Ithaca: Cornell Univeristy Press, 1967), 97.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a><sup></sup> See Mary Douglas, “The Social Control of Cognition: Some Factors in Joke Perception,” <em>Man</em> (n.s.) 3: 365, after “Historical Overview of Theoretical Issues,” 21.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a><sup></sup> Paul Radin, <em>The Trickster</em>, 155.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a><sup></sup> Faith No More, “The Gentle Art…”</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a><sup></sup> See Klaus Theweleit, “Comments on the Ghost of the RAF,” trans. Krzysztof Pijarski, <em>View. Theories and Practices of Visual Culture </em>3 (2013), <em>Images of Terror / Visibility of History</em>, <a href="http://pismowidok.org/index.php/one/article/view/71/69" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/article/view/71/69</a>, accessed June 1, 2014.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a><sup></sup> Quoted from: John Abbott McNeill Whistler, <em>A Gentle Art of Making Enemies</em> (London: William Heinemann, 1892), 3, <a href="http://www.gutenberg.org/ebooks/24650" target="_blank" rel="noopener">http://www.gutenberg.org/ebooks/24650</a>, accessed June 1, 2014.</p>
+<p><a name="_GoBack"></a><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a><sup></sup> Clement Greenberg, „Avant-Garde and Kitsch,” in idem, <em>The Collected Essays and Critisim. Volume 1. Perceptions and Judgments - 1939-1944</em>, ed. John O’Brian (University of Chicago Press, 1986), 10-11.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/queer-images/tricks" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

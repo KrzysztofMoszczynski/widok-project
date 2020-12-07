@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Ruin | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/4-ruin/ruin">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Ruin | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Ruin | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/4-ruin/ruin">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Ruin | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ffb300 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ffb300 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ffb300 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ffb300 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ffb300 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ffb300 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+			/* background-color:#ffb300 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,179,0,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ffb300 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ffb300; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ffb300 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ffb300 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ffb300 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1255 parent-id-1249">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1248" data-selected-issue-color="#ffb300" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/ruinacja/ruinacja">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/ruinacja/ruinacja">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/4-ruin#toc">4</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/4-ruin/ruin?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Ruin</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/4-ruin/ruin?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;"><em>Ruin </em>is both the claim about&nbsp;the state of a&nbsp;thing and a&nbsp;process affecting it. It serves as both noun and verb. To turn to its verbal, active sense is to begin from&nbsp;a&nbsp;location that&nbsp;the noun ruin too easily freezes into&nbsp;stasis, into&nbsp;inert object, passive form.</p> <p style="text-align: right;">Ann Laura Stoler</p> </blockquote> <p></p> <p>There is nothing past&nbsp;about a&nbsp;ruin. It is an amalgam of heterogeneous temporalities. While it can become an object of nostalgia for&nbsp;a&nbsp;time past, it can also be a&nbsp;constant reminder of a&nbsp;current state of exception, of decline, of ruin, and it is simultaneously capable of marking a&nbsp;moment of new beginning, of brushing off&nbsp;a&nbsp;burden (of history, tradition, a&nbsp;difficult past) and of looking towards&nbsp;a&nbsp;brighter future.</p> <p>More so, ruin need not be material. In the call for&nbsp;papers for&nbsp;this issue, we proposed a&nbsp;constellation of cities –&nbsp;Warsaw, Berlin, Tel Aviv –&nbsp;as exemplifying the problematic we would like&nbsp;to broach, the argument being that&nbsp;there are still people among&nbsp;us, who, when looking at the contemporary cityscapes of these cities, see nothing but&nbsp;ruins. Indeed, the structure of these cities is characterized by a&nbsp;certain "layeredness," in which the older strata at times shine through, haunting the present and rewriting the future. While Warsaw was rebuilt after&nbsp;the Second World War as a&nbsp;new city, in the name of a&nbsp;better, communist future obliterating much of its past&nbsp;(with in fact only the old town and its historical monuments reconstructed in their "original" form), Berlin was rebuilt in partition –&nbsp;on the one had becoming the capital of a&nbsp;new, communist state that&nbsp;ceased to exist after&nbsp;October 3<sup>rd</sup> 1990, on the other abandoned for&nbsp;Bonn, leaving behind&nbsp;the grand plans and ambitions of the <em>Reichshauptadt</em>. The fate of both can be seen as exemplary for&nbsp;the countries in question. The third city proposed in the CFP –&nbsp;Tel-Aviv –&nbsp;had, of course, not been destroyed, but&nbsp;it is representative of Israel as a&nbsp;modern, European state, and of its troubled status as having been built on the ruins of the livelihood of Palestinians (Tel-Aviv was also partly constructed on the remains of Palestinian villages, largely obliterated). It is this&nbsp;"layeredness," with&nbsp;its internal dynamics of repression and haunting, that&nbsp;we set out to explore.</p> <p>In this&nbsp;issue, we have decided to look at various contemporary states and processes of ruination: historical, political and social, as well as at the ruin of empire, at representation as ruin (as Eduardo Cadava pointed out: "Like the world, the image allows itself to be experienced only as what withdraws from&nbsp;experience"), but&nbsp;also –&nbsp;and maybe before&nbsp;all –&nbsp;the ruin of modernity as a&nbsp;promise of alternative futures. Is there something empowering in thinking of and through&nbsp;ruin, can we –&nbsp;while making out and naming destructive processes of ruination –&nbsp;find an emancipating potential in an imaginary of ruin, not to say –&nbsp;in ruin? (How) Can we still imagine alternative futures?</p> <p>The <b>Close-up </b>section is constructed in response to these very questions. While Svea Bräunert explores the relationships between&nbsp;(the trauma of) the air war and German postwar architecture, analyzing primarily the work of photographer Arne Schmitt, Ewa Majewska mines the still becoming and at the same time disappearing ruins of the Gdańsk Shipyard for&nbsp;sparks of emancipating power. In her contribution, Madalena Saryusz-Wolska traces the crisis and return of the patriarchal gaze, as inscribed in the iconography of German post-war ruins, and Stefanie Gerke concentrates on Berlin’s Palace of the Republic, shifting the question of ruin again towards&nbsp;the problematic of postsocialism. Krzysztof Pijarski takes Warsaw and its status as spectral city as points of departure and tries to think of photography as the (post)modern ruin. This&nbsp;section also presents Polish translations of two inspired and inspiring essays –&nbsp;Ann Laura Stoler’s '<em>The Rot Remains.' From&nbsp;Ruins to Ruination</em> and Eduardo Cadava’s <em>’Lapsus Imaginis’: The Image in Ruins</em> –&nbsp;that&nbsp;have shaped the structure of this&nbsp;issue of “View.”</p> <p>Yet this&nbsp;time it not the <b>Close-up</b> that&nbsp;opens our view but&nbsp;the <b>Viewpoint</b>. The reason for&nbsp;this was our conviction that&nbsp;it is artists who were able to best give expression to ruin, its labyrinthine space and discrete temporalities. As part of this&nbsp;section we present four projects: Arne Schmitt’s inquiry into&nbsp;German post-war architecture as bearer of the nation’s history and its state of consciousness; Michał Szlaga’s encompassing document of the Gdańsk Shipyard ruins as an inscription of the collapse of the Solidarity movement and as an open question towards&nbsp;the future; Ariella Azoulay’s filmic exploration of civil alliances between&nbsp;Jews and Palestinians between&nbsp;the years of 1947 and 1948 as an alternative to the ruin that&nbsp;ensued; and finally Sophie Ristelhueber’s exquisite explorations of the scars that&nbsp;wars and conflicts leave in the landscape –&nbsp;in all their uncanny beauty and transitiveness pointing to the short life span of our memory, our readiness to wreak ever more ruin.</p> <p>The <b>Panorama </b>expands the question of ruin onto&nbsp;the subject, opening with&nbsp;Katarzyna Bojarska’s reading of the work of painter and Holocaust survivor Maryan S. Maryan in the frame of autobiography, testimony, survival and multidirectional memory, where world and personal history become one. Further, Jan Borowicz discusses the body politics in German cinema as visual construction of national identity based in opposition to "non-normative" bodies, and Adam Lipszyc, in his reading of Siegfried Kracauer’s work, attempts to construct a&nbsp;materialist theology of photography.</p> <p>This issue’s <b>Perspectives</b> propose to look at <em>Future Days</em>, a&nbsp;joint project by artist Agnieszka Polska and Sebastian Cichocki, presented here in the form of a&nbsp;visual essay, proposing to look at art in a&nbsp;transhistorical, even eschatological perspective. What about&nbsp;art in the perspective of eternity? Udi Edelman, Eyal Danon and Ran Kasmy-Ilan –&nbsp;the curators of the exhibition <em>Where to?</em> at the Israeli Center for&nbsp;Digital Art in Holon –&nbsp;ask themselves the opposite&nbsp;question: can art go back in time and memory to retrieve forgotten alternatives or other possible scenarios for&nbsp;the future? In the face of the contemporary ruin of Zionism as a&nbsp;political project, the authors of the exhibition try to retrieve Zionism in its many incarnations, before&nbsp;it took the now at is seems inevitable, contemporary trajectory.</p> <p>Toward the end of this&nbsp;issue, we present a&nbsp;<b>Debate</b> around&nbsp;a&nbsp;recent book by Andrzej Leśniak, proposing an <em>iconophilic </em>discipline –&nbsp;based on the study of the image as theoretical object –&nbsp;as an alternative to both visual culture studies and art history. Tomasz Majewski, Krzysztof Pijarski, Mateusz Salwa and Łukasz Zaremba participate in the discussion.</p> <p>As always, we conclude by several <b>Snapshots</b> –&nbsp;of the photographic project <em>Other City </em>by Elżbieta Janicka and Wojciech Wilczyk, which centers on the site of the former Warsaw Ghetto, and two other exhibitions: that&nbsp;of the work of Hüseyin Bahri Alptekin and the first presentation of the collection of the Museum of Modern Art in Warsaw. In addition to that, we present a&nbsp;contextual reading of two well-known books on architecture –&nbsp;<em>Learning From&nbsp;Las Vegas</em> by Roberto Venturi, Denise Scott Brown and Steven Izenour, and <em>Delirious New York </em>by Rem Koolhas –&nbsp;both recently translated into&nbsp;Polish, and a&nbsp;chapter from&nbsp;<em>Oblicza kina queer </em>(<em>Aspects of Queer Cinema)</em> from&nbsp;the forthcoming book by Małgorzata Radkiewicz.</p> <p><b>Editorial team</b></p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/4-ruin/ruin" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

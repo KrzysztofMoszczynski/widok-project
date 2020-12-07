@@ -1,0 +1,18 @@
+.dropdown-menu {
+  margin-top: -1px;
+  > li {
+    
+    + li {
+      
+    }
+    
+    > a {
+      
+      &:hover,
+      &:focus {
+        
+      }
+    }
+    
+  }
+}

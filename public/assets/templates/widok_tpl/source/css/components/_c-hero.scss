@@ -1,0 +1,187 @@
+.c-hero {
+  width: 100%;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*
+* .c-hero--srcset
+* custom trick to force img to act like background-size: cover
+* replaced with .c-hero--img (using object-fit + polyfill) now
+*/
+
+.c-hero--srcset {
+  position: relative;
+  overflow: hidden;
+}
+
+.c-hero--srcset {
+  .c-hero__img-holder {
+    position: absolute;
+    overflow: hidden;  
+    top: -50%; 
+    left: -50%; 
+    width: 200%; 
+    height: 200%;
+  }
+
+  img {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    right: 0; 
+    bottom: 0; 
+    margin: auto; 
+    min-width: 50%;
+    min-height: 50%;
+    overflow-x: hidden;
+  }
+}
+
+/*
+* .c-hero--img
+* object-fit + polyfill
+*/
+
+.c-hero--img {
+  position: relative;
+  overflow: hidden;
+
+  img {
+    position: absolute;
+    top: 0; 
+    left: 0; 
+    width: 100%;
+    height: 100%;
+    @include object-fit(cover);
+  }
+}
+
+.c-hero .c-hero__title {
+  font-size: 3rem;
+}
+
+.c-hero__lead {
+  display: none;
+}
+
+.c-hero__actions {
+  margin-top: 50px;
+  margin-bottom: -15px;
+}
+
+.c-hero__actions .btn {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.c-hero--v1,
+.c-hero--v2,
+.c-hero--v3 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.c-hero--v1 .c-hero__title,
+.c-hero--v2 .c-hero__title,
+.c-hero--v3 .c-hero__title {
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+.c-hero--v1 .c-hero__lead,
+.c-hero--v2 .c-hero__lead,
+.c-hero--v3 .c-hero__lead {
+  margin-top: 0;
+}
+
+@media (min-width: 768px) {
+  .c-hero .container {
+    padding-left: 9%;
+    padding-right: 9%;
+  }
+
+  .c-hero .c-hero__title {
+    font-size: 6rem;
+  }
+
+  .c-hero__lead {
+    display: block;
+  }
+
+  .c-hero--v1,
+  .c-hero--v2,
+  .c-hero--v3 {
+    padding-top: 150px;
+    padding-bottom: 150px;
+  }
+}
+
+/* v4 */
+
+.c-hero--v4 .c-hero__title {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+/* v5 */
+
+.c-hero--v5 .container-table,
+.c-hero--v7 .container-table {
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+
+.c-hero--v5 .container-table-cell,
+.c-hero--v7 .container-table-cell {
+  display: table-cell;
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+}
+
+/* fullpage */
+
+.c-heroholder--fullpage,
+.cycle-slideshow-jumbotron--fullpage {
+  position: relative;
+  height: 500px;
+  height: 100vh;
+  //overflow: hidden;
+}
+
+.c-heroholder--fullpage > .c-hero,
+.cycle-slideshow-jumbotron--fullpage > .c-hero {
+  height: 100%;
+}
+
+@media (min-width: 768px) {
+  .c-heroholder--fullpage,
+  .cycle-slideshow-jumbotron--fullpage {
+    height: 1024px;
+    height: 100vh;
+  }
+}
+
+@media (min-width: 1200px) {
+  .c-heroholder--fullpage,
+  .cycle-slideshow-jumbotron--fullpage {
+    height: 900px;
+    height: 100vh;
+  }
+}
+
+/* v6 */
+
+.c-hero--v6 {
+  height: 480px;
+}

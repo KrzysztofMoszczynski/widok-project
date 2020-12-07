@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Pocztówki ze świata. Edward Żebrowski i Krzysztof Zanussi | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2015/pocztowki-ze-swiata.-edward-zebrowski-i-krzysztof-zanussi">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Pocztówki ze świata. Edward Żebrowski i Krzysztof Zanussi | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Pocztówki ze świata. Edward Żebrowski i Krzysztof Zanussi | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2015/pocztowki-ze-swiata.-edward-zebrowski-i-krzysztof-zanussi">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Pocztówki ze świata. Edward Żebrowski i Krzysztof Zanussi | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #daa520 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #daa520 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #daa520 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #daa520 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #daa520 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #daa520 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #daa520 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #daa520 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(218,165,32,0.8) !important; */
+			/* background-color:#daa520 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(218,165,32,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#daa520 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(218,165,32,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#daa520; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(218,165,32,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(218,165,32,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#daa520 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#daa520 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#daa520 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-964 parent-id-929">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="438" data-selected-issue-color="#daa520" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/11-capitalist-realism.-transformations-of-polish-visual-culture#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/11-capitalist-realism.-transformations-of-polish-visual-culture/postcards-from-the-world.-edward-zebrowski-and-krzysztof-zanussi">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2015/realizm-kapitalistyczny.-transformacje-kultury-wizualnej-lat-80.-i-90#toc">11</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2015/pocztowki-ze-swiata.-edward-zebrowski-i-krzysztof-zanussi?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Pocztówki ze świata. Edward Żebrowski i Krzysztof Zanussi</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2015/pocztowki-ze-swiata.-edward-zebrowski-i-krzysztof-zanussi?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=963">Jakub Socha</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Fragment książki o&nbsp;Edwardzie Żebrowskim, która ukaże się w&nbsp;2017 roku nakładem wydawnictwa Czarne</h2> <p></p> <p>Jest w&nbsp;tej układance jedną z&nbsp;kluczowych figur. Do tego stopnia, że&nbsp;niektórym Edward Żebrowski kojarzy się nie z&nbsp;reżyserem, pedagogiem, autorytetem, dębem, hipnotyzerem, rebe, tylko właśnie z&nbsp;nim. Żebrowski? Czy to czasami nie jest ten, który przez lata współpracował z&nbsp;Zanussim? Współpracował.</p> <p>Dzieliły ich cztery lata (Żebrowski urodził się w&nbsp;1935, Zanussi w&nbsp;1939 roku). Oprócz tych lat w&nbsp;zasadzie wszystko, może poza dzieciństwem, bo&nbsp;zostali go pozbawieni przez wojnę po&nbsp;równo. Żebrowski – postawny, przystojny, silny. Włóczył się, siedział w&nbsp;więzieniu, pracował w&nbsp;kopalni, łowił ryby, pisał opowiadania i&nbsp;wiersze, po&nbsp;wyjściu z&nbsp;więzienia – schorowany – nakręcił tylko trzy filmy. Równocześnie przestał bywać, zamknął się we własnym świecie i&nbsp;we własnym kręgu przyjaciół. Zanussi – wiadomo: zawsze pod&nbsp;krawatem, zawsze w&nbsp;okularach, prymus, prawie duchowny, autor kilkudziesięciu filmów. Od przygód w&nbsp;towarzystwie Hłaski wolał modlitwy w&nbsp;klasztorze w&nbsp;Tyńcu. Zamiast grać w&nbsp;piłkę, uczył się języków obcych, co przydało mu się, gdy zaczął slalom po&nbsp;salonach, od Kremla aż&nbsp;po Watykan. A&nbsp;mimo wszystko tę dwójkę przez długi czas łączyła przyjaźń.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4739-1-pb-1920x-b60.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4739-1-pb-330x-181.jpg 330w,assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4739-1-pb-660x-93d.jpg 660w,assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4739-1-pb-768x-bdd.jpg 768w,assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4739-1-pb-1320x-fad.jpg 1320w" src="assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4739-1-pb-660x-93d.jpg" alt="" ></a>    <figcaption><p>Edward Żebrowski (po prawej) w&nbsp;filmie <em>Iluminacja</em>, reż. Krzysztof Zanussi (1972)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Po raz pierwszy spotkali się w&nbsp;Szkole Filmowej w&nbsp;Łodzi. Zanussi dostał się do niej po&nbsp;studiach z&nbsp;fizyki i&nbsp;filozofii – jego ojciec, przedwojenny inżynier, nie był z&nbsp;tego wyboru zadowolony, uważał bycie filmowcem za&nbsp;niepoważne zajęcie. Długo po&nbsp;tym, gdy syn osiągnął już całkiem sporo w&nbsp;zawodzie, śmiał się, że&nbsp;na planie dużo lepiej poradziłby sobie od niego zwykły policjant z&nbsp;drogówki. Żebrowski – również skłócony z&nbsp;ojcem, przedwojennym ułanem i&nbsp;agronomem – wszedł do szkoły dopiero, gdy w&nbsp;Filmówce zniesiono wymógł posiadania dyplomu ukończenia innego kierunku. Egzaminy jednak zdał tak dobrze, że&nbsp;przyjęto go od razu na&nbsp;drugi rok. Zanussiego w&nbsp;tym samym czasie cofnięto z&nbsp;trzeciego roku za&nbsp;brak postępów w&nbsp;nauce, głównie przez nakręconą z&nbsp;ręki, tylko częściowo inscenizowaną etiudę, która wściekła ówczesnych wykładowców – uważali ją za&nbsp;amatorską i&nbsp;niechlujną.</p> <p>Przypadkowo zamieszkali na&nbsp;tej samej stancji, u&nbsp;niejakiej Józefy Brzozowskiej. Brzozowska, łódzka dziedziczka, po&nbsp;wojnie straciła większość rodowego majątku, dlatego też budżet domowy reperowała, wynajmując swoje wygodne, staroświeckie mieszkanie miejscowym studentom. Choć mieszkali pod&nbsp;jednym dachem, przez długi czas Żebrowski z&nbsp;Zanussim ostentacyjnie mówili do siebie per „pan” i&nbsp;na obiady chodzili do różnych barów mlecznych. Zanussi: „Edward był wówczas człowiekiem żyjącym wyzywająco i&nbsp;występnie, ja byłem moralistą o&nbsp;ściśniętych zębach, negatywnie usposobionym do tej wolności, którą on w&nbsp;hłaskowskim duchu manifestował. Oczywiście, bardzo mu zazdrościłem, że&nbsp;on to potrafi, że&nbsp;ma w&nbsp;sobie taką szaloną krzepę witalną, której ja nigdy nie miałem. Na&nbsp;dodatek Edward był pięknym mężczyzną, kobiety za&nbsp;nim szalały. Więc lubiliśmy się, ale na&nbsp;zewnątrz dość długo okazywaliśmy sobie pozorną dezaprobatę. Właściwie postępowaliśmy jak dwa bachory”.</p> <p>Mimo różnic i&nbsp;dystansu szybko zaczęli razem pracować. Zanussi, mający za&nbsp;sobą przygodę z&nbsp;filmem amatorskim, wnosił wiedzę <em>stricte</em> filmową, Żebrowski – oczytany dużo bardziej niż przyszły autor <em>Iluminacji</em> – swój talent i&nbsp;sprawność literacką. Dziwna to była współpraca, nie napędzała jej rywalizacja, ale też nie nadmierne poklepywanie się po&nbsp;plecach, a&nbsp;co najważniejsze: nie polegała ona na&nbsp;spędzaniu godzin w&nbsp;kawiarniach i&nbsp;kuchniach, wspólnych rozmowach przy kawie i&nbsp;papierosach, ale na&nbsp;korespondencji. „Myśmy pisali nie tyle scenariusze – powie później Zanussi – ile listy do współautora. Nie wiem, gdzie się te listy podziały, pewnie są już dawno powyrzucane, ale one naprawdę były dosyć ładne. Cały czas powstawała literatura dwóch poziomów – to znaczy fikcja literacka i&nbsp;komentarz do niej. Najczęściej staraliśmy się być dowcipni, ale czasem przyjmowaliśmy dystans. Więc na&nbsp;przykład:<br>– To może dosyć – powiedziała bohaterka.<br>– Dziwne, że&nbsp;ona doszła do tego dopiero teraz, bo&nbsp;ja mam jej dosyć już od wczoraj. Błagam cię, Edward, zrób coś z&nbsp;ta babą, bo&nbsp;ona jeszcze nic nie powiedziała w&nbsp;tym filmie, a&nbsp;już niedługo zejdzie z&nbsp;ekranu. Przecież nie można w&nbsp;kółko gadać głupstw. <br>– No więc dosyć – powiedziała bohaterka.<br>– Cholera, jeżeli ona jeszcze raz to powie, to ja naprawdę ją wyrzucę z&nbsp;filmu. Takie mniej więcej były te nasze listy. Niejednokrotnie bardzo śmieszne. Edward pisał całe rozdziały, które nie wchodziły do scenariusza i&nbsp;były tylko opowieścią o&nbsp;tym, co by się mogło zdarzyć bohaterom, gdyby nie byli w&nbsp;naszym filmie, ale gdzieś indziej. Bawiliśmy się świetnie”.</p> <p>Było tak świetnie, że&nbsp;napisali nawet scenariusz filmu dyplomowego, który mieli wspólnie realizować, była już nawet wybrana aktorka do roli tytułowej (Iga Cembrzyńska), jednakże wtedy Żebrowski w&nbsp;wyniku esbeckiej prowokacji trafił do więzienia, z&nbsp;którego wypuszczono go dopiero po&nbsp;ośmiu miesiącach – schorowanego, znajdującego się na&nbsp;krawędzi życia. Zanussi w&nbsp;tym czasie zdążył skończyć szkołę i&nbsp;zaraz potem trafił do nowo powstałego Zespołu „Tor”, którym kierował Stanisław Różewicz. Po&nbsp;pewnym czasie ściągnął do niego i&nbsp;Żebrowskiego. Niedawni współlokatorzy zaczęli wreszcie realizować napisane wspólnie teksty.</p> <p>Większość z&nbsp;nich można znaleźć w&nbsp;książce <em>Nowele Filmowe</em>, wydanej w&nbsp;1976 roku, grupującej dziewięć scenariuszy. W&nbsp;wstępie do zbioru autorzy tłumaczą się z&nbsp;kształtu poszczególnych tekstów. To zwarte, jednowątkowe opowieści, napędzane konfliktem postaw dwóch antagonistów. Wymóg takiej poetyki powodowany był przede wszystkim charakterem medium – scenariusze, a&nbsp;raczej właśnie nowele filmowe, bo&nbsp;dające się czytać jak literatura, posiadające dużo więcej opisów niż klasyczne i&nbsp;suche teksty dla kina (zarówno stanów emocjonalnych bohaterów, jak i&nbsp;otaczającej ich przyrody), były pisane pod&nbsp;telewizję. Gmach na&nbsp;Woronicza był w&nbsp;latach 70. jedyną furtką umożliwiającą stosunkowo szybkie przedostanie się do fabuły. Większość tych nowel została później sfilmowana przez Zanussiego. Co jest charakterystyczne – Żebrowski do pisania scenariuszy do swoich filmów nigdy Zanussiego nie zapraszał, zapraszał innych: Michała Komara, Andrzeja Kijowskiego, Władysława Terleckiego.</p> <p>Na pierwszy ogień poszła nowela <em>Twarzą w&nbsp;twarz</em> z&nbsp;1967 roku, film, który od razu poszedł na&nbsp;półkę, bo, jak orzekła rok później władza, w&nbsp;opowieści o&nbsp;człowieku, który ucieka po&nbsp;dachach przed milicją, można się dopatrzeć metafory złego PRL. Krótka, kilkunastominutowa etiuda zaczyna się wczesnym rankiem: jest 6:45 rano, dzwoni budzenie. Mężczyzna wstaje, nakręca zegarek, odgania psa, czarnego pudla, otwiera okno, zakłada okulary, potem budzi żonę, stukając ją niespecjalnie czule w&nbsp;ramię. I&nbsp;dalej: psa trzeba wypuścić na&nbsp;spacer, nastawić mleko, włączyć radio z&nbsp;oberkiem i&nbsp;znaleźć jeszcze chwilę czasu dla siebie, zanim będzie się gotowym na&nbsp;nowy dzień. Mężczyzna potajemnie wyjmuje papierosa z&nbsp;palta i&nbsp;idzie do łazienki – niby się golić, ale tak naprawdę zapalić. Żona też zaczyna się kręcić, dzwoni telefon z&nbsp;biura. Oto powoli rozpędzający się dzień, który niczym by się nie różnił od innych, gdyby nie ruch na&nbsp;dachu – po&nbsp;dachu biega mężczyzna. Główny bohater obserwuje go z&nbsp;fascynacją i&nbsp;strachem. Na&nbsp;klatce słuchać rumor, podjeżdża wóz policyjny, widać, że&nbsp;ścigają tego z&nbsp;dachu, że&nbsp;to żaden kominiarz, tylko ktoś, kto przed czymś/kimś ucieka.</p> <p>Przedbiegi: krzątanina, bezpieczna i&nbsp;dobijająca, zostaje tu skonfrontowana z&nbsp;ruchem, który w&nbsp;każdej chwili może skończyć się śmiercią. Banalna egzystencja z&nbsp;życiem na&nbsp;krawędzi. Obydwaj mężczyźni krążą wokół siebie, by w&nbsp;najważniejszym momencie spotkać się twarzą w&nbsp;twarz – to spotkanie nie odmieni właściciela pudla, jedynie wyjaskrawi jego obojętność, jakąś wewnętrzną drętwotę. Mężczyzna cofa się, ucieka, zamyka okno. Odgradza się od nieznajomego, a&nbsp;potem, gdy ten już spadnie, przechodzi jak gdyby nigdy nic nad jego nieżywym ciałem. Nie zatrzymuje się ani nie zadaje sobie pytania, czy aby sam się do tego nie przyczynił. Inaczej niż w&nbsp;późniejszych filmach duetu, praktycznie nie ma dialogów, rozprawiania o&nbsp;wartościach, całej tej słownej mimikry. Czarno-biały film rozgrywa się w&nbsp;gestach i&nbsp;spojrzeniach, ma dziwną nerwowość, obcy, mało inteligencki rytm.</p> <p>W zrealizowanym chwilę później <em>Zaliczeniu</em> jest już inaczej, tu zaczyna się kształtować styl tak charakterystyczny dla późniejszego kina Zanussiego. Autor, który zarówno w&nbsp;<em>Śmierci prowincjała</em>, jak i&nbsp;we wspomnianej wyżej noweli <em>Twarzą w&nbsp;twarz</em> opowiadał przede wszystkim obrazem, powoli otwiera się na&nbsp;słowo.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4743-1-pb-1920x-e3b.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4743-1-pb-330x-223.jpg 330w,assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4743-1-pb-660x-965.jpg 660w,assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4743-1-pb-768x-9ca.jpg 768w,assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4743-1-pb-1320x-63e.jpg 1320w" src="assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4743-1-pb-660x-965.jpg" alt="" ></a>    <figcaption><p>Kadr z&nbsp;filmu <em>Zaliczenie</em>, reż. Krzysztof Zanussi (1968)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Idzie młodość, młodość ma twarz i&nbsp;sylwetkę młodego Daniela Olbrychskiego, który gra tu studenta. Studenta z&nbsp;nożem na&nbsp;gardle – właśnie oblał kolejny egzamin i&nbsp;grozi mu skreślenie z&nbsp;listy studentów, więc wbija się w&nbsp;garnitur i&nbsp;idzie z&nbsp;listem polecającym do profesora, żeby ten go przepytał w&nbsp;drodze wyjątku i&nbsp;dał upragniony wpis do indeksu. Profesor, nobliwy, światowy, grany przez Aleksandra Bardiniego, gdy tylko dowiaduje się, po&nbsp;co przyszedł młodzieniec, najeża się i&nbsp;kategorycznie odmawia, wygłaszając równocześnie małe kazanie o&nbsp;tym, co wypada, a&nbsp;co nie. Jednak już po&nbsp;chwili wyciąga książkę z&nbsp;zadaniami i&nbsp;sadza studenta przy biurku. Przed wyjściem z&nbsp;gabinetu przestrzega go, żeby nie zaglądał do rozwiązań, które znajdują się na&nbsp;końcu książki. Bohater grany przez Olbrychskiego oczywiście do nich zagląda, co kończy się dla niego kompromitacją – w&nbsp;rozwiązaniach jest mina, błąd zecerski. Kompromitacja i&nbsp;wstyd to słowa, których nie ma jednak w&nbsp;słowniku studenta. Szybko otrząsa się więc z&nbsp;zakłopotania i&nbsp;prze dalej. Profesor, inteligentniejszy od niego o&nbsp;kilka długości, podejmuje grę i&nbsp;proponuje mu, że&nbsp;rzuci monetą i&nbsp;to moneta zadecyduje o&nbsp;zaliczeniu. Egzaminowany ochoczo przystaje na&nbsp;takie rozwiązanie, ale los też mu nie sprzyja. Teraz już wie, że&nbsp;wszystkie opcje się skończyły, bierze więc indeks i&nbsp;wychodzi przez furtkę. Na&nbsp;zewnątrz otwiera go i&nbsp;ku swojemu zaskoczeniu widzi, że&nbsp;dostał wpis. Eksploduje ze szczęścia i&nbsp;ta eksplozja jest tak silna, że&nbsp;całkowicie przysłania te kilka gorzkich słów, które przed chwilą usłyszał.</p> <p>Mamy w&nbsp;<em>Zaliczeniu</em> charakterystyczny dla etiud Żebrowskiego i&nbsp;Zanussiego punkt wyjścia i&nbsp;układ sił. Jest petent, reprezentant czasów petentów, różnych form konformizmu społecznego, i&nbsp;ten, który ma władzę oraz autorytet, funkcjonujący jakby na&nbsp;innym piętrze i&nbsp;w obrębie innych, bardziej szlachetnych wartości. Szkolna połajanka twórców jednak nie interesuje, opowiadają się niby po&nbsp;stronie profesora i&nbsp;po stronie jego racji, ale chyba bardziej interesuje ich to, że&nbsp;te racje są jak grochem o&nbsp;ścianę. Olbrychski emanuje witalnością i&nbsp;wbrew temu, co mówi bohater grany przez Bardiniego, pokazuje, że&nbsp;młodość sama w&nbsp;sobie jest wartością. Może nie ma w&nbsp;niej miejsca na&nbsp;refleksję, jest w&nbsp;niej jednak siła, którą napędzają nieograniczone perspektywy. A&nbsp;profesor, cóż, może szykować w&nbsp;swoim ogrodzie łódkę, na&nbsp;której przepłynie cały świat, tylko że&nbsp;raczej już go nie przepłynie. Jeśli ktoś to zrobi, to właśnie jego student. Nagle, przez krótką chwilę, gdy tak stoją we dwóch nad kadłubem, widać, że&nbsp;to profesor przegląda się w&nbsp;młodzieńcu, a&nbsp;nie młodzieniec w&nbsp;nim. Student uruchamia w&nbsp;nim proste pytania: czy dobrze wybrałem, czy dobrze pokierowałem swoim życiem.</p> <p>Ten temat powraca w&nbsp;zrealizowanych dwa lata później przez Zanussiego <em>Górach o&nbsp;zmierzchu</em>. Dwaj scenarzyści znowu konfrontują młodość ze starością. Oto młody biolog, namawiany przez obrotną żonę, która narzeka na&nbsp;męża, że&nbsp;słabo zarabia i&nbsp;na dodatek w&nbsp;łapę nie bierze, towarzyszy wraz ze swoim przyjacielem staremu profesorowi w&nbsp;wyprawie w&nbsp;góry. Ten dużo może, na&nbsp;przykład załatwić lepszą pracę. Ale Jarkowi, granemu przez Marka Perepeczkę, jakoś trudno przechodzą przez usta prośby. Niby co jakiś czas zaczyna wątek, ale nigdy nie może go skończyć, profesor (Jerzy Kreczmar) z&nbsp;kolei wyraźnie nie radzi sobie w&nbsp;górach. Robi dobrą minę, odmawia asekuracji, deklaruje: ja sam, ale gołym okiem widać, że&nbsp;zwyczajnie brakuje mu sił, by wspinać się na&nbsp;ośnieżone szczyty.</p> <p>Zamiast rozmawiać o&nbsp;interesach, panowie rozmawiają o&nbsp;górach, profesor wspomina dawne wyprawy i&nbsp;odsłania, co stoi za&nbsp;tym, że&nbsp;właśnie dzisiaj się wspina – opowiada o&nbsp;przyjacielu z&nbsp;młodości, który zginął właśnie na&nbsp;tej trasie, na&nbsp;jego oczach. Wyprawa jest dla niego jakby hołdem dla zmarłego przyjaciela, a&nbsp;równocześnie ponawianym rok rocznie rachunkiem sumienia, który zaczyna się od pytania: czy dobrze przeżyłem swoje życie? Jarkowi wydaje się ono za&nbsp;duże, mówi do profesora: jakże to? Profesor zadaje sobie takie pytanie? Przecież profesor tyle osiągnął. Na&nbsp;co słyszy: osiągnął? Chodzi Panu o&nbsp;te kilka linijek w&nbsp;encyklopedii? Te kilka linijek, które wygląda jak nekrolog? Naprawdę, to się nie liczy.</p> <p>Inaczej niż w&nbsp;<em>Zaliczeniu</em>, między tą dwójką nie toczy się żadna gra – młody podchodzi do profesora z&nbsp;szacunkiem, profesor z&nbsp;kolei młodego zdaje się nie zauważać, żyje w&nbsp;krainie swoich wspomnień, rozmawia raczej ze zmarłym przyjacielem. Tę zmianę napięcia można tłumaczyć chyba zegarem, Jarek nie jest tak młody jak student grany przez Olbrychskiego, Profesor za&nbsp;to po&nbsp;wejściu na&nbsp;szczyt deklaruje, że&nbsp;to był ostatni raz. Swoją decyzję kwituje po&nbsp;prostu: „starość, nie radość”. Zegar przesunął się o&nbsp;kilka wskazówek, nastrój wyhamował – Jarek wraca do żony ze zbitą miną i&nbsp;to nie dlatego, że&nbsp;nie udało mu się niczego załatwić. Raczej uświadomił sobie, że&nbsp;to, czy będzie zarabiał więcej, miał więcej, znaczy niewiele. Nie jest to jakaś przesadnie wielka ani bardzo głęboka myśl, ale wyłożona zostaje z&nbsp;rzadko spotykaną delikatnością i&nbsp;na tle Tatr – tej świeckiej świątyni, w&nbsp;której najlepiej się myśli polskim intelektualistom.</p> <p>W 1971 roku, czyli już po&nbsp;dwóch filmach, które Żebrowski sam zdołał wyreżyserować (<em>Szansa</em> i&nbsp;<em>Noc listopadowa</em>), swoją premierę telewizyjną ma <em>Za ścianą</em>, bez wątpienia najlepszy film duetu, jeden z&nbsp;najlepszych polskich filmów telewizyjnych. O&nbsp;kulisach jego powstawania Zanussi opowiadał: „<em>Za ścianą</em> zrobiłem głównie przez przekorę. Walczyłem o&nbsp;ten film bardzo długo. Starałem się spotkać z&nbsp;ówczesnym prezesem Telewizji. Kilkukrotnie byłem u&nbsp;niego zamówiony i&nbsp;kiedyś poszedłem, a&nbsp;on ryknął ze swojego gabinetu do sekretarki, żeby mnie spławiła. Wtedy coś się we mnie zagotowało. To było upokarzające. Pomyślałem, że&nbsp;albo zachowam się jak Polak o&nbsp;szlacheckiej tradycji, to znaczy obrażę się i&nbsp;trzasnę drzwiami, albo przebiję tego człowieka. Napisałem do niego list, że&nbsp;słyszałem ten okrzyk z&nbsp;jego gabinetu i&nbsp;nie mogę uwierzyć, że&nbsp;kulturalny człowiek mógł się tak zachować w&nbsp;stosunku do artysty. I&nbsp;że wydaje mi się, że&nbsp;nie mogło to być normalnym wydarzeniem w&nbsp;jego życiu. Wtedy on się zawstydził. Natychmiast zatwierdził do realizacji <em>Za ścianą</em>”.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4741-1-pb-1920x-10d.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4741-1-pb-330x-a37.jpg 330w,assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4741-1-pb-660x-a7b.jpg 660w,assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4741-1-pb-768x-ada.jpg 768w,assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4741-1-pb-1320x-dac.jpg 1320w" src="assets/cache/images/issues/2015/11/pocztowki-ze-swiata/350-4741-1-pb-660x-a7b.jpg" alt="" ></a>    <figcaption><p>Kadr z&nbsp;filmu <em>Za ścianą</em>, reż. Krzysztof Zanussi (1971)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Film rozpoczyna się od sceny upokorzenia: docent Jan (Zbigniew Zapasiewicz), doktor habilitowany, biolog, musi spławić na&nbsp;wyraźne polecenie swojego szefa Annę (Maja Komorowska), starającą się o&nbsp;pracę w&nbsp;ich laboratorium. Rozmowa nie należy oczywiście do najprzyjemniejszych, dlatego docent odbija sobie ją, wyżywając się na&nbsp;swoich podwładnych. Anna, która mieszka w&nbsp;tym samym bloku co docent, w&nbsp;podobnie ciasnej, choć gorzej urządzonej kawalerce, nie zamierza jednak nikomu niczego ułatwiać, jest już tym wyraźnie zmęczona, dlatego łapie kilka godzin później docenta, kiedy ten wychodzi z&nbsp;windy, i&nbsp;zaciąga go do swojego mieszkania, by pokazać mu, że&nbsp;nie kłamała co do swoich kompetencji. Chce spotkać się z&nbsp;nim w&nbsp;przestrzeni może trochę bardziej wolnej od zabetonowanych układów, kodów i&nbsp;zachowań.</p> <p>Docent wchodzi do mieszkania, ale rozmowa w&nbsp;ogóle się nie klei. On jest zakłopotany i&nbsp;sztywny. Ona – wyraźnie zdenerwowana, więc najpierw proponuje herbatę, potem pokazuje, że&nbsp;wie, jak zawiązać węzeł ratowniczy. W&nbsp;międzyczasie koniak, który został z&nbsp;imienin. Oglądanie namalowanych przez nią obrazów, o&nbsp;których trudno cokolwiek powiedzieć. Naprawianie bezpiecznika, rozmowa o&nbsp;rybie, którą Anna trzyma w&nbsp;wannie i&nbsp;nie wie, co z&nbsp;nią począć – docent mówi, żeby zabić. Ta krótka scena, na&nbsp;co zwraca uwagę Rafał Marszałek w&nbsp;świetnym tekście <em>O życiowych problemach zdrowego rozsądku habilitowanego</em>, jest charakterystycznym chwytem ze scenariuszy Zanussiego i&nbsp;Żebrowskiego – niby niewiele znaczącym wtrętem, ale przecież takim, który w&nbsp;sekundzie zarysowuje postaci, sposób ich postrzegania świata i&nbsp;siebie w&nbsp;tym świecie.</p> <p>On jest pragmatykiem z&nbsp;amputowaną wyobraźnią, jednym z&nbsp;wielu podobnych postaci, które będą później pojawiać się w&nbsp;kinie zarówno jednego, i&nbsp;drugiego. „Bohaterowie ci – jak pisał Marszałek – to naukowcy: umysły ścisłe i&nbsp;precyzyjne, mentalności pozytywistyczne. Z&nbsp;ich perspektywy – a&nbsp;jest to perspektywa ukształtowana przez laboratorium! – świat jest domeną poprawnych pytań i&nbsp;logicznych odpowiedzi, funkcjonalnych działań i&nbsp;jasno wytyczonych celów i&nbsp;konkretnych rozstrzygnięć”. I&nbsp;tak jak do tych postaci idealny był wręcz Zapasiewicz, tak trudno pomyśleć o&nbsp;kobietach podobnych do Anny inaczej niż poprzez Komorowską – uosabia ona jakieś wewnętrzne rozedrganie i&nbsp;czystość. Naiwność? Jeśli tak, to cząstkową – Anna dobrze rozpoznaje mechanizmy rządzące światem. Nie raz, i&nbsp;nie dwa się z&nbsp;nimi zetknęła, ale nie powstrzymuje jej to od kolejnych prób mierzenia się z&nbsp;nimi. Choć rezultaty są raczej do przewidzenia.</p> <p>Trudno sobie wyobrazić, że&nbsp;mogliby się zamienić miejscami, choć w&nbsp;filmie pada kwestia, że&nbsp;miejsce, w&nbsp;którym się człowiek znajduje, zależy w&nbsp;dużej mierze od szczęścia. Czy gdyby Anna miała szczęście, byłaby na&nbsp;miejscu docenta i&nbsp;to ona odrzucałaby jego podanie o&nbsp;pracę? Czy on wtedy siedziałby w&nbsp;mieszkaniu, próbując odgonić od siebie myśl: co mam teraz robić, skoro to, czego chciałem, jest poza moim zasięgiem? Raczej nie. Tego prostego faktu nie ociepla nawet to, że&nbsp;Anna jest tu kimś, kto budzi większą sympatię, kimś, kogo stać na&nbsp;autentyczność, kimś, kogo życie – mimo zawodowej porażki – wydaje się pełniejsze.</p> <p>Jeszcze raz Marszałek: „między zadufanym praktycyzmem i&nbsp;bezbronną, czystą wrażliwością – rozciąga się teren wart zasiedlenia”. Ta przestrzeń i&nbsp;pytanie, jak ją zasiedlić, jest w&nbsp;<em>Za ścianą</em> kluczowe. Pozostaje ono jednak bez odpowiedzi. Nie wiemy, czy to spotkanie ich odmieni, czy ktokolwiek coś z&nbsp;niego wyniesie, bo&nbsp;przecież gest doktora, który zbiega ze swojego mieszkania, żeby sprawdzić, co się stało z&nbsp;Anną, do której właśnie przyjechała karetka, może wynikać tak z&nbsp;egoizmu, jak z&nbsp;pobudzonej do życia przez wczorajsze spotkanie empatii.</p> <p>Ciasne, zagracone mieszkanie Anny, w&nbsp;którym w&nbsp;okna powkładano watę, żeby zapobiec przeciągom, jest sceną niepewności i&nbsp;niemożności. Ale też sceną innych pytań niż te, które zwykle zadaje się w&nbsp;polskim kinie, a&nbsp;już na&nbsp;pewno wtedy się ich nie zadawało – pytań pomniejszonych, prywatnych, i&nbsp;odpowiedzi, które łatwo zakwestionować i&nbsp;unieważnić. Nie ma żadnych instrukcji, jest ewentualnie coś jakby spotkanie – chwilowe, możliwe, że&nbsp;na tyle nieistotne, że&nbsp;wcale nic ono nie zmieni.</p> <p>Choć scenariusz do <em>Za ścianą</em> napisany był dużo wcześniej, film powstał dwa lata po&nbsp;debiucie kinowym Zanussiego – <em>Strukturze kryształu</em>. Do napisania scenariusza do filmu reżyser po&nbsp;raz kolejny zaprosił Żebrowskiego, ostatecznie jednak nazwisko autora <em>Ocalenia</em> widnieje w&nbsp;napisach końcowych jako: współpraca literacka. Zanussi tłumaczył później, że&nbsp;choć w&nbsp;scenariuszu jest dużo myśli i&nbsp;dialogów Żebrowskiego, to tekst jest tym razem tylko jego autorstwa. Czemu współpraca między tą dwójką się skończyła? Obecny szef „Toru” uważa, że&nbsp;układała się ona do momentu, gdy nie robili jeszcze kina autorskiego, a&nbsp;tylko szlifowali warsztat – przy kinie autorskim różnice między nimi okazały się nie do pogodzenia. Jest to oczywiście wytłumaczenie dość sensowne, tyle że&nbsp;zdarzało się im przecież w&nbsp;przyszłości pisać wspólnie scenariusze, chociażby do <em>Dotknięcia ręki</em>.</p> <p>Prawdą jest jednak, że&nbsp;w&nbsp;latach 70. coś się zacięło. Najwygodniej byłoby powiedzieć, że&nbsp;wszystkiemu są winne zagraniczne pocztówki z&nbsp;ładnymi widokami. Zanussi, jak sam mówi, ma taki zwyczaj, że&nbsp;jak jest gdzieś za&nbsp;granicą – a&nbsp;jest często – to wysyła ludziom stamtąd kartki. Wysyłał je też Żebrowskiemu do momentu aż&nbsp;ten powiedział: „przestań”. Zanussi tłumaczy ten gest powodami ambicjonalnymi, uważa, że&nbsp;odbiorcę irytowało to, że&nbsp;nadawca może jeździć po&nbsp;świecie, a&nbsp;on, „ten, który w&nbsp;młodości miał potrzebę destrukcji i&nbsp;żył w&nbsp;mroku, którego po&nbsp;chorobie ciało zaczęło ulegać dekonstrukcji”, już nie.</p> <p style="text-align: center;">***</p> <p>Filmowcy, pytani o&nbsp;kres tej współpracy, mówią o&nbsp;ambicji, niedającej się pogodzić różnicy charakterów, o&nbsp;powolnym oddalaniu się Zanussiego, zawładniętego wizją podbicia Zachodu. Niektórzy z&nbsp;nich uważają, że&nbsp;Żebrowski wymyślił Zanussiego w&nbsp;trakcie studiów na&nbsp;Filmówce z&nbsp;nudy, inni wypowiadają się delikatniej, mówią, że&nbsp;to Żebrowski powiedział Zanussiemu, jakie kino powinien robić, żeby osiągnąć sukces, jeszcze inni orzekają, że&nbsp;dopóki Zanussi współpracował z&nbsp;Żebrowskim, jego kino dało się oglądać, potem już tylko można go było słuchać.</p> <p>To wszystko oczywiście trochę nieprawda, ale intensywność tych sądów, deprecjonujących i&nbsp;pomniejszających osiągnięcia Zanussiego, trudno pominąć – przebija z&nbsp;nich oczywiście niechęć wobec samego Zanussiego, pozycji, jaką zajmuje i&nbsp;siły, z&nbsp;jaką odciska się na&nbsp;polskim kinie. Ale da się w&nbsp;tych sądach wyczytać też coś innego – historię niebyłą, alternatywną wersję wydarzeń, w&nbsp;której to Żebrowski zajął miejsce Zanussiego, jeździł po&nbsp;festiwalach, wygrywał „Wenecję” i&nbsp;pisał felietony do „Polityki”, z&nbsp;których, dla odmiany, nikt się nie śmiał, a&nbsp;każdy je czytał. Czy chciałby w&nbsp;ogóle i&nbsp;czy by mógł, to zupełnie inne pytania.</p> <p><br> <b>Praca powstała w&nbsp;wyniku stypendium Ministerstwa Kultury i&nbsp;Dziedzictwa Narodowego.</b></p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2015/pocztowki-ze-swiata.-edward-zebrowski-i-krzysztof-zanussi" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Wynaturzenie | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/queer-obrazy/wynaturzenie">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Wynaturzenie | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Wynaturzenie | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/queer-obrazy/wynaturzenie">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Wynaturzenie | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #f0f !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #f0f !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #f0f !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #f0f !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #f0f !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #f0f !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+			/* background-color:#f0f !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,0,255,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#f0f !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#f0f; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#f0f !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#f0f !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#f0f !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1140 parent-id-1130">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="424" data-selected-issue-color="#f0f" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/en">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/en">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/queer-obrazy#toc">5</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/queer-obrazy/wynaturzenie?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Wynaturzenie</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/queer-obrazy/wynaturzenie?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=901">Katarzyna Czeczot</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;">Wyobraźmy sobie kiść piramidalną skrętoległych kwiatów, podobną do hiacyntu, tylko nieco dłuższą. Ustawione symetrycznie kwiaty o&nbsp;trzech narożach mają barwę zielonawo-białą, popstrzoną plamami blado-fioletowymi. Płatek dolny kwiatu, ozdobiony u&nbsp;nasady mięsistemi gruczołami koloru bronzu, olbrzymiemi wąsami godnemi Nerowingów, posiada jeszcze narośle fioletowe o&nbsp;złowrogim wyglądzie. Płatek ten wydłuża się bez końca, wprost szaleńczo, przechodzi potem w&nbsp;kilka wstążek, skręconych spiralnie, a&nbsp;kolor ich przypomina topielca, którego po&nbsp;miesiącu wydobyto z&nbsp;wody. Całość przywodzi na&nbsp;myśl straszliwą jakąś chorobę i&nbsp;zda się należy do krain, kędy żyją złośliwe, ironiczne potwory, czy zjawy nieludzkie.</p> <p style="text-align: right;">Maurycy Maeterlinck, <em>Inteligencja kwiatów</em><sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a><br></sup></p> </blockquote> <h2>Odstępstwo</h2> <p>Kwiaty, wiadomo, mogą być polne, cieplarniane albo sztuczne. Oczywiście cieplarniane do pewnego stopnia też są sztuczne – skoro nie są naturalne. Ale choć ktoś mógłby tu, słusznie zresztą, argumentować, że&nbsp;kwiaty cieplarniane to efekt pracy ludzkich rąk, to jednak – przypomnę – rzecz można ujmować zupełnie odwrotnie. To „rośliny / [p]racują dla nas nagminnie”, zauważał Rimbaud<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. W&nbsp;jaki sposób? I&nbsp;co jest efektem tej pracy? Chciałabym, za&nbsp;Rimbaud, inaczej postawić pytanie o&nbsp;przedstawienia kwiatów. Zastanowić się nie nad tym, co poeci mówią o&nbsp;kwiatach, ale nad tym, co o&nbsp;kwiatach mówi się poetom.</p> <p>Chodzi o&nbsp;ten obraz. Zasłona wysadzana białymi kameliami, z&nbsp;wyciętą dziurą. W&nbsp;niej – niewiele mniejsza, ułożona „do góry nogami” twarz mężczyzny. Pokryte różem policzki, uszminkowane usta. Oczy – zamknięte.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/wynaturzenie/160-1900-1-pb-1920x-f7d.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/wynaturzenie/160-1900-1-pb-330x-d0f.jpg 330w,assets/cache/images/issues/2014/5/wynaturzenie/160-1900-1-pb-660x-68b.jpg 660w,assets/cache/images/issues/2014/5/wynaturzenie/160-1900-1-pb-768x-495.jpg 768w,assets/cache/images/issues/2014/5/wynaturzenie/160-1900-1-pb-1320x-ede.jpg 1320w" src="assets/cache/images/issues/2014/5/wynaturzenie/160-1900-1-pb-660x-68b.jpg" alt="" ></a>    <figcaption><p><em>Valentino</em>, reż. Ken Russell (1977)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Tak Ken Russell przedstawia zmarłego i&nbsp;leżącego w&nbsp;trumnie Rudolfa Valentino, gwiazdę niemego kina, słynnego amanta, zmarłego u&nbsp;szczytu popularności w&nbsp;wieku 31 lat. <em>Valentino</em> powstaje w&nbsp;1979, a&nbsp;więc w&nbsp;chwili, gdy jego reżyser ma już na&nbsp;koncie <em>Kochanków muzyki</em> (1970), <em>Mahlera</em> (1974) i&nbsp;<em>Lisztomanię</em> (1975) – trzy najlepsze chyba w&nbsp;swojej twórczości biografie. <em>Valentino</em> ma z&nbsp;nimi wiele wspólnego. Przejrzysta konstrukcja, spójna w&nbsp;gruncie rzeczy fabuła i&nbsp;jednoczesna nierzeczywistość, dziwna intensywność, która może drażnić i&nbsp;może sprawiać przyjemność. Russell jest zarazem sentymentalny – nie boi się landszaftów, upajającej muzyki, natchnionych deklaracji – i&nbsp;agresywny przez stosowanie zniekształconych zbliżeń, gwałtownych ruchów kamery, nagromadzenie obrzydliwości. Jedna z&nbsp;książek poświęconych jego filmom nazywa się <em>Falliczny szał</em> (<em>Phallic Frenzy</em><sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>). To dobry tytuł. We wszystkich czterech biografiach, o&nbsp;których tu mowa, niepokój wywołany pytaniem o&nbsp;męskość przybiera formę drastycznych koszmarów. Najsłynniejszy z&nbsp;nich to oczywiście zgilotynowanie ogromnego penisa, na&nbsp;którym lata, niczym czarownica na&nbsp;miotle, Ferenc Liszt.</p> <p>„Russell posiada dar wynajdywania obrazów wyrażających emocje w&nbsp;sposób, który przewyższa słowa bądź czyny” – jak wyraził się jeden z&nbsp;producentów <em>Valentino</em>. Sam reżyser przyznaje, że&nbsp;jest „nażarty obrazem, sposobem, w&nbsp;jaki rzeczy wyglądają”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Trumienny (dlaczego by nie?) portret Valentino nie tylko supła różne wątki związane z&nbsp;legendą aktora, lecz również pozwala uchwycić pułapki wiążące się z&nbsp;pisaniem jego biografii. To rodzaj skrótu, symbolu, ale też metakomentarza. To również dialog z&nbsp;pewną tradycją.</p> <p>Wystawiony na&nbsp;widok piękny trup, niewątpliwie jeden z&nbsp;tych, którym książkę poświęca Elizabeth Bronfen<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Martwa, ale jakby „świeża” twarz w&nbsp;otoczeniu kwiatów, które – w&nbsp;odniesieniu do przedstawionej postaci – nabierają nowych znaczeń. Tak, Russell niewątpliwie nawiązuje do tradycji ofelicznej. Kontynuuje ją, zdradza. I&nbsp;to w&nbsp;podwójnym znaczeniu tego słowa: sprzeniewierza się jej, przekształca oraz demaskuje ją, wydobywa na&nbsp;jaw jej ukryte przesłanki. Tytułowe wynaturzenie ma u&nbsp;mnie wiele znaczeń; będę je stopniowo odsłaniać dalej. Na&nbsp;razie proponuję traktować je jako odstępstwo w&nbsp;ciągu obrazów ofelicznych.</p> <h2>Nadmiar prawdy</h2> <p>Piękny trup zajmuje w&nbsp;opowieści Russella miejsce centralne. W&nbsp;<em>Valentino</em> na&nbsp;wzór <em>Obywatela Kane’a</em> biografia wysnuwa się znad zwłok, lepiona ze wspomnień i&nbsp;fantazji żałobników. Russell wiele na&nbsp;tym wygrywa, trudno bowiem o&nbsp;bardziej wymowne podsumowanie życia Valentino niż jego pogrzeb, który – ponieważ zwłoki idola (wystawione zresztą na&nbsp;widok zgodnie z&nbsp;jego przedśmiertnym życzeniem) chciało zobaczyć około sto tysięcy osób<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> – przerodził się w&nbsp;zamieszki. Russell oddaje je w&nbsp;kilku wymownych scenach: konna policja rozpędza zgromadzony przed zakładem tłum, pod&nbsp;jego naporem pękają szyby w&nbsp;gigantycznych oknach budynku, a&nbsp;szkło zaczyna spadać na&nbsp;niemających dokąd uciec i&nbsp;ogarniętych paniką ludzi. Kolejne minuty pokazują pomieszczenie domu pogrzebowego przemienione w&nbsp;polowy szpital dla stratowanych i&nbsp;okaleczonych.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <p>Valentino należał do pierwszego pokolenia gwiazd, w&nbsp;dzisiejszym tego słowa znaczeniu. Masowa histeria, jaką wywoływał, stanowiła zagadkę dla ówczesnych psychiatrów i&nbsp;psychologów. Wśród nich znaleźli się tacy, którzy postanowili widzom filmowego seansu mierzyć puls, by następnie sporządzać na&nbsp;podstawie wyników skomplikowane wykresy i&nbsp;tabele. Stąd zresztą upowszechniło się w&nbsp;języku angielskim słowo <em>heart-throb</em> (dosłownie: bicie serca), funkcjonujące odtąd jako synonim idola. Valentino, od sukcesu filmu <a href="https://archive.org/details/TheSheik" target="_blank" rel="noopener"><em>Szejk</em> (1921)</a> masowo uwielbiany przez kobiety, szybko, jako potencjalny rywal, staje się obiektem nienawiści mężczyzn. Nie daje się jednak ona wyjaśnić jedynie w&nbsp;kategoriach zawiści, co świetnie pokazuje opublikowana w&nbsp;1922 roku w&nbsp;„Photoplay” <em>Pieśń nienawiści</em>. Dick Dorgan, stały współpracownik magazynu, obwieszcza w&nbsp;niej powstanie „sekretnego zakonu”, którego członkowie (a są nimi <span class="rozstrzelony">wszyscy</span> mężczyźni) wyznają cnoty nienawiści, odrazy i&nbsp;pogardy w&nbsp;stosunku do Valentino:</p> <p>Nienawidzę Valentino, nienawidzę jego orientalnych oczu; nienawidzę jego klasycznego nosa, nienawidzę jego rzymskiej twarzy; nienawidzę jego lśniących zębów; nienawidzę jego włosów jak lakierowana skóra; nienawidzę jego spojrzenia jak hipnotyzujące spojrzenie Svengaliego<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>.</p> <p>Wyliczanka, którą rozpoczyna orient, a&nbsp;kończy odrażająca postać Żyda z&nbsp;powieści Georges’a du Mauriera, ujawnia cały ładunek niechęci, jaką budziła – kojarzona z&nbsp;Valentino – etniczna obcość.</p> <p>W filmie Russella wybrzmiewa i&nbsp;pieśń miłości, i&nbsp;pieśń nienawiści. Jest i&nbsp;ciągnący się dokąd oko sięgnie tłum fanek odmawiających długą i&nbsp;żarliwą litanię przed domem Valentino, i&nbsp;sadystyczny strażnik więzienny, który na&nbsp;oczach nienawistnej widowni upokarza aktora. Obie sceny zostają nakręcone w&nbsp;iście russellowskim stylu: napastliwym, agresywnym, obleśnym. Zachrypnięty głos wrzeszczącej przywódczyni kobiecego chóru przypomina zgrzyt ostrzonych noży. A&nbsp;udręczony w&nbsp;więziennej celi Valentino poślizgnie się na&nbsp;wymiotach i&nbsp;upadnie pod&nbsp;nogi zapamiętale masturbującego się brudnawego mężczyzny. W&nbsp;<em>Valentino</em> jednak Russell, choć stosuje groteskę, nie wprowadza scen fantastycznych, które stały się „znakiem firmowym” biografii Czajkowskiego, Liszta i&nbsp;Mahlera. Biografia Valentino pokazuje wydarzenia rzeczywiste. Słusznie wyjaśniał Bland, autor swoistej monografii filmu: „Nie było potrzeby uwydatniania bądź przesadzania, ponieważ prawda była już ponadwymiarowa, przesadna; Russell mógł ją odtworzyć praktycznie bez zmian”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Co to za&nbsp;„przesadna prawda”?</p> <p>W późniejszym o&nbsp;cztery lata od <em>Pieśni nienawiści</em> słynnym wstępniaku do „Chicago Tribune” bezimienny autor oskarża Valentino o&nbsp;szkodliwy wpływ na&nbsp;amerykańskich mężczyzn, ich „degenerację w&nbsp;zniewieściałość”. Impulsem staje się dla dziennikarza wizyta w&nbsp;męskiej toalecie, gdzie na&nbsp;ścianie widzi automat na&nbsp;puder. Oczekując, że&nbsp;automat zostanie zerwany (lub co najmniej zignorowany), widzi jednak, że&nbsp;korzysta z&nbsp;niego dwóch mężczyzn (autor bierze to słowo w&nbsp;cudzysłów). Wywołują w&nbsp;nim obrzydzenie, podobne do tego, jakie czuje on wobec pacyfizmu, światopoglądu spokrewnionego z&nbsp;różowieniem sobie policzków. „<em>Homo Americanus</em>! – wykrzykuje autor. – Dlaczego przed laty nikt po&nbsp;cichu nie utopił [Valentino]?”. Przezwisko aktora zostaje ujęte w&nbsp;zgrabną aliterację: „pink powder puff and painted pansy” (różowy puszek do pudru i&nbsp;wymalowana ciota).</p> <p>Valentino w&nbsp;odpowiedzi zamieszcza w&nbsp;„Chicago Herald–Examiner” (największej konkurencji dla „Chicago Tribune”) list otwarty „do mężczyzny (?), który napisał artykuł wstępny zatytułowany <em>Puszki do różu</em> w&nbsp;niedzielnej »Tribune«”, i&nbsp;wyzywa w&nbsp;nim adresata nie na&nbsp;pojedynek „w powszechnym znaczeniu tego słowa” (bo to byłoby nielegalne), lecz na&nbsp;bokserski mecz. Jego wynik, pisze Valentino, pokaże, „kto z&nbsp;nas jest bardziej męski”. Absurd tej historii jest tym większy, że&nbsp;pojedynek ów rzeczywiście się odbywa! (W niezwykłej zresztą scenerii, bo&nbsp;na dachu hotelu Ambasador w&nbsp;Nowym Jorku). Przeciwnikiem Valentino nie jest autor <em>Puszków</em>, lecz Frank O'Neil, dziennikarz, który w&nbsp;odpowiedzi na&nbsp;list aktora propnuje towarzyski mecz, jednak stawka pozostaje ta sama. Valentino ma udowodnić swoją męskość. Udowadnia. Pięć tygodni później umiera.</p> <h2>Puder</h2> <p>Russell bezbłędnie wyczuł potencjał epizodu z&nbsp;pudrem. W&nbsp;jego filmie Valentino po&nbsp;pojedynku (którego drugim etapem jest konkurs na&nbsp;ilość wypitego alkoholu) wraca do domu, gdzie sięgając po&nbsp;leżącą na&nbsp;stole pomarańczę, zatacza się i&nbsp;upada. Kolejne ujęcie pokazuje jego nagie ciało na&nbsp;katafalku. Z&nbsp;tej sekwencji wynika, że&nbsp;Valentino umarł na&nbsp;skutek stoczonego pojedynku, że&nbsp;umarł w&nbsp;obronie swojej męskości, że&nbsp;dla męskości zaryzykował życie i&nbsp;za męskość to życie oddał. Jego ostatnie słowa w&nbsp;filmie brzmią: „Ten Amerykanin dowiódł swego honoru i&nbsp;męskości”. Valentino u&nbsp;Russela umiera zatem w&nbsp;sprawie pudru.</p> <p>Russell nie wygłupia się z&nbsp;tworzeniem zniewieściałego bohatera. Cały ładunek tej opowieści przenosi na&nbsp;trumienny portret. To w&nbsp;nim dochodzi do głosu znaczący zgrzyt, który rozlega się, gdy do biografii aktora przyłożymy dyskurs różnicy płci. To kwestia oczywiście różu, szminki i&nbsp;pudru, z&nbsp;którego proponuję uczynić metonimię makijażu. Ale również kwestia kwiatów, których skąpi się przecież w&nbsp;ikonografii męskiego ciała, a&nbsp;jeśli się je już tam wprowadza, to właśnie po&nbsp;to, by męskość tego ciała zakwestionować. Przystrajając Valentino kwiatami, Russell realizuje po&nbsp;trosze marzenie autora <em>Puszków do różu</em>: Valentino nie zostaje wprawdzie utopiony, ale wygląda po&nbsp;śmierci jak najsłynniejsza topielica.</p> <p>Klatka z&nbsp;filmu Russella to bez wątpienia obraz ofeliczny. Nieważne, że&nbsp;jest na&nbsp;nim mężczyzna. W&nbsp;obrazie ofelicznym nie chodzi o&nbsp;to, by otoczyć kobietę kwiatami, ale o&nbsp;to, by za&nbsp;pomocą kwiatów „uchwycić istotę kobiecości”, wyrazić „kobiecość jako taką”. Mniej chodzi – paradoksalnie – o&nbsp;konkretne ciało, bardziej o&nbsp;esencję, którą kwiaty i/lub woda mają pomóc uchwycić.</p> <p>Russell, pokazując to, co niemęskie, w&nbsp;wizerunku mężczyzny, pokazuje, zgodnie z&nbsp;binarną logiką płci, to, co kobiece. Dokonuje on jednak znaczącego przesunięcia wobec przedstawień Ofelii. Z&nbsp;kobiecością zostaje tu utożsamiony makijaż. Jakby dopełnieniem kwiatów – zamiast wody – był tu puder. To niesłychanie istotne. Choć zatem wypadałoby zacząć od kwiatów, zacznę od pudru. Uczynienie z&nbsp;niego figury kobiecości nie może dziwić. Mizoginiczne przekonanie o&nbsp;właściwym kobietom upodobaniu do maskarady, fałszu ma długą tradycję; by nie szukać daleko, wystarczy sięgnąć po&nbsp;scenę z&nbsp;przywoływanego dramatu Szekspira, w&nbsp;której Hamlet mówi pogardliwie do Ofelii:</p> <blockquote>Słyszałem też o&nbsp;malowaniu się waszym; nie dość wam jednej twarzy otrzymanej od Boga, dorabiacie sobie drugą; sztafirkujecie się, krygujecie, cedzicie słowa, przedrzeźniacie boskie stworzenia i&nbsp;swawolę pokrywacie płaszczykiem niewinności<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>.</blockquote> <p>Romantyczna obsesja na&nbsp;punkcie autentyczności, uczyniła z&nbsp;tego przekonania pewien topos. Dla kobiet kochać to „bawić się w&nbsp;kłamstwo”, jak oznajmia jeden z&nbsp;bohaterów de Musseta, to:</p> <blockquote>bękarcia parodia zarówno występku, jak cnoty; głucha i&nbsp;podła komedia, pełna szeptów i&nbsp;kosych spojrzeń, gdzie wszystko jest małe, wytworne i&nbsp;zniekształcone, niby owe chińskie monstra z&nbsp;porcelany; żałosne przedrzeźnianie wszystkiego, co jest w&nbsp;świecie pięknego i&nbsp;szpetnego, boskiego i&nbsp;piekielnego<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>.</blockquote> <p>Kobiety ukrywają swoje „prawdziwe” oblicze. W&nbsp;literaturze polskiej dojmująco dał wyraz temu przekonaniu Krasiński, definiując kobietę jako anioła skrywającego ropuchę. Puder w&nbsp;tej narracji pełni ważną rolę. Pamiętajmy, z&nbsp;jaką trwogą piszą romantycy o&nbsp;makijażu, który pozwala kobietom zataić wiek, oszukiwać otoczenie i&nbsp;wabić swoje ofiary – niewinnych młodzieńców (Kunegunda w&nbsp;<em>Kasi z&nbsp;Heilbronnu</em> i&nbsp;Telimena w&nbsp;<em>Panu Tadeuszu</em>).</p> <p>Oczywiście całe to rozumowanie, przyłożone do ofelicznego obrazu Russella, prowadzi do absurdu. W&nbsp;jego filmie, który opowiada o&nbsp;tym, jak „nieprawdziwy” mężczyzna, „nieprawdziwy” Amerykanin usiłuje dowieść swej autentyczności, dosłowne i&nbsp;metaforyczne znaczenie pudru nakłada się na&nbsp;siebie. W&nbsp;efekcie pojawia się niedorzeczność: jeśli Valentino udaje kogoś, kim nie jest, jeśli ukrywa coś pod&nbsp;warstwą pudru, to jest to „rzeczywista” kobiecość. Puder, krótko mówiąc, służy Valentino do udawania mężczyzn.</p> <p>Puder w&nbsp;zestawieniu z&nbsp;kwiatami przynosi kolejny paradoks. W&nbsp;obrazach Ofelii służą one przecież (wraz z&nbsp;wodą) również do połączenia kobiecości z&nbsp;naturą. Jeśli zatem przeciwstawienie autentyczne – sztuczne uznać za&nbsp;przedłużenie dychotomii natura – kultura i&nbsp;jeśli kobieta ma się do natury tak jak mężczyzna do kultury, by użyć tytułu klasycznego już artykułu Sherry Ortner<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>, to obraz Russella, łącząc kobiecość i&nbsp;ze sztucznością, i&nbsp;z naturą, wpędza w&nbsp;znamienną pułapkę. Ciąg opozycji, na&nbsp;którym opiera się fallogocentryczny porządek, ulega rozsypce. Ofelizm okazuje się narzędziem dekonstrukcji. Jej pracę wykonują przede wszystkim kwiaty. Nie tylko kamelie. Również róże. A&nbsp;także bratki i&nbsp;fiołki, nenufary i&nbsp;storczyki.</p> <h2>Widmo róży</h2> <p>Russell zamieszcza w&nbsp;filmie scenę opartą na&nbsp;pogłoskach – jakoby <a href="https://www.youtube.com/watch?v=qRlWUaIbTco" target="_blank" rel="noopener">Valentino miał uczyć tanga samego Wacława Niżyńskiego</a>. Pokazuje wielką salę tea-roomu, a&nbsp;w niej podobnie zbudowanych, tak samo ubranych i&nbsp;uczesanych mężczyzn, którzy tańcząc, wpatrzeni w&nbsp;siebie, pełni pasji, tworzą lustrzany układ. Można rzecz jasna widzieć w&nbsp;tym tańcu intymny moment między kochankami<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Ale – w&nbsp;zestawieniu ze sceną, w&nbsp;której Valentino, ucharakteryzowany na&nbsp;fauna z&nbsp;baletu Claude’a Debussy’ego i&nbsp;Michaiła Fokina, pozuje do zdjęć Ałły Nazimowej i&nbsp;Nataszy Rambowej – wydaje się ona częścią szerszego zamysłu. Russell ukazuje biografie Valentino i&nbsp;Niżyńskiego jako „żywoty równoległe”, które realizując wzorce męskości niehegemonicznej, oświetlają się nawzajem, dopowiadają i&nbsp;korygują. Te symetrie same się narzucają. Oto „wymalowany pedał”, regularnie oskarżany o&nbsp;„niemęskość”. I&nbsp;tancerz baletowy, który staje się gwiazdą zespołu prowadzonego przez Siergieja Diagilewa niekryjącego swoich seksualnych relacji z&nbsp;innymi mężczyznami<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup> i&nbsp;który zarazem występując jako solista, zajmuje miejsce zarezerwowane do tej pory dla kobiet. Aktor, który swój status symbolu seksu zawdzięczał roli arabskiego przywódcy. I&nbsp;tancerz baletowy słynny między innymi jako Złoty Niewolnik z&nbsp;libretta opartego na&nbsp;<em>Baśniach tysiąca i&nbsp;jednej nocy</em>. To wymowne zestawienie pozwala bardzo dobrze zobaczyć, co składało się na&nbsp;niehegemoniczną męskość Valentino i&nbsp;Niżyńskiego, których wizerunki powstają na&nbsp;styku życia prywatnego i&nbsp;odgrywanych (na scenie baletowej i&nbsp;na planie filmowym) ról: był to splot nienormatywnej seksualności i&nbsp;etnicznej obcości.</p> <p>Pośród niemęskich (nieludzkich) wcieleń Niżyńskiego interesuje mnie jednak nie Faun i&nbsp;nie Złoty Niewolnik, lecz róża czy też raczej jej widmo z&nbsp;baletu, do którego muzykę napisał Hector Berlioz, a&nbsp;choreografię stworzył Fokin. Rolę tę uznaje się zresztą za&nbsp;definiujący obraz tancerza<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Podstawą libretta był wiersz Théophile’a Gautiera – monolog róży, którą poprzedniego dnia nosiła przy sukni, podczas balu, młoda kobieta, adresatka utworu. Widmo nawiedza jej sypialnię, obiecując, że&nbsp;będzie to odtąd robić regularnie. Nie kieruje nim chęć zemsty. Swoją śmierć róża uznaje za&nbsp;piękną, godną zazdrości:</p> <blockquote>Mon destin fut digne d’envie:<br> Pour avoir un trepas si beau,<br> Plus d’un aurait donne sa vie,<br> Car j’ai ta gorge pour tombeau [...].</blockquote> <p>Wiersz Gautiera cechuje łagodny smutek i&nbsp;niesłychana prostota. Balet nie niweczy tego nastroju, ale cała historia zyskuje w&nbsp;nim wymiar fantazji erotycznej. Widmo, krążąc wokół śpiącej dziewczyny, podrywa ją w&nbsp;końcu z&nbsp;miejsca. Jej ciało najpierw bezwładne, jakby wciąż pogrążone we śnie, z&nbsp;czasem nabiera lekkości i&nbsp;wigoru, a&nbsp;ich wspólny taniec na&nbsp;końcu mógłby odbyć się na&nbsp;balu, o&nbsp;którym napomyka wiersz. Róża jednak, jak komentuje swoją choreografię Fokin, nie jest w&nbsp;żadnym razie ani <em>cavalier</em>, ani typowym partnerem baleriny<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. Zamiast <em>port de bras</em> klasycznego baletu choreograf „użył wygięć i&nbsp;wijących się ruchów rąk i&nbsp;palców. Niżyński jako róża stał się androginiczną postacią, pokazującą męską siłę w&nbsp;nogach i&nbsp;kobiecą delikatność w&nbsp;rękach”<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. Podobne połączenie demonstruje kostium, zaprojektowany przez Leona Baksta. Klasycznym męskim trykotom towarzyszy nietypowa góra: czepeczek, wydekoltowana bluzka na&nbsp;ramiączkach oraz naramienniki pokryte jedwabnymi płatkami róży przypominają strój baleriny.</p> <p>Znów zatem: kwiat, który nadwątla męskość. Jak kamelie wokół głowy Valentino. Ta rola Niżyńskiego umożliwia ważne przejście: od mężczyzny w&nbsp;otoczeniu kwiatów do mężczyzny-kwiatu, od mężczyzny ukwieconego do mężczyzny kwitnącego. Na&nbsp;wzór Ofelii zresztą, róży Elsynoru. U&nbsp;Russella nie ma róży, ale jej widmem, można powiedzieć, staje się bratek, <em>pansy</em> – to słowo, pisząc o&nbsp;paszkwilu w&nbsp;„Chicago Tribune”, tłumaczyłam jako „pedał”. Bratek dopełnia kamelii. <em>Pansy</em> na&nbsp;dwa sposoby przypieczętowuje zniewieścienie Valentino, Russell bowiem wyławia w&nbsp;swoim filmie tę grę słów. Dziennikarz wskazujący na&nbsp;bukiecik kwiatów, trzymany przez Biankę de Saulles, mówi, „Zrobię zdjęcie pani i&nbsp;bratkom”. „To fiołki!!!” – krzyczy Bianka, na&nbsp;co dziennikarz odpowiada: „Szkoda. Z&nbsp;tego, co słyszałem, bratki byłyby bardziej na&nbsp;miejscu”.</p> <p>Kwiaty na&nbsp;obrazach ofelicznych – pisałam – mają pomóc uchwycić istotę kobiecości. Mają również w&nbsp;efekcie ustanowić znak równości między kobietą a&nbsp;kwiatem. Prześwituje przez nie coś więcej niż zwykła analogia. Kwiaty są imionami kobiet. Różewicz, u&nbsp;którego imię kobiety staje się nazwą kwiatu („dwie kamelie, ofelie, trzy tuberozy”), porzuca wręcz podobieństwo na&nbsp;rzecz tożsamości. Ja, póki co, zatrzymuję się na&nbsp;analogii. Wyraża ona fundamentalne dla kultury patriarchalnej przekonanie, że&nbsp;kapitał społeczny kobiet sprowadza się do atrakcyjnego wyglądu, który – w&nbsp;przeciwieństwie do męskiej mądrości akumulującej się z&nbsp;wiekiem – prędko przemija. Kobieta nie tylko zakwita i&nbsp;przekwita, również więdnie, jak róża z&nbsp;baletu Fokina. Nie zgadzam się z&nbsp;tym, że&nbsp;wiersz Gautiera to typowa dla pisarza voyeurystyczna fantazja o&nbsp;tym, jak kwiat-mężczyzna pogrąża się w&nbsp;kontemplacji śpiącej dziewczyny<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. Raczej dochodzi tu do głosu masochizm; kwiat celebruje swój rychły koniec, poprzedzony wyrzuceniem na&nbsp;śmietnik. Przede wszystkim jednak podziemnym nurtem tego miłosnego wyznania staje się płciowa transgresja. Ukobiecenie, którego skrótem staje się formuła „niczym kwiat”, w&nbsp;przypadku Niżyńskiego i&nbsp;Valentino odsyłałoby do wymogu młodego, sprawnego i&nbsp;atrakcyjnego ciała, bez którego trudno mówić o&nbsp;tożsamości tancerza baletowego i&nbsp;kinowego amanta.</p> <h2>Władczynie spojrzenia</h2> <p>Miriam Bratu Hansen książkę o&nbsp;widowni w&nbsp;hollywoodzkim kinie niemym rozpoczyna opisem kariery filmu <em>The Corbett–Fitzsimmons Fight</em> (1897), który był zapisem walki o&nbsp;mistrzostwo wagi ciężkiej. Film około stuminutowej długości, niezwykłej jak na&nbsp;tamte czasy, grano w&nbsp;większych miastach Stanów Zjednoczonych przez wiele tygodni. Hansen zwraca uwagę na&nbsp;to, co również ze zdumieniem odnotowywali ówcześni recenzenci: że&nbsp;spośród ogromnej liczby widzów, którzy pochodzili z&nbsp;różnych klas społecznych, znaczną część stanowiły kobiety – wedle jednego ze źródeł było to nawet sześćdziesiąt procent. Kobiety zostały w&nbsp;ten sposób dopuszczone do widowiska, z&nbsp;którego tradycyjnie je wykluczano. „Oczywiście ten dostęp nie był tym samym, co uczestnictwo w&nbsp;wydarzeniu na&nbsp;żywo” – jak pisze badaczka – doświadczenie zostało wyprane z&nbsp;hałasu, zapachu, ekscytacji widowni. Niemniej dostarczyło ono kobietom zabronionego do tej pory widoku męskiego, półnagiego ciała<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>.</p> <p>Miriam Hansen, podkreślając rolę wczesnego kina w&nbsp;emancypacji kobiet, sporą część książki poświęca legendzie Rudolfa Valentino. Jej rozważania zmierzają do przekroczenia utartej formuły o&nbsp;jego hipnotyzującym spojrzeniu doprowadzającym kobiety do szaleństwa. Z&nbsp;filmów z&nbsp;jego udziałem wydobywa ona między innymi sceny, w&nbsp;których Valentino, spoglądając na&nbsp;obiekt swoich uczuć, wydaje się sparaliżowany raczej niźli agresywny, „zachowuje się raczej jako królik niźli wąż”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. „Pierwszy męski symbol seksu” interesuje bowiem Miriam Hansen jako obiekt spojrzenia i&nbsp;pożądania, a&nbsp;także figura i&nbsp;funkcja kobiecej widowni traktowanej zarówno w&nbsp;wymiarze konsumenckim, jak i&nbsp;w kategoriach alternatywnej sfery publicznej<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>. Materiałów dostarcza jej nie tylko dyskurs wokół Valentino (wywiady, recenzje, materiały reklamowe, wypowiedzi fanów etc.), ale również same filmy z&nbsp;jego udziałem. Zdaniem Hansen zawartą w&nbsp;nich grę spojrzeń cechuje wyraźna ambiwalencja i&nbsp;kobiecemu heteroseksualnemu widzowi oferują one kilka scenariuszy identyfikacji. Między innymi pozwalają jej przejąć pozycję władczyni spojrzenia,</p> <p>Zaproponowane przez Miriam Hansen odczytania filmów z&nbsp;Valentino stanowią więc ważne uzupełnienie podstawowej dla feministycznego filmoznawstwa teorii Laury Mulvey, która opisywała strategie fragmentaryzacji i&nbsp;fetyszyzacji kobiecego ciała przedstawianego z&nbsp;myślą o&nbsp;przyjemności męskiego widza. Pokazując potencjał przedefiniowania relacji między płciami, jaki miało gwiazdorskie kino robione z&nbsp;myślą o&nbsp;kobietach, Miriam Hansen dowodzi, że&nbsp;filmy z&nbsp;Valentino naruszały tabu kobiecej skopofilii. Dobrym przykładem zaburzenia genderowej ekonomii widzialności może być <em>Krew na&nbsp;piasku</em> (1922). Hansen tropi tam zbliżenia twarzy Valentino. Jedno z&nbsp;nich pojawia się, gdy grany przez niego bohater się zakochuje. Drugie – gdy wzrok kieruje na&nbsp;niego wzrok kobieta-wamp. Tego rodzaju ujęcia, słusznie zwraca uwagę Hansen, „w swojej promieniejącej malarskiej jakości [...] zawieszają na&nbsp;krótki czas metonimiczny napęd”, zamrażają akcję, tworząc przestrzeń na&nbsp;erotyczną kontemplację<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>.</p> <p>Można wrócić w&nbsp;tym miejscu do sceny tanga Valentino i&nbsp;Niżyńskiego. Następuje w&nbsp;niej wejście kobiety, która przez jakiś czas, wyraźnie zachwycona, obserwuje taniec. Wkrótce dołącza kolejna, też się przygląda, z&nbsp;niezadowoloną miną, ale wyraźnie zainteresowana. I&nbsp;tak przez dłuższą chwilę: panowie tańczą, panie patrzą. Scena ta niewątpliwie jest wyzwaniem dla tradycyjnych koncepcji wizualności, wedle których mężczyźni nie mogą być obiektami pożądania<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>. Sugeruje ona również, że&nbsp;Niżyński do pewnego stopnia dzielił los Valentino. Diagilew, twórca Ballets Russes, nie tylko wprowadził zwyczaj, że&nbsp;solistami mogli być mężczyźni, a&nbsp;nie, jak do tej pory, wyłącznie primabaleriny, ale też „w ciągu kilku lat przekształcił balet ze spektaklu skupionego na&nbsp;kobiecym ciele na&nbsp;widowisko skoncentrowane na&nbsp;ciele męskim, muskularnym, ciele obdarzonym zdumiewającą, eksplozyjną energią”<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>.</p> <h2>Efekt „patrz-na-mnie”</h2> <p>To mogłaby być śpiąca królewna<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>. To mogłoby – zamiast wysadzanego kwiatami dywanu – być szkło. Odniesienie do Grimmów ma tę dodatkową korzyść, że&nbsp;szkło, jak pokazuje książka Marka Bieńczyka, cechuje ta fascynująca modalność: jest ono przeszkodą i&nbsp;zniesieniem przeszkody. Będąc przezroczystym – sprawia, że&nbsp;coś staje się widzialne, ale izolując, czyni to, co przesłania, widocznym<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>. Widzialne nie jest oczywiście po&nbsp;prostu widzialne, w&nbsp;sensie „obiektywnie” dostępnego zmysłom przedmiotu, i&nbsp;trzeba się zgodzić z&nbsp;filozofami, którzy piszą o&nbsp;reżimach widzialności, łącząc ją z&nbsp;procesami dystrybucji władzy, ale widzialne różni się jakoś od widocznego, które jest dostępne na&nbsp;innych zasadach – unieruchomione, pod&nbsp;szkłem, przeznaczone wyłącznie do oglądania, zauważone – daje efekt patrz-na-mnie. Może tak właśnie należałoby przetłumaczyć pojęcie <em>look-at-ness</em>, którą Miriam Hansen przejmuje od Laury Mulvey, by ją odnieść do sfetyszyzowanego ciała Valentino? <sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup> Zwrot, który gmatwa kategorie temporalne i&nbsp;znosi różnicę między podmiotem a&nbsp;przedmiotem.</p> <p>Dlaczego obraz ofeliczny miałby być dobrym skrótem dla biografii Valentino? Kiedy Król i&nbsp;Królowa próbują dociec, co jest przyczyną szaleństwa Hamleta, proszą Ofelię o&nbsp;zgodę na&nbsp;to, by jej spotkanie z&nbsp;księciem podglądał Król wraz Poloniuszem. „Abyśmy widząc, niewidzialni sami” – wyjaśnia Król – mogli osądzić, czy to miłość<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>. Dając jej książkę, instruują ją, że&nbsp;ma czytać i&nbsp;wyglądać pobożnie. Tak Ofelia, postać w&nbsp;ogóle emblematyczna, pozbawiona właściwie wpływu na&nbsp;rozwój akcji dramatu<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>, po&nbsp;raz pierwszy przeistacza się w&nbsp;obraz, co czyni tę scenę zapowiedzią monologu królowej, która figuratywnie przedstawi relację z&nbsp;tego, jak zginęła Ofelia. Może woda spełnia w&nbsp;tym opisie rolę analogiczną do szkła. Dlatego o&nbsp;dziewiętnastowiecznych topielicach sądzono, że&nbsp;rodzaj samobójstwa wybrały, kierując się próżnością<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>. Śmierć w&nbsp;wodzie nie tylko nie okalecza i&nbsp;nie oszpeca ciała, lecz jest wręcz estetyczna. Woda, wprowadzając między patrzącym a&nbsp;trupem granicę niezbędną do złagodzenia tej konfrontacji, odpowiada zarazem za&nbsp;wypchnięcie tego trupa na&nbsp;widok, jest i&nbsp;przezroczystą przesłoną, i&nbsp;dogodnym tłem.</p> <p>Z narzędzi widoczności Russell sięga po&nbsp;najprostszy, najbardziej oczywisty: ramę. Dziwna dziura w&nbsp;rozłożonej na&nbsp;płasko wyszytej kwiatami tkaninie może kojarzyć się z&nbsp;dekoracją do fotografii – otworem na&nbsp;głowę pozującej osoby zrobionym w&nbsp;namalowanym na&nbsp;tekturze tle. Tworzą je – ułożone w&nbsp;owal – kwiaty, popularne na&nbsp;przedwojennych fotografiach. Powleczone fioletową tasiemką wycięcie – tak jak szkło – izoluje i&nbsp;odsłania. Valentino nie leży w&nbsp;szklanej trumnie, ale zostaje oprawiony.</p> <p><a name="OLE_LINK2"></a><a name="OLE_LINK1"></a> Polne, cieplarniane, sztuczne – to wyliczenie biorę z&nbsp;powieści Jorisa-Karla Huysmansa <em>Na wspak</em>. Jej bohater, Jan des Esseintes, arystokrata dekadent, nie tyle paradygmatyczny esteta, ile paradygmatyczny skopofil właśnie, uwielbia kwiaty. Oczywiście nad kwiaty polne przedkłada on cieplarniane, „hodowane z&nbsp;przemyślną troską pod&nbsp;sztucznymi zwrotnikami, w&nbsp;dozowanych podmuchach pieców”. „Rośliny dystyngowane, rzadkie, przybyłe z&nbsp;daleka”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>. Te właśnie, powiada, rezerwuje „dla całkowitej radości swoich oczu”. Związek kwiatów z&nbsp;okiem jest jednak zbyt fundamentalny, by ograniczał się tylko do cieplarnianych. Kwiaty, nie tak jak Ofelia i&nbsp;Valentino, są, aby wyglądać. Kwiaty są, <span class="rozstrzelony">bo</span> wyglądają. Poezja spotyka się tu z&nbsp;botaniką, bo&nbsp;ta ostatnia w&nbsp;równym stopniu docenia wygląd kwiatów, traktując go jako część układu rozrodczego roślin. Kolor, kształt, rozmiar kielicha i&nbsp;płatków, ich układ pozwalają zwabić zapylające owadów. Rośliny, kwitnąc, stają się dla nich widoczne. Kwiaty to efekt patrz-na-mnie <em>par excellence</em>.</p> <p>Oczywiście żywe rośliny, nawet te egzotyczne, „wysokiej ekstrakcji”, „drżące i&nbsp;przewrażliwione”, szybko nużą diuka Jana. Można to było łatwo przewidzieć. W&nbsp;końcu natura to „odwieczna nudziara”, „obrzydliwa jednostajnością swoich krajobrazów, obłoków i&nbsp;nieba”<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>. Des Esseintes porzuca kwiaty cieplarniane na&nbsp;rzecz sztucznych, wybiera „konterfekt, wykonany wiernie dzięki cudom kauczuku i&nbsp;nici, perkaliny i&nbsp;tafty, bibułek i&nbsp;aksamitów”<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>. Wrażliwość Russella ma coś wspólnego z&nbsp;postawą des Esseintes’a. Jak wspominają producenci filmu<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>, ogromne wrażenie zrobiło na&nbsp;reżyserze to, że&nbsp;na pogrzebie Valentino żałobnicy lamentowali nie nad jego zwłokami, lecz nad ich repliką wykonaną z&nbsp;wosku. Ciało aktora spoczywało w&nbsp;tym czasie piętro wyżej, obłożone lodem, który chronił je przed sierpniowym upałem<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>.<sup></sup>Wątek ten ostatecznie nie wszedł do filmu, ale coś z&nbsp;ironicznej nieprzyzwoitości tej anegdoty pozostało w&nbsp;obrazie twarzy wymalowanej jak twarz lalki. Śmierć Ofelii miała być piękna, śmierć Valentino jest wyfiokowana.</p> <h2>Kamelie, bratek</h2> <p>Symbolika kwiatów w&nbsp;kulturze elżbietańskiej (tak jak dziś) nie była wcale przejrzystym kodem i&nbsp;dopuszczała przypadki wieloznaczności. Perdita z&nbsp;<em>Opowieści zimowej</em>, kiedy rozdaje gościom kwiaty, dodatkowo objaśnia swoje gesty, by nie doszło do nieporozumienia. Dzięki temu, twierdzi Gellert Lyons, przejmuje ona także kontrolę nad znaczeniami kwiatów. Ofelia raczej wprowadza zamęt. Dając kwiaty Laertesowi, mówi wprawdzie, co one znaczą, lecz pozostawia zagadką wybór obdarowywanego; przy Królu w&nbsp;ogóle milczy na&nbsp;temat symboliki, mimo że&nbsp;koper, który mu podaje, można interpretować dwojako; o&nbsp;rucie wybranej dla Królowej natomiast stwierdza tajemniczo, że&nbsp;jej znaczenie zależy od posiadającej ją osoby. Kwiaty w&nbsp;<em>Hamlecie</em> określa chwiejność sensów; to ikonografia Ofelii je zamraża. U&nbsp;Szekspira, owszem, spajają one kobiecość, naturę i&nbsp;nierozumność, ale zarazem – w&nbsp;scenie rozdawania kwiatów właśnie, a&nbsp;także w&nbsp;efekcie działania wielu aluzji obecnych w&nbsp;całym tekście dramatu – obnażają one źródła kobiecego szaleństwa, którą tkwią w&nbsp;sprzecznych nakazach dotyczących seksualności. Ofelia ma być dostępna i&nbsp;niedostępna zarazem. Ma budować swoją tożsamość na&nbsp;byciu obiektem seksualnym i&nbsp;ma zarazem swoją seksualność tłumić.</p> <p>Jeśli Valentino mógłby być śpiącą królewną, to czy białe kamelie przy jego twarzy symbolizują niewinność? Widać tu, jak ironiczny może być los symboli. Białe kamelie, traf chciał, przejęła jedna z&nbsp;najsłynniejszych w&nbsp;literaturze kurtyzan. Małgorzata Gautier z&nbsp;powieści Aleksandra Dumasa „nie uznawała żadnych innych kwiatów poza kameliami”. Miała je przy sobie zawsze, ilekroć szła na&nbsp;bal lub do teatru, w&nbsp;którym kładła je, obok lornetki i&nbsp;torebki z&nbsp;cukierkami, na&nbsp;balustradzie, zawsze w&nbsp;ten sam sposób. „Przez dwadzieścia pięć dni w&nbsp;miesiącu kamelie były białe, przez pozostałe pięć – czerwone”, relacjonuje Armand, narrator powieści, i&nbsp;dodaje rozbrajająco, że&nbsp;„nikt: ani bywalcy teatru, ani znajomi Małgorzaty, ani ja, który o&nbsp;tym wspominam, nikt nie umiał wytłumaczyć tej zmiany kolorów”<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup>. Białe kamelie są więc znakiem dostępności – bohaterka Dumasa w&nbsp;dniach, w&nbsp;których nosi czerwone kwiaty, nie przyjmuje kochanków. Ofeliczny obraz Russella przywraca kwiatom „pierwotną” wieloznaczność. Choć białe kamelie współgrają z&nbsp;oskarżeniami, jakie co rusz wybrzmiewają na&nbsp;pogrzebie – że&nbsp;Valentino, zanim został aktorem, zarabiał jako prostytutka – jednak nie unieruchamiają rojących się sensów. Przyjaciółki Valentino, upierając się, że&nbsp;nie był prostytutką, wykrzykują zgodnie: „Był profesjonalnym tancerzem”, podając bezwiednie drugie znaczenie słowa „żigolak”.</p> <p>Kamelia i&nbsp;bratek tworzą więc parę, która odpowiada dwóm głównym domysłom, jakie snują na&nbsp;temat Valentino dziennikarze – żigolo i&nbsp;pedał. Spójnik „i” jest tu szalenie istotny, bo&nbsp;pokazuje seksualność naznaczoną pewnym ekscesem. Wydaje się, że&nbsp;w&nbsp;wizerunku Valentino mniej chodzi o&nbsp;prostytuowanie się i&nbsp;akty jednopłciowe, a&nbsp;bardziej o&nbsp;ów nadmiar, o&nbsp;transgresję, która nie polega wcale na&nbsp;biseksualności. Valentino w&nbsp;oczach napastliwych dziennikarzy z&nbsp;filmu Russella jest niejako i&nbsp;heteroseksualny, i&nbsp;homoseksualny. Jako Szejk przypomina Złotego Niewolnika: performuje ogólny, libidinalny eksces, który wydaje się zdolny do przyjmowania wielu form. „Legendy haremu, arabskich nocy i&nbsp;<em>Kamasutry</em> utrwaliły obraz Orientu jako uwodzicielskiego i&nbsp;zdeprawowanego” – wyjaśnia Stoneley. – „Widziano w&nbsp;nim miejsce dziwnych i&nbsp;niezwykłych kar i&nbsp;również dziwnych gwałtownych namiętności”<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>. Świat Szejka i&nbsp;świat Szeherezady to ekstremalny erotyczny wszechświat daleki od chrześcijańskiego łoża małżeńskiego. Ciało Valentino stanowi impuls do tego typu fantazji, furtkę do krainy romansu, jak mówi June z&nbsp;filmu Russella. Tak jak ciało Niżyńskiego, obiecuje ono rozkosz, której w&nbsp;chwili składania obietnicy nie można sobie wyobrazić.</p> <h2>Jan Chrzciciel</h2> <p>Balet Fokina w&nbsp;jednej z&nbsp;inscenizacji kończy się skokiem przez okno. Nie samobójczym, zgoda, bo&nbsp;kwiat już nie żyje, a&nbsp;tańczy jego widmo, jednak skokiem, który przypomina tamten gwałtowny gest – ścięcie.</p> <p>„Zasłona” białych kamelii, jak pisałam wcześniej, to w&nbsp;rzeczywistości ogromna peleryna, w&nbsp;której jedna z&nbsp;żałobnic, Ałła Nazimowa, przybywa na&nbsp;pogrzeb aktora. Pelerynę, która za&nbsp;aktorką ciągnie się jeszcze kilka metrów, podtrzymuje orszak identycznie zakwefionych postaci. Pomagają one Nazimowej okryć zwłoki Valentino, zostawiając jedynie otwór na&nbsp;jego głowę. Wkrótce kamera pokaże trumnę z&nbsp;boku – spływający z&nbsp;niej dywan z&nbsp;kamelii stanie się tłem efektownego omdlenia, wykonanego na&nbsp;bis, którego żąda wyjątkowo nienasycona publiczność, jaką tworzy grupa fotoreporterów.</p> <p>Płaszcz Nazimowej, projekt Shirley Russell, miał przypominać strój Salome z&nbsp;rysunków Aubreya Beardsleya do dramatu Oscara Wilde’a, a&nbsp;także – inspirowane nimi – kostiumy z&nbsp;filmu Ałły Nazimowej. Kostiumy te, przykuwające uwagę również dzisiaj, wykonywała zresztą Natasza Rambowa, druga żona Valentino. Ten kontekst wyznacza zupełnie nowy kierunek lektury. Jeśli Nazimowa jest po&nbsp;trosze Salome, to głowa Valentino staje się wówczas głową Jana Chrzciciela, którą kazała sobie przynieść na&nbsp;złotej tacy kobieta stojąca na&nbsp;czele korowodu złowrogich <em>femmes fatales</em> (sportretowana zresztą przez Russella dziewięć lat później w&nbsp;<em>Ostatnim tańcu Salome</em>). Valentino zostaje ścięty, podobnie jak róża Gautiera, róża Niżyńskiego, ale też podobnie jak Ferenc Liszt, najpierw wessany w&nbsp;otchłań waginy, a&nbsp;potem przywiedziony pod&nbsp;gilotynę.</p> <p>Czy obraz Russella to jeszcze portret? Przekręcona głowa, ułożona na&nbsp;wspak właśnie odwodzi od takiej klasyfikacji. A&nbsp;to „na wspak” w&nbsp;połączeniu z&nbsp;oprawką, w&nbsp;której znajduje się głowa, każe właściwie myśleć o&nbsp;sytuacji porodu. Może trzeba by więc pytać, czy to już portret. Odzwierciedla się tu w&nbsp;każdym razie przekonanie, że&nbsp;Valentino nie został stworzony dla kobiet i&nbsp;przez kobiety<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>. Skojarzenie z&nbsp;Janem Chrzcicielem i&nbsp;Ferencem Lisztem każe jednak zrównywać ten poród z&nbsp;kastracją i&nbsp;dekapitacją.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/wynaturzenie/160-1902-1-pb-1920x-197.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/wynaturzenie/160-1902-1-pb-330x-a8d.jpg 330w,assets/cache/images/issues/2014/5/wynaturzenie/160-1902-1-pb-660x-e2e.jpg 660w,assets/cache/images/issues/2014/5/wynaturzenie/160-1902-1-pb-768x-98a.jpg 768w,assets/cache/images/issues/2014/5/wynaturzenie/160-1902-1-pb-1320x-5cc.jpg 1320w" src="assets/cache/images/issues/2014/5/wynaturzenie/160-1902-1-pb-660x-e2e.jpg" alt="" ></a>    <figcaption><p><em>Valentino</em>, reż. Ken Russell (1977)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Głowa Valentino, którą na&nbsp;początku filmu trzeba oglądać do góry nogami, pod&nbsp;koniec pojawia się jeszcze raz, pokazywana już z&nbsp;drugiej strony. Ten bliźniaczy obraz „psuje” po&nbsp;kilku sekundach wślizgująca się ręka, ubrana w&nbsp;czarną długą rękawiczkę. Dłoń zatrzymuje się nad twarzą Valentino. Powstaje obraz, który wraz z&nbsp;tym, który analizowałam do tej pory, tworzy interesujący dyptyk. Czarna dłoń, za&nbsp;którą idzie koniec niewinności, dopełnia zarazem aktu uprzedmiotowienia i&nbsp;zawłaszczenia. Twarz Valentino może zostać przywrócona do porządku, doprowadzona do komunikatywności, ale za&nbsp;cenę postawionego na&nbsp;niej stempla, producenckiego znaku.</p> <h2>Botanika i&nbsp;poezja</h2> <p>Maurycy Maeterlinck, który uprawiał i&nbsp;poezję, i&nbsp;botanikę, w&nbsp;<em>Inteligencji kwiatów</em>, skupia się przede wszystkim na&nbsp;procesach rozmnażania<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>. W&nbsp;nich wyraża się jego zdaniem „owa niepojęta, a&nbsp;tak skuteczna chytrość” roślin. Niepojęta, bo&nbsp;„nie zmierza [ona] do zaspokojenia żądzy jadła, potrzeby bezwzględnej i&nbsp;nieodzownej, która wyostrza zawsze inteligencję, najtępszą nawet”, lecz troszczy się „o ideał daleki, o&nbsp;[...] rozmnożenie gatunku” (s. 63) i&nbsp;o „utrzymanie [go] w&nbsp;stanie nietykalnym” (s. 50–51). Maeterlinck sięga przede wszystkim po&nbsp;metafory techniczne i&nbsp;militarne. Wymienia „śmigi aeroplanowe”, „dźwignie automatyczne”, „instalacje hydrauliczne”, sprężyny, cylindry, wentyle, wspomina o&nbsp;artylerii, batalistyce, awiacji. Mają one opisać sposoby, jakich używają rośliny do rozmnażania się, ale też zakreślić cel prokreacji, którym jest „ogarnięcie całej powierzchni globu” (s. 1), „zrzucenie jarzma i&nbsp;zdobycie ekspansji przestrzennej” (s. 7). Wygląd, „optyczne działanie barw harmonijnych i&nbsp;jaskrawych” pełnią oczywiście w&nbsp;tych procesach rolę zasadniczą. W&nbsp;traktacie Maeterlincka więc botanika sprzeniewierza się poezji. Sławiąc piękno kwiatów, poezja nacisk kładzie przede wszystkim na&nbsp;przyjemność dostarczaną przez ich wygląd. Nie zajmuje się reprodukcją. Taki wymiar ma zresztą równanie między kwiatami a&nbsp;kobietami. Krótko mówiąc, jeśli botanika zajmuje się prokreacją, to poezja traktuje raczej o&nbsp;seksie.</p> <p>Maeterlinck jednak, opisując naturę, jakby urządzona była na&nbsp;wzór precyzyjnej maszyny, przyznaje, że&nbsp;zdarzają się w&nbsp;niej błędy. Natrafiając na&nbsp;działania roślin, których efektem nie jest rozmnożenie, pisze on o&nbsp;„omyłkach”. Nie będąc w&nbsp;stanie wyjaśnić pewnych procesów inaczej niż kategoriach rozrodczości, używa terminu „bezpożyteczność”. Wydaje się to doniosłe z&nbsp;wielu względów. Po&nbsp;pierwsze „omyłki” i&nbsp;„bezpożyteczność” podmywają fundamenty konserwatywnego światopoglądu, który Maeterlinck wysnuwa ze swoich obserwacji natury (przekonania, że&nbsp;skoro przyroda używa takich samych środków, co człowiek, oznacza, że&nbsp;„nie ma środków innych, że&nbsp;mamy rację, że&nbsp;zajmujemy właściwe stanowisko”, s.&nbsp;78). Po&nbsp;drugie rozsnuwa przed nami horyzont nowej botaniki. Botaniki, która przejmując od poezji obojętność na&nbsp;reprodukcję, nie przejmowałaby zarazem jej równania kobiety z&nbsp;kwiatem. U&nbsp;Maeterlincka znaleźć można zaledwie jej zalążki. Intensywną pracę nad podstawami tej botaniki wykonują natomiast Deleuze i&nbsp;Guattari, opisując storczyk.</p> <p><em>Ophrys</em>, czyli dwulistnik. Jego dolny płatek jest zgrubiały, czasem owłosiony i&nbsp;przypomina odwłok samicy owada. Odmiana <em>Ophrys speculum</em> ma bladoszafirowe lusterko, które wygląda jak skrzące skrzydła pszczoły lub osy. Darwin domyślał się, że&nbsp;to upodobnienie służy przywabieniu zapylającego storczyki owada, nie wiedział jednak, że&nbsp;między nim a&nbsp;płatkami kwiatu dochodzi do kopulacji. Kwiaty posługują się więc imitacją. Oszukują swoim wyglądem, tak jak kobiety, powiedziałby Hamlet, a&nbsp;Maeterlinck dorzuciłby, że&nbsp;w&nbsp;imię własnych gatunkowych interesów. To, co u&nbsp;Darwina jest jednak przede wszystkim przykładem niesłychanej adaptacji służącej przedłużeniu gatunku, Deleuze i&nbsp;Guattari próbują opisać jako związek między storczykiem a&nbsp;osą. Ich relacja jest znakomitym przykładem kłącza tworzonego przez hybrydyczne powiązania. Kłącze, które urzeczywistnia się w&nbsp;efekcie dodawania, jest dla nich narzędziem opisu natury widzianej jako stawanie się i&nbsp;pozostaje w&nbsp;zgodzie z&nbsp;koncepcją niereprodukcyjnego seksu jako pierwszorzędnej siły w&nbsp;naturze. Słowo imitacja, zdaniem Deleuze’a i&nbsp;Guattariego. nie oddaje w&nbsp;pełni tego, co wydarza się między storczykiem a&nbsp;osą. Chodzi bowiem „zgoła nie o&nbsp;naśladownictwo, lecz o&nbsp;pochwycenie kodu, wartości dodatkowej kodu, przyrost wartości, o&nbsp;prawdziwe stawanie się, stawanie się-osą dla orchidei, stawanie się-orchideą dla osy”<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>.</p> <p>Ta wizja alternatywnej botaniki tylko na&nbsp;pozór oddala mnie od obrazu ofelicznego u&nbsp;Russella. Jest on bowiem propozycją nie tylko przedefiniowania kategorii kobiecości, ale również innego spojrzenia na&nbsp;samą kategorię natury, której metonimią były w&nbsp;przedstawieniach ofelicznych kwiaty.</p> <h2>Kultywacja</h2> <p>Klasyfikacja „polne, cieplarniane, sztuczne” zbija z&nbsp;tropu, bo&nbsp;zamiast opozycji natura – kultura, proponuje pewną stopniowalność. Przypomina również o&nbsp;kłopotliwej etymologii słowa „kultura”, której pierwotnym znaczeniem było „kultywowanie”, czyli doglądanie wzrostu roślin, przy czym kultywacja – zauważa Terry Eagleton – „odnosiła się zarówno do regulowanego rozwoju, jak i&nbsp;do spontanicznego wzrostu”<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup>. Aby dać inny przykład tego, jak rozmywają się granice między działaniem i&nbsp;trwaniem, zmianę i&nbsp;tożsamością, Eagleton cytuje kwestię Poliksenesa z&nbsp;Szekspirowskiej <em>Zimowej opowieści</em>:</p> <blockquote>A jeśli nawet Naturę ulepszą<br> Jakieś, sposoby, to przecież Natura<br> Tworzy je; tak więc ponad ową sztukę,<br> Która, jak mówisz, poprawia Naturę,<br> Jest sztuka, którą stworzyła Natura.</blockquote> <p>Kultura jest i&nbsp;narzędziem zdolnym zmieniać naturę, i&nbsp;jej wytworem. Natura sama siebie przekształca. Inaczej mówiąc – <span class="rozstrzelony">wynaturza si</span>ę.</p> <p>Tak, oczywiście, tytułowe wynaturzenie można odnieść do samego Valentino. Centralna dla biografii z&nbsp;pudrem, portretem z&nbsp;kwiatami kategoria „prawdziwego mężczyzny” przynależy do retoryki naturalizującej, która męskość przedstawia jako dany i&nbsp;niezmienny zbiór cech. Tą retoryką posługują się w&nbsp;filmie Russella właściwie wszyscy, nic dziwnego zatem, że&nbsp;pytanie „dlaczego używanie pudru jest niemęskie?” nie może w&nbsp;niej paść. Pudru używa przecież grany przez Valentino monsieur Beaucaire, tak jak używali go w&nbsp;XVIII wieku wszyscy mężczyźni z&nbsp;jego klasy. Być może Russell tylko z&nbsp;tego względu pokazuje kręcenie <em>Monsieur Beaucaire</em> (1924). „Prawdziwa męskość” to Historia przekształcona w&nbsp;Naturę, jakby powiedział Roland Barthes, efekt mistyfikacji, polegającej na&nbsp;maskowaniu społecznych warunków, w&nbsp;których powstają wyobrażenia na&nbsp;temat płci. Skonfrontowany z&nbsp;ideą „prawdziwego mężczyzny” Valentino u&nbsp;Russella – grany przez Rudolfa Nuriejewa, który na&nbsp;potrzeby filmu musiał oduczyć się mówienia po&nbsp;angielsku z&nbsp;rosyjskim akcentem i&nbsp;nauczyć się mówić z&nbsp;włoskim – jest kpiną tyle z&nbsp;męskości, ile z&nbsp;prawdziwości. O&nbsp;ile puder na&nbsp;samym portrecie Valentino pokazuje to, co niemęskie w&nbsp;mężczyźnie, o&nbsp;tyle historia pudru, czy raczej biografia z&nbsp;pudrem, do której obraz ten odsyła, pokazuje to, co nienaturalne w&nbsp;naturze.</p> <h2>Wyróżnienie</h2> <p>U Huysmansa wyliczeniu „polne, cieplarniane, sztuczne” ma swój ciąg dalszy. „Po kwiatach sztucznych, małpujących prawdziwe [diuk Jan] zapragnął kwiatów naturalnych, imitujących kwiaty fałszywe”<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup>. Sprowadza rośliny, z&nbsp;których żadna nie wydaje się rzeczywista: „tkaninę, papier, porcelanę, metal – człowiek jak gdyby pożyczył przyrodzie, żeby mogła fabrykować swoje monstra”. Dopiero przy charakterystyce tych kwiatów Huysmans popuszcza cugli swemu dziwacznemu, pełnemu przepychu językowi. Zwłaszcza gdy przyroda niezdolna już do imitacji dzieł ludzkich, musi „kopiować błony wewnętrzne zwierząt, zapożyczać jaskrawych barw od ich gnijącego ścierwa, powtarzać wspaniałą ohydę gangren”<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup>. To znamienne, że&nbsp;„kwiaty naturalne, imitujące kwiaty fałszywe” des Esseintes opisuje, jakby były chore. Fascynuje go „jaskraworóżowa tonacja świeżych blizn”, „brunatność zasychających strupów”, „poświdrowany wrzodami, urozmaicony rakowatymi naroślami” naskórek<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup>. Lekarstwem na&nbsp;nudę okazuje się choroba. A&nbsp;zatem natura nie jest wieczną nudziarą. Na&nbsp;próżno des Esseintes usiłuje zaakcentować rolę człowieka i&nbsp;dowieść, że&nbsp;przyroda „sama w&nbsp;sobie”, „uparta, głupkowata, nieograniczona”, nie może „płodzić gatunków aż&nbsp;tak niezdrowych i&nbsp;aż tak przewrotnych”. W&nbsp;dekadenckim języku wyraża on w&nbsp;gruncie rzeczy myśl podobną do Szekspirowskiej frazy o&nbsp;stworzonych przez naturę sposobach, które ją odmieniają: „Wszystko jest syfilisem”.</p> <p>Monstrualne kwiaty Huysmansa przypomina storczyk Maeterlincka, ten z&nbsp;motta, wywołuje on zresztą podobną eksplozję języka, skutkującą porównaniami, których na&nbsp;próżno szukać gdzie indziej w&nbsp;tym traktacie. Tę budowaną ku czci rozumu botanikę rozsadza więc w&nbsp;pewnym momencie poezja. Język Maeterlincka wypuszcza barwną narośl. Jego storczyki, „dziwacznie ukształtowane, chorobliwie wyglądające” (s. 45) kierują uwagę na&nbsp;to samo, co kwiaty-potwory Huysmansa: ukazują naturę jako potencjał nienaturalności.</p> <p>Odstępstwo Russella polega nie tylko na&nbsp;połączeniu mężczyzny z&nbsp;kwiatami, kwiatów z&nbsp;pudrem, kobiecości z&nbsp;naturalnością i&nbsp;nienaturalnością zarazem. Polega ono również na&nbsp;zakwestionowaniu koncepcji natury jako domeny trwania i&nbsp;tożsamości. Kamelie na&nbsp;obrazie Russella może nie są sztuczne. Wystarczy, że&nbsp;są cieplarniane. Czyli sztuczne. Na&nbsp;pewno nie można ich rozpatrywać w&nbsp;oderwaniu od pudru. U&nbsp;Russella kwiaty stają się tropem rozsadzającym naturalizującą retorykę.</p> <p>Wynaturzenie jest częścią natury i&nbsp;jest jej negacją. Wydaje się, że&nbsp;kwiaty zawsze są wynaturzeniem. Wynaturzenie przecież jest pokrewne wyróżnieniu, to ruch, którego efektem jest różnica. Kwiaty mają się odróżniać. A&nbsp;zatem nie muszą być sztuczne, żeby nie być sobą. Jak nie są u&nbsp;Rimbaud – kwiaty „jak pyski żywe, / Złotą pomadą lśniące”, „kwiaty – krzesła”, „kwiaty – nietoperze”<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup>.</p> <h2>Przesada</h2> <p>Wśród kwiatów, które rozdaje Ofelia, są kwiaty określone przez Szekspira jako <em>pansies</em>. Józef Paszkowski, Maciej Słomczyński, Stanisław Barańczak przekładają to słowo jako „bratki”. Tymczasem bratki, które znamy dziś (<em>Viola×wittrockiana</em>) i&nbsp;które w&nbsp;angielskim funkcjonują dziś jako <em>pansies</em>, za&nbsp;czasów Szekspira nie istniały. To hybryda, której podstawą była odmiana fiołka (<em>viola tricolor</em>). Początek hodowlanym bratkom dały eksperymenty Lady Mary Bennet (1785–1861), która na&nbsp;początku XIX wieku, z&nbsp;pomocą ogrodnika w&nbsp;ojcowskiej posiadłości Walton-upon-Thames w&nbsp;Surrey, przesadzała na&nbsp;swoją grządkę w&nbsp;kształcie serca przemyślnie dobrane okazy spośród fiołków rosnących dziko wokół ogrodu, zwanych bardzo różnie: <em>pansies</em>, <em>violets</em>, <em>heartseases</em>. W&nbsp;1812 zaprezentowała ona ogrodniczemu światu nową odmianę, która przemieszana z&nbsp;odmianami wyhodowanymi mniej więcej w&nbsp;tym samym czasie przez Jamesa Gambiera (<em>Viola lutea</em>, <em>Viola altaica</em>), dała podstawę dzisiejszym bratkom <em>Viola×wittrockiana</em>. Wraz z&nbsp;powstawaniem kolejnych odmian (wymienię je, bo&nbsp;nazwy te wydają się w&nbsp;kontekście mojego wywodu znaczące: <em>Show Pansy</em> w&nbsp;1870 i&nbsp;<em>Fancy Pansy</em> w&nbsp;1910) fiołki, które Lady Bennet zbierała wokół ogrodu (<em>viola tricolor</em>), przestano określać jako <em>pansies</em>, co najwyżej stosując do nich nazwę <a href="http://www.americanvioletsociety.org/Species_N_Cultivars/Pansy.htm" target="_blank" rel="noopener"><em>wild pansies</em> (dzikie bratki).</a> „Pomyłka” dziennikarza w&nbsp;filmie Russella nie jest aż&nbsp;tak wielka, jak można by na&nbsp;początku sądzić. Łatwo też dzięki tej scenie można sobie wyobrazić kontekst, w&nbsp;którym <em>pansy</em> dałoby się przetłumaczyć jako „przesadzony”.</p> <p>Można, w&nbsp;ramach podsumowania, odnieść tak rozumiane przesadzanie do strategii, których używa Russell, by z&nbsp;jednej strony zdemaskować ofelizm, odsłaniając jego wkład w&nbsp;czynienie rzeczy naturalnymi, z&nbsp;drugiej, by sięgając po&nbsp;obraz ofeliczny, samemu rozwinąć poetykę wynaturzenia. Oprócz hiperboli bowiem wyraźna jest u&nbsp;niego skomplikowana gra przemieszczeń. Puder zamiast wody, bratki w&nbsp;miejsce fiołków. U&nbsp;Russella jest ofelizm, ale nie ma natury rozumianej jako cykliczny powrót tych samych form. To raczej ofelizm i&nbsp;wynaturzenie, ofelizm i&nbsp;historia nienaturalna.</p> <p></p> <p><b>Artykuł powstał w&nbsp;wyniku prac w&nbsp;projekcie „Kultura wizualna w&nbsp;Polsce: języki, pojęcia, metaobrazy” finansowanym ze środków Narodowego Centrum Nauki (DEC-2012/05/B/HS2/03985).</b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Maurycy Maeterlinck, <em>Inteligencja kwiatów</em>, przeł. F. Mirandola, nakładem Wydawnictwa Polskiego, Lwów–Poznań 1922, s. 51–52.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Arthur Rimbaud, <em>Co mówią poetom na temat kwiatów</em>, przeł. A. Ważyk, w: idem, <em>Poezje wybrane</em>, red. A. Międzyrzecki, Ludowa Spółdzielnia Wydawnicza, Warszawa 1993.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Joseph Lanza, <em>Phallic Frenzy. Ken Russell and His Films</em>, Chicago Review Press, Chicago 2007.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Alexander Bland, <em>The Nureyev Valentino. Portrait of a Film</em>, Studio Vista, London 1977, s. 45.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Elizabeth Bronfen, <em>Over Her Dead Body. Death, Femininity and the Aesthetic</em>, Manchester University Press, Manchester 1992.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Alexander Bland, <em>The Nureyev Valentino..</em>., s. 15.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Cyt. za: Miriam Hansen, <em>Babel and Babylon. Spectatorship in American Silent Film</em>, Harvard University Press, Cambridge–London 1991, s.357.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Alexander Bland, <em>The Nureyev Valentino..</em>., s. 46.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>William Szekspir, <em>Hamlet</em>, przeł. J. Paszkowski, w: idem, <em>Dzieła dramatyczne</em>, t. V, Państwowy Instytut Wydawniczy, Warszawa 1980, s. 87.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Alfred De Musset, <em>Spowiedź dziecięcia wieku</em>, przeł. T. Boy-Żeleński, Zielona Sowa, Kraków 2003, s. 47–48.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>Sherry Ortner, <em>Czy kobieta ma się do mężczyzny tak, jak „natura” do „kultury”?</em>, w: <em>Nikt nie rodzi się kobietą</em>, przeł. i wyb. T. Hołówka, Czytelnik, Warszawa 1982.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Brian Faucette, <em>Defending Rudy. Alternative Masculinities in Ken Russell's „</em><em>Valentino“</em> w: <em>Ken Russell. Re-Viewing England's Last Mannerist</em>, red. K. M. Flanagan, Scarecrow Press, Lanham–Toronto–Plymouth 2009, s. 162.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>Siergiej Diagilew zajmował niesłychaną jak na tamte czasy pozycję, pisze autor queerowej historii baletu: „Większość ludzi, kiedy na niego patrzyła, widziała arystokratę <em>with a grand, Russian manner</em>, mężczyznę, który zdawał się definiować i kontrolować źródła glamuru i prestiżu. Choć nie czynił on wysiłku (lub czynił go bardzo mało), by ukryć swoje seksualne preferencje (<em>tastes</em>), natura jego życia była otoczona aurą przywileju”. Peter Stoneley, <em>A Queer History of the Ballet</em>, Routledge, Londyn–Nowy Jork 2007, s. 69. W przedstawienia w Ballets Russes wpisane było analogiczne napięcie „pomiędzy otwartością a dyskrecją”.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Ibidem, s. 75.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>Ibidem.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>Kevin Kopelson, <em>The Queer Afterlife of Vaslav Nijinsky</em>, Stanford University Press, Stanford 1997, s. 107.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>Peter Stoneley, <em>A Queer History of the Ballet</em>..., s. 75.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>Miriam Hansen, <em>Babel and Babylon...</em>, s. 1.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>Ibidem, s. 279.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>Ibidem, s. 253.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a>Ibidem, s. 272.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>Brian Faucette, <em>Defending Rudy...</em>, s. 162.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a>Peter Stoneley, <em>A Queer History of the Ballet</em>..., s. 77.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a>Por. Elizabeth Bronfen, <em>Over Her Dead Body...</em>.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a>Marek Bieńczyk, <em>Przezroczystość</em>, Społeczny Instytut Wydawniczy Znak, Kraków 2007.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a>Miriam Hansen, <em>Babel and Babylon...</em>, s. 1.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a>William Szekspir, <em>Hamlet</em>..., s. 83.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>Por. Bridget Gellert Lyons, <em>The Iconography of Ophelia</em>, „ELH”, t. 44, 1977, nr 1. Autorka artykułu zwraca uwagę na paradoks określający Ofelię, która będąc postacią emblematyczną, jest zarazem odbierana jako niejednoznaczna, a często w ogóle niezrozumiała.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a>Barbara T. Gates, <em>Suicidal Women: Fact Or Fiction?</em>, <a href="http://www.victorianweb.org/books/suicide/07.html" target="_blank" rel="noopener">http://www.victorianweb.org/books/suicide/07.html</a>, dostęp 12 września 2010.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a>Joris-Karl Huysmans, <em>Na wspak</em>, przeł. J. Rogoziński, Czytelnik, Warszawa 1976, s. 136.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a>Ibidem, s. 70–71.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a>Ibidem, s. 137.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a>Alexander Bland, <em>The Nureyev Valentino..</em>., s. 8.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Ibidem.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a>Aleksander Dumas, <em>Dama kameliowa</em>, przeł. S. Brucz, Wydawnictwo Łódzkie, Łódź 1992, s. 14.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a>Peter Stoneley, <em>A Queer History of the Ballet</em>..., s. 71.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a>Miriam Hansen, <em>Babel and Babylon...</em>, s. 261.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a>Maeterlinck jako autor tego traktatu jest poniekąd spadkobiercą dziadka autora teorii ewolucji, Erasmusa Darwina. Wydany przez niego w 1791 roku <a href="http://www.gutenberg.org/browse/authors/d#a3099" target="_blank" rel="noopener"><em>Ogród botaniczny</em></a> zawiera m.in. inspirowany klasyfikacją Linneusza poemat <em>Miłość roślin</em> – silnie zantropomorfizowaną opowieść o rozmnażaniu roślin opatrzoną licznymi przypisami o charakterze naukowym.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a>Gilles Deleuze, Félix Guattari, <em>Capitalisme et schizophrénie. Mille plateaux</em>, Les Éditions de Minuit, Paris 1980, s. 17. Korzystam z tłumaczenia M. Janika (w maszynopisie).</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a>Terry Eagleton, <em>Po co nam kultura</em>, przeł. A. Górny, Muza, Warszawa 2012, s. 11.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a>Joris-Karl Huysmans, <em>Na wspak</em>..., s. 137.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a>Ibidem, s. 142.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a>Ibidem, s. 139.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a>Arthur Rimbaud, <em>Co mówią poetom na temat kwiatów</em>...</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/queer-obrazy/wynaturzenie" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

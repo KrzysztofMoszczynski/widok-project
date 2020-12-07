@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Szyby Afryki | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/szyby-afryki">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Szyby Afryki | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Szyby Afryki | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/szyby-afryki">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Szyby Afryki | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #228b22 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #228b22 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #228b22 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #228b22 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #228b22 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #228b22 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #228b22 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #228b22 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(34,139,34,0.8) !important; */
+			/* background-color:#228b22 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(34,139,34,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#228b22 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(34,139,34,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#228b22; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(34,139,34,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(34,139,34,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#228b22 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#228b22 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#228b22 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1093 parent-id-1076">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="426" data-selected-issue-color="#228b22" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/postcolonial-image-archives#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/postcolonial-image-archives/windows-of-africa">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/postkolonialne-archiwa-obrazow#toc">7</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/szyby-afryki?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Szyby Afryki</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/szyby-afryki?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=305">Tomasz Szerszeń</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;">„Po cóż realizować dzieło, skoro tak piękne jest marzenie o&nbsp;nim?”</p> <p style="text-align: right;"><em>Dekameron</em></p> <p style="text-align: right;">„Słowo Afryka nic nie znaczy.”</p> <p style="text-align: right;"><em>Notatki do Orestei Afrykańskiej</em><b></b></p> </blockquote> <h2>1.</h2> <p>„Przyglądam się mojemu odbiciu – ja z&nbsp;kamerą – w&nbsp;szybie sklepu w&nbsp;jednym z&nbsp;afrykańskich miast” – moment dezorientacji, przenikające się plany, obraz w&nbsp;obrazie, nieruchomy cień filmowca odbijającego się w&nbsp;szybie… W&nbsp;tym obrazie jestem „ja z&nbsp;kamerą”, ale również wnętrze sklepu i&nbsp;ulica „jednego z&nbsp;afrykańskich miast”: przechodnie, ruch, samochody, drzewa. Życie w&nbsp;nieruchomym kadrze. Ten palimpsestowy autoportret – gatunek, który, jak wiadomo, jest również zawsze rodzajem metakomentarza i&nbsp;którego źródłowym doświadczeniem jest pustka, „brak siebie”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> – otwiera film Piera Paola Pasoliniego <em>Notatki do Orestei Afrykańskiej</em> (<em>Appunti per una Orestiada Africana</em>, 1970)<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/szyby-afryki/221-2855-1-pb-1920x-c38.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/szyby-afryki/221-2855-1-pb-330x-63c.jpg 330w,assets/cache/images/issues/2014/7/szyby-afryki/221-2855-1-pb-660x-307.jpg 660w,assets/cache/images/issues/2014/7/szyby-afryki/221-2855-1-pb-768x-433.jpg 768w,assets/cache/images/issues/2014/7/szyby-afryki/221-2855-1-pb-1320x-629.jpg 1320w" src="assets/cache/images/issues/2014/7/szyby-afryki/221-2855-1-pb-660x-307.jpg" alt="" ></a>    <figcaption><p>Pier Paolo Pasolini, <em>Notatki do Orestei Afrykańskiej</em>, 1970</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Czy rzeczywiście otwiera? Za&nbsp;właściwy początek – będący rodzajem filmowej ekfrazy – uznać należy poprzedzające go napisy początkowe, gdy tytuł filmu pojawia się na&nbsp;tle planszy, na&nbsp;której w&nbsp;prosty sposób – przypominający prostotę martwych natur Morandiego czy czysty iluzjonizm zdjęć Luigiego Ghirriego – „zmontowany” zostaje egzemplarz Ajschylosa z&nbsp;mapą Afryki, tworząc alegoryczny obraz, emblemat kojarzący ze sobą mitologię i&nbsp;kolonializm. Trzecim ujęciem, kończącym tę sekwencję, jest kolejne palimpsestowe odbicie w&nbsp;szybie i&nbsp;towarzyszący mu komentarz z&nbsp;<em>off</em>-u Pasoliniego-narratora:</p> <blockquote>Z pewnością przybyłem tu, by kręcić. Ale co kręcić? Ani dokument, ani film, lecz notatki do filmu: tym filmem byłaby <em>Oresteja</em> Ajschylosa, kręcona właśnie w&nbsp;dzisiejszej Afryce, w&nbsp;Afryce współczesnej.</blockquote> <p>Te trzy obrazy, które należy rozpatrywać razem, to nie tylko zapowiedź filmu, ale również rodzaj <em>mise en abyme</em>, zwielokratniającego ten komentarz – jednostajny, jednocześnie trochę niepewny głos Pasoliniego – w&nbsp;nieskończoność…</p> <h2>2.</h2>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>    <div class="c-article-video__caption"><p>Pier Paolo Pasolini, <em>Notatki do Orestei Afrykańskiej</em>, 1970</p></div>   </div>  </section><section class="u-typo">   <p>Czym jednak jest dzieło Pasoliniego, skoro nie jest „ani dokumentem, ani filmem”? Notatki, wprawki, próby, ale również apokryfy – wszystkie te sensy mieszczą się i&nbsp;mieszają we włoskim słowie <em>appunti</em>, <em>appunto</em>, które począwszy od połowy lat 60. łączy się ściśle z&nbsp;wizją kina reżysera. Od <em>Wizji lokalnej w&nbsp;Palestynie do filmu „Ewangelia według św. Mateusza” </em>(<em>Sopralluoghi in Palestina per il film Vangelo secondo Matteo</em>, 1964) aż&nbsp;po telewizyjny film <em>La forma </em><em>della città</em> (1974) oraz pisaną przez ostatnie trzy lata życia, wydaną dopiero pośmiertnie, powieść <em>Petrolio</em> Pasolini otwiera się na&nbsp;to, co niedopełnione, co ma charakter <em>work in progress</em> i&nbsp;co stanowi zręby jego „poetyki niekompletności”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Równocześnie, jak wielu innych filmowców tamtego czasu (choćby Louis Malle<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>), zaczyna podróżować – to zarówno późna inkarnacja „mistyki podróży”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> ożywiającej w&nbsp;pierwszej połowie XX wieku ideę wyprawy w&nbsp;tropiki, jak i&nbsp;szczytowy moment zjawiska, które Vincent Debaene nazywa „momentem etnologicznym”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> kultury europejskiej, wyrażającym się w&nbsp;niezaspokojonym pragnieniu opisania Innego i&nbsp;przede wszystkim własnej doń relacji.</p> <p>Pasolini pielgrzymuje do Indii, krajów arabskich, wreszcie do Afryki, ulegając – czasem naiwnie i&nbsp;bezkrytycznie – czarowi egzotyki i&nbsp;równocześnie poszukując „plenerów, twarzy, ciał” do swych historii, „plenerów, twarzy, ciał”, które pozwolą mu zdeformować, uaktualnić mitologię. Wyrazem tych złożonych poszukiwań jest właśnie cykl <em>Appunti</em>, w&nbsp;którym „każdy epizod będzie tworzył historię (opowiadaną poprzez najbardziej dramatyczne i&nbsp;uderzające sceny) i&nbsp;przymiarki do samej historii (spotkania, rozmowy, dokumentacje itd.). (…) Stylistycznie film będzie więc równocześnie precyzyjnie skomponowany, jak również złożony i&nbsp;nieczysty”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. Jak zwraca uwagę znawca twórczości Pasoliniego Hervé Joubert-Laurencin, określenie <em>appunti</em> nie jest po&nbsp;prostu słowem, lecz odnosi się do rzeczywistego „pragnienia niekompletności”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>: pragnienia dzieła, które ma dopiero nadejść, ale które się nigdy nie dopełni – <em>film à venir</em>.</p> <p>Do cyklu <em>Appunti </em>można z&nbsp;pewnością zaliczyć <em>Notatki do filmu o&nbsp;Indiach </em>(<em>Appunti per un film sull’India</em>, 1968), nakręcone, lecz nigdy niezmontowane <em>Notatki do noweli o&nbsp;śmieciarzach </em>(<em>Appunti per un romanzo dell’immondezza</em>, 1970) czy wreszcie <em>Notatki do Orestei Afrykańskiej</em>. Wszystkie o&nbsp;heterogenicznej formie, z&nbsp;wyjątkiem drugiego – dzieła prawdziwie skończone w&nbsp;swym niedokończeniu. Joubert-Laurencin rozszerza cykl<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> o&nbsp;zwykle rozpatrywane oddzielnie <em>Wściekłość</em> (<em>La rabbia</em>, 1963) i&nbsp;<em>Zgromadzenia miłosne </em>(<em>Comizi d’amore</em>, 1963) – zwłaszcza <em>Wściekłość</em> ukazuje, za&nbsp;sprawą montażu, wizję rozchwianego politycznie świata, świata „w ruchu”; to zresztą film, w&nbsp;którym temat dekolonizacji dochodzi po&nbsp;raz pierwszy do głosu. Autor <em>Portrait du poète en cinéaste</em> dodaje także krótkie filmy z&nbsp;podróży „na Wschód i&nbsp;na Południe” <em>Mury Sany </em>(<em>Le mura di Sana</em>, 1970), a&nbsp;także, co zapewne najważniejsze, projekty, które nigdy nie wyszły poza sferę planów lub notatek właśnie („notatki do notatek”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>), w&nbsp;tym przede wszystkim monumentalne <em>Notatki do poematu na&nbsp;temat Trzeciego Świata</em> (<em>Appunti per un poema sul Terzo Mundo</em>)<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>, pomyślane jako najbardziej istotna część. To wymyślone (czy też wymarzone) w&nbsp;1968 roku dzieło – rezultat licznych podróży Pasoliniego i&nbsp;jego równocześnie politycznych i&nbsp;antropologicznych zainteresowań – mające składać się z&nbsp;pięciu części, pięciu przybliżeń (Indie, kraje arabskie, Ameryka Południowa, getta miast północnoamerykańskich, wreszcie dziejący się w&nbsp;Afryce <em>Il padre salvaggio</em>) miało być rodzajem subiektywnego raportu na&nbsp;temat sytuacji postkolonialnej i&nbsp;projekcją wizji rewolucji, szkicem miejsc, w&nbsp;których „czuć zapach historii” (nieprzypadkowo pierwsza podróż Pasoliniego do Indii – odbyta z&nbsp;Alberto Moravią i&nbsp;Elsą Morante – zaowocowała książką zatytułowaną <em>Zapach Indii</em><sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>…), panoramą modernizującego się (jakim kosztem?) Trzeciego Świata<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>, wreszcie hymnem na&nbsp;jego cześć. Pomysł filmowego poematu o&nbsp;tej tematyce rodzi się z&nbsp;pewnością również z&nbsp;niezgody artysty na&nbsp;prosty entuzjazm wobec postulatów studenckich rewolt 1968 roku: rzeczywista rewolucja, dowodzi<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>, rozgrywa się z&nbsp;dala od gorączki ogarniającej zachodnie uniwersytety, w&nbsp;świecie, w&nbsp;którym konflikt ma realny wymiar. To jednocześnie przenikliwe i&nbsp;naiwne przekonanie prowadzi go do szczególnej wizji aktorstwa, w&nbsp;której „odgrywany i&nbsp;odgrywający pozostają – z&nbsp;rasowego [ta kategoria często powraca u&nbsp;Pasoliniego – przyp. TS], społecznego i&nbsp;ludzkiego punktu widzenia – prawie idealnie analogiczni: Czarny grany przez Czarnego, Czarny odnajdujący się w&nbsp;skórze Czarnego...”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. (W takim razie kogo odgrywa sam Pasolini – narrator <em>Notatek do Orestei Afrykańskiej</em> – cień w&nbsp;szybie jednego z&nbsp;afrykańskich sklepów?).</p> <p>Koncepcja cyklu <em>appunti</em>, w&nbsp;tym zwłaszcza <em>Notatek do poematu na&nbsp;temat Trzeciego Świata</em> i&nbsp;<em>Notatek do Orestei Afrykańskiej</em>, wpisuje się również w&nbsp;tak żywą pod&nbsp;koniec lat 60. dyskusję o&nbsp;kinie politycznym i&nbsp;„kinie Trzeciego Świata”. Trudno zresztą nie zauważyć związku między nowofalowym poszukiwaniem języka filmowego i&nbsp;rozgrywającymi się w&nbsp;tym samym czasie procesami dekolonizacji<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. To w&nbsp;<em>Wietrze ze Wschodu </em>(<em>Vent d’est</em>, 1969) Jean-Luca Godarda pojawia się emblematyczna scena, gdy stojący, niczym żywy drogowskaz na&nbsp;rozdrożu dróg, Glauber Rocha – brazylijski prorok kina zaangażowanego – wskazuje kierunek, w&nbsp;którym podąża kino Trzeciego Świata, „kino niebezpieczne, boskie, niesamowite, gdzie pytania mają swój praktyczny wymiar”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. Ich antytezą jest tu kino „filozoficzne”, prawdziwie godardowskie. Podczas gdy Rocha oscyluje między „estetyką głodu” a&nbsp;„estetyką snu”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>, Pasolini nie idzie żadną z&nbsp;zarysowanych u&nbsp;Godarda dróg: jego filmowa wizja Trzeciego Świata to przede wszystkim kino antropologiczne, otwarte na&nbsp;„uzmysłowienie”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>, na&nbsp;twarze – „to są zwyczajne twarze, takie które widzieliśmy w&nbsp;pełnych życia, pięknych, szczęśliwych, lecz czasem również ponurych, wręcz cmentarnych wioskach. Są one pełne zwierzęcego powabu, absolutnie przedchrześcijańskiego”, jak mówi w&nbsp;<em>Wizji lokalnej w&nbsp;Palestynie… </em>– na&nbsp;ciała i&nbsp;gesty tych, których nazwać można „ludem Trzeciego Świata”<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>. Ten aspekt zbliża jego filmy (i pomysły na&nbsp;nie) – w&nbsp;tym również <em>Notatki do Orestei Afrykańskiej</em> – do formy filmowego atlasu, mającego ukazać panoramę, wielość obrazów i&nbsp;krajów znajdujących się w&nbsp;sytuacji postkolonialnej. Pasolini zajmuje tu pozycję<span class="rozstrzelony"> anachroniczn</span>ą: neguje w&nbsp;swoich trzecioświatowych filmach zasadę poprawności politycznej<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>, ukazując choćby panoramę ciał afrykańskich (ale też indyjskich, „trzecioświatowych” właśnie) z&nbsp;pewnego dystansu i&nbsp;z nieukrywaną fascynacją. Nie bez powodu w&nbsp;<em>Orestei Afrykańskiej </em>czy w&nbsp;<em>Notatkach do filmu o&nbsp;Indiach </em>filmowanie tubylców przybiera w&nbsp;mniejszym lub większym stopniu formę castingu – zabieg z&nbsp;dzisiejszej perspektywy co najmniej dwuznaczny.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-aaLnkUvfYA?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>    <div class="c-article-video__caption"><p>Pier Paolo Pasolini, <em>Notatki do Orestei Afrykańskiej</em>, 1970</p></div>   </div>  </section><section class="u-typo">   <p>Trudno tu również uciec od analogii z&nbsp;atlasami etnograficznymi z&nbsp;końca XIX i&nbsp;początku XX wieku, mocno uwikłanymi przecież w&nbsp;rasistowski kontekst: reżyser przedstawia typy, nie unika też swoistej etnograficzności – detali ubioru charakterystycznych dla kultury, detali fizjonomicznych charakterystycznych dla rasy. Pasolini nie unika więc ambiwalencji, kontrowersji czy rozdźwięku, uznając je – poniekąd słusznie – za&nbsp;jeden z&nbsp;wyznaczników naszego europejskiego stosunku do Afryki, do Trzeciego Świata. Polityczność jest tu więc nie tyle tworzeniem pewnej wizji (aczkolwiek wizja rewolucji jest tłem każdego z&nbsp;tych dzieł), lecz raczej otwarciem właśnie na&nbsp;kontrowersję, na&nbsp;nieprzystające do siebie narracje, jak gdyby zgodnie z&nbsp;twierdzeniem Georges’a Didi-Hubermana, że&nbsp;„politykę przedstawia się, ukazując jedynie konflikty, paradoksy, wzajemne zderzenia, z&nbsp;których utkana jest cała historia”<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>. Pasolini tworzy zatem dwie różne narracje: jedną, „postępową”, o&nbsp;Rewolucji mającej odmienić nie tylko Trzeci, lecz również Pierwszy Świat; drugą, „anachroniczną”, o&nbsp;ciekawości i&nbsp;fascynacji egzotycznymi ciałami, ich gestami przechowującymi w&nbsp;sobie – bezwiednie – to, co starożytne.</p> <h2>3.</h2> <p>Poemat, nie zaś film: to przesunięcie wydaje się znaczące i&nbsp;wprowadza w&nbsp;sedno projektu. „Wszystkie moje filmy kręciłem jako poeta”<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>, deklaruje Pasolini; „to jedyny w&nbsp;historii kina przykład poety-filmowca”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>, dodaje Joubert-Laurencin. To obraz daleki od postulowanego przez reżysera „kina poezji”: nie tyle zbiór „wizualnych i&nbsp;dźwiękowych rymów”<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>, ile raczej deklaracja zajęcia takiej pozycji, która deformuje materię filmu tak, jak poezja deformuje rzeczywistość. Która oznacza spojrzenie z&nbsp;dystansu, z&nbsp;pozycji wygnańca – niczym w&nbsp;<em>Ewangelii według świętego Mateusza </em>(<em>Il Vangelo secondo Matteo</em>, 1964), gdzie historia biblijna opowiadana jest z&nbsp;punktu widzenia ateisty, marksisty, co prowadzi do zamierzonego „konfliktu wewnętrznego i&nbsp;«stylistycznej kontaminacji»”<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>. To heretyckie spojrzenie wiąże się z&nbsp;zaburzeniem wizji i&nbsp;z wprowadzeniem innego głosu, z&nbsp;rozdarciem dotykającym zarówno świata przedstawionego, jak i&nbsp;materii filmu. Rozdarciem, które staje się również udziałem samego Pasoliniego, mówiącego o&nbsp;sobie w&nbsp;trzeciej osobie<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup> – filmowiec o&nbsp;poecie, poeta o&nbsp;filmowcu. W&nbsp;przypadku cyklu <em>Appunti</em>, filmowych notatek – równocześnie marginalnych i&nbsp;centralnych, a&nbsp;zarazem destabilizujących stale tę opozycję – „rezultatem jest forma dokumentalna podlegająca nieustannemu przemieszczeniu i&nbsp;zanieczyszczona przez «dyletancką» deformację lub ekscesy stylu”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>. Forma ta zdaje się mieć sprzeczny charakter, wymyka się będącej podstawą każdego dyskursu „zasadzie spoistości”<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>, pragnąc stać się czymś innym, „inną strukturą”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>. Jej eseistyczność<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup> – rozumiana za&nbsp;Adornem jako pozbawione hierarchii pole ciągłych napięć<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup> – oznacza otwarcie się właśnie na&nbsp;nieczystość (obserwowaną wówczas przez Pasoliniego także na&nbsp;przykładzie neapolitańskiej kultury popularnej<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>), na&nbsp;wielość, na&nbsp;niekompletność.</p> <p>W <em>Notatkach do Orestei Afrykańskiej</em> sprzeczność ta, jako zasada o&nbsp;niemal ontologicznym charakterze, jest wszechobecna, podobnie jak swoista „nieczystość obrazu”: ożywia ona nie tylko strukturę filmu, lecz również właściwie każdy jej kadr. Począwszy od pierwszych scen, Pasolini zarysowuje tu podwójną perspektywę na&nbsp;swoją wizję filmu i&nbsp;obrazu, na&nbsp;Afrykę, na&nbsp;„sytuację postkolonialną”, wreszcie na&nbsp;samego siebie. Filmowani przez niego mieszkańcy Afryki są równocześnie aktorami i&nbsp;statystami (Historii i&nbsp;historii), bowiem każdy z&nbsp;nich funkcjonuje jako postać możliwa, potencjalna („oto bohaterowie, postaci z&nbsp;mojego filmu”: Orestes, Agamemnon, Atena…) i&nbsp;jako ktoś całkowicie realny – mieszkaniec Afryki, konkretnego kraju, miasta czy wioski. Podobnie przedstawiona przez Pasoliniego w&nbsp;<em>Notatkach…</em> filmowa czasoprzestrzeń ma zarówno charakter mityczny<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup> (miejsce i&nbsp;czas, w&nbsp;którym rozgrywa się <em>Oresteja</em>), fikcyjny (plenery powstającego filmu), jak i&nbsp;realny (Afryka postkolonialna A.D. 1969). Reżyser deklaruje też, że&nbsp;chce umieścić akcję filmu w&nbsp;okolicach roku 1960, czyli momentu odzyskiwania niepodległości, dekolonizacji, funkcjonującego w&nbsp;Afryce do dziś jako Zdarzenie<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup>, Mit<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup> (Pasolini pozostaje tu uważnym czytelnikiem Barthes’a): to dodatkowo komplikuje sytuację, wprowadzając współistniejące obok siebie porządki czasowe (antyk, 1960, współczesność, wizja przyszłości), które nie tylko są niedopełnione – potencjalne – ale nachodzą również na&nbsp;siebie nieustannie, niczym w&nbsp;serii powidoków, tworząc splątaną strukturę. Niczym w&nbsp;Borgesowskim <em>Ogrodzie o&nbsp;rozwidlających się ścieżkach</em>, gdzie przestrzeń się nie zmienia, rozwidla się natomiast czas, tworząc „wielość możliwości, wielość obiegów”<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>.</p> <p>U Pasoliniego obrazy mają więc jednocześnie swój „wieczny” charakter – odnoszą się do pewnych figur, alegorii, jak w&nbsp;scenie napisów na&nbsp;początku, gdy rozpoznajemy, że&nbsp;mapa Afryki, na&nbsp;której znajduje się egzemplarz Ajschylosa, pochodzi z&nbsp;atlasu geograficznego; czym innym była przez lata, przez wieki Afryka, dla Europejczyków przeglądających atlasy i&nbsp;mapy, jeśli nie alegorią, rodzajem „skamieliny”?<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup> – jak i&nbsp;są „palącymi obrazami tego, co aktualne”. Ta dialektyka widoczna jest choćby w&nbsp;scenie, w&nbsp;której wykorzystane zostają materiały archiwalne z&nbsp;wojny w&nbsp;Biafrze<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>, która, przypomnijmy, toczyła się w&nbsp;momencie podróży Pasoliniego do Afryki: staje się ona wojną trojańską („Obrazy wojny w&nbsp;Biafrze są na&nbsp;antypodach idei greckiego klasycyzmu, ale cierpienie, śmierć, żałoba, tragedia są stałymi o&nbsp;wiecznym i&nbsp;absolutnym charakterze”), pozostając jednak również wojną w&nbsp;Biafrze – nie figurą wojny w&nbsp;ogóle, lecz bolesnym konkretem. Historia staje się tu więc aktualizacją mitu, równocześnie jednak postkolonialny kontekst stawia ten zabieg pod&nbsp;znakiem zapytania. Istnieje tu bowiem rozdźwięk na&nbsp;poziomie komentarza: spokojny głos Pasoliniego, snującego narrację o&nbsp;współczesnej wojnie trojańskiej, zdecydowanie nie przystaje do tej sytuacji, jest „skandalem” w&nbsp;tym sensie, że&nbsp;estetyzuje przemoc i&nbsp;ponurą postkolonialną rzeczywistość. Słowo rozjeżdża się z&nbsp;tu obrazem, tworząc dystans, efekt obcości.</p> <p>Afryka Pasoliniego rodzi się ze spojrzenia stereoskopowego<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup> – spojrzenia, które chwyta wszystkie związki naraz, w&nbsp;jednoczesnym oglądzie. To, co jest materią filmu – heterogeniczność środków, przemieszanie dokumentu, inscenizacji, fragmentów archiwalnych – odpowiada zarysowanej w&nbsp;nim wizji kontynentu: ziemi bólu i&nbsp;radości, cierpienia i&nbsp;nadziei, przechowującej w&nbsp;sobie ślady zarówno kolonialnej przeszłości, rewolucyjnej teraźniejszości, jak i&nbsp;zapowiedzi przyszłości będącej niewiadomą. Te światy i&nbsp;czasowości współistnieją ze sobą, tak jak nowa zmodernizowana i&nbsp;zeuropeizowana Afryka („Afryka staje się jak Europa”, mówi w&nbsp;filmie jeden z&nbsp;etiopskich studentów) przenika się z&nbsp;tą archaiczną, z&nbsp;tym, co przeżyło i&nbsp;nie chce zniknąć, niczym skamieliny innych epok geologicznych. To „archeologiczne” podejście do kultury, wyczulone na&nbsp;istnienie „przeżytków”, ostańców tego, co już dawno minęło i&nbsp;co nie ma prawa dłużej trwać, charakterystyczne jest zresztą dla całej twórczości autora <em>Medei</em>, również dla jego włoskich poszukiwań. Dzieje się tak, jak gdyby wbrew deklaracji samego Pasoliniego, który w&nbsp;tekście <em>L’Atena Bianca </em>zwracał uwagę na&nbsp;„postępowy” charakter mitu, wokół którego osnute zostają afrykańskie <em>appunti</em>:</p> <blockquote>Właściwym tematem <em>Orestei</em> jest przede wszystkim, dla nas, czytelników współczesnych, przejście od epoki przedhistorycznej, „średniowiecznej” do epoki historycznej, „demokratycznej”: przemiana Menad w&nbsp;Eumenidy<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup>.</blockquote> <p><em>Oresteja Afrykańska</em> powstaje więc w&nbsp;sprzeczności z&nbsp;odczytaniem mitu, które sama proponuje, jest nie ilustracją, lecz przemieszczeniem jej sensów, performatywnym odegraniem swojej niemożliwości.</p> <p><em>Notatki do Orestei Afrykańskiej</em> mają być rodzajem hymnu na&nbsp;cześć Afryki, oddaniem głosu chórowi „wywłaszczonych”, mieszkańców tej ziemi („chciałbym, by główną rolę odgrywał chór”). Równocześnie jednak przez większą część filmu słyszymy wyłącznie głos Pasoliniego. Ten rodzaj komentarza z&nbsp;<em>off-</em>u, choć często stosowany w&nbsp;kinie lat 60., w&nbsp;kontekście afrykańskim ma ambiwalentny charakter: nie sposób uniknąć skojarzenia z&nbsp;filmami etnograficznymi czy przyrodniczymi, w&nbsp;których komentarz jest nie tylko wyrazem dystansu, lecz również pragnienia klasyfikacji i&nbsp;encyklopedycznej przemocy. Równocześnie jednak są w&nbsp;filmie trzy momenty, gdy przejrzystość tego zabiegu zostaje zmącona, wręcz całkowicie podważona. To scena koncertu, free jazzowej improwizacji Gato Barbieriego, rozsadzająca w&nbsp;ekspresyjny sposób narrację i&nbsp;stanowiąca element całkowicie zewnętrzny – improwizacja właśnie, swobodne odegranie, a&nbsp;więc coś, czym jest nie tylko cały film, ale również zarysowany w&nbsp;nim stosunek do mitologii. Zbiór „dźwiękowych rymów” przemieszczających głos i&nbsp;narrację Pasoliniego – element tej „polityki przemieszczenia”<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup> – i&nbsp;sprawiających, że&nbsp;uświadamiamy sobie, że&nbsp;– jak pisał Barthes w&nbsp;autobiografiach – „głos jest zawsze już martwy, a&nbsp;nazywamy go żywym w&nbsp;odruchu rozpaczliwej negacji”<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup>. Ta snuta z&nbsp;pozycji dystansu opowieść o&nbsp;Afryce jest czymś, co dobywa się z&nbsp;odmętów przeszłości, z<span class="rozstrzelony"> innego </span>czasu.</p> <p>Dwie kolejne sceny, w&nbsp;których narrator milknie i&nbsp;oddaje głos Innemu, rozgrywają się na&nbsp;uniwersytecie w&nbsp;Rzymie, gdzie reżyser rozmawia z&nbsp;etiopskimi studentami na&nbsp;temat projektu filmu o&nbsp;Afryce – właśnie <em>Orestei</em>. Dokonuje się zaskakujące odwrócenie, w&nbsp;którym Pasolini negocjuje z&nbsp;Afrykanami kształt swego dzieła, swój pogląd na&nbsp;temat Afryki, a&nbsp;także odczytania <em>Orestei</em><sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup>. Można się tu z&nbsp;pewnością dopatrzyć śladów tego, co Luca Caminati<sup><a href="#sdfootnote45sym" name="sdfootnote45anc">45</a></sup> nazywa krytyką obiektywnego tonu ówczesnych filmów etnograficznych – jesteśmy raczej bliżej „antropologii współdzielonej” Jeana Roucha. Toczy się dialog, negocjowanie, które nie ma zakończenia ani rozwiązania: jeden ze studentów w&nbsp;pewnym sensie odmawia odpowiedzi na&nbsp;pytania Pasoliniego, kwestionując samo rozumienie słowa Afryka. „Słowo<span class="rozstrzelony"> Afryka </span>nic nie znaczy” – jest bowiem zbyt ogólne, zbyt pojemne, płaskie i&nbsp;redukujące.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/szyby-afryki/221-2857-1-pb-1920x-340.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/szyby-afryki/221-2857-1-pb-330x-617.jpg 330w,assets/cache/images/issues/2014/7/szyby-afryki/221-2857-1-pb-660x-300.jpg 660w,assets/cache/images/issues/2014/7/szyby-afryki/221-2857-1-pb-768x-41d.jpg 768w,assets/cache/images/issues/2014/7/szyby-afryki/221-2857-1-pb-1320x-56c.jpg 1320w" src="assets/cache/images/issues/2014/7/szyby-afryki/221-2857-1-pb-660x-300.jpg" alt="" ></a>    <figcaption><p>Pier Paolo Pasolini, <em>Notatki do Orestei Afrykańskiej</em>, 1970</p></figcaption>   </figure>  </section><section class="u-typo">   <p>To przeżytek europejskiej wyobraźni, słowo zrozumiałe jedynie na&nbsp;poziomie atlasów geograficznych, map; alegoria, skamielina. Tymczasem Afryka – jej obraz – ma palimpsestowy charakter, jest czymś, co w&nbsp;swym skomplikowaniu wymyka się nawet jej mieszkańcom (podobnie jak pytaniem, na&nbsp;które odpowiedź stale się wymyka, pozostaje kształt filmu – „z pewnością przybyłem tu, by kręcić. Ale co kręcić?” – i&nbsp;rola, jaką ma w&nbsp;nim do odegrania reżyser).</p> <p></p> <p>Ta nieokreśloność Afryki ma jednak swój ambiwalentny kontekst. Afryka pozostaje pytaniem i&nbsp;sytuacja ta jedynie pozornie odwraca logikę kolonialną. Istnieje tu zaskakująca zbieżność z&nbsp;„geografią fantazmatyczną”, z&nbsp;marzeniami związanymi z&nbsp;niezapisaną, „białą” mapą – takimi jak choćby to znane ze wspomnień Josepha Conrada, wówczas jeszcze Konrada Korzeniowskiego:</p> <blockquote>Kiedy miałem dziewięć lat albo coś koło tego (…), patrzyłem na&nbsp;mapę ówczesnej Afryki i&nbsp;wskazawszy palcem na&nbsp;białą plamę symbolizującą nierozwiązaną tajemnicę tego kontynentu, powiedziałem sobie: „kiedy dorosnę, pojadę tam”…<sup><a href="#sdfootnote46sym" name="sdfootnote46anc">46</a></sup></blockquote> <p>Obie sceny ukazujące studentów na&nbsp;uniwersytecie w&nbsp;Rzymie rozpoczynają się w&nbsp;ten sam sposób: najazdem na&nbsp;biały ekran kinowy. To rodzaj cięcia, zawieszenia akcji, miejsce rozdarcia. Pusta plansza, która ma nam dać odpowiedź, pusta plansza, na&nbsp;której objawić się ma ostateczna konkluzja… Następnie kamera kieruje się na&nbsp;twarze afrykańskich studentów, oczekujących – jak gdyby zawieszonych w&nbsp;oczekiwaniu – na&nbsp;film, który mieli zobaczyć na&nbsp;ekranie (fragmenty <em>Orestei Afrykańskiej</em>?). „Jak podsumować? Nie ma konkluzji. Tylko suspens. Zawieszenie” – zauważa pod&nbsp;koniec filmu Pasolini-narrator. Być może kluczem do tej sceny, a&nbsp;pośrednio także do całego dzieła, pozostaje fragment pochodzący z&nbsp;eseju <em>Koniec awangardy</em> w&nbsp;tomie <em>Empiryzm heretycki</em>. Pasolini cytuje w&nbsp;nim obszerny fragment tekstu Rolanda Barthes’a o&nbsp;Brechcie, w&nbsp;którym pisze on o&nbsp;sztuce jako procesie zawieszania sensu, nie zaś produkowania go. O&nbsp;zawieszaniu sensu jako zadaniu i&nbsp;strategii zaangażowania, jako czymś, co towarzyszy stale motywowi stawania się:</p> <blockquote>W tym miejscu dotykamy drugiego aspektu niejednoznaczności Brechta. Zastanawiam się, czy ów zaangażowany sens twórczości Brechta nie jest w&nbsp;gruncie rzeczy, na&nbsp;swój sposób sensem zawieszonym (…) w&nbsp;teatrze Brechta istnieje sens, i&nbsp;to bardzo mocny sens, lecz ów sens jest zawsze pytaniem<sup><a href="#sdfootnote47sym" name="sdfootnote47anc">47</a></sup>.</blockquote>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NyZHY4XEZ3Q?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>    <div class="c-article-video__caption"><p>Pier Paolo Pasolini, <em>Notatki do Orestei Afrykańskiej</em>, 1970</p></div>   </div>  </section><section class="u-typo">   <p>Sens pozostaje więc w&nbsp;zawieszeniu, jako pytanie bez odpowiedzi, gdzieś<span class="rozstrzelony"> pomiędz</span>y, w&nbsp;połowie drogi. Sprzeczność powraca, ale jako Fikcja<sup><a href="#sdfootnote48sym" name="sdfootnote48anc">48</a></sup>.</p> <h2>4.</h2> <p>Szyby powracają w&nbsp;afrykańskich <em>Notatkach</em> parokrotnie. Choćby wtedy, gdy Pasolini filmuje witryny sklepów w&nbsp;Dar es Salaam: za&nbsp;szybą portrety Mao sąsiadują z&nbsp;amerykańskimi lodówkami. Ten paradoksalny obraz – niczym rodem z&nbsp;„afrykańskiej <em>Ulicy jednokierunkowej</em>” – odsyła nas znowu ku nierozwiązywalnej sprzeczności i&nbsp;wiążącemu się z&nbsp;nią pytaniu. Tą sprzecznością jest z&nbsp;pewnością dla Pasoliniego Afryka – palimpsest, który, podobnie jak witryna z&nbsp;Mao i&nbsp;lodówkami, zyskuje inny sens, gdy spojrzymy nań z&nbsp;perspektywy fetyszyzującej tę przestrzeń<span class="rozstrzelony"> pomiędzy </span>postkolonialnej hybrydyczności<sup><a href="#sdfootnote49sym" name="sdfootnote49anc">49</a></sup>.</p> <p>Szyba pozostaje zresztą obrazem trwale związanym z&nbsp;kolonializmem. Jego kontekstem są, co oczywiste, wystawy światowe, dziewiętnastowieczne muzea etnograficzne i&nbsp;historii naturalnej, a&nbsp;także wiele innych związanych z&nbsp;tym tematem sytuacji naznaczonych piętnem voyeuryzmu, nieprzekraczalnego dystansu, ale także zawieszenia i&nbsp;przykrej autorefleksji towarzyszącej zobaczeniu własnego odbicia tam, gdzie być może nie powinniśmy byli spoglądać. Wątek ten, w&nbsp;zmienionej formie, pojawia się choćby w&nbsp;filmie <em>Posągi też umierają </em>(<em>Statues meurent aussi</em>, 1953), antykolonialnym dokumencie Chrisa Markera i&nbsp;Alaina Resnais zrealizowanym na&nbsp;zamówienie redakcji „Présence Africaine”. W&nbsp;jednej ze scen filmu czarnoskóra kobieta ogląda zamknięte za&nbsp;szklanymi witrynami artefakty i&nbsp;sztukę afrykańską. Dzięki jej spojrzeniu – przywracającemu wyeksponowanym dziełom, owej <em>art nègre</em>, ich kulturowy, utracony kontekst – odzyskują one, na&nbsp;moment, swój sens. Poza tą jedną jedyną sytuacją – ukazaną zresztą w&nbsp;odwróconej perspektywie, jakby z&nbsp;wewnątrz szklanej gabloty – to właśnie szklane witryny, znak rozpoznawczy choćby modernistycznego Musée de l'Homme w&nbsp;Paryżu, stają się symbolem muzealizacji (a więc uśmiercenia) Innego. Szklaną klatką. Pytaniem bez odpowiedzi. Jednocześnie są one, przynajmniej w&nbsp;wizji Markera i&nbsp;Resnais, rodzajem lustra odbijającego pełne niezrozumienia spojrzenia i&nbsp;kierującego je w&nbsp;przeciwną stronę. Jedno z&nbsp;takich spojrzeń należało do odwiedzającego jakiś czas później to miejsce Christiana Boltanskiego, który po&nbsp;latach wspominał:</p> <blockquote>Musée de l'Homme było dla mnie bardzo istotne. Widziałem tam wielkie szyby, za&nbsp;którymi znajdowały się małe, wrażliwe i&nbsp;pozbawione znaczenia przedmioty. (…) Był to rodzaj miejsca poza światem, miejsca, które nie jest ani realne, ani nierealne<sup><a href="#sdfootnote50sym" name="sdfootnote50anc">50</a></sup>.</blockquote> <p>Wizyty na&nbsp;Trocedéro, gdzie mieści się muzeum, prowadzą Boltanskiego w&nbsp;1971 roku (a więc prawie w&nbsp;tym samym momencie, w&nbsp;którym powstawała <em>Oresteja Afrykańska</em>) ku <em>Vitrine de référence</em>, cyklowi prac autobiograficznych składających się z&nbsp;gablotek, w&nbsp;których, niczym w&nbsp;przezroczystych trumienkach, złożone zostały jego „wspomnienia z&nbsp;dzieciństwa”.</p> <p>Doświadczenie szyby bezwiednie kieruje więc spojrzenie z&nbsp;powrotem, ku spoglądającemu. Jak u&nbsp;Michela Leirisa w&nbsp;klasycznej już <em>Widmowej Afryce </em>(<em>L'Afrique fantôme</em>, 1934), gdzie podobne doświadczenie – palimpsestowego obrazu w&nbsp;szybie odbijającej również tego, kto patrzy; spojrzenia uśmiercającego równocześnie autora i&nbsp;Afrykę – zostaje przeniesione na&nbsp;płaszczyznę tekstową. U&nbsp;Leirisa szyba staje się metaforycznym doświadczeniem tekstu objawiającego swą płaskość i&nbsp;kumulującego się w&nbsp;pytaniu, dokąd zmierza tekst. „Do tego, by nie powiedzieć, skąd przybywa. Ani dokąd zmierza”<sup><a href="#sdfootnote51sym" name="sdfootnote51anc">51</a></sup>. Znów brak konkluzji. Suspens.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/szyby-afryki/221-2859-1-pb-1920x-340.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/szyby-afryki/221-2859-1-pb-330x-617.jpg 330w,assets/cache/images/issues/2014/7/szyby-afryki/221-2859-1-pb-660x-300.jpg 660w,assets/cache/images/issues/2014/7/szyby-afryki/221-2859-1-pb-768x-41d.jpg 768w,assets/cache/images/issues/2014/7/szyby-afryki/221-2859-1-pb-1320x-56c.jpg 1320w" src="assets/cache/images/issues/2014/7/szyby-afryki/221-2859-1-pb-660x-300.jpg" alt="" ></a>    <figcaption><p>Pier Paolo Pasolini, <em>Notatki do Orestei Afrykańskiej</em>, 1970</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Zatem „przyglądam się mojemu odbiciu – ja z&nbsp;kamerą – w&nbsp;szybie sklepu w&nbsp;jednym z&nbsp;afrykańskich miast”. Obraz emblematyczny bardziej dla historii fotografii niż dla kina: od Gustave’a Le Graya, Eugène’a Atgeta, André Kertesza, po&nbsp;pochodzące właśnie z&nbsp;przełomu lat 60. i&nbsp;70. autoportrety Lee Friedlandera zarysować można typologię portretu w&nbsp;szybie jako niezwykle ważnego motywu<sup><a href="#sdfootnote52sym" name="sdfootnote52anc">52</a></sup> wyrażającego zasadnicze rozdarcie naznaczające zarówno fotografującego, jak i&nbsp;przestrzeń obrazu. Nieruchomy kadr otwierający film Pasoliniego jest jednak ważny również dlatego, że&nbsp;od niego zaczynamy i&nbsp;do niego na&nbsp;koniec powracamy – przestrzeń się nie zmienia, rozwidla się tylko czas. Ale równocześnie, jak pisał Michel Beaujour, „esej-autoportret prowadzi ku dyslokacji, przesunięciu podmiotu”<sup><a href="#sdfootnote53sym" name="sdfootnote53anc">53</a></sup>, nie kończymy więc takimi, jakimi zaczynamy, niczym podczas doświadczenia dalekiej podróży…</p> <p>W <em>Twarogu </em>(<em>La Ricotta</em>, 1962–1963) padają słowa, które mogłyby należeć do Charles’a Baudelaire’a, mistrza poezji wywiedzionej z&nbsp;odbicia w&nbsp;sklepowej witrynie: „Bardziej nowoczesny niż wszyscy nowocześni […] jestem siłą należącą do Przeszłości”. Ta niejednoznaczność, konflikt, wewnętrzna sprzeczność definiuje twórczość Pasoliniego na&nbsp;każdym poziomie. Jego kino poetyckie, kino poezji, produkuje – co zresztą podkreśla mocno Georges Didi-Huberman<sup><a href="#sdfootnote54sym" name="sdfootnote54anc">54</a></sup> – obrazy dialektyczne, które materializują się jako „filmy o&nbsp;podwójnej naturze”, gdzie, niczym w&nbsp;powidoku, „pod jeden film wślizguje się inny film”<sup><a href="#sdfootnote55sym" name="sdfootnote55anc">55</a></sup>. <em>Notatki do Orestei Afrykańskiej</em> – manifest tej „poetyki niedokończenia” – istnieją wiec jako dzieło o&nbsp;podwójnej naturze i&nbsp;palimpsestowej formie, zawieszone gdzieś pomiędzy zaangażowanym kinem politycznym a&nbsp;klasycznym autoportretem, między Ajschylosem a&nbsp;Afryką, mitologią i&nbsp;postkolonialną krytyką, przeszłością i&nbsp;wizją przyszłości, dokumentem i&nbsp;fikcją, między oddaniem głosu „wywłaszczonym” a&nbsp;ich uprzedmiotowieniem, estetyzacją.</p> <p>A co z&nbsp;Afryką? Istnieje i&nbsp;nie istnieje zarazem, podobnie jak reżyser, który przybywa doń, by kręcić („co kręcić?”) – zawieszeni gdzieś w&nbsp;przestrzeni<span class="rozstrzelony"> pomiędz</span>y, zagubieni w&nbsp;grze odbić i&nbsp;spojrzeń, w&nbsp;dialektyce, która przemienia się w&nbsp;Fikcję. W&nbsp;film.</p> <p></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Michel Beaujour, <em>Miroirs d’encre</em>, Seuil, Paris 1980, s. 9.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> <em>Notatki do Orestei Afrykańskiej</em> miały premierę dopiero w 1973 roku w Wenecji i były potem pokazywane ledwie kilkakrotnie. Film został zremasteryzowany w 2008 roku, co dało mu drugie życie. We Francji tytułowe <em>appunti</em> zostały przetłumaczone jako <em>carnets de notes</em>, co jest oczywistym odwołaniem do tradycji literatury podróżniczej (<em>carnet de voyage</em>).</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Hervé Joubert-Laurencin, <em>Poétique de l’inachèvement</em>, dodatek do DVD <em>Carnet de notes pour une Orestie Africaine</em>, Carlotta Films 2009.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Druga połowa lat 60. to moment wzmożonego zainteresowania filmowców krajami Trzeciego Świata – zwłaszcza Afryką i Indiami – będący również próbą uchwycenia na żywo nowej sytuacji po uzyskaniu przez nie niepodległości. Wystarczy wspomnieć Louisa Malle’a i jego sześciogodzinne <em>L’Inde fantôme</em> (1969) czy Glaubera Rochę i nakręcony przez niego w Afryce <em>O Leão</em> <em>de Sete Cabeças</em> (1970).</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Sylvain Venayre, <em>La</em><em> </em><em>gloire</em> <em>de l'aventure. Genèse d'une mystique moderne. 1850–1940</em>, Aubier, Paris 2002.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Vincent Debaene, <em>L’adieu au voyage. L’ethnologie française entre science et littérature</em>, Gallimard, Paris 2010, s. 11. Debaene pisał wyłącznie o kontekście francuskim, ale tezę tę rozciągnąć można z pewnością również na inne kraje tzw. Zachodu (zwłaszcza o kolonialnej przeszłości).</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Hervé Joubert-Laurencin, <em>Portrait du poète en cinéaste</em>, Cahiers du cinéma, Paris 1995, s. 130. Zresztą Jean-Claude Biette – wówczas asystent Pasoliniego – twierdzi, że reżyser od momentu zakończenia montażu wiedział już, że go nie zrobi.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Ibidem, s. 128.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Ostatecznie Hervé Joubert-Laurencin zalicza do „cyklu <em>appunti</em>” trzynaście filmów, projektów filmów i tekstów-notatek do „pomysłu na film”. Por. ibidem, s. 125–126.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> W przypadku <em>Notatek do Orestei afrykańskiej</em> taką rolę spełnia niepublikowany tekst <em>La Vita quotidiana dell’Africa nuova </em>z 1968 roku.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Szkic scenariusza Pasoliniego został opublikowany w piśmie „Trafic” w tłumaczeniu Jean-Claude’a Biette’a. Pier Paolo Pasolini, <em>Notes pour un poème sur le tiers-monde</em>, „Trafic” 1992, nr 3.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Pier Paolo Pasolini, <em>L'odore dell'India</em>, Longanesi, Milano 1962.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Pasolini pisał: „Trzeci Świat. Z jednej strony jest on przedmiotem rasowej nienawiści ze strony burżuazji. Z drugiej jest on światem, którego marksizm zasadniczo nie rozumie, paternalistycznie próbując stanąć na jego czele. Trzeci świat to skandal, to walka”. Pier Paolo Pasolini, <em>Koniec awangardy</em>, w: idem, <em>Po ludobójstwie. Eseje o języku, polityce i kinie</em>, przeł. M. Salwa, Biblioteka kwartalnika „Kronos”, Warszawa 2012, s. 93–94.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Hervé Joubert-Laurencin, <em>Portrait du poète en cinéaste</em>…, s. 163.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Ibidem, s. 165.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Por. np. Sylvie Pierre, <em>Glauber Rocha</em>, Cahiers du cinéma, Paris 1987, s. 17.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ibidem, s. 58–59.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Glauber Rocha, <em>Esthétique de la violence</em>, „Positif” 1966, février, nr 73 (jest to pierwotna wersja artykułu <em>Esthétique de la faim</em>) i wykład <em>Esthétique du rêve</em> wygłoszony na uniwersytecie Columbia w 1971 roku. Por. Arnaldo Carrilho, <em>De la faim à la déraison</em>, w: Sylvie Pierre, <em>Glauber Rocha</em>…</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Georges Didi-Huberman, <em>Uzmysłowienie</em>, przeł. P. Mościcki, „Widok. Teorie i praktyki kultury wizualnej” 2014, nr 6, <a href="http://pismowidok.org/index.php/one/article/view/212/375" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/article/view/212/375</a>.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Wedle określenia Sadri Khiari. Sadri Khiari, <em>Les peuples de Tiers Monde</em>, w: Alain Badiou, Pierre Bourdieu, Judith Butler, Georges Didi-Huberman, Sadri Khiari, Jacques Rancière, <em>Qu’est-ce qu’un peuple ?</em>, La Fabrique, Paris 2013.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Por. Hervé Joubert-Laurencin, <em>Poétique de l’inachèvement</em>…</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Georges Didi-Huberman, <em>Strategie obrazów. </em><em>Oko historii 1</em>, przeł. J. Margański, Korporacja Ha!art, Kraków 2011, s. 139.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Pier Paolo Pasolini, <em>Au lecteur non averti</em> (1970), przeł. J. Guidi, w: idem, <em>Poésies</em>, Gallimard, Paris 1980, s. 289. Cyt. za: Georges Didi-Huberman,<em> Pasolini ou la recherche des peuples perdus</em>, „Les Cahiers du Mnam” 2009, nr 108, s. 88.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Hervé Joubert-Laurencin, <em>Portrait du cinéaste en poète</em>, w: idem, <em>Le Dernier poète expressionniste. Écrits sur Pasolini</em>, Les Solitaires Intempestifs, Besançon 2005, s. 95.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Georges Didi-Huberman, <em>Sentir le grisou</em>, Les Éditions de Minuit, Paris 2014, s. 46.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Por. Georges Didi-Huberman, <em>Peuples exposés, peuple figurants. L’Oeil de l’histoire</em>, Les Éditions de Minuit, Paris 2012, s. 184.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Por. Hervé Joubert-Laurencin, <em>Portrait du cinéaste en poète</em>…, s. 169–178.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Georges Didi-Huberman,<em> Peuples exposés...</em>, s. 173–174.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Por. Michel Foucault, <em>Archeologia wiedzy</em>, przeł. A. Siemek, PIW, Warszawa 1977, s. 184.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Por. Pier Paolo Pasolini, <em>Scenariusz jako „struktura, która pragnie być inną strukturą”</em>, przeł. K. Fekecz, w: Jerzy Kossak, <em>Kino Pasoliniego</em>, WAiF, Warszawa 1976.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> W rozmowie z Jeanem Duflotem Pasolini przywołuje zresztą formułę eseju jako odpowiednią do opisania problematyki Trzeciego Świata. Por. Pier Paolo Pasolini, <em>Entretiens avec Jean Duflot</em>, Editions Gutenberg, Montréal 2007, s. 140.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Theodor W. Adorno, <em>Esej jako forma</em>, przeł. K. Krzemień-Ojak, w: <em>Sztuka i sztuki. Wybór esejów</em>, wyb. K. Sauerland, PIW, Warszawa 1990, s. 90.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Por. Pier Paolo Pasolini, <em>Kino poetyckie</em>, przeł. K. Fekecz, w: Jerzy Kossak, <em>Kino Pasoliniego</em>…, s. 98.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Taki sakralny charakter ma dla Pasoliniego afrykańska natura, krajobraz. Por. Anne-Violaine Houcke, <em>Pasolini et la poétique du déplacement. Le Carnet de notes pour une Orestie africaine (1968–1969)</em>, „Conserveries mémorielles” 2009, nr 6, <a href="http://cm.revues.org/399#text" target="_blank" rel="noopener">http://cm.revues.org/399#text</a>.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Por. Alain Badiou, <em>Byt i zdarzenie</em>, przeł. P. Pieniążek, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2010, s. 224.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> Por. Roland Barthes, <em>Mit i znak. Wybór esejów</em>, przeł. J. Błoński, PIW, Warszawa 1970.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> Jorge Luis Borges, <em>Ogród o rozwidlających się ścieżkach</em>, w: idem, <em>Historie prawdziwe i zmyślone</em>, przeł. A. Sobol-Jurczykowski, Warszawa 1993. Por. także Gilles Deleuze, <em>Kino. 1. Obraz-ruch. 2. Obraz-czas</em>, przeł. J. Margański, słowo/obraz terytoria, Gdańsk 2008, s. 275–277.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> W rozumieniu Benjaminowskim. O tym, jak pewne klisze wizualne Afryki, rozumiane jako „kolonialna skamielina”, funkcjonują w twórczości Raymonda Roussela, por. artykuł w tym numerze „Widoku”: Tomasz Swoboda, <em>Kolonializm na afiszu. </em>Impressions d’Afrique<em> Raymonda Roussela</em>, „Widok. Teorie i praktyki kultury wizualnej” 2015, nr 7, <a href="http://pismowidok.org/index.php/one/editor/proofGalley/210/378" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/editor/proofGalley/210/378</a>.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a> Wśród wszystkich – licznych – wojen toczonych w drugiej połowie XX wieku w Afryce, wojna w Biafrze pozostaje jedną z najsilniej obecnych w dyskursie o historii. Co ciekawe, w tym kontekście pojawia się również ważny polski wątek: dowódcą sił lotniczych secesjonistów z Biafry był Polak, Jan Zumbach – podczas drugiej wojny światowej dowódca Dywizjonu 303.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a> O zaletach takiego stereoskopowego spojrzenia dla pisania historii pisze choćby Karl Schlögel. Por. idem, <em>Terror i marzenie. Moskwa 1937</em>, przeł. I. Drozdowska-Broering, J. Kałążny, Wydawnictwo Poznańskie, Poznań 2012, s. 18–19.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a> Pier Paolo Pasolini, <em>L’Atena bianca</em>, w: <em>Le regole di un’illusione</em>, red. L. Betti, M. Gulinucci, Fonds Pier Paolo Pasolini, Garzanti, Milano 1991. Cyt. za: Anne-Violaine Houcke, <em>Pasolini et la poétique du déplacement</em>…</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a> Por. ibidem.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a> Roland Barthes, <em>Roland Barthes</em>, przeł. T. Swoboda, słowo/obraz terytoria, Gdańsk 2011, s. 79.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a> Podobny zabieg – negocjowania interpretacji mitu z mieszkańcami Indii – pojawia się w<em> Notatkach do filmu o Indiach</em>.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a> Luca Caminati, <em>Orientalismo eretico. Pier Paolo Pasolini e il cinema del Terzo Mondo</em>, Mondadori, Milano 2007.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a> Joseph Conrad, <em>A Personal Record (Some Reminiscences)</em>, Athenaeum, London 1912, s. 13. Cyt. za: Adam Hochschild, <em>Duch króla Leopolda</em>, przeł. P. Tarczyński, Świat Książki, Warszawa 2012, s. 180.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a> Roland Barthes, <em>Entretien avec Roland Barthes</em>, „Cahiers du Cinéma” 1963, nr 147, s. 21–30.</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a> Roland Barthes, <em>Roland Barthes</em>…, s. 80: „Sprzeczność dwóch terminów ustępuje (…) trzeciemu, który nie jest syntezą, lecz przeniesieniem: wszystko powraca, lecz jako Fikcja…”.</p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a> Temat hybrydyczności czy metysażu jako jednego z podstawowych pojęć dla teorii postkolonialnej pojawia się m.in. w tekstach Sary Ahmed, Homi Bhabhy, Paula Gilroya czy Stuarta Halla.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a> Cyt. za : <a href="http://www4.ac-nancy-metz.fr/daac/domaines_cult/epinal09/artistes/Christian BOLTANSKI.pdf" target="_blank" rel="noopener">http://www4.ac-nancy-metz.fr/daac/domaines_cult/epinal09/artistes/Christian BOLTANSKI.pdf</a></p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a> Denis Hollier, <em>La Poesie jusqu’a Z</em>, w: idem, <em>Dépossédes </em><em>(Bataille, Caillois, Leiris, Malraux, Sartre)</em>, Les Éditions de Minuit, Paris 1993, s. 22.</p>
+<p><a href="#sdfootnote52anc" name="sdfootnote52sym">52</a> Na temat autoportretu fotograficznego (także w lustrze) oraz utrwalonego na fotografii odbicia w szybie istnieje obszerna bibliografia. Por. np. <em>L’autoportrait a l’âge de la photographie</em>, red. E. Billeter, Musée Cantonal des Beaux-Arts, Lausanne 1986 ; Jean-François Chevrier, Jean Sagne, <em>L’autoportrait comme mise en scène</em>, „Photographies” 1984, nr 4, s. 44–82; <em>Staging the Self, Self Portrait Photography, 1840–1980</em>, red. J. Lingwood, National Portrait Gallery, London–Plymouth 1986. Interesujące w tym kontekście są również rozważania Clementa Chéroux zawarte w <em>Fautographie. Petite historie de l’erreur photographique</em>, Éditions Yellow Now, Crisnée 2003 czy w eseju <em>Wystrój ulicy. </em><em>Refleksje o fotografiach witryn sklepowych</em>, w: idem, <em>Wernakularne. Eseje z historii fotografii</em>, przeł. T. Swoboda, Fundacja Archeologia Fotografii, Warszawa 2014.</p>
+<p><a href="#sdfootnote53anc" name="sdfootnote53sym">53</a> Michel Beaujour, <em>Miroirs d’encre</em>..., s. 18.</p>
+<p><a href="#sdfootnote54anc" name="sdfootnote54sym">54</a> Por. Georges Didi-Huberman, <em>Sentir grisou</em>…, s. 87.</p>
+<p><a href="#sdfootnote55anc" name="sdfootnote55sym">55</a> Pier Paolo Pasolini, <em>Kino poetyckie</em>…, s. 113.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/szyby-afryki" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

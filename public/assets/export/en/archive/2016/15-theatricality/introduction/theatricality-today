@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Theatricality Today? | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/15-theatricality/theatricality-today">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Theatricality Today? | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Theatricality Today? | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/15-theatricality/theatricality-today">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Theatricality Today? | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #76b97d !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #76b97d !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #76b97d !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #76b97d !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #76b97d !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #76b97d !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #76b97d !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #76b97d !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(118,185,125,0.8) !important; */
+			/* background-color:#76b97d !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(118,185,125,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#76b97d !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(118,185,125,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#76b97d; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(118,185,125,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(118,185,125,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#76b97d !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#76b97d !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#76b97d !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-754 parent-id-748">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="747" data-selected-issue-color="#76b97d" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2016/15-teatralnosc/teatralnosc-dzis">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2016/15-teatralnosc/teatralnosc-dzis">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/15-theatricality#toc">15</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/15-theatricality/theatricality-today?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Theatricality Today?</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/15-theatricality/theatricality-today?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Authors: 
+		<a href="/en/bio?id=363"></a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;">The Western art tradition has been in a&nbsp;famous conundrum about&nbsp;the status of artworks — the dissolution of the borders between&nbsp;art and nonart, and the possibility of great art — for&nbsp;some time now, but&nbsp;it has rarely seemed to any discussant in that&nbsp;tradition that&nbsp;the normative issues at stake in a&nbsp;possibly modern art are <span class="rozstrzelony">lik</span>e [questions] about&nbsp;authenticity in a&nbsp;life.</p> <p style="text-align: right;">Robert Pippin <a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a></p> </blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/15/wstep/460-6162-1-pb-1920x-4ed.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/15/wstep/460-6162-1-pb-330x-956.jpg 330w,assets/cache/images/issues/2017/15/wstep/460-6162-1-pb-660x-853.jpg 660w,assets/cache/images/issues/2017/15/wstep/460-6162-1-pb-768x-441.jpg 768w,assets/cache/images/issues/2017/15/wstep/460-6162-1-pb-1320x-e03.jpg 1320w" src="assets/cache/images/issues/2017/15/wstep/460-6162-1-pb-660x-853.jpg" alt="" ></a>    <figcaption><p>Bownik, <em>Passage</em>, 140 x 240 cm, 2013, from&nbsp;the series Colleagues, courtesy of the artist</p></figcaption>   </figure>  </section><section class="u-typo">   <p>This year marks the 50th anniversary of the publication in Artforum of Michael Fried’s “Art and Objecthood,” one of the most-cited pieces of art writing of the 20<sup>th</sup> century. The text is, it is worth adding, for&nbsp;the most part criticised as being either a&nbsp;last strong manifestation of the modernist sensibility which is now in retreat, the philippic of a&nbsp;die-hard modernist unable to recognize at the time what was really revolutionary and of worth in the field of art, or an attempt at chastising in moral terms any gesture of transgressing the modernist “purity” of the medium. The reaction to Fried’s critique of minimalism was fierce enough to quickly become ritualized; the thought arises that&nbsp;in the field of contemporary art people have in fact stopped reading him, restricting themselves to merely repeating received opinions, or trying to prove, again, that&nbsp;he was simply wrong.</p> <p><a name="__DdeLink__19536_210326264"></a> And yet efforts are being undertaken to reexamine <em>Art and Objecthood</em> in a&nbsp;more impassive light, among&nbsp;which the excellent issue of the <em>Journal of Visual Culture</em>, edited by Jeanne Morra and Alison Green, should be mentioned. It is worth emphasizing that&nbsp;the most compelling readings, such as those by Stephen Melville or Robert Pippin, tend not to observe the division between&nbsp;the critical and art historical writing of Fried (something he used to insist on). It is precisely his art historical writing, it seems, that&nbsp;allows one to acknowledge what makes <em>Art and Objecthood</em> a&nbsp;piece of art writing one simply cannot pass over. We publish here a&nbsp;shortened version of the essay’s first full translation into&nbsp;Polish, forthcoming in Krzysztof Pijarski’s book <em>Archeologia modernizmu. Michael Fried, fotografia i&nbsp;nowoczesne doświadczenie sztuki </em>(<em>An Archeology of Modernism: Michael Fried, Photography, and the Modern Experience of Art</em>).</p> <p>It is for&nbsp;the same reason that, in last year’s call for&nbsp;papers for&nbsp;this issue, we committed an infraction of sorts, by dubbing theatricality –&nbsp;the central concept of Fried’s essay –&nbsp;“Diderotian:” although Fried himself was not yet interested in Diderot at the time (and became aware of the closeness of his own project to the critical writing of the French Encyclopedist only while working on <em>Absorption and Theatricality<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a></em>) it was important for&nbsp;us, in proposing a&nbsp;framework for&nbsp;this issue, to put an emphasis on the question of authenticity and the relationship between&nbsp;art and its audience as a&nbsp;properly modern problem. This&nbsp;is why we asked not so much</p> <blockquote>whether –&nbsp;in times, when recording seemingly precedes the event and when we keep documenting our lives the moment we live them –&nbsp;we are, so to say, condemned to theatricality, but&nbsp;rather how the category of sincerity is negotiated today, and falseness named, pointed out, or stigmatized. When and according to what rules would we be inclined to call something, or someone, (unbearably) theatrical? It is, in fact, a&nbsp;question about&nbsp;the contemporary formulas, constructions, or poetics of sincerity (authenticity?), not only in the visual arts, but&nbsp;also in our social life. This&nbsp;is why we will also welcome contributions touching upon&nbsp;the “technologies of the self” and the changing forms of work and privacy (and the concomitant economy and circulation of affects) in the current phase of capitalism.</blockquote> <p>As it turned out, all the answers to a&nbsp;problem thus delineated turned on the question of the subject, that&nbsp;“place of emission, reception, or transition (of affect, of action, of language, etc.)”<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a> that&nbsp;seems ever more difficult to pinpoint. Therefore in our thematic section Tim Gough bids to prove that&nbsp;Fried’s critical project was formulated in opposition to deconstruction, pointing out that&nbsp;the vehemence of his response to the new ontology of art (this is how Gough reads minimalism) came above&nbsp;all from&nbsp;the recognition that&nbsp;“These questions occur not just in the supposedly limited realm of aesthetics, but&nbsp;more broadly they concern how we view the world and how the very notions of authenticity and sincerity with&nbsp;which we negotiate our social world are framed.”<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a> Ultimately, Gough argues, “the ontology of the work of art is necessarily the ontology of the world itself and our relation to it and to others.”<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a> Becky Bivens looks at analogous questions from&nbsp;a&nbsp;feminist perspective: using as an example three performances by the V-Girls, she shows how the artists (Andrea Fraser, Jessica Chalmers, Marianne Weems, Erin Cramer, and Martha Baer) questioned, in their witty and critical performances, the poststructuralist deconstruction of the subject, asking if it was possible to save&nbsp;some form of the “the self-identified, authentic subject ready to speak out,” i.e. of agency prerequisite to emancipation (and thus establishing an analogy between&nbsp;humanism and second-wave feminism). Agnieszka Sosnowska, meanwhile, takes up the already sketched-out issues of subjectivity, authenticity, and the actuality of the subject as problem in an article dedicated to Andy Warhol’s Factory and its theatrical actualization by stage director Krystian Lupa (and stops short of claiming that&nbsp;authenticity became the medium of Warhnol’s work roughly at the time when Fried formulated his theses), and Mateusz Chaberski, building on the critique of Fried’s position formulated by Juliane Rebentisch, as well as on the theories of new materialism, proposes an understanding of theatricality as a&nbsp;protean experience, characterized by the fluidity of the positions of all the participants (both human and not) in the hybrid forms of contemporary art.</p> <p>This time we provide a&nbsp;<b>View Point </b>on the work of Marta Ziółek –&nbsp;as contextualized by Katarzyna Słoboda and interpreted visually by Agnieszka Mikulska –&nbsp;because her choreography, contending with&nbsp;the tradition of dance as a&nbsp;conventionalized, ossified form, and at the same time building on readymade sequences, appropriated gestures, clichés and masks, opens a&nbsp;very interesting dialogue with&nbsp;the problematics of theatricality.</p> <p>Leaving behind&nbsp;our guiding topic, <b>Panorama </b>opens with&nbsp;two compelling takes on photography. While Ryan Corath proposes a&nbsp;new reading of Bernd and Hilla Becher’s life project, extracting it from&nbsp;the hieratic immobility of the modernist grid, Abigail Solomon-Godeau warily problematizes the archive of Zofia Rydet’s <em>Sociological Record</em>. She poses apt questions regarding&nbsp;the relationship not only between&nbsp;the archive and Rydet’s practice, but&nbsp;also all attempts at archiving photographic legacies in an art context. The publication of this&nbsp;essay precedes the forthcoming <em>Object Lessons: Zofia Rydet’s </em>Sociological Record, a&nbsp;collection of essays edited by Krzysztof Pijarski.<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a></p> <p>Finally, <b>Snapshots</b> reverberates with&nbsp;questions about&nbsp;the place of the subject: while Dorota Sosnowska participates in <em>Situation Rooms </em>by Rimini Protokoll, Magda Roszkowska views Natasha Ginwala and Daniel Muzyczuk’s <em>Museum of Rhythm </em>at the Muzeum Sztuki in Lodz, and Tomasz Żukowski assesses Joanna Krakowska’s monumental <em>Przedstawienia. </em><em>Teatr publiczny 1765–2015 </em><em>(</em><em>Performances. Public Theater 1765-2015</em><em>) –&nbsp;to be more precise, its first volume, dedicated to the </em><em>era</em><em> of the Polish People’s Republic (1944-1989). </em></p> <p>The Editorial Team</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Robert Pippin,<em> “Authenticity in Painting: Remarks on Michael Fried’s Art History</em>,”<em> Critical Inquiry </em>31 (2005): 575.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Michael Fried, <em> Absorption and Theatricality: Painting and Beholder in the Age of Diderot</em> (Chicago – London: University of Chicago Press, 1980).</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Jean-Luc Nancy, fragment of a letter of invitation to a thematic issue of the international review of philosophy <em>Topoi </em>(1986), quoted in the introduction to <em>What Comes After the Subject?</em> (New York – London: Routledge, 1991), 5. Interestingly, Jean-Luc Nancy posed the question of who comes after the subject at the same time, as Hal Foster organized a discussion to sum up the terms of the dispute around <em>Art and Objecthood</em>, see Benjamin Buchloh, Michael Fried, Rosalind Krauss et al., “<em>Theories of Art After Minimalism and Pop</em>,” in <em>Discussions in Contemporary Culture</em>, ed. Hal Foster (Seattle: Bay Press, 1987), 55–87.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Tim Gough, “Theatricality and Sincerity,” <em>View. Theories and Practices of Visual Culture</em> 15 (2016), <a href="http://pismowidok.org/index.php/one/article/view/378/873" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/article/view/378/873</a>.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Ibid.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>See <a href="http://press.uchicago.edu/ucp/books/book/distributed/O/bo26326870.html" target="_blank" rel="noopener">http://press.uchicago.edu/ucp/books/book/distributed/O/bo26326870.html</a>.</p>
+<p></p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/15-theatricality/theatricality-today" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

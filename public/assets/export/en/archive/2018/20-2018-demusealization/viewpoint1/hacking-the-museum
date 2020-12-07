@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Hacking the Museum | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/20-2018-demusealization/hacking-the-museum">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Hacking the Museum | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Hacking the Museum | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/20-2018-demusealization/hacking-the-museum">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Hacking the Museum | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ce0058 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ce0058 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ce0058 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ce0058 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ce0058 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ce0058 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+			/* background-color:#ce0058 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(206,0,88,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ce0058 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ce0058; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ce0058 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ce0058 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ce0058 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-400 parent-id-354">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="335" data-selected-issue-color="#ce0058" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/20-2018-odmuzealnienie/hakowanie-muzeum">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/20-2018-odmuzealnienie/hakowanie-muzeum">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/20-2018-demusealization#toc">20</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/20-2018-demusealization/hacking-the-museum?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Curatorial Collective: Hacking the Museum – Opening the Academy</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/20-2018-demusealization/hacking-the-museum?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=399">Roma Sendyka</a>, <a href="/en/bio?id=312">Iwona Kurz</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Patrick Trompiz
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sendyka-kurz/02-d-1920x-3e8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/sendyka-kurz/02-d-330x-379.jpg 330w,assets/cache/images/issues/2018/20/sendyka-kurz/02-d-660x-e66.jpg 660w,assets/cache/images/issues/2018/20/sendyka-kurz/02-d-768x-7f0.jpg 768w,assets/cache/images/issues/2018/20/sendyka-kurz/02-d-1320x-bae.jpg 1320w" src="assets/cache/images/issues/2018/20/sendyka-kurz/02-d-660x-e66.jpg" alt="" ></a>    <figcaption><p><em>Reasonable Doubt</em>, dir. Mieke Bal</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>Iwona Kurz: What is<a href="http://www.kulturypamieci.polonistyka.uj.edu.pl/kolektywkuratorski" target="_blank" rel="noopener"> the Curatorial Collective</a>?</b></p> <p><b>Roma Sendyka:</b> It’s difficult to explain in a&nbsp;few words -&nbsp;the idea itself took shape over&nbsp;the course of a&nbsp;series of projects, developing and intensifying as time passed.</p> <p>It all began with&nbsp;our collaboration with&nbsp;Mieke Bal, on her film about&nbsp;Descartes. I&nbsp;convinced her to come as a&nbsp;keynote speaker for&nbsp;an interdisciplinary summer school entitled <em>Affective Stories and the Politics of Memory</em>. It was organized for&nbsp;philology doctoral students in Nieborów in 2014, as Prof. Ryszard Nycz’s project. My argument to her was that&nbsp;she would find at this&nbsp;summer school ideal interiors for&nbsp;her planned film, which was to be both historical and, as always with&nbsp;her, anachronistic. She suggested that&nbsp;we might also present in exhibition form another one of her works, the cycle of video interviews called <em>Nothing Is Missing</em>. Together with&nbsp;several other interested participants at the school, we had the task of creating and preparing this&nbsp;presentation, which required both practical and technical solutions. The exhibition –&nbsp;realized without&nbsp;a&nbsp;budget or technical institutional support, relied exclusively on the innovation of participants and humble curatorial gestures, and lasted for&nbsp;three day during&nbsp;the summer school.</p> <p>This was the first test of our emerging curatorial body: a&nbsp;collective that&nbsp;was greater than&nbsp;the sum of its parts. The Nieborów project made us aware of the virtues of working as an organic whole comprised of several people –&nbsp;a&nbsp;place where a&nbsp;variety of talents meet, and where, unexpectedly, a&nbsp;critical mass of diverse competencies is reached –&nbsp;something an individual person can never attain. We were filled with&nbsp;optimism and curiosity as to what more we might achieve in this&nbsp;way –&nbsp;in the collision of visual practice, scholarly and artistic discourse, academic theory and the everyday lives of viewers from&nbsp;backgrounds that&nbsp;are not necessarily academic. This&nbsp;experiment was, I&nbsp;believe, the beginning of the Collective.</p> <p>We asked Mieke Bal a&nbsp;few months later whether she would like&nbsp;to hold a&nbsp;premiere in Poland for&nbsp;her film about&nbsp;Descartes and Princess Christina from&nbsp;Sweden –&nbsp;<em>Reasonable Doubt</em>. We had been thinking about&nbsp;the Philosophical Film Festival in Krakow. It went well together –&nbsp;Descartes, experimental film, a&nbsp;philosophical festival and a&nbsp;work realized predominantly in Poland. The 2015 festival concerned love. Bal had made a&nbsp;film about&nbsp;how feeling had been stripped away from&nbsp;Cartesianism, as a&nbsp;constructed tradition of rationalism, thereby challenging one of the foremost epistemological frameworks of our time. Bal liked the idea, but&nbsp;she added a&nbsp;condition as she done in Nieborów –&nbsp;we had to showcase her work simultaneously as a&nbsp;film and as a&nbsp;five-channel video display.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sendyka-kurz/01-d-1920x-3df.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/sendyka-kurz/01-d-330x-522.jpg 330w,assets/cache/images/issues/2018/20/sendyka-kurz/01-d-660x-d72.jpg 660w,assets/cache/images/issues/2018/20/sendyka-kurz/01-d-768x-73f.jpg 768w,assets/cache/images/issues/2018/20/sendyka-kurz/01-d-1320x-0cd.jpg 1320w" src="assets/cache/images/issues/2018/20/sendyka-kurz/01-d-660x-d72.jpg" alt="" ></a>    <figcaption><p><a href="https://www.mqup.ca/curatorial-dreams-products-9780773546837.php" target="_blank" rel="noopener">Curatorial Dreams</a>, ed. Shelley R. Butler, <br>Erica Lehrer, McGill-Queens University Press, 2016</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>iK:</b> Was this&nbsp;somehow related to Mieke Bal’s academic work?</p> <p><b>RS:</b> Yes, in as much as we consider her recent theoretical films an integral part of her cultural analysis. This&nbsp;method, developed at the Amsterdam School for&nbsp;Cultural Analysis, which was founded and developed by Bal together with&nbsp;Thomas Elsaesser, represents a&nbsp;serious proposal in the domain of cultural studies. This&nbsp;approach has not been taken up in Poland in practice, despite&nbsp;some excellent analyses of it (including those of Maciej Maryl, Agnieszka Rejniak-Majewska, Tomasz Majewski or Łukasz Zaremba). Her method allows for&nbsp;a&nbsp;highly rigorous and organized analysis of complex cultural content by media and artistic means. At first glance, it might seem abstract, almost irresponsible: academic work carried out in the medium of film and art -&nbsp;a&nbsp;‘tautological’ analysis of cultural products by means of other cultural products [often called “research creation” –&nbsp;<em>ed</em>]. We were aware of this&nbsp;approach –&nbsp;but&nbsp;only from&nbsp;reading. Applying the method in practice seemed a&nbsp;<em>fantastical</em> plan running straight into&nbsp;the wall of university didactic structures. At the same time, it was a&nbsp;<em>fantastic</em> idea, and a&nbsp;very tempting one.</p> <p>Around twenty people came for&nbsp;the first organizational meeting of the Collective. I&nbsp;thought to myself that&nbsp;this group wouldn’t even make it to the second week (as usually happens with&nbsp;extracurricular projects at universities), but&nbsp;in fact we made it to the end of the project with&nbsp;almost the same group of participants. Almost no one dropped out despite&nbsp;the time-consuming and sometimes difficult work. We had to get an exhibition ready. There was no location available. We had no budget. We lacked the relevant know-how. We didn’t have a&nbsp;conception of how to do it –&nbsp;which we actually couldn’t really have had because the films were still in production, with&nbsp;Mieke sending us finished fragments in installments. So we started by familiarizing ourselves with&nbsp;her theoretical thinking: we wanted to understand her method so thoroughly that&nbsp;we could be in a&nbsp;position to explain it to others. This&nbsp;became a&nbsp;characteristic feature of the work of the Collective: to work on theory long enough to break through&nbsp;its hermeticism and gain access to its inner workings so as to make that&nbsp;theory accessible to a&nbsp;wider audience. So we viewed material that&nbsp;was fresh out of the editing room –&nbsp;sometimes indeed work in progress, –&nbsp;and interpreted it carefully so as to get as close as we could to a&nbsp;sufficient understanding. To this&nbsp;end we together put together a&nbsp;dynamic reading list, from&nbsp;Descartes’ <em>Passions of the Soul </em>to <em>Thinking in Film</em> by Mieke Bal herself.</p> <p><b>iK:</b> The participants were doctoral students from&nbsp;Polish philology departments in Kraków?</p> <p><b>RS:</b> The group was actually diverse, made up mostly of doctoral students, but&nbsp;also MA students. Regarding&nbsp;their subjects of study, cultural studies and philology departments predominated, but&nbsp;there were also participants from&nbsp;psychology, art history, and interdisciplinary studies. That&nbsp;is how an alternative interdisciplinary seminar started up. We considered together what structure the seminar should take. Questions came up like&nbsp;a&nbsp;broken record at every meeting: who should call the meeting, what job are we undertaking, who should open and close the sessions, and who is responsible for&nbsp;the agenda? There was no prearranged structure as you would normally expect with&nbsp;courses.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sendyka-kurz/04-d-1920x-ee4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/sendyka-kurz/04-d-330x-345.jpg 330w,assets/cache/images/issues/2018/20/sendyka-kurz/04-d-660x-07a.jpg 660w,assets/cache/images/issues/2018/20/sendyka-kurz/04-d-768x-405.jpg 768w,assets/cache/images/issues/2018/20/sendyka-kurz/04-d-1320x-a81.jpg 1320w" src="assets/cache/images/issues/2018/20/sendyka-kurz/04-d-660x-07a.jpg" alt="" ></a>    <figcaption><p>The Curatorial Collective, project <br><em>My Museum, museum about&nbsp;me</em>, 27 June 2017, The Ethnographic Museum in Kraków. Poster by Monika Bielak</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>iK:</b> So, how did you come to define that&nbsp;structure?</p> <p><b>RS:</b> The aesthetic tradition of self-reflective forms, like&nbsp;the essay, represents for&nbsp;me an important point of reference in thought and at work. It suggested to me the idea of affirming the position of the amateur, and we all accepted this&nbsp;position consciously. Material appeared for&nbsp;our analysis without&nbsp;forewarning so no one was able to be better or worse prepared, so the hierarchy resulting from&nbsp;an uneven distribution of knowledge disappeared –&nbsp;or was at least made irrelevant. We also lacked any ready method: we came up with&nbsp;our method in the course of our activities on the basis of what we each brought to the seminar from&nbsp;our several disciplines and our shared reading list. Honesty demanded that&nbsp;we admit that&nbsp;we are all interdisciplinary laypeople This&nbsp;acceptance of one’s predicament as an amateur is in fact liberating; it’s a&nbsp;source of inspiration especially for&nbsp;the so-called “new humanities.” This&nbsp;is an approach without&nbsp;recourse to academic status, where one waives ones’ dominant position predefined by the system for&nbsp;the sake of a&nbsp;culture of exchange. Thought of in this&nbsp;way, it turns out that&nbsp;the partners gathered in the process of thinking can be much more committed and put more into&nbsp;the relationship. Students take ownership for&nbsp;the outcome of their joint efforts. They find and create what is needed to understand the problems thrown up by the work. In this&nbsp;way, the hierarchy of researcher-object is also done away with. Our next key assumption was Hubert Damisch’s conception of the theoretical object, important to Bal herself, by which the object researched invokes the right theory for&nbsp;itself, providing the tools and suggesting the best course of action for&nbsp;the analyst.</p> <p>The affirmation of the amateur and viewing the object of research as a&nbsp;locus of agency can lead to frustration as well as liberation. Working like&nbsp;this, there is a&nbsp;different dynamic than&nbsp;with work that&nbsp;is planned in advance, directed by one center and with&nbsp;a&nbsp;particular scope of responsibility and a&nbsp;clearly defined purpose. Our work often meandered, sought its own way, ran into&nbsp;dead ends and then had to go back. In the same way the position of our group, its goals and results were often uncertain. It was not clear we would make it, whether our plans would be realized, or indeed what those plans were –&nbsp;they developed with&nbsp;each meeting. I&nbsp;could not take sole responsibility for&nbsp;the result, as we could only achieve results together. So, the only logical thing to do was to set up a&nbsp;flat, egalitarian structure.</p> <p><b>iK:</b> How did that&nbsp;work out?</p> <p><b>RS:</b> Abandoning the academic course structure brought us hundreds of major, even potentially destructive problems -&nbsp;and yet many more benefits, in my opinion. A&nbsp;flattened hierarchy develops relationships differently than&nbsp;in normal courses. Participants know that&nbsp;they depend on each other. When one person is falls down&nbsp;on the job, everyone suffers –&nbsp;we all sign off&nbsp;on the work in its entirety, and not just individually, with&nbsp;each person in charge of their own fragment. This&nbsp;kind of teamwork builds up real responsibility. For&nbsp;the first project, the group was small, and we knew each other well, and trusted each other. With&nbsp;time, the Collective grew and then difficult, sometimes very difficult, moments arose, filled with&nbsp;frustration or even anger. These difficulties were complications resulting from&nbsp;relationships, both within&nbsp;the group and with&nbsp;the outside&nbsp;world, from&nbsp;our different level of engagement and responsibility. The Collective is essentially directed from&nbsp;within –&nbsp;it’s a&nbsp;self-sufficient entity –&nbsp;but&nbsp;there are also the practicalities of finding meeting venues and agreeing on a&nbsp;time to meet. In the end, despite&nbsp;the resistance to leadership, we realized we did need to assign someone to solve those practical problems. However, to emphasize that&nbsp;person’s role would be to destroy the team altogether. This&nbsp;is a&nbsp;paradoxical process, like&nbsp;walking on thin ice.</p> <p>We also had a&nbsp;lot of luck. Sometimes reality lends a&nbsp;helping hand and there is a&nbsp;series of coincidences that&nbsp;lead us to a&nbsp;completely unexpected solution or a&nbsp;new circumstance. We ran into&nbsp;a&nbsp;series of people and groups, and our relationships with&nbsp;them developed into&nbsp;valuable partnerships. The Art Bunker<em> </em>Contemporary Art Gallery in Krakow helped us by taking in our small Film Discussion Club and thanks to that&nbsp;partnership we and our future viewers, with&nbsp;the further help of several critics, were able to view the earlier work of Mieke Bal and come to understand her artistic background. When we started to seek a&nbsp;location for&nbsp;our exhibition, we were convinced that&nbsp;we would end up with&nbsp;a&nbsp;show transmitted via&nbsp;five old-fashioned cathode-ray TV sets in a&nbsp;university classroom.At just that&nbsp;moment there were changes taking place in the Museum of the History of Photography, resulting in an empty room –&nbsp;actually four empty rooms –&nbsp;and we were able to organize a&nbsp;fully professional exhibition there.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sendyka-kurz/09-d-1920x-b2a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/sendyka-kurz/09-d-330x-5c4.jpg 330w,assets/cache/images/issues/2018/20/sendyka-kurz/09-d-660x-768.jpg 660w,assets/cache/images/issues/2018/20/sendyka-kurz/09-d-768x-187.jpg 768w,assets/cache/images/issues/2018/20/sendyka-kurz/09-d-1320x-c16.jpg 1320w" src="assets/cache/images/issues/2018/20/sendyka-kurz/09-d-660x-768.jpg" alt="" ></a>    <figcaption><p>The Curatorial Collective, project <em>Matrix</em>, <br>20 April 2018, The Jagiellonian University Museum Collegium Maius. In the programme of KRAKERS –&nbsp;Cracow Gallery Weekend 2018: Change. Photo: Karolina Baranowska</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>iK:</b> Did the museum not wish to have their own curator?</p> <p><b>RS:</b> In fact, there was a&nbsp;fortuitous synergy because one member of the Collective had just started to work for&nbsp;the museum. So, there was no need for&nbsp;supervision as such, but&nbsp;rather partnership. From&nbsp;the start,our project was characterized by a&nbsp;large measure of good will. We were also supported by the team of the Festival of Philosophical Film. The Museum of Contemporary Art in Kraków (MOCAK) also joined in and provided a&nbsp;location for&nbsp;film premiere. The project was highly-publicized so the hall was filled to the brim. The author came with&nbsp;her actors and the screening went very well. Mieke Bal established an excellent rapport with&nbsp;the group and became one with&nbsp;us for&nbsp;the duration of her stay in Kraków –&nbsp;an attitude that&nbsp;drew even greater admiration. For&nbsp;the students, it was also important that&nbsp;they were able –&nbsp;despite&nbsp;their lack of completed university degrees –&nbsp;to spend time with&nbsp;a&nbsp;well-known researcher, talk to her, go for&nbsp;walks, go for&nbsp;coffee in between&nbsp;stages of the construction of the exhibition. In this&nbsp;way, a&nbsp;world authority became an everyday figure for&nbsp;them. As they commented later, this&nbsp;impacted their perception of the university.</p> <p>Bal’s project in Kraków revealed the complexity of the knowledge involved in projects like&nbsp;these. We “know” things, but&nbsp;it is only when we are practically engaged that&nbsp;the scientific <em>process</em> comes to light –&nbsp;one comprised of an understanding of the materiality of the work, its content and philosophical and cultural context, deciphering rhetorical moves and theoretical tools used in relation to that&nbsp;work. Then there is the space where the work is placed, and finally the question: who is the audience? When we had already thought through&nbsp;the material to the extent that&nbsp;we felt able to present it to a&nbsp;lay audience, we faced the author, and then a&nbsp;variety of audiences: from&nbsp;the worlds of film, academia, and the arts. We became more confident. We increased our speed. In the end it turned out that&nbsp;the participants of the project wanted to prepare a&nbsp;book as well, to write about&nbsp;what they had learned. In sum, “Experiment #1: Bal” turned out to be a&nbsp;complete scholarly experience.</p> <p><b>iK:</b> I&nbsp;suppose it was also an educational and mutual learning experience? After&nbsp;all, it was collective learning in a&nbsp;group …</p> <p><b>RS:</b> There exists the figure of <em>le maître ignorant</em> (the ignorant schoolmaster), proposed by Jacques Rancière (1987) following&nbsp;Joseph Jacotot (a 19<sup>th</sup> century pedagogue). I&nbsp;often thought about&nbsp;this while I&nbsp;was working with&nbsp;the Collective. The idea is based on a&nbsp;rather utopian assumption of the paradoxical nature of one who lacks definite competencies but&nbsp;who is nevertheless able to ask penetrating questions and lead an educational project in the right direction. I&nbsp;had thought that&nbsp;this was primarily a&nbsp;theoretical conception, however, in the course of our work it turned out to have a&nbsp;highly practical dimension. Once again this&nbsp;associated in my mind with&nbsp;the art of the essay: with&nbsp;the principle of repeated questioning, without&nbsp;claims to professionalism, stepping out of our comfort zones and taking risks in our thinking. It seems to me that&nbsp;a&nbsp;place for&nbsp;this kind of academy is very much needed today –&nbsp;one that&nbsp;inquires, that&nbsp;is uncertain, that&nbsp;experiments, that&nbsp;does not build hierarchies, and at the same time appreciates certain undervalued, however ancient, aspects of the university.</p> <p><b>iK:</b> But&nbsp;was it not the case that&nbsp;Mieke Bal functioned as a&nbsp;figure representing academic authority?</p> <p><b>RS:</b> Yes, of course. In a&nbsp;sense our work was an experiment that&nbsp;stumbled into&nbsp;proximity with&nbsp;an academic luminary, and we realized that&nbsp;we were moving (clumsily) between&nbsp;a&nbsp;radically democratic approach, and a&nbsp;celebration of the pinnacle of academic achievement. The entire event was public, promoted, and appreciated. At the same time, the whole endeavor had a&nbsp;fundamentally experimental quality, an artistic, creative quality.Only secondarily did it have an educational, pedagogical, and academic quality, in the sense that&nbsp;we constantly learned new things. Mieke did not interfere with&nbsp;our work. She usually knows very precisely what she wants to convey and since&nbsp;her projects are highly theorized, she precisely defines the exhibition conditions required to achieve her desired effect. <em>Reasonable Doubt</em> was, however, a&nbsp;work-in-progress, so she could not impose the best way of presenting it. In that, we had a&nbsp;great opportunity, an exception to her normal way of working. We were impressed that&nbsp;she took a&nbsp;risk: handing over&nbsp;her material to amateurs, students, people she did not know, and allowed us to prepare the work’s premiere.</p> <p><b>iK:</b> What shape did the exhibition take in the end?</p> <p><b>RS:</b> Because the material was multidimensional and our associations went in various directions, it quickly became apparent that&nbsp;we had to create a&nbsp;multidimensional, digressive narrative. Of course, it turned out that&nbsp;there already existed conceptions of exhibitions of that&nbsp;kind and it won’t come as any surprise to find out that&nbsp;the phrase for&nbsp;such an exhibition was “exhibition-essay”. In the Haus der Kulturen der Welt, in Berlin in 2012, <a href="https://www.hkw.de/en/programm/projekte/2012/animismus/start_animismus.php" target="_blank" rel="noopener">Anselm Franke held an exhibition with&nbsp;that format about&nbsp;animism</a>. For&nbsp;us, this&nbsp;format became a&nbsp;necessity –&nbsp;not only by virtue of the construction of the group, but&nbsp;also because of more prosaic limitations (such as lack of funds) to create the architecture of the exhibition.</p> <p>Since we were not able to borrow or rent the appropriate facility, or indeed employ a&nbsp;designer, we had to work with&nbsp;the archive. It turned out that&nbsp;the solution was to look into&nbsp;the past&nbsp;of the institution. With&nbsp;very little persuasion, the Museum of the History of Photography generously opened their storage area to us and allowed us to select objects to accompany the monitors and texts. In the end we became interested in a&nbsp;particular philosopher, the author of the <em>Dioptrics</em>, who passionately studied machines for&nbsp;augmenting vision and the functions of sight itself. In the storerooms of the museum we found almost the entirety of the scenography for&nbsp;our narrative. This&nbsp;was also exciting as a&nbsp;form of interaction with&nbsp;the institution in an area where guests usually are not permitted to go, as well as being a&nbsp;practical exercise in the theory of archiving –&nbsp;a&nbsp;key area in contemporary humanities.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sendyka-kurz/03-d-1920x-3e8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/sendyka-kurz/03-d-330x-379.jpg 330w,assets/cache/images/issues/2018/20/sendyka-kurz/03-d-660x-e66.jpg 660w,assets/cache/images/issues/2018/20/sendyka-kurz/03-d-768x-7f0.jpg 768w,assets/cache/images/issues/2018/20/sendyka-kurz/03-d-1320x-bae.jpg 1320w" src="assets/cache/images/issues/2018/20/sendyka-kurz/03-d-660x-e66.jpg" alt="" ></a>    <figcaption><p>The Curatorial Collective, exhibition <br><em>Rzeczowy świadek</em> [Material Witness], 21-28 April 2017, Cooperative „Ogniwo”, Kraków. Photo: Daria Kołecka</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>iK:</b> What happened after&nbsp;that with&nbsp;the Collective?</p> <p><b>RS:</b> I&nbsp;thought it would be a&nbsp;one-off thing. Its power and scale seemed unrepeatable. Indeed, at first the feeling that&nbsp;we should “do this&nbsp;again sometime” went away –&nbsp;but&nbsp;then was reborn in the context of the next edition of the Cracow Gallery Weekend KRAKERS.</p> <p>The premiere of Mieke Bal’s film took place at the same time as that&nbsp;event in 2016, but&nbsp;the coincidence of dates was just that&nbsp;–&nbsp;a&nbsp;coincidence. The following&nbsp;year, we asked ourselves if we could prepare something especially for&nbsp;that occasion, more directed to an artistic audience than&nbsp;an academic one.</p> <p>At that&nbsp;time and for&nbsp;other reasons, I&nbsp;was working with&nbsp;artists who were working in the so-called “forensic turn”, working with&nbsp;various objects, and with&nbsp;nature, to raise questions about&nbsp;the past. These objects, whether living or dead, took on the role of a&nbsp;witness. Thanks to Susan Schuppli -&nbsp;from&nbsp;the Forensic Architecture Group, part of Goldsmiths College, University of London -&nbsp;and with&nbsp;her support, we got to work on another theory and new artistic material, as she is also a&nbsp;filmmaker.</p> <p>The Curatorial Collective in 2017 prepared the exhibition <em>Rzeczowy świadek </em>[<em>Material Witness</em>]. The structure of our work –&nbsp;being both research-based and practical curatorial work –&nbsp;was similar to our project with&nbsp;Mieke Bal, though the dynamics of the individual elements were different. The difference in our approach was that&nbsp;we divided up the group’s cooperation with&nbsp;artists. We experimented with&nbsp;a&nbsp;division of areas of curatorship the following&nbsp;year as well. To get a&nbsp;little ahead, I&nbsp;can say that&nbsp;collective work, where we had a&nbsp;joint discussion about&nbsp;every detail until&nbsp;a&nbsp;consensus was achieved, was perhaps more time-consuming, but&nbsp;it provided better results, and we would like&nbsp;to return to this&nbsp;approach. In a&nbsp;community, one is responsible for&nbsp;the whole. The exhibition then ceases to be just a&nbsp;sum of ideas and talents; it exceeds the sum of its parts and reaches an unpredictable, intensive quality. This&nbsp;effect can disappear from&nbsp;view when practical considerations arise: when we need to work with&nbsp;a&nbsp;specific invited artist and if there are twenty artists as well as a&nbsp;group of curators, then of course we must create some kind of division of labor.</p> <p>When we were thinking about&nbsp;the shape the Collective should take, help arrived in the form of texts from&nbsp;<em>documenta 8</em> given to three curatorial groups. As we read those texts, we became aware of the obvious limitations of collective work resulting from&nbsp;the cumbersome nature of a&nbsp;growing group, among&nbsp;other things. Our group was already thirty co-curators, both men and women, out of which twenty were working really intensely. A&nbsp;group of this&nbsp;size generates technical problems: how can we develop communication platforms, how can we create a&nbsp;common archive, agree on positions, work through&nbsp;conflicts? How can we document our thinking?</p> <p><b>iK:</b> Today there are a&nbsp;lot of free solutions allowing you to spend more time in front of the computer. The editorial work of “View” in a&nbsp;nutshell.</p> <p><b>RS:</b> Over&nbsp;time, more and more diverse needs appear, and this&nbsp;is obviously a&nbsp;difficult moment for&nbsp;an entity like&nbsp;the Collective, if for&nbsp;no other reason than&nbsp;its internal variation in age and experience. There are people who have already worked on similar projects and there are beginners. In 2018, a&nbsp;new group of students joined us and got on very well –&nbsp;the new participants brought on board important skills, from&nbsp;graphics through&nbsp;IT to the financial. What is most important, it turned out that&nbsp;there was no discord between&nbsp;the experienced and the newcomers –&nbsp;there was no hierarchy or groupism there. Communication of information and skills took place quickly and, again, horizontally. Students learned from&nbsp;their colleagues and the flow of knowledge was in many directions. The third unveiling of the Collective’s work -&nbsp;the intervention <em>Matrix</em> presented during&nbsp;the 2018 Cracow Gallery Weekend, took us to a&nbsp;place where we had to acquire critical self-awareness. We had been long discussing what had worked and what needed correction. The self-referential gesture favored by academia today –&nbsp;but&nbsp;not only there –&nbsp;appeared naturally, almost effortlessly. At the same time, this&nbsp;gesture was concrete and necessary, without&nbsp;reducing the “evaluative imperative” to the absurd.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sendyka-kurz/06-d-1920x-69a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/sendyka-kurz/06-d-330x-3cf.jpg 330w,assets/cache/images/issues/2018/20/sendyka-kurz/06-d-660x-e59.jpg 660w,assets/cache/images/issues/2018/20/sendyka-kurz/06-d-768x-166.jpg 768w,assets/cache/images/issues/2018/20/sendyka-kurz/06-d-1320x-a14.jpg 1320w" src="assets/cache/images/issues/2018/20/sendyka-kurz/06-d-660x-e59.jpg" alt="" ></a>    <figcaption><p>The Curatorial Collective, project <br><em>My Museum, museum about&nbsp;me</em>, 27 June 2017, The Ethnographic Museum in Kraków. Photo: Erica Lehrer</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>iK:</b> You also worked with&nbsp;Erica Lehrer, a&nbsp;Canada-based memory scholar.</p> <p><b>RS:</b> I&nbsp;do like&nbsp;“unexpected turns of events” in academia, situations when reality demands an unforeseeable step. Erica Lehrer came to Poland with&nbsp;her project <em>Thinking Through&nbsp;the Museum</em> in 2016. She wanted to highlight the place occupied by Jewish heritage here, moved, as she was, by the permanent exhibition of the Ethnographic Museum in Kraków.</p> <p>In the part of the exhibition devoted to seasonal rituals there are carolers’ masks on display, some of which depict Jews. As a&nbsp;rule, the caroling masks are grotesque, but&nbsp;in the case of the representation of Jewish figures, they employ very negative stereotypes. Lehrer’s ancestors were provincial Polish Jews and she believes that&nbsp;Poland’s rural heritage is thus also Jewish, not only ethnically Polish. She wanted to see her ancestral culture reflected in the exhibition, but&nbsp;the material culture on display in the museum was either not described as Jewish –&nbsp;in the case of certain objects like&nbsp;ratchets [wooden noisemakers] or tools that&nbsp;would have reached the village via&nbsp;Jewish traders –&nbsp;or else it was presented as Jewish but&nbsp;in a&nbsp;caricatured manner.</p> <p><b>iK:</b> In your working descriptions of this&nbsp;project contained in the book <span><em>Diversifying the National “We”: Curatorial Dreams in the Kraków Ethnographic Museum </em></span><span>[</span><span><em>Różnicowanie narodowego „my”. Kuratorskie marzenia w&nbsp;Muzeum Etnograficznym w&nbsp;Krakowie</em></span>), there appear<span>,</span><span> two metaphors for&nbsp;the </span><span>group’s</span><span> activity</span><span> appear</span><span>: “hacking” and “dreaming”.</span></p> <p><b>RS:</b>  The idea of “Curatorial Dreams” is Erica Lehrer’s, developed with&nbsp;Shelley Ruth Butler. In 2016 they published a&nbsp;book together on this&nbsp;subject: <em>Curatorial Dreams: Critics Imagine Exhibitions.</em> <em>The curatorial </em>turns on the idea that&nbsp;both for&nbsp;the museum and for&nbsp;theorists, hypothesizing is very useful;to be able to “imagine” an exhibition without&nbsp;the constraints of reality. This&nbsp;opens theorists to the reality of the museum context, it forces us to “mix” abstract ideas in the gallery; the museum, on the other hand, is opened up to potentiality, to opportunities it might fear or cannot see. This&nbsp;process allows for&nbsp;the free flow of ideas.</p> <p>Erica invited students to join this&nbsp;work with&nbsp;the Ethnographic Museum. She had originally envisioned Jewish Studies students, who would be able to identify Jewish objects in the exhibition [or missing from&nbsp;it –&nbsp;<em>ed</em>.] and describe them appropriately. The project required work with&nbsp;archives, with&nbsp;the museum, and with&nbsp;non-academic realities. As it happened, there was a&nbsp;greater response from&nbsp;the Polish Studies department, although there was also cooperation with&nbsp;the Jagiellonian University’s Institute of Jewish Studies, facilitated by Dr. Marek Tuszewicki. At this&nbsp;moment in Poland academics were fervently discussing the books of Jan Sowa about&nbsp;Poland’s peripheral status with&nbsp;its system of feudal serfdom, and Andrzej Leder’s book about&nbsp;“sleepwalking through&nbsp;the revolution,” where the collective Polish subject lacks consciousness of its identity in the wake of the massive, social reorganizations imposed in the postwar era. Ryszard Nycz, too, described Poland as a&nbsp;country re-formatted by post-war relocations, which affected a&nbsp;third of the country’s population. We thought we could read those key works through&nbsp;the prism of the museum, with&nbsp;a&nbsp;museum whose permanent exhibition had not changed for&nbsp;decades (although changes are currently beginning to be implemented), and which tells the story of the origins of “Polish Polishness,” since&nbsp;ethnographic museums in Poland are focused on local rural traditions, not on colonial collections. So we worked with&nbsp;the standard tools of the Polish humanist <em>anno domini</em> 2016 –&nbsp;but&nbsp;while working on a&nbsp;particular subject that&nbsp;had been subjected to critical analysis.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sendyka-kurz/07-d-1920x-69a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/sendyka-kurz/07-d-330x-3cf.jpg 330w,assets/cache/images/issues/2018/20/sendyka-kurz/07-d-660x-e59.jpg 660w,assets/cache/images/issues/2018/20/sendyka-kurz/07-d-768x-166.jpg 768w,assets/cache/images/issues/2018/20/sendyka-kurz/07-d-1320x-a14.jpg 1320w" src="assets/cache/images/issues/2018/20/sendyka-kurz/07-d-660x-e59.jpg" alt="" ></a>    <figcaption><p>The Curatorial Collective, project <br><em>My Museum, museum about&nbsp;me</em>, 27 June 2017, The Ethnographic Museum in Kraków. Photo: Erica Lehrer</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>iK:</b> Was your work well received?</p> <p><b>RS:</b> We were graced with&nbsp;a&nbsp;focused, attentive audience. As we had anticipated, the fifty or sixty people were joining us for&nbsp;an intense intervention-workshop from&nbsp;a&nbsp;variety of backgrounds, including from&nbsp;outside Poland. For&nbsp;two hours we walked around&nbsp;the museum and pointed out objects we wanted to highlight to and materials we wanted to emphasize. To give one example from&nbsp;among the fifteen or so micro-interventions we undertook: in the music room we wanted to draw attention to the fact that&nbsp;by means of music Roma and Jewish people became more prominent in the daily life of the country. Sound was an excellent context for&nbsp;revealing the multi-ethnic character of the country as something quite evident and everyday. Marek Tuszewicki proposed a&nbsp;popular song, emerging initially among&nbsp;the nobility, that&nbsp;later being adapted by various ethnic groups and classes (peasants especially) and was performed trans-culturally, –&nbsp;<em>You take the High Road, and I&nbsp;the Low </em>[<em>Ty pójdziesz górą, a&nbsp;ja doliną </em>] –&nbsp;which subsequently became a&nbsp;folk song with&nbsp;many different language versions. We played a&nbsp;beautiful recorded version in Yiddish. A&nbsp;Polish version was played by a&nbsp;young folk band from&nbsp;Western Pomerania, i.e. from&nbsp;the “relocated” part of Poland. While searching for&nbsp;a&nbsp;Roma version or a&nbsp;Ukrainian version we came across&nbsp;a&nbsp;very interesting version sung by <em>Sestry Boczniewicz</em> (“The Boczniewicz Sisters”) Ramona and  Natalia Boczniewicz, who work today in Przemków in Lower Silesia where their family was forcibly resettled as a&nbsp;result of Operation Vistula (forceful relocations from&nbsp;eastern Poland of the Ukrainian minorities after&nbsp;II World War).[in 1947]. Once again fate proved generous –&nbsp;as we worked, important cases critically highliting Polish heritage appeared, which were of great value to us.</p> <p><b>iK:</b> There’s a&nbsp;highly suggestive metaphor hidden in the song about&nbsp;taking divergent paths.</p> <p><b>RS:</b> Yes, it suits our divided reality well –&nbsp;whether we view it as divided by ethnicity or rather by class.</p> <p>The material we produced from&nbsp;the museum project is still emerging –&nbsp;it has been exhibited at Kraków’s main Jewish Culture Festival and at FestivALT, an alternative Jewish festival. The students’ texts have been presented at conferences, in collective volumes, and in the book we’re in the process of publishing, which you mentioned before.</p> <p><b>iK:</b> And what about&nbsp;hacking?</p> <p><b>RS:</b> That’s an idea that&nbsp;has been in circulation for&nbsp;a&nbsp;long time. For&nbsp;example, the Museum of the History of Polish Jews Polin made use of this&nbsp;notion in 2015, when inviting ten artists to do controlled “disturbances” in to their permanent exhibition to allow for&nbsp;its temporary augmentation.</p> <p><b>iK:</b> Was the point to overlay the present content with&nbsp;absent content?</p> <p><b>RS:</b> The point was to add, to fill in, to do the lighting differently. Museum exhibitions can stagnate, become stale, even the best ones sometimes need shaking up. Museums –&nbsp;unlike&nbsp;the Ethnographic Museum in Kraków –&nbsp;do not always agree to this. It is not always easy to gain authorization, and sometimes requires patient diplomacy. That, at least, is the experience we had in our last intervention, the project we did in 2018 in the Jagiellonian University Museum. I&nbsp;had thought about&nbsp;the UJ museums for&nbsp;some time.There we have seven departments with&nbsp;different branches spread across&nbsp;the various university buildings. I&nbsp;could not stop thinking about&nbsp;the <em>Libraria</em>, the Collegium Maius library where the UJ Senate convenes. I&nbsp;knew the interior well, but&nbsp;it was only when I&nbsp;spent many hours there during&nbsp;the conference<em> </em><em>New Humanities. </em><span><em>Occupying a&nbsp;position, negotiating autonomy </em></span><span>[</span><span><em>Nowa humanistyka. </em></span><em>Zajmowanie pozycji, negocjowanie autonomii</em> ]<em> </em>(2016) that&nbsp;I&nbsp;became aware of a&nbsp;particular conservative feature that&nbsp;became unbearable, clashing, as it did, with&nbsp;the presentations about&nbsp;culture-nature, publicly-engaged humanities, or epistemic justice. This&nbsp;space had been designed by Karol Estreicher with&nbsp;the aid of objects from&nbsp;the collections of the university at the time of its refurbishment following&nbsp;Poland’s regaining independence and rebuilding after&nbsp;World War II. Conference discussions about&nbsp;progressive postulates relating to the opening of the university, for&nbsp;example about&nbsp;participation, inclusive humanities, and so on,. were taking place in one of the most conservative interiors one could imagine. We were surrounded by male-only busts, hierarchically exhibited in schematic order, alongside leather-bound books in cases behind&nbsp;glass, whose titles were no longer visible. Everything in this&nbsp;room spoke of the repressive, elite, non-inclusive character of learning and the university. It might have seemed that&nbsp;this was only the past&nbsp;of the academy. Yet no comments were being made on this&nbsp;radical dissonance, so I&nbsp;became all the more aware of the continuing need for&nbsp;discussion.</p> <p>After the summer recess of 2017, the Collective reactivated and new people joined. We began thinking about&nbsp;subjects for&nbsp;our next projects. The context of women’s movements up to the #metoo movement and the rebellion of female academics critical of the realities of art schools, among&nbsp;others [e.g. the Katarzyna Kozyra Foundation’s 2015 report <em>Little chance for&nbsp;advance </em>[<em>Marne szanse na awanse</em>], and Iwona Demko’s <em>votum separatum</em> (or publicly expressed objection) on the matter of the centenary of the first female student in the Academy of Fine Arts in Kraków in 2017) –&nbsp;all of this&nbsp;meant that&nbsp;the idea of an intervention in the patriarchal space of the <em>Libraria</em> provoked strong emotions. The university management in Collegium Maius consented to our project, but&nbsp;it was a&nbsp;difficult process, one of constant evolution. Collegium Maius mainly functions as an historical museum, working not with&nbsp;artistic objects, but&nbsp;rather proposing a&nbsp;chronological narrative, fixed and stable. We wanted to enter the space with&nbsp;art objects that&nbsp;would disrupt the stability and sense of obviousness. The museum bravely accepted our ideas, though I&nbsp;had the impression that&nbsp;there were many occasions when they regretted the consent they had granted earlier as our ideas radically disturbed the distinguished <em>status quo</em>. In contrast with&nbsp;the Ethnographic Museum, we had to keep the institutional staff informed about&nbsp;what we were planning to do, consult with&nbsp;them on the arrangement of objects, and seek consent of the museum’s curators and accept their oversight during&nbsp;the final presentation. As we negotiated with&nbsp;the museum, the scope of our project suddenly changed, as we found out that&nbsp;we could not intervene in the space of the <em>Libraria</em> as we had hoped. We had wanted to add new portraits, project different images onto&nbsp;the objects, change the captions under&nbsp;the male busts, replacing them with&nbsp;the names of women, and change the original layout for&nbsp;two hours.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sendyka-kurz/08-d-1920x-fd3.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/sendyka-kurz/08-d-330x-ea3.jpg 330w,assets/cache/images/issues/2018/20/sendyka-kurz/08-d-660x-b5c.jpg 660w,assets/cache/images/issues/2018/20/sendyka-kurz/08-d-768x-12a.jpg 768w,assets/cache/images/issues/2018/20/sendyka-kurz/08-d-1320x-a27.jpg 1320w" src="assets/cache/images/issues/2018/20/sendyka-kurz/08-d-660x-b5c.jpg" alt="" ></a>    <figcaption><p>The Curatorial Collective, project <em>Matrix</em>, April 20th, 2018, The Jagiellonian University Museum Collegium Maius. In the programme of KRAKERS –&nbsp;Cracow Gallery Weekend 2018: Change. Photo: Karolina Baranowska</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>iK:</b> Was there a&nbsp;concern that&nbsp;your interventions would damage the exhibition?</p> <p><b>RS:</b> It wasn’t really possible for&nbsp;our changes to damage anything –&nbsp;our plans included appropriate care for&nbsp;the objects under&nbsp;consideration. At a&nbsp;certain moment we came to understand that&nbsp;the institution treated the exhibition not merely as a&nbsp;configuration of elements (as an exposition of a&nbsp;fragment of the collection), but&nbsp;above all as a&nbsp;homogenous object, a&nbsp;single historical antique (Estreicher’s curatorial scheme –&nbsp;it became clear -&nbsp;was considered as a&nbsp;monument or ‘foundational heritage’). Nothing could be changed, mixed, covered over&nbsp;or undermined because everything you see in the <em>Libraria</em> has grown into&nbsp;a&nbsp;necessary and respected totality. Here we could not but&nbsp;to see in this&nbsp;approach the fetishization of Estreicher’s curatorial intention. In practice we ran into&nbsp;an image made in stone, a&nbsp;portrait of the “patriarchal university” from&nbsp;a&nbsp;hundred years earlier. That&nbsp;university defended its position stubbornly; indeed, we posed a&nbsp;radical threat to it.</p> <p><b>iK:</b> Still, it’s hard to understand the fear of a&nbsp;momentary intervention, one which does not disturb the exposition or its physical integrity.</p> <p><b>RS:</b> Our gestures would have demonstrated that&nbsp;the current, perfectly polished narrative is not the only conceivable one. But&nbsp;a&nbsp;compromise emerged, which satisfied us –&nbsp;and compromises are the daily bread of the Collective, a&nbsp;key part of its internal and external policy and a&nbsp;reason of frustrations of many. We received permission for&nbsp;curatorial authority –&nbsp;as conference guests would normally have –&nbsp;over&nbsp;the table and floor. This&nbsp;was our space for&nbsp;action: there we could set up objects and documents, and thereby offer the audience our counter-narrative. We invited artists we valued and whose work resonated with&nbsp;the vision of an open academy which demands equality for&nbsp;a&nbsp;variety of voices and equal respect without&nbsp;regard to gender.</p> <p>We collaborated with&nbsp;Erica Lehrer and her research group <em>Thinking Through&nbsp;the Museum</em>, which is focused on reclaiming tradition of Canada’s First Nations. This&nbsp;partnership made us aware of the challenges of ethnographic museums, which are going through&nbsp;a&nbsp;redefinition in a&nbsp;post-colonial age. Minority ethnic groups are demanding changes in the way history is presented so as to include their history, in their own, “non-white” terms. However, historical museums have not been called upon&nbsp;to remove patriarchal influences on their narratives, despite&nbsp;the presence and dynamism of feminist discourse for&nbsp;many years. It’s as if museums were under&nbsp;the radar [of this&nbsp;movement]. Have we really accepted as fact a&nbsp;past where only men appear? A&nbsp;past where women only exist as a&nbsp;function of a&nbsp;male gaze? “Herstorical” revisions have been available on the academic market for&nbsp;some time now, and has been implemented in art museum, with&nbsp;some, however limited, success. Historical museum evidently successfully escaped that&nbsp;scrutiny. On the face of it, it might seem that&nbsp;the history of the Jagiellonian University can only be told with&nbsp;male protagonists because women were officially admitted for&nbsp;the first time in 1894. However, when we started taking a&nbsp;closer look, it turned out that&nbsp;women were present, but&nbsp;in different areas of the institution. Sometimes their presence is revealed subtly, thanks to the survival of a&nbsp;fortuitous document –&nbsp;for&nbsp;example, the document where a&nbsp;female cook demanded the return of her costs for&nbsp;cooking from&nbsp;the University Chancellor.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sendyka-kurz/10-d-1920x-130.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/sendyka-kurz/10-d-330x-fcc.jpg 330w,assets/cache/images/issues/2018/20/sendyka-kurz/10-d-660x-03f.jpg 660w,assets/cache/images/issues/2018/20/sendyka-kurz/10-d-768x-5c6.jpg 768w,assets/cache/images/issues/2018/20/sendyka-kurz/10-d-1320x-7ec.jpg 1320w" src="assets/cache/images/issues/2018/20/sendyka-kurz/10-d-660x-03f.jpg" alt="" ></a>    <figcaption><p>The Curatorial Collective, project <em>Matrix</em>, April 20th, 2018, The Jagiellonian University Museum Collegium Maius. In the programme of KRAKERS –&nbsp;Cracow Gallery Weekend 2018: Change. Photo: Karolina Baranowska</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Circumstance once again obliged: wanting to illustrate the fact that&nbsp;women were a&nbsp;part of the university, we were able to invoke the fact that&nbsp;it had been reestablished by a&nbsp;woman, Jadwiga of Poland, in 1397: an extremely unusual situation in the history of universities going back to the middle ages. What is more, Queen Jadwiga of Poland had donated her jewels and dresses for&nbsp;the restoration that&nbsp;took place after&nbsp;her death in 1400 –&nbsp;objects frequently serving as proof that&nbsp;women are too vain and self-oriented to be granted the right to learning. This&nbsp;was an amazing paradox that&nbsp;we worked on with&nbsp;artists, men and women, in a&nbsp;competition for&nbsp;a&nbsp;<em>pop-up museum.</em> The concept that&nbsp;inspired the “Matrix” project was <em>Alma Mater</em> –&nbsp;the mother, motherhood. Thus, the support of Israeli psychoanalyst and artist Bracha Ettinger’s theory of the <em>matrixial gaze</em> (literally “uterine gaze”) was natural. We discussed, for&nbsp;example, the meaning of <em>Alma Mater</em>, lit. “nourishing mother”, in the context of university patriarchy. Chance again offered a&nbsp;helping hand. As it happens, the first female students at UJ (at that&nbsp;time known as the “Kraków Academy”) were midwives brought to the university by Hugo Kołłątaj, an Enlightenment thinker and reformist, in the late 18<sup>th</sup> century (they were technically not admitted as students, but&nbsp;they were attending an affiliated midwife school). Motherhood and the uterine turned out to be literally a&nbsp;part of the tradition of our university.</p> <p><b>iK:</b> You have described the work of the Collective from&nbsp;project to project. How does it operate on a&nbsp;daily basis?</p> <p><b>RS:</b> Above&nbsp;all we respond to the demands of a&nbsp;particular project. Besides&nbsp;working on an annual project, we are constantly engaging with&nbsp;texts, working on publications for&nbsp;our series “Exhibiting Theory” [“Wystawianie teorii”]. At the moment, three teams are working in parallel on future works of the Collective, following&nbsp;<em>The Cartesian Tradition</em>]<em> </em>[<em>Tradycja kartezjańska</em>. We meet for&nbsp;discussions, especially those connecting visual culture and memory theory, organized by the Research Center for&nbsp;Memory Cultures [Ośrodek Badań nad Kulturami Pamięci]. Sometimes, after&nbsp;an intense period of work, we need a&nbsp;break from&nbsp;each other and then nothing happens in the Collective for&nbsp;a&nbsp;while. And that&nbsp;is also a&nbsp;characteristic feature: suspending activity typically provokes a&nbsp;subsequent outburst of innovation.</p> <p><b>iK:</b> How does this&nbsp;fit into&nbsp;the workings of the university?</p> <p><b>RS:</b> I’m not sure if we can say that&nbsp;the Curatorial Collective operates <em>in</em> the university. We definitely make use of its infrastructure and individual units of the university support us financially. The university is something like&nbsp;a&nbsp;subsoil we grow in. On the other hand, other institutions also support us and among&nbsp;our ranks are people from&nbsp;outside academia or from&nbsp;other universities, and we are not defined by the ECTS (European Credit Transfer System) or a&nbsp;college timetable. So there are many ways in which we break the <em>a priori</em> mold of programs of study, institutes, and departments. We reach beyond&nbsp;the framework of the university. Our interests extend beyond&nbsp;academia and our ambitions and curiosity lead us sometimes to faraway places, places sometimes very different from&nbsp;a&nbsp;structured, hierarchical institution. For&nbsp;example, we are working with&nbsp;the Historical Museum of Kraków [MHK] on the terrain of the former concentration camp KL Plaszow. That&nbsp;unkempt terrain was the subject of several of our projects in 2016 in the series <em>Oznacz Płaszów </em>[<em>“Mark out Płaszów”</em>].</p> <p>Around 1968 in New York and London a&nbsp;tradition of the “Anti-university” was established. This&nbsp;was an intentionally utopian attempt to gather scholars, artists, and activists to create a&nbsp;shared zone of experimentation, discussion, research, and discovery, and even, as the manifesto put it –&nbsp;epiphany. This&nbsp;institution’s tradition has been sustained until&nbsp;today, especially in the time of social unrest and protest, like&nbsp;recently –&nbsp;within&nbsp;the Occupy! movement. I&nbsp;gladly consider the Collective a&nbsp;similar form of anti-university, one searching –&nbsp;sometimes effectively, sometimes floundering, for&nbsp;emerging knowledge that&nbsp;goes beyond&nbsp;traditional divisions.</p> <p><br><br></p> <p><b>The Curatorial Collective 2014–2018:</b></p> <p>Marta Adaśko, Karolina Baranowska, Anna Chromik, Ewa Chudoba, Olga Curzydło, Iga Figiel, Bartosz Flak, Justyna Gawełko, Natalia Giemza, Maja Gomulska, Monika Gromala, Donata Grzywa, Katarzyna Grzybowska, Karina Jarzyńska, Sonia Kądziołka, Kornelia Kiszewska, Artur Koczoń, Daria Kołecka, Karolina Koprowska, Wiktoria Kozioł, Magdalena Machała, Aurelia Malin-Pohl, Marta Matuszak, Paweł Michna, Katarzyna Możejko, Marlena Nikody, Sylwia Papier, Adam Partyka, Patrycja Przygoda, Kinga Setera, Anna Spiechowicz, Gabriela Sułkowska, Maria Świątkowska, Marta Świetlik, Agata Tondera, Maciej Topolski, Weronika Wawryk.</p> <p><b>Participants in the Kraków Ethnographic Museum </b><b>Intervention:</b> </p> <p>Mariola Gucwa, Aleksandra Guja, Iga Figiel, Daria Kołecka, Karolina Koprowska, Joanna Krasicka, Marlena Nikody, Sylwia Papier. Cooperation: Julia Sołjan, Gabriela Letniovska. Opieka: Erica Lehrer, Roma Sendyka, Marek Tuszewicki, Magdalena Zych.</p> <p><b>Participants in the project on signs highlighting the history of the Płaszów concentration camp:</b> </p> <p>Karolina Koprowska, Sylwia Papier, Karolina Grzybowska, Aleksandra Guja, Joanna Krasicka, Anna Ratajczak, Grzegorz Wójcik. Supervising: Marta Śmietana, Monika Bednarek, Ryszard Kotarba, Roma Sendyka.</p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/20-2018-demusealization/hacking-the-museum" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

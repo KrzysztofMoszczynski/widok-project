@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Nauka czy delirium? Dwa oblicza architektury komercyjnej | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/ruinacja/nauka-czy-delirium-dwa-oblicza-architektury-komercyjnej">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Nauka czy delirium? Dwa oblicza architektury komercyjnej | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Nauka czy delirium? Dwa oblicza architektury komercyjnej | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/ruinacja/nauka-czy-delirium-dwa-oblicza-architektury-komercyjnej">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Nauka czy delirium? Dwa oblicza architektury komercyjnej | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ffb300 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ffb300 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ffb300 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ffb300 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ffb300 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ffb300 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+			/* background-color:#ffb300 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,179,0,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ffb300 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ffb300; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ffb300 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ffb300 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ffb300 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1245 parent-id-1191">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="422" data-selected-issue-color="#ffb300" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/4-ruin#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/4-ruin/science-or-delirium-two-aspects-of-commercial-architecture">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/ruinacja#toc">4</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/ruinacja/nauka-czy-delirium-dwa-oblicza-architektury-komercyjnej?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Nauka czy delirium? Dwa oblicza architektury komercyjnej</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/ruinacja/nauka-czy-delirium-dwa-oblicza-architektury-komercyjnej?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=304">Klara Czerniewska</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Roberto Venturi, Denise Scott Brown, Steven Izenour, <em>Uczyć się od Las Vegas</em>, przeł. A. Porębska, Wydawnictwo Karakter, Kraków 2013.</h2> <h2>Rem Koolhaas, <em>Deliryczny Nowy Jork. Retroaktywny manifest dla Manhattanu</em>, przeł. D. Żukowski, Wydawnictwo Karakter, Kraków 2013.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1332-1-pb-1920x-b0c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1332-1-pb-330x-7f2.jpg 330w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1332-1-pb-660x-b06.jpg 660w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1332-1-pb-768x-dc0.jpg 768w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1332-1-pb-1320x-ab2.jpg 1320w" src="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1332-1-pb-660x-b06.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Są różne rodzaje ładu, trzeba tylko umieć je dostrzec. Może to i&nbsp;truizm, ale w&nbsp;momencie, kiedy w&nbsp;całej Polsce panuje ożywiona debata na&nbsp;temat wszechobecnego chaosu wizualnego i&nbsp;braku ładu przestrzennego, a&nbsp;wydawcy i&nbsp;tłumacze szukają pocieszenia i&nbsp;– być może – potencjalnych rozwiązań w&nbsp;lekturach opublikowanych po&nbsp;raz pierwszy parę dekad wcześniej, w&nbsp;rzekomo analogicznym okresie załamania i&nbsp;rewizji dominującego (modernistycznego) systemu wartości, warto się nad nim pochylić.</p> <p>Chodzi o&nbsp;dwie publikacje krakowskiego wydawnictwa Karakter: <em>Uczyć się od Las Vegas</em> Roberta Venturiego, Denise Scott-Brown i&nbsp;Stevena Izenoura oraz <em>Deliryczny Nowy Jork</em> Rema Koolhaasa. Obie zostały po&nbsp;raz pierwszy przetłumaczone na&nbsp;polski i&nbsp;wydane w&nbsp;2013 roku, po&nbsp;odpowiednio 41 i&nbsp;35 latach. W&nbsp;samą porę, by uzmysłowić sobie „niebezpieczeństwa”, które niesie ze sobą oddanie odpowiedzialności za&nbsp;przestrzeń publiczną tym, którzy doprowadzają do jej zawłaszczenia i&nbsp;unicestwienia – prywatnym deweloperom i&nbsp;inwestorom, „złym” kapitalistom. Tak to przynajmniej wygląda z&nbsp;punktu widzenia współczesnych sympatyków moderny i&nbsp;socjalizmu, reprezentujących europejską wiarę w&nbsp;Idee, Postęp, Architekturę, czyli – mówiąc słowami Koolhaasa – Urbanistykę Dobrych Intencji. Współczesny neoliberał, wyznawca własności prywatnej i&nbsp;wolnego rynku, uosabia w&nbsp;Polsce najgorszego wroga dobrej architektury i&nbsp;„zdrowej” przestrzeni publicznej (której rozwój, <em>nota bene</em>, wciąż hamują odziedziczone po&nbsp;komunizmie, do dziś niewyjaśnione kwestie prawne związane z&nbsp;reprywatyzacją). Gettoizacja w&nbsp;zamkniętych podmiejskich osiedlach, gentryfikacja w&nbsp;„rewitalizowanych” dzielnicach, wyburzanie zabytkowych budowli pod&nbsp;nowe, komercyjne inwestycje – to tylko niektóre z&nbsp;bolączek wymienianych przez socjologów, antropologów i&nbsp;krytyków.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1334-1-pb-1920x-06d.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1334-1-pb-330x-212.jpg 330w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1334-1-pb-660x-adc.jpg 660w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1334-1-pb-768x-982.jpg 768w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1334-1-pb-1320x-9e4.jpg 1320w" src="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1334-1-pb-660x-adc.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Tymczasem w&nbsp;Stanach od zawsze było inaczej. Parafrazując Katarzynę Kozyrę, można by powiedzieć, że&nbsp;w&nbsp;tamtejszej architekturze marzenia stają się rzeczywistością. Taki stan rzeczy uwidacznia się szczególnie w&nbsp;dwóch miejscach-symbolach: w&nbsp;sercu Nowego Jorku, stolicy światowego biznesu, i&nbsp;w ostoi masowej rozrywki, czyli w&nbsp;Las Vegas. Choć geograficznie, przestrzennie, historycznie i&nbsp;funkcjonalnie dzieli je wiele (tak wiele, jak wiele może dzielić na&nbsp;przykład Warszawę i&nbsp;Zamość), to stanowią one w&nbsp;moim odczuciu wyraz tych samych, na&nbsp;swój sposób radykalnych, idei. Przedmiotem obu książek jest architektura komercyjna – tak bowiem można by określić fenomen, którego efektem jest zarówno manhattański <em>skyline</em>, jak i&nbsp;symbole, szyldy i&nbsp;<em>sprawl</em> Las Vegas, czy zasiedlanych przez klasę średnią podmiejskich osiedli mieszkaniowych, którym Venturi, Scott Brown i&nbsp;Izenour (dalej: VSBI) również poświęcają uwagę. Tak pojmowana architektura z&nbsp;jednej strony jest rozumiana jako narzędzie generowania zysków, z&nbsp;drugiej jednak, jej formy są nośnikami określonych komunikatów, przyjmują czytelne kształty, epatują symbolami, łączącymi to, co wysmakowane, z&nbsp;tym, co masowe. To właśnie analiza dyskursu, którym architektura wyraża stojące za&nbsp;nią idee, najbardziej interesuje architektów-badaczy kwestionujących czystość intencji modernizmu. Oba stworzone w&nbsp;książkach obrazy uzupełniają się, a&nbsp;ich echo odnaleźć można w&nbsp;pejzażu współczesnej Polski – w&nbsp;centrach wielkich miast i&nbsp;ich rozrastających się peryferiach.</p> <p></p> <h2>Percepcje przestrzeni: autobraz i&nbsp;spojrzenie z&nbsp;góry</h2> <p></p> <p>W jednej z&nbsp;początkowych scen kultowego <em>Zabriskie Point</em> Michelangela Antonioniego podążamy za&nbsp;czerwonym pickupem głównego bohatera, granego przez Marka Frechette’a. Kamera chwyta zmieniające się widoki rozpalonego południowym słońcem Los Angeles, ukazując kolejne przydrożne szyldy: Bethlehem Steel Corporation, Ladewig Company, Danola Ham &amp; Bacon, Brown Bevis Industrial, Pacific Metals, Heller Machinery... Wszystko w&nbsp;rytm elektroakustycznych, metalicznych dźwięków współtworzących industrialną aurę, przywołującą na&nbsp;myśl inne arcydzieło Włocha – <em>Czerwoną pustynię</em>. Film, znacznie lepiej niż fotografia, oddaje ideę „autobrazu”, o&nbsp;którym piszą VSBI (s.68). Chodzi o&nbsp;koncepcję przestrzeni tworzonej z&nbsp;myślą o&nbsp;jej percepcji w&nbsp;ruchu, przez szybę samochodu. Jest to naczelna idea organizacyjna miejsc typu Las Vegas Strip, gdzie wzdłuż jednej ulicy uszeregowane są kasyna, motele, parkingi, stacje benzynowe i&nbsp;zmonumentalizowane szyldy, które swoją skalą dostosowane są właśnie do tego specyficznego sposobu postrzegania – mobilnego oka w&nbsp;mobilnym ciele, podróżującym po&nbsp;wernakularnych (industrialnych lub komercyjnych) obszarach zabudowanych przez anonimowych architektów. Autorzy <em>Uczyć się...</em> zabierają czytelników-widzów w&nbsp;wirtualną podróż: zamieszczają w&nbsp;książce sekwencję klatek filmowych dokumentujących przejażdżkę wzdłuż Strip i&nbsp;– w&nbsp;nawiązaniu do <em>Every Building on the Sunset Strip</em> Eda Ruschy – fotografują fragment pierzei, kadrując fasady, parkingi i&nbsp;przejeżdżające auta (w tym ujęciu ustawione prostopadle do ulicy szyldy stają się dużo mniej czytelne). Większość fotografii wykonana jest z&nbsp;poziomu gruntu, co daje pojęcie o&nbsp;skali i&nbsp;proporcjach poszczególnych fragmentów otoczenia w&nbsp;odniesieniu do fizycznej skali człowieka. Tym samym badacze wcielają się w&nbsp;rolę turystów, potencjalnych klientów wystawionych na&nbsp;perswazyjne komunikaty zabudowy, i&nbsp;mogą bez trudu oddać się umiłowanej przez siebie „niewartościującej i&nbsp;wolnej od uprzedzeń” (VSBI, s.5) analizie formalnej.</p> <p>O pokolenie młodszy od Venturiego (ur. 1925) i&nbsp;Scott Brown (ur. 1931), Koolhaas (ur. 1944) przybył do Nowego Świata na&nbsp;studia. W&nbsp;latach 70. miał jeszcze burzę czarnych włosów na&nbsp;głowie i&nbsp;przypominał raczej przyszłego gwiazdora alternatywnego rocka aniżeli architekta-intelektualistę, za&nbsp;którego teraz uchodzi. Niczym „prawdziwy” Amerykanin poszukujący swoich korzeni w&nbsp;archiwach Ellis Island, w&nbsp;swojej pierwszej książce cofa się aż&nbsp;do początków („prehistorii”) Nowego Jorku, wskazując tym samym na&nbsp;holenderski rodowód miasta.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1378-1-pb-1920x-424.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1378-1-pb-330x-0f7.jpg 330w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1378-1-pb-660x-1ad.jpg 660w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1378-1-pb-768x-1a5.jpg 768w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1378-1-pb-1320x-288.jpg 1320w" src="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1378-1-pb-660x-1ad.jpg" alt="" ></a>    <figcaption><p>Rem Koolhaas, <em>Deliryczny Nowy Jork</em>, przeł. D. Żukowski, Wydawnictwo Karakter, Kraków 2013, s.&nbsp;92</p></figcaption>   </figure>  </section><section class="u-typo">   <p><em>Deliryczny Nowy Jork</em>, podobnie jak <em>Uczyć się...</em>, otwierają mapy. Jednak nie są to abstrakcyjne czarne sylwety, punkty i&nbsp;linie na&nbsp;bezinteresownie ilustratorskich planach, lecz sprawcze, rozpalające wyobraźnię wizje kolonizatorów, które od początku narzucają nowy porządek – poczynając od nazw (<em>Nowel Amsterdam en L’ Amerique</em>; <em>Holande en L’ Amerique</em> z&nbsp;mapy Jollaina, 1672) po&nbsp;zarysy bastionów i&nbsp;siatkę ulic, która, ostatecznie ukształtowana w&nbsp;1811 roku, raz na&nbsp;zawsze determinuje kształt i&nbsp;rozwój metropolii.</p> <p>Niejako na&nbsp;marginesie Koolhaas podkreśla rolę, jaką pełniło patrzenie z&nbsp;góry na&nbsp;dynamicznie rozwijające się miasto – liczne ilustracje zamieszczone w&nbsp;tekście zdają się to potwierdzać. To tu na&nbsp;wystawie światowej w&nbsp;1853 roku Elisha Otis przeszedł do historii techniki, gdy zaprezentował swój wynalazek – windę. Bez niej pięcie się w&nbsp;górę Manhattanu – jedno z&nbsp;jego znaków szczególnych – nie byłoby możliwe. Coraz liczniejsze wieże, balony i&nbsp;sterowce umożliwiają obserwację i&nbsp;wyciąganie wniosków. Zawieszenie kilkadziesiąt, kilkaset metrów nad ziemią sprzyja kontemplacji i&nbsp;zrozumieniu wyspy, nabraniu do niej dystansu i&nbsp;powzięciu odpowiednich zamierzeń i&nbsp;projektów. Reprodukowane w&nbsp;książce wizje przyszłości miasta kreślone przez Harry’ego M. Petita i&nbsp;Hugh Ferrisa zakładały, że&nbsp;ruch powietrzny (uosabiany w&nbsp;obu przypadkach przez wielopłatowe samoloty) będzie w&nbsp;roku 1930 i&nbsp;1975 niemal równie natężony, co ruch naziemny.</p> <p></p> <h2>Mechanizmy ruchu i&nbsp;zabawy. Laboratorium</h2> <p></p> <p>Nowoczesne miasto naznaczone jest więc ruchem zmechanizowanym. W&nbsp;obu przypadkach – tak w&nbsp;powojennym Las Vegas, jak i&nbsp;w Nowym Jorku już pod&nbsp;koniec XIX wieku – ruch pieszy zostaje niemal całkowicie wyeliminowany, możliwy jedynie we wnętrzach budynków.</p> <p>Poligon doświadczalny dla rozwiązań i&nbsp;mechanizmów eksploatowanych zarówno na&nbsp;Manhattanie (do którego <em>de facto</em> zostaje sprowadzony Nowy Jork), jak i&nbsp;parę dekad później w&nbsp;Las Vegas, stanowi niewielka wyspa Coney Island, nazwana przez Koolhaasa „laboratorium Technologii Fantastyczności” (Koolhaas, s.65).</p> <p>Odcięta od lądu kanałem wykopanym w&nbsp;1750 roku Coney Island to miejsce zbiorowego eskapizmu i&nbsp;wysokiego stężenia adrenaliny. W&nbsp;samym jego centrum, pomiędzy ekskluzywnym kurortem we wschodniej i&nbsp;niebezpieczną strefą zamieszkałą przez wyrzutków społecznych w&nbsp;zachodniej części wyspy, rodzą się nowoczesne parki rozrywki. Ruchome platformy znane współcześnie z&nbsp;imprez techno, automaty do gier czy kręgielnie, właśnie tam weszły na&nbsp;stałe do repertuaru kolektywnej zabawy. To tu, w&nbsp;największej sali balowej świata, wymyślane są najpierw wrotki, a&nbsp;potem specjalne „roboty”, dzięki którym każdy może tańczyć tango. Każdy też może stać się dżokejem pędzącym na&nbsp;mechanicznym koniu zamontowanym na&nbsp;pojedynczej szynie. Tylko tu wydarzają się kontrolowane katastrofy – zderzenia wagonów kolejowych, pożary i&nbsp;powodzie odwołujące się w&nbsp;swej oprawie wizualnej do historycznych kataklizmów. Gips-kartonowa scenografia przybiera najbardziej fantastyczne formy – podobnie jak w&nbsp;Las Vegas, odwołując się do tego, co znane zarówno z&nbsp;historii, jak i&nbsp;baśni; maskuje nowe technologie i&nbsp;mechanizmy, które skutkują w&nbsp;zmianach relacji ludzi między sobą oraz ich ciał w&nbsp;przestrzeni. Najwidoczniej nieprzychylny tym eklektycznym, tandetnym scenografiom Koolhaas opracowuje równanie: „technika+karton=rzeczywistość” (Koolhaas, s.50). Sześć lat wcześniej właśnie to zachwyca grupę architektów i&nbsp;studentów odwiedzających Las Vegas. Na&nbsp;terenie parków rozrywki swoją enklawę znajdują również mniejszości – między innymi rzesze karłów zatrudnionych jako aktorzy w&nbsp;Liliputii. Z&nbsp;kolei w&nbsp;Dreamlandzie jego założyciel, senator Reynolds, zakłada najnowocześniejszy w&nbsp;Stanach inkubator, ratując setki wcześniaków rocznie.</p> <p>Wszechobecne światło elektryczne znosi naturalny i&nbsp;odpowiadający ludzkiej fizjologii podział na&nbsp;dzień i&nbsp;noc. Zarówno parki rozrywki na&nbsp;Coney Island, jak i&nbsp;kasyna w&nbsp;Las Vegas funkcjonują dzięki temu na&nbsp;okrągło. Ponieważ w&nbsp;insomnii łatwo może dopaść głód, na&nbsp;Coney powstają pierwsze budki z&nbsp;fast-foodem. To tu zostaje wynaleziony hot-dog i&nbsp;automaty ze słodyczami. Oświetlane plaże podwajają czas korzystania z&nbsp;kąpieli w&nbsp;oceanie. Na&nbsp;Coney Island panuje wieczny dzień. We wnętrzach kasyn Las Vegas zaś – niekończący się wieczór, półmrok rozjaśniany jedynie punktowymi reflektorami i&nbsp;dekoracyjnymi, świecącymi obiektami, które oświetlają wyłącznie ludzi i&nbsp;meble. Zakamarki rozległych wnętrz rozpuszczają się w&nbsp;mroku, a&nbsp;gość traci poczucie czasu i&nbsp;przestrzeni, pogrąża się w&nbsp;rozrywce.</p> <p>Podobnie jak Las Vegas kilka dekad później, także i&nbsp;Coney Island staje się celem ataków adwokatów ładu i&nbsp;higieny życia za&nbsp;propagowanie „hedonistycznej urbanistyki przyjemności” (Koolhaas, s.79) . Jednak w&nbsp;naturze tego, co Koolhaas nazywa “spontaniczną urbanistyką mas” (s.77), leży niezwykła żywotność, ciągłe odradzanie się z&nbsp;popiołów. Oddolne inicjatywy żerują na&nbsp;narzuconym przez planistów i&nbsp;urzędników ładzie, który to stanowi odpowiednią, kontrastującą wobec nich ramę – najlepszym tego przykładem jest dostrzeżony przez VSBI regularny rytm ulicznych latarni, przeplatający się z&nbsp;aleatoryką szyldów Las Vegas (VSBI, s.54-56)</p> <p></p> <h2>Kultura zagęszczenia i&nbsp;pochwała sztuczności</h2> <p></p> <p>Lektura książki Koolhaasa przypomina szaleńczą jazdę windą w&nbsp;górę i&nbsp;w dół manhattańskiego wieżowca. Linearyzm i&nbsp;ciągłość, charakterystyczne dla wchodzenia po&nbsp;schodach, zostają w&nbsp;niej zaprzepaszczone. Czasami faktycznie nie sposób oprzeć się wrażeniu delirium czy <em>vertigo</em>, gdy uświadamiamy sobie, że&nbsp;budynki i&nbsp;strategie, które opisuje, powstały naprawdę, że&nbsp;nie są jedynie powielanym w&nbsp;mediach renderingiem. Metropolia, uosabiana przez Manhattan, ograniczona powierzchnią wyspy i&nbsp;siatką narzuconą w&nbsp;1811 roku, może rosnąć tylko w&nbsp;górę. To również przypomina nam o&nbsp;holenderskiej tendencji do osiągania maksimum, z&nbsp;poszanowaniem każdego cennego skrawka ziemi wyrwanej morzu. W&nbsp;owych czasach na&nbsp;Manhattanie powstają najwyższe budynki na&nbsp;świecie – powierzchnia parceli, na&nbsp;której rosną, jest mnożona przez liczbę pięter.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1380-1-pb-1920x-844.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1380-1-pb-330x-55d.jpg 330w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1380-1-pb-660x-728.jpg 660w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1380-1-pb-768x-635.jpg 768w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1380-1-pb-1320x-469.jpg 1320w" src="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1380-1-pb-660x-728.jpg" alt="" ></a>    <figcaption><p>Rem Koolhaas, <em>Deliryczny Nowy Jork</em>, przeł. D. Żukowski, Wydawnictwo Karakter, Kraków 2013, s.&nbsp;179.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Koolhaas wymienia czynniki wchodzące w&nbsp;skład Kultury Zagęszczenia – tej istoty manhattanizmu – dotyczące budowy komercyjnych wieżowców. Od 1916 roku kolejnym ograniczeniem nadającym kształt wieżowcom jest prawo strefowe, regulujące dopływ światła do budynków sąsiadujących z&nbsp;drapaczem chmur (w celu zminimalizowania negatywnego wpływu na&nbsp;wartość okolicznych nieruchomości). Wieżowce wyrastające w&nbsp;poszczególnych kwartałach – na&nbsp;2028 „wyspach”, wokół których przepływa ruch mas, przypominają latarnie morskie, gdy na&nbsp;ich iglicach błyskają silne reflektory. (Koolhaas przywołuje też wizje nowojorskich architektów, porównujące Manhattan do innej oazy sztuczności – Wenecji; por. Koolhaas s.135-139, 164-165) . Ich wydłużone elewacje nie markują już kolejnych pięter – tym samym dokonuje się swoista „lobotomia”, separująca zewnętrzną powłokę od funkcji wnętrz na&nbsp;kolejnych kondygnacjach. Te z&nbsp;kolei dzieli tak zwana Pionowa Schizma – każde piętro pełni inną funkcję, żyje zupełnie niezależnie od tego, co istnieje powyżej i&nbsp;poniżej. Metafora wieżowca jako miasta w&nbsp;mieście staje się niemal dosłowna: w&nbsp;budynku Downtown Athletic Club z&nbsp;1911 roku na&nbsp;siódmym piętrze funkcjonuje pole golfowe, a&nbsp;na dwunastym – pływalnia. Pomiędzy nimi, na&nbsp;tym samym poziomie, znajduje się sala do boksu i&nbsp;bar ostrygowy: „Jedzenie ostryg w&nbsp;rękawicach bokserskich, bez ubrania, na&nbsp;entym piętrze – oto »narracja« dziewiątego poziomu budynku, czyli XX wiek w&nbsp;akcji”, pisze Koolhaas (s.175). Przypomina się parodia socjalistycznego budownictwa mieszkaniowego, którą w&nbsp;latach 70. zobrazowali twórcy popularnej czeskiej wieczorynki – Krecika. Na&nbsp;miejscu wykarczowanego lasu powstaje blokowisko. W&nbsp;jednym z&nbsp;mieszkań jest miejsce dla tytułowego bohatera – pozornie prawdziwy las. Krecik próbuje wskoczyć do swojego kopczyka – ten jednak jest z&nbsp;gumy...</p> <p>Oba te obrazy, wyjęte z&nbsp;dwóch przeciwstawnych sobie światów – spełnionych fantazji oraz wiecznej niemożności i&nbsp;braku – świadczą o&nbsp;sztuczności jako naczelnej zasadzie, którą żywi się kultura masowa w&nbsp;swych różnorakich (spontanicznych / oddolnych i&nbsp;wymuszonych / narzuconych) odmianach. Z&nbsp;drugiej jednak strony, Koolhaas zwraca uwagę na&nbsp;istotną kwestię, na&nbsp;której punkcie wyczulona jest również Denise Scott Brown. Chodzi o&nbsp;udział kobiet w&nbsp;tworzeniu miasta – zarówno formalny, tj. rolę kobiet architektek i&nbsp;ich miejsce w&nbsp;gwiazdorskim systemie mężczyzn-architektów (o czym SB pisała zarówno we wstępie do drugiej edycji książki, jak i&nbsp;w eseju <em>Sexism and the Star System in Architecture</em><sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>), jak i&nbsp;kwestię kobiet jako użytkowniczek miast. Koolhaas zdaje się sygnalizować, że&nbsp;największym beneficjentem miejskiego życia jest wolny mężczyzna – mimo że&nbsp;udogodnienia takie jak hotele mieszkalne uwalniają kobiety od obowiązku prowadzenia domu. Jedyna kobieta (Edna Cowan) na&nbsp;balu architektów z&nbsp;1931 roku nie mogła, jak jej koledzy, przebrać się za&nbsp;budynek – za&nbsp;to z&nbsp;umywalką na&nbsp;wysokości bioder stanowiła nie tylko metaforę kanalizacji (wstydliwie ukrywanego, podskórnego krwiobiegu irygującego nowoczesne miasto), lecz także obiekt podatny na&nbsp;skojarzeniowe nadużycia męskiego wzroku. Dopełnieniem tego obrazu są psychoanalityczne wątki, jakie wprowadza do tekstu Holendra jego partnerka (w życiu zawodowym i&nbsp;prywatnym), Madelon Vriesendorp. Surrealizująca ilustracja, reprodukowana w&nbsp;czerni i&nbsp;bieli w&nbsp;polskim wydaniu, pierwotnie stanowiła okładkę pierwszej edycji książki: dwa smukłe wieżowce o&nbsp;fallicznych kształtach (Chrystlera i&nbsp;Empire State) leżą na&nbsp;szerokim łóżku pokoju hotelowego. Dywan pod&nbsp;nimi reprezentuje manhattański <em>grid</em> z&nbsp;Central Parkiem, lampa na&nbsp;stoliku nocnym to pochodnia Statuy Wolności. W&nbsp;tle, za&nbsp;oknem, ludzie-budynki o&nbsp;ślepych spojrzeniach obserwują tę scenę. Do pokoju wkracza trzeci budynek, rzucając silny snop światła na&nbsp;leżącą parę...</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/87ZWWqf40J0?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <h2>Obraz miasta - kolaż czy tabela?</h2> <p></p> <p>Autorzy <em>Uczyć się od Las Vegas</em> uważają, że&nbsp;obraz tego miasta najskuteczniej i&nbsp;najpełniej można skonstruować za&nbsp;pomocą kolażu. W&nbsp;efekcie niektóre ilustracje wyglądają jakby żywcem wyjęte ze współczesnego tumblera – pozornie przypadkowy <em>patchwork</em> nakładających się na&nbsp;siebie obrazów i&nbsp;znaczeń, opatrzony ewokatywnymi hasłami, określającymi architektoniczne <em>topoi</em> (Miami Beach, Marienbad, centrum handlowe, Bath, Alhambra, Disneyland, ogród perski, wystawa światowa etc). Obok kotłują się zdjęcia, pocztówki, ulotki reklamowe, ryciny i&nbsp;reprodukcje reprezentujące ikonograficzne pierwowzory, liternictwo szyldów, fragmenty styropianowych rzeźb. Aurę zapośredniczenia architektury w&nbsp;jej wizerunku potęguje ziarnisty raster, jakby fotografie nie pochodziły ze zbiorów własnych, lecz raczej były powycinane z&nbsp;gazet. Raster ten ujednolica również „kaliber” symbolu, zrównuje wagę „oryginałów” (Alhambra, Forum Romanum etc.) i&nbsp;„kopii”, sacrum i&nbsp;profanum, wzniosłego i&nbsp;banalnego. To czysta afirmacja różnorodności, wieloznaczności i&nbsp;wielogłosu, metafora komercyjnego wernakularyzmu uosabianego przez tak zwaną dekorowaną budę. Autorstwo architektury rozmywa się w&nbsp;aluzjach, imitacjach i&nbsp;cytatach – ma być znajomo, a&nbsp;jednocześnie intrygująco.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1384-1-pb-1920x-ac0.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1384-1-pb-330x-58d.jpg 330w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1384-1-pb-660x-027.jpg 660w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1384-1-pb-768x-94c.jpg 768w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1384-1-pb-1320x-df6.jpg 1320w" src="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1384-1-pb-660x-027.jpg" alt="" ></a>    <figcaption><p>Roberto Venturi, Denise Scott Brown, Steven Izenour, <em>Ucząc się od Las Vegas</em>, przeł. A. Porębska, Wydawnictwo Karakter, Kraków 2013, s.&nbsp;62-63.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Metoda wolnych skojarzeń służy próbie nazwania tego, co nowe i&nbsp;jeszcze nienazywalne. Nowe formy architektury komercyjnej spowodowały konieczność wymyślenia absurdalnie brzmiących kategorii stylistycznych: „bumerangowy modernizm” i&nbsp;„hamburgerowy parabolizm McDonalda” (VSBI, s.84), „miamski marokański, celebrycki styl międzynarodowy, kryptoorganiczny orgazmiczny hollywoodzki w&nbsp;stylu Art Moderne, rzymski orgastyczny cum Bernini Yamasakiego, mauretański styl Tudorów (z kreskówki)” czy „Bauhaus hawajski” (VSBI, s.63). Wydaje się, że&nbsp;nieprzypadkowo te żartobliwe określenia przypominają nazwy handlowe wymyślane przez naćpanych copywriterów na&nbsp;określenie na&nbsp;przykład kolorów farb. VSBI uważają, że&nbsp;„tożsamość budynku tworzona jest nie tylko przez to, czym budynek jest, lecz także przez to, co przypomina” (VSBI, s.126). Paradoksalnie jednak architekci-teoretycy wielbią porządek. Ich skrupulatność w&nbsp;inwentaryzowaniu elementów architektury Strip objawia się w&nbsp;tabelach, zestawieniach i&nbsp;schematach porównawczych. Budynki umieszczone są na&nbsp;osi x, a&nbsp;ich odpowiadające sobie fragmenty – na&nbsp;osi y, razem tworzą eklektyczny, niedający się łatwo zdefiniować obraz.</p> <p>Wydaje się, że&nbsp;jednym ze słów-wytrychów ułatwiających zrozumienie intencji autorów jest konwencja. Tak zwane neostyle zostały w&nbsp;USA zestandaryzowane już w&nbsp;XVIII wieku – bez problemu i&nbsp;z dużej odległości potrafimy rozpoznać w&nbsp;neoklasycznej, świątynnej bryle bank, kościół prawie zawsze będzie przybierał kostium neogotycki, a&nbsp;śródmiejski dom handlowy zazwyczaj, o&nbsp;ile w&nbsp;ogóle, będzie nosił szatę neorenesansowego <em>palazzo</em>.</p> <p>Analogicznie można byłoby się pokusić o&nbsp;zarysowanie krajobrazu polskiego wernakularyzmu, w&nbsp;którym dominowałyby podmiejskie dworki, kamienice czynszowe ze studniowymi podwórkami, neogotyckie i&nbsp;funkcjonalistyczne budynki fabryk, blaszane hangary w&nbsp;szczerym polu. I&nbsp;szyldy, które przypominają te stawiane przed okresem świetności w&nbsp;Las Vegas – zwykłe prostokąty przy głównych drogach, krzyczące jedynie treścią, nie formą.</p> <p></p> <h2>Antybohater. Przeciwko wielkim narracjom</h2> <p></p> <p>Studium symboliki i&nbsp;eklektyzmu Las Vegas jest jednak tylko pretekstem dla obszerniejszej, drugiej części książki, poświęconej dowiedzeniu wyższości „zwyczajnej i&nbsp;brzydkiej” architektury nad architekturą modernizmu – wzniosłą, elitar(ystycz)ną, wysmakowaną, narzucającą wizję i&nbsp;system wartości architekta swojemu zleceniodawcy. Są to przede wszystkim obszerne relacje zdające sprawę z&nbsp;intencji, jakie przyświecały zespołowi VSB w&nbsp;tworzeniu budynków mieszkalnych i&nbsp;użyteczności publicznej, między innymi domu starców czy siedziby straży pożarnej, skontrastowane z&nbsp;przykładami budynków o&nbsp;tej samej funkcji, ale zupełnie odmiennymi w&nbsp;wykonaniu; porównania oparte na&nbsp;binarnych, antytetycznych, uproszczonych pojęciach, które z&nbsp;naszej perspektywy mogą przypominać medialną debatę zapoczątkowaną przez burmistrza Śródmieścia Warszawy o&nbsp;wyglądzie i&nbsp;adresatach centrum miasta – konfrontację „przaśnych” i&nbsp;przestarzałych barów mlecznych z&nbsp;wizją „nowoczesnej” metropolii. Autorzy <em>Uczyć się...</em> pławią się w&nbsp;obnażaniu pęknięć w&nbsp;deklaratywnych i&nbsp;faktycznych wizjach modernistycznej architektury i&nbsp;urbanistyki. Modernistyczne „kaczki” to budowle, które wbrew postulatowi Adolfa Loosa całe stały się ornamentem i&nbsp;symbolem – niestety autotelicznym i&nbsp;tautologicznym, architekturą o&nbsp;architekturze. Czymże innym niż zbiorem znaczących dekoracji jest bowiem katalog form i&nbsp;detali przemysłowych, którego elementy architekci z&nbsp;lubością aplikowali nie do tego, do czego historycznie i&nbsp;konstrukcyjnie czy funkcjonalnie przynależały, jak pseudo-industrialne nity na&nbsp;domu przy Michaelerplatz Loosa?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1382-1-pb-1920x-6bc.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1382-1-pb-330x-d95.jpg 330w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1382-1-pb-660x-b26.jpg 660w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1382-1-pb-768x-041.jpg 768w,assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1382-1-pb-1320x-b26.jpg 1320w" src="assets/cache/images/issues/2013/04/nauka-czy-delirium/147-1382-1-pb-660x-b26.jpg" alt="" ></a>    <figcaption><p>Roberto Venturi, Denise Scott Brown, Steven Izenour, <em>Ucząc się od Las Vegas</em>, przeł. A. Porębska, Wydawnictwo Karakter, Kraków 2013, s.&nbsp;98-99.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Modernistyczny antybohater pojawia się również w&nbsp;<em>Delirycznym Nowym Jorku</em> – jest nim nie kto inny, jak sam Le Corbusier, którego Nowy Jork całkowicie rozczarowuje. Skupiony na&nbsp;projektowaniu „lepszego świata jutra”, najwidoczniej nie dostrzegł, że&nbsp;europejskie „jutro” oznacza amerykańskie “dzisiaj”.</p> <p></p> <h2>Architekt - autorytarny wizjoner czy empatyczny usługodawca?</h2> <p></p> <p>„Tylko ci najbiedniejsi, skazani na&nbsp;publiczne budownictwo mieszkaniowe, muszą zaakceptować wartości narzucone przez architekta. Deweloperzy budują raczej na&nbsp;potrzeby rynku, niż na&nbsp;potrzeby Człowieka i&nbsp;czynią przy tym prawdopodobnie mniejszą szkodę, niż wyrządziliby autorytarni architekci, gdyby tylko mieli taką władzę” – piszą VSBI (s.206). W&nbsp;podobnym tonie, i&nbsp;mniej więcej w&nbsp;tym samym czasie, pisze Victor Papanek: „Istnieją co prawda dziedziny działalności bardziej szkodliwe niż wzornictwo przemysłowe, ale jest ich bardzo niewiele. Większym zakłamaniem odznacza się tylko jedna. Najbardziej blagierską profesją jest projektowanie reklam, czyli namawianie ludzi do zakupu niepotrzebnych rzeczy za&nbsp;pieniądze, których nie mają, żeby mogli zaimponować innym ludziom, których to niewiele obchodzi”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>.</p> <p>Architekci modernizmu, krytykowani za&nbsp;arbitralność i&nbsp;„heroizm”, oskarżani byli przez VSBI o&nbsp;próby „podnoszenia systemu wartości i/lub budżetu klienta poprzez odniesienia do Sztuki i&nbsp;Metafizyki” (VSBI, s.131). Tymczasem autorzy <em>Uczyć się...</em> deklarowali: „...nie chcieliśmy projektować budynku dwa razy: raz, żeby dopasować go do jakiejś heroicznej wizji jego znaczenia dla społeczeństwa i&nbsp;świata sztuki, a&nbsp;potem, kiedy już przyjdą wyceny, drugi raz, żeby sprostać ściśle określonej wizji wartości naszej architektury, jaką mają klient i&nbsp;społeczeństwo.” (VSBI, s.&nbsp;165). I&nbsp;dalej: „My, architekci liczący, że&nbsp;narodowe zasoby zostaną przekazane na&nbsp;cele społeczne, musimy zadbać o&nbsp;to, by nacisk kładziony był raczej na&nbsp;cele i&nbsp;ich wsparcie, niż na&nbsp;osłaniającą je architekturę. (...) Im mniej jest do wydania na&nbsp;architekturę, tym większej potrzeba wyobraźni” (s.208). Trudno o&nbsp;bardziej przemawiającą do wyobraźni potencjalnych klientów argumentację – w&nbsp;Polsce również wielu badaczy podkreśla zbieżność czy wręcz tożsamość postmodernizmu i&nbsp;postkomunistycznego kapitalizmu lat. 90.</p> <p>Wydaje się, że&nbsp;stoimy teraz w&nbsp;podobnej sytuacji, co świat Zachodu po&nbsp;II wojnie światowej, kiedy po&nbsp;ponad dwóch dekadach rozwoju gospodarczego, opartego z&nbsp;jednej strony na&nbsp;wzniosłych ideałach, a&nbsp;z drugiej na&nbsp;konsumpcjonizmie, dostał on zadyszki. Kolejny kryzys to dobry moment na&nbsp;refleksję. Obserwując nowości wydawnicze dwóch najprężniejszych oficyn oferujących popularyzatorskie publikacje z&nbsp;zakresu architektury, urbanistyki i&nbsp;projektowania – Wydawnictwa Karakter i&nbsp;Centrum Architektury, zastanawiam się, na&nbsp;ile pozycje przez nich proponowane odzwierciedlają ich własne postawy wobec otaczającej nas rzeczywistości. Czy redaktorzy Karakteru faktycznie upatrują odpowiedzi na&nbsp;nasze współczesne bolączki w&nbsp;literaturze poddającej refleksji to, co brzydkie, nijakie, złe? Czy ich fascynacja wernakularyzmem przekłada się choćby i&nbsp;na dizajn książek? Z&nbsp;kolei czy wydając nietłumaczone dotychczas eseje Adolfa Loosa, czy legendarne książki Le Corbusiera, Centrum Architektury kieruje się nostalgią za&nbsp;modernistycznym ładem, czy jedynie wypełnia przeciwny biegun rynku? Jakkolwiek by było, tworzone przez nich obrazy, choć wzajemnie się uzupełniają, na&nbsp;pewno nie wyczerpują interesującego nas tematu.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Denise Scott Brown, <em>Room at the Top? Sexism and the Star System in Architecture</em>, w: <em>Architecture: A Place for Women</em>, red. E. Perry Berkeley, Smithsonian Institution Press, Washington-London 1989, <a href="http://isites.harvard.edu/fs/docs/icb.topic753413.files/14_Outsiders in the Profession/Brown_Sexism.pdf" target="_blank" rel="noopener">http://isites.harvard.edu/fs/docs/icb.topic753413.files/14_Outsiders in the Profession/Brown_Sexism.pdf</a>, dostęp 22 stycznia 2014.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Victor Papanek, <em>Dizajn dla realnego świata</em>, przeł. J. Holzman, Recto Verso, Łódź 2012, s. 9.</p>
+<p></p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/ruinacja/nauka-czy-delirium-dwa-oblicza-architektury-komercyjnej" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

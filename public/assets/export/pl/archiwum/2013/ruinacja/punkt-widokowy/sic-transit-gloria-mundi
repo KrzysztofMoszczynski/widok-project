@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Sic transit gloria mundi | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/ruinacja/sic-transit-gloria-mundi">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Sic transit gloria mundi | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Sic transit gloria mundi | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/ruinacja/sic-transit-gloria-mundi">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Sic transit gloria mundi | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ffb300 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ffb300 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ffb300 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ffb300 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ffb300 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ffb300 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+			/* background-color:#ffb300 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,179,0,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ffb300 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ffb300; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ffb300 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ffb300 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ffb300 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1205 parent-id-1187">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="422" data-selected-issue-color="#ffb300" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/4-ruin/sic-transit-gloria-mundi">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/4-ruin/sic-transit-gloria-mundi">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/ruinacja#toc">4</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/ruinacja/sic-transit-gloria-mundi?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Sic transit gloria mundi</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/ruinacja/sic-transit-gloria-mundi?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=1204">Alicja Gzowska</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p></p> <h2>1.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1530-1-pb-1920x-4a3.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1530-1-pb-330x-c59.jpg 330w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1530-1-pb-660x-ac8.jpg 660w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1530-1-pb-768x-a20.jpg 768w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1530-1-pb-1320x-eab.jpg 1320w" src="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1530-1-pb-660x-ac8.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Fotografie Michała Szlagi w&nbsp;albumie <em>Stocznia</em><sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> dokumentują proces znikania Stoczni Gdańskiej w&nbsp;latach 2007–2013. Budynki, hale i&nbsp;elementy infrastruktury – jeszcze istniejące bądź już wyburzone – uchwycone są w&nbsp;stanie ruiny, w&nbsp;architektonicznym momencie przejścia. Opustoszałe obiekty z&nbsp;powybijanymi szybami obracane przy użyciu wymyślnych narzędzi w&nbsp;sterty gruzu wraz z&nbsp;karczowanymi drzewami stają się przestrzenną reprezentacją straty, fizyczną formą tragedii. Uporczywa dokumentacja nie jest ani formą upamiętnienia Stoczni, ani pożegnania się z&nbsp;nią. Ten zapis upadku i&nbsp;rujnacji, zdaniem Adama Mazura, pozwala odnaleźć wzniosłość i&nbsp;epicki wymiar rozgrywającej się tu historii<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. To stwierdzenie, a&nbsp;szczególnie odwołanie do pojęcia wzniosłości włącza cykl Szlagi w&nbsp;transhistoryczną ikonografię rozpadu i&nbsp;katastrofy kształtowaną od czasu odkrycia ruin starożytnej Pompei<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>.</p> <h2>2.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1512-1-pb-1920x-02b.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1512-1-pb-330x-f23.jpg 330w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1512-1-pb-660x-bdd.jpg 660w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1512-1-pb-768x-bd6.jpg 768w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1512-1-pb-1320x-808.jpg 1320w" src="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1512-1-pb-660x-bdd.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Ruina wymyka się definicjom. Trudno określić, w&nbsp;którym momencie budynek się nią staje. Być może jest to proces, a&nbsp;nie stan? Nie posiada także ustalonego znaczenia. Trudno z&nbsp;pewnością orzec, czy widok zdewastowanego krajobrazu wywołuje nostalgię za&nbsp;minionym czasem, czy też przypomina o&nbsp;wstydzie z&nbsp;powodu porażki; czy podsyca nadzieję na&nbsp;lepszą przyszłość, czy raczej przypomina o&nbsp;klęsce utopijnej wizji. Łatwość przypisywania ruinie sprzecznych treści sprawia, że&nbsp;to widz ją definiuje. Nie mogłaby zatem istnieć bez takiego twórczego zawłaszczenia<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. W&nbsp;efekcie „ruina często staje się polem spekulatywnych strategii, które mówią nam więcej o&nbsp;widzu niż o&nbsp;niej samej lub jej oryginalnym środowisku”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Spektakularne są przykłady politycznej retoryki kreującej pozostałości minionych epok w&nbsp;zależności od potrzeb – na&nbsp;symbol zerwania z&nbsp;przeszłością bądź paradoksalnie jej ciągłości. Rzymskie ruiny legitymizowały zarówno republikańskie dążenia Rewolucji Francuskiej, jak i&nbsp;imperialne ambicje Mussoliniego. Choć współcześnie nie wyrażają już fantazji o&nbsp;władzy i&nbsp;dominacji, to zachowują swój sugestywny, niestabilny potencjał, wynikający z&nbsp;możliwości godzenia uniwersalności ich symboliki z&nbsp;lokalnymi doświadczeniami historycznymi. Ruina staje się ekranem, na&nbsp;który widz projektuje własne fantazmaty i&nbsp;lęki, ponieważ jej potencjalna pustka znaczeniowa wywołuje szereg kompensacyjnych aktywności dyskursywnych<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. W&nbsp;tym sensie nie ma czegoś takiego jak ruina.</p> <h2>3.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1516-1-pb-1920x-79d.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1516-1-pb-330x-30a.jpg 330w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1516-1-pb-660x-6f5.jpg 660w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1516-1-pb-768x-403.jpg 768w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1516-1-pb-1320x-231.jpg 1320w" src="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1516-1-pb-660x-6f5.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>W kulturze kapitalistycznej nie ma miejsca dla ruiny. Towary (w tym budynki) nie starzeją się ładnie, więc są niszczone bądź poddawane renowacji. Nawet symbole zastępowane są towarami, a&nbsp;nostalgia tylko przyśpiesza ich przemianę w&nbsp;kicz. Zrujnowane obiekty na&nbsp;terenie stoczni są tylko przeszkodą dla nowych inwestycji. Jeżeli jednak te tereny zostaną zgodnie z&nbsp;zamiarami inwestorów niemal doszczętnie oczyszczone i&nbsp;zabudowane w&nbsp;nowy sposób, o&nbsp;ich wyjątkowych dziejach zaświadczą między innymi „symulakry Warsztatu Elektryka (Lech Wałęsa) i&nbsp;Kabiny Suwnicowej (Anna Walentynowicz) zapowiedziane w&nbsp;projektach scenograficznych aranżacji przyszłych ekspozycji w&nbsp;Europejskim Centrum Solidarności”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. Zmiana ustroju w&nbsp;Polsce nie miała charakteru rewolucji pożerającej swoje dzieci – tym razem raczej dzieci zwróciły się przeciwko niej. W&nbsp;wyniku transformacyjnych przemian zawłaszczono nie tylko obszary, na&nbsp;których fizycznie rozgrywały się kluczowe wydarzenia, ale także związany z&nbsp;nimi dyskurs, zinstytucjonalizowano go i&nbsp;sprowadzono do uproszczonego, jednowymiarowego scenariusza wystawy. Fotografowane przez Szlagę ruiny mają silnie oddziałującą aurę autentyczności. Co więcej, ponieważ ich znaczenie nie może być kontrolowane, stawiają one opór utowarowieniu historii.</p> <h2>4.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1518-1-pb-1920x-50b.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1518-1-pb-330x-f12.jpg 330w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1518-1-pb-660x-6ca.jpg 660w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1518-1-pb-768x-3d5.jpg 768w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1518-1-pb-1320x-b3c.jpg 1320w" src="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1518-1-pb-660x-6ca.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Ruiny poprzemysłowe odnoszą się do określonych doświadczeń historycznych, dotyczących nie tylko rozwoju techniki i&nbsp;produkcji, ale także zanieczyszczenia środowiska czy bezrobocia. Adam Mazur trafnie zauważa, że&nbsp;w&nbsp;wypadku zdjęć Szlagi nieodwracalna ruina budynku jest metaforą masowego ruchu robotniczego oraz zmian w&nbsp;przemyśle<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Historia robotników to opowieść o&nbsp;tożsamości opartej początkowo na&nbsp;pustce i&nbsp;stracie – porzuceniu dotychczasowego życia (np. rolnika) na&nbsp;rzecz podporządkowania go wymogom pracy w&nbsp;fabryce. Zatracenie indywidualności rekompensowane było przynależnością do nowo kształtowanej, zbiorowej tożsamości klasy robotniczej. Zarówno tam, gdzie wprowadzano fordyzm w&nbsp;klasycznej formie, jak i&nbsp;w krajach socjalistycznych, przedstawiano ten proces jako rodzaj awansu społecznego, wiążącego się z&nbsp;poprawą warunków bytowych i&nbsp;zwiększonymi możliwościami konsumpcji. W&nbsp;oficjalnej propagandzie PRL silnie dowartościowywano pracę robotników (szczególnie zatrudnionych w&nbsp;przemyśle ciężkim), określając ich jako budowniczych kraju, jego żywotną siłę i&nbsp;dumę, oraz oferując im liczne „przywileje”. Zawsze jednak to zakład przemysłowy i&nbsp;związana z&nbsp;nim kultura znajdowały się w&nbsp;centrum, a&nbsp;nie jednostka. Paradoksalnie dzięki temu historyczna doniosłość wydarzeń rozgrywających się w&nbsp;stoczni stała się udziałem zbiorowości.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1514-1-pb-1920x-5ed.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1514-1-pb-330x-ddc.jpg 330w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1514-1-pb-660x-993.jpg 660w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1514-1-pb-768x-81a.jpg 768w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1514-1-pb-1320x-9eb.jpg 1320w" src="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1514-1-pb-660x-993.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Koniec tej epoki nie nadszedł jednak dla jej pracowników wraz z&nbsp;upadkiem komunizmu, ale blisko dekadę później, w&nbsp;czasie systematycznego redukowania zatrudnienia i&nbsp;zmniejszania produkcji. Procesy globalizacji wymusiły nowy światowy podział pracy i&nbsp;choć gdańska stocznia dzięki swojej renomie wydawała się graczem dostatecznie mocnym, aby z&nbsp;sukcesem funkcjonować na&nbsp;wolnym rynku, koreański przemysł okazał się zbyt silną konkurencją dla większości europejskich przedsiębiorstw stoczniowych. Upadek stoczni stał się dla pracowników znakiem świata odchodzącego w&nbsp;przeszłość, a&nbsp;degradacja etosu pracy i&nbsp;zmiana jej form przyniosły kolejną pustkę i&nbsp;stratę. Stocznia, zajmująca nie tak dawno istotne miejsce w&nbsp;nurcie historii, kompletnie z&nbsp;niego wypadła, stała się niepotrzebna. Jej opustoszałe, popadające w&nbsp;ruinę tereny stały się scenografią opuszczoną po&nbsp;zakończeniu spektaklu. I&nbsp;choć znaczenie ruin waha się w&nbsp;zależności od kontekstu, to melancholia przenikająca ten szczególny krajobraz przesłania perspektywy nowego początku<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>.</p> <h2>5.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1520-1-pb-1920x-479.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1520-1-pb-330x-4ac.jpg 330w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1520-1-pb-660x-99d.jpg 660w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1520-1-pb-768x-bf4.jpg 768w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1520-1-pb-1320x-91c.jpg 1320w" src="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1520-1-pb-660x-99d.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Cyprien Gaillard określa wyburzanie obiektu jako niezwykły, kosztowny manifest potęgi, rytuał władzy<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. W&nbsp;momencie upadku struktury następuje emanacja siły, która legitymizuje cały proces, wybuch euforii na&nbsp;widok nowej przestrzeni i&nbsp;nowych możliwości. Gdy z&nbsp;rumowiska odzyskane zostaną surowce wtórne, gruz jest mielony i&nbsp;sprzedawany firmom budowlanym. Proces ten nie ma już nic wspólnego z&nbsp;użyciem na&nbsp;nowo <em>spoliów</em>. Budynek w&nbsp;stanie przejścia nie jest też już ruiną przywołującą wspomnienia, lecz stertą niemego gruzu wyrażającego co najwyżej pragnienie wymazania przeszłości, całkowitego odcięcia się od niej<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>.</p> <p>Patrząc na&nbsp;zdjęcia wyburzanych obiektów stoczni, warto przypomnieć losy Muru Berlińskiego. Jak zauważył Rem Koolhaas, po&nbsp;symbolicznym upadku Muru systematycznie zatarto większość śladów po&nbsp;tej niemałej przecież strukturze, wymazując jednocześnie istotną część pamięci. Nie zrobili tego deweloperzy ani przedsiębiorstwa komercyjne, lecz dokonało się to w&nbsp;imię czystej ideologii. Znikanie architektury przemysłowej dokumentowanej przez Hillę i&nbsp;Bernda Becherów Koolhaas określił mianem „przypadku”, natomiast Mur jego zdaniem został usunięty celowo i&nbsp;w imię historii<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Co prawda, jego fragmenty funkcjonowały niczym współczesne relikwie, ale sam obiekt w&nbsp;przestrzeni przestał istnieć.</p> <h2>6.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1522-1-pb-1920x-29b.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1522-1-pb-330x-6b0.jpg 330w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1522-1-pb-660x-c00.jpg 660w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1522-1-pb-768x-0fc.jpg 768w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1522-1-pb-1320x-0fd.jpg 1320w" src="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1522-1-pb-660x-c00.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>W artykule <em>The Generic City</em> Koolhaas prowokacyjnie wzywa, aby porzucić to, co nie działa: rozwalić asfalt idealizmu realizmem młota pneumatycznego i&nbsp;zaakceptować to, co powstanie<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Opisuje miasto cyklicznie doznające amnezji – przedstawiając wizję opartą na&nbsp;retoryce postępu, domaga się usuwania starych struktur, aby zastąpić je nowymi. Ta retoryka, wywodząca się z&nbsp;dialektyki oświecenia w&nbsp;ujęciu Adorno i&nbsp;Horkheimera, obejmuje zarówno nowoczesne pragnienie <em>tabula rasa, </em>jak i&nbsp;systemy polityczno-ekonomiczne<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Pod&nbsp;pretekstem modernizacji czy innowacji w&nbsp;brutalny sposób niszczone są dotychczasowe „stare” porządki.</p> <p>Przekształcenia własnościowe Stoczni Gdańskiej także wymagały poniesienia ofiar. Paradoksalnie najbrutalniejszą i&nbsp;najbardziej destrukcyjną siłą sprawczą w&nbsp;imię postępu są państwa lub struktury demokratyczne. Ruiny nie powstają już w&nbsp;wyniku opisywanej przez Georga Simmela przegranej walki ducha z&nbsp;naturą<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>, ale są wynikiem terroru. Póki jeszcze istnieją, pełnią krytyczną funkcję, pytając: „Kto zrujnował przeszłość?”. W&nbsp;tym kontekście odpowiedź Michała Szlagi – „Sami się ukaraliśmy”<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup> – wydaje się zbyt dużym uproszczeniem. Ruiny odzwierciedlają terror, ale możemy się do niego przyłączyć lub stawić mu opór. Nie tylko w&nbsp;formie nostalgii, ale też analizy alternatywnych scenariuszy.</p> <h2>7.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1528-1-pb-1920x-c8c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1528-1-pb-330x-b38.jpg 330w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1528-1-pb-660x-a62.jpg 660w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1528-1-pb-768x-c65.jpg 768w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1528-1-pb-1320x-ade.jpg 1320w" src="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1528-1-pb-660x-a62.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Drzewa wycinane po&nbsp;to, by – zgodnie z&nbsp;nowym układem ulic – nieopodal posadzić nowe, powoli przestają być symbolem przyszłości terenów postoczniowych. Nad pustoszejącym obszarem dominuje bryła Europejskiego Centrum Solidarności – jednostki o&nbsp;funkcjach edukacyjnych, naukowych i&nbsp;przede wszystkim kommemoratywnych. Zwalista, rozczłonkowana betonowa bryła, pokrywana panelami z&nbsp;rdzawej blachy, zdaje się być jednocześnie w&nbsp;zaawansowanej fazie budowy i&nbsp;rozpadu. Staje się ona ironicznym komentarzem do myśli Adorna, że&nbsp;najbardziej autentyczne dzieła modernizmu to te, które obiektywnie i&nbsp;formalnie determinowane są przez rujnacyjny stan obecny<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. Zdaniem niemieckiego filozofa antyklasyczny brak kompletności i&nbsp;niedomknięta formuła służą wskazaniu tego, co nieobecne w&nbsp;samym dziele. Miarą jego sukcesu i&nbsp;warunkiem autentyczności jest odzwierciedlenie braków i&nbsp;nieciągłości skrywanych przez modernizacyjne, całościowe dyskursy. Choć zamierzeniem architektów było upodobnienie budynku upamiętniającego ruch Solidarności do statku w&nbsp;stoczniowym doku, przyjmuje on estetykę zbliżoną do ruiny. Autentyczne ruiny są usuwane, a&nbsp;pomiędzy nimi powstaje kolejna, nowa. Nowoczesność podważa się i&nbsp;zapętla we własną mitologię i&nbsp;autodestrukcję<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>.</p> <h2>8.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1526-1-pb-1920x-51e.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1526-1-pb-330x-f01.jpg 330w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1526-1-pb-660x-508.jpg 660w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1526-1-pb-768x-48e.jpg 768w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1526-1-pb-1320x-468.jpg 1320w" src="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1526-1-pb-660x-508.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>W. G. Sebald także używa ruiny jako metafory traumatycznej nowoczesności. Pomiędzy <em>Pierścieniami Saturna</em><sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup> a&nbsp;cyklem Michała Szlagi dostrzec można szereg podobieństw. Obaj autorzy traktują stan degradacji jako punkt wyjścia, skutecznie wykorzystują napięcie pomiędzy obecnością a&nbsp;jej brakiem, fragmentem a&nbsp;całością, tym, co widzialne, i&nbsp;tym, co niedostrzegalne. Konserwatorski, beznamiętnie precyzyjny język opisu towarzyszącego fotografiom stoczni, podobnie jak wstrzemięźliwe, choć szczegółowe opisy literackie podważają wielkie narracje, otwierają drogę dalszym opisom i&nbsp;historiom<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>. Odtwarzając związki ruin z&nbsp;historycznymi przestrzeniami imperialnego wyzysku, Sebald ujawnia brutalną stronę Heglowskiej wizji niepowstrzymanego postępu. Zainteresowanie degradacją i&nbsp;rozpadem domów, obiektów przemysłowych czy całych miejscowości wstrzymuje mechanizmy zapominania, zmusza do refleksji nad ofiarami postępu. Jego akumulująca detal i&nbsp;dygresje, niesystematyczna narracja, prowadzona zgodnie z&nbsp;mechanizmami działania pamięci, nie prowadzi do tryumfalnego finału. Także zdjęcia Szlagi, odzwierciedlające pozornie systematyczną dokumentację, są zbiorem subiektywnych spojrzeń z&nbsp;trudem poddających się nawet porządkowaniu chronologicznemu. Sebald i&nbsp;Szlaga przez pryzmat ruin dokonują reewaluacji literackiej i&nbsp;historycznej wielkiej narracji projektu nowoczesności<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. Zanegowany zostaje także zakorzeniony w&nbsp;niej mit bezpiecznego zewnętrznego obserwatora. Obserwowanie, raportowanie katastrofy także podlega ocenie moralnej.</p> <h2>9.</h2> <p>Ruiny stają się centralną figurą dla teorii nowoczesności, która chce być czymś więcej niż tryumfem postępu i&nbsp;demokratyzacji. Rozbudzają świadomość ciemnej strony postępu i&nbsp;są znakiem ostrzegawczym, przywodzącym na&nbsp;pamięć skutki zapominania o&nbsp;przeszłości. Tworzą opresyjną przestrzeń, zamkniętą pomiędzy przeszłością a&nbsp;teraźniejszością, naturą i&nbsp;kulturą, życiem i&nbsp;śmiercią. Oprócz zaangażowania w&nbsp;krytykę organizacji przestrzennej nowoczesnego świata, ruiny uświadamiają nam kaprysy postępowych wizji.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1532-1-pb-1920x-f21.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1532-1-pb-330x-989.jpg 330w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1532-1-pb-660x-043.jpg 660w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1532-1-pb-768x-c40.jpg 768w,assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1532-1-pb-1320x-a8a.jpg 1320w" src="assets/cache/images/issues/2013/04/sic-transit-gloria-mundi/138-1532-1-pb-660x-043.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Svetlana Boym podkreśla, że&nbsp;umożliwiają nie tylko utopijne aspiracje przeszłości, ale też alternatywne perspektywy – różnego rodzaju boczne drogi, dziwactwa, którym udało się przetrwać. Skłaniają do namysłu nad możliwymi przeszłościami oraz projektami przyszłości, które nigdy nie zaistniały<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>. To na&nbsp;nich skupiona jest ruinofilia, czyli rodzaj nowoczesnej nostalgii, wykraczającej poza postmodernistyczne ramy myślowe. Owa nostalgia nie powinna być rozumiana jako tęskne spojrzenie wstecz, ale rodzaj krytycznej postawy związanej z&nbsp;analizą funkcjonowania (i obumierania) dyskursów zlokalizowanych na&nbsp;marginesach <em>mainstreamu</em> nowoczesności<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>. Ruinofilia nie ma osobistego charakteru, nie jest narcystyczna, tęskni za&nbsp;doświadczeniem nieodwracalności czasu. Przedmiot jej zainteresowania, określany przez Boym jako <em>off-modern</em> eksploruje alternatywne historie, ślepe zaułki, odzwierciedlając jednocześnie proces starzenia się samego technologicznego postępu. W&nbsp;ten sposób ruiny tworzą swój własny teatr alternatywnych rzeczywistości.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Michał Szlaga<em>, Stocznia. Szlaga</em>, Fundacja Karrenwall, Gdańsk 2013.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Adam Mazur, <em>Requiem dla Stoczni. Fotografie Michała Szlagi</em>, w: <em>Stocznia. Szlaga</em>..., s. 266.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Julia Hell, Andreas Schönle, <em>Introduction</em>, w: <em>Ruins of Modernity</em>, red. J. Hell, A. Schönle, Duke University Press, Durham 2010.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Ibidem<em>,</em> s. 7.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Ibidem<em>.</em></p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Ibidem, s. 6.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Waldemar J. Affelt, <em>„Jeżeli tu nie ostanie się nic...”</em>, w: <em>Stocznia: Szlaga</em>..., s. 239.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Adam Mazur, <em>Requiem dla Stoczni</em>..., s. 268.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Por. Kerstin Brandt, <em>„Memory Traces of an Abandoned Set of Futures”: Industrial Ruins in the Postindustrial Landscapes of Germany</em>, w: <em>Ruins of Modernity</em>…</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Francesca Picchi, <em>Modern ruins</em>, „Domus”, data publikacji 17 czerwca 2009, <a href="http://www.domusweb.it/en/architecture/2009/06/17/modern-ruins.html" target="_blank" rel="noopener">http://www.domusweb.it/en/architecture/2009/06/17/modern-ruins.html</a>, dostęp 12 lutego 2014.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>Giulia Menzietti, <em>Contemporary Ruins. Remains of 60’s and 80’s Italian Architecture</em>, <a href="http://villard.edublogs.org/files/2009/11/CONTEMPORARY-RUINS.pdf" target="_blank" rel="noopener">http://villard.edublogs.org/files/2009/11/CONTEMPORARY-RUINS.pdf</a>, dostęp 12 lutego 2014.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Hans Urlich Obrist, <em>Interview with Rem Koolhaas: Cultivating Urban Emptiness</em>, „Artorbit” 1999, nr 4 (February),<a href="http://artnode.se/artorbit/issue4/i_koolhaas/i_koolhaas.html" target="_blank" rel="noopener">http://artnode.se/artorbit/issue4/i_koolhaas/i_koolhaas.html</a>, dostęp 12 lutego 2014.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a><em>Rem Koolhaas,</em> Bruce Mau, <em>S, M, L, XL</em>, 010 Publishers–The Monacelli Press, Rotterdam–New York 1995, s. 1263.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Por. Theodor W. Adorno, Max Horkheimer, <em>Dialektyka Oświecenia. Fragmenty filozoficzne</em>, przeł. M. Łukasiewicz, Wyd. Krytyki Politycznej, Warszawa 2010.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>Georg Simmel, <em>Ruina. Próba estetyczna</em>, w: idem, <em>Most i drzwi. Wybór esejów</em>, przeł. M. Łukasiewicz, Oficyna Naukowa, Warszawa 2006.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>Michał Szlaga, <em>W roku 1999 trafiłem na niedostępny...</em>, w: idem, <em>Stocznia. Szlaga...,</em> s. 11.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>Theodor W. Adorno, <em>Beethoven. The Philosophy of Music</em>, Polity Press, Stanford 1998, s. 220. Por. Andreas Huyssen, <em>Nostalgia for Ruins</em>, „Grey Room” 2006, nr 23, s. 6–21.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>Theodor W. Adorno, Max Horkheimer, <em>Dialektyka Oświecenia</em>..., s. 13, 23.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>W. G. Sebald, <em>Pierścienie Saturna. Angielska pielgrzymka,</em> przeł. M. Łukasiewicz, W.A.B., Warszawa 2009.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>Por. Todd Samuel Presner, <em>Hegel's Philosophy of World via Sebald's Imaginary of Ruins: A Contrapunctal Critique of the „New Space” of Modernity</em>”, w: <em>Ruins of Modernity</em>...</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a>Ibidem, s. 209.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>Svetlana Boym, <em>The Off-Moder</em><em>n</em><em>Condition</em>, <a href="http://www.svetlanaboym.com/offmodern.html" target="_blank" rel="noopener">http://www.svetlanaboym.com/offmodern.html</a>, dostęp 12 lutego 2014. Por. eadem, <em>The Future of Nostalgia</em>, Basic Books, New York 2001, s. 49–50.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a>Svetlana Boym, <em>Ruinophilia: Appreciation of Ruins</em>, w: <em>Atlas of Transformation</em>, <a href="http://monumenttotransformation.org/atlas-of-transformation/html/r/ruinophilia/ruinophilia-appreciation-of-ruins-svetlana-boym.html" target="_blank" rel="noopener">http://monumenttotransformation.org/atlas-of-transformation/html/r/ruinophilia/ruinophilia-appreciation-of-ruins-svetlana-boym.html</a>, dostęp 12 lutego 2014.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/ruinacja/sic-transit-gloria-mundi" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

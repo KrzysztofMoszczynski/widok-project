@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Jak nas widzą? Transnarodowość w polskim kinie | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2017/obrazy-dla-dzieci/jak-nas-widza-transnarodowosc-w-polskim-kinie">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Jak nas widzą? Transnarodowość w polskim kinie | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Jak nas widzą? Transnarodowość w polskim kinie | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2017/obrazy-dla-dzieci/jak-nas-widza-transnarodowosc-w-polskim-kinie">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Jak nas widzą? Transnarodowość w polskim kinie | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #747ca8 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #747ca8 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #747ca8 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #747ca8 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #747ca8 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #747ca8 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #747ca8 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #747ca8 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(116,124,168,0.8) !important; */
+			/* background-color:#747ca8 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(116,124,168,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#747ca8 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(116,124,168,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#747ca8; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(116,124,168,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(116,124,168,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#747ca8 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#747ca8 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#747ca8 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-567 parent-id-565">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="450" data-selected-issue-color="#747ca8" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/pictures-for-children#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/pictures-for-children/how-they-see-us-transnationality-in-polish-cinema">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2017/obrazy-dla-dzieci#toc">19</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2017/obrazy-dla-dzieci/jak-nas-widza-transnarodowosc-w-polskim-kinie?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Jak nas widzą? Transnarodowość w polskim kinie</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2017/obrazy-dla-dzieci/jak-nas-widza-transnarodowosc-w-polskim-kinie?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=494">Krzysztof Świrek</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2><em>Kino polskie jako kino transnarodowe</em>, red. Sebastian Jagielski, Magdalena Podsiadło, Universitas, Kraków 2017</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/19/jak-nas-widza/546-7205-1-pb-1920x-e5f.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2017/19/jak-nas-widza/546-7205-1-pb-330x-39f.jpg 330w,assets/cache/images/issues/2017/19/jak-nas-widza/546-7205-1-pb-660x-cba.jpg 660w,assets/cache/images/issues/2017/19/jak-nas-widza/546-7205-1-pb-768x-346.jpg 768w,assets/cache/images/issues/2017/19/jak-nas-widza/546-7205-1-pb-1320x-ee7.jpg 1320w" src="assets/cache/images/issues/2017/19/jak-nas-widza/546-7205-1-pb-660x-cba.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Zbiór tekstów <em>Kino polskie jako kino transnarodowe</em> odwołuje się zarówno w&nbsp;tytule, jak i&nbsp;w treści do wcześniejszego o&nbsp;kilka lat tomu pod&nbsp;redakcją Tadeusza Lubelskiego i&nbsp;Macieja Stroińskiego<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>, traktującego o&nbsp;kinie polskim jako „kinie narodowym”. Oba pojęcia – określające kino jako „narodowe” i&nbsp;„transnarodowe” – są prezentowane jako nowe perspektywy badawcze. Mają wykraczać poza proste ujęcie kontekstu narodowego jako oczywistej ramy odniesienia dla filmu, zwracają natomiast uwagę na&nbsp;to, że&nbsp;kino jest narzędziem konstrukcji tożsamości narodowej, rozumianej jako polityczne i&nbsp;estetyczne imaginarium, złożone z&nbsp;istotnych klisz, motywów i&nbsp;toposów. Nie należy więc mylić pojęć kina narodowego i&nbsp;transnarodowego z, od dawna będącymi w&nbsp;użytku, obiegowymi kategoriami: „kino narodowe” to nie to samo co „kinematografia narodowa”, a&nbsp;„transnarodowość” nie oznacza po&nbsp;prostu międzynarodowego czy nawet globalnego obiegu filmowych motywów, konwencji czy konkretnych tytułów. Nie powinno się też wbrew pozorom tych dwu pojęć rozumieć jako przeciwstawnych. Jak pisze Magdalena Podsiadło (współredaktorka tomu, razem z&nbsp;Sebastianem Jagielskim), pojęcie „narodu” należy rozumieć jako konstrukt, który pełni „funkcję porządkującą”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>, nie jako pojęcie odwołujące się do jakiejś społecznej czy historycznej realności, lecz jako element klasyfikacji. „Naród” więc nie jako rzeczywista wspólnota, połączona „ziemią i&nbsp;krwią”, ale raczej jako kategoria i&nbsp;praktyka kulturowa, tworzona i&nbsp;odgrywana w&nbsp;licznych działaniach kulturowych, w&nbsp;symbolach, narracjach, kodach ubioru i&nbsp;zachowania.</p> <p>Skoro naród jest kategorią porządkującą, elementem ujętym w&nbsp;ramach pewnej klasyfikacji, to nie spełniałby swojej roli, gdyby nie odnosił się do innych elementów – wedle naczelnej zasady strukturalizmu element staje się określony dopiero przez różnicę i&nbsp;relację właśnie, w&nbsp;ten sposób staje się „jakiś”. I&nbsp;tak pojawia się transnarodowość – jako konieczny punkt odniesienia, rewers narodowej monety. Rozumiana jako odwołanie do innych tradycji filmowych czy innych kultur, dosłowna obecność wątków obcości w&nbsp;tematyce i&nbsp;fabule filmów, zagraniczna działalność polskich reżyserów i&nbsp;wędrowanie polskich filmów po&nbsp;europejskich ekranach, czy wreszcie wykorzystywanie schematów gatunkowych i&nbsp;przystosowywanie ich do polskich kontekstów.</p> <p>Temat-rzeka, podobnie jak „kino narodowe”, tu też szeroko jak w&nbsp;poprzednim tomie zarzucają sieci redaktorzy. Na&nbsp;ponad czterystu stronach zebrano ponad dwadzieścia tekstów, różnych pod&nbsp;względem tematycznym i&nbsp;odmiennych w&nbsp;sposobach ujęcia głównego tematu tomu. Zdarzają się teksty przekrojowe, nieraz zarysy obszernej problematyki, nadające się do dalszego rozwinięcia, sprawiające nawet wrażenie przymiarek do dłuższych prac (to przypadek artykułów Filipa Nowaka i&nbsp;Piotra Zwierzchowskiego). Zdarzają się przyczynki, teksty szczegółowe i&nbsp;sylwetkowe, tym wartościowsze, jeśli zwracają uwagę na&nbsp;twórców słabiej obecnych w&nbsp;pamięci widzów i&nbsp;w tekstach krytyków (jak w&nbsp;przypadku hollywoodzkiej twórczości reżysera Ryszarda Bolesławskiego, omawianego w&nbsp;tekście Patrycji Włodek). Najciekawsze jednak fragmenty tomu to te, które ukazują transnarodowość jako problem, jako nieraz paradoksalny sposób obecności tego, co inne, w&nbsp;sercu tego, co znane i&nbsp;swojskie, lub które wskazują, że&nbsp;to, co znajduje się „pomiędzy kategoriami”, co nie wpisuje się do końca w&nbsp;żadną z&nbsp;nich, jest spychane na&nbsp;margines, nieujęte przez ludzkie spojrzenie – i&nbsp;oko kamery.</p> <h2>Transnarodowe historie</h2> <p>Taki właśnie, problematyczny charakter zjawiska transnarodowości ukazuje esej Pauliny Kwiatkowskiej<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>, omawiającej ciekawy epizod z&nbsp;powojennych dziejów Europy. We włoskiej wytwórni Cinecittà bezpośrednio po&nbsp;wojnie funkcjonował obóz dla uchodźców, w&nbsp;tym wielu Polaków. Osoby przemieszczone przez wojenną zawieruchę zamieszkiwały w&nbsp;przestrzeniach wytwórni, w&nbsp;przystosowanych halach produkcyjnych i&nbsp;wśród filmowych dekoracji. Z&nbsp;funkcjonowania obozu zachowały się zaledwie szczątkowe dokumenty wizualne – jak przypomina autorka, sam budynek wytwórni był do pewnego stopnia niewygodny, ponieważ kojarzył się niedwuznacznie z&nbsp;okresem faszystowskim i&nbsp;jako taki nie był ulubionym miejscem pracy włoskich filmowców po&nbsp;wojnie. Jest on problematyczny w&nbsp;dwójnasób, skoro stał się zarazem obozem uchodźców, miejscem-nie miejscem, gdzie lokuje się osoby o&nbsp;niejasnym statusie. Z&nbsp;tego historycznego obrazka, samego w&nbsp;sobie jakoś marginalnego, w&nbsp;konwencjonalnej narracji historycznej nadającego się pewnie na&nbsp;obszerny przypis, autorka tekstu wydobywa metaforyczny potencjał. Nagle okazuje się on dialektycznym obrazem, o&nbsp;którym pisał Walter Benjamin<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>, szczegółem, w&nbsp;którym historyczność okazuje się powiązana z&nbsp;naszą współczesnością. Wystarczy tylko uświadomić sobie, jak dziwnie i&nbsp;ciekawie łączy się w&nbsp;tym obrazku kino, historia, status wygnańca i&nbsp;dekoracje jednego z&nbsp;narodowych snów o&nbsp;potędze (we włoskiej, faszystowskiej odmianie), nagle problematyczne, przynoszące wstyd po&nbsp;wojennej porażce i&nbsp;wyeksponowaniu zbrodni ciążących na&nbsp;faszyzmie i&nbsp;jego międzynarodowych sojusznikach.</p> <p>Na temat do ponownego odkrywania wyrastają w&nbsp;tomie także relacje między kinematografiami bloku wschodniego. Poświęcono im zresztą osobną część, zatytułowaną po&nbsp;prostu „Transnarodowy PRL”. Wśród tematów są tu choćby relacje między polskimi i&nbsp;sowieckimi kronikami filmowymi okresu wojny (artykuł Anny Szczepańskiej), międzynarodowe kariery polskich aktorów (w tekstach Marty Brzezińskiej-Pająk i&nbsp;Sebastiana Jagielskiego) czy recepcja polskich filmów w&nbsp;innych demoludach i&nbsp;w republikach sowieckich. Zabrakło w&nbsp;tej części tekstu, który omawiałby w&nbsp;sposób bardziej przekrojowy relacje między kinematografiami poszczególnych krajów i&nbsp;organizację produkcji w&nbsp;ZSRR, jakby nie było, „transnarodowym”, jeśli nie zgoła „postnarodowym” tworze politycznym (przy całej, dobrze znanej, problematyczności owego „przekraczania narodu”, które zawsze miało charakter co najmniej niepewny, czy wręcz niefasadowy, jeśli zważyć na&nbsp;dominację rosyjskiej kultury, języka i&nbsp;polityczną dominację rosyjskiej partii komunistycznej). Relacja wobec kinematografii zachodnich, kwestie stylu narodowego i&nbsp;ponadnarodowych wzorców, bardziej lub mniej dyskretnie sugerowanych (oczywiście po&nbsp;odwilży, kiedy odstąpiono od dekretowania jednej obowiązującej doktryny) – wszystko to stanowi ciekawy przypadek, historyczny eksperyment, który w&nbsp;ćwierć wieku po&nbsp;swoim upadku domaga się ponownego przemyślenia, opisania z&nbsp;dzisiejszej perspektywy.</p> <h2>Konserwatywna młodość</h2> <p>Po roku 1989 relacje z&nbsp;narodowymi „ważnymi innymi” (głównie zachodnimi) też nie były jasne, o&nbsp;czym przypomina tekst Magdaleny Podsiadło o&nbsp;osobliwościach polskiego postmodernizmu w&nbsp;kinie<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. W&nbsp;standardowej narracji na&nbsp;temat okresu po&nbsp;1989 roku w&nbsp;polskim kinie mówi się o&nbsp;„powrocie do normalności”, co oznacza przyjęcie zachodniego idiomu. Kino na&nbsp;powrót staje się przede wszystkim biznesem, zaczyna konkurować z&nbsp;produkcjami innych kinematografii, przede wszystkim właśnie zachodnich, gatunkowo i&nbsp;tematycznie potwierdza swoją przynależność do tego modelu. Tekst Podsiadło pokazuje jednak, że&nbsp;recepcja zachodnich wzorców jest w&nbsp;polskim kontekście przepuszczona przez filtr, który, jak twierdzi autorka, w&nbsp;specyficzny sposób „zakrzywia” postmodernistyczne wzorce estetyczne, poddając je konserwatywnej aksjologii. Postmodernistyczna estetyka, charakteryzująca się nasyceniem silnymi wizualnymi środkami, docenieniem roli umowności konwencji filmowych, traktowanych jako obiekt do cytowania i&nbsp;pastiszu – atrakcyjna, bo&nbsp;współczesna i&nbsp;kolorowa – ma z&nbsp;jednej strony potwierdzać przynależność do zachodniej kultury i&nbsp;służyć krytyce „socjalistycznej przeszłości”, z&nbsp;drugiej strony, jej recepcja jest fragmentaryczna i&nbsp;częściowa. Przede wszystkim nie objęła ona krytycznych aspektów postmodernizmu – znaku zapytania zawieszonego nad tradycyjnymi, mieszczańskimi wartościami i&nbsp;pewnej dezynwoltury, z&nbsp;jaką klasyczny postmodernizm filmowy miesza to, co wysokie i&nbsp;niskie. Polski postmodernizm, do którego autorka zalicza filmy tak różne, jak <em>Déjà vu </em>(1989, reż. J. Machulski), <em>Rewers </em>(2009, reż. B. Lankosz), <em>Ucieczkę z&nbsp;kina „Wolność”</em> (1990, reż. W. Marczewski) czy <em>Hiszpankę</em> (2015, reż. Ł. Barczyk), jest w&nbsp;jej ujęciu „neokonserwatywny”: atrakcyjna forma służy podkreśleniu mocy mieszczańskich i&nbsp;narodowych wartości, zaakcentowaniu wagi moralnej integralności i&nbsp;poświęcenia. Różnica między kulturą wysoką i&nbsp;niską zostaje utrzymana, a&nbsp;nawet podkreślona. Nawiązanie do postmodernistycznej estetyki służy więc przyjęciu idiomu zachodniego i&nbsp;równoczesnemu zdystansowaniu się od tych jego aspektów, które wydają się być zagrożeniem, skoro rozpuszczają te właśnie wartości, te kody zachodniej, mieszczańskiej kultury, do której po&nbsp;upadku żelaznej kurtyny ta część Europy aspiruje. Zachód oznacza tradycję, mieszczaństwo, kapitalizm, ale już nie krytycyzm wobec własnej wartości czy podważenie hierarchii społecznych – te sprawy mają zostać w&nbsp;Polsce „po staremu”. Chociaż oczywiście nie „po staremu” z&nbsp;okresu bezpośrednio przed 1989 rokiem, ale raczej sprzed 1939...</p> <p>Jeśli lepiej się przyjrzeć polskiemu postmodernizmowi, okazuje się on bardzo staroświecki. Powiedziałbym, że&nbsp;w&nbsp;pokrętny sposób jest „fasadowym postmodernizmem” właśnie dlatego, że&nbsp;jest za&nbsp;mało fasadowy: nie jest jedynie fasadą, czystą grą różnych znaczących, lecz oszukuje, skoro za&nbsp;kolorowym blichtrem błyskotek ukrywa szacowne mury hierarchii: tradycyjnych wartości, dziedzicznej własności (zgodnej z&nbsp;habitusem) i&nbsp;dobrego wychowania. Ta konserwatywna, hierarchiczna rama chroni przed tym, co nie do zaakceptowania w&nbsp;nowych czasach, a&nbsp;przede wszystkim – w&nbsp;„nowych ludziach”, czyli tych, którzy w&nbsp;ówczesnej rzeczywistości nie zdołali dołączyć do mieszczaństwa dorabiającego sobie pośpiesznie przedwojenne genealogie. Ciekawie myśli się na&nbsp;marginesie tego tekstu, chociaż oczywiście jego główną tezę warto byłoby jeszcze przedyskutować, a&nbsp;siła dowodu zależy w&nbsp;dużej mierze od sposobu, w&nbsp;jaki zdefiniujemy „postmodernizm” i&nbsp;co do tego definicyjnego worka wrzucimy, co pozostawimy poza.</p> <h2>Nieobecni</h2> <p>Wiele można w&nbsp;tym zbiorze znaleźć, ale czegoś zawsze zabraknie. Mnie zabrakło dwóch nazwisk, które z&nbsp;hasłami „transnarodowość” i&nbsp;„kino polskie” kojarzą mi się od razu, nazwisk-haseł: Krzysztof Kieślowski i&nbsp;Andrzej Żuławski. Pierwszy stworzył jeden z&nbsp;najsilniej transnarodowych filmów w&nbsp;historii kina polskiego – <em>Dekalog</em> (1988). Spotkałem kiedyś młodego intelektualistę z&nbsp;Gruzji na&nbsp;wymianie naukowej w&nbsp;Polsce, który z&nbsp;wielką ekscytacją opowiadał mi, że&nbsp;jednym z&nbsp;pierwszych miejsc w&nbsp;Warszawie, które zwiedził, było osiedle znane mu właśnie z&nbsp;<em>Dekalogu</em>. Opowiadał o&nbsp;tym doświadczeniu z&nbsp;przejęciem, które wskazywało, że&nbsp;miejsce to było dla niego przepełnione znaczeniem o&nbsp;intymnym charakterze. Nieważne, że&nbsp;osiedle z&nbsp;<em>Dekalogu</em> miało być właśnie typowe, neutralne, „jak wszystkie”; nieważne nawet, że&nbsp;właściwie nie istnieje (bloki pokazane na&nbsp;ekranie lepiono z&nbsp;różnych lokalizacji). Film Kieślowskiego działał za&nbsp;granicą, wywoływał oddźwięk, który można chyba nazwać „duchowym” w&nbsp;jakimś mocno niedogmatycznym, pozareligijnym sensie – czynił choćby miejsce akcji filmu miejscem znaczącym i&nbsp;nacechowanym, wartym odwiedzenia, zobaczenia na&nbsp;żywo i&nbsp;osobiście, ważnym, bo&nbsp;najwyraźniej związanym z&nbsp;istotnymi przeżyciami podczas oglądania filmu. Ale może to wcale nie jest „transnarodowość” Kieślowskiego? Może ujawniał się tu raczej <span class="rozstrzelony">uniwersalizm</span> kluczowych treści jego filmów? Jeśli tak, to znajdujemy się tu już w&nbsp;polu nieco innym niż to wybrane przez redaktorów tomu, wymagającym innych narzędzi, innych definicji.</p> <p>Drugi nieobecny w&nbsp;tomie bohater polskiej „transnarodowości” to Andrzej Żuławski, jeden z&nbsp;reżyserów najbardziej chyba obcych polskiemu sposobowi kręcenia filmów, ich temperaturze emocjonalnej, stosowanych w&nbsp;nich konwencjom. <em>Diabeł </em>(1972), <em>Na srebrnym globie</em> (1987) – to filmy przypominające ciała obce w&nbsp;polskiej historii kina. Także <em>Szamanka</em> (1996) – jak najbardziej „postmodernistyczna”, ale raczej nie „neokonserwatywna” – wywoływała w&nbsp;momencie premiery wielką konsternację jako film „histeryczny”. Równocześnie Żuławski nie zapominał o&nbsp;miejscu swojego pochodzenia, kiedy pracował na&nbsp;Zachodzie. Nie mówiąc nawet o&nbsp;niezwykłym przypadku <em>Kosmosu </em>(2015), adaptacji Gombrowicza zrealizowanej z&nbsp;inicjatywy i&nbsp;za pieniądze zachodnich producentów, w&nbsp;twórczości Żuławskiego można znaleźć liczne wątki i&nbsp;motywy w&nbsp;sposób zawsze nieoczywisty nawiązujące do polskiego kontekstu i&nbsp;polskich problemów. Czasem nawet w&nbsp;sposób, który można określić jako zawadiacki.</p> <p>W latach 80. zaproponowano mu, jako „człowiekowi ze Wschodu”, adaptację opery <em>Borys Godunow</em> Modesta Musorgskiego. Sam Żuławski nie uważał tej akurat opery za&nbsp;nadającą się do przeniesienia na&nbsp;ekran, nie zgadzał się też z&nbsp;wymową libretta (apologią rosyjskiego samodzierżawia)<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>, jednak propozycję przyjął i&nbsp;adaptację zrealizował w&nbsp;sposób przewrotny. Rosja w&nbsp;jego filmie (<em>Borys Godunow</em>, 1989) jest koszmarem brutalności i&nbsp;mroku, a&nbsp;jedyny promień nadziei pojawia się, kiedy kamera trafia do polskiego zamku. Przez ekran przepływają skąpani w&nbsp;błękicie i&nbsp;bieli huzarzy, niebiańska atmosfera tego epizodu jest wytchnieniem w&nbsp;szalonej gorączce pozostałych scen. W&nbsp;ten sposób, niczym przemytnik polskiej perspektywy, Żuławski pracował nad operą, której wymowę sam dekodował jako skrajnie antypolską (osadzoną przecież w&nbsp;historycznych realiach związanych z&nbsp;podjętą przez polską oligarchię próbą obsadzenia moskiewskiego tronu). Pomimo tego, a&nbsp;może właśnie dlatego, że&nbsp;robił to we Francji, gdzie, jak sam wspominał, rozróżnienie między Polakami a&nbsp;Rosjanami nie przychodzi nikomu łatwo<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. W&nbsp;Polsce zaś tworzył filmy wyłącznie krytyczne, ukazujące demoniczność, nawet szaleństwo naszej kultury – działał więc zawsze na&nbsp;przekór oczekiwaniom „narodowym”, narodowego kontekstu.</p> <h2>Stracone w&nbsp;tłumaczeniu</h2> <p>Jednym z&nbsp;ciekawszych problemów, jakie wyłaniają się dzięki myśleniu o&nbsp;„transnarodowści”, jest palące pytanie, „jak nas widzą” – „oni”, czyli nasi istotni inni, ci wszyscy, których spojrzenie się liczy, czyli Zachód, przedstawiciele „europejskich wartości”, a&nbsp;zarazem elity geopolitycznej władzy. Palące dlatego, że&nbsp;bardzo aktualne. Co widzą w&nbsp;nas i&nbsp;w naszej kulturze? W&nbsp;dzisiejszych sporach politycznych, przekładających się już na&nbsp;głębsze podziały światopoglądowe, odpowiedź na&nbsp;to pytanie przybiera postać dwóch stanowisk: „widzą nas źle”, nie tak, jak powinni, nie tak, jak nam się należy, więc teraz im pokażemy, jak powinniśmy w&nbsp;ich oczach wyglądać. I&nbsp;drugie stanowisko: „wyglądamy źle”, zobaczyli nas właśnie w&nbsp;całej okazałości, widzą nasze niedociągnięcia, niedoskonałość, a&nbsp;nawet boją się tego, co widzą.</p> <p>W kinie nieprzypadkowo upatrywano niegdyś powszechnego, światowego języka, dzięki któremu rozmaite kultury, w&nbsp;całej swojej odrębności i&nbsp;swoistości, mogą komunikować własne wartości na&nbsp;zewnątrz w&nbsp;formie wreszcie zrozumiałej dla innych. Filmy są, to banał, ambasadorami polskiej kultury. Dlatego na&nbsp;ich przykładzie można badać problem tego, jak nas widzą, jak my widzimy ich, do jakich nieporozumień dochodzi, kiedy próbujemy tłumaczyć to, co nasze dla nich, albo to, co ich, próbujemy sami opracować. Zbliża się do tych kwestii Marcin Maron<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>, kiedy zastanawia się nad wymową i&nbsp;francuską recepcją <em>Dantona</em> (1982) Andrzeja Wajdy. W&nbsp;moim przekonaniu zatrzymuje się jednak w&nbsp;pół drogi, kiedy w&nbsp;swojej analizie akcentuje, że&nbsp;Francuzi nie zrozumieli polskiego mistrza. Nie zadaje symetrycznego pytania w&nbsp;drugą stronę: co umknęło polskiemu reżyserowi, czego twórca wywodzący się z&nbsp;innego kontekstu nie może zasymilować z&nbsp;tradycji rewolucyjnej, czego w&nbsp;niej nie rozumie? Co z&nbsp;gorącego republikanizmu nie mogło do filmu Wajdy przeniknąć inaczej niż w&nbsp;formie jakoś wykrzywionej, obcej francuskiej tradycji i&nbsp;jej politycznej kulturze?</p> <p>Odwołam się do innego przykładu, innego tekstu z&nbsp;tego tomu: czy polski postmodernizm, skoro konserwatywny, jest tylko „inny” od zachodniego, czy jednak „ulepszony”? Czy mamy prawo mówić, że&nbsp;mamy w&nbsp;Polsce postmodernizm lepszy od tego oryginalnego, bo&nbsp;niepopadający w&nbsp;błąd relatywizmu przypominam Krzysztofa Zanussiego i&nbsp;jego <em>Serce na&nbsp;dłoni </em>[2008], w&nbsp;którym reżyser, jeden z&nbsp;ważniejszych konserwatywnych intelektualistów, przedstawia świat, w&nbsp;którym nawet Doda znajdzie swoje miejsce, byle nie Jacques Derrida i&nbsp;dekonstrukcja, stająca się w&nbsp;jednej ze scen synonimem największego zła, narzędziem destrukcji europejskiej kultury), czy raczej jest to słabość polskiej wrażliwości, jakoś ciążącej w&nbsp;stronę tego, co swojskie, znane i&nbsp;pewne? Czy to, co relatywizujące, krytyczne jest narzędziem osłabiania polskiej kultury, czy raczej jest trudną, konieczną drogą do jej wzmocnienia, uczynienia dojrzałą? Takie pytania trzeba i&nbsp;będzie się zadawać w&nbsp;Polsce jeszcze długo, a&nbsp;kino jest dla nich wyjątkowo wdzięcznym punktem wyjścia.</p> <p>Nieprzypadkowo kino stawało się w&nbsp;ostatnich latach przedmiotem szczególnie silnych sporów, w&nbsp;których porządek estetyczny na&nbsp;różne sposoby demaskowano jako nieobojętny także dla politycznych kontekstów – pokazuje to choćby przypadek <em>Idy</em> (2013), której emisję w&nbsp;telewizji publicznej (25 lutego 2016) poprzedzono komentarzem, mającym posłużyć odpowiedniemu oświetleniu wymowy historycznej filmu. Kino, wedle planów ministerstwa kultury, rozpisującego konkurs na&nbsp;scenariusze produkcji historycznych (ogłoszony przez premiera Piotra Glińskiego w&nbsp;lipcu 2016 roku), ma stać się, dosłownie, narzędziem pokazywania polskiej kultury i&nbsp;historii na&nbsp;zewnątrz w&nbsp;określony sposób. Ta nowa narracja, akcentująca to, co wedle decydentów jest chwalebne w&nbsp;polskiej historii, trafi jednak właśnie w&nbsp;transnarodowy kontekst, który z&nbsp;konieczności przekształci ją zgodnie z&nbsp;tym, co mieści się, a&nbsp;co nie, w&nbsp;spojrzeniu innego, na&nbsp;co jest on wrażliwy, na&nbsp;co nastrojone jest jego „oko” i&nbsp;„ucho”. Te właśnie translacje, zakrzywienia są w&nbsp;sercu problemu transnarodowości.</p> <p></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a><em></em><em>Kino polskie jako kino narodowe</em>, red. T. Lubelski, M. Stroiński, Korporacja Ha!art, Kraków 2010.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Magdalena Podsiadło, <em>Transnarodowe spojrzenie jako efekt współczesności</em>, w: <em>Kino polskie jako kino transnarodowe</em>, red. S. Jagielski, M. Podsiadło, Universitas, Kraków 2017, s. 16.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Paulina Kwiatkowska, <em>Obóz dla uchodźców w Cinecittà – między rzeczywistością a światem przedstawionym</em>, w: <em>Kino polskie jako kino transnarodowe</em>...</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Walter Benjamin, <em>Pasaże</em>, tłum. I. Kania, Wydawnictwo Literackie, Kraków 2005, s. 508-510.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Magdalena Podsiadło, <em>Między Wschodem a Zachodem. Neokonserwatywny charakter polskiego postmodernizmu filmowego</em>, w: <em>K</em><em>ino polskie jako kino transnarodowe</em>...</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Piotr Marecki, Piotr Kletowski, <em>Żuławski. Przewodnik Krytyki Politycznej</em> [wywiad-rzeka], Wydawnictwo Krytyki Politycznej, Warszawa 2008, s. 352-353.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Ibidem, s. 356.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Marcin Maron, Danton <em>Andrzeja Wajdy w kontekście rewolucyjnych ideałów obywatelskich oraz francuskich sporów o rewolucję</em>, w: <em>Kino polskie jako kino transnarodowe</em>...</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2017/obrazy-dla-dzieci/jak-nas-widza-transnarodowosc-w-polskim-kinie" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

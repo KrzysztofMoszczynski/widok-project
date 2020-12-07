@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Album of Photos. The Album | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/postcolonial-image-archives/album-of-photos.-the-album">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Album of Photos. The Album | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Album of Photos. The Album | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/postcolonial-image-archives/album-of-photos.-the-album">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Album of Photos. The Album | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #228b22 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #228b22 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #228b22 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #228b22 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #228b22 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #228b22 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #228b22 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #228b22 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(34,139,34,0.8) !important; */
+			/* background-color:#228b22 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(34,139,34,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#228b22 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(34,139,34,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#228b22; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(34,139,34,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(34,139,34,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#228b22 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#228b22 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#228b22 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1428 parent-id-1398">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1396" data-selected-issue-color="#228b22" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/punkt-widokowy/album-zdjec.-album">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/punkt-widokowy/album-zdjec.-album">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/postcolonial-image-archives#toc">7</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/postcolonial-image-archives/album-of-photos.-the-album?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Album of Photos. The Album</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/postcolonial-image-archives/album-of-photos.-the-album?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=305">Tomasz Szerszeń</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Katarzyna Bartoszyńska
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p><br><br></p> <p>…the meaning of any episode was not inside&nbsp;like a&nbsp;kernel, but&nbsp;outside, enveloping the tale which brought it out only as a&nbsp;glow brings a&nbsp;haze, in the likeness of one of those misty halos that&nbsp;sometimes are made visible by the spectral illumination of the moonshine.</p> <p>Joseph Conrad, <em>Heart of Darkness</em><a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a></p> <p></p> <p>Sammy Baloji's (b. 1978) <em>The Album</em> is the effect of a&nbsp;remarkable voyage. The artist follows the tracks of Major Henry Pauwels, the Belgian adventurer and hunter who, like&nbsp;many of his contemporaries, traveled in the early 20<sup>th</sup> century (more specifically: between&nbsp;1911 and 1913) into&nbsp;the heart of Africa (to the eastern regions of Belgian Congo) in search of animals and people: the objects of his passions for&nbsp;hunting and photography. On the pages of Pauwels’ album (<em>Album de Photos, 1912-1913, Central Afrique, Zaire</em>) we see intermingled pictures of the inhabitants of these places with&nbsp;dead or living animals: animals as inhabitants, inhabitants as animals. And the photographs allow for&nbsp;a&nbsp;blurring between&nbsp;the two, thereby becoming a&nbsp;crucial element in the politics of dehumanization. (At the same time, however, as Mark Twain observed in his 1905 pamphlet <em>King Leopold’s Soliloquy</em>, it was precisely photography –&nbsp;Kodak’s device –&nbsp;that&nbsp;became the only witness to the atrocities committed in Congo.) Ethnography thus becomes inextricably bound up with&nbsp;zoology, with&nbsp;studies of nature, with&nbsp;a&nbsp;passion for&nbsp;hunting –&nbsp;as well as a&nbsp;pseudoscientific photographic study of incidents and adventures along&nbsp;the way. On the other hand, the ‘loose’ form of the album draws our attention away from&nbsp;this photographic violence, directing it instead towards&nbsp;the narration. For&nbsp;these are merely the memoirs of a&nbsp;journey (accompanied by Pauwels), a&nbsp;collection of oddities, notes made in the margins of the author’s main mission, which was to collect and transport objects for&nbsp;display in the Royal Museum of Central Africa in Tervuren. Baloji adds another element to this&nbsp;collection: the photographs he took himself and those taken by the photographer and journalist Chrispin Myano during&nbsp;their recent trips to places visited by Pauwels. These visual records depict the grim reality of day-to-day life in a&nbsp;Congo marked by war and violence. The album is therefore not only a&nbsp;palimpsest of various temporalities, but&nbsp;also the result of a&nbsp;particular exchange between&nbsp;two operating images of the people of Congo: Baloji shows Myano Pauwels’ album; Myano in turn displays his archive of wartime images from&nbsp;the regions. Somewhere in between, as a&nbsp;result of this&nbsp;multi-layered encounter, <em>The Album</em> is born.</p> <p>It is hard to see Baloji’s work as a&nbsp;straightforward deconstruction of Pauwels’ documentation. It is rather a&nbsp;jumbling of its messages, giving new meaning to traces of the past&nbsp;-&nbsp;a&nbsp;critique that&nbsp;is uncomfortable because it refers not only to what has passed, but&nbsp;also to the present, which to Baloji remains a&nbsp;ruin. The artist equates colonial wounds and post-colonial legacies (as in Derek Walcott’s poem, in which, “The rot remains with&nbsp;us, the people are gone,”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>) focusing, however, not on the scale of suffering but&nbsp;on the odd temporality that&nbsp;makes the ghosts of the past&nbsp;persist stubbornly, refusing to be exorcised, reappearing before&nbsp;viewers. In this&nbsp;case, the past&nbsp;takes the form of black and white photographs of Congolese long since&nbsp;passed away, the victims of colonial violence, “individuals without&nbsp;an anchor, without&nbsp;a&nbsp;horizon, colorless, stateless, rootless -&nbsp;a&nbsp;race of angels”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> At the same time the ethnographic and natural photographs taken by Pauwels, when viewed individually, remain silenced, mute. That&nbsp;which animates <em>The Album</em> also animates history, gives it color, breaks its silence –&nbsp;the contemporary elements, Myano and Baloji’s images of refugee camps, soldiers, weapons… This&nbsp;can be seen clearly on the twenty-fifth page of <em>The Album</em>, where Baloji brings together two of Pauwels’ ‘ethnographic’ images featuring people from&nbsp;Congo gazing directly into&nbsp;the camera (juxtaposing them with&nbsp;images of women with&nbsp;their backs turned), with&nbsp;a&nbsp;contemporary photo of a&nbsp;soldier who is looking backwards at the viewer. Abstracting even from&nbsp;the startling (perhaps overdetermined) analogy to Walter Benjamin and his ‘angel of history,’ there is no way of escaping the sense that&nbsp;among these three pairs of eyes looking at us, it is the contemporary ones that&nbsp;touch us most deeply. It is as if the problem were not one of living with&nbsp;images of the past, but&nbsp;rather of raising awareness (and sensitivity to) the specters of the present.<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup></p> <p><em>The Album</em> is certainly located in a&nbsp;circle of ‘colonial hauntology.’<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> T. J. Demos, who borrows this&nbsp;expression from&nbsp;Vincent Meessen, writes about&nbsp;the specific temporalities of works by artists “returning to the postcolony,” which are based on an interweaving of “multiple <em>durées</em> made up of discontinuities, reversals, inertias, and swings.”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> We are haunted by the past, but&nbsp;it is certainly also the present that&nbsp;does not allow the past&nbsp;to harden into&nbsp;a&nbsp;concrete form fit only to be studied. This&nbsp;preposterous interconnection has in this&nbsp;case a&nbsp;disturbing meaning: history does not develop; it does not have an ultimate goal or a&nbsp;happy ending. The countless sacrifices and sufferings cannot be translated into&nbsp;a&nbsp;consistent lesson or a&nbsp;better understanding. Understanding remains in this&nbsp;case a&nbsp;category constructed from&nbsp;a&nbsp;position of distance, from&nbsp;the position of an album in fact (historical, geographical, natural). Distance enables it, but&nbsp;does it also allow us to integrate that&nbsp;knowledge into&nbsp;everyday life? Perhaps the only sensible answer, the only sensible form of engagement is reduced –&nbsp;as in the case of Bertolt Brecht’s or Aby Warburg’s reactions to the crisis of History –&nbsp;to assembling a&nbsp;real/fictional visual order, constructing atlases, albums?</p> <p><em>The Album </em>thus remains a&nbsp;tool for&nbsp;the suspension of meaning, for&nbsp;reanimating history in such a&nbsp;way as to multiply questions rather than&nbsp;providing concrete answers. This&nbsp;way of understanding time, of understanding history, recurs repeatedly in the Congolese artist’s work, though each time with&nbsp;a&nbsp;slightly different emphasis. In <em>Mémoire</em> –&nbsp;a&nbsp;powerful, straightforward work in which, as in classical montage, he brings together images of black laborers from&nbsp;the metal mines of Gécamines in the Katanga Province and the European officials visiting it with&nbsp;photographs of the current state of the place. Among&nbsp;the many themes of the work, the one perhaps most dominant is the one tied to a&nbsp;critique of post/colonial exploitation (‘the rot remains’), serving as both a&nbsp;lesson in Congo’s history and an accusation. Whereas in the project <em>Congo Far West: Retracing Charles Lemaire’s Expedition</em> , another artistic ‘return,’ this&nbsp;singularity of meaning vanishes. We see images of people from&nbsp;Congo, cut out from&nbsp;black and white archival photos, looking directly at us. The backgrounds for&nbsp;these images are the delicate watercolors of Leon Dardenne, one of the members of the ‘Lemaire expedition’ of the late 19<sup>th</sup> century. They portray African landscapes –&nbsp;a&nbsp;utopian world without&nbsp;any trace of history, echoing a&nbsp;phantasmic European cartography that&nbsp;sees Africa, particularly its heart, Congo, as a&nbsp;blank spot on the map<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>, an empty space (the ‘Unpeopled country’ marveled at by Stanley<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>), a&nbsp;background to be filled, painted over. A&nbsp;blank page that&nbsp;could host any content. This&nbsp;analogy may seem particularly apt in relation to the delicate works of Dardenne, which were a&nbsp;form of notes from&nbsp;a&nbsp;journey to the interior of Africa: a&nbsp;visual diary of someone highly sensitive (to color), or the notes of someone blind (to violence and injustice). Juxtaposing these two historical and visual regimes both changes their context and creates a&nbsp;new, fictional order in which –&nbsp;despite&nbsp;the clear sense of a&nbsp;message –&nbsp;meanings proliferate, get lost, generate new questions.</p> <p>Similarly as <em>Congo Far West...</em>, <em>The Album</em> is also a&nbsp;project, whose meaning remains uncertain. We follow Pauwels’ trail, though we also see that&nbsp;it is a&nbsp;journey that&nbsp;does not actually take place. It is instead a&nbsp;regressive, circular retreading of the tracks of colonial and postcolonial violence and subjectivity, repeating in reality like&nbsp;a&nbsp;mantra, the same story about&nbsp;Congo as a&nbsp;twilight zone, a&nbsp;place with&nbsp;a&nbsp;particular experience of colonialism and a&nbsp;well-described (and depicted) real experience of madness. Somewhere on the way we allow ourselves to be carried along&nbsp;by this&nbsp;narrative, one which takes us along&nbsp;many paths, between&nbsp;many images at the same time… Somewhere in between, unperceived, the ethnographic-naturalistic-traveler’s (and also military) album changes its meaning once again and becomes a&nbsp;family album. A&nbsp;story of creating a&nbsp;new identity –&nbsp;“I burst apart. Now the fragments have been put together again by another self.”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> –&nbsp;from&nbsp;fragments and ruins, from&nbsp;images of violence and dispossession, from&nbsp;photographs taken one hundred years ago for&nbsp;a&nbsp;museum in Tervuren and the documentation of subsequent wars wracking Congo today. History becomes family history –&nbsp;traumatic, difficult, and painful, something, which may never be completely worked through, but&nbsp;it is nonetheless human history and therefore an affective one, and not merely an object belonging in a&nbsp;natural history museum…</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Joseph Conrad, <em>Heart of Darkness and Selections from the Congo Diary </em>(New York: Modern Library, 1999), 6.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Derek Walcott, <em>Ruins of a Great House, </em>in: idem, <em>Collected Poems, 1948–1984 </em>(New York: Farrar, Straus and Giroux, 1986), 20.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Frantz Fanon, <em>The Wretched of the Earth</em>, trans. R. Philcox (New York: Grove Press, 2004), 217.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>T.J. Demos, <em>Return to the Postcolony. Specters of Colonialism in Contemporary Art </em>(Berlin: Sternberg Press, 2013), 13.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Ibid., 17.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Ibid., 11.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Adam Hochschild, <em>Kings Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa </em>(New York: Mariner Books, 1998), 31.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a><em>Stanley’s Despatches to the New York Herald 1871-72, 1874-77</em>, ed. Norman R. Bennett, (Boston: Boston University Press, 1970), 76.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Frantz Fanon, <em>Black Skin, White Masks, </em>trans. R. Philcox (New York: Grove Press, 2008), 109.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/postcolonial-image-archives/album-of-photos.-the-album" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

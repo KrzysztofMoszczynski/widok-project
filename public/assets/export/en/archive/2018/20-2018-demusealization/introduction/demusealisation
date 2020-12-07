@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Introduction to View issue 20</title>
+
+		<meta name="description" content="Introduction to View issue 20">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/20-2018-demusealization/demusealisation">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Introduction to View issue 20">
+		<meta itemprop="description" content="Introduction to View issue 20">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Introduction to View issue 20">
+		<meta name="twitter:description" content="Introduction to View issue 20">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/20-2018-demusealization/demusealisation">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Introduction to View issue 20">
+		<meta property="og:description" content="Introduction to View issue 20">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ce0058 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ce0058 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ce0058 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ce0058 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ce0058 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ce0058 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+			/* background-color:#ce0058 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(206,0,88,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ce0058 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ce0058; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ce0058 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ce0058 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ce0058 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-364 parent-id-356">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="335" data-selected-issue-color="#ce0058" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/20-2018-odmuzealnienie/wstep">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/20-2018-odmuzealnienie/wstep">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/20-2018-demusealization#toc">20</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-20/20-intro_en.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Demusealisation</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-20/20-intro_en.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Jan Szelągiewicz
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/alle-menschen-1920x-5e5.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/20/alle-menschen-330x-7e9.jpg 330w,assets/cache/images/issues/2018/20/alle-menschen-660x-a7d.jpg 660w,assets/cache/images/issues/2018/20/alle-menschen-768x-d0a.jpg 768w,assets/cache/images/issues/2018/20/alle-menschen-1320x-05b.jpg 1320w" src="assets/cache/images/issues/2018/20/alle-menschen-660x-a7d.jpg" alt="" ></a>    <figcaption><p>Allan Sekula, <em>Alle Menschen Werden Schwestern</em>, poster prepared for&nbsp;the G8 Heiligendamm, Germany protest rally in 2007; later that&nbsp;year the image was produced for&nbsp;documenta 12 as a&nbsp;billboard to greet travelers outside&nbsp;Kassels railway station. Courtesy Allan Sekula Studio; part of the collection of the Muzeum Sztuki in Łodz and presented at ms2 in 2015 on the same-titled exhibition.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Thinking about&nbsp;museums nowadays, it is difficult not to bring up the <a href="http://www.museunacional.ufrj.br/">National Museum in Rio de Janeiro</a>, which nearly completely burned down&nbsp;this September, on the bicentennial of its founding. The character of its collections spoke volumes about&nbsp;public, state-funded museums—it had in its possession, and has since&nbsp;lost in the fire, a&nbsp;number of paleontological collections, including the bones of a&nbsp;Maxakalisaurus dinosaur (<em>Maxakalisaurus topai</em>); ancient Egyptian and pre-Columbian mummies, like&nbsp;the sarcophagus of Sha-Amun-en-su, “singer of Amun’s sanctuary,” and the mummy of Aymar, former denizen of the Lake Titicaca region; ancient Greek and Roman art, including frescos from&nbsp;Pompeii; an entomological collection comprising five million specimens; and a&nbsp;number of artifacts from&nbsp;indigenous South American cultures. The fire failed to consume the iron Bendegó meteorite and, contrary to earlier reports, the skull of Luzia Woman (ca. 9000 BC), the oldest human fossil to be discovered on the South American continent. It turned out that&nbsp;the skull on display which was lost was a&nbsp;replica, while the original, stored in a&nbsp;metal case, survived. The past&nbsp;endures in its material form, provided that&nbsp;it is sequestered from&nbsp;the world. But, for&nbsp;it to be alive, it must remain in active use, a&nbsp;part of praxis and the free flow of ideas.</p> <p>Born in the early days of the late modern era, national public museums have openly favored constancy, permanence. They have functioned as arbiters of canon, repositories of what we call “heritage”: the cultural and symbolic foundations of communities. Edifices as monumental as the history they were to accommodate boasted representations, arranged in the “proper” order, as “vehicles for&nbsp;inscribing and broadcasting the messages of power (but of a&nbsp;different type) throughout society,” to quote Tony Bennett’s essay <em>The Exhibitionary Complex</em>, further reinforcing the notion that&nbsp;the exhibitions they held essentially replicated the regimes of nature and culture that&nbsp;existed outside&nbsp;the museums’ walls. Not without&nbsp;reason did the first critical concept of the museum, developed by André Malraux, propose an imaginary museum—a museum without&nbsp;walls. However, the illusory heterogeneity of the Brazilian collections (and others similar to them) actually reflects a&nbsp;consistent imperialist conviction—it reconstructs a&nbsp;vision of history steeped in conquest, a&nbsp;vision embodied and reinforced by the objects on display, acquired with&nbsp;blade and coin. Their disintegration in the blaze in some way rescinded a&nbsp;version of that&nbsp;history. However, the fire, by consuming this&nbsp;history’s physical source, also erase the potential to tell history anew. The recent political shift in Brazil also imbues the images of the burning museum with&nbsp;an additional, symbolic dimension: museums may have lost their democratizing capabilities, but&nbsp;modern democracy is in dire need of all the tools at its disposal.</p> <p>When we debated the substance of our issue dedicated to “other legacies” some eighteen months ago, our intention was to reflect on a&nbsp;new social project that&nbsp;could have emerged from, among&nbsp;other sources, new museum practices. We were not, therefore, interested in the past&nbsp;enclosed and celebrated in museums, but&nbsp;in the potential future. We were interested in demusealization, the opposite&nbsp;of the “musealization” which Giorgio Agamben described in his <em>Profanations </em>as the “exhibition of an impossibility of using, of dwelling, of experiencing.”</p> <p>Another analogy is proffered by Stacy Douglas in her essay <em>Museums as Constitutions</em>, the central thesis of which is that&nbsp;museums, like&nbsp;constitutions, inform the political imaginations of a&nbsp;community. That&nbsp;notion seems to justify the question of whether the subjects of the Constitution of the Republic of Poland—<a href="http://www.sejm.gov.pl/prawo/konst/polski/kon1.htm">“all citizens of the Republic”</a>—find themselves genuinely reflected in dominant museum narratives. In the early 21<sup>st</sup> century, Poland has seen what one might call a&nbsp;“museum boom,” stemming directly from&nbsp;the overwhelming success of the Warsaw Uprising Museum which offered visitors a&nbsp;suggestive narrative and an intense experience—profoundly aesthetic and emotional, producing a&nbsp;narcissistic subject focused primarily on their own experience. The trend first started by the Warsaw Uprising Museum seems to have found considerable purchase since, even making its way into&nbsp;official policy at the Ministry of Culture and National Heritage, which has made it its mission to safeguard, at all costs if need be, the heroic interpretation of Poland’s past&nbsp;and has unveiled plans to construct a&nbsp;slew of new historical museums. In this&nbsp;case, the museum is used to reaffirm and reinforce the dominant narrative, provide an effective medium for&nbsp;historical education, and help attract tourism. Piotr Piotrowski’s brief but&nbsp;intense struggle for&nbsp;what he called the “critical museum” ended in failure. The term stuck, but&nbsp;the man who coined it had to leave the National Museum. His critical vision, however, offered no changes is the day-to-day operations of the institution itself or its underlying social framework, only on the representations the institution produced.</p> <p>The question of the current role of the museum transcends immediate political strife, as well as the condition of the museums themselves. The process of demusealization, understood here as the transformation of the museum space—the space of representation—into a&nbsp;space where a&nbsp;subjective relationship with&nbsp;the community and the other is practiced and experienced, offers to bring about&nbsp;the realization of the democratic utopia that&nbsp;seems to be the implicit promise of any constitution. In the essay which opens this&nbsp;issue, Nicholas Mirzoeff calls it the fulfillment of the right to appear and the right to look, blending Judith Butler’s re-reading of Hannah Arendt with&nbsp;an original concept of his, one which strongly links subjectivity with&nbsp;the visibility of the “self” and the right to look at others boldly. In order to achieve that, however, the authoritarian spaces of representations—museums and universities—have to open themselves up. Both in terms of allowing in other subjects and other narratives, as well as restructuring the museum itself and its relationship with&nbsp;the viewers. Calling for&nbsp;decolonization, Mirzoeff pleads for&nbsp;a&nbsp;museum where Native and African Americans would feel at home, but&nbsp;also for&nbsp;a&nbsp;society that&nbsp;would treat all of them equally. The challenge of dehegemonization also applies to museums in Poland.</p> <p>This issue was not originally planned as an anniversary one, but&nbsp;when the first call for&nbsp;papers was announced, most of the submissions we received were critical essays, questioning established methods of presenting and displaying heritage. Just before&nbsp;the issue goes to print, Poland will celebrate the centennial of its independence—with the exhibitionary framework for&nbsp;the celebrations bookended by two National Museum exhibitions: last year’s <a href="http://mnk.pl/exhibitions/heritage"><em>#heritage</em></a>, held at the Krakow branch, and this&nbsp;year’s <a href="http://www.mnw.art.pl/en/temporary-exhibitions/shouting-poland-independence-1918,35.html"><em>Shouting: Poland!</em></a>, held in Warsaw. Thus, museums have long been both embedded in the debate on the politics of memory and critical art, as well as being pawns in the culture wars. We are more interested, however, in how museums examine their own selves and engage in what Judith Mastai described in her essay <em>Performing the Museum </em>as “performing a&nbsp;continually emerging institutional subjectivity,” while constantly redefining the position of the audience as well as the meaning and the role of the exhibited objects themselves.</p> <p>In <b>Close-Up</b>, Mirzoeff’s essay is accompanied by two other texts exploring the same subject—Tomasz Załuski offers up the concept of the museum as a&nbsp;critical instrument, developed nearly a&nbsp;century ago by Władysław Strzemiński, while Kuba Szreder examines contemporary museum practices, seeking new forms for&nbsp;operating and collaborating within&nbsp;a&nbsp;realm of art that&nbsp;abandons autonomy in favor of utility. In the processes discussed therein, artistic efforts and institutions support and facilitate democratizing processes insofar as they reveal the self-reflexive and self-regenerative capabilities of art. The subject has already been tentatively broached in essays by <a href="http://pismowidok.org/index.php/one/article/view/542/1090">Aleksandra Janus</a> and <a href="http://pismowidok.org/index.php/one/article/view/496/1073">Marta Rakoczy</a> on museum exhibitions aimed at children, both of which were published in the previous issue of <em>Widok </em>(no. 19).</p> <p>The dehegemonization process was also set in motion in Poland. In <b>Viewpoint</b>, we feature examples of possible approaches to demusealization. Jacek Świdziński and Magdalena Komornicka use the comic strip medium to critically examine the problematic relationship between&nbsp;the audience and their needs and the classic, “national” art gallery. With&nbsp;help from&nbsp;Karol Radziszewski, Magda Szcześniak offers a&nbsp;look at last year’s POMADA Festival and its efforts to queer heritage—both its dominant themes as well as the concept itself. The issue also features a&nbsp;look at Jaśmina Wojcik’s latest project, developed jointly with&nbsp;a&nbsp;host of collaborators. The <em>Ursus Tractor Works Symphony</em>, produced together with&nbsp;Ursus locals, all of whom were former employees of the tractor plant, is an attempt to reclaim the identity of a&nbsp;specific place and its denizens’ sense of belonging.</p> <p>These efforts reveal a&nbsp;potential to improve the visibility of other class and minority identitiesspecifically here: non-heteronormative and worker identities, respectively, but&nbsp;the same applies to female, peasant, Ukrainian, Jewish, and other identities. This&nbsp;year (and before&nbsp;that as well) we witnessed a&nbsp;number of similarly-themed events. November saw the conclusion of <a href="http://muzeumpragi.pl/wystawa/krem-czekolada-wystawa-wokol-wspomnien-pracownic-fabryk-wedla-polleny-uroda/"><em>Krem i&nbsp;czekolada</em></a> [<em>Cream and Chocolate</em>], an exhibition held at the Museum of Warsaw that&nbsp;centered around&nbsp;the memories of the female staff members of the Wedel chocolate factory and the Pollena-Uroda cosmetics plant. Before&nbsp;that, there was the <a href="http://krytykapolityczna.pl/multimedia/fabryka-sensow-osobistych-fso-2017/">Fabryka Sensów Osobistych</a> (<em>Factory of Personal Meanings</em>; the Polish title is a&nbsp;play on the initialism FSO, for&nbsp;Fabryka Samochodów Osobowych, the state-owned car manufacturer). Warsaw has just played host to another edition of <a href="https://www.pomadapomada.pl/">Pomada</a>, while women across&nbsp;the country, with&nbsp;support from&nbsp;a&nbsp;variety of women’s organizations, have been celebrating the centennial of women’s suffrage. The Museum of Modern Art in Warsaw is currently holding an exhibition called <a href="https://artmuseum.pl/pl/wystawy/niepodlegle"><em>Niepodległe. Women, Independence and National Discourse</em></a>, which explores the incredibly rich subject of women warriors, within&nbsp;and beyond&nbsp;the narrow scope of Polish history. The legacy of the avant-garde movement has also been the subject of comprehensive reflection in a&nbsp;number of exhibitions held at museums across&nbsp;the country—from the Museum of Art in Łódź to the <em>Seven Songs of the Avant-Garde</em> at the Warsaw Commune.</p> <p>These themes are further explored in <b>Perspectives</b>, given over&nbsp;completely to curators and artists/curators. Łukasz Ronduda and Tomasz Szerszeń examine the core concept of <em>What Is Enlightenment</em> (Museum of Modern Art in Warsaw), while Joanna Sokołowska elaborates on the feminist exhibition <em>All Men Become Sisters</em>. This&nbsp;section also features a&nbsp;discussion of Marek Sobczyk’s <em>“museum” in quotation marks</em> (Zachęta–National Gallery of Art) and a&nbsp;conversation about&nbsp;the Krakow-based Curator’s Collective. Roma Sendyka, a&nbsp;co-founder of the project, tells us about&nbsp;hacking the museum and pushing the boundaries of the Academy—offering an immediate and direct reply to Mirzoeff’s aforementioned call to decolonize the museum and open up theory.</p> <p>The authors writing in the <b>Panorama</b> section circle back to history. The section opens with&nbsp;Susan Buck-Morss’ re-reading of Walter Benjamin’s <em>The Work of Art in the Age of Its Technological Reproducibility</em>. Instead of exploring the aura of artworks, the author focuses on an oft-ignored theme in the text—the aestheticization of politics and the close relationship between&nbsp;aesthetics and fascism. Using Benjamin and Bertolt Brecht, Marta Maliszewska reads Ernst Friedrich’s <em>War Against&nbsp;War</em>. Ernst van Alphen reflects on the concept of the archive, this&nbsp;time in the context of the Ringelblum Archive and the permanent exhibition at the Jewish Historical Institute in Warsaw, while Agata Zborowska ventures out into&nbsp;the so-called Recovered Territories and attempts to read their histories through&nbsp;the lens of desires and objects left behind&nbsp;by ethnic Germans who inhabited the lands until&nbsp;their expulsion in 1945.</p> <p>In <b>Snapshots</b>, we visit the Emigration Museum in Gdynia with&nbsp;commentary from&nbsp;Małgorzata Litwinowicz-Droździel, and the Museum of Warsaw—with Maria Wiśniewska and Agata Zborowska reviewing the two iterations of its core exhibition, <em>The Things of Warsaw</em>.</p> <p>We hope you enjoy the issue!</p> <p><em>The Editorial Board</em></p> <p></p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/20-2018-demusealization/demusealisation" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

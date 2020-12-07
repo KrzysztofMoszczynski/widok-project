@@ -1,0 +1,59 @@
+$jumb2issueCircleSmallSize: 75px;
+$jumb2issueCircleSmallVisibleSize: 75px;
+$jumb2issueCircleBigSize: 117px;
+$jumb2issueCircleBigVisibleSize: 117px;
+
+.c-jump2issue {
+  position: absolute;
+  z-index: 900;
+  bottom: -37px;
+  left: 50%;
+  margin-left: -37px;
+  width : $jumb2issueCircleSmallSize;
+  height: $jumb2issueCircleSmallVisibleSize;
+  overflow: hidden;
+  
+  &:hover,
+  &:focus,
+  &:active {
+    transform: scale(1.2);
+  }
+  
+  @media (min-width: $breakpoint_sm) {
+    bottom: -45px;
+    margin-left: -58px;
+    width : $jumb2issueCircleBigSize;
+    height: $jumb2issueCircleBigVisibleSize;
+  }
+  
+  &__circle {
+    display: block;
+    width : $jumb2issueCircleSmallSize;
+    height: $jumb2issueCircleSmallSize;
+    border-radius: 50%;
+    padding-top: 7px;
+    background-color: $color_primary;
+
+    @media (min-width: $breakpoint_sm) {
+      padding-top: 20px;
+      width : $jumb2issueCircleBigSize;
+      height: $jumb2issueCircleBigSize;
+    }
+    
+    &:before {
+      display: block;
+      content: '';
+      margin: 0 auto;
+      width: 15px;
+      height: 24px;
+      background-image: url('../img/strzalka_dluga.svg');
+      background-position: center bottom;
+      background-repeat: no-repeat;
+
+      @media (min-width: $breakpoint_sm) {
+        height: 42px;
+      }
+      
+    }
+  }
+}

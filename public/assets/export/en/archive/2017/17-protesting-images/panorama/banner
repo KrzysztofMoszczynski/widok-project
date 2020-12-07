@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Banner | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/banner">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Banner | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Banner | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/banner">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Banner | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #e8733d !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #e8733d !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #e8733d !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #e8733d !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #e8733d !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #e8733d !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #e8733d !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #e8733d !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(232,115,61,0.8) !important; */
+			/* background-color:#e8733d !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(232,115,61,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#e8733d !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(232,115,61,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#e8733d; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(232,115,61,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(232,115,61,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#e8733d !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#e8733d !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#e8733d !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-695 parent-id-674">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="668" data-selected-issue-color="#e8733d" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2017/protest-obrazow#toc">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2017/protest-obrazow/banner">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/17-protesting-images#toc">17</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/banner?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Banner</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/banner?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Authors: 
+		<a href="/en/bio?id=309">Magda Szcześniak</a>, <a href="/en/bio?id=318">Łukasz Zaremba</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Arthur Barys 
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>“How could we forget that&nbsp;wooden coffin that&nbsp;flowed through&nbsp;the streets of Lwów not long ago, amid&nbsp;whistling bullets and the groans of the wounded and dying? It was no longer a&nbsp;coffin, but&nbsp;a&nbsp;<em>wooden banner</em> soaked with&nbsp;the freshly-spilled blood of workers.”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> This&nbsp;lofty, poetic description penned by Władysław Broniewski depicts a&nbsp;key moment in the pre-World War II history of labor strikes: the funeral of a&nbsp;protester killed by the police. His coffin becomes a&nbsp;bloodied banner, and he is accompanied on his final journey by a&nbsp;flood of protesters and violent riots. This&nbsp;event sparked even greater protests in the spring of 1936. The demonstrations served as an inspiration for&nbsp;Henryk Streng’s painting <em>Barykada</em> (Barricade), likely destroyed by the artist himself during&nbsp;the war. The picture (which the artist repainted in a&nbsp;socialist realist style in the 1950s under&nbsp;a&nbsp;new name, Marek Włodarski) was one of a&nbsp;series of political canvases created by Streng, a&nbsp;painter associated with&nbsp;the Lviv art group Artes. The artworks testify to the Polish surrealists’ support of the labor movement—a sympathy they expressed in a&nbsp;painterly style that&nbsp;remained at odds with&nbsp;much of the experimental work of other avant-garde artists. In a&nbsp;paradoxical turn, the surrealists made a&nbsp;“shift towards&nbsp;reality and direct depiction,” towards&nbsp;socially-conscious realism.<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/banner/514-6590-1-pb-1920x-0be.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/banner/514-6590-1-pb-330x-928.jpg 330w,assets/cache/images/issues/2017/17/banner/514-6590-1-pb-660x-86d.jpg 660w,assets/cache/images/issues/2017/17/banner/514-6590-1-pb-768x-8cd.jpg 768w,assets/cache/images/issues/2017/17/banner/514-6590-1-pb-1320x-c14.jpg 1320w" src="assets/cache/images/issues/2017/17/banner/514-6590-1-pb-660x-86d.jpg" alt="" ></a>    <figcaption><p>Henryk Streng (Marek Włodarski), <em>Picture Demonstration</em>, 1933, courtesy of Muzeum Sztuki in Łódź.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Among the most interesting artistic manifestations of this&nbsp;change is the oil painting <em>Demonstracja obrazów</em> (<em>Picture </em><em>Demonstration</em>), which Streng most likely painted in 1933. The composition is defined by three men depicted in varying planes: in the background we see a&nbsp;man holding a&nbsp;megaphone; in front of him, in the middle and foreground, march the other two, holding up pictures as if they were bloody placards or posters with&nbsp;radical slogans. The pictures appear to be framed oil paintings. The <em>mise en abyme</em> effect is compounded by the composition of the painting, which, as Andrzej Turowski observes, gives the impression of having been “cropped out of reality”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>: we are given a&nbsp;severely limited view of a&nbsp;demonstration whose size and force remain unknown. Stanisław Czekalski adds: “The use of stark lighting to accentuate the figures resembles a&nbsp;technique used in photography; in a&nbsp;way, the juxtaposition of pictures within&nbsp;a&nbsp;picture accomplishes the goal of ‘factomontage.’”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> But&nbsp;what is the purpose of this&nbsp;realistic effect, these editing techniques borrowed from&nbsp;cinema and photography? To what end is the documentary and propaganda power of the image/images? And what is actually going on in <em>Picture </em><em>Demonstrationt</em>?</p> <p>“We don’t know where this&nbsp;protest is being held or why, or what the images carried by the figures are intended to mean,”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> writes Katarzyna Nowakowska-Sito in a&nbsp;discussion of a&nbsp;different episode in the history of the art milieu of interwar Poland, namely the boycott of the Kraków Society of Friends of Fine Arts, during&nbsp;which members and associates of the Artes group removed about&nbsp;forty paintings from&nbsp;the society’s “salon” and transported them to the Dom Artystów Plastyków (“House of Visual Artists”) art gallery.<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> The event was photographed and subsequently covered in the press, but&nbsp;certain details of the incident differ from&nbsp;the scene depicted in <em>Picture </em><em>Demonstration</em>, and the canvas would have had to been painted a&nbsp;year later for&nbsp;us to draw an association between&nbsp;the two. Nevertheless, it doesn’t seem entirely unfeasible that&nbsp;some connection existed between&nbsp;the picture and the event (perhaps the 1933 painting inspired the 1934 raid of the art gallery), and it certainly illustrates the interesting way in which the personal stories and worldviews of artists intertwine. Nowakowska-Sito also points out a&nbsp;significant detail in Streng’s painting: the left-hand picture most likely depicts a&nbsp;fallen sailor in a&nbsp;pool of blood, a&nbsp;motif that&nbsp;resembles certain scenes from&nbsp;the film <em>Battleship Potemkin</em>, which the members of Artes were fascinated with.</p> <p>Despite the interpretative difficulties encountered here, there remains the inevitable question of whether it is possible to create something that&nbsp;resembles a&nbsp;banner or placard, and what role artists can play in the creation of a&nbsp;strong propaganda image, images which evoke and channel emotions, draw people together and drive them to take action.</p> <h2>Red banners</h2> <p>Modern Polish culture has many images of this&nbsp;sort, including the <em>Fallen Five</em> from&nbsp;1863<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> which also happens to take the form of a&nbsp;collage (tableau), and uses photographic relics to depict killed protesters in a&nbsp;sort of national and sacred photomontage. Setting aside the question of its artistic merit, powerful, community-centered imagery of this&nbsp;type usually serves the purpose of building a&nbsp;national and religious community (typically a&nbsp;nation rather than&nbsp;a&nbsp;people), and in many instances this&nbsp;goal is pursued using images of graves and heroes, often the fallen and the defeated (though they may have achieved a&nbsp;moral victory). Iconography associated with&nbsp;such nationalistic communities and their enforcement of homogeneity and universality finds its obverse counterpart in the aggressive imagery that&nbsp;stigmatizes and excludes others as a&nbsp;means of reinforcing the supposed unity of the group. <em>Picture </em><em>Demonstration</em> is an image starkly redrawing the axes of the conflict and proposing new lines of identification. It could thus be called a&nbsp;banner-image. The <em>Battleship Potemkin</em>-themed picture within&nbsp;Streng’s painting reminds us of the possibility of creating an international artistic front in the class war (among other struggles). The community fostered by such a&nbsp;banner-image may be an imagined community, but&nbsp;it is one that&nbsp;is also bound by shared circumstances: shared financial conditions, social status, agency and political representation, none of which are generally characteristic of national communities. Banner-images are therefore the totems of the weak; they are a&nbsp;means of identification and resistance.</p> <p>Attempts to construct a&nbsp;visual language of this&nbsp;type in the Polish context have of course been made by various avant-garde artists, who defined their role in society or even their relationship with&nbsp;the working class in varying terms, but&nbsp;consistently emphasized the urgency of a&nbsp;strong coupling of artistic exploration, creative experimentation, and the forging of a&nbsp;new society or the reformation of civilization and culture.<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup> The practical implementation of these ideas involved such pursuits as educational work and propaganda, carried out via&nbsp;popular genres such as posters, manifestos and periodicals, as well as through&nbsp;broader projects such as “functional print.”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> Though the socialist-realist doctrine imposed following&nbsp;World War II was officially dissociated from&nbsp;the prevailing artistic trends of the interwar period, many of the goals and convictions of the avant-garde—particularly the belief in the agency of art and the importance of reaching a&nbsp;wide audience—helped socialist realism take root among&nbsp;Polish artists. As Wojciech Włodarczyk observes, “while [artists] at the time rejected the formal Soviet blueprint for&nbsp;the genre, as they did before&nbsp;the war, they did not deny the validity of many of the tenets associated with&nbsp;this style, including its emphasis on the popular nature of art, its clarity, its modern themes, etc.”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup> Though socialist realism was an attempt to formulate a&nbsp;comprehensible visual language that&nbsp;would compensate for&nbsp;the underrepresentation of social classes and groups lacking their own visual depictions (mostly peasants and workers of both sexes) or political representation, the fundamental goal of the new movement’s ideologues was to create a&nbsp;form of representation that&nbsp;would design, rather than&nbsp;document, reality; one that&nbsp;would create a&nbsp;community, rather than&nbsp;depict communities that&nbsp;had hitherto been undepicted or depicted in a&nbsp;top-down and unjust manner. One of the core categories of the socialist-realist doctrine was the “type” (in contrast to the “schema”), which enabled a&nbsp;dissociation between&nbsp;social reality and its depictions. Reduplicated in socialist-realist novels, paintings, newsreels and posters, these “types” directly corresponded to specific ideological models. Despite&nbsp;the unquestionable potential that&nbsp;lay in the practical realization of socialist-realist art, it remained above&nbsp;all an imposed doctrine, one used to discredit the actual needs and demands of the post-war working class. As Padraic Kenney shows in his book <em>Rebuilding Poland: Workers and Communists, 1945-1950</em>, the first years following&nbsp;World War II were marked by conflict between&nbsp;workers and the new government over&nbsp;the authorities’ rapid takeover of positions previously occupied by factory owners—that is, capitalists.<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup> The upgrade in symbolic status—expressed through&nbsp;greater visibility or sheer domination of workers and peasants in depictions in various media—did not translate into&nbsp;a&nbsp;commensurate increase in political power in the post-war period. Pictures that&nbsp;circulate in the public sphere certainly have the power to create identities, but&nbsp;they do not build political agency: they do not express the demands of these groups or depict the challenges with&nbsp;which their lives are beset. Over&nbsp;time, socialist-realist formulas and their derivatives devolved into&nbsp;little more than&nbsp;empty slogans and architectural props, while film and the visual arts in particular turned their backs on the working class, directing their message instead to the intelligentsia and urban dwellers.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/banner/514-6582-1-pb-1920x-077.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/banner/514-6582-1-pb-330x-840.jpg 330w,assets/cache/images/issues/2017/17/banner/514-6582-1-pb-660x-41f.jpg 660w,assets/cache/images/issues/2017/17/banner/514-6582-1-pb-768x-37a.jpg 768w,assets/cache/images/issues/2017/17/banner/514-6582-1-pb-1320x-665.jpg 1320w" src="assets/cache/images/issues/2017/17/banner/514-6582-1-pb-660x-41f.jpg" alt="" ></a>    <figcaption><p>M. Lewandowski, <em>First of May poster</em>, 1981. European Solidarity Center collection.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>A visual vocabulary centered on the working class reemerges under&nbsp;circumstances which, from&nbsp;today’s perspective—when the twilight of the Polish People’s Republic is depicted as a&nbsp;moment of concerted national effort in the struggle for&nbsp;freedom—may seem somewhat surprising: the Solidarity movement. This&nbsp;topic should be prefaced with&nbsp;the observation that&nbsp;the authorities of the PPR and the opposition both waged their conflicts and campaigns in the realm of the word: through&nbsp;manipulation (e.g., through&nbsp;newspeak, discussed by Michał Głowiński) and by fighting for&nbsp;freedom of speech (through underground publishing). The linguistic aspect of the Solidarity movement has also been studied by scholars. In her contemporaneous accounts of the strikes of August 1980, Jadwiga Staniszkis analyzes the “evolution of [the movement’s] semantic forms” and the process by which the striking workers acquired the competence necessary to negotiate with&nbsp;the authorities.<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup> Meanwhile, in his modern-day reinterpretation of Solidarity as a&nbsp;“communist event,” Jan Sowa examines the way in which the movement hijacked Marxist rhetoric, reimbuing words and phrases with&nbsp;the meanings that&nbsp;had been stripped from&nbsp;them by the authorities.<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup> The striking workers of the Gdańsk Shipyard alluded to class solidarity and other values, emphasizing the alienation of workers and demanding that&nbsp;employees be granted control over&nbsp;the means of production. Sowa’s analysis of images produced by the Solidarity—fliers, posters, various printed material, postage stamps, and slogans written on walls—confirms his claim while demonstrating that&nbsp;this popular movement also required a&nbsp;popular, multimedia vocabulary. If Solidarity was to transform itself into&nbsp;a&nbsp;veritable people’s force, it would have to operate at more levels than&nbsp;just that&nbsp;of the word (as it did in the initially-legal weekly <em>Tygodnik Solidarność</em>, later banned). The movement needed its own banners: terse, emotional, powerful images that&nbsp;evoked the values and ideals for&nbsp;which it stood.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/banner/514-6584-1-pb-1920x-0fb.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/banner/514-6584-1-pb-330x-167.jpg 330w,assets/cache/images/issues/2017/17/banner/514-6584-1-pb-660x-dd3.jpg 660w,assets/cache/images/issues/2017/17/banner/514-6584-1-pb-768x-ea5.jpg 768w,assets/cache/images/issues/2017/17/banner/514-6584-1-pb-1320x-7e0.jpg 1320w" src="assets/cache/images/issues/2017/17/banner/514-6584-1-pb-660x-dd3.jpg" alt="" ></a>    <figcaption><p>Author unknown, poster, 1980. European Solidarity Center collection.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Alongside references to religious and national imagery, a&nbsp;study of Solidarity’s visual communiqués reveals the movement’s attempts to formulate a&nbsp;class-based language. A&nbsp;1981 Mayday poster features the slogan “A Celebration of Worker Solidarity” emblazoned on a&nbsp;red background below&nbsp;a&nbsp;white stripe.<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup> The poster depicts the flag of Poland, but&nbsp;the national symbol is complemented by—or even woven from—the imagery of labor: emerging from&nbsp;the bottom red stripe are silhouettes of workers marching arm in arm. The blurring of individual figures into&nbsp;a&nbsp;single-color field is an interesting visual solution that&nbsp;conveys the notion of a&nbsp;crowd united in the name of shared values. A&nbsp;similar technique is employed in other images: in a&nbsp;poster for&nbsp;the 1981 exhibition <em>August Days</em>, in which black hands, held aloft on a&nbsp;white background, are linked by gray stripes, evoking a&nbsp;sense of movement and multitude;<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup> in a&nbsp;poster marking the first anniversary of the August strikes, in which outstretched arms with&nbsp;clenched fists stand in for&nbsp;the i’s in the date “Sierpień ‘80” (August ‘80), which is depicted emerging from&nbsp;rubble;<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup> in a&nbsp;1980 poster featuring a&nbsp;quotation from&nbsp;Bertolt Brecht (“WHAT ARE WE WAITING FOR”) beneath&nbsp;a&nbsp;red-tinted photograph of a&nbsp;dense crowd overlaid with&nbsp;the caption;<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup> and in a&nbsp;poster for&nbsp;the film <em>Workers ‘80</em> with&nbsp;its overlapping black-and-white sketches of the faces of workers (none of whom, unfortunately, are women<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>) beneath&nbsp;a&nbsp;clenched fist, looming over&nbsp;the figures as if to shelter them.<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup> The images used by the Solidarity movement thus explore various ways of depicting the community, using visual techniques that&nbsp;convey the power that&nbsp;comes with&nbsp;a&nbsp;collective presence in the public sphere. At the same time, there is often a&nbsp;clear class profile to this&nbsp;unity: the identity of the working class achieves visibility and agency, and their demands are formulated on their behalf in visual terms (“We stand with&nbsp;the people, the people stand with&nbsp;us, we shipyard workers won’t give in,” announces a&nbsp;slogan painted on a&nbsp;Gdańsk Shipyard wall). Demands of an economic nature appear, for&nbsp;example, on a&nbsp;Solidarity poster depicting a&nbsp;fork with&nbsp;a&nbsp;meat ration stamp impaled on its tines;<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup> other demands were scrawled on the walls of the shipyard during&nbsp;the August strike.<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup> Contrary to popular notions about&nbsp;the movement’s imagery being limited to depictions of the shipyard gate, festooned with&nbsp;holy images, Polish flags and a&nbsp;portrait of John Paul II, a&nbsp;careful analysis of Solidarity’s history reveals the coexistence of religious and labor motifs, and proves that&nbsp;the former certainly weren’t the only images that&nbsp;defined the movement. In fact, even the gate itself bore a&nbsp;certain visual duality: the sacred images appeared, after&nbsp;all, beneath&nbsp;a&nbsp;banner that&nbsp;read: “Workers of the world, unite!”—one which the workers did not remove or deface during&nbsp;the strike, and one whose message Solidarity was implementing at the national level.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/banner/514-6586-1-pb-1920x-0fb.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/banner/514-6586-1-pb-330x-167.jpg 330w,assets/cache/images/issues/2017/17/banner/514-6586-1-pb-660x-dd3.jpg 660w,assets/cache/images/issues/2017/17/banner/514-6586-1-pb-768x-ea5.jpg 768w,assets/cache/images/issues/2017/17/banner/514-6586-1-pb-1320x-7e0.jpg 1320w" src="assets/cache/images/issues/2017/17/banner/514-6586-1-pb-660x-dd3.jpg" alt="" ></a>    <figcaption><p>Author unknown, poster, 1981. European Solidarity Center collection.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>It also appears that&nbsp;while grassroots imagery—disseminated through&nbsp;such media as posters, small-format prints, and slogans written on walls—represented a&nbsp;variety of references and stances, the images that&nbsp;ultimately became representative of the movement and materialized in monumental form (literally and figuratively) alluded to traditional symbols. Even before&nbsp;a&nbsp;monument commemorating the death of shipyard workers in December 1970 was erected, Lech Wałęsa proposed at a&nbsp;gathering in front of the Gdańsk Shipyard in December 1979 that&nbsp;a&nbsp;mound be made of stones brought by participants in the protest,<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup> encouraging them to perform a&nbsp;grassroots gesture that&nbsp;constituted a&nbsp;borderline artistic attempt at the representation of a&nbsp;commons. Another idea that&nbsp;was never carried out involved the recreation of a&nbsp;stirring image from&nbsp;the protest of 1970—a picture captured on camera and later reproduced in Andrzej Wajda’s <em>Man of Iron</em> (1981)—in the winning design for&nbsp;a&nbsp;memorial in Gdynia. Created by Grzegorz Kowalski and Tadeusz Tchórzewski, in cooperation with&nbsp;Maciej Krysiak and Krystyna Zachwatowicz, the sculpture depicted a&nbsp;group of protesters carrying the body of a&nbsp;young man on a&nbsp;door—a makeshift stretcher that&nbsp;became a&nbsp;blood-spattered “wooden banner.”<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup> Another monument ultimately erected in Gdańsk, based on a&nbsp;model proposed during&nbsp;the August strike, assumed the form of three towering crosses, linked and mounted with&nbsp;three anchors, symbolizing “faith, hope and martyrdom.”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup> A&nbsp;product of extraordinary effort on the part of the workers, who built it out of “surplus material” scavenged at the Gdańsk Shipyard and purchased money collected from&nbsp;“Solidarity” members and supporters, the monument makes a&nbsp;direct reference to religious imagery. It also features a&nbsp;rarely-reproduced realistic relief depiction of workers going through&nbsp;their daily activities: working (welding, painting, installing metal plates), eating meals, and protesting. At odds with&nbsp;the monumental form of the memorial, these supplemental artworks are scarcely noticeable to passersby, much less to people viewing the monument from&nbsp;afar; they are imperceptible from&nbsp;the viewing hall of the European Solidarity Centre, which is specifically designed to allow visitors to admire the grand crosses. These sculptures can be interpreted as figures that&nbsp;disrupt the dominant religious theme of Solidarity imagery<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup> and as examples of forgotten icons that&nbsp;once fostered a&nbsp;group memory and identity centered around&nbsp;the values and postulates of the labor movement.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/banner/514-6588-1-pb-1920x-4fb.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/banner/514-6588-1-pb-330x-fb7.jpg 330w,assets/cache/images/issues/2017/17/banner/514-6588-1-pb-660x-a48.jpg 660w,assets/cache/images/issues/2017/17/banner/514-6588-1-pb-768x-0ab.jpg 768w,assets/cache/images/issues/2017/17/banner/514-6588-1-pb-1320x-545.jpg 1320w" src="assets/cache/images/issues/2017/17/banner/514-6588-1-pb-660x-a48.jpg" alt="" ></a>    <figcaption><p>Author unknown, poster, 1981. European Solidarity Center collection.</p></figcaption>   </figure>  </section><section class="u-typo">   <h2>Black banners</h2> <p>It is difficult to estimate how decisive a&nbsp;role the above-mentioned shifts and exclusions in Solidarity’s visual representation played in the process that&nbsp;left the strikes of the 1980s and earlier years stripped of their class aspects. This&nbsp;purge certainly facilitated the mainstream media’s radical critique of all protests by public or private sector workers in the 1990s, as part of a&nbsp;campaign waged in support of the free market. It was then that&nbsp;farmers, shipyard workers, and miners were often shown carrying a&nbsp;different banner, one assembled from&nbsp;toppled metal barricades and flaming tires, which –&nbsp;as portrayed by mainstream media was supposed to represent their struggle to retain the privileges of the previous era and the backwardness of certain groups that&nbsp;were insufficiently mature for&nbsp;the new order (<em>homo sovieticus</em>).<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup> Perhaps the only post-1989 labor protest that&nbsp;received somewhat positive coverage in the media was the “white cap rebellion” by nurses—particularly its most radical element, the “white camp” that&nbsp;emerged spontaneously in 2007 in front of the Chancellery of the Prime Minister of Poland after&nbsp;the government refused to meet with&nbsp;representatives of the nurses and midwives. The “white camp” exposed the urgency of finding new forms of protests such as non-violent occupation, as well as the need for&nbsp;new images and means of identification: a&nbsp;quiet, relentless, low-key protest paired with&nbsp;the white cap, which stood for&nbsp;the value of women’s labor. The protesters employed a&nbsp;complex tactic that&nbsp;involved exploiting the patriarchy’s fear of strong, belligerent women who continued to carry out the traditionally female task of providing care: a&nbsp;nexus that&nbsp;proved difficult for&nbsp;the authorities as well as the media, whose coverage of workers’ rights protests was usually unfavorable.<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup></p> <p>Certain characteristic features of that&nbsp;women’s labor protest returned in what was likely the largest demonstration Poland had seen since&nbsp;1989: the so-called Black Protest on Monday, October 3, 2016, when black-clad protesters gathered in the streets of cities and towns across&nbsp;the country, braving inclement weather in a&nbsp;gesture of defiance against&nbsp;a&nbsp;draft bill that&nbsp;called for&nbsp;further restrictions on abortion. The protests were sparked by an Internet campaign launched by an activist from&nbsp;the Razem Party. The hashtags #czarnyponiedziałek (“Black Monday”) and #czarnyprotest (“Black Protest”), accompanied by blackened social-media profile pictures, were more than&nbsp;just a&nbsp;prelude to the actual, “real-world” demonstrations. The campaign garnered record visibility on Facebook in Poland, enabling the spread of the idea without&nbsp;the help of traditionally-dominant media: radio and television. More importantly, this&nbsp;“picture demonstration” on social media was itself a&nbsp;crucial form of commitment and participation as well as a&nbsp;significant political statement. Though Internet activism is commonly derided as “slacktivism,” a&nbsp;simulated action lacking any potential to effect real change, or simply a&nbsp;narcissistic gesture, for&nbsp;many participants in the protests the mere act of posting a&nbsp;black picture/banner on Facebook and taking a&nbsp;clear stance on the issue in plain view of hundreds of virtual “friends” might have been a&nbsp;much bolder act than&nbsp;attending a&nbsp;protest in a&nbsp;large city in person, more or less anonymously.</p> <p>In her analysis of the avant-garde inventiveness of the Black Protest and the rejection of hierarchy in favor of horizontal structures within&nbsp;its emerging community, Ewa Majewska offers the following&nbsp;observation regarding&nbsp;the campaign’s use of media and visual motifs:</p> <blockquote>The power of #czarnyprotest [stemmed from] from&nbsp;the way in which it combined several highly complex media of representation, art, and social communication—photography, the history of color, social protest, social media, and mass media—into a&nbsp;single hybrid machine which we were not required to fully comprehend or own in order to become a&nbsp;part of it and apply it towards&nbsp;our shared goal. […] Each of us had a&nbsp;comparable sense of agency, because every photo mattered, even if, in the rush of the protest, some only received a&nbsp;few likes while others got a&nbsp;few thousand.<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup></blockquote> <p>The protest employed numerous images and visual tactics. The official poster designed by Ola Jasionowska depicted the silhouette of a&nbsp;woman in profile on a&nbsp;black background, encouraging the viewer to see herself or fellow women in the empty space. This&nbsp;visual framework was reused in subsequent months by women all over&nbsp;the world: modified versions of the poster appeared at protests in such countries as the United States, Paraguay, and Brazil. The image is a&nbsp;general reference to revolutionary depictions of women, from&nbsp;international images (Marianne in Delacroix’s <em>Liberty Leading the People</em>) to local traditions (Nike in the Monument to the Heroes of Warsaw). The Black Protest also borrowed from&nbsp;historical paintings/banners, rewriting (or rather redrawing) them and exploiting the values with&nbsp;which they are associated, while revising national symbols in the spirit of <em>herstory</em>. Examples of such images include copies of Sanja Iveković’s <em>Invisible Women of Solidarity</em> (which replaces Gary Cooper on the famous poster by Tomasz Sarnecki with&nbsp;a&nbsp;black silhouette of a&nbsp;woman) and the <em>Polka Walcząca</em><sup><em><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></em></sup> symbol, in which a&nbsp;pair of women’s breasts stand in for&nbsp;the letter <em>W</em>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/banner/514-6592-1-pb-1920x-0be.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/banner/514-6592-1-pb-330x-928.jpg 330w,assets/cache/images/issues/2017/17/banner/514-6592-1-pb-660x-86d.jpg 660w,assets/cache/images/issues/2017/17/banner/514-6592-1-pb-768x-8cd.jpg 768w,assets/cache/images/issues/2017/17/banner/514-6592-1-pb-1320x-c14.jpg 1320w" src="assets/cache/images/issues/2017/17/banner/514-6592-1-pb-660x-86d.jpg" alt="" ></a>    <figcaption><p>Poster for&nbsp;the Polish Womens Strike, author: Ola Jasionowska.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>A separate group of placards and banners were created independently and spontaneously by protesters: innumerable visual and verbal puns, sarcastic slogans, as well as sharply delivered facts and emphatic expressions of outrage appeared on posters and placards carried by thousands of people. One picture that&nbsp;enjoyed significant popularity was a&nbsp;sketch of a&nbsp;uterus in which one ovary was replaced with&nbsp;a&nbsp;middle finger directed at the viewer. This&nbsp;symbol made direct references to both the demands and the imagery of the pro-life movement, which for&nbsp;decades has used aestheticized photos of fetuses with&nbsp;the mothers cropped out as a&nbsp;way of equating the former with&nbsp;people, while at the same time brandishing gory pictures of purported abortions. Both of these visual tactics remove the mother from&nbsp;the image. While the battle over&nbsp;language in the context of the abortion debate is waged in relation to the concept and locus of “life” (the slogan of the 2016 Manifa demonstration: “Abortion in Defense of Life,” versus&nbsp;“pro-lifers,” i.e., anti-abortion activists), in the visual field the conflict involves inscribing the woman into&nbsp;the dispute, in fact placing her at its very center. The uterus, with&nbsp;its outstretched middle finger, is intended to be a&nbsp;radical reminder that&nbsp;the role which anti-abortion activists would impose on women is not even that&nbsp;of the heroic Polish Mother archetype (whose funeral was staged, in a&nbsp;sense, by the Black Protest)—but that&nbsp;of a&nbsp;baby factory. The image hijacks this&nbsp;unacknowledged premise of the “pro-life” movement and turns it against&nbsp;them in an attempt to regain agency over&nbsp;one’s own reproductive rights.</p> <p>An alternative, accidental symbol of the Black Protest appeared in the form of a&nbsp;black umbrella. Unlike&nbsp;coat hangers—tools and symbols of illegal abortions—that were the centerpieces of earlier protests, the umbrella came to represent the determination and forcefulness with&nbsp;which the demonstrators rejected the new legislation. Amid&nbsp;a&nbsp;sea of rain-soaked umbrellas that&nbsp;swept through&nbsp;Warsaw during&nbsp;the protest, this&nbsp;accessory also became a&nbsp;symbol of a&nbsp;horizontal, non-hierarchical community, much in the same way that&nbsp;the Guy Fawkes mask represented the earlier anti-ACTA protests. It was a&nbsp;critical part of the impact that&nbsp;television and photographic coverage had as it spread across&nbsp;the country and throughout the global information network; the circulation of these images was akin to an extension of the protest march, becoming one of the determinants of its force and effectiveness. The umbrella was consequently chosen as the symbol of the informal movement that&nbsp;had coalesced around&nbsp;the cause of women’s rights, as reflected in the slogan “Nie składamy parasolek” (“Our umbrellas are staying open”).</p> <p>The imagery of the Black Protest, its representation, and the preceding profile picture campaign on social media—all of these visual elements were more than&nbsp;just accessories to the actual protests. On the contrary, they were themselves a&nbsp;means of participating in a&nbsp;social movement. They made demands and conveyed values. This&nbsp;is one of the latest and most powerful examples of the use of images as totems of the weak—to reference older, partially forgotten traditions such as the motif of the peasant’s scythe, the witch-woman figure, and the red banner of the Russian Revolution of 1905—and as the requisite tools for&nbsp;building communities alternative to the unifying, heteronormative community of the nation.<br><br></p> <p><b> A&nbsp;chapter from&nbsp;the book <em>Kultura wizualna w&nbsp;Polsce. </em><em>Spojrzenia </em>[Visual Culture in Poland. Looks], ed. Iwona Kurz, Paulina Kwiatkowska, Magda Szcześniak, Łukasz Zaremba (Fundacja Bęc Zmiana, Instytut Kultury Polskiej UW: Warsaw, 2017). </b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Władysław Broniewski, “Kongres w obronie kultury,” in <em>Materiały i dokumenty na dwudziestolecie lwowskiego Zjazdu Pracowników Kultury</em> (Warsaw: Wydział Historii Partii KC PZPR, 1956), 18. Quoted in Andrzej Turowski, <em>Budowniczowie świata. </em><em>Z dziejów radykalnego modernizmu w polskiej sztuce</em> (Kraków: Universitas, 2010), 306; emphasis added.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Katarzyna Nowakowska-Sito, “Od ‘Demonstracji obrazów’ do ‘Barykady’, czyli o realizmach Marka Włodarskiego,” <em>Biuletyn Historii Sztuki</em> 76, no. 2 (2014).</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Andrzej Turowski, <em>Budowniczowie świata</em>, quoted in Nowakowska-Sito, “Od ‘Demonstracji obrazów’ do ‘Barykady’,” 306.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Stanisław Czekalski, <em>Awangarda i mit racjonalizacji. Fotomontaż polski okresu dwudziestolecia międzywojennego</em> (Poznań: Poznańskie Towarzystwo Przyjaciół, 2000), 153.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Katarzyna Nowakowska-Sito, “Od ‘Demonstracji obrazów’ do ‘Barykady’,” 264.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Ibid., 266–267.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Iwona Kurz, “’The Five Fallen’ as a Meta-image of Polish Culture in the Mid-19th Century,” trans. P. Trompiz, <em>Widok. Teorie i Praktyki Kultury Wizualnej</em> no. 10 (2015), <a href="http://pismowidok.org/index.php/one/article/view/312/633" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/article/view/312/633</a>, accessed August 27, 2016.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> One could here point to the work of Mieczysław Szczuka and Teresa Żarnower, Mieczysław Berman or Władysław Strzemiński.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Paulina Kurc-Maj and Daniel Muzyczuk, eds., <em>Maszyna do komunikacji. Wokół awangardowej idei typografii</em> (Łódź: Muzeum Sztuki, 2015).</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Wojciech Włodarczyk, <em>Socrealizm. Sztuka polska w latach 1950–1954</em> (Paris: Libella, 1984), 64. The author continues: “Artists who—in the spirit of the 1930s—regarded their work as political acts, thought it only natural to continue their earlier pursuits in unmodified form in the 1940s as the most appropriate means of political participation.”</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>Padraic Kenney, <em>Rebuilding Poland: Workers and Communists, 1945–1950</em> (Ithaca, NY: Cornell University Press, 2012).</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Jadwiga Staniszkis, <em>Poland’s Self-Limiting Revolution</em>, ed. J.T. Gross (Princeton, N.J.: Princeton University Press 1984).<em></em></p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>Jan Sowa, “‘Solidarność’ – wydarzenie komunistycznie,” in <em>Inna Rzeczpospolita jest możliwa! </em><em>Widma przeszłości, wizje przyszłości</em> (Warsaw: W.A.B., 2015).</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Collections of the European Solidarity Centre, catalog number ECS/T/ASP/025. This image and the ones cited below are available at <a href="http://www.nowezbiory.ecs.gda.pl" target="_blank" rel="noopener">http://www.nowezbiory.ecs.gda.pl</a> in the section titled “Plakaty.” Accessed August 27, 2016.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>European Solidarity Centre, ECS/T/ASP/147.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>European Solidarity Centre, ECS/T/ASP/174.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>European Solidarity Centre, ECS/T/ASP/093.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>On the subject of the erasure of women from Solidarity’s history and the male-centric nature of the movement, see Shana Penn, <em>Solidarity’s Secret: The Women Who Defeated Communism in Poland</em> (Ann Arbor: The University of Michigan Press, 2008).</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>European Solidarity Centre, ECS/T/ASP/171.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>European Solidarity Centre, ECS/T/ASP/148.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a>“Workers! Eat head cheese and blood sausage. You can’t afford whole cuts of meat”; “[We demand] more products in stores! Export less, sell more locally”; “Pay raises for everyone”; “Maybe better days will come, with more meat and sausage”. See Wojciech Milewski’s photographs in the European Solidarity Centre’s collections.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>Bronislaw Baczko, “Polska czasów Solidarności,” in <em>Wyobrażenia społeczne. Szkice o nadziei i pamięci zbiorowej</em> (Warsaw: Państwowe Wydawnictwo Naukowe, 1994), 199.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a>Irena Grzesiuk-Olszewska recalls that plans to erect the monument were cut short by the imposition of martial law. See Irena Grzesiuk-Olszewska, <em>Polska rzeźba pomnikowa 1945–1995</em> (Warsaw: Neriton, 1995), 163. Other sources mention technical obstacles that ultimately led to the announcement of a new competition. When asked by Jakub Dąbrowski, Grzegorz Kowalski claims that the design was rejected because it did not feature a cross. See Jakub Dąbrowski, <em>Cenzura w sztuce polskiej po 1989 roku</em>, vol. 2, <em>Artyści, sztuka, polityka</em> (Warsaw: Fundacja Kultury Miejsca, 2014), 145. A different monument was erected in Gdynia in 1993: the Monument to the Victims of December 1970, which takes the form of a large cross inscribed with many small crosses.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a>Bronislaw Baczko, “Polska czasów Solidarności,” 198.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a>Sculpting the reliefs required the workers to master new manufacturing techniques. As the co-designer recalls (somewhat condescendingly): “[The workers] were used to casting industrial parts, not sculptures. But Rysiu patiently showed them how it was done, and they stood by and watched. And a few of them got the hang of it.” See the content of the exhibition titled <em>Historia jednego pomnika</em> (The Story of One Monument) in the collections of the European Solidarity Centre, in the section titled “Wystawy czasowe.” Accessed August 27, 2017.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a>Women’s labor protests—such as those held by seamstresses in Łódź and Żyrardów—usually received no coverage in the mainstream media.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a>Julia Kubisa analyzes the nurse movements’ multi-year campaign to defend their rights, explaining the contexts and connotations of the women’s protests and the forms these demonstrations assumed. See Julia Kubisa, <em>Bunt białych czepków. Analiza działalności związkowej pielęgniarek i położnych</em>, (Warsaw: Wydawnictwo Naukowe Scholar, 2014).</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>Ewa Majewska, <em>Tramwaj zwany uznaniem. Feminizm i solidarność po neoliberalizmie</em> (Warsaw: Książka i Prasa, 2017), 31.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Meaning “Fighting Pole,” in the feminine grammatical form. It is a pun on <em>Polska Walcząca</em> (Fighting Poland), the name of the anchor-shaped emblem used by the Polish Home Army during World War II.—Translator’s note.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/banner" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

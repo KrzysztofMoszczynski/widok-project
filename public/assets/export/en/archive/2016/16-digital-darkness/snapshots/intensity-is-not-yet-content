@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>"Intensywność nie jest jeszcze treścią" | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2016/cyfrowe-mroki/intensywnosc-nie-jest-jeszcze-trescia">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="&quot;Intensywność nie jest jeszcze treścią&quot; | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="&quot;Intensywność nie jest jeszcze treścią&quot; | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2016/cyfrowe-mroki/intensywnosc-nie-jest-jeszcze-trescia">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="&quot;Intensywność nie jest jeszcze treścią&quot; | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #c0c0c0 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #c0c0c0 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #c0c0c0 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #c0c0c0 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #c0c0c0 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #c0c0c0 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #c0c0c0 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #c0c0c0 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(192,192,192,0.8) !important; */
+			/* background-color:#c0c0c0 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(192,192,192,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#c0c0c0 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(192,192,192,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#c0c0c0; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(192,192,192,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(192,192,192,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#c0c0c0 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#c0c0c0 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#c0c0c0 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-734 parent-id-732">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="447" data-selected-issue-color="#c0c0c0" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/16-digital-darkness#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/16-digital-darkness/intensity-is-not-yet-content">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2016/cyfrowe-mroki#toc">16</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2016/cyfrowe-mroki/intensywnosc-nie-jest-jeszcze-trescia?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>"Intensywność nie jest jeszcze treścią"</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2016/cyfrowe-mroki/intensywnosc-nie-jest-jeszcze-trescia?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=733">Joanna Lilia Mąkowska</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2><em>Ministerstwo Spraw Wewnętrznych. Intymność jako tekst</em>, kuratorka: Natalia Sielewicz, Muzeum Sztuki Nowoczesnej w&nbsp;Warszawie, 26 stycznia – 2 kwietnia 2017</h2> <p><br><br></p> <h2>Afekty, emocje, uczucia</h2> <blockquote>Wiecie, w&nbsp;Piśmie stoi: »Na początku było Słowo«. Nie! Na&nbsp;początku było uczucie. Słowo przyszło później, żeby zastąpić uczucie, tak jak kłus zastępuje galop, podczas gdy naturalna zasada konia to galop; trzeba go nauczyć kłusować. Wyciągnięto człowieka z&nbsp;uczuciowej poezji, aby go wtłoczyć w&nbsp;dialektykę, czyli brednie, nieprawdaż?<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup></blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/16/intensywnosc/428-6229-1-pb-1920x-3f5.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/16/intensywnosc/428-6229-1-pb-330x-8ec.jpg 330w,assets/cache/images/issues/2016/16/intensywnosc/428-6229-1-pb-660x-ce2.jpg 660w,assets/cache/images/issues/2016/16/intensywnosc/428-6229-1-pb-768x-3c9.jpg 768w,assets/cache/images/issues/2016/16/intensywnosc/428-6229-1-pb-1320x-ee2.jpg 1320w" src="assets/cache/images/issues/2016/16/intensywnosc/428-6229-1-pb-660x-ce2.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Powyższy cytat z&nbsp;<em>vous parle </em>Louisa-Ferdinanda Céline’a posłużył Julii Kristevej za&nbsp;motto do jednej z&nbsp;części eseju <em>Potęga obrzydzenia</em>, w&nbsp;której określiła styl francuskiego pisarza jako „kult głębi”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Zdaniem Kristevej Céline stara się, delikatnie oraz z&nbsp;miłością, „odlepić język od niego samego”, by „zejść do ukrytego wnętrza, ku skrytej autentyczności” i&nbsp;zanurzyć się „w samą intymność rzeczy”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Po&nbsp;zanurzeniu następuje wynurzenie, gdyż Céline pragnie „wydobyć głębię na&nbsp;powierzchnię, emocjonalną tożsamość na&nbsp;poziom znaczący, doświadczenie nerwów i&nbsp;biologii aż&nbsp;na stopień umowy społecznej i&nbsp;komunikacji”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>.</p> <p>Podobne dążenia można zaobserwować u&nbsp;artystów, których prace prezentowane były na&nbsp;wystawie <em>Ministerstwo Spraw Wewnętrznych. Intymność jako Tekst</em>. Jej kuratorka Natalia Sielewicz wyjaśnia, że&nbsp;„twórcy wystawy przyglądają się zwrotowi ku emocjom i&nbsp;osobistemu doświadczeniu we współczesnej kulturze w&nbsp;ostatnich latach: nie tylko w&nbsp;samych pracach artystów, lecz także w&nbsp;dyskursie i&nbsp;języku protestu, w&nbsp;afekcie dostrzegając język krytyczny i&nbsp;nowe narzędzie uprawiania krytyki kultury”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Chociaż zarówno według wspomnianego wcześniej Céline’a, jak i&nbsp;kuratorki to emocje/afekty stanowią punkt wyjścia, warto zacząć od słów. Podczas gdy Céline używa słowa <em>l’emotion</em>, w&nbsp;polskim przekładzie mowa jest o&nbsp;„uczuciu”. Sielewicz odwołuje się z&nbsp;kolei do „afektu”. Nasuwa się zatem pytanie, czy te trzy z&nbsp;pozoru bliskie znaczeniowo pojęcia różnią się od siebie, a&nbsp;jeśli tak, na&nbsp;czym polegają te różnice.</p> <p>W słynnym eseju <em>Autonomia afektu</em>, którego publikację w&nbsp;1996 roku uznaje się za&nbsp;początek „zwrotu afektywnego” w&nbsp;humanistyce, Brian Massumi zauważa, że&nbsp;„pojęcia »afekt« używa się najczęściej w&nbsp;sposób niechlujny jako synonimu »emocji«”, co jest błędem, gdyż afekty i&nbsp;emocje „rządzą się odmienną logiką i&nbsp;należą do innych porządków”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. Massumi utożsamia afekt z&nbsp;poziomem intensywności, który nie jest „uporządkowany semantycznie czy symbolicznie”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. Afekt jest przedwerbalny i&nbsp;silnie zakorzeniony w&nbsp;materialności ciała. Emocje zaś to „subiektywna treść, socjolingwistyczne utrwalenie jakości pewnego doświadczenia, które od tego momentu uważa się za&nbsp;coś osobistego”. Innymi słowy, emocje to „intensywność opanowana i&nbsp;uznana”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Jeszcze inaczej definiuje się uczucia – tym, co różnić ma je od emocji, okazuje się autentyczność: „uczucia są szczere, emocje zaś mogą być udawane, a&nbsp;nawet podrabiane podług obowiązujących kulturowych kodów komunikacji”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>. W&nbsp;szerszym ujęciu „zwrot afektywny”, podobnie jak „zwrot korporalny”, stanowi próbę zdystansowania się od konstruktywizmu społecznego, który automatycznie definiuje afekty, a&nbsp;także ciało, jako konstruowane kulturowo. Chodzi nie tyle o&nbsp;podważenie istoty językowego zapośredniczenia, ile o&nbsp;zwrócenie uwagi na&nbsp;złożony charakter doświadczeń afektywnych bez redukowania ich do tego, co można wydobyć na&nbsp;poziom znaczący<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>.</p> <h2>Intensywność, tekstualność, intymność</h2> <p>Już sam tytuł wystawy – <em>Intymność jako tekst</em> – sugeruje, że&nbsp;w&nbsp;centrum zainteresowania jej twórców znajduje się problem reprezentacji językowej. I&nbsp;choć rzeczywiście dominowało tam dążenie do opanowania afektu poprzez językową czy wizualną ekspresję, znalazło się również miejsce dla ucieleśnionej intensywności, o&nbsp;której pisze Massumi. Mówiąc najogólniej, oglądający mogli zaobserwować różnorodne „przygody ciała i&nbsp;znaków”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>.</p> <p>Za mocną stronę wystawy uznać trzeba skuteczne stworzenie przestrzeni dla poezji. To właśnie w&nbsp;poezji opanowujemy intensywność, ale zarazem głęboko się w&nbsp;nią zanurzamy. Zatem ścierają się w&nbsp;niej dwa porządki: porządek przedwerbalnych afektów oraz wydobytych na&nbsp;poziom znaczący emocji. Podczas gdy Massumi traktuje te porządki jako radykalnie odrębne, Kristeva wprowadza rozróżnienie na&nbsp;dwie, wzajemnie od siebie zależne modalności, ujawniające się w&nbsp;procesie sygnifikacji: semiotyczne oraz symboliczne<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Wymiar semiotyczny ma charakter popędowy, niepoddający się językowej reprezentacji ani regułom syntaktycznym, natomiast symboliczny związane jest ze stabilnym znaczeniem: „stanowi sferę nominacji, składni, denotacji”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Według Kristevej poezja ma swoje źródło w&nbsp;semiotycznej, cielesno-afektywnej przestrzeni, a&nbsp;afekty są transponowane do tkanki tekstu za&nbsp;pomocą rytmu, melodii, dźwięków czy powtórzeń. Język poetycki nie podporządkowuje się regułom syntaktycznym, zaburza poczucie ciągłości i&nbsp;przewidywalności. Podmiot mówiący oscyluje pomiędzy sensem a&nbsp;nonsensem. W&nbsp;poezji wymiar semiotyczny jest na&nbsp;tyle dominujący, że&nbsp;można wręcz mówić o&nbsp;„semiotyzacji symbolicznego”.<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup></p> <p>W tym kontekście spośród zaprezentowanych w&nbsp;Muzeum Sztuki Nowoczesnej dzieł na&nbsp;szczególną uwagę zasługuje instalacja <em>Cold Wave</em>, inspirowana wierszami Barbary Klickiej z&nbsp;tomu <em>Same same</em>. Tam, gdzie rzadko się zagląda – w&nbsp;ciasnej, nieco klaustrofobicznej przestrzeni pod&nbsp;schodami – zrekonstruowany został sanatoryjny pokój. Na&nbsp;wytartym dywanie stoi stary tapczan. Na&nbsp;kaloryferze suszą się „zdrowotne” skarpety. Na&nbsp;krześle w&nbsp;rogu leżą gumowe, jaskrawożółte czepki. Z&nbsp;opisu instalacji wynika, że&nbsp;poetka wielokrotnie przebywała w&nbsp;takich miejscach podczas długotrwałej rehabilitacji. Oglądający są zapraszani do świata jej intymnych doświadczeń. Trzeba położyć się na&nbsp;tapczanie, żeby zauważyć ekran, na&nbsp;którym wyświetlają się zdjęcia zrobione przez Klicką podczas pobytów w&nbsp;domach uzdrowiskowych, pamiętających klimat peerelu. Trzeba założyć słuchawki, żeby usłyszeć spokojny głos poetki czytającej wiersze. Trzeba wsłuchać się w&nbsp;jego ton i&nbsp;rytm, żeby intensywniej poczuć słowa, a&nbsp;także zanurzyć się w&nbsp;tym, co niewyrażalne. Mówiąc o&nbsp;bolesnym doświadczeniu materialności ciała, Klicka „przetacza cielesność do języka”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. Słowo, które najtrafniej oddaje jej stan to angielskie <em>vulnerability</em>, w&nbsp;zasadzie nieprzetłumaczalne na&nbsp;język polski. To stan, w&nbsp;którym wywracamy się wnętrzem na&nbsp;zewnątrz, pozostając w&nbsp;bliskim kontakcie z&nbsp;własną afektywnością i&nbsp;cielesnością. To moment, gdy jesteśmy bezbronni, przez co najbardziej podatni na&nbsp;zranienie. Tak czuć się może pacjent przed wejściem na&nbsp;salę operacyjną. Albo ktoś w&nbsp;żałobie. Albo ktoś, kto decyduje się na&nbsp;wyznanie miłości. Albo kuracjuszka doświadczająca bólu i&nbsp;choroby.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/16/intensywnosc/428-6227-1-pb-1920x-1b3.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/16/intensywnosc/428-6227-1-pb-330x-def.jpg 330w,assets/cache/images/issues/2016/16/intensywnosc/428-6227-1-pb-660x-676.jpg 660w,assets/cache/images/issues/2016/16/intensywnosc/428-6227-1-pb-768x-6f5.jpg 768w,assets/cache/images/issues/2016/16/intensywnosc/428-6227-1-pb-1320x-230.jpg 1320w" src="assets/cache/images/issues/2016/16/intensywnosc/428-6227-1-pb-660x-676.jpg" alt="" ></a>    <figcaption><p>Audrey Wollen, <em>Przedmiotom lub sobie samym</em>, fot. Karol Grygoruk</p></figcaption>   </figure>  </section><section class="u-typo">   <p>O zbliżonym stanie opowiada Audrey Wollen, twórczyni „teorii Smutnej Dziewczyny”<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup> oraz prezentowanego na&nbsp;wystawie wideoeseju <em>Przedmiotom lub sobie samym</em><sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. Jej osobista opowieść o&nbsp;chorobie nowotworowej i&nbsp;inwazyjnej operacji przeplata się z&nbsp;analizą obrazu <em>Wenus z&nbsp;lustrem</em> Velázqueza oraz historią sufrażystki Mary Richardson, która w&nbsp;1914 roku uszkodziła ów obraz, kilkakrotnie uderzając go tasakiem. Richardson zaatakowała symbol kobiecego poddaństwa w&nbsp;akcie protestu przeciwko uwięzieniu Emmeline Pankhurst, jednej z&nbsp;najważniejszych działaczek ruchu sufrażystek. Wiktoriańskie społeczeństwo napiętnowało ją jednak tak, jakby zamordowała kobietę z&nbsp;krwi i&nbsp;kości, uchodzącą w&nbsp;dodatku za&nbsp;najpiękniejszą na&nbsp;świecie. W&nbsp;eseju <em>Widok cudzego cierpienia</em> Susan Sontag pisała, że&nbsp;„apetyt na&nbsp;obrazy przedstawiające ciała umęczone jest prawie tak silny jak na&nbsp;wizerunki ciał nagich”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. Właśnie taki wzmożony apetyt poczuli Brytyjczycy, którzy po&nbsp;okrutnej „zbrodni” zaczęli masowo odwiedzać National Gallery. Pragnęli zobaczyć „zwłoki” pięknej Wenus. Richardson otrzymała nawet przydomek „Mary Rozpruwaczka”.</p> <p>Wollen wyznaje, że&nbsp;utożsamia się zarówno z&nbsp;Rozpruwaczką – z&nbsp;jej nieopanowanym, odczuwanym w&nbsp;trzewiach gniewem – jak i&nbsp;z Wenus, w&nbsp;której rozpoznaje siebie podczas konsylium lekarskiego. Otwarcie opowiada o&nbsp;estetyzacji własnego cierpienia i&nbsp;płynącej z&nbsp;niej przyjemności. Jednak najbliższy jest jej moment spotkania „Rozpruwaczki” i&nbsp;Wenus – chwila, w&nbsp;której ostrze przebija płótno i&nbsp;rani bezbronne ciało. To właśnie w&nbsp;owym cięciu ulokowany jest afekt. Jak bowiem, odwołując się do Massumiego, wyjaśnia Anna Burzyńska, afektem określamy także „nieuchwytne odczucia przepływające między ciałami”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>.</p> <p>Intymną historią dzieli się również Aldona Kopkiewicz, której poemat zatytułowany <em>sierpień</em> można było przeczytać w&nbsp;muzealnej kawiarni. Sposób prezentacji wiersza ponownie wymusza na&nbsp;oglądających uważność. Zamiast szybko przejrzeć książki wystawione na&nbsp;półce, albo rzucić okiem na&nbsp;kilka blurbów, trzeba skupić się na&nbsp;czytaniu. Choć <em>sierpień</em> opowiada o&nbsp;śmierci ojca poetki, nie jest to klasyczna elegia. Uderza spokojne, surowe obrazowanie:</p> <blockquote>najpierw leżysz bo&nbsp;leżysz,</blockquote> <blockquote>potem tylko leżysz –</blockquote> <blockquote>wciąga cię bezwładnie coraz dłuższy sen.</blockquote> <blockquote>dalej pod&nbsp;ziemią także jest leżenie,</blockquote> <blockquote>całkiem już spokojne, znaczy obojętne.</blockquote> <blockquote>tylko ciało i&nbsp;nic: ciało jest ciałem</blockquote> <blockquote>jest ciałem jest ziemią, jak kamień to kamień:</blockquote> <blockquote>parę liter z&nbsp;datą –</blockquote> <blockquote>nazbyt prosty znak.</blockquote> <blockquote>który mówi tylko</blockquote> <blockquote>coś tam jest</blockquote> <blockquote>bo kogoś brak.</blockquote> <blockquote>(…)<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup></blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/16/intensywnosc/428-6231-1-pb-1920x-a7e.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/16/intensywnosc/428-6231-1-pb-330x-d0a.jpg 330w,assets/cache/images/issues/2016/16/intensywnosc/428-6231-1-pb-660x-99a.jpg 660w,assets/cache/images/issues/2016/16/intensywnosc/428-6231-1-pb-768x-146.jpg 768w,assets/cache/images/issues/2016/16/intensywnosc/428-6231-1-pb-1320x-0b2.jpg 1320w" src="assets/cache/images/issues/2016/16/intensywnosc/428-6231-1-pb-660x-99a.jpg" alt="" ></a>    <figcaption><p>Instalacja wiersza Aldony Kopkiewicz, fot. Franciszek Buchner</p></figcaption>   </figure>  </section><section class="u-typo">   <p>W tekście opublikowanym w&nbsp;broszurze towarzyszącej wystawie Kopkiewicz zauważa, że&nbsp;„samo pisanie zaczyna się …. na&nbsp;tratwie – na&nbsp;powierzchni”. Jednak w&nbsp;przypadku poezji trzeba zejść głębiej – poezja „działa naprzód, działa w&nbsp;głąb. Zmienia nawet przeszłość”<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. Znów gdzieś w&nbsp;tle pobrzmiewa Céline i&nbsp;problem wydobywania głębi na&nbsp;powierzchnię, czy też przenoszenia afektu na&nbsp;poziom znaczący. W&nbsp;tym rzecz, że&nbsp;„poetyka telewizji nauczyła nas ćpać intensywne bodźce. I&nbsp;wierzyć samej intensywności”<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>. Bombardowani medialnymi przekazami, powoli tracimy umiejętność czucia: „wielka intensywność prowadzi do przesilenia i&nbsp;odłączenia ciała”<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>. W&nbsp;tej płaskiej, „śmieciowej” przestrzeni poezja traci siłę oddziaływania, ma „mniejszą moc sprawczą niż teledysk diwy”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>.</p> <h2>Tłok, eklektyzm, chaos</h2> <p>Pytanie, co w&nbsp;związku z&nbsp;tym można zrobić. Jednym z&nbsp;rozwiązań jest mozolna praca na&nbsp;rzecz wytwarzania przestrzeni dla poetyckiej głębi. I&nbsp;choć zdaje się, że&nbsp;taki między innymi cel przyświecał autorom wystawy, doszło na&nbsp;niej do pewnego „przesilenia”. Przede wszystkim w&nbsp;<em>Ministerstwie Spraw Wewnętrznych</em> było zbyt tłoczno, żeby mogło być intymnie. Nie do końca jasne są także kryteria wyboru prac tworzących wystawę. Narracja w&nbsp;pierwszej osobie i&nbsp;konfesyjny charakter wypowiedzi to zdecydowanie zbyt ogólne wyjaśnienie. Podczas gdy jedne prace rzeczywiście wchodzą ze sobą w&nbsp;dialog, inne wzajemnie się zagłuszają.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/16/intensywnosc/428-6232-1-pb-1920x-ea0.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/16/intensywnosc/428-6232-1-pb-330x-248.jpg 330w,assets/cache/images/issues/2016/16/intensywnosc/428-6232-1-pb-660x-a30.jpg 660w,assets/cache/images/issues/2016/16/intensywnosc/428-6232-1-pb-768x-3b1.jpg 768w,assets/cache/images/issues/2016/16/intensywnosc/428-6232-1-pb-1320x-e9d.jpg 1320w" src="assets/cache/images/issues/2016/16/intensywnosc/428-6232-1-pb-660x-a30.jpg" alt="" ></a>    <figcaption><p>Lila Reynaud-Dewar, <em>Moja epidemia</em>, fot. Franciszek Buchner</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Na ekranie telewizora wyświetlają się minimalistyczne wiersze Julii Szychowiak z&nbsp;tomu <em>Intro</em>, przeplatane zdjęciami jej autorstwa. Massumi pisze, że&nbsp;„intensywność ucieleśnia się w&nbsp;czysto autonomicznych reakcjach najbardziej bezpośrednio manifestujących się na&nbsp;skórze – na&nbsp;powierzchni ciała, na&nbsp;styku z&nbsp;rzeczami”<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>. Oglądając nasycone treścią instalacje inspirowane poezją Szychowiak, Klickiej, Kopkiewicz czy Góry, można przekonać się na&nbsp;własnej skórze, czym jest afekt. Powyższe instalacje nie współgrają jednak z&nbsp;wieloma innymi dziełami prezentowanymi na&nbsp;wystawie. Odczuwało się to silnie w&nbsp;piwnicy, w&nbsp;obliczu wideoperformansu Steve’a Roggenbucka – poety i&nbsp;vlogera, związanego z&nbsp;amerykańskim nurtem <em>alternative literature</em> i&nbsp;eksperymentalną poezją <em>flarf</em>, generowaną przy pomocy wyszukiwarki Google. Z&nbsp;piwnicy chciało się jak najszybciej wynurzyć: „sama intensywność nie jest jeszcze treścią”<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>. Znacznie więcej mówią te dzieła, które nie krzyczą.</p> <p>Odbiór wystawy zakłócać może również chaos, jaki panuje na&nbsp;pierwszym piętrze. Po&nbsp;prawej instalacja francuskiej artystki-performerki Lili Reynaud-Dewar zatytułowana <em>Moja epidemia</em>, na&nbsp;którą składają się między innymi wyznania osób chorych na&nbsp;AIDS. Po&nbsp;lewej praca Juliena Creuzeta, artysty wizualnego i&nbsp;poety z&nbsp;Martyniki, mówiąca o&nbsp;tożsamości w&nbsp;procesie przemian. Pojawiają się tutaj również wątek technologiczny (kolaże Cécile B. Evans, nawiązujące do historii Elizy – pierwszego bota zdolnego do terapeutycznych rozmów z&nbsp;człowiekiem) oraz miłosny (fragmenty powieści <em>I Love Dick</em> Chris Kraus).</p> <p>Co istotne na&nbsp;wystawie prezentowano prace autorów różnego pochodzenia. Przy takiej różnorodności głosów ważna jest jednak świadomość odmiennego <span class="rozstrzelony">umiejscowienia</span> twórców oraz jego konsekwencji społeczno-politycznych <br>i kulturowych. Chodzi więc o&nbsp;umiejscowienie w&nbsp;szerszym rozumieniu: nie tylko miejsce na&nbsp;mapie, ale również usytuowanie historyczne, tożsamość etniczną/rasową, orientację seksualną, status ekonomiczny czy wiek<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>. „W afekcie dostrzegając narzędzie uprawiania krytyki i&nbsp;kultury”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>, musimy pamiętać, że&nbsp;dyskusje na&nbsp;temat afektywności, autentyczności, czy polityki tożsamości, również są <span class="rozstrzelony">umiejscowione</span>. Pozostają historycznie zakorzenione i&nbsp;charakteryzują się odmienną dynamiką. Dobrze widać to na&nbsp;przykładzie <em>Amerykańskiego wiersza</em> – poetyckiego manifestu, który wygłasza z&nbsp;ekranu Eileen Myles. Zaczyna się on słowami: „[u]rodziłam się w&nbsp;Bostonie w&nbsp;1949 roku…”. Daty i&nbsp;miejsca nie pozostają bez znaczenia. Utwór Myles jest silnie osadzony w&nbsp;północnoamerykańskim kontekście zarówno tematycznie – podejmuje kwestie klasowości, nierówności społecznych i&nbsp;wykluczenia – jak i&nbsp;formalnie, ponieważ stanowi intymne wyznanie w&nbsp;kontrze do tradycji estetycznej Nowej Krytyki, wedle której utwór poetycki to „autonomiczny artefakt słowny”. Myles niuansuje również kwestię polityczności poezji i&nbsp;stara się obalić mit, zgodnie z&nbsp;którym „polityczny”, a&nbsp;zarazem konfesyjny wiersz, był z&nbsp;definicji nieinteresujący pod&nbsp;względem poetyckim. Jak trafnie ujęła to Natalia Sielewicz, „to, co intymne, w&nbsp;istocie staje się formą praktyki artystycznej i&nbsp;narzędziem uprawiania polityki. Polityki, którą się czuje i&nbsp;wyraża”<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/16/intensywnosc/428-6235-1-pb-1920x-e42.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/16/intensywnosc/428-6235-1-pb-330x-c27.jpg 330w,assets/cache/images/issues/2016/16/intensywnosc/428-6235-1-pb-660x-8f5.jpg 660w,assets/cache/images/issues/2016/16/intensywnosc/428-6235-1-pb-768x-e9f.jpg 768w,assets/cache/images/issues/2016/16/intensywnosc/428-6235-1-pb-1320x-c60.jpg 1320w" src="assets/cache/images/issues/2016/16/intensywnosc/428-6235-1-pb-660x-8f5.jpg" alt="" ></a>    <figcaption><p>Prace Cecile B. Evans i&nbsp;Jaakko Pallasvuo, fot. Franciszek Buchner</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Inaczej niż Myles czują i&nbsp;wyrażają politykę przedstawiciele młodszego pokolenia. Nic w&nbsp;tym dziwnego, jeśli weźmie się pod&nbsp;uwagę to, że&nbsp;muszą oni zmierzyć się z&nbsp;dodatkowymi wyzwaniami w&nbsp;porównaniu z&nbsp;tymi, które stały przed artystami podejmującymi kwestię polityki tożsamości kilka dekad temu. W&nbsp;wideoeseju <em>Intensywna terapia/gorący kawałek</em> Hannah Black mieszają się różne głosy: głos samej autorki, strażniczek z&nbsp;więzienia Abu Ghraib, Rihanny i&nbsp;instruktorów z&nbsp;wideoblogów. W&nbsp;opisie czytamy, że&nbsp;w&nbsp;ten sposób artystka zaciera granice między tym, co prywatne, a&nbsp;tym, co polityczne. Co dzisiaj oznacza to sztandarowe hasło radykalnego feminizmu? Czy atrakcyjna forma wystarczy, aby mówić o&nbsp;zacieraniu granic? Black ślizga się po&nbsp;powierzchni, mówi do nas sloganami. Znów nasuwa się cytat z&nbsp;<em>Tratwy </em>Kopkiewicz: „sama intensywność nie jest jeszcze treścią”, a&nbsp;„wielka intensywność prowadzi do przesilenia i&nbsp;odłączenia ciała”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>. Podobny efekt kakofonii osiąga Caspar Heinemann, która w&nbsp;pracy <em>Fragment</em> porusza tak wiele wątków i&nbsp;nawiązuje do tak różnych teorii, że&nbsp;gdzieś po&nbsp;drodze gubi treść.</p> <h2>Afekty i&nbsp;społeczeństwo</h2> <p>Nawiązując do teorii Massumiego, Anna Burzyńska podkreśla, że&nbsp;afekty „stanowią nasze codzienne doświadczenie, najbardziej intymne, odczuwane przez dotyk, ale też najbardziej ogólne, wyznaczające struktury ekonomiczne i&nbsp;społeczne, w&nbsp;których się poruszamy”<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>. Zgodnie z&nbsp;logiką późnego kapitalizmu „[e]mocje podlegają swego rodzaju standaryzacji, stają się przedmiotem transakcji i&nbsp;wymiany. Ciało i&nbsp;zakorzenione w&nbsp;nim afekty ulegają dyscyplinowaniu, zanika naturalność i&nbsp;autentyczność”<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>. Ryszard Koziołek zaznacza z&nbsp;kolei, że&nbsp;język ekonomii stał się swoistym metajęzykiem: „wszystko, co robimy może zostać opisane według zasad działania rynku”, a&nbsp;„[n]ajważniejsze decyzje życiowe podlegają tym samym mechanizmom, co wybór marki kawy pijanej codziennie do śniadania”<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>.</p> <p>W obliczu „ekonomizacji ludzkiego życia na&nbsp;czele z&nbsp;życiem samym”<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup> zwrot ku afektom, emocjom czy uczuciom „zyskuje” na&nbsp;znaczeniu. Pragnienia bezpośredniości nie należy jednak mylić z&nbsp;naiwnym egocentryzmem. Wyznanie nie musi być narcystycznym monologiem, który odciąga nas od problemów współczesnego świata. Żeby zauważyć świat, trzeba najpierw wyjść ze stanu emocjonalnej hibernacji. Żeby autentyczność dalej nie zanikała, trzeba spróbować zbliżyć się do ludzi, a&nbsp;nie jedynie ich awatarów na&nbsp;Instagramie. W&nbsp;tym kontekście warto docenić starania autorów wystawy, bo&nbsp;chociaż w&nbsp;<em>Ministerstwie Spraw Wewnętrznych</em> intensywność nie zawsze koresponduje z&nbsp;treścią, udało się tam zaakcentować znaczenie afektywności i&nbsp;autentyczności w&nbsp;uważnym życiu.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Louis-Ferdinand Céline <em>vous parle</em>, w: Julia Kristeva, <em>Potęga obrzydzenia. Esej o wstręcie</em>, przeł. M. Falski, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2007, s. 175.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Ibidem, s. 176.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Ibidem, s. 175–177.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Ibidem, s. 176.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Natalia Sielewicz, <em>Wstęp </em>do broszury towarzyszącej wystawie <em>Intymność jako tekst</em>, s. 2.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Brian Massumi, <em>Autonomia afektu</em>, przeł. A. Lipszyc, „Teksty Drugie” 2013, nr 6, s. 111–134.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Ibidem, s. 112.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Ibidem, s. 116.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Katarzyna Bojarska. <em>Poczuć myślenie: afektywne procedury historii i krytyki (dziś)</em>, „Teksty Drugie” 2013, nr 6, s. 8–16.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Na nawykowe definiowanie afektów jako konstruktów kulturowych, w imię antyesencjalistycznej polemiki, zwracają uwagę między innymi Eve Kosofsky Sedgwick i Adam Frank. Ich zdaniem „teoria zaczęła znaczyć niemal dokładnie to samo … co stwierdzenie: to nie jest <span class="rozstrzelony">naturalne</span>”. Zob.: <em>Wstyd w czasie cybernetycznej analogii. Czytając Silvana Tomkinsa,</em> przeł. A. Barcz, w: <em>Pamięć i afekty</em>, red. Z. Budrewicz, R. Sendyka, R. Nycz, Wydawnictwo Instytutu Badań Literackich PAN, Warszawa 2014, s. 23-61.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Julia Kristeva, <em>Czarne słońce. Depresja i melancholia, </em>przeł. M.P. Markowski, R. Ryziński, Universitas, Kraków 2007, s. 26.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Do wymiaru semiotycznego należą między innymi charakterystyczny i jednostkowy rytm wypowiedzi, a także barwa oraz ton głosu, które są elementami znaczącymi, choć nie podlegają reprezentacji. To za sprawą semiotycznego, które zakotwiczone jest w żywiole libidalnym, podmiot odczuwa pragnienie mówienia i wytwarzania znaczeń. Właśnie dlatego semiotyczne jest definiowane jako cielesne, dynamiczne i popędowe, podczas gdy symboliczne jest intelektualne, statyczne i związane ze stabilnym znaczeniem. Wzajemna zależność tych dwóch modalności gwarantuje dynamiczną relację pomiędzy językiem a życiem, wytwarzaniem znaczenia a doświadczeniem, ciałem i psychiką. Zob.: Julia Kristeva, <em>Revolution in Poetic Language</em>, University of Columbia Press, New York 1984.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Julia Kristeva, <em>Desire in Language: A Semiotic Approach to Literature and Art</em>, Columbia University Press, New York 1980, s.18.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Julia Kristeva, <em>Revolution...</em>,, s. 67.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Ibidem, s. 24.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Zob.: Zofia Krawiec, <em>Smutne dziewczyny</em>, „Dwutygodnik.com” 2017, nr 203, <a href="http://www.dwutygodnik.com/artykul/6980-smutne-dziewczyny.html" target="_blank" rel="noopener">http://www.dwutygodnik.com/artykul/6980-smutne-dziewczyny.html</a>, dostęp 30 marca 2017.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Zob.: <a href="https://vimeo.com/140638520" target="_blank" rel="noopener">https://vimeo.com/140638520</a>, dostęp 30 marca 2017.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Susan Sontag, <em>Widok cudzego cierpienia</em>, przeł. S. Magala, Wydawnictwo Karakter, Kraków 2016, s. 52.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Anna Burzyńska, <em>Afekt – pożądany i podejrzany</em>, w: <em>Kultura afektu – afekty w kulturze. Humanistyka po zwrocie afektywnym,</em> Wydawnictwo Instytutu Badań Literackich PAN, Warszawa 2015, s. 115–134.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Aldona Kopkiewicz, <em>sierpień</em>, Wydawnictwo Lokator, Kraków 2015, zob. <a href="http://www.dwutygodnik.com/artykul/5959-sierpien-fragmenty.html" target="_blank" rel="noopener">http://www.dwutygodnik.com/artykul/5959-sierpien-fragmenty.html</a>, dostęp 15 marca 2017.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Eadem, <em>Tratwa</em>. Broszura towarzysząca wystawie <em>Intymność jako tekst</em>, s. 4–5.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Ibidem, s. 4.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Ibidem.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Ibidem.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Brian Massumi, <em>Autonomia…</em>, s.113.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Aldona Kopkiewicz, <em>Tratwa</em>…, s. 4.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Zob.: Adrienne Rich, <em>Zapiski w sprawie polityki umiejscowienia, </em>przeł. W. Chańska, „Przegląd Filozoficzno-Literacki” 2003, nr 1 (3), s. 35.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Natalia Sielewicz, <em>Wstęp</em>…., s. 2.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Ibidem.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Aldona Kopkiewicz, <em>Tratwa</em>…, s.4.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Anna Burzyńska, <em>Afekt</em>…, s. 132.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Ibidem, s. 133.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Ryszard Koziołek, <em>Dobrze się myśli literaturą</em>, Wydawnictwo Czarne, Wołowiec 2016, s. 30.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Ibidem, s. 29.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2016/cyfrowe-mroki/intensywnosc-nie-jest-jeszcze-trescia" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

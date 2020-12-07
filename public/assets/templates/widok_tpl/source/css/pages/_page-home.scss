@@ -1,0 +1,8 @@
+body.tpl-3 {  
+  .c-heroholder--fullpage {
+    height: calc(100vh - #{$siteheader_height});
+    @media (min-width: $breakpoint_sm) {
+      height: calc(100vh - #{$siteheader_height_sm});
+    }
+  }
+}

@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>The Capitalist Game. Digital Games and the Construction of Memory | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/11-capitalist-realism.-transformations-of-polish-visual-culture/the-capitalist-game.-digital-games-and-the-construction-of-memory1">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="The Capitalist Game. Digital Games and the Construction of Memory | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="The Capitalist Game. Digital Games and the Construction of Memory | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/11-capitalist-realism.-transformations-of-polish-visual-culture/the-capitalist-game.-digital-games-and-the-construction-of-memory1">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="The Capitalist Game. Digital Games and the Construction of Memory | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #daa520 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #daa520 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #daa520 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #daa520 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #daa520 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #daa520 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #daa520 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #daa520 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(218,165,32,0.8) !important; */
+			/* background-color:#daa520 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(218,165,32,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#daa520 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(218,165,32,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#daa520; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(218,165,32,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(218,165,32,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#daa520 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#daa520 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#daa520 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-985 parent-id-974">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="971" data-selected-issue-color="#daa520" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2015/gra-w-kapitalizm.-prl-konstruowanie-pamieci-i-gry-cyfrowe">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2015/gra-w-kapitalizm.-prl-konstruowanie-pamieci-i-gry-cyfrowe">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/11-capitalist-realism.-transformations-of-polish-visual-culture#toc">11</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/11-capitalist-realism.-transformations-of-polish-visual-culture/the-capitalist-game.-digital-games-and-the-construction-of-memory1?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Playing Capitalism. The Polish People’s Republic, Constructing Memory, and Video Games.</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/11-capitalist-realism.-transformations-of-polish-visual-culture/the-capitalist-game.-digital-games-and-the-construction-of-memory1?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=512">Mirosław Filiciak</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Jan Szelągiewicz
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>On January 16, 2016, the Museum of Technology in Warsaw was host to “Digital Dreamers,” an exhibition exploring the history of Polish video games. The intimate showcase featured a&nbsp;dozen workstations carrying video games developed in Poland over&nbsp;the past&nbsp;30 years; a&nbsp;couple of placards explaining the changes that&nbsp;swept the field from&nbsp;its infancy to current “maturity”; and a&nbsp;glass case holding video game boxes and copies of old Polish video game magazines.</p> <p>Although the rather modest exhibition did not provide a&nbsp;lot of research material, it should be considered a&nbsp;symbolic event, one that&nbsp;is perfectly in line with&nbsp;the budding nostalgia for&nbsp;the humble beginnings of the video game industry in Poland, a&nbsp;phenomenon evidenced at the very least by the spectacular success of the crowdfunding campaign to resurrect (as it turned out, for&nbsp;a&nbsp;very short time) <em>Secret Service</em>, a&nbsp;video game magazine published from&nbsp;1993 to 2001 and the release of <em>Thank You For&nbsp;Playing: Iconic Video Game Magazines</em> (2015, dir. P. Kazimierczak, K. Iwanowicz, P. Olzacki), a&nbsp;documentary devoted to the video game journalism. CD Projekt (a game publisher that&nbsp;in 2002 established CD Projekt Red, the triple-A development studio behind&nbsp;<em>The Witcher</em> series), a&nbsp;patron and sponsor of “Digital Dreamers,” is also part of the story on the current state of the game development industry in Poland. Polish titles enjoy international successes that&nbsp;other local creative industries could only dream of. We should also acknowledge the fact that&nbsp;not only is <em>The Witcher </em>the sole Polish transmedia brand with&nbsp;a&nbsp;global reach, but&nbsp;that it has reached this&nbsp;status by suffusing the title’s individual layers—narrative, visual, and musical—with references to Polish and Slavic cultures and folklore.</p> <p>In his book on the history of the video games and its contemporary interpretations, Raiford Guins indicates that&nbsp;exhibitions devoted to video games usually employ two strategies of legitimization. The first attempts to portray video games as art; the other revolves around&nbsp;the discourse of ingenuity and technological progress.<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a> Guins emphasizes that&nbsp;museums often treat video games as both artifacts and activities (following the broader trend of striving to improve the appeal of exhibitions not directly related to digital technologies by introducing interactive elements) and then posits that&nbsp;games that&nbsp;have been musealized, inserted into&nbsp;the context of archives and exhibitions, demand the reassertion of their status.<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> The Warsaw exhibition suggests a&nbsp;rather unique answer to the status question, especially when compared to answers provided by other similar events: video games are primarily the product of innovative capitalist industry. An industry whose roots, as far as Poland is concerned, reach all the way back to the Polish People’s Republic. The narrative put forward by the Warsaw exhibition revolves not only around&nbsp;games, but&nbsp;also includes the people behind&nbsp;them and the circumstances they had to work in. As written on one of the placards:</p> <blockquote>Although the first games were developed much earlier, the foundations for&nbsp;a&nbsp;professional game development industry were laid in the 1980s. It was an astonishing era. On the one hand, developers faced unfavorable political and economic conditions, on the other, the 80s saw the proliferation of electronics bazaars, the formation of companies involving expatriate Polish capital which outsourced game development jobs to Polish IT workers, and the rise of tech journalism, the latter exemplified by the most important tech publication of the era—<em>Bajtek</em>.</blockquote> <p>The history of the Polish video game industry, therefore, is more than&nbsp;just a&nbsp;tale of technology converging with&nbsp;art. It’s also the story of capitalism in Poland.</p> <p>This essay will investigate how commonly held notions of capitalism were reflected in Polish gaming culture and what kind of visions of capitalism did gaming culture develop and spread. Additionally, a&nbsp;closer look at the roots of Polish video game culture will serve to reveal which elements of its history are nowadays put front and center and which are ignored. I&nbsp;will focus on broadly defined gaming culture, that&nbsp;is not only video games themselves—defined here as cultural texts—but also game-related communication processes, including the development and consumption of video games. We will analyze interrelated elements like&nbsp;the contents of games, development and distribution methods, as well as the discourse that&nbsp;grew around&nbsp;the evolving gamer culture in the tech press and other sources. In light of the above, and given the availability of hardware, the latter a&nbsp;crucial factor dictating the pace at which gaming culture evolved in Poland, I&nbsp;decided to limit my analysis to a&nbsp;specific timeframe: from&nbsp;the mid-80s to the mid-90s.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4750-1-pb-1920x-ffa.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4750-1-pb-330x-fbb.jpg 330w,assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4750-1-pb-660x-d21.jpg 660w,assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4750-1-pb-768x-4a8.jpg 768w,assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4750-1-pb-1320x-052.jpg 1320w" src="assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4750-1-pb-660x-d21.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>In the mid-90s, both the video game industry and the discourse accompanying it entered a&nbsp;period of stabilization and institutionalization. The era also saw magazines covering gaming culture reach their peak circulation—in 1996, <em>Secret Service </em>started printing the words “The biggest selling computer games magazine in Europe” on its cover, in English, no less. Another watershed moment was the passing of the 1994 Copyright Law which significantly improved the position of authorized video game distributors and reinforced the negative societal connotations of “piracy.” The release of games fully localized into&nbsp;Polish, a&nbsp;first for&nbsp;Polish gamers, was another symptom of the market “settling.” Around&nbsp;the same time, the growing popularity of CD-ROM discs and the rapid development of 3D graphics forced game development studios to significantly expand their creative staffs, effectively shutting down&nbsp;the “cottage industry” publishers. A&nbsp;prime example of the video game industry gradually penetrating other sectors of cultural production in Poland would be the development of a&nbsp;game called <em>Łowca</em> [<em>The Hunter</em>], released in 1994 concurrently with&nbsp;a&nbsp;movie of the same title (starring Mateusz Damięcki in the role of a&nbsp;teenaged gamer; rounding out the media convergence practices was a&nbsp;book bundled with&nbsp;the game).</p> <p>The following&nbsp;decade was defined by a&nbsp;turn towards&nbsp;professionalism in development efforts and the first successes of Polish titles on the international market, however it’s the ten years between&nbsp;the mid-80s and the mid-90s that&nbsp;seems the most interesting in terms of weaving narratives about&nbsp;Poland in gaming culture, but&nbsp;primarily in terms of building the narrative—patently visible at the “Digital Dreamers” exhibition—about a&nbsp;new industry, a&nbsp;synonym for&nbsp;modernity and independence. It is also a&nbsp;period whose history, in its current retellings—not only in reference to the video game industry, naturally—is based on oversimplifications. The tropes we see here are fairly similar to those identified by Krzysztof Tomasik, who wrote that&nbsp;thinking in the Polish People’s Republic was thoroughly dominated by nostalgic and martyrologic narratives. However, in the case of the history of video games, a&nbsp;significant shift has to be taken into&nbsp;account: the nostalgia in this&nbsp;particular instance revolves around&nbsp;the longing for&nbsp;8-bit computers and a&nbsp;culture of scarcity, a&nbsp;breeding ground for&nbsp;phenomena that&nbsp;seem more or less exotic from&nbsp;our contemporary perspective, like&nbsp;computer bazaars; whereas the martyrology focuses on the somewhat imaginary economic exploitation of the Poles evident in the high cost of computer equipment relative to the average salary in the late 80s and early 90s.<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a> Furthermore, after&nbsp;the collapse of the Polish People’s Republic brought on the demise of computer hardware manufacturing, the video game industry assumed the mantle of the Polish Silicon Valley, along&nbsp;with its myth of inventors pioneering the future in their garages. However, in this&nbsp;case, the garage would be replaced by the electronics bazaar, again revealing the ambiguity of the foundational divisions of the “digital dreamers” narrative. The founders of CD Projekt and Adam Chmielarz, a&nbsp;key figure in the industry, all peddled pirated copies of copyrighted software at those bazaars. The business career of Paweł Marchewka, founder (and currently the 25<sup>th</sup> richest Pole)<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a> of the Wrocław-based company Techland, a&nbsp;world-renowned game development studio, also began with&nbsp;distribution of unauthorized copies of software—and already in the early 1990s, which again reveals the somewhat tenuous nature of the influence of the “breakthrough” of 1989 on the video game market. These examples demonstrate that&nbsp;contemporarily constructed narratives about&nbsp;the roots of our “export” video game industry—using means like&nbsp;the “Digital Dreamers” exhibition—appear to disregard the seemingly obvious notion that&nbsp;the difference between&nbsp;creating and pirating content as well as between&nbsp;running a&nbsp;legitimate business (at least from&nbsp;the point of view of today’s legal frameworks) and “piracy” was not all that&nbsp;obvious twenty five years ago. Copy protection systems were often cracked by members of the demoscene, a&nbsp;community based around&nbsp;hacker ethics, whose numbers and levels of creative output were disproportionately high in Eastern Bloc states such as Poland and Hungary, in comparison to economically and technologically advanced countries. The people behind&nbsp;the demos “attached” to pirated copies were regulars at the bazaars and at least some of them peddled pirated video games as well.</p> <p>Combining undeniable creativity with&nbsp;copyright infringement is a&nbsp;typical result of the introduction of new technologies to periphery and semi-periphery countries—in his excellent book on “piracy,” Ramon Lobato mentions that&nbsp;in many Asian countries, copying content is seen rather as an indication of entrepreneurial spirit unburdened by strict laws and business regulations. Lobato also brings up a&nbsp;quote by Bob Vallone, owner of a&nbsp;cinema chain in Hong Kong, in which the latter expresses genuine admiration of the pirates speed, flexibility, and technological savvy.<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a> Therefore, reconciling the “outlaw” past&nbsp;with a&nbsp;discourse on “digital dreamers” struggling against&nbsp;the limitations of the Polish People’s Republic seems to be a&nbsp;crucial step in the establishment of a&nbsp;discourse on capitalism within&nbsp;the industry.</p> <h2>Belated Arrival</h2> <blockquote>A professional, well-organized video game industry came into&nbsp;being in 1989, alongside the political and economic changes that&nbsp;transformed the face of Eastern Europe. The industry’s first successful releases were 8-bit games for&nbsp;Atari systems. The lack of competition from&nbsp;studios in the Western world, where Atari computers were already considered antiquated and the immense popularity of the system in Poland allowed Polish studios releasing titles for&nbsp;the domestic market to grow at a&nbsp;breakneck pace.</blockquote> <p>These words were printed on one of the placards hanging in the Museum of Technology. As I&nbsp;already demonstrated, isolating one particular moment and labeling it the definitive turning point in the history of the industry would be problematic and not only because “the first Polish video games were developed much earlier,” but&nbsp;also due to the fact that&nbsp;the foundation for&nbsp;a&nbsp;robust video games industry was laid down&nbsp;already in the Polish People’s Republic.</p> <p>The mid-80s were a&nbsp;very important period for&nbsp;game culture worldwide. In his analysis of the British press, Graeme Kirkpatrick demonstrates how in that&nbsp;particular period video games were divorced—including the creation of specialist titles—from broadly defined computerization and the discourse of technological progress. Kirkpatrick also indicated that&nbsp;the widespread adoption of the category of “gameplay,” of which gamers were supposedly connoisseurs, was an essential part of this&nbsp;process.<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a> Naturally, video games, in the form of coin-operated machines trudged around&nbsp;in makeshift trailers grandiosely called “arcades,” appeared in Poland earlier than&nbsp;that. Moreover, Poles have been playing video games in their homes already in the late 1970s, using a&nbsp;range of simple game consoles collectively called “television games,” some of them manufactured locally (including TVG-10 developed at manufactured at Elwro and later by Ameprod). It was, however, the growing popularity of computers in the mid-80s that&nbsp;paved the way for&nbsp;the entrance of video games into&nbsp;the pop-cultural mainstream of the Polish People’s Republic. It was no accident and I&nbsp;will get back to that&nbsp;in a&nbsp;later section of this&nbsp;paper. At this&nbsp;juncture, I&nbsp;would only like&nbsp;to point out that&nbsp;the ease of copying games was the most important feature of early gaming hardware. PC games were released first on tapes, then on diskettes; console games however, came on cartridges that&nbsp;were very difficult to copy at home.</p> <p>The “domestication,” so to speak, of video games had profound consequences for&nbsp;the culture built around&nbsp;them. Arcades were spaces of a&nbsp;very unusual status, a&nbsp;subject explored in-depth by John Fiske in his essay <em>Video Games: Inverted Pleasures. </em>In the text, the author describes the Australian context, in which—according to a&nbsp;fairly populist version of cultural studies—video games were supposedly a&nbsp;weapon in the struggle of the youth against&nbsp;capitalism. However, another aspect of Fiske’s meditation remains particularly relevant in relation to the context of the Polish People’s Republic: “Another difference of video games is their location in games parlors. Unlike&nbsp;TV, they are not at home; unlike&nbsp;machines, they are not at work. And for&nbsp;the young and subordinate, home and work (together with&nbsp;school) are the places where social control is exercised most nakedly.”<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a> Fiske also emphasizes that&nbsp;the majority of clients in these arcades comprised schoolkids cutting class and the unemployed. In Poland, arcades were frequented by men hailing from&nbsp;a&nbsp;variety of social background, therefore they could be considered very egalitarian meeting spaces. In his column published in <em>Magazyn Rodzinny </em>[<em>Family Magazine</em>] in 1985, Tomasz Orzechowski outlined the somewhat dispirited lives of teenagers living in a&nbsp;small Polish town. Among&nbsp;the few diversions available to them was a&nbsp;game arcade. The students frequenting the arcade knew, however, that&nbsp;they had to be done with&nbsp;their games by 6pm. That’s when, according to Marek, a&nbsp;17-year-old student at a&nbsp;technical college, “the older ones and kids from&nbsp;vocational school start to drop by. They won’t touch anyone inside&nbsp;the venue because the owner forbids it, but&nbsp;it’s different out on the street. They’ll surround you, beat you up, take your money. Our local ruffians, I&nbsp;suppose.”<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> Shifting gameplay towards&nbsp;the home neutralized these perils; simultaneously, it’s fairly easy to infer that&nbsp;this shift also precluded the “older ones and kids from&nbsp;vocational school” from&nbsp;having access to video games.</p> <p>In 1998, computers were present in 2% of Polish households; by 1992, the number grew to 6%, and by 1994 it was already 11%.<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a> It should also be noted that&nbsp;there was a&nbsp;significant disparity in the distribution of computer equipment between&nbsp;the cities and villages—according to the data published by the Central Statistical Office, in 1995 village households were three times less likely to own a&nbsp;computer than&nbsp;urban households.<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a> Naturally, the limited presence of computers stems directly from&nbsp;economic barriers that&nbsp;village households had to struggle with—meticulous records of bazaar prices published by magazines from&nbsp;that era reveal that&nbsp;the cheapest computer you could play on (a used ZX Spectrum that&nbsp;could be outfitted with&nbsp;a&nbsp;simple cassette player) cost around&nbsp;80,000 złoty, while an Atari 800 XL with&nbsp;a&nbsp;tape player usually went for&nbsp;around 110,000 złoty. The average monthly salary at that&nbsp;time was around&nbsp;20,000 złoty. With&nbsp;time, the prices went down—in 1995, an Amiga 600 would set a&nbsp;buyer back only one month’s salary. Simultaneously, the high cost of computer equipment relative to the average salary does not even begin to translate the immense disproportion between&nbsp;the popularity of computers and VCRs. The latter, although around&nbsp;three times more expensive than&nbsp;basic computers in the 1980s (these proportions were reversed in later decades: in the mid-90s, the average VCR cost about&nbsp;the same as a&nbsp;simple gaming PC, sometimes even less), were a&nbsp;much more prevalent element of the Polish household: in 1988, a&nbsp;“wideo” (the popular name for&nbsp;a&nbsp;VCR) was present in 4% of households, while in 1992 the number grew to 31%, and 48% in 1994.<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a></p> <p>Although we lack precise data to support it, we may risk positing a&nbsp;hypothesis that&nbsp;computers became a&nbsp;staple in the more affluent households—home of private company owners and mid- and high-level officials who could compensate for&nbsp;lower earnings with&nbsp;access to institutional resources (my first “at home” contact with&nbsp;computers and games took place over&nbsp;winter break in the home of my neighbor whose mother, a&nbsp;principal at a&nbsp;Krakow school, borrowed a&nbsp;ZX Spectrum for&nbsp;the break from&nbsp;the school’s computer lab). It seems that&nbsp;these households did not lack for&nbsp;non-economic forms of capital: the “elite” character of computers, especially prominent when compared with&nbsp;the popularity of VCRs, probably stemmed from&nbsp;both the aspirations of their owners as well as the competence barriers overcoming which was much more difficult for&nbsp;computers than&nbsp;it was for&nbsp;VCRs. This&nbsp;unequal access to computers coupled with&nbsp;the class-based exclusion it elicited may have also shaped contemporary narratives about&nbsp;the availability of computers in the final years of the Polish People’s Republic — these “extraordinary times,” which probably seem strangest to people who benefited from&nbsp;the transformation the most. The lack of awareness on the part of the video game industry, back then still in its infancy, of its own elite position is well illustrated by a&nbsp;story that&nbsp;was widely covered in the Polish gaming press about&nbsp;five years ago. The story revolved around&nbsp;an unfortunate statement made by Tanya Jesson, a&nbsp;producer on <em>Bulletstorm</em>, a&nbsp;game developed by People Can Fly, a&nbsp;Polish video games studio headed back then by Adrian Chmielarz, and released by the international entertainment giant Electronic Arts. When asked whether <em>Bulletstorm </em>drew inspiration from&nbsp;<em>Duke Nukem</em>, Jesson denied, saying that&nbsp;it’s impossible for&nbsp;Chmielarz to have lived in Poland and known the title because he hadn’t owned a&nbsp;computer yet in the mid-1990s. A&nbsp;cursory look at the timeline of the Polish video game industry will prove the statement false: Chmielarz released his first game — <em>The Secret of the Statue</em> — in early 1993. The response of Polish gamers, including a&nbsp;tweet by Chmielarz himself, were a&nbsp;mixture of harsh irony and wounded national pride.<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a> The outrage, however, was not accompanied by any sort of self-reflection over&nbsp;the fact that&nbsp;regardless of how out of touch Jesson’s statement was, when Chmielarz was working on his debut only 6% of Polish households owned a&nbsp;computer.</p> <p>Let’s get back, however, to the mid-80s and have a&nbsp;closer look at other aspects of the evolution of Polish gaming culture. In 1985, Atari computers arrived in Pewex shops and computer hardware became somewhat available through&nbsp;Scouting Supply Depots. 1985 also saw the release of <em>Bajtek</em>, the first Polish computer magazine and the first to feature reviews of video games –&nbsp;leaving no question as to how they were acquired, given no official distribution channels. Maria B. Garda writes that&nbsp;“the process described [by Kirkpatrick] above&nbsp;was clearly visible also in Poland, but&nbsp;a&nbsp;little bit later because the first Polish magazines devoted entirely to gaming appeared only after&nbsp;the fall of the Soviet Bloc in 1989.”<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a></p> <p>Computers used primarily for&nbsp;gaming reached Polish households accompanied by other devices and appliances imported through&nbsp;official distribution channels but&nbsp;also –&nbsp;or maybe even primarily –&nbsp;under&nbsp;the so-called “private import.” It was then that&nbsp;the television set stopped being the mostly negatively perceived instrument of mass hallucination.<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a> It became a&nbsp;screen, a&nbsp;window to the world, as the sources of imagery transmitted through&nbsp;the TV were decentralized. The process encompassed not only technological sources, like&nbsp;satellite dishes, VCRs computer, but&nbsp;also sources we consider comprising the mythical “West”, as well as grassroots, cottage-industry production –&nbsp;we need to remember that&nbsp;back then games were often developed by individuals or teams made up of no more than&nbsp;several people. In late 1980s Polish gamers were increasingly often playing Polish-made titles. Without&nbsp;delving too deep into&nbsp;factually and methodologically<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a> troublesome discussions about&nbsp;the precedence of one release over&nbsp;the other, I’d like&nbsp;to bring up one particular title –&nbsp;the 1986 game <em>Pandora’s Box</em>. The game is important because it demonstrates how deeply seemingly divergent groups related to gaming culture in the Polish People’s Republic permeated one another –&nbsp;<em>Pandora’s Box </em>was reviewed in <em>Bajtek</em> by… the man who developed it, under&nbsp;a&nbsp;<em>nom de plume</em>.</p> <p>The first titles released commercially in Poland were mostly commissioned by foreign companies run by Polish expatriates. The 1983 Atari game <em>Web Master</em> was one such title. Contrary to contemporary associations, a&nbsp;spider served as its protagonist while the game mechanics were nearly identical to <em>Pac Man</em>. But&nbsp;that’s not the only element of the game that&nbsp;was poached –&nbsp;the soundtrack was lifted from&nbsp;the animated TV series <em>The Strange Adventres of Koziołek Matołek</em>. The game was developed by employees of Elwro on official commission from&nbsp;their erstwhile coworker, Stanisław Marian Hajduk who shipped the necessary hardware and documentation from&nbsp;overseas after&nbsp;emigrating to the US and changing his name to a&nbsp;more homely Stanley M. Hyduke. The title, however, did not find its way into&nbsp;mass distribution, supposedly due to some misgivings of an ethical nature harbored by the religious expat from&nbsp;Podhale; only some years later did one of the game’s authors introduce it into&nbsp;unofficial distribution in Poland. A&nbsp;similar origin story can be found behind&nbsp;Karen, another company founded by a&nbsp;Polish émigré living in the US whose business model was based on cheap IT labor in Communist Poland. Poles working for&nbsp;Karen developed games for&nbsp;Western markets; some of the titles even enjoyed moderate successes.<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a></p> <p>In the early 1980s, the majority of domestically-developed titles (created without&nbsp;foreign capital) were either text adventure games or decision-based games and economy simulations, the latter two riding the coattails of successes of board games patterned after&nbsp;<em>Monopoly</em>, like&nbsp;the 1983 hit <em>Eurobusiness</em>. Many of them referenced the stock market and the mechanisms behind&nbsp;it –&nbsp;Polish citizens considered stock market <em>the</em> symbol of capitalism, a&nbsp;notion only fueled by movies like&nbsp;<em>Wall Street </em>and <em>Trading Places</em> (notably, one of the first foreign TV productions to amass a&nbsp;considerable audience in Poland after&nbsp;1989 was BBC’s <em>Capital City</em>, a&nbsp;series about&nbsp;stockbrokers). Naturally, the technological aspect also drove the choice: for&nbsp;inexperienced programmers, economic simulations were relatively easier to develop than&nbsp;other genres that&nbsp;would require animated graphics and the like. That’s why economy- and decision-based games made up a&nbsp;considerable portion of domestic video game releases.</p> <p>Ease of use and communicating with&nbsp;the players in Polish were definite advantages of these titles. The economic mechanisms featured in the games weren’t all that&nbsp;sophisticated, if only because their developers were not economists themselves and had limited knowledge of the subject. We can, however, glean from&nbsp;these games the popular notions of business and entrepreneurship and compensatory fantasies written into&nbsp;them. Olgierd Niemyjski’s 1986 release <em>Businessman </em>let the player travel across&nbsp;Asia and trade in tobacco, tea, as well as… opium. Some titles, however, like&nbsp;<em>Handel zagraniczny</em> [<em>Foreign Trade</em>], developed and released by Cezary and Wiesława Waśniewski for&nbsp;the ZX Spectrum in 1987, took a&nbsp;more conservative stance on the matter. The game was based around&nbsp;trading resources, including foodstuffs, fossil fuels, lumber, and chemicals, between&nbsp;four fictional countries. The couple also released another game focused on economy which was published on tape by the Krajowa Agencja Wydawnicwa [National Publishing Agency] –&nbsp;<em>Czarny poniedziałek </em>[<em>Black Monday</em>] was a&nbsp;stock-trading game that&nbsp;allowed the player to speculate in stocks of well-known companies. All were basically games of chance, although that&nbsp;was a&nbsp;result of both the simplicity of the algorithms running the game and the limited economic knowledge of the developers. The KAW-published titles clearly demonstrate that&nbsp;aside from&nbsp;getting pirated copies at a&nbsp;host of different bazaars, gamers could legally obtain Polish games through&nbsp;official distribution channels already in the mid-80s. Working with&nbsp;state institutions brought its own set of formal difficulties, but&nbsp;offered a&nbsp;range of new possibilities for&nbsp;entrepreneurs.</p> <p>Let’s take a&nbsp;closer look at <em>Życie maklera </em>[<em>Life of a&nbsp;Stockbroker</em>], published in 1986. The game was originally distributed for&nbsp;Commodore 64 as a&nbsp;printout of a&nbsp;BASIC file consisting of 110 lines of code. The listing was published in 1986 on two pages of Issue no. 2 of <em>IKS (Informatyka –&nbsp;Komputery –&nbsp;Systemy) </em>[<em>ICS </em>(Informatics –&nbsp;Computers –&nbsp;Systems)], a&nbsp;special-feature section of <em>Żołnierz wolności</em> [<em>Soldier of Freedom</em>], the official newspaper of the Polish Armed Forces. Naturally, the game was also peddled by bazaar pirates. The rules of <em>Życie maklera</em> were simple –&nbsp;a&nbsp;screen explaining the setting and the rules of the game appeared after&nbsp;launch: the player, as owner of a&nbsp;couple of mines, has to take advantage of fluctuations of stock market prices to trade ores extracted in the mines (the author failed to specify, however, what sort of ore it was). The objective, obviously, was to make the biggest profit without&nbsp;allowing employment to fall below&nbsp;10 miners per mine. The main game screen displays information about&nbsp;the player’s current holdings (cash, the number of mines and miners employed in them, annual output, supplies, and the miners’ standard of living) and stock market information –&nbsp;current price of ore, mine upkeep, price of foodstuffs for&nbsp;miners, and average salary of a&nbsp;new miner. The displayed values are obviously very removed from&nbsp;reality; we begin the game with&nbsp;around $2,500 and a&nbsp;couple of mines. The decisions are made in an annual cycle –&nbsp;during&nbsp;each turn the player can sell ore, sell mines, employ new miners, and, most interestingly, pay miner salaries. But&nbsp;the decisions have to be made by the “stockbroker” with&nbsp;the game objective in mind, and the objective is to own as many mines as funds and other factors allow.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4752-1-pb-1920x-71a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4752-1-pb-330x-6db.jpg 330w,assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4752-1-pb-660x-bfe.jpg 660w,assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4752-1-pb-768x-d0f.jpg 768w,assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4752-1-pb-1320x-72b.jpg 1320w" src="assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4752-1-pb-660x-bfe.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>The algorithm considers the miner salaries as a&nbsp;burdensome necessity –&nbsp;if the price of food exceeds $100 (we presume that&nbsp;this is the annual upkeep cost), we can pay annual salaries to only a&nbsp;couple dozen miners in a&nbsp;few of the mines. Working a&nbsp;whole year for&nbsp;$2? Well, the miners better have huge savings because as a&nbsp;result their standard of living falls from&nbsp;1 to 0.9, but&nbsp;that’s the only consequence: employment stays the same, as does annual mine output. Only after&nbsp;the miners suffer through&nbsp;a&nbsp;couple of years of meager salaries does the standard of living index fall sufficiently to incite the crews to strike. The game mechanism leaves no doubts as to the nature of capitalism: the key to success lies in big investment, buying cheap, and selling at a&nbsp;premium. People are only a&nbsp;tedious addition, a&nbsp;commodity that&nbsp;is difficult to procure (the cost of employing a&nbsp;new worker is about&nbsp;four times the annual upkeep costs) but&nbsp;after it’s added to the overall pool of resources at our disposal it becomes difficult to discard. Paying miner salaries is a&nbsp;discretionary gesture, not a&nbsp;recurring cost. Naturally, we may surmise that&nbsp;all of these are a&nbsp;result of the necessity to make the codebase of the game as short as possible, but&nbsp;introducing payroll as a&nbsp;recurring cost wouldn’t present much of a&nbsp;challenge to the developers. At the same time, we may ask ourselves –&nbsp;and it’s a&nbsp;question so obvious as to border on the naive –&nbsp;whether this&nbsp;simplistic, reductionist, algorithm-related thinking isn’t just another problem stemming from&nbsp;the realities of contemporary capitalism.</p> <p>The fortunes of the game’s ports to other systems –&nbsp;although the word “port” might be an exaggeration in this&nbsp;case, given the simplicity of the source and the fact that&nbsp;it was written in BASIC, a&nbsp;language whose implementation was fairly similar across&nbsp;all platforms. A&nbsp;port was developed for&nbsp;the ZX Spectrum and an Atari version was released in 1988. Curiously, the author of the latter removed the costs of hiring new employees altogether. The code for&nbsp;the game was reprinted once again in <em>Commodore &amp; Amiga </em>in 1994, eight years after&nbsp;it was first published in<em> Żołnierz wolności</em>. A&nbsp;reader, “Paweł from&nbsp;Gdańsk,” submitted it as his own work, but&nbsp;the only problem the magazine’s editors had with&nbsp;the game is that&nbsp;the plagiarized code contained a&nbsp;spelling error in the word “sprzedaż,” Polish for&nbsp;“sale,” for&nbsp;which they dutifully scolded “Paweł” in an editorial.</p> <p>We should, however, ask ourselves whether a&nbsp;critical reading of games like&nbsp;<em>Życie maklera</em> –&nbsp;by design a&nbsp;simplistic economic simulation –&nbsp;is at all practical. When looking for&nbsp;an answer we should reference the concept of procedural rhetoric developed by Ian Bogost, who indicated that&nbsp;games –&nbsp;even the early, technologically unsophisticated ones –&nbsp;serve as entertainment but&nbsp;also perform an informative and persuasive function. The latter is often ignored because games tend to be considered either aimed mostly at children or trivial cultural texts. Bogost emphasizes that&nbsp;even though if these assumptions turn out to be true on a&nbsp;narrative level, every game features a&nbsp;specific set of rules –&nbsp;the procedural rhetoric, which Bogost defines as “the art of persuasion through&nbsp;rule-based representations and interactions rather than&nbsp;the spoken word, writing, images, or moving pictures.”<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a> Naturally, persuasive elements can be identified even in games whose objective is not explicitly persuasive (like advertising and educational games, or games pushing a&nbsp;clear political agenda). From&nbsp;this perspective, <em>Życie maklera</em> can be considered a&nbsp;manifestation of its author’s opinions and beliefs as well as an instrument through&nbsp;which players can internalize a&nbsp;very specific vision of economics. One additional element is very important here, despite&nbsp;the fact that&nbsp;it complicates our perception of this&nbsp;sort of cultural objects as artifacts. According to Alexander Galloway, in the case of games, that&nbsp;is algorithm-based cultural objects, ideology operates in an almost dialectic way, basing on the tension between&nbsp;concealment and reflection –&nbsp;the player has to reconstruct an algorithm, reveal it, if only to use it for&nbsp;purely utilitarian purposes (“What do I&nbsp;have to do in order to win?”) Effective gameplay requires the player to first uncover and then internalize the logic of the program. “A certain networked relation is at play: software, the social, and the act of interpretation combine in »an intense mimetic thicket« and it is this&nbsp;thicket that, in its own elaboration, can be called the political.”<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a> Still, however: in the Polish context, the appearance of algorithm-based cultural texts overlaps with&nbsp;another momentous upheaval, namely the political transformation, extended over&nbsp;a&nbsp;much longer period. The simplified, enjoyable vision of economics embedded in video games swiftly melded with&nbsp;this vision of a&nbsp;new Polish economy in which brilliant individuals, preferably supported by “imported” technological infrastructure, were bound to be successful.</p> <h2><b>Dreamers Versus&nbsp;the System</b></h2> <p>In her book <em>The Entrepreneurial State. Debunking Public vs. Private Sector Myths</em>, Mariana Mazzucato declares that&nbsp;investing in massive, risky, and innovative research projects and driving the development of new technologies is primarily the domain of nation states. The researcher’s argument uncovers not only the suppressed portions of the neoliberal tale of the inventor-entrepreneur, a&nbsp;myth incredibly prevalent in the IT industry, but&nbsp;also identifies a&nbsp;host of issues related to the redistribution of profits accrued thanks to cutting-edge technologies –&nbsp;if entire societies contributed to the investments, diverting the lion’s share of profits to the symbolic “one percent” seems problematic at best. I&nbsp;am not invoking Mazzucato’s meditations to argue how innovative the economy of the Polish People’s Republic was or to demonstrate that&nbsp;the video game industry was not born in a&nbsp;vacuum, especially seeing that&nbsp;Mazzucato manages to prove, by comparing the innovativeness and effectiveness of the economies of Japan and the Soviet Union, that&nbsp;participation in the market has incredible mobilizing potential.<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a> Aware of the frailty of the analogy between&nbsp;the Polish game development industry and Silicon Valley, the latter most interesting to Mazzucato herself, I’d prefer to demonstrate that&nbsp;the interpretation presented here does not pertain only to the narrative of the birth of Polish capitalism. We should note that&nbsp;even the American incarnation of the game development industry grew the most when neoliberal thought dominated the American political and economic establishments, and many of the mentors and senior figures in the industry there are people below&nbsp;50 years of age.</p> <p>I am aware that&nbsp;although Mazzucato brought up genuine instances of highly developed states supporting the development of new technologies, in the Polish People’s Republic, instead of implementing some sort of systemic solutions, the state rather allowed entrepreneurs to take over&nbsp;and develop certain areas of the economy that&nbsp;it was unable to due to its inefficiencies. Therefore, when searching for&nbsp;particular points of reference, we should bring up a&nbsp;study by Manuel Castells and Pekka Himanen, in which the researchers described the transformations that&nbsp;the Finnish economy underwent after&nbsp;it nearly collapsed as a&nbsp;result of the fall of the Soviet Union. The study identified a&nbsp;couple of factors that&nbsp;helped put the economy back on its feet, including a&nbsp;tradition of improvisation with&nbsp;limited resources, and pointed out analogies between&nbsp;the successes of Nokia and the bottom-up development of the Linux operating system.<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a> Although, as implied in Heikki Patomaki’s prescient criticism,<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a> the rise of social inequalities and partial disassembly of Finland’s welfare system has eventually once again weakened the country’s technology sector, the aforementioned study presents an alternative narrative in which the “<em>status quo ante </em>neoliberalism” is presented not as a&nbsp;problem to be fixed, but&nbsp;rather a&nbsp;precious resource to be cultivated. Similar interpretations with&nbsp;regard to Polish realities, although based on observations of a&nbsp;wholly different sector of the economy, can be found in Elizabeth Dunn’s book.<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a></p> <p>Before the first issue of <em>Top Secret</em>, a&nbsp;magazine focused solely on gaming, was released in 1990, most of its editorial staff worked at <em>Bajtek</em>, the first Polish computer magazine. The cover of the first issue of <em>Bajtek</em>, back then still printed on newsprint in a&nbsp;very limited color palette, features a&nbsp;photo of a&nbsp;child sitting in front of a&nbsp;TV set displaying some sort of computer graphics and giving the reader the thumbs up. The same photo was reused a&nbsp;couple of months later when it turned out that&nbsp;the sales numbers for&nbsp;the magazine outgrew everyone’s expectations (its initial circulation of 50,000 copies tended to run out almost immediately after&nbsp;publication), and the magazine was retooled and re-released in a&nbsp;new format, on better paper, in full color, and with&nbsp;a&nbsp;circulation that&nbsp;quickly rose to 200,000 copies. The covers of subsequent issues seem to prove Kirkpatrick’s postulate about&nbsp;featuring games in computer magazines as a&nbsp;way of encouraging young people to interact with&nbsp;computers in order to prepare them for&nbsp;their future in which they will use the machines for&nbsp;more mature purposes. Usage of specific computer graphics, pictures of computer equipment, as well as the frequent use of cyborg imagery and pictures of schools and young people were supposed to communicate that&nbsp;video games are not just entertainment, but&nbsp;a&nbsp;way to secure a&nbsp;better future. Patryk Wasiak upbraided the editorial staff of <em>Bajtek</em> as well as other circles writing for&nbsp;computer and technology magazines for</p> <blockquote>trying to promote a&nbsp;variety of applications of computer hardware using a&nbsp;unique mixture of Western ideology, “digital utopianism,” and the language of socialist propaganda. Quotes from&nbsp;Alvin Toffler’s <em>The Third Wave</em> were mixed here with&nbsp;statements of Soviet computer scientists hailing the use of computers in industrial management and “social planning.”<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a></blockquote> <p>The sentiment was expressed directly by Aleksander Kwaśniewski in an interview with&nbsp;<em>Bajtek </em>titled “Generacja z&nbsp;komputera” [“The Computer Generation”] (Kwaśniewski has at the time of the interview only assumed the position of Minister for&nbsp;Youth Affairs, and was previously editor-in-chief of <em>The Youth Standard</em>, government-affiliated daily aimed at teens and adolescents). During&nbsp;the very informal interview (the journalists are on a&nbsp;first-name basis with&nbsp;the minister), Kwaśniewski said: “I draw immense satisfaction from&nbsp;all that&nbsp;we’ve done for&nbsp;the advancement of computerization [in Poland — transl. note] <em>Bajtek </em>and similar magazines have my full support. I&nbsp;have no reservation about&nbsp;allocating funds for&nbsp;the establishment and development of microcomputer clubs. I&nbsp;was also personally involved with&nbsp;getting the Scouting Supply Depots to stock and sell computer hardware.”<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a> The 32-year-old minister also emphasized that&nbsp;gaming helped him find his way around&nbsp;computers; he criticized the authorities’ half-hearted efforts at introducing computers at a&nbsp;mass scale in Poland, eruditely peppered his statements with&nbsp;references to Witkacy and Gombrowicz, and finally tried to persuade <em>Bajtek </em>readers to start their own companies and build a&nbsp;local version of Silicon Valley. And this&nbsp;is even before&nbsp;the so-called Wilczek Act [a bill that&nbsp;allowed private enterprise in Poland before&nbsp;the fall of the Communist government in 1989 — transl. note], but&nbsp;where there is a&nbsp;will, there’s a&nbsp;way –&nbsp;“We’ll keep thinking how to set the whole thing up organizationally,” claimed Kwaśniewski and offered a&nbsp;line of credit from&nbsp;the National Youth Fund to all interested.<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a> Indirectly, the minister even managed to praise private import, as computers had the potential to benefit the national economy.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4747-1-pb-1920x-1e9.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4747-1-pb-330x-ddd.jpg 330w,assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4747-1-pb-660x-e8e.jpg 660w,assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4747-1-pb-768x-a69.jpg 768w,assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4747-1-pb-1320x-374.jpg 1320w" src="assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4747-1-pb-660x-e8e.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Naturally, from&nbsp;today’s perspective, it becomes very easy to consider this&nbsp;conversation as merely amusing or treat it as nothing short of propaganda aimed at the youth. It should be juxtaposed, however, with&nbsp;discussions about&nbsp;modernizing socialism that&nbsp;began in early 1970s. Computer technologies were to be the solution to the ailments of centralized planning and they could be presented as politically neutral<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a> –&nbsp;nullifying, at least to some extent, the concerns that&nbsp;some had with&nbsp;the them being sourced in the West. One good example of such an approach would be the Chilean Project Cybersyn, launched in early 1970s. It was supposed to support decisions made by economists and change the popular perception of top-down control systems: “The idea of control is commonly associated with&nbsp;domination. Beer [Stafford Beer, British cybernetics specialist — author’s note] offered a&nbsp;different definition: he defined control as self-regulation, or the ability of a&nbsp;system to adapt to internal and external changes and survive. This&nbsp;alternative approach to control resulted in multiple misunderstandings of Beer’s work, and he was repeatedly criticized for&nbsp;using computers to create top-down control systems that&nbsp;his detractors equated with&nbsp;authoritarianism and the loss of individual freedom.”<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a></p> <p>I bring this&nbsp;particular notion up as a&nbsp;reminder of the fact the computerization of Poland was driven not only by grassroots entrepreneurs, smugglers, and software pirates, but&nbsp;also by the state itself –&nbsp;not only in its capacity as a&nbsp;regulating entity, permitting some practices while prohibiting others, but&nbsp;also as an active (although weak) party supporting select publishing initiatives and hardware purchases. Naturally, the process was not without&nbsp;hindrances. Marcin Kosman’s <em>Nie tylko </em>Wiedźmin<em>. Historia polskich gier komputerowych </em> [<em>More Than&nbsp;</em>The<em></em>Witcher.<em> The History of Polish Video Games</em>] recounts the story of Piotr Kucharski and Krzysztof Piwowarczyk, the developers behind&nbsp;<em>Smok Wawelski </em>[<em>The Wawel Dragon</em>], who wanted to start their own game development and distribution company in 1987. “Everyone asked to see documents confirming whether we had some sort of IT qualifications. I&nbsp;have no higher education, I&nbsp;only finished a&nbsp;technical secondary school, while my partner, Wiesław Florek, is a&nbsp;car mechanic by education,” said Kucharski. Computer Adventure Studio was eventually established in January of 1989, after&nbsp;the new private entrepreneurship bill was signed into&nbsp;law. The same year brought completely different experiences to Elkor, a&nbsp;company developing educational games. Elkor initially collaborated with&nbsp;the Ministry of Education and then with&nbsp;the Ministry for&nbsp;Youth Affairs, headed by Kwaśniewski, which commissioned the company to developed a&nbsp;special cassette with&nbsp;software for&nbsp;the Youth Congress. Earlier, ministry support allowed the company to purchase short-supply goods for&nbsp;use as game media –&nbsp;cassette tapes from&nbsp;the Gorzów-based manufacturer Stilon.<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a></p> <p>Skills required for&nbsp;game development were often acquired at either state-owned enterprises, as it happened with&nbsp;the pioneering title <em>Web Master</em>, or at technical colleges. Many people working on games back in that&nbsp;era were either graduates of technical colleges or were still enrolled when they started to work as developers, later dropping out pursue “the full extent of career opportunities” (there are undoubtedly some parallels between&nbsp;Adrian Chmielarz and Aleksander Kwaśniewski). The endeavors of different actors permeated and complemented each other, subverting the simple binary oppositions between&nbsp;the actions of the state and those of the entrepreneurs-revolutionaries. The interchangeability of roles in the computer industry is clearly visible even in the Kwaśniewski interview: one of the journalists conducting it, Grzegorz Onichimowski, later pioneered legal video game distribution with&nbsp;his company IPS Computer Group. It’s also hard to overestimate the role played by <em>Bajtek –&nbsp;</em>especially in its early years it functioned as a&nbsp;sort of “virtual computer” for&nbsp;many, as although in the 1980s video games were highly desirable, they were –&nbsp;as I&nbsp;already mentioned –&nbsp;particularly difficult to acquire. <em>Bajtek </em>and all its descendants laid the foundation for&nbsp;the development of gaming culture, which managed to prevail without&nbsp;its participants engaging in gameplay, either consistently or at all. Gaming magazines –&nbsp;both local and foreign, the latter sometimes available through&nbsp;Empik –&nbsp;fed the imaginations of those without&nbsp;access to their own computer and had only occasional contact with&nbsp;video games: at the arcade, at their friend’s houses or at computer clubs (or through&nbsp;temporary access at home –&nbsp;playing a&nbsp;computer intended for&nbsp;sale or a&nbsp;borrowed machine). This&nbsp;sort of involvement explains how gaming magazines could achieve such high circulation numbers in a&nbsp;country lacking widespread access to gaming hardware.</p> <p>Therefore, the relationship between&nbsp;still-Communist Poland and the nascent game development industry was much more complicated than&nbsp;the narrative about&nbsp;dreamers fighting against&nbsp;the limitations forced upon&nbsp;them by an absurd system would ever suggest. Obviously, it would be very easy to demonstrate that&nbsp;the modernization-through-computerization model that&nbsp;the state was trying to implement was ultimately derivative –&nbsp;but&nbsp;the same could be said about&nbsp;the beginnings of gaming in Poland. The modernity of the 80s and 90s in Poland was copied, or –&nbsp;to use a&nbsp;term coined by Ravi Sundarama –&nbsp;was pirated.<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a></p> <h2>Pirated Modernity</h2> <p>The TV screen is illuminated with&nbsp;flashy depictions of pursuits and activities that&nbsp;in 1992 Poles still associated mostly with&nbsp;“Western,” consumption-oriented lifestyles. The commercials for&nbsp;“Pegasus Family Game” featured people playing billiards and racing cars. A&nbsp;couple of the commercials followed the exact same structure: it opened with&nbsp;a&nbsp;scene of a&nbsp;game cartridge being popped into&nbsp;the slot, followed by some sort of activity in the real world which was promptly replaced with&nbsp;a&nbsp;depiction of the same activity simulated inside&nbsp;the game. The ad closed with&nbsp;a&nbsp;shot of the entire family sitting in front the TV set. This&nbsp;insistence on consoles as family entertainment was not coincidental –&nbsp;the commercials were heavily inspired by Nintendo ads from&nbsp;the early 1980s –&nbsp;the image of family-friendly entertainment capable of bridging the generation gap is to this&nbsp;day a&nbsp;very important element of the Nintendo brand. The ads weren’t the only thing that&nbsp;was copied. The Pegasus console itself was a&nbsp;faithful “knock-off” of the Nintendo Famicom, and its excellent sales record made the fortunes of Marek Jutkiewicz and Dariusz Wojdyga, founders of BobMark, a&nbsp;console import company; both men whom are among&nbsp;the richest men in Poland today.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4748-1-pb-1920x-40b.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4748-1-pb-330x-072.jpg 330w,assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4748-1-pb-660x-dcc.jpg 660w,assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4748-1-pb-768x-d08.jpg 768w,assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4748-1-pb-1320x-475.jpg 1320w" src="assets/cache/images/issues/2015/11/gra-w-kapitalizm/314-4748-1-pb-660x-dcc.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Pegasus was the first console to gain widespread popularity in Poland. The hardware was cheap and so were the games, a&nbsp;single game cartridge often held a&nbsp;compilation of dozens of different titles. The video game market, still driven by the discourse of novelty and newness, has been lagging behind&nbsp;its Western counterpart primarily due to economic reasons, and the delay was visible in both games and hardware platforms (Pegasus took Poland by storm despite&nbsp;having decade-old hardware; in the 80s, gaming press often featured reviews of games released years before&nbsp;the reviews were published). BobMark’s dealings are also part and parcel of the narrative of building empires and fortunes on practices that&nbsp;were soon to be outlawed, like&nbsp;the distribution of unauthorized copies of copyrighted software. Although we should also note that&nbsp;even games developed in Poland routinely made unauthorized use of someone else’s creative work –&nbsp;illustrations for&nbsp;8-bit adventure games were copied over&nbsp;from Western releases; the soundtracks for&nbsp;two Amiga games released in early 1990s (before the copyright bill was signed into&nbsp;law) and developed by ASF, <em>Miecze Valdgira</em> [<em>The Swords of Valdgir</em>] and <em>Magia kryształu </em>[<em>The Magic of the Crystal</em>], were simply unauthorized copies of Lady Pank songs.</p> <p>The shrewdness of entrepreneurs exploiting legal loopholes wasn’t the essence of the matter, as the copyright system can be considered yet another instrument used by the center to subordinate the periphery, naturalized via&nbsp;the language of “normalization” and “catching up” with&nbsp;Western standards. Enforcing global consistency of copyright protections, dictated primarily by the United States, gained momentum in the 1980s and culminated in Poland with&nbsp;the passing of the 1994 Copyright Law.<a href="#sdfootnote30sym" name="sdfootnote30anc"><sup>30</sup></a> Trafficking computer hardware, pirating software, and explicit approval of importing hardware and games infringing on Western patents weren’t simply the effects of the Polish state’s incapability of asserting effective control over&nbsp;these phenomena. They can also be considered analogous to other “grey market” activities, like&nbsp;underground currency trading which the authorities turned a&nbsp;blind eye to in order to siphon hard currency that&nbsp;people had stashed away in socks and mattresses into&nbsp;the treasury via&nbsp;Pewex stores. Similarly, the informal circulation and distribution of computer hardware and software mitigated the consequences of the weak output of domestic computer manufacturers and the effects of the CoCom embargo on importing new technologies. Moreover, as emphasized by Patryk Wasiak, young people could get access to computers either through&nbsp;parents working abroad or by reaching out to “PTI [Polskie Towarzystwo Informatyczne, Polish Association of Computer Sciences] and Polish Socialist Youth Union activists, involved with&nbsp;spreading the idea of computer clubs,”<a href="#sdfootnote31sym" name="sdfootnote31anc"><sup>31</sup></a> although the latter avenue is rarely brought up today. Why, then, are the 80s and 90s perceived today primarily as “an extraordinary time” in which piracy was the product of the same order that&nbsp;spawned bolted-down tin bowls in cheap eateries portrayed so well in Bareja’s <em>Teddy</em><em>Bear</em>?</p> <p>The establishment of a&nbsp;new, necessary and positive narrative of Polish entrepreneurs that&nbsp;assumes US and Western Europe manufacturers as the primary reference point, instead of, say, Asian ones (as I&nbsp;already mentioned, the discourse on "piracy" is very different in Asia), requires a&nbsp;definitive severance from&nbsp;the past. It also allows for&nbsp;the naturalization of ethically ambiguous phenomena which seem to be ubiquitous in today's game development industry. In their critical, neo-Marxist book <em>Games of Empire</em>, Nick Dyer-Witheford and Greig de Peuter point out a&nbsp;couple of aspects that&nbsp;place the game development sector right in the avant-garde of capitalist transformations. The authors bring up not only the escapist character of games themselves, but&nbsp;also the exploitation of immaterial labor in an industry founded upon&nbsp;the notion that&nbsp;game development is also fun, just like&nbsp;the commodity it produces.<a href="#sdfootnote32sym" name="sdfootnote32anc"><sup>32</sup></a> Taking advantage of the fact, that&nbsp;most developers are young men, producers often expect their employees to work unpaid overtime. The issue of abusing “crunch time” in production planning, that&nbsp;is a&nbsp;period of catching up with&nbsp;ostensibly missed production milestones that&nbsp;includes significant overtime, comes up increasingly often in discussions of the Polish game development industry, as does the issue of stressful work environments and better work-life balance. The matter is well-illustrated by the fortunes of one of the co-founders of the distribution giant CD Projekt, the company behind&nbsp;the developer studio CD Projekt RED which developed the immensely successful <em>The Witcher </em>series. A&nbsp;<em>Forbes</em> interview with&nbsp;him was advertised with&nbsp;the following&nbsp;statement: “Michał Kiciński, co-founder of CD Projekt, reminisces on the creation of <em>The Witcher</em>, explains why game development started to bore him and why he now prefers to meditate in the Sacred Valley of the Incas instead.”<a href="#sdfootnote33sym" name="sdfootnote33anc"><sup>33</sup></a> The conversation with&nbsp;Kiciński is a&nbsp;stereotypical tale success and the price it extracts. However, this&nbsp;fairly standard neoliberal narrative about&nbsp;the toils and successes of the individual fails to ask one very important question: what about&nbsp;the employees?</p> <p>Obviously, there are no straightforward answers to that&nbsp;particular question and for&nbsp;a&nbsp;couple of reasons, including a&nbsp;dearth of available data and the “pioneers of capitalism” narrative that&nbsp;the industry has more or less internalized. As demonstrated by the report released by the Polski Gamedev [Polish Gamedev] group in 2013,<a href="#sdfootnote34sym" name="sdfootnote34anc"><sup>34</sup></a> working in the Polish game development sector involves a&nbsp;high degree of uncertainty -&nbsp;over&nbsp;44% of interviewees were working on piecework contracts, 14% (a group that&nbsp;does not include game development studio owners) were self-employed, and only 27% were working on a&nbsp;regular employment contract. Additionally, it seems that&nbsp;programmers working in game development have lower salaries than&nbsp;their counterparts working in other industries, although lack of data makes that&nbsp;comparison an estimate, not a&nbsp;certainty.<a href="#sdfootnote35sym" name="sdfootnote35anc"><sup>35</sup></a> Simultaneously, some analysis suggest that&nbsp;there is a&nbsp;dearth of qualified game development personnel on the market and that&nbsp;specialists employed in the sector are paid salaries definitely higher than&nbsp;the industry average. The latter notion may be confirmed by the fact that&nbsp;39% of video game development studios in Poland employ foreigners.<a href="#sdfootnote36sym" name="sdfootnote36anc"><sup>36</sup></a> It is difficult, however, to acknowledge that&nbsp;a&nbsp;truly innovative and internationally successful industry allows both rank-and-file employees and executives to realize their dreams to the same extent. I&nbsp;believe, although it’s purely speculative, that&nbsp;introducing these themes into&nbsp;the discourse of developing games in Poland would only result in people wisecracking about&nbsp;going back to that&nbsp;“extraordinary time.”</p> <h2>The “Stench of Dried Feces,” or the Popular Memory of the Polish People’s Republic</h2> <p></p> <blockquote>It was in Szczecin in 1987. In some unspecified neighborhood, amidst dilapidated hovels and the stench of dried feces, in a&nbsp;dark alley two barely visible shadows appeared, taking uncertain steps along&nbsp;a&nbsp;street unevenly paved with&nbsp;setts. <p>“Where are we?”, asked one of the figures.</p> <p>“I have no idea, I’ve never been here before.”</p> <p>“Shit!”, hissed one of the figures.</p> <p>“Let’s get the hell out of here. I&nbsp;heard that&nbsp;muggers love this&nbsp;place, and I&nbsp;wouldn’t want to get stabbed,” whispered the other figure, voice trembling with&nbsp;fear.</p> </blockquote> <p></p> <p>The Digital Dreamers exhibition wouldn’t be in any way complete without&nbsp;the 1994 release <em>Franko: The Crazy Revenge</em>, the source of the quote above. The game is an ironic portrayal of the years of transformation in Poland, and possibly the last one to exoticize the subject to such an extent. The Szczecin in the game features street food booths, garages, and Communist-style department stores, but&nbsp;also images of violence “straight out of horror movies.” The game draws heavily on Hollywood B-movies as well as other<em></em>games of the <em>beat ’em up </em>genre. The images presented in the game had humorous undertones which were also supposed to account for&nbsp;the low production values. I&nbsp;wonder, however, whether nowadays –&nbsp;when the context of the game’s half-amateurish origins has all but&nbsp;faded –&nbsp;the title would still be considered unambiguously comical. How is it perceived by the younger generation of visitors?</p> <p>When writing about&nbsp;old television shows, Lynn Spigel references the “popular memory” category, that&nbsp;is a&nbsp;form of narrative that&nbsp;allows people to interpret their own lives and cultures. She illustrates the problem with&nbsp;a&nbsp;tale about&nbsp;her 5-year-old niece, who during&nbsp;a&nbsp;conversation about&nbsp;her aunt’s childhood asked the researcher whether back in those days everything was black-and-white like&nbsp;in the old shows. “The five-year-old’s mistake might seem a&nbsp;cute anecdote for&nbsp;the family diary, but&nbsp;television’s representation of the past, and its relation to the historical consciousness of viewers, is more generally regarded as a&nbsp;matter of public importance.”<a href="#sdfootnote37sym" name="sdfootnote37anc"><sup>37</sup></a> The portrayal of the past&nbsp;in games, just like&nbsp;the dominant narrative of the origins of the Polish game development industry, is black-and-white and suppresses to more nuanced narratives speaking of the dawn of the computer age in Poland. The problem requires more in-depth analyses, ones that&nbsp;would consider the specific nature of the medium, as well as –&nbsp;or maybe primarily –&nbsp;local ramifications. The challenges presented by such a&nbsp;project are myriad, from&nbsp;the passage of time and individual memories being replaced with&nbsp;“popular memories,” to the search for&nbsp;subversive practices, already a&nbsp;tradition in cultural research and a&nbsp;precious commodity in the international academic circuit. Ludology, which has been gaining ground academically for&nbsp;more than&nbsp;ten years now, has long concentrated on establishing video games as a&nbsp;valid research subject, thus neglecting the development of critical approaches. It’s time to balance out the discourse, because the deserved international successes of Polish video games and the “pop-nationalism” for&nbsp;which they serve as a&nbsp;foundation reinforce a&nbsp;very unilateral narrative of the growth of the video game industry in Poland. A&nbsp;narrative in which the computer equals capitalism.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Raiford Guins, <em>Game After: A Cultural Study of Video Game Afterlife </em>(Cambridge: MIT Press, 2014), 277-288.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Ibid., 32-33.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Krzysztof Tomasik, “Trzeci wymiar PRL-u” [“The Third Dimension of the Polish People’s Republic”] in <em>Mulat w Pegeerze </em>[<em>A Mulatto at a Collective Farm</em>], ed. K. Tomasik (Warszawa: Wydawnictwo Krytyki Politycznej, 2011), 8-9.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> “Kto jest kim? [Who Is Who?] Paweł Marchewka”, Forbes, <a href="http://ktojestkim.forbes.pl/pawel-marchewka-techland,sylwetka,202913,1,1.html" target="_blank" rel="noopener">http://ktojestkim.forbes.pl/pawel-marchewka-techland,sylwetka,202913,1,1.html</a>, accessed April 30, 2016.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Ramon Lobato, <em>Shadow Economies of Cinema </em>(London: BFI/Palgrave, 2012), 76.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Graeme Kirkpatrick, “Constitutive Tensions of Gaming’s Field: UK gaming magazines and the formation of gaming culture 1981-1995,” <em>Game Studies</em> 12, no. 1 (2012), <a href="http://gamestudies.org/1201/articles/kirkpatrick" target="_blank" rel="noopener">http://gamestudies.org/1201/articles/kirkpatrick</a> accessed May 5, 2016.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> John Fiske, “Przyjemność gier wideo”<em></em>[“Video Games: Inverted Pleasures”], trans. M. Szota et al: <em>Światy z pikseli </em>[<em>Pixel Worlds</em>], ed. M. Filiciak (Warszawa: WAiP, 2010), 126.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Tomasz Orzechowski, “Młodzi po południu,” [“Youth in the Afternoon”] <em>Magazyn Rodzinny</em>, October 1985, 2.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> <em>Demokracja polska 1989-2003 </em>[<em>Polish Democracy, 1989-2003</em>], ed. J. Wiatr et al., (Warszawa: Scholar, 2003), 63.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Central Statistical Office, <em>Polska 1989-2014 </em>[<em>Poland 1989-2014</em>], ed. H. Dmochowska (Warszawa: Główny Urząd Statystyczny, 2014), 36.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a><em>Demokracja polska</em>, 63.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Piotr Gnyp, “Tylko Chmielarz umiał zrobić grę komputerową bez komputera<em>,</em>” [“Only Chmielarz would know how to make a video game without a computer”]<em> Polygamia</em>, <a href="http://polygamia.pl/tylko-chmielarz-umial-zrobic-gre-komputerowa-bez-komputera" target="_blank" rel="noopener">http://polygamia.pl/tylko-chmielarz-umial-zrobic-gre-komputerowa-bez-komputera</a>, accessed May 5, 2016,</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Maria B. Garda, <em>Interaktywne fantasy. Gatunek w grach cyfrowych </em>[<em>Interactive Fantasy. Genre in Video Games</em>], (Łódź: Wydawnictwo Uniwersytetu Łódzkiego, 2016), 116.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Iwona Kurz, “Telewizja: ‘szyby niebieskie od telewizorów’” [“Television: ‘The Windows Blue with the Glare of the TV’”] in: <em>Obyczaje polskie. Wiek XX w krótkich hasłach </em>[<em>Polish Customs. An Index of the 20th Century</em>], ed. M. Szpakowska, (Warszawa: WAB, 2008), 390.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> See: Mirosław Filiciak, “Poza nostalgię. Zwrot historyczny w badaniach gier i jego konsekwencje”<em></em>[“Beyond nostalgia. The turn towards history in ludology and its consequences”],<em> Czas kultury </em>2 (2015), 91–97.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Bartłomiej Kluska and Mariusz Rozwadowski, “Web Master – pierwsza polska gra komputerowa?” [“Web Master – The First Polish Video Game?”], <em>Gadżetomania</em>, <a href="http://gadzetomania.pl/2902,web-master-pierwsza-polska-gra-komputerowa-bajty-z-broda" target="_blank" rel="noopener">http://gadzetomania.pl/2902,web-master-pierwsza-polska-gra-komputerowa-bajty-z-broda</a>, accessed May 1, 2016.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ian Bogost, <em>Persuasive Games: The Expressive Power of Videogames </em>(Cambridge: MIT Press, 2007), 3.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Alexander R. Galloway, “Language Wants to Be Overlooked,” trans. M. Szota, <em>Kultura Popularna </em>[<em>Popular Culture</em>] 4 (2008): 34. To read more on games as algorithmic cultural objects, see: Alexander R. Galloway, <em>Gaming. Essays on Algorithmic Culture </em>(Minneapolis: University of Minnesota Press, 2006).</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Mariana Mazzucato, <em>The Entrepreneurial State</em>. <em>Debunking Public vs Private Sector Myths </em>(London: Anthem Press, 2014), 37-40.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Manuel Castells and Pekka Himanen, <em>The Information Society and the Welfare State: The Finnish Model</em> (Oxford: Oxford University Press, 2002).</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Heikki Patomaki, “An Optical Illusion: The Finnish Model for the Information Age,” <em>Theory, Culture &amp; Society</em> 20 (2003): 139-145.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Elizabeth Dunn, <em>Privatizing Poland. Baby Food, Big Business, and the Remaking of Labor </em>(Ithaca: Cornell University Press, 2004)</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Patryk Wasiak, “‘Grali i kopiowali.’ Gry komputerowe w PRL jako problem badawczy” [“‘They Played and Copied.’ Video Games in the Polish People’s Republic as Research Problem,” ] in: <em>Kultura popularna w polsce w latach 1944-1989. Problemy i perspektywy badawcze</em> [<em>Popular Culture in Poland from 1944 to 1989. Research Problems and Perspectives</em>], ed. K. Stańczak-Wiślicz (Warszawa: Wydawnictwo IBL, 2013), 207</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Grzegoch Onichimowski and Roman Poznański, “Generacja z komputera. Rozmowa z Aleksandrem Kwaśniewskim – ministrem d/s młodzieży” [“The Computer Generation. A Conversation with Aleksander Kwaśniewski, Minister for Youth Affairs,”] <em>Bajtek </em>4 (1987): 3.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> ibid., 4.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Egle Rindzeviciute, “Purification and Hybridisation of Soviet Cybernetics. The Politics of Scientific Governance in an Authoritarian Regime,” <em>Archiv für Sozialgeschichte</em> 50 (2010): 289-309.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Eden Medina, <em>Cybernetic Revolutionaries. Technology and Politics in Allende’s Chile</em> (Cambridge: MIT Press, 2011), 26.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Marcin Kosman, <em>Nie tylko </em>Wiedźmin.<em> Historia polskich gier komputerowych</em> (Warszawa: Wydawnictwo Open Beta, 2015), Kindle edition, 7%.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Ravi Sundaram, <em>Pirate Modernity. Delhi’s Media Urbanism</em> (London: Routledge, 2010).</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Peter Drahos, <em>Developing Countries and International Intellectual Property Standard-setting </em>(London: Commission on Intellectual Property Rights, 2002), <a href="http://www.iprcommission.org/papers/pdfs/study_papers/sp8_drahos_study.pdf" target="_blank" rel="noopener">http://www.iprcommission.org/papers/pdfs/study_papers/sp8_drahos_study.pdf</a>, accessed May 5, 2016.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Wasiak, “‘Grali i kopiowali,’” 223.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Nick Dyer-Witherford and Greg de Peuter, <em>Games of Empire: Global Capitalism and Video Games</em> (Minneapolis: University of Minnesota Press, 2009).</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Filip Kowalik, “Jak żyć po wielkiej grze” [“Life after the greatest game”], <em>Forbes</em>, <a href="http://www.forbes.pl/michal-kicinski-cd-projekt-jak-zyc-po-wiedzminie,artykuly,194948,1,1.html" target="_blank" rel="noopener">http://www.forbes.pl/michal-kicinski-cd-projekt-jak-zyc-po-wiedzminie,artykuly,194948,1,1.html</a>, accessed May 5, 2016.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Polski GameDev, “Zarobki polskiego <em>gamedevu</em>” [“Salaries in Polish Gamedev”], 2013, <a href="http://imgur.com/mwok9UJ" target="_blank" rel="noopener">http://imgur.com/mwok9UJ</a>, accessed May 5, 2016.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Marcin Niedużak, “Executive summary of the ‘Salaries for IT Positions in 2013’” report, Sedlak&amp;Sedlak, <a href="http://wynagrodzenia.pl/artykul.php/wpis.2869" target="_blank" rel="noopener">http://wynagrodzenia.pl/artykul.php/wpis.2869</a> accessed May 5, 2016.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> Michał Bobrowski, Patrycja Rodzińska-Szary, Mariusz Socha, <em>Kondycja polskiej branży gier wideo. Raport 2015 </em>[<em>The State of the Polish Video Game Industry. A 2015 Report</em>] (Krakow: Krakowski Park Technologiczny, 2015), 51.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> Lynn Spigel, “From the Dark Ages to the Golden Age: Women's Memories and Television Reruns” in <em>Film i historia. Antologia </em>[<em>Film and History. An Anthology</em>], ed. I. Kurz (Warszawa: Wydawnictwo Uniwersytetu Warszawskiego, 2008), 308.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/11-capitalist-realism.-transformations-of-polish-visual-culture/the-capitalist-game.-digital-games-and-the-construction-of-memory1" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

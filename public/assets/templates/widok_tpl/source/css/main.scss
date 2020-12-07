@@ -1,0 +1,68 @@
+/*
+* Theme Name: Widok
+* Description: Pismo Widok
+* Author: Piotr Matysiak (pmfx)
+* Author URI: 
+* http://webready.pl
+* https://github.com/pmfx
+*/
+
+// variables
+@import 'vars/vars';
+
+// bootstrap components
+@import 'bootstrap/bootstrap';
+
+// bootstrap addons
+@import 'bootstrap/addons/breakpoint-ms';
+@import 'bootstrap/addons/breakpoint-xl';
+
+// mixins
+@import 'mixins/mixins-base';
+@import 'mixins/mixins-ofi';
+
+// vendor
+@import 'vendor/icomoon';
+@import 'vendor/simplelightbox';
+@import 'vendor/owl/owl.carousel';
+@import 'vendor/owl/theme.base';
+
+// base
+@import 'base/fonts';
+@import 'base/typography';
+@import 'base/preloader';
+@import 'base/button';
+@import 'base/common';
+@import 'base/container';
+@import 'base/dropdown';
+@import 'base/form';
+@import 'base/header';
+@import 'base/pagination';
+@import 'base/panel';
+@import 'base/tab';
+@import 'base/table';
+
+// components
+@import 'components/c-hero';
+@import 'components/c-archive';
+@import 'components/c-article';
+@import 'components/c-audioplayer';
+@import 'components/c-footnote';
+@import 'components/c-headlines';
+@import 'components/c-inview';
+@import 'components/c-issue';
+@import 'components/c-jump2issue';
+@import 'components/c-pageshare';
+@import 'components/c-presentation';
+@import 'components/c-search';
+@import 'components/c-subnav';
+@import 'components/c-team';
+
+// pages
+@import 'pages/page-home';
+@import 'pages/page-issue';
+@import 'pages/page-presentation';
+
+
+// utilities & helpers
+@import 'utilities/u-print';

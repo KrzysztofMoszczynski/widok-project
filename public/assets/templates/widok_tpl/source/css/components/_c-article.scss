@@ -1,0 +1,82 @@
+.m-article {
+  margin-bottom: 78px;
+}
+
+.c-article-meta {
+  margin-bottom: 36px;
+
+  &__title {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  &__author {
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-family: 'NexaBold';
+    font-size: 10px;
+    color: $color_primary;
+  }
+
+}
+
+.c-article-figure {
+  
+  &--right {
+    @media (min-width: $breakpoint_sm) {
+      float: right;
+      max-width: 300px;
+      margin-left: 20px;
+      margin-right: -50px;
+    }
+    @media (min-width: $breakpoint_md) {
+      margin-right: -150px;
+    }
+    img {
+      width: 100%;
+    }
+  }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

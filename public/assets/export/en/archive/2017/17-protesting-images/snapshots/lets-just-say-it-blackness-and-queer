@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Powiedzmy to na głos! Czarność i queer | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2017/protest-obrazow/powiedzmy-to-na-glos-czarnosc-i-queer">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Powiedzmy to na głos! Czarność i queer | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Powiedzmy to na głos! Czarność i queer | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2017/protest-obrazow/powiedzmy-to-na-glos-czarnosc-i-queer">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Powiedzmy to na głos! Czarność i queer | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #e8733d !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #e8733d !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #e8733d !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #e8733d !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #e8733d !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #e8733d !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #e8733d !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #e8733d !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(232,115,61,0.8) !important; */
+			/* background-color:#e8733d !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(232,115,61,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#e8733d !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(232,115,61,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#e8733d; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(232,115,61,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(232,115,61,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#e8733d !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#e8733d !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#e8733d !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-660 parent-id-626">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="448" data-selected-issue-color="#e8733d" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/17-protesting-images#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/lets-just-say-it-blackness-and-queer">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2017/protest-obrazow#toc">17</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2017/protest-obrazow/powiedzmy-to-na-glos-czarnosc-i-queer?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Powiedzmy to na głos! Czarność i queer</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2017/protest-obrazow/powiedzmy-to-na-glos-czarnosc-i-queer?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=607">Agnieszka Więckiewicz</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2><em>Ouvrir la voix</em>, reż. Amandine Gay, 2016</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/powiedzmy-to-na-glos/435-6497-1-pb-1920x-f10.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2017/17/powiedzmy-to-na-glos/435-6497-1-pb-330x-422.jpg 330w,assets/cache/images/issues/2017/17/powiedzmy-to-na-glos/435-6497-1-pb-660x-cb6.jpg 660w,assets/cache/images/issues/2017/17/powiedzmy-to-na-glos/435-6497-1-pb-768x-b41.jpg 768w,assets/cache/images/issues/2017/17/powiedzmy-to-na-glos/435-6497-1-pb-1320x-8a4.jpg 1320w" src="assets/cache/images/issues/2017/17/powiedzmy-to-na-glos/435-6497-1-pb-660x-cb6.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p><em>Ouvrir la voix</em>, głośny we Francji film dokumentalny zrealizowany przez reżyserkę, aktorkę i&nbsp;feministkę Amandine Gay, oddaje głos czarnoskórym kobietom, które opowiadają o&nbsp;życiu we Francji, dyskryminacji i&nbsp;wykluczeniu. W&nbsp;czasie dwugodzinnego seansu przysłuchujemy się nie tylko historiom dyskryminacji i&nbsp;wykluczenia ze względu na&nbsp;kolor skóry, płeć oraz orientację seksualną, lecz także możemy zobaczyć, w&nbsp;jaki sposób część rozmówczyń radzi sobie z&nbsp;doświadczaną przez nie — począwszy od pisania i&nbsp;tworzenia sztuk czy performansów poruszających problem czarności, po&nbsp;spontaniczny udział w&nbsp;ulicznych manifestacjach przeciwko rasizmowi. Rozmówczynie Gay nie czują się ofiarami i&nbsp;nie chcą wzbudzać litości, dlatego ukazanie ich siły i&nbsp;sprawczości było tak istotne dla reżyserki. Prowadzone przez Gay rozmowy skupiają się wokół klasycznych problemów czarnego feminizmu: dorastania w&nbsp;rasistowskim społeczeństwie, doświadczenia ciała naznaczonego „bagażem rasy” i&nbsp;wielopłaszczyznowej, bo&nbsp;obejmującej rasę, płeć i&nbsp;orientację seksualną dyskryminacji. Gay nie pomija też kwestii odzyskiwania własnej czarnej historii oraz kształtu wspólnoty kobiet, zarówno tej obecnej, jak i&nbsp;potencjalnej, przyszłej; prowokuje do zadawania trudnych pytań: czym jest albo czym może być czarna kobieca tożsamość? Czy mogą w&nbsp;niej uczestniczyć kobiety o&nbsp;innym kolorze skóry? Afrofrancuska reżyserka pokazuje, dlaczego czarne życie zawsze jest polityczne, a&nbsp;doświadczenie czarnego ciała może prowadzić do rozszczelnienia dominującego dyskursu, buntu i&nbsp;emancypacji.</p> <h2>Czarna na&nbsp;całe życie</h2> <p>Na codzienność rozmówczyń Gay wpływają społeczne fantazmaty, uprzedzenia i&nbsp;klisze, które krążą w&nbsp;społecznym polu wizualnym, organizując ich życie i&nbsp;nadając ich ciałom znaczenia, które postrzegają jako obce. Film Gay przypomina o&nbsp;konstruktywistycznym charakterze „rasy”, pojęcia które, rzutowane na&nbsp;podmiot, czyni go niebiałym, a&nbsp;więc i&nbsp;nienormatywnym. Dla większości współpracujących z&nbsp;reżyserką kobiet wyjście z&nbsp;domu i&nbsp;pojawienie się w&nbsp;sferze publicznej nie jest proste, obecność w&nbsp;polu widzenia innych (przede wszystkim białych Francuzów) odczuwają bowiem jako nieuchronnie zagrożoną uprzedmiotowieniem, narzuceniem im określonej ramy poprzez zawłaszczające i&nbsp;urasowiające spojrzenie. Według afroamerykańskiej badaczki Simone Browne to właśnie stan bycia nieprzerwanie obserwowaną i&nbsp;dyscyplinowaną zmusza czarnoskóry podmiot do przyjęcia określonej postawy — zachowania zgodnego z&nbsp;oczekiwaniem patrzącego<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a>. Zarówno Browne w&nbsp;<em>Dark Matters. On the Surveillance of Blackness, </em>jak i&nbsp;Gay w&nbsp;<em>Ouvrir la voix </em>ukazują czarne kobiece ciało jako miejsce krzyżowania się fantazmatów o&nbsp;dzikiej, rozbuchanej kobiecej seksualności z&nbsp;irracjonalizmem i&nbsp;„wrodzoną” agresją Afrykanów — wyobrażeń silnie zakorzenionych w&nbsp;europejskim imaginarium<em>. </em>Podkreślane przez Gay „długie trwanie” rasistowskich i&nbsp;pornograficznych wyobrażeń czarnego kobiecego ciała można interpretować jako przejaw niekontrolowanego pragnienia wyznaczenia różnicy — w&nbsp;tym wypadku płciowej i&nbsp;rasowej — która ostatecznie określi i&nbsp;domknie zarówno granice białości, jak i&nbsp;granice kobiecego ciała<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a>. Kolor skóry nie jest dla żadnej z&nbsp;kobiet transparentny. Jego pojawienie się w&nbsp;polu widzenia innych powoduje, że&nbsp;nie tylko nabiera on niezamierzonych i&nbsp;niechcianych przez podmiot znaczeń, lecz także internalizuje zawłaszczające spojrzenie. Jak twierdzi Browne — rasa tworzy się w&nbsp;„oku” patrzącego i&nbsp;określa możliwe punkty odniesienia, zamykając jednocześnie granice pola wizualnego, w&nbsp;obrębie którego może poruszać się mniejszościowy podmiot<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a>. Niektóre z&nbsp;bohaterek zwracają uwagę, że&nbsp;początkowo nie dostrzegały swojej czarności: dopiero kontakt z&nbsp;białym społeczeństwem spowodował narzucenie przewidzianej dla nich tożsamości i&nbsp;„wbicie rasy” w&nbsp;ciało: dla rozmówczyń, podobnie jak dla Frantza Fanona, który w&nbsp;pracy <em>Peau noir, masques blancs<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a></em> wydanej pod&nbsp;koniec pierwszej połowy XX wieku badał mechanizmy i&nbsp;psychiczne skutki kolonizacji, zderzenie z&nbsp;rasizmem jest przede wszystkim doświadczeniem cielesnym, które powoduje rozpad dotychczasowego obrazu siebie, przy jednoczesnym przymusie „scalenia się” na&nbsp;nowo w&nbsp;oparciu o&nbsp;fantazmat czarności reprodukowany w&nbsp;europejskim imaginarium.</p> <p>Znaczącym w&nbsp;tym kontekście motywem rozmów jest figura lalki Barbie. Można ją uznać za&nbsp;trafną metaforę niemożliwości identyfikacji z&nbsp;najczęściej białymi bohaterkami tekstów kultury. Większość wypowiadających się kobiet, nawet jeśli miała jedną czy dwie lalki o&nbsp;ciemniejszym kolorze skóry, do zabawy zawsze wybierała białe: to one były dla nich ucieleśnieniem piękna, kategorii, w&nbsp;ramach której nie było miejsca dla kojarzonej z&nbsp;nadmiarem i&nbsp;„anormalnością” czarności. Młode dziewczyny postrzegały porcelanową cerę, jasne oczy i&nbsp;proste włosy jako wymarzony, chociaż nieosiągalny ideał. Także w&nbsp;rodzinie za&nbsp;„szczęściary” uważano te, które mogły „poszczycić się” jaśniejszym kolorem skóry. Inne czuły się „zbyt czarne” i&nbsp;marzyły o&nbsp;wymazaniu z&nbsp;ciała resztek czarności, ucieczce od koloru skóry i&nbsp;przybliżeniu się do zgodnej ze społeczną i&nbsp;symboliczną normą białości. Czasem wręcz nie chciały zaakceptować faktu, że&nbsp;zostaną czarne na&nbsp;całe życie: niezbywalna widoczność koloru skóry umieściła w&nbsp;centrum ich życia kwestię spojrzenia i&nbsp;widzialności. Kategorią konstytutywną dla czarności stała się wizualność.</p> <p>Dokument Gay pokazuje, że&nbsp;czarne życie zostało sprowadzone do tego, co najbardziej widoczne, jednocześnie pozostając niewidzialnym — a&nbsp;zarazem niewypowiadalnym. Tematem stale obecnym w&nbsp;rozmowach jest wyparcie ze społecznej logosfery pojęcia „czarny/a” jako wzbudzającego podejrzenia o&nbsp;rasizm. Angielskie określenie <em>black</em> całkowicie wyparło konotowane jako rasistowskie francuskie słowo <em>Noir</em>. Tymczasem przedstawiając się jako <em>Noir</em>, bohaterki wykonują znaczący gest przechwycenia dotychczasowego znaczenia tego wyrazu. Z&nbsp;polskiej perspektywy nie sposób nie zauważyć, że&nbsp;milczenie otaczające słowo <em>Noir</em> przywodzi na&nbsp;myśl słowo „Żyd” i&nbsp;ambiwalentne miejsce, jakie zajmuje ono w&nbsp;polskiej wyobraźni zbiorowej<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a>. Analogicznie do polszczyzny opór użytkowników języka francuskiego przed określeniem <em>Noir</em> zdaje się wynikać nie tyle, bądź nie tylko, ze strachu przed jego potencjalnie rasistowskim wydźwiękiem, ile raczej z&nbsp;potrzeby zrealizowania w&nbsp;sferze mowy związanego z&nbsp;tym słowem fantazmatu — skrywanego pragnienia usunięcia niebiałych z&nbsp;narodowej wspólnoty.</p> <p>Obok problematyki związanej z&nbsp;kobiecym czarnym ciałem, nieuchronnie padającym ofiarą fantazmatycznych projekcji, <em>Ouvrir la voix </em>porusza również kwestię odzyskiwania własnej historii oraz form oporu wobec narzuconej społecznie definicji „czarności”. Dla rozmówczyń istotnym problemem jest kwestia wypierania kolonializmu z&nbsp;francuskiej pamięci zbiorowej. Przyjazna, pozornie łatwa do zaakceptowania narracja o&nbsp;handlu niewolnikami jako swobodnym przepływie dóbr nie tylko zafałszowuje jego rzeczywisty obraz, lecz także czyni zjawisko niewolnictwa czymś znośnym, możliwym do pomyślenia i&nbsp;zaakceptowania. Zostaje ono potraktowane jako anegdota, którą można sobie opowiadać w&nbsp;duchu wielkiej, męskiej przygody. Zasadnicze dla współczesnego funkcjonowania całych społeczeństw wyzysk i&nbsp;niewolnicza praca uznaje się tym samym za&nbsp;tematy nieistotne dla teraźniejszości<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a>. Dlatego tak wyraźnie podkreślono w&nbsp;<em>Ouvrir la voix </em> konieczność stworzenia innych narracji — takich, które uwzględniłyby historię i&nbsp;doświadczenie czarnoskórej mniejszości, w&nbsp;tym przypadku czarnoskórych kobiet. W&nbsp;zamyśle Amandine Gay sam dokument miał być szansą zarówno dla rozmówczyń, jak i&nbsp;dla niej samej na&nbsp;opowiedzenie własnych historii wspólnym, polifonicznym i&nbsp;niejednorodnym głosem.</p> <h2>Powiedz to z&nbsp;„akcentem afrykańskim”!</h2> <p>Chociaż dla większości bohaterek dokumentu językiem ojczystym jest francuski, często słyszą pytanie: „Gdzie nauczyłaś się tak dobrze mówić po&nbsp;francusku?”. Podobnie jak: „Skąd jesteś?” — nie wszyscy mogą pojąć, że&nbsp;są Francuzkami. Stereotypowy obraz czarności kształtuje ich życie zawodowe i&nbsp;na nie wpływa. Dla kilku aktorek, z&nbsp;którymi rozmawia Gay, dostanie roli innej niż „typowej czarnej kobiety” jest nieosiągalne. W&nbsp;trakcie pracy są proszone o&nbsp;mówienie z&nbsp;„akcentem afrykańskim”, przy czym same właściwie nie wiedzą, jak ów akcent miałby brzmieć. Przede wszystkim jednak odczuwają cielesny dyskomfort w&nbsp;kontakcie z&nbsp;białym, zawłaszczającym spojrzeniem. Zarówno kolor ich skóry, jak i&nbsp;płeć podlegają pod&nbsp;jego władzą orientalizacji — czarne kobiece ciało staje się miejscem projekcji wyobrażonych i&nbsp;egzotycznych fantazji — oraz fetyszyzacji. Funkcjonująca jako fantazmat czarność może, podobnie jak fetysz, spełniać funkcję kompensacyjną<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a>: umożliwiać ożywianie wizji o&nbsp;białej supremacji, wspomagać proces idealizowania własnej kultury oraz ostatecznie legitymizować pornograficzne spojrzenie na&nbsp;poddawane seksualizacji, sprowadzane do narządów płciowych, wypychane z&nbsp;porządku ludzkiego i&nbsp;przekształcane w&nbsp;przedmiot kobiece ciało.</p> <p>Druga część <em>Ouvrir la voix</em> dotyczy wewnętrznych problemów czarnej wspólnoty i&nbsp;funkcjonujących w&nbsp;jej obrębie sztywnych norm zachowania oraz niechęci wobec wszelkiej odmienności. To właśnie między innymi w&nbsp;bezpośredniości i&nbsp;odwadze, z&nbsp;jaką rozmówczynie opowiadają o&nbsp;wadach własnej wspólnoty, tkwi przełomowość dokumentu Gay. Wspólnota ta reprodukuje patriarchalne myślenie i&nbsp;zamiast oprzeć się na&nbsp;inkluzji, nierzadko piętnuje i&nbsp;wyklucza swoich członków. Do części bohaterek <em>Ouvrir la voix</em> przylgnęło określenie „Bounty”, oznaczające czarną kobietę lub mężczyznę, którzy rzekomo dokonując internalizacji białych norm i&nbsp;wartości, „weszli w&nbsp;skórę Białego”. „Bounty’m” odbiera się prawo do czarności — muszą nieustannie udowadniać i&nbsp;potwierdzać swoją przynależność do wspólnoty wykluczonych. Podobnie jak w&nbsp;kontaktach z&nbsp;białymi, działa tutaj silnie podkreślany przez Gay w&nbsp;całym dokumencie mechanizm podwójnej dyskryminacji. W&nbsp;jeszcze większym stopniu niż czarnoskóry mężczyzna czarnoskóra kobieta musi kontrolować własną cielesność i&nbsp;zachowanie: wszelka nienormatywność kłuje w&nbsp;oczy, wzbudza niechęć i&nbsp;wrogość.</p> <p>Wiele badaczek, którym bliska jest szeroko pojęta perspektywa feministyczna, podkreśla nierozerwalność i&nbsp;przenikanie się kategorii płci, rasy i&nbsp;klasy w&nbsp;mechanizmach wykluczania i&nbsp;towarzyszących im stereotypowych wyobrażeniach<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a>. Dokument Gay znowu zaskakuje w&nbsp;tej kwestii otwartością i&nbsp;niezgodą na&nbsp;kompromis. Bohaterki nie tylko opowiadają o&nbsp;dyskryminacji ze względu na&nbsp;kolor skóry i&nbsp;płeć, lecz także zwracają uwagę na&nbsp;fakt dyscyplinowania własnej cielesności i&nbsp;milczenia wokół nieheteronormatywnej seksualności. Włączenie w&nbsp;<em>Ouvrir la voix </em>niedosłyszalnych dotąd głosów umożliwia zaistnienie postulatu nowej czarnej wspólnoty kobiet. Rozmówczynie koncentrują się nie tyle na&nbsp;kwestii inkluzji — otwierania się wspólnoty na&nbsp;nowe podmioty — co na&nbsp;idei różnicy jako podstawy i&nbsp;istoty wspólnotowości<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a>. Kluczowe jest tutaj subtelne przesunięcie akcentu z&nbsp;otwarcia się na&nbsp;Innego na&nbsp;uświadomienie sobie jego obecności. Nie chodzi tu już o&nbsp;proces wkluczania dotąd wykluczonych, lecz o&nbsp;świadomość ich stałej, bliskiej obecności oraz pozycji zajmowanej przez nich w&nbsp;ramach wymagającej zmiany wspólnoty. W&nbsp;oczach rozmówczyń doświadczenie czarności staje się modelem egzystencji, która nie dotyczy po&nbsp;prostu czarnoskórych kobiet, lecz kobiet <span class="rozstrzelony">o czarnym kolorze skór</span>y, które pochodzą przy tym z&nbsp;różnych klas społecznych, żyją z&nbsp;różnymi niepełnosprawnościami i&nbsp;mają różne orientacje seksualne. Gay przypomina o&nbsp;wadze usytuowania podmiotu, mówiącego nie tylko w&nbsp;imieniu swoim, lecz także tych, których reprezentuje. W&nbsp;jej ujęciu głos „białych, zamożnych, heteroseksualnych kobiet” wypowiadających się w&nbsp;imieniu innych mniejszości zawsze pozostanie uzurpacją, choćby wynikała z&nbsp;dobrych chęci<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a>. Reżyserka zwraca uwagę na&nbsp;ten problem, odwołując się do konfliktu wokół burek zakazanych od 2004 roku we francuskich szkołach. Dyskusję, która podzieliła francuską opinię publiczną, bohaterki <em>Ouvrir la voix </em>określiły jako „rozmowę Francji z&nbsp;samą sobą”. Według nich właśnie w&nbsp;debacie o&nbsp;noszonym przez część kobiet stroju wyszedł na&nbsp;jaw nie tyle strach o&nbsp;bezpieczeństwo w&nbsp;przestrzeni publicznej, ile mniej lub bardziej skutecznie ukrywana niechęć do inności. Strach przed zwerbalizowaniem różnicy polegał w&nbsp;tym przypadku na&nbsp;odmowie przyznania jej realności.</p> <p>Zrealizowany przez Gay dokument jest komentarzem i&nbsp;odpowiedzią na&nbsp;zaburzenia komunikacji w&nbsp;społeczeństwie pełnym napięć i&nbsp;nierówności. Wyróżniłabym w&nbsp;nim co najmniej dwa silne postulaty. Po&nbsp;pierwsze: praktyczny, oparty na&nbsp;uznaniu trywializowanego i&nbsp;rugowanego z&nbsp;debaty publicznej rasizmu za&nbsp;ważny problem społeczny. Po&nbsp;drugie: teoretyczny, wskazujący na&nbsp;konieczność przemyślenia na&nbsp;nowo i&nbsp;redefinicji pojęcia wspólnoty oraz samej kategorii czarności. Bohaterki <em>Ouvrir la voix</em> to przede wszystkim artystki, aktorki, performerki i&nbsp;intelektualistki. Opowiadają one o&nbsp;swoich doświadczeniach, jednocześnie budując teoretyczne utopie — to właśnie swoje działania i&nbsp;cielesną obecność w&nbsp;przestrzeni publicznej (zarówno formalną, związaną z&nbsp;wykonywanymi zawodami, jak i&nbsp;codzienne przemieszczanie się po&nbsp;ulicach francuskich miast) traktują jako formę sprzeciwu, buntu i&nbsp;emancypacji, a&nbsp;samą tożsamość jako stającą się i&nbsp;opartą na&nbsp;odmowie przyjęcia zasad i&nbsp;norm produkowanych w&nbsp;dyskursie dominującym. Przełamanie projektowanego na&nbsp;ciało obrazu czarności splata się z&nbsp;odrzuceniem postulatu społecznej produktywności, którą można rozumieć jako sprzeciw wobec reżimu heteronormatywności. Pomysł ten jest bliski postulowanej przez José Estebana Muñoza queerowej koncepcji mniejszościowości jako „wielkiej odmowy”. Muñoz pisze: „Queerowość w&nbsp;moim rozumieniu to więcej niż seksualność. To wielka odmowa podporządkowania się zasadzie wydajności, odmowa, która pozwala człowiekowi na&nbsp;odczucie i&nbsp;poznanie (…) siebie i&nbsp;innych”<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a>. Emancypacyjny gest odmowy jako wyboru mniejszościowego podmiotu polega zatem nie tyle na&nbsp;przechwytywaniu stereotypowych i&nbsp;krzywdzących znaczeń, lecz na&nbsp;opuszczeniu normy, wyjściu z&nbsp;jej ram i&nbsp;stawaniu się gdzieś poza nią. Kluczowa dla dokumentu Gay myśl afrofeministyczna przecina się tutaj z&nbsp;teorią <em>queer</em> i&nbsp;staje się propozycją nowego ujęcia wspólnoty i&nbsp;tożsamości. Koncepcja ucieleśnionej czarności czy też doświadczenia czarności jako doświadczenia ciała jest zwornikiem rozmaitych form nienormatywnych tożsamości. W&nbsp;<em>Ouvrir la voix </em>nie znajduje już zastosowania prosta opozycja białość — czarność, ponieważ sama czarność zostaje tutaj sproblematyzowana i&nbsp;ujęta jako kategoria niejednorodna i&nbsp;heterogeniczna. W&nbsp;rozmowach przeprowadzonych przez Gay można dosłyszeć zalążek nowej feministycznej wspólnoty, która powstaje, wytrącając z&nbsp;ram normatywne spojrzenia na&nbsp;ciało, a&nbsp;tym samym odmawiając rezygnacji z&nbsp;afirmacji własnej cielesności i&nbsp;czyniąc z&nbsp;niej podstawę projektu czarnej tożsamości.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Simone Browne, <em>Dark Matters. On the Surveillance of Blackness</em>, Duke University Press, Durham 2015.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Por. Sander I. Gilman, <em>Black Bodies, White Bodies: Towards the Iconography of Female Sexuality in Late Nineteenth-Century Art, Medicine and Literature</em>, „Critical Inquiry” 1985, tom 12, nr 1. Gilman w swoim artykule przywołuje i poddaje interpretacji obraz Éduarda Maneta <em>Olimpia </em>z 1863 roku. Badacz zwraca uwagę na napięcie między nagim białym ciałem Olimpii a ukrytym, niedostrzegalnym ciałem czarnoskórej służącej. Chociaż ciało Olimpii jest wystawione na ogląd, w pełni odsłania się przed okiem patrzącego, to właśnie obecność czarnoskórej służącej jest według Gilmana kluczowa dla umieszczenia „Olimpii” w kontekście dziewiętnastowiecznych wyobrażeń o seksualnej rozwiązłości i zepsuciu (białej) kobiety oraz o dzikiej i niepohamowanej naturze kobiecej seksualności (bez względu na różnicę rasową). Gilman dowodzi, że dyskursy medyczne i sztuki wizualne w drugiej połowie XIX wieku chętnie posługiwały się obrazem białej prostytutki zestawionym z wyobrażeniem czarnoskórej kobiety, co według niego ujawnia fakt istnienia silnych związków między ówczesnymi dyskursami rasistowskimi a wyobrażeniami i fantazmatami dotyczącymi kobiecego ciała.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Simone Browne, <em>Dark Matters…</em>, s. 7.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Frantz Fanon, <em>Peau noir, masques blancs</em>, Éditions du Seuil, Paris 1975.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> W tym duchu Andrzej Leder interpretuje trudności i ambiwalencje związane z polskim słowem „Żyd”, zob. Andrzej Leder, <em>Prześniona rewolucja. Ćwiczenie z logiki historycznej</em>, Wydawnictwo Krytyki Politycznej, Warszawa 2013, s. 73-75.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> O traktowaniu kolonializmu i niewolnictwa jako nieistotnych z perspektywy teraźniejszości, choć w innym kontekście, pisze Susan Buck-Morss, zob. Susan Buck-Morss, <em>Hegel, Haiti i historia uniwersalna</em>, przeł. K. Bojarska, Wydawnictwo Krytyki Politycznej, Warszawa 2014, s. 70.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Por. Sigmund Freud, <em>Fetyszyzm</em>, w: Charles de Brosses, <em>O kulcie fetyszów</em>, przeł. M. Skrzypek, IFiS PAN, Warszawa 1992, s. 133.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Zob. Simone Browne, <em>Dark Matters…</em>, s. 9; por. Iris Wigger, <em>„Black Shame”. The Campaign Against „Racial Degeneration” and Female Degradation in Interwar Europe</em>, „Race &amp; Class” 2010, t. 51, nr 3, s. 34-35. <b></b></p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Chodzi tu jednak o różnicę w obrębie wspólnoty czarnoskórych kobiet, dla których wspólnym doświadczeniem jest posiadanie niebiałego koloru skóry. Według mnie czarność jest dla Gay i jej rozmówczyń warunkiem <em>sine qua non </em>budowania takiej wspólnoty. Podczas gdy doświadczenie czarnego ciała jest tutaj określone i zdefiniowane (każda z rozmówczyń opisuje siebie jako osobę czarnoskórą), otwartą kwestią pozostaje problem kobiecości. Wydaje się, że zarówno bohaterki dokumentu, jak i reżyserka rozumieją kobiecość nieesencjalnie, traktują ją jako kategorię, która może przyjmować różne formy i odnosić się do różnie definiowanej tożsamości psychoseksualnej.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Gay traktuje wypowiadanie się w imieniu wykluczonych ze względu na kolor skóry, płeć, orientację jako formę zawłaszczenia i uciszenia dyskryminowanych. Kluczowa jest tutaj kwestia doświadczenia — nie można przemawiać z pozycji kobiety czarnoskórej i/czy homoseksualnej, jeśli nie doświadczyło się rasizmu powodowanego posiadaniem niebiałego koloru skóry i/bądź homofobii — por. <a href="https://www.youtube.com/watch?v=f8qSmsqIQLg" target="_blank" rel="noopener">https://www.youtube.com/watch?v=f8qSmsqIQLg</a> [dostęp: 24.10.2017]. Radykalizm Gay należy rozumieć również w kontekście o wiele większej widoczności białych feministek francuskich w mediach oraz gorących dyskusji toczących się z przerwami od kilkunastu lat, które dotyczą postulatu prawnego zakazu prostytucji oraz zakazu noszenia przez kobiety tradycyjnych strojów muzułmańskich w miejscach publicznych. Na tych dwóch przykładach można prześledzić, jak często w imieniu muzułmanek i pracownic seksualnych wypowiadały się białe feministki burżuazyjne, jak chociażby Élisabeth Badinter — zob. wywiad z Badinter przeprowadzony przez Patricka Simonina w programie <em>L’Invité</em> z 17 grudnia 2016 roku, <a href="https://www.youtube.com/watch?v=CHvw_i7ipYI" target="_blank" rel="noopener">https://www.youtube.com/watch?v=CHvw_i7ipYI</a>, dostęp 24 października 2017.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>José Esteban Muñoz, <em>Jak w niebie. Queerowa sztuka utopijna i wymiar estetyczny</em>, przeł. J. Burzyński, „Widok. Teorie i praktyki kultury wizualnej” 2014, nr 5, s. 5.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2017/protest-obrazow/powiedzmy-to-na-glos-czarnosc-i-queer" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

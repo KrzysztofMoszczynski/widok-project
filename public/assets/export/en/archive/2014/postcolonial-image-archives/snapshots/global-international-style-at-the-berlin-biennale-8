@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Globalny styl międzynarodowy na Berlin Biennale 8 | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/globalny-styl-miedzynarodowy-na-berlin-biennale-8">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Globalny styl międzynarodowy na Berlin Biennale 8 | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Globalny styl międzynarodowy na Berlin Biennale 8 | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/globalny-styl-miedzynarodowy-na-berlin-biennale-8">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Globalny styl międzynarodowy na Berlin Biennale 8 | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #228b22 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #228b22 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #228b22 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #228b22 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #228b22 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #228b22 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #228b22 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #228b22 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(34,139,34,0.8) !important; */
+			/* background-color:#228b22 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(34,139,34,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#228b22 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(34,139,34,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#228b22; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(34,139,34,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(34,139,34,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#228b22 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#228b22 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#228b22 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1102 parent-id-1079">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="426" data-selected-issue-color="#228b22" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/postcolonial-image-archives#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/postcolonial-image-archives/global-international-style-at-the-berlin-biennale-8">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/postkolonialne-archiwa-obrazow#toc">7</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/globalny-styl-miedzynarodowy-na-berlin-biennale-8?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Globalny styl międzynarodowy na Berlin Biennale 8</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/globalny-styl-miedzynarodowy-na-berlin-biennale-8?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=1103">Daniel Muzyczuk</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Berlin Biennale 8, 29 maja - 3 sierpnia 2014, kurator: Juan A. Gaitán</h2> <p></p> <p>Ogłoszenie o&nbsp;składzie zespołu kuratorskiego oraz lokalizacjach zeszłorocznego Berlin Biennale mogło brzmieć elektryzująco i&nbsp;zwiastować powiew świeżości. Mam tutaj na&nbsp;myśli przede wszystkim włączenie do pracy nad wystawą artystów oraz zajęcie na&nbsp;potrzeby imprezy Museum Dahlem, nieco zapomnianego muzeum etnograficznego. Deklaracje Juana A. Gaitána brzmiały nie mniej ciekawie. Przed otwarciem opowiadał o&nbsp;badaniach i&nbsp;dokonaniach Alexandra i&nbsp;Wilhelma von Humboldtów, pracujących w&nbsp;XIX-wiecznym Berlinie, jako punkcie wyjścia dla koncepcji projektu, nawiązując tym samym do współczesnych planów budowy Humboldt-Forum, do którego trafią eksponaty z&nbsp;Museum Dahlem. To wszystko zwiastowało różnorodną wystawę, która osadzi sztukę współczesną i&nbsp;jej przemiany w&nbsp;kontekście kolonialnej archeologii globalizacji. Wypowiedzi te można było potraktować z&nbsp;jednej strony jako dowód żywotnie rozwijającego się pola refleksji, łączącej teorię sztuki, studia postkolonialne, muzeologię, z&nbsp;drugiej zaś - jako kontynuację projektów takich kuratorów, jak m.in. Okwui Enwezor (Documenta 11, 2002) czy Massimiliano Gioni (Palazzo Enciclopedico, Biennale Sztuki w&nbsp;Wenecji 2013). Można by zresztą dojść do wniosku, że&nbsp;wkroczenie na&nbsp;ten obszar okazuje się konieczne, aby wyraz sztuki globalnej, którym jest każde biennale, stał się świadomy własnych ograniczeń i&nbsp;funkcji. W&nbsp;oczywisty sposób kontekstem dla działań Gaitána są również dokonania, Artura Żmijewskiego, którego łopatologiczna i&nbsp;naiwna wizja skuteczności sztuki postawiła całą imprezę i&nbsp;jej instytucjonalną strukturę pod&nbsp;znakiem zapytania. Nie sposób niestety nie mieć w&nbsp;pamięci Berlin Biennale 7, kiedy ogląda się nową edycję. Gaitán obiecywał inną wizję polityczności sztuki, która miała mieć więcej wspólnego ze współczesnym rozwojem teorii krytycznej niż z&nbsp;leninowskim wezwaniem do powszechnej rewolucji.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/globalny-styl/232-2877-1-pb-1920x-3ca.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/globalny-styl/232-2877-1-pb-330x-89c.jpg 330w,assets/cache/images/issues/2014/7/globalny-styl/232-2877-1-pb-660x-080.jpg 660w,assets/cache/images/issues/2014/7/globalny-styl/232-2877-1-pb-768x-5db.jpg 768w,assets/cache/images/issues/2014/7/globalny-styl/232-2877-1-pb-1320x-2c9.jpg 1320w" src="assets/cache/images/issues/2014/7/globalny-styl/232-2877-1-pb-660x-080.jpg" alt="" ></a>    <figcaption><p>Wolfgang Tillmans, <em>untitled</em>, 2014, detal instalacji, materiały organizatora</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Co więc stało się właściwie z&nbsp;tym obiecującym splotem? Dlaczego nawet nieprzychylnie nastawieni do edycji Żmijewskiego krytycy nie dojrzeli w&nbsp;BB8 propozycji interesującej? Można po&nbsp;prostu stwierdzić, że&nbsp;Gaitán i&nbsp;jego zespół nie poradzili sobie ze zbyt maksymalistycznie nakreśloną koncepcją. Ale przecież wielokrotnie podkreślano lokalność wystawy, podejmującej wyzwanie, którym jest Berlin i&nbsp;jego współczesna historia. Mamy więc szczegółową tematykę na&nbsp;rozległym polu problemowym. No i&nbsp;właśnie może w&nbsp;tym, zdawałoby się sprytnym, zabiegu należy dopatrywać się wszelkich przyczyn niepowodzenia. Spójrzmy na&nbsp;jedną ze zrealizowanych specjalnie na&nbsp;Biennale prac. Wolfgang Tillmans stworzył w&nbsp;Dahlem pracę <em>untitled</em> (2014), gabinet do ekspozycji artefaktów cywilizacji współczesnych berlińczyków. Znalazły się tu buty sportowe, jeansy i&nbsp;tym podobne przedmioty życia codziennego przeciętnego mieszkańca miasta. Wyobrażam sobie, że&nbsp;artysta zostaje zaproszony do wystawy, dowiaduje się o&nbsp;jednej z&nbsp;lokalizacji i&nbsp;wpada na&nbsp;pomysł, żeby przedmiotem antropologiczno-etnograficznego studium uczynić berlińczyków. Czyż nie brzmi to wręcz jak parodia <em>research-based-practice</em>? Podobny projekt przyszedłby do głowy połowie osób postawionych w&nbsp;takiej sytuacji. A&nbsp;jednak artysta zdecydował się go zrealizować, a&nbsp;kuratorzy go od tego nie odwiedli. Być może stało się tak dlatego, że&nbsp;na tej wystawie musiała znaleźć się praca, która w&nbsp;jasny sposób nawiązywałaby do splotu, o&nbsp;którym pisałem wcześniej. Zasadniczy problem całego Biennale polega na&nbsp;tym, że&nbsp;pozostałe realizacje, nawet jeśli tego splotu dotykają, robią to często w&nbsp;sposób tak abstrakcyjny czy idiosynkratyczny (pomimo że&nbsp;większość z&nbsp;nich została zamówiona właśnie na&nbsp;tą wystawę), że&nbsp;nawet szczątkowe opisy raczej wskazują na&nbsp;zmieniający się z&nbsp;pracy na&nbsp;pracę obszar, ale uniemożliwiają rekonstrukcję zamysłu kuratorskiego. Dyskursy postkolonialny czy muzeologiczny wydają się doklejone do prac, które źródłowo nie miały z&nbsp;nimi nic wspólnego.</p> <p>Powodów niepowodzenia może być wiele, ale być może podstawowym z&nbsp;nich jest pozorna aktualność pytań, które stawia Gaitán. Nie twierdzę, że&nbsp;skuteczność krytyczna postkolonializmu wyczerpała się i&nbsp;że nie oferuje on narzędzi do dekodowania współczesnej kultury. Chodzi tu raczej o&nbsp;to, że&nbsp;w&nbsp;takim nagromadzeniu prac (i problemów) widać, że&nbsp;kwestie „postkolonialne” przekształciły się w&nbsp;stały element stylu międzynarodowej sztuki współczesnej, a&nbsp;spotkanie z&nbsp;nieznanym, które zapewne było doświadczeniem odwiedzających wystawę <em>Magiciens de la Terre </em> (Centre Georges Pompidou, Grande Halle w&nbsp;Parc de la Villette 1989) stało się replikowanym, często nieświadomie, zestawem motywów i&nbsp;problemów.</p> <p>Przeanalizujmy najbardziej zwięzły opis projektu, który znalazł się w&nbsp;ulotce zawierającej mapę i&nbsp;terminarz wydarzeń towarzyszących. Gaitán pisze tam: „Na 8 Berlin Biennale prezentujemy wielu międzynarodowych artystów, których twórczość skupia się na&nbsp;badaniu pogranicza między większymi narracjami historycznymi i&nbsp;życiem jednostek. Większość z&nbsp;uczestników stworzyła na&nbsp;potrzeby wystawy nowe prace, które proponują nowe perspektywy na&nbsp;aspekty historii i&nbsp;relacje w&nbsp;jej ramach”. Można mi zarzucać, że&nbsp;analizowanie tego typu tekstów to nic innego, jak czepianie się słówek. Będę się jednak upierał, że&nbsp;rozmycie tego dwuzdaniowego oświadczenia, które określa tematykę wystawy na&nbsp;największym poziomie ogólności, jest uderzające. Znikają dyskursy krytyczne, pozostaje pojęcie historii. I&nbsp;tutaj pojawia się kolejny kłopot z&nbsp;tak zdefiniowaną problematyką wystawy. Pojęcie historii jest bowiem ściśle związane z&nbsp;projektującym własne relacje na&nbsp;każdy przedmiot badania okiem widza wychowanego w&nbsp;zachodnim kręgu kulturowym. Ta niezręczność, czy też freudowska pomyłka, pomaga być może lepiej zrozumieć klęskę Gaitána. Ponadto wydaje się, że&nbsp;ta koncepcja implicite zakłada również ogólną definicję sztuki współczesnej, której głównym narzędziem jest tak zwany <em>research</em>. Gaitán ponownie obwieszcza zmierzch wielkich narracji, które według niego podważane są przez indywidualne doświadczenia, dostępne dzięki specyficznemu trybowi pracy współczesnych artystów. Jeśli więc BB8 jest wystawą o&nbsp;potencjale krytycznym to służy on właśnie renegocjacji pojęcia historii poprzez praktyki artystyczne. To niezwykle wzniosły cel, który jednak nie ma pokrycia w&nbsp;prezentowanych pracach. Warto przyjrzeć się jeszcze kilku z&nbsp;nich: ich metodom i&nbsp;narzędziom, które posłużyły badaniu materiału historycznego. Idealnym przykładem jest <em>In Pursuit of Bling: The Coalition</em> (2014) Otobong Nkangi. W&nbsp;opisie czytamy, że&nbsp;praca</p> <blockquote>wytwarza narrację wokół minerału miki, wykorzystywanego w&nbsp;wielu przemysłowych produktach, od kosmetyków po&nbsp;systemy radarowe. Odkrycie miki w&nbsp;sklepie zielarskim w&nbsp;Marakeszu ożywiło dziecinne wspomnienia Nkangi dotyczące materiału jako lśniącej, „magicznej” substancji i&nbsp;doprowadziło do powstania pracy. Nkanga rozszerza historiografię miki poza opartą na&nbsp;wyzysku logikę przemysłu górniczego, aby wejść w&nbsp;dialog z&nbsp;afektywną pamięcią.</blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/globalny-styl/232-2879-1-pb-1920x-3ca.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/globalny-styl/232-2879-1-pb-330x-89c.jpg 330w,assets/cache/images/issues/2014/7/globalny-styl/232-2879-1-pb-660x-080.jpg 660w,assets/cache/images/issues/2014/7/globalny-styl/232-2879-1-pb-768x-5db.jpg 768w,assets/cache/images/issues/2014/7/globalny-styl/232-2879-1-pb-1320x-2c9.jpg 1320w" src="assets/cache/images/issues/2014/7/globalny-styl/232-2879-1-pb-660x-080.jpg" alt="" ></a>    <figcaption><p>Mariana Castillo Deball, <em>You have time to show yourself before other eyes</em>, 2014, detal instalacji, materiały organizatora</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Mamy tu do czynienia z&nbsp;niemal dosłownym przekładem koncepcji wystawy na&nbsp;indywidualną praktykę artystki. Sama praca wręcz poraża bogactwem. Składa się z&nbsp;wiszącej tkanej kompozycji, filmów oraz znajdujących się na&nbsp;poziomych ekspozytorach tekstów i&nbsp;zdjęć. Efektowność realizacji wynika między innymi z&nbsp;liczby wykorzystanych mediów, a&nbsp;nawet kątów, pod&nbsp;którymi ujawnione są „wyniki badań” artystki. Widz otrzymuje zestaw, który oszałamia pod&nbsp;względem estetycznym, ale pozostaje przezroczysty, jeśli chodzi o&nbsp;określenie stosunku autorki do tematu owego <em>researchu</em>. Czy krytyczność może iść w&nbsp;parze z&nbsp;nostalgią? Na&nbsp;pewno nie w&nbsp;tym przypadku. Nkanga uderza w&nbsp;wielką narrację niezlokalizowanym afektem, a&nbsp;to, co pozostaje, jest typowym przykładem gatunku określanego jako „sztuka współczesna”, gdzie lokalna egzotyka pojawia się obok problemów natury globalnej, w&nbsp;tym przypadku wyzysku wpisanego we współczesny przemysł. Pierwsze skrzypce gra tu nostalgia, która narzuca się odbiorcy i&nbsp;filtruje wszelkie znaczenia pracy. Tym samym deklasuje ona pozostałe afekty (i sensy).</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/globalny-styl/232-2881-1-pb-1920x-3ca.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/globalny-styl/232-2881-1-pb-330x-89c.jpg 330w,assets/cache/images/issues/2014/7/globalny-styl/232-2881-1-pb-660x-080.jpg 660w,assets/cache/images/issues/2014/7/globalny-styl/232-2881-1-pb-768x-5db.jpg 768w,assets/cache/images/issues/2014/7/globalny-styl/232-2881-1-pb-1320x-2c9.jpg 1320w" src="assets/cache/images/issues/2014/7/globalny-styl/232-2881-1-pb-660x-080.jpg" alt="" ></a>    <figcaption><p>Otobong Nkanga, <em>In Pursuit of Bling</em>, 2014, materiały organizatora</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Oczywiście nie oznacza to, że&nbsp;wszystkie prace zatrzymują się na&nbsp;tym poziomie. Na&nbsp;wystawie znalazły się dzieła takich twórców jak Mariana Castillo Deball czy Mario Garcia Torres, które stanowią wielopoziomowe, oparte na&nbsp;dogłębnych badaniach i&nbsp;świetnie skonstruowane narracje na&nbsp;temat reprodukcji i&nbsp;jej roli w&nbsp;narracji historycznej. Być może części z&nbsp;artystów po&nbsp;prostu zabrakło czasu, aby wznieść się ponad poziom hasła z&nbsp;Wikipedii. Twórcy tacy jak Deball i&nbsp;Torres znaczną część pracy badawczej mogli mieć za&nbsp;sobą już w&nbsp;momencie otrzymania zaproszenia do udziału w&nbsp;Biennale. Bez wsparcia ze strony sąsiadujących prac te momenty olśnień podkreślają tylko brak kierunku całości przedsięwzięcia. Właśnie w&nbsp;tych momentach widać dokładnie, że&nbsp;chodzi tutaj wyłącznie o&nbsp;„grupową wystawę światowej sztuki współczesnej w&nbsp;jednym z&nbsp;większych europejskich miast”, w&nbsp;której jako obowiązkowy ornament potraktowano „zbiorową historię widzianą oczami jednostki”, którą w&nbsp;tym przypadku jest „artysta współczesny”.</p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/globalny-styl-miedzynarodowy-na-berlin-biennale-8" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

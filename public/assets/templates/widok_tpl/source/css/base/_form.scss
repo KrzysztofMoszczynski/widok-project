@@ -1,0 +1,165 @@
+label,
+input[type=button],
+input[type=submit],
+button {
+  cursor: pointer;
+}
+
+label {
+  font-weight: normal;
+}
+
+textarea {
+  resize: vertical;
+}
+
+/* remove the yellow background color on input fields */
+input:-webkit-autofill {
+  -webkit-box-shadow: inset 0 0 0px 9999px white;
+}
+
+
+.form-group {
+  
+}
+
+.form-control {
+  height: 21px;
+  padding: 0 5px;
+  color: #000;
+  border-radius: 0;
+  background-color: $color_primary;
+  box-shadow: none;
+  border-color: $color_primary;
+  &:focus {
+    box-shadow: none;
+    border-color: #000;
+  }
+}
+
+.input-lg {
+  padding: 8px 16px;
+}
+
+.help-block {
+  font-size: 1.2rem;
+}
+
+.form-actions-text {
+  margin-top: 40px;
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+/* placeholder styles */
+
+.form-control::-webkit-input-placeholder {
+  color: #808184;
+}
+
+.form-control:-moz-placeholder {
+  color: #808184;
+  opacity: 1;
+}
+
+.form-control::-moz-placeholder {
+  color: #808184;
+  opacity: 1;
+}
+
+.form-control:-ms-input-placeholder {
+  color: #808184;
+}
+
+input[type="checkbox"], 
+input[type="radio"] {
+  margin-top: 7px;
+  outline: none !important;
+}
+
+/* awesome-bootstrap-checkbox */
+
+.checkbox label::before,
+.radio label::before {
+  top: 4px;
+  outline: 0 none !important;
+}
+
+.checkbox label::after {
+  top: 4px;
+}
+
+.radio label::after {
+  top: 7px;
+}
+
+.checkbox.checkbox-inline {
+  margin-right: 10px;
+}
+
+.checkbox-inline + .checkbox-inline,
+.radio-inline + .radio-inline {
+  margin-left: 0;
+}
+
+/* selectric jQuery plugin fix for Bootstrap */
+
+.selectize-dropdown.form-control {
+  padding: 0;
+}
+
+.selectricWrapper.form-control {
+  padding: 0;
+  border: 0 none;
+  background-color: transparent;
+}
+
+.selectricWrapper.form-control p {
+  margin: 0 !important;
+}
+
+.form-actions-text {
+  @media (min-width: 480px) {
+    text-align: left;
+  }
+}
+
+.form-actions-text-left {
+  @media (min-width: 480px) {
+    float: left;
+  }
+}
+
+.form-actions-text-right {
+  @media (min-width: 480px) {
+    float: right;
+  }
+}
+
+/*
+* login form
+*/
+
+.c-form-login,
+.c-form-signup {
+  @media (min-width: 480px) {
+    width: 450px;
+    margin: 0 auto;
+  }
+}
+
+.c-form-login,
+.c-form-signup {
+  .c-sectionheader {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.c-form-signup {
+  .form-actions-text {
+    @media (min-width: 480px) {
+      text-align: center;
+    }
+  }
+}

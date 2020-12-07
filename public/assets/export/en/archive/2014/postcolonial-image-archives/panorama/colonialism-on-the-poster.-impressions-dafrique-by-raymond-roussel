@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Kolonializm na afiszu. Impressions d’Afrique Raymonda Roussela | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/kolonializm-na-afiszu.-impressions-dafrique-raymonda-roussela">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Kolonializm na afiszu. Impressions d’Afrique Raymonda Roussela | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Kolonializm na afiszu. Impressions d’Afrique Raymonda Roussela | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/kolonializm-na-afiszu.-impressions-dafrique-raymonda-roussela">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Kolonializm na afiszu. Impressions d’Afrique Raymonda Roussela | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #228b22 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #228b22 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #228b22 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #228b22 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #228b22 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #228b22 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #228b22 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #228b22 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(34,139,34,0.8) !important; */
+			/* background-color:#228b22 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(34,139,34,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#228b22 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(34,139,34,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#228b22; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(34,139,34,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(34,139,34,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#228b22 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#228b22 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#228b22 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1099 parent-id-1077">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="426" data-selected-issue-color="#228b22" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/postcolonial-image-archives#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/postcolonial-image-archives/colonialism-on-the-poster.-impressions-dafrique-by-raymond-roussel">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/postkolonialne-archiwa-obrazow#toc">7</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/kolonializm-na-afiszu.-impressions-dafrique-raymonda-roussela?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Kolonializm na afiszu. Impressions d’Afrique Raymonda Roussela</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/kolonializm-na-afiszu.-impressions-dafrique-raymonda-roussela?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=805">Tomasz Swoboda</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2751-1-pb-1920x-b3a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2751-1-pb-330x-a56.jpg 330w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2751-1-pb-660x-52c.jpg 660w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2751-1-pb-768x-c71.jpg 768w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2751-1-pb-1320x-653.jpg 1320w" src="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2751-1-pb-660x-52c.jpg" alt="" ></a>    <figcaption><p>Afisz do spektaklu <em>Impressions d’Afrique</em> (Théâtre Antoine, Paryż, 1912)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Na pierwszym planie widnieje przenośny piec z&nbsp;płonącym ogniem, w&nbsp;którym klęczący na&nbsp;prawym kolanie Afrykanin trzyma cienki, żelazny drąg. Drugi drąg znajduje się w&nbsp;ręku innego Afrykanina o&nbsp;wyłupiastych oczach, który, w&nbsp;odróżnieniu od pierwszego, oprócz przepaski na&nbsp;biodrach ma na&nbsp;sobie jeszcze białe okrycie tułowia. Końcówka tego drąga przytknięta jest do pięt trzeciej czarnoskórej postaci, której związane z&nbsp;tyłu ręce wskazują na&nbsp;status skazańca. Drugi plan sceny tworzą stojący po&nbsp;bokach Europejczycy: mężczyźni w&nbsp;białych strojach i&nbsp;nakryciach głowy, kobiety w&nbsp;długich sukniach i&nbsp;kapeluszach z&nbsp;woalami. Przyglądają się działaniom czarnoskórych z&nbsp;zaciekawieniem bądź przerażeniem. W&nbsp;tle widać palmy i&nbsp;tłum, złożony zarówno z&nbsp;białych, jak i&nbsp;czarnych. Z&nbsp;tyłu, po&nbsp;lewej, siedzi na&nbsp;tronie wódz w&nbsp;długiej, ciemnej szacie. Po&nbsp;prawej widzimy zatknięte na&nbsp;kijach, czarne głowy ofiar.</p> <p>Obraz narysowany jest mało wyrafinowaną kreską, rysy postaci są nienaturalne, przesadzone, a&nbsp;kompozycja opiera się na&nbsp;układzie kontrastów. Przede wszystkim czerń i&nbsp;biel – strojów, ale i&nbsp;skóry. Barbarzyństwo i&nbsp;cywilizacja: w&nbsp;centrum to pierwsze, ta druga na&nbsp;obrzeżach. Aktywność i&nbsp;bierność: działanie zarezerwowane jest dla czarnoskórych postaci w&nbsp;białych strojach, stoi po&nbsp;stronie barbarzyństwa i&nbsp;dzikości, a&nbsp;jego efekty – głowy dekapitowanych – posępnie wdarły się nawet na&nbsp;pasywny trzeci plan. Bijąca z&nbsp;obrazu makabra wydaje się bez reszty wpisywać w&nbsp;jedno z&nbsp;tradycyjnych ujęć egzotyki i&nbsp;szerzej – stereotypu obcości jako niebezpiecznej, monstrualnej siły, budzącej zarazem lęk i&nbsp;fascynację.</p> <p>Sprawa nie jest jednak tak prosta, choć dodany do obrazu element słowny zdaje się ją jeszcze upraszczać. W&nbsp;prawym dolnym rogu znajduje się napis „Acte des supplices” – akt tortur. Z&nbsp;górnej części dowiadujemy się, że&nbsp;chodzi o&nbsp;<em>Impressions d’Afrique</em> – „Impresje z&nbsp;Afryki”, sztukę Raymonda Roussela, adaptację jego powieści pod&nbsp;tym samym tytułem, wystawioną w&nbsp;Théâtre Antoine, w&nbsp;roku 1912 (o tym już informują źródła). Obraz, wyglądający na&nbsp;wizualną esencję kolonialnego wyobrażenia Czarnego Lądu, jest więc afiszem teatralnym mającym zachęcić widzów do obejrzenia sztuki. Dość wiernie oddaje jeden z&nbsp;jej epizodów, tak samo jak teatralna adaptacja jest całkiem wierną próbą przeniesienia powieści na&nbsp;scenę.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2753-1-pb-1920x-a6b.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2753-1-pb-330x-f9e.jpg 330w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2753-1-pb-660x-1d7.jpg 660w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2753-1-pb-768x-d01.jpg 768w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2753-1-pb-1320x-9a5.jpg 1320w" src="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2753-1-pb-660x-1d7.jpg" alt="" ></a>    <figcaption><p>Fotografia ze spektaklu <em>Impressions d’Afrique</em> (Théâtre Antoine, Paryż, 1912)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Pomimo wszystkich tych oczywistości i&nbsp;właściwie braku przestrzeni na&nbsp;podważenie tego, co widać, chciałbym się tutaj zastanowić nad możliwością zobaczenia na&nbsp;tym afiszu czegoś innego, może nawet odwrotności „tego, co widać”. Droga do celu musi być jednak okrężna i&nbsp;wieść przez szlak literatury.</p> <p>Raymond Roussel był za&nbsp;życia pisarzem słabo znanym i&nbsp;musiał wydawać swoje utwory własnym sumptem. Sytuację zmieniła nieco publikacja zbioru tekstów <em>Comment j’ai écrit certains de mes livres </em>(„Jak napisałem niektóre z&nbsp;moich książek”) w&nbsp;roku 1935<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. Tyle że&nbsp;Roussel nie mógł już wtedy wydawać żadnych utworów, gdyż od dwóch lat nie żył<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Wspomniany zbiór tekstów to rodzaj literackiego testamentu, opublikowanego staraniem Michela Leirisa, gdzie, stosownie do tytułu, Roussel wyjawia zasadę, która posłużyła mu do stworzenia dzieł, za&nbsp;jego życia uważanych za&nbsp;niestrawne, a&nbsp;w najlepszym wypadku dziwaczne (jedyną grupą zainteresowaną pismami Roussela byli surrealiści). Testament ten każe zweryfikować wyobrażenia na&nbsp;temat autora w&nbsp;takiej mierze, w&nbsp;jakiej formuła „w tym szaleństwie jest metoda” pozwala odkryć w&nbsp;nim na&nbsp;swój sposób racjonalnego geniusza. Okazuje się bowiem, że&nbsp;wyprzedzając o&nbsp;parę dekad matematycznych poetów z&nbsp;OuLiPo, Roussel nie tworzył „niektórych ze swoich książek” na&nbsp;podstawie wyobraźni, lecz skomplikowanego procederu, <em>procédé</em>, w&nbsp;którym aleatoryczne gry homonimów dyktowały mu, właściwie zdanie po&nbsp;zdaniu, treść opowiadania i&nbsp;przebieg akcji. Nie miejsce to, by ten proceder czy choćby jego założenia prezentować w&nbsp;szczegółach. A&nbsp;że w&nbsp;ogółach nie ma to większego sensu, poprzestańmy na&nbsp;konstatacji, że&nbsp;po pośmiertnym ujawnieniu i&nbsp;późniejszych analizach „procederu” Roussel wszedł wreszcie do historii literatury, ale nie jako – tak jak marzył – wybitny kontynuator Wiktora Hugo, Juliusza Verne’a czy Pierre’a Lotiego, lecz jako prekursor oulipijczyków, czołowy eksperymentator nowoczesności i&nbsp;źródło natchnienia dla wielu teoretyków, filozofów i&nbsp;lingwistów, potrafiących bez końca rozprawiać nad problemem autonomii języka czy też rozziewu między tymże językiem a&nbsp;rzeczywistością. Jak to ujął jeden z&nbsp;angielskich badaczy, „sednem problemu – podobnie jak w&nbsp;wypadku innych eksperymentatorów nowoczesnej literatury – jest nie tyle to, co Roussel ma do powiedzenia czytelnikowi, ile pewne »jak« i&nbsp;»skąd« tego literackiego przedsięwzięcia”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>.</p> <p>Sąd ten podsumowuje stan badań nad Rousselem pod&nbsp;koniec lat siedemdziesiątych, lecz późniejsze studia były raczej kolejnymi cegiełkami dokładanymi do pokaźnego już gmachu rousselologii niż próbami wyznaczania jej zupełnie nowych kierunków. Sytuacji tej nie da się wytłumaczyć samym tylko cieniem wielkiego Foucaulta, który do pewnego stopnia wyznaczył sposób myślenia o&nbsp;dziele Roussela. Ostatnie dekady, które w&nbsp;humanistyce zaowocowały postawami odżegnywania się od dziedzictwa <em>French Theory</em>, niewiele bowiem w&nbsp;tej dziedzinie zmieniły. Wydaje się, że&nbsp;charakter twórczości Roussela faktycznie zadecydował o&nbsp;tym, że&nbsp;jest ona do uratowania wyłącznie na&nbsp;polu językowej kombinatoryki. Trudno mówić o&nbsp;intrydze czy obrazach, skoro po&nbsp;przeczytaniu <em>Comment j’ai écrit certains de mes livres</em> wiemy, że&nbsp;zostały one podyktowane przez czysto językową grę. „Legendy, historie, mity – pisze Sjef Houppermans – zawsze pełnią u&nbsp;Roussela przede wszystkim funkcję ujednolicającą; to sposób porządkowania konkretnych, wielokształtnych elementów wynikających z&nbsp;procederu”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Tekst jest zatem w&nbsp;pewnym sensie samowystarczalny: nie tylko obywa się bez odniesień do rzeczywistości, lecz wszelkie takie odniesienia każe uznać za&nbsp;wtórne i&nbsp;nieznaczące. Tworzone zaś przez tekst obrazy tracą jak gdyby konsystencję. Pomimo egzotycznej – jak w&nbsp;<em>Impressions d’Afrique</em> – intensywności raczej odsyłają z&nbsp;powrotem do budujących je słów, niż zacierają po&nbsp;nich ślady. Rousselowska narracja staje się zjawiskiem samym w&nbsp;sobie i&nbsp;zanurzonym we własnej genezie, a&nbsp;nie w&nbsp;świecie, z&nbsp;którym nawiązywałoby jakiś kontakt. Jest więc czymś na&nbsp;kształt <em>Panny młodej rozebranej przez swych kawalerów, jednak</em> – dzieła, którego powstanie wiąże Duchamp właśnie z&nbsp;obejrzeniem inscenizacji <em>Impressions d’Afrique</em><sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>.</p> <p>Wydaje się zatem, że&nbsp;jakakolwiek próba analizy tematów i&nbsp;obrazów w&nbsp;utworach Roussela nie tylko skazana jest na&nbsp;porażkę i&nbsp;jałowość, ale może też narazić jej autora na&nbsp;śmieszność i&nbsp;zarzut kompletnej dekontekstualizacji interpretowanego dzieła. Tym chętniej więc uczynię to w&nbsp;niniejszym szkicu, gdzie postaram się przyjrzeć Rousselowskiemu archiwum obrazów zawartym w&nbsp;<em>Impressions d’Afrique</em>, a&nbsp;przede wszystkim obrazowi z&nbsp;afisza reklamującego sztukę pod&nbsp;tym samym tytułem, umieszczając je w&nbsp;perspektywie kolonializmu.</p> <p>Nie mam, rzecz jasna, zamiaru pretendować tu do miana prekursora w&nbsp;tego typu podejściu do Rousselowskiego tekstu. Pisane w&nbsp;podobnym duchu studia powstawały, a&nbsp;wśród ich autorów znajdziemy tak zasłużone dla rousselologii nazwiska, jak Jean Ferry, Anne-Marie Amiot czy Annie Le Brun. Pierwszy z&nbsp;nich jest twórcą książki, która w&nbsp;patafizycznej tonacji (autor był członkiem Kolegium 'Patafizyki) posuwa tropienie afrykańskich realiów do skrajności, a&nbsp;w pewnym sensie – także do absurdu. Oprócz dość kompletnego spisu fauny i&nbsp;flory, jaka pojawia się na&nbsp;kartach <em>Impressions</em>, znajdziemy też jednak u&nbsp;Ferry’ego znamienne zdanie, że&nbsp;„proceder anagramu dostarcza absolutnie wszystkiego, czego od niego oczekujemy, czyli niczego”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. Anne-Marie Amiot oddaje się zaś analizie mitów i&nbsp;legend w&nbsp;afrykańskiej opowieści Roussela, zwracając uwagę na&nbsp;to, że&nbsp;proceder determinuje treść utworu całkiem aleatorycznie<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>, a&nbsp;jej funkcjonowanie oraz ostateczny kształt i&nbsp;układ pozwalają na&nbsp;jej przynajmniej częściowo autonomiczną analizę. Annie Le Brun z&nbsp;kolei dowodzi – co najbardziej istotne dla niniejszych rozważań – że&nbsp;<em>Impressions d’Afrique</em> nosi wyraźne ślady ówczesnej wizji Afryki, wojny w&nbsp;Dahomeju czy też spektakli etnograficznych i&nbsp;tanecznych, jakie wystawiano w&nbsp;Paryżu na&nbsp;początku XX wieku<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Tą właśnie drogą czy raczej wąską ścieżką chciałbym pójść w&nbsp;dalszej analizie, trochę na&nbsp;przekór utartym, choć zawsze interesującym szlakom rousselologii oraz opiniom takim jak ta, według której szukanie u&nbsp;Roussela jakiegokolwiek sensu moralnego – co czyni Anne-Marie Amiot – jest „pozbawione sensu”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>.</p> <p>Takie podejście wymaga poruszenia kwestii realizmu czy też po&nbsp;prostu realiów w&nbsp;tekście Roussela. Podporządkowanie przez niego interpretacji „procederowi” musi prowadzić do wniosku o&nbsp;swego rodzaju uśmiercaniu rzeczywistości. Oddanie inicjatywy słowom decyduje o&nbsp;nieistotności odniesień do świata i&nbsp;jest jak gdyby blanchotowskim aspektem tej twórczości: tak jak autor <em>Tomasza Mrocznego</em> widział w&nbsp;pracy pisarza odpowiednik spojrzenia Orfeusza, gdyż przeniesienie rzeczywistości do literatury nie może się obyć bez jej uśmiercenia, tak Roussel niejako na&nbsp;wstępie ogłasza ją martwą – martwą dla autonomicznego języka i&nbsp;jego wewnętrznej kombinatoryki. Można też jednak ująć to inaczej, jak choćby autorka wprowadzenia do jednego z&nbsp;wydań <em>Impressions</em>: „Materię do opowieści czerpie Roussel przede wszystkim ze słownika – używał Bescherelle’a – nie z&nbsp;czystego formalizmu jednak, lecz w&nbsp;trosce o&nbsp;zbudowanie osobnego świata, który nie ma nic wspólnego z&nbsp;tym, który znamy”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. Dlatego też André Breton mógł napisać w&nbsp;<em>Manifeście surrealizmu</em>, że&nbsp;„Roussel jest surrealistą w&nbsp;anegdocie”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>.</p> <p>Potwierdza się to w&nbsp;<em>Impressions d’Afrique</em>, gdzie intryga sprowadza się do skomplikowanych, niezrozumiałych „numerów” scenicznych (rozdziały I-X), które znajdują następnie wyjaśnienie w&nbsp;rozdziałach XI – XXVI. Dopiero tam, w&nbsp;drugiej części książki, czytelnik dowiaduje się, że&nbsp;popisy przygotowane zostały przez europejskich rozbitków, którzy trafili do kraju cesarza Talou i&nbsp;w oczekiwaniu na&nbsp;okup zajmują czas cyrkowymi cudami, mającymi uczcić objęcie przez Talou w&nbsp;posiadanie nowych ziem. „Numery” obejmują takie atrakcje, jak dżdżownica grająca na&nbsp;cytrze, jednonogi Lelgoualch grający na&nbsp;flecie sporządzonym z&nbsp;jego własnej piszczeli czy też legendarna statua z&nbsp;fiszbinów jeżdżąca po&nbsp;szynach z&nbsp;cielęcych płucek<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Historia zachowuje schemat powieści przygodowej, lecz zamiast kolonialnego podboju czy odkrywania nowych lądów otrzymujemy treść, która – jak się na&nbsp;pierwszy rzut oka wydaje − równie dobrze mogłaby się znaleźć w&nbsp;zupełnie innych ramach, gdyż autor „maksymalnie zaciera wszelkie szczegółowe odniesienie do czasoprzestrzeni”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Ta, którą kreuje Roussel, jest – jak ją nazywa jeden z&nbsp;krytyków – <em>feuilletée</em>, czyli złożona z&nbsp;cienkich warstw, jak ciasto francuskie: pod&nbsp;warstwą cudów i&nbsp;wynalazków znajduje się warstwa determinujących je opowieści, a&nbsp;pod tymi – warstwa determinujących je wyrazowych połączeń<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. A&nbsp;pod tymi? A&nbsp;może kolejność jest odwrotna? Może pod&nbsp;spodem jest właśnie Afryka taka, jaką widzimy na&nbsp;teatralnym afiszu, i&nbsp;to ona – z&nbsp;wiedzą autora czy bez niej – determinuje kolejne warstwy? To ona jest wszak tym, co jest dane, co istnieje jeszcze przed procederem i&nbsp;co każde odniesienie do siebie – powieść, sztukę teatralną i&nbsp;afisz ją reklamujący − każe postrzegać jako usytuowanie się, pozycjonowanie „wobec”, choćby było to pozycjonowanie się polegające na&nbsp;zatarciu śladów, na&nbsp;zignorowaniu czy wyparciu.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2755-1-pb-1920x-3f4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2755-1-pb-330x-6e2.jpg 330w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2755-1-pb-660x-a0f.jpg 660w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2755-1-pb-768x-b99.jpg 768w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2755-1-pb-1320x-c32.jpg 1320w" src="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2755-1-pb-660x-a0f.jpg" alt="" ></a>    <figcaption><p>Afisz do spektaklu <em>Impressions d’Afrique</em> (Théâtre Antoine, Paryż, 1912)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>„Jaka Afryka? – pyta Pierre Bazantay w&nbsp;odniesieniu do <em>Impressions d’Afrique</em>. – Afryka bez Afryki? Inna Afryka? Afryka jako pretekst?”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. Jeśli chodzi o&nbsp;realia geograficzne, to w&nbsp;powieści pojawiają się trzy niefikcyjne nazwy geograficzne: Trypolis, Porto-Novo i&nbsp;Bidżaja. Miejscem akcji jest jednak cesarstwo Ponukele i&nbsp;sąsiednie królestwo Drelszkaff, świeżo zjednoczone pod&nbsp;rządami Talou. Drobiazgowa analiza pozwoliła Jeanowi Ferry’emu umiejscowić te ziemie na&nbsp;terenach obecnej Nigerii i&nbsp;Konga – obszarach skądinąd dobrze znanych z&nbsp;kolonialnej przeszłości, która w&nbsp;latach 1909 (publikacja powieści) i&nbsp;1911–1912 (jej inscenizacje) była jeszcze teraźniejszością. Roussel, wielki podróżnik, nigdy się na&nbsp;te tereny nie zapuścił, a&nbsp;odnalezione w&nbsp;1989 roku notatki do powieści sporządził w&nbsp;Egipcie<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. W&nbsp;pierwszej chwili może dziwić, dlaczego na&nbsp;ramę swojej w&nbsp;pewnym sensie uniwersalnej – bo&nbsp;mogącej rozegrać się wszędzie – opowieści nie wybrał którejś ze znanych sobie, a&nbsp;nie mniej egzotycznych krain. W&nbsp;swojej rozprawie <em>Comment parler des lieux où l’on n’a pas été? </em>(„Jak rozmawiać o&nbsp;miejscach, w&nbsp;których nie byliśmy?”) Pierre Bayard przypomina jednak, że&nbsp;„miejsca, których nie znamy, funkcjonują na&nbsp;wzór snu czy też dziennego marzenia, ofiarowują przestrzeń sprzyjającą nieświadomym fantazjom i&nbsp;pozwalają odsłonić wyparcie. W&nbsp;tym sensie są odpowiednikiem Innej Sceny”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. W&nbsp;tym także sensie plac Trofeów, centralny punkt Ponukele, w&nbsp;którym rozgrywa się cała „akcja” <em>Impressions</em> i&nbsp;który widnieje na&nbsp;naszym afiszu, może być takim Rousselowskim <em>andere Schauplatz</em>, gdzie – niezależnie od „procederu”, niezależnie od śmierci rzeczywistości − odbijają się afrykańskie fantazje i&nbsp;fantazmaty, właściwe Rousselowi i&nbsp;być może całej epoce.</p> <p>Właśnie – odbijają. Tytuł powieści, sztuki i&nbsp;afisza to nie tylko impresje w&nbsp;znaczeniu „wrażenia, doznania”. Po&nbsp;pierwsze, jeśli podążymy drogą Rousselowskiego procederu, okaże się, że&nbsp;<em>impressions d’Afrique</em> to także <em>impressions à fric</em>, czyli „druk za&nbsp;własną kasę” – codzienna rzeczywistość autora, zarówno jeśli chodzi o&nbsp;finansowanie powieści, jak i&nbsp;sztuk czy afiszów<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. Po&nbsp;drugie zaś, co dla nas ważniejsze, <em>impressions</em> w&nbsp;znaczeniu druku i&nbsp;odbicia w&nbsp;ogóle pojawiają się w&nbsp;powieści parokrotnie: czy chodzi o&nbsp;skomplikowaną maszynę do malowania, będącą w&nbsp;gruncie rzeczy wymyślną drukarką, czy o&nbsp;szatę cesarza, na&nbsp;której figuruje wielka mapa Afryki, czy też o&nbsp;scenę z&nbsp;afisza, w&nbsp;której Rao za&nbsp;pomocą rozgrzanego, żelaznego pręta „drukuje” na&nbsp;stopach Mossema treść zdradzieckiego listu, który doprowadził go do zguby<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. Wyprzedzając o&nbsp;kilka lat słynny wynalazek z&nbsp;<em>Kolonii karnej</em> Kafki, Roussel z&nbsp;jednej strony kontynuuje swoją manię miniaturysty<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>, z&nbsp;drugiej zaś powtarza być może zasłyszane czy wyczytane metody kolonialnych tortur: już w&nbsp;XVII wieku znane było wszak wypalanie na&nbsp;ciele skazańców symboli popełnionych przez nich przestępstw<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. Decydując zaś o&nbsp;umieszczeniu tej właśnie sceny na&nbsp;afiszu reklamującym sztukę, autor <em>Impressions</em> nie przestaje bawić się swoim „procederem”, gdyż, tak jak to ma w&nbsp;zwyczaju, bierze słowo „w dwóch różnych znaczeniach”<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>, w&nbsp;tym wypadku <em>impressions</em> jako „impresje” i&nbsp;„wyciski, ślady”, lecz umieszczając, by tak rzec, te dwa sensy na&nbsp;jednej płaszczyźnie – czego możliwość daje wyłącznie podpisany obraz, czyli afisz – daje znać, że&nbsp;etymologia jest tu sensem właściwym, że&nbsp;dopiero nałożenie tych dwóch sensów daje rozwiązanie szarady, jakim jest: „wypalanie śladów winy (<em>impressions</em>) to najważniejsze wrażenia (<em>impressions</em>) z&nbsp;Afryki”. W&nbsp;1912 roku mogło to faktycznie działać jak atrakcyjna reklama, łącząca makabrę, spektakularność i&nbsp;popularną grę towarzyską.</p> <p>Afisz zwraca się do publiczności, która podziela artystyczny gust Roussela. Ten znakomity szachista, świetny pianista i, jak się później okazało, oryginalny literacki eksperymentator uwielbiał widowiska w&nbsp;rodzaju teatru dla dzieci, teatru bulwarowego, wodewilu i&nbsp;operetki, z&nbsp;pisarzy zaś ponad wszystkimi cenił Hugo, Verne’a, Lotiego oraz… astronoma Camille’a Flammariona. Anne-Marie Amiot wykazuje też, jak wiele powieści Roussela zawdzięczają trzeciorzędnej literaturze popularnej z&nbsp;gatunku Michela Zévaco, Paula d’Ivoi czy Gustave’a Le Rouge'a<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>. François Caradec, patafizyk i&nbsp;biograf Roussela, sugeruje wręcz, że&nbsp;cała Afryka w&nbsp;<em>Impressions</em> wzięta jest z&nbsp;ilustrowanych wydań <em>Le Roman d’un Spahi</em> Lotiego i&nbsp;może jeszcze z&nbsp;relacji z&nbsp;II wojny Francuzów z&nbsp;Dahomejem, które musiały silnie naznaczyć nastoletniego wówczas Roussela<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>. Tak czy inaczej, cały ten zestaw źródeł tworzy imaginarium, którego dwiema podstawowymi cechami są spektakularność oraz stereotypowość – cechy, które bez trudu odnajdziemy także na&nbsp;teatralnym afiszu.</p> <p>Tak jak mamy na&nbsp;nim do czynienia z&nbsp;utożsamieniem dwóch „impresji” − wrażeń i&nbsp;tortur − tak też dochodzi tu do innego utożsamienia: Afryki i&nbsp;spektaklu. Przedstawione impresje-tortury są bowiem widowiskiem, a&nbsp;zgromadzony na&nbsp;placu tłum to po&nbsp;prostu teatralni czy może raczej jarmarczni widzowie, przyglądający się akcji, ale i&nbsp;temu, co nazywano wówczas <em>phénomènes</em>, czyli dziwom natury. Sztuka i&nbsp;powieść Roussela<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup> zawierają liczne sceny, w&nbsp;których autochtoni występują, inscenizują, przedstawiają, a&nbsp;głównie tańczą. To choćby dziesięć kobiet frenetycznie pochłaniających pożywienie, a&nbsp;następnie tańczących religijny taniec<em> Luenn’chétuz</em>: „rozgorączkowane, rozczochrane baleriny, wstrząsane swoim straszliwym bekaniem i&nbsp;uderzaniem pięściami, mijały się, goniły, wykrzywiały na&nbsp;wszystkie strony, jakby ogarnięte przerażającym szałem”<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>. Gdzie indziej widzimy „setki czarnych”, „w zręcznych podskokach” wyrażających radość na&nbsp;widok rozbitków<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>. To sceny jak gdyby wyjęte wprost z&nbsp;<em>Histoire naturelle du genre humain</em> z&nbsp;1824 roku, gdzie Afrykanie „wspinają się, skaczą na&nbsp;linach i&nbsp;wyczyniają akrobacje z&nbsp;cudowną łatwością, w&nbsp;której równać się z&nbsp;nimi mogą tylko małpy, ich współziomkowie i&nbsp;być może starsi bracia w&nbsp;porządku natury”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>.</p> <p>Ponieważ właściwie cała akcja powieści jest jednym wielkim spektaklem, Roussel znakomicie wpisuje się w&nbsp;dziewiętnastowieczny model postrzegania Afryki, którego echa słychać jeszcze w&nbsp;zamykającym tamto stulecie opowiadaniu Conrada: „Mijaliśmy różne miejsca – placówki handlowe o&nbsp;nazwach takich jak Gran’Bassam czy Little Popo, zupełnie jakby to były nazwy jakichś obskurnych teatrzyków rewiowych, gdzie tłem przedstawienia jest ponura, czarna szmata”<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>. To już jednak zdegradowana wersja tej wizji, która najpełniej rozkwita w&nbsp;połowie wieku, choćby u&nbsp;prostodusznego narratora powieści Melville’a, tak opisującego czarnoskórego majtka:</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2757-1-pb-1920x-3f4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2757-1-pb-330x-6e2.jpg 330w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2757-1-pb-660x-a0f.jpg 660w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2757-1-pb-768x-b99.jpg 768w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2757-1-pb-1320x-c32.jpg 1320w" src="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2757-1-pb-660x-a0f.jpg" alt="" ></a>    <figcaption><p>Somalijczycy w&nbsp;<em>Jardin d’acclimatation</em> (1890)</p></figcaption>   </figure>  </section><section class="u-typo">   <blockquote>Pip, choć nazbyt czułego serca, był w&nbsp;gruncie rzeczy bardzo żywy, tą miłą, radosną, wesołą żywością, właściwą jego plemieniu, które zawsze obchodzi wszystkie święta i&nbsp;uroczystości z&nbsp;większą i&nbsp;bardziej niewymuszoną radością niż jakakolwiek inna rasa. Dla czarnych kalendarz powinien by wskazywać wyłącznie trzysta sześćdziesiąt pięć Czwartych Lipca lub Dni Noworocznych. Nie uśmiechajcie się też, gdy napiszę, że&nbsp;ten czarnulek był błyskotliwy, albowiem nawet czerń ma swój połysk; spójrzcie tylko na&nbsp;lśniący heban boazerii w&nbsp;komnatach królewskich<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>.</blockquote> <p>Administracje kolonialne dbały o&nbsp;to, aby ludność w&nbsp;metropoliach mogła upewnić się co do prawdziwości słów Izmaela, oglądając „czarnulków” i&nbsp;inne rasy dokładnie tak, jak hebanową boazerię i&nbsp;inne meble, o&nbsp;rozmaitych odcieniach połysku. W&nbsp;tym samym roku, w&nbsp;którym ukazuje się <em>Moby Dick</em>, The Great Exhibition w&nbsp;londyńskim Crystal Palace pokazuje sześciu milionom widzów hinduskich penitentów oraz Indian. To początek długiej, ciągnącej się przez ponad pół wieku tradycji „ludzkich zoo”, obejmującej „wystawy” w&nbsp;największych miastach Europy, gdzie cieszyły się one olbrzymim powodzeniem. Tłumy Europejczyków jeździły do Berlina, Paryża, Moskwy, Wiednia, Antwerpii, Brukseli, Glasgow, Cork, Wolverhampton, Bradford, Liège, Marsylii, Londynu i&nbsp;wielu innych miast, nierzadko czarterowymi pociągami, żeby oglądać – z&nbsp;przerażeniem i&nbsp;fascynacją, jak na&nbsp;afiszu Roussela – kolorowego, połyskującego podczłowieka<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>. „Publiczność żąda dziwnych, dzikich, żarłocznych bestii, zupełnie innych od gatunków europejskich, po&nbsp;to, aby się wyobcować i&nbsp;pomarzyć o&nbsp;dalekich krainach”<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>. W&nbsp;Paryżu Roussela takie „wystawy” i&nbsp;„ludzkie zoo”, a&nbsp;później „wioski murzyńskie” inscenizowane są w&nbsp;roku 1878, 1889, 1891, 1893, 1900, 1907 i&nbsp;jeszcze w&nbsp;1931. Oprócz tych wydarzeń o&nbsp;przynajmniej częściowo etnograficznych ambicjach<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup> Afrykanie są w&nbsp;Paryżu oglądani jako widowiskowi aktorzy: w&nbsp;Folies-Bergère występują regularnie Zulusi, a&nbsp;karnawał w&nbsp;Nicei – główny temat pierwszego dzieła Roussela, <em>La Doublure</em> – chętnie korzysta z&nbsp;czarnoskórych z&nbsp;ich „błyszczącymi miedzianymi pierścieniami i&nbsp;dziko wybałuszonymi oczami”<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2759-1-pb-1920x-3f4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2759-1-pb-330x-6e2.jpg 330w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2759-1-pb-660x-a0f.jpg 660w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2759-1-pb-768x-b99.jpg 768w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2759-1-pb-1320x-c32.jpg 1320w" src="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2759-1-pb-660x-a0f.jpg" alt="" ></a>    <figcaption><p>Plakat reklamowy (1882)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Uprawnione jest więc stwierdzenie Annie Le Brun, że&nbsp;na przełomie wieków Afryka stała się „miejscem spektakularności <em>par excellence</em>”<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup>. Niezliczone reklamy – szuwaksu, rumu, czekolady, ale i&nbsp;proszku do prania, mydła czy pasty do zębów – wykorzystują stereotypowy obraz Afrykanina, czyniąc zeń niemal stereotyp stereotypu. To mnożenie i&nbsp;krzyżowanie poziomów obecne jest z&nbsp;całą mocą na&nbsp;Rousselowskim afiszu, na&nbsp;którym układają się one jak ciasto francuskie: Czarni reklamują tu wytwór białego człowieka, ale także siebie samych jako siłę sprawczą; reklamują widzom spektakl, ale taki, w&nbsp;którym Afrykanów oglądają inni widzowie, na&nbsp;dodatek sami odgrywający role dziwów natury, tradycyjnie przyporządkowaną Czarnym; poza tym w&nbsp;sztuce Roussela role Afrykanów grają biali aktorzy, z&nbsp;Dorivalem w&nbsp;roli cesarza Talou na&nbsp;czele – jego groteskowe oblicze z&nbsp;wyszczerzonymi zębami i&nbsp;kuriozalnym pióropuszem na&nbsp;głowie widnieje na&nbsp;pierwszej stronie programu. <em>Impressions d’Afrique</em> – mówi w&nbsp;tym kontekście afisz – to spektakl o&nbsp;spektakularności, w&nbsp;którym znajdziecie wszystko, czego się spodziewacie, wszystko, czego oczekujecie. Ta ostentacyjność słusznie wydała się podejrzana Deleuze’owi i&nbsp;Guattariemu, według których „schizofreniczne maszyny Raymonda Roussela przemieniają się w&nbsp;perwersyjne maszyny teatru, który reprezentuje Afrykę”<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2761-1-pb-1920x-3f4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2761-1-pb-330x-6e2.jpg 330w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2761-1-pb-660x-a0f.jpg 660w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2761-1-pb-768x-b99.jpg 768w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2761-1-pb-1320x-c32.jpg 1320w" src="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2761-1-pb-660x-a0f.jpg" alt="" ></a>    <figcaption><p>Plakat reklamowy (1878)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Co składa się na&nbsp;tę stereotypową, reprezentacyjną i&nbsp;reprezentatywną perwersję? Oprócz radośnie skaczących hord tubylców, żarłocznych, poczochranych tancerek i&nbsp;Murzyniątka chyżo przemykającego po&nbsp;gałęziach wielkiego drzewa, by zbierać ptasie gniazda<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup> − wszyscy wprost wyjęci z&nbsp;antropologicznego podręcznika Vireya – mamy w&nbsp;opowieści Roussela „ponukelejską armię, składającą się ze wspaniałych wojowników o&nbsp;hebanowej skórze”<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>, zapewne identycznej z&nbsp;tą, którą Izmael tak wychwalał u&nbsp;Pipa. Mamy widoczne na&nbsp;afiszu trofea:</p> <blockquote>Doskonały kwadrat esplanady wytyczał z&nbsp;każdej strony rząd stuletnich sykomor; na&nbsp;broni wetkniętej głęboko w&nbsp;korę każdego pnia wisiały ucięte głowy, sztandary, wszelkiego rodzaju ozdoby zgromadzone tam przez Talou VII i&nbsp;jego przodków po&nbsp;powrocie z&nbsp;licznych triumfalnych kampanii<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>.</blockquote> <p>Tu znowu trudno nie pomyśleć o&nbsp;posępnym krajobrazie „głów zatkniętych na&nbsp;tyczkach” w&nbsp;<em>Jądrze ciemności</em><sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup>. Nie może się wreszcie obyć bez „straszliwych kanibali” sycących się ciałem rozbitków w&nbsp;jednej z&nbsp;hipodiegetycznych opowieści: „każdego dnia jeden z&nbsp;więźniów był bezzwłocznie pożerany w&nbsp;obecności pozostałych”<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup>.</p> <p>Z jednej strony mamy więc u&nbsp;Roussela cudowne popisy sceniczne, fantazyjne maszyny i&nbsp;nieprawdopodobne zbiegi okoliczności: elementy, które w&nbsp;większości – jak wynika z&nbsp;lektury <em>Comment j’ai écrit certains de mes livres</em> – podyktowane zostały przez „proceder” i&nbsp;upoważniają do opinii, że&nbsp;w&nbsp;<em>Impressions d’Afrique</em> mamy do czynienia z&nbsp;„wyśnionym egzotyzmem albo ze snem o&nbsp;egzotyzmie”<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup>, gdyż takie rzeczy możliwe są tylko w&nbsp;marzeniu sennym. Z&nbsp;drugiej jednak strony wszystko, co tworzy ramy dla tego sennego scenariusza, jest od fantazyjności jak najdalsze; wręcz przeciwnie – jeśli możemy tu mówić o&nbsp;jakimś nieprawdopodobieństwie, to wynika ono z&nbsp;niebywałego wręcz nagromadzenia stereotypów, które już Thomas Hodgkin opisał jako dwa dominujące mity Afryki: Russoistyczny obraz złotego wieku wolności i&nbsp;braterstwa oraz ten, który wybiera Roussel – Hobbesowski obraz Afryki przedeuropejskiej, gdzie króluje strach i&nbsp;groźba okrutnej śmierci<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2763-1-pb-1920x-b69.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2763-1-pb-330x-608.jpg 330w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2763-1-pb-660x-1ae.jpg 660w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2763-1-pb-768x-ac3.jpg 768w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2763-1-pb-1320x-a54.jpg 1320w" src="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2763-1-pb-660x-1ae.jpg" alt="" ></a>    <figcaption><p>Plakat reklamowy (1910)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Można by zatem powtórzyć za&nbsp;Pierre’em Bazantay: jaka Afryka? I&nbsp;jeszcze: gdzie jest ta Afryka? Jeśli zawierzyć temu, co widać na&nbsp;teatralnym afiszu, nie trzeba szukać daleko: to stereotypowa Afryka z&nbsp;wystaw kolonialnych, ludzkich zoo, popularnych powieści i&nbsp;przestarzałych podręczników do antropologii. Ale zawierzając tej „impresji”, uznalibyśmy Roussela za&nbsp;autora takiego jak Verne czy Loti, co byłoby krzywdzące (dla niego czy dla nich – to już inna sprawa). Otóż afisz w&nbsp;tym jeszcze zgadza się z&nbsp;treścią sztuki i&nbsp;powieści, że&nbsp;przedstawia postaci zastygłe w&nbsp;jednym geście, odcieleśnione, pozbawione życia i&nbsp;dalekie od naturalności. O&nbsp;ile jednak dla teatralnego afisza taki status obiektów jest czymś „naturalnym”, o&nbsp;tyle w&nbsp;powieści jest pewną wadą, błędem w&nbsp;sztuce, dziwactwem, które sprawia, że&nbsp;bohaterowie powieści podróżniczej stają się tu bezwolnymi marionetkami, mogącymi robić wszystko i&nbsp;nic, występować <em>semper et ubique</em>. Częściowo słusznie więc pyta Tiphaine Samoyault: „Czy ta sztuczna i&nbsp;czysto symboliczna scenografia ma jeszcze coś wspólnego z&nbsp;Afryką? Jeśli to królestwo operetki czy też ogród udręczeń niczego nie zapożycza od rzeczywistej Afryki, to dlaczego został umieszczony w&nbsp;tej części świata?”<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup>. Przeniesione na&nbsp;płaszczyznę wizualną, pytania te nabierają nieco innego znaczenia. Tutaj scenografia bez wątpienia ma coś wspólnego z&nbsp;Afryką, lecz przymiotnik „rzeczywistą” należałoby chyba zniuansować: o&nbsp;którą rzeczywistość tu chodzi? Rzeczywistość stereotypu, rzeczywistość spektaklu czy może surową, niedostępną rzeczywistość, którą należałoby tutaj nazwać Realnym Afryki? Jeśli prawdą jest, jak twierdzi Laurent Jenny, że&nbsp;nagromadzenie stereotypów ostatecznie rozsadza <em>écriture</em><sup><a href="#sdfootnote45sym" name="sdfootnote45anc">45</a></sup>, to być może rozsadza też afrykańskie imaginarium, którego skondensowaną wersją jest Rousselowski afisz.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2765-1-pb-1920x-b69.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2765-1-pb-330x-608.jpg 330w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2765-1-pb-660x-1ae.jpg 660w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2765-1-pb-768x-ac3.jpg 768w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2765-1-pb-1320x-a54.jpg 1320w" src="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2765-1-pb-660x-1ae.jpg" alt="" ></a>    <figcaption><p>Plakat reklamowy (1904)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Nie ulega wątpliwości, że&nbsp;w&nbsp;warstwie literalnej powieść Roussela i&nbsp;afisz reklamujący jej teatralną adaptację są wyrazem postawy i&nbsp;świadomości kolonialnej <em>par excellence</em>. Z&nbsp;tekstu dowiadujemy się na&nbsp;przykład, że&nbsp;początki waśni między sąsiadującymi państwami afrykańskimi sięgają czasów, kiedy praszczur cesarza Talou, Souann (homonim Proustowskiego bohatera, który zaistnieje dopiero kilka lat później) poślubia dwie Hiszpanki, chcąc „potwierdzić panowanie swojego rodu poprzez domieszkę hiszpańskiej krwi, mogącą poruszyć – wtedy i&nbsp;w przyszłości – fetyszystyczną wyobraźnię poddanych”<sup><a href="#sdfootnote46sym" name="sdfootnote46anc">46</a></sup>. Kiedy w&nbsp;przedostatnim rozdziale powieści dochodzi do rozdania nagród za&nbsp;występy, historyk Juillard zdaje się „wyłącznie na&nbsp;doznania [<em>impressions</em>] czarnej publiczności, której naiwny instynkt wydawał mu się zdolny do wydania szczerego, sprawiedliwego wyroku”<sup><a href="#sdfootnote47sym" name="sdfootnote47anc">47</a></sup>. Europejski pierwiastek odgrywa tu rolę porządkującą, organizującą, strukturyzującą, a&nbsp;więc pełni dokładnie tę samą funkcję co narrator czy reżyser. Ale jest to też prawdziwe w&nbsp;wypadku samego Roussela jako twórcy „procederu”, którego zadaniem jest opanować chaos świata i&nbsp;języka poprzez poddanie go kombinatorycznemu przymusowi<sup><a href="#sdfootnote48sym" name="sdfootnote48anc">48</a></sup>. Jest to również prawdziwe w&nbsp;wypadku teatralnego afiszu, który mówi przecież: spójrzcie na&nbsp;to dzikie barbarzyństwo, ale nie bójcie się, to tylko spektakl, wszystko pod&nbsp;kontrolą.</p> <p>W książce <em>Invention of Africa</em> Valentin Mudimbe przypomina łaciński źródłosłów terminu „kolonizacja”, <em>colere</em>, oznaczający tyle, co „uprawiać, projektować”, i&nbsp;zwraca uwagę, że&nbsp;podstawowym wymiarem działalności kolonizatorów było „organizowanie i&nbsp;przekształcanie nieeuropejskich obszarów w&nbsp;zasadniczo europejskie konstrukty”<sup><a href="#sdfootnote49sym" name="sdfootnote49anc">49</a></sup>. Jak wiadomo – na&nbsp;tym opiera się przecież duża część krytyki postkolonialnej – takim ujarzmianiem, oswajaniem czy też mapowaniem jest cała literatura czy też w&nbsp;ogóle wszelki dyskurs, którego przedmiotem jest Inny: „podporządkowany inny [<em>subaltern</em>], któremu odmawia się pozycji mówiącego podmiotu, zostaje zesłany do niepoznawalnej realności, usytuowanej poza zachodnim językiem i&nbsp;przedstawieniem”<sup><a href="#sdfootnote50sym" name="sdfootnote50anc">50</a></sup>. Sprowadzając obraz Afryki i&nbsp;jej mieszkańców do kolonialnych stereotypów – co właściwie zostało wymuszone przez uzależnienie opowieści od czysto językowego procederu – Roussel także, rzecz jasna, nie dopuszcza ich do dyskursu i&nbsp;wtłacza w&nbsp;ramy europejskiego <em>colere</em>: uprawiania i&nbsp;projektowania. Anonimowy autor afiszu zaś czyni dokładnie to samo, postępując zapewne według wskazówek pisarza: Afryka jest tu teatrem, przestrzenią nie tyle nawet inną, ile fikcyjną czy po&nbsp;prostu nieistniejącą, chyba że&nbsp;w&nbsp;taki sposób jak Formoza Psalmanazara<sup><a href="#sdfootnote51sym" name="sdfootnote51anc">51</a></sup>. Przeciwko Rousselowi można by więc podnieść te same zarzuty, które Chinua Achebe skierował pod&nbsp;adresem opowieści Conrada: że&nbsp;ukazuje „Afrykę jako nie-miejsce i&nbsp;Afrykanów jako nie-ludzi”<sup><a href="#sdfootnote52sym" name="sdfootnote52anc">52</a></sup>. Tyle że&nbsp;u&nbsp;Roussela ta pustka, ten brak, funkcjonuje chyba nieco odmiennie. Zupełnie inny status opowiadanej historii – u&nbsp;Conrada będącej sednem utworu, u&nbsp;Roussela jedynie ramą – sprawia, że&nbsp;Afryka nie dostępuje nawet tego „słabego” istnienia, na&nbsp;które pozwalają mity wyszczególnione przez Hodgkina. Ponieważ jest tylko pretekstem, to kiedy właściwy tekst nabiera już kształtu – po&nbsp;prostu znika i, by zacytować Pierre’a Bazantay, „od cudownej Afryki prześlizgujemy się ku pisaniu o&nbsp;cudach”<sup><a href="#sdfootnote53sym" name="sdfootnote53anc">53</a></sup> czy też, by dopowiedzieć, ku cudownemu, bo&nbsp;w&nbsp;pewnym sensie samoistnemu, pisaniu.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2767-1-pb-1920x-b69.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2767-1-pb-330x-608.jpg 330w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2767-1-pb-660x-1ae.jpg 660w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2767-1-pb-768x-ac3.jpg 768w,assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2767-1-pb-1320x-a54.jpg 1320w" src="assets/cache/images/issues/2014/7/kolonializm-na-afiszu/210-2767-1-pb-660x-1ae.jpg" alt="" ></a>    <figcaption><p>Dorival w&nbsp;roli cesarza Talou (1912)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Biorąc pod&nbsp;uwagę kompozycję powieści, jej genezę i&nbsp;konstrukcję świata przedstawionego, można bez wahania określić <em>Impressions d’Afrique</em> „antypowieścią przygodową”<sup><a href="#sdfootnote54sym" name="sdfootnote54anc">54</a></sup>. Sprowadzając fabułę, wydarzenia, bohaterów wraz z&nbsp;ich psychologią, pojedyncze obrazy i&nbsp;tworzone przez nie imaginarium do roli pustego schematu, w&nbsp;całości zależnego od językowych kombinacji, Roussel odwraca tradycyjny układ formy i&nbsp;treści. W&nbsp;jego tekście imaginarium to, w&nbsp;elementach dotyczących „Afryki” całkowicie wywodzące się z&nbsp;kolonialnych klisz i&nbsp;stereotypów, zostaje, by tak rzec, dodatkowo uschematyzowane, ustatycznione, a&nbsp;ostatecznie − pozbawione życia, uśmiercone wskutek powtórzenia. Trafną diagnozę tej sytuacji proponuje Tiphaine Samoyault:</p> <blockquote>Nie posuwając się aż&nbsp;do stwierdzenia, że&nbsp;Roussel dekonstruuje mity założycielskie rasizmu, można powiedzieć, że&nbsp;obraz afrykańskich obyczajów w&nbsp;kolonialnym spojrzeniu Europejczyków, jak i&nbsp;wizja postępu wraz z&nbsp;obsesją techniki, do której Czarni sprowadzają Białych, zostaje przedstawiona w&nbsp;absurdalnej czy wręcz groteskowej formie<sup><a href="#sdfootnote55sym" name="sdfootnote55anc">55</a></sup>.</blockquote> <p>Jak widzieliśmy, część tego całkiem złożonego układu struktur znajduje odbicie – <em>impression</em> – w&nbsp;teatralnym afiszu. Umieszczenie w&nbsp;jego centralnym miejscu charakterystycznej dla powieści gry słów pozwala dostrzec nie tylko tematyczną, lecz także metodologiczną zbieżność między werbalnym (powieść) a&nbsp;werbalno-wizualnym (afisz) sposobem wyrazu. Nie ma, oczywiście, mowy o&nbsp;tym – co słusznie podkreśla Samoyault – by przypisywać Rousselowi dekonstrukcyjne, demistyfikacyjne czy nawet antykolonialne intencje i&nbsp;robić z&nbsp;niego francuskiego Rogera Casementa. Mało tego: jeszcze mniej prawdopodobne jest, by współczesna mu publiczność, nieznająca przecież Rousselowskiego „procederu”, rozumiała na&nbsp;początku XX wieku zawartą w&nbsp;afiszu grę słów czy choćby grę spojrzeń. Nie zmienia to chyba jednak tego, że&nbsp;artefakt, który mamy dziś przed oczami, tę dekonstrukcyjną grę w&nbsp;sobie, choćby potencjalnie, zawiera. Rzecz jasna, aby ją dostrzec, trzeba być może wiedzieć o&nbsp;„procederze”. Być może trzeba nawet choćby w&nbsp;zarysach wiedzieć coś o&nbsp;prawdziwym obliczu kolonializmu. Bo&nbsp;z&nbsp;zewnątrz, na&nbsp;powierzchni, afisz <em>Impressions d’Afrique</em> praktycznie niczym nie różni się od spektakularnych i&nbsp;stereotypowych przedstawień Afryki i&nbsp;jej mieszkańców. Dopiero gdy się weń wgryźć, może się okazać, że&nbsp;to wyrób kolonialnopodobny.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Przekład polski: Raymond Roussel, <em>W jaki sposób napisałem niektóre z mych książek</em>, przeł. B. Banasiak, w: Bogdan Banasiak, <em>Słońce ekstazy, noc melancholii. Rzecz o Raymondzie Rousselu</em>, Wrocław, Thesaurus 2007. Wszystkie cytaty z Roussela podaję w tłumaczeniu własnym z odesłaniem do wydań francuskich.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Najlepsze informacje o Rousselu polski czytelnik może znaleźć w monograficznym numerze „Literatury na Świecie” 2007, nr 9, w którym zamieszczono między innymi teksty François Caradeca, Michela Leirisa i Johna Ashbery’ego. Odnotujmy też monografię Bogdana Banasiaka, <em>Słońce ekstazy, noc melancholii...</em>, oraz filozoficzne studium Michela Foucaulta, <em>Raymond Roussel</em>, przeł. G. Wilczyński, Warszawa, KR 2001.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Leslie Hill, <em>Raymond Roussel and the Place of Literature</em>, „The Modern Language Review” 1979, nr 4, s. 823.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Sjef Houppermans, <em>Raymond Roussel. Écriture et désir</em>, José Corti, Paris 1985, s. 212.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Marcel Duchamp, <em>Marchand du sel</em>, Terrain Vague, Paris 1959, s. 114.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Jean Ferry, <em>L’Afrique des Impressions. Petit guide pratique à l’usage du voyageur</em>, Pauvert Paris 1967, s. 158.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Anne-Marie Amiot, <em>Un mythe moderne. „Impressions d’Afrique”</em> <em>de Raymond Roussel</em>, Minard, Paris 1977, s. 121.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Annie Le Brun, <em>Vingt mille lieues sous les mots</em>, Pauvert, Paris 1994, s. 204–212.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Sjef Houppermans, <em>Raymond Roussel…</em>, s. 201.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Tiphaine Samoyault, <em>Impressions d’imaginaire</em>, w: Raymond Roussel, <em>Impressions d’Afrique</em>, Garnier Flammarion, Paris 2005, s. 11.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>André Breton, <em>Manifest surrealizmu</em>, w: <em>Surrealizm. Teoria i praktyka literacka. Antologia</em>, teksty wybrał i przełożył A. Ważyk, Czytelnik, Warszawa 1973, s. 79.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Obrazki dwunastu „numerów” widniały na drugim afiszu reklamującym spektakl w Théâtre-Antoine.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>Anne-Marie Amiot, <em>Romans d’aventures et aventures du roman rousselien</em>, „Europe” 1988, nr 714, s. 120.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Gilbert Lascault, <em>Quatorze notes sur le nombre deux chez Raymond Roussel</em>, w: <em>Raymond Roussel. Perversion classique ou invention moderne</em>, red. P. Bazantay, P. Besnier, Rennes 1993, s. 24.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>Pierre Bazantay, <em>Le lion de Perros ou l’Afrique dans les „Impressions”</em>, „Africultures” 2002, nr 52, s. 23.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>Zob. Anne-Marie Basset, <em>La genèse d’„Impressions d’Afrique” de Raymond Roussel ou le mythe de la création</em>, rozprawa doktorska, Paris-Sorbonne Nouvelle, 1996.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>Pierre Bayard, <em>Comment parler des lieux où l’on n’a pas été?</em>, Minuit, Paris 2012, s. 28.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>Zob. np. Jean-Louis Cornille, <em>Réimpressions d’Afrique. Légende ou conte d’auteur?</em>, w: <em>Raymond Roussel. Perversion classique ou invention moderne…</em>, s. 177.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>Raymond Roussel, <em>Impressions d’Afrique…</em>, s. 159, 42 i 46.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>Przedmiotem opisu w jego długich poematach bywały np. etykietka na butelce wody czy też obsadka do pióra.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a>Na ten temat zob. np. Martha L. Finch, <em>Dissenting Bodies. Corporealities in Early New England</em>, Columbia University Press, New York, 2009.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>Por. Raymond Roussel, <em>Comment j’ai écrit certains de mes livres</em>, Pauvert, Paris 1985, s. 11.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a>Anne-Marie Amiot, <em>Romans d’aventures…</em>, passim.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a>François Caradec, <em>Vie de Raymond Roussel</em>, Pauvert, Paris 1972, s. 90.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a>Nie wchodzę tu w szczegóły dotyczące różnic między tekstem powieści a tekstem sztuki: pomijając niezbędne transpozycje, są one właściwie nieznaczące. Zob. Michihiro Nagata, <em>L’improbable théâtre de Raymond Roussel. Étude de l’adaptation théâtrale d’„Impressions d’Afrique”</em>, rozprawa doktorska, Université du Maine, 2007; Abba Cherniack-Tzuriel, <em>Theatre of the Mechanized Grotesque. </em><em>Roussel’s „Impressions of Africa”</em>, „The Drama Review” 1976, nr 2, s. 108–123.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a>Raymond Roussel, <em>Impressions d’Afrique…</em>, s. 44.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a>Ibidem, s. 168.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>Jean-Jacques Virey, <em>Histoire naturelle du genre humain</em>, Crochard, Paris 1824, t. II, s. 43.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Joseph Conrad, <em>Jądro ciemności</em>, przeł. M. Heydel, Znak, Kraków 2011, s. 19.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a>Herman Melville, <em>Moby Dick czyli Biały wieloryb</em>, przeł. B. Zieliński, Czytelnik, Warszawa 1985, t. II, s. 148–149.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a>Zob. przede wszystkim tom <em>Zoos humains. </em><em>Au temps des exhibitions humaines</em>, red. N. Bancel et al., La Découverte, Paris 2004; oraz <em>Africans on Stage. </em><em>Studies in Ethnological Show Business</em>, red. B. Lindfors, Indiana University Press, Bloomington 2000. Zob. też Neil MacMaster, <em>Racism in Europe (1870-2000)</em>, Palgrave Macmillan, London 2001, s. 74–77; Catherine Coquery-Vidrovitch, <em>Des victimes oubliées du nazisme. Les Noirs et l’Allemagne dans la première moitié du XX</em><sup><em>e</em></sup><em> siècle</em>, Cherche Midi, Paris 2007, s. 28; Stefan Goodwin, <em>Africa in Europe. </em><em>Interdependencies, Relocations, and Globalization</em>, Lexington Books, New York 2008, s. 181–182.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a>Éric Baratay, <em>Le frisson sauvage. </em><em>Les zoos comme mise en scène de la curiosité</em>, w: <em>Zoos humains…</em>, s. 31.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a>Relacje z nich i zaproszenia znaleźć można w biuletynach paryskiego Towarzystwa Etnograficznego.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a>Cytat z lokalnej gazety za: Annie Le Brun, <em>Vingt mille lieues…</em>, s. 208.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a>Ibidem, s. 206.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a>Gilles Deleuze, Félix Guattari, <em>Capitalisme et schizophrénie. Anti-Œdipe</em>, Minuit, Paris 1972, s. 377.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a>Raymond Roussel, <em>Impressions d’Afrique…</em>, s. 273.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a>Ibidem, s. 41.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a>Ibidem, s. 29. To pierwszy obraz, jaki pojawia się w powieści.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a>Joseph Conrad, <em>Jądro ciemności…</em>, s. 76-77.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a>Raymond Roussel, <em>Impressions d’Afrique…</em>, s. 204.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a>Fernando Cabral Martins, <em>Les caractères psychologiques de l’extase</em>, w: <em>Raymond Roussel. </em><em>Perversion classique ou invention moderne…</em>, s. 238.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a>Thomas Hodgkin, <em>Nationalism in Colonial Africa</em>, New York University Press, New York 1957, s. 174–175.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a>Tiphaine Samoyault, <em>Impressions d’imaginaire…</em>, s. 19.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a>Laurent Jenny, <em>Structure et fonctions du cliché</em>, w: „Poétique” 1972, nr 12, s. 495–517.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a>Raymond Roussel, <em>Impressions d’Afrique…</em>, s. 179-180.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a>Ibidem, s. 312.</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a>Podobnie jak wiele lat później spadkobierca Roussela w OuLiPo, Georges Perec, który wyznał: „Poezja budzi we mnie taką panikę, że mogę pracować tylko pod przymusami”. Zob. <em>Co pobudza moje bajczarstwo? Z Georges’em Perekiem rozmawiają Claudette Oriol-Boyer i Harry Mathews</em>, przeł. A. Wasilewska, „Literatura na Świecie” 1995, nr 11–12, s. 108.</p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a>Valentin Y. Mudimbe, <em>The Invention of Africa. Gnosis, Philosophy, and the Order of Pnowledge</em>, Indiana University Press, Bloomington 1988, s. 14.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a>Jan Campbell, <em>Arguing with the Phallus. Feminist, Queer and Postcolonial theory. A Psychoanalytic Contribution</em>, Zed Books, London–New York 2000, s. 193.</p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a>Por. Richard M. Swiderski, <em>The False Formosan. George Psalmanazar and the Eighteenth-Century Experiment of Identity</em>, Mellen Research University Press, San Francisco 1991.</p>
+<p><a href="#sdfootnote52anc" name="sdfootnote52sym">52</a>Magda Heydel, <em>Do kresu doświadczenia. O czytaniu „Jądra ciemności”</em>, w: Joseph Conrad, <em>Jądro ciemności…</em>, s. 122.</p>
+<p><a href="#sdfootnote53anc" name="sdfootnote53sym">53</a>Pierre Bazantay, <em>Le lion de Perros…</em>, s. 29.</p>
+<p><a href="#sdfootnote54anc" name="sdfootnote54sym">54</a>Anne-Marie Amiot, <em>Romans d’aventures…</em>, s. 118. Por. też Henri Godard, <em>Le roman modes d’emploi</em>, Gallimard, Paris 2006, s. 312.</p>
+<p><a href="#sdfootnote55anc" name="sdfootnote55sym">55</a>Tiphaine Samoyault, <em>Impressions d’imaginaire…</em>, s. 20.</p>
+<p></p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/kolonializm-na-afiszu.-impressions-dafrique-raymonda-roussela" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

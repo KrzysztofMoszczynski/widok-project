@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Widmologia kolonialna. "Vita Nova" Vincenta Meessena | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/widmologia-kolonialna.-vita-nova-vincenta-meessena">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Widmologia kolonialna. &quot;Vita Nova&quot; Vincenta Meessena | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Widmologia kolonialna. &quot;Vita Nova&quot; Vincenta Meessena | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/widmologia-kolonialna.-vita-nova-vincenta-meessena">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Widmologia kolonialna. &quot;Vita Nova&quot; Vincenta Meessena | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #228b22 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #228b22 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #228b22 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #228b22 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #228b22 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #228b22 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #228b22 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #228b22 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(34,139,34,0.8) !important; */
+			/* background-color:#228b22 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(34,139,34,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#228b22 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(34,139,34,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#228b22; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(34,139,34,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(34,139,34,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#228b22 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#228b22 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#228b22 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1087 parent-id-1076">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="426" data-selected-issue-color="#228b22" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/postcolonial-image-archives#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/postcolonial-image-archives/a-colonial-hauntology-vincent-meessens-vita-nova">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/postkolonialne-archiwa-obrazow#toc">7</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/widmologia-kolonialna.-vita-nova-vincenta-meessena?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Widmologia kolonialna. "Vita Nova" Vincenta Meessena</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/widmologia-kolonialna.-vita-nova-vincenta-meessena?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=1088">T.J. Demos</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Przełożyła: 
+		
+		Maja Wójcik
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>W trzydziestominutowym filmie z&nbsp;2009 roku,<em> Vita Nova</em>, Vincent Meessen zwraca się ku ikonicznej okładce francuskiego magazynu „Paris Match” z&nbsp;1955 roku, ukazującej zbliżenie salutującego, młodego afrykańskiego kadeta. Jest to ten sam obraz, który Roland Barthes przywoływał w&nbsp;<em>Mitologiach</em> jako przykład kultury wizualnej, wspierającej ideologiczne działanie francuskiego kolonializmu: „Dobrze widzę, co to dla mnie znaczy – pisał Barthes – że&nbsp;Francja jest wielkim Imperium, że&nbsp;wszyscy jej synowie, bez względu na&nbsp;kolor skóry, wiernie służą pod&nbsp;jej sztandarem i&nbsp;że nie ma lepszej odpowiedzi tym, którzy zarzucają jej rzekomy kolonializm niż zapał tego Czarnego, by służyć swym rzekomym ciemiężcom”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. Choć Barthes kontynuował krytykę opisanej logiki, nie zbadał zdjęcia dogłębniej. Zrobił to Meessen.</p> <p>Przeprowadziwszy kwerendę dotyczącą fotografii i&nbsp;jej kontekstu historycznego, w&nbsp;2006 roku rozpoczął poszukiwania Dioufa Birane, byłego afrykańskiego kadeta, wymienionego w&nbsp;numerze „Paris Match”, w&nbsp;nadziei wytropienia bohatera tej fotografii, który teraz byłby już starszym mężczyzną żyjącym najprawdopodobniej w&nbsp;Ougadougou, w&nbsp;Burkina Faso, wskazanym w&nbsp;magazynie kraju swojego pochodzenia. Zapis wideo ukazuje fragmenty tej podróży i&nbsp;wynikłe z&nbsp;niej niespodziewane odkrycia, splatając w&nbsp;jedną całość prowokacyjne rozważania nad filozofią historii, jej stłumionymi narracjami i&nbsp;widmową istotą fotografii.</p> <p>Dzięki staraniom Meessena zdjęcie z&nbsp;„Paris Match” zyskało w&nbsp;<em>Vita Nova</em> „nowe życie”. Kiedy kamera powoli oddala się od wyjściowego ujęcia oczu chłopca ukazanych w&nbsp;zbliżeniu – jak gdyby uporczywie pytając, co on widział w&nbsp;1955 roku i&nbsp;czego doświadczył później – okładka magazynu (której pełen obraz pojawia się stopniowo, w&nbsp;kolejnych ujęciach rozsianych w&nbsp;całym filmie) przekształcona zostaje w&nbsp;obszar szerszych dociekań na&nbsp;temat powiązanych historii, które dopiero niedawno ujrzały światło dzienne. Autor filmu nie odnalazł samego Birane, zmarłego w&nbsp;latach 80. w&nbsp;Senegalu, lecz jego szkolnego kolegę, Issę Kaboré, który pojawił się na&nbsp;innych fotografiach z&nbsp;tego samego numeru „Paris Match”. Magazyn opisywał <em>Les Nuits de l’Armée</em>, telewizyjne widowisko z&nbsp;1955 roku prezentujące spektakl z&nbsp;udziałem ponad czterech tysięcy wykonawców, wśród nich przedstawicieli Czarnej Gwardii Dakaru (Garde Noir du Dakar), Francuskiej Legii Cudzoziemskiej, paryskiej straży pożarnej, Gwardii Republikańskiej, zgromadzonych w&nbsp;paryskim Palais des Sports dla uczczenia francuskiego imperium kolonialnego<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. To właśnie na&nbsp;to wydarzenie Birene i&nbsp;Kaboré przyjechali do Paryża. Film rozpoczynają ujęcia z&nbsp;sesji nagraniowej, na&nbsp;którą Meessen zaprosił Kaboré, by ten zaśpiewał hymn francuski. Choć był to niegdyś powszechny rytuał rozszerzonej francuskiej wspólnoty narodowej – z&nbsp;pewnością śpiewano go tamtego dnia 1955 roku w&nbsp;Paryżu – Kaboré nie pamięta już pełnego tekstu. (Przypomina sobie początek, „Allons enfants”, ale – co uderzające – nie pamięta innych fragmentów rewolucyjnego hymnu potępiającego „krwawą tyranię”, „nikczemnych despotów”, ani okrzyku bojowego o&nbsp;zwycięstwie wolności). Wyraźnie wyczuwalny jest ból, jaki w&nbsp;Kaboré wywołuje to doświadczenie. Jeśli, jak argumentował Barthes w&nbsp;<em>Mitologiach</em>, zdjęcie z&nbsp;„Paris Match” stanowi idealną ripostę na&nbsp;krytykę francuskiego kolonializmu, to zdaje się, że&nbsp;tego rodzaju akty patriotyzmu rdzennej ludności kolonizowanych obszarów – po&nbsp;okresie dekolonizacji i&nbsp;niepodległości – całkiem odeszły w&nbsp;niepamięć.</p> <p>Wreszcie z&nbsp;rozwojem kolejnych scen filmu okazuje się, że&nbsp;przeprowadzona przez Barthes’a słynna analiza tego zdjęcia nie była tak wyczerpująca, jak mogłoby się wydawać. Jego ujęcie krytyczne ma swoje własne momenty zapomnienia, a&nbsp;przynajmniej momenty selektywnej pamięci. Jak bowiem odkrył Meessen w&nbsp;trakcie swoich badań – ujawniając zdumiewające fakty, których nikt dotychczas nie opisywał – dziadkiem Barthes’a ze strony matki był nikt inny jak Louis Gustave Binger, francuski podróżnik i&nbsp;oficer kolonialny, który zaanektował Wybrzeże Kości Słoniowej dla Francji w&nbsp;1880 roku, służył jakiś czas jako gubernator kolonii i&nbsp;użyczył swego nazwiska Bingerville, miastu, które zostało nazwane na&nbsp;jego cześć i&nbsp;do dziś nosi tę nazwę. Historię tę poznajemy w&nbsp;scenie, w&nbsp;której widzimy Kaboré siedzącego w&nbsp;zrekonstruowanej klasie dawnej akademii wojskowej w&nbsp;Ouagadougou, podczas gdy niewidoczny narrator opowiada o&nbsp;życiu Bingera w&nbsp;Afryce. Urodzony w&nbsp;Strasbourgu w&nbsp;1856 roku Binger wyjechał do zachodniej Afryki w&nbsp;1887, odwiedził Niger i&nbsp;wybrzeże Gwinei, w&nbsp;drodze od Bamako do Kongo, gdzie dotarł w&nbsp;1888 roku. W&nbsp;czasie podróży zyskał wśród Afrykanów przyjaciół i&nbsp;wrogów. (Zgodnie z&nbsp;zawartą w&nbsp;filmie relacją lud Dyerma<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> chciał zabić Bingera, „nie mogąc znieść widoku jego białej skóry”; Binger wytłumaczył to wodzowi Tiakéné, który zaoferował mu ochronę i&nbsp;gościnę przed podróżą do Ghany i&nbsp;Wybrzeża Kości Słoniowej). Zmarł w&nbsp;1936 roku we francuskim mieście L’Isle Adam.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/widmologia-kolonialna/230-3138-1-pb-1920x-bac.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/widmologia-kolonialna/230-3138-1-pb-330x-2fc.jpg 330w,assets/cache/images/issues/2014/7/widmologia-kolonialna/230-3138-1-pb-660x-f3f.jpg 660w,assets/cache/images/issues/2014/7/widmologia-kolonialna/230-3138-1-pb-768x-aef.jpg 768w,assets/cache/images/issues/2014/7/widmologia-kolonialna/230-3138-1-pb-1320x-142.jpg 1320w" src="assets/cache/images/issues/2014/7/widmologia-kolonialna/230-3138-1-pb-660x-f3f.jpg" alt="" ></a>    <figcaption><p>Roland Barthes, <em>Roland Barthes</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p>W sekwencji tej pokazane zostają fotografie dokumentalne wizualnie dopełniające lekcję historii, a&nbsp;także ujęcie egzemplarza <em>Roland Barthes par Roland Barthes</em> otwartego na&nbsp;stronach ze zdjęciami dziadków autora (i z&nbsp;bardzo ogólną identyfikacją: „Les deux grand pères” [Dwóch dziadków])<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Para rąk przerzuca album z&nbsp;fotografiami: stare zdjęcia maszerujących oddziałów, Afrykanów w&nbsp;wojskowych mundurach, i&nbsp;w końcu, czarno-białą fotografię dwóch białych kolonizatorów – zidentyfikowanych jako „Kapitan Louis Gustve [sic]] Binger i&nbsp;Porucznik Braulot” – ubranych w&nbsp;białe uniformy, siedzących pod&nbsp;namiotem w&nbsp;obozie w&nbsp;dżungli z&nbsp;towarzyszącymi im dwoma nagimi od pasa w&nbsp;górę Afrykanami. W&nbsp;ten sposób film otwiera wizualne archiwa kolonialne, ale robi to z&nbsp;pozycji uwrażliwionej na&nbsp;afrykańską perspektywę. Na&nbsp;jednym ze zdjęć przedstawiających pogrzeb Bingera z&nbsp;boku pojawia się młody, patrzący z&nbsp;uwagą Barthes, dając naoczny dowód genealogicznemu związkowi, a&nbsp;zatem własnej rodzinnej relacji z&nbsp;kolonialnym kontekstem. Uderzające jest to, że&nbsp;Barthes nie podejmuje tematu swojej relacji z&nbsp;dziadkiem w&nbsp;późniejszej autobiograficznej opowieści. Ujawniając tę historię, film proponuje opowieść o&nbsp;zapominaniu – zapominaniu, które samo jest odmienne w&nbsp;odniesieniu do różnych kontekstów: przekroczenie kolonialnej przeszłości w&nbsp;wypadku Kaboré zdaje się czymś całkiem innym niż Barthes’owskie milczące wyparcie się faktu rodzinnego w&nbsp;nią uwikłania. Ta właśnie opowieść o&nbsp;kolonizowanych i&nbsp;kolonizujących stała się dla Meessena podstawą historycznego ożywienia, polegającego na&nbsp;wywołaniu zarazem ducha Barthes’a i&nbsp;historii, które mogły go prześladować.</p> <p>Dlatego <em>Vita Nova</em> uznać można za&nbsp;film ustanawiający widmologię kolonialną – w&nbsp;tym sensie, że&nbsp;wywołuje on duchy, krążące wokół zdjęcia z&nbsp;„Paris Match”, wzorcowego przykładu kultury wizualnej późnego kolonializmu, łączącego różne osoby, miejsca i&nbsp;historie polityczne związane z&nbsp;francuską przeszłością kolonialną. Termin ten jest propozycją pewnej metodologii interpretacji, dążącej do odkrycia zarówno ontologii nawiedzenia (jego istnienia, skutków i&nbsp;towarzyszących mu afektów), jak i&nbsp;nawiedzenia istnienia (sposobu, w&nbsp;jaki na&nbsp;to, co obecne, kładzie się cień nieuznanych historii i&nbsp;stłumionych uwikłań, uniemożliwiając pełne odcięcie teraźniejszości od przeszłości). Dla Derridy, piszącego po&nbsp;upadku muru berlińskiego w&nbsp;1989 roku, wywoływanie świata duchów oznaczało zakwestionowanie twierdzenia, zgodnie z&nbsp;którym postsocjalistyczny świat wszedł w&nbsp;triumfalny okres globalizacji, uniwersalnej zasady kapitalistycznego wolnego rynku, jak gdyby wszystkie inne modele gospodarcze odesłane zostały do lamusa. Sprzeciwiający się takiej opartej na&nbsp;zapomnieniu i&nbsp;częściowo ślepej gloryfikacji teraźniejszości, odpowiadający na&nbsp;konflikty i&nbsp;porażki nowoczesności, które pozostają bodźcem dla alternatywnych polityk równości, inkluzywności i&nbsp;sprawiedliwości, duch komunizmu pozostaje dla Derridy czymś niedającym się stłumić, nawet jeśli nie jest on dziś czymś łatwo czy po&nbsp;prostu dostępnym. „Nazwijmy to <em>widmologią</em>” – pisze Derrida, wskazując „wirtualną przestrzeń widmowości”, działającą w&nbsp;obrębie na&nbsp;ogół „ostrej różnicy pomiędzy realnością i&nbsp;nierealnością, aktualnością i&nbsp;nieaktualnością, żyjącym i&nbsp;nieżyjącym, byciem i&nbsp;niebyciem”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Pytanie brzmi: w&nbsp;jaki sposób Meessen kieruje dziś ową widmologią?<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> Jakie są jej swoiste warunki estetyczne, wyjątkowe rysy „poetyki widmowości” <em>Vita Nova</em>, oraz czego może nauczyć nas wywoływanie duchów przez ten film?</p> <p style="text-align: center;">***</p> <p>Widmologia jest kwestią od dawna obecną w&nbsp;twórczości Meessena, ze względu na&nbsp;którą artysta wielokrotnie odwiedzał tereny postkolonialne, eksplorując ruiny nowoczesności i&nbsp;skutki utopii epoki kolonialnej. Jego projekty często realizują performatywne scenariusze, w&nbsp;których odwiedziny odległych krain powodują nagłe załamanie geograficznych i&nbsp;czasowych granic, odsłaniając napięte i&nbsp;osobliwe sąsiedztwa. Na&nbsp;przykład w&nbsp;2005 roku w&nbsp;Ouagadougou Meessen stworzył dzieło <em>The Intruder</em>, wideo i&nbsp;interwencję w&nbsp;przestrzeni publicznej: przebrał się w&nbsp;dziwny ubiór z&nbsp;białej bawełny, pokrywający w&nbsp;całości jego ciało, i&nbsp;w ciszy, niezapowiedzianie przechadzał się ulicami. Uchwycony przez kamerę, która rejestrowała jego przechadzkę, <em>le blanc</em> – jak został nazwany – stał się źródłem fascynacji i&nbsp;niepokoju, a&nbsp;zarazem punktem widmowego podwojenia, jako że&nbsp;dłonie Meessena pozostawały odsłonięte i&nbsp;w ten sposób postać prezentowała widmo białej skóry pod&nbsp;białą maską (odwracając dwuznacznie tytuł sławnej książki Franza Fanona)<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. Performans wydobył spontaniczne reakcje lokalnej ludności wobec działania sugerującego wyobrażone prekolonialne spotkanie z&nbsp;rasową innością w&nbsp;postkolonialnym Burkina Faso. Jednak interpretacja ta nie została wypowiedziana przez żadną z&nbsp;osób znajdujących się w&nbsp;pobliżu w&nbsp;trakcie kręcenia siedmio i&nbsp;półminutowego filmu – przechodnie raczej naśmiewali się z&nbsp;dziwnej postaci i&nbsp;zaczepiali ją, nazywając Świętym Mikołajem albo Osamą bin Ladenem. Performans nie wskazywał żadnego jasnego sensu i&nbsp;wobec braku komentarza lektora oraz struktury narracyjnej przebrana postać jawiła się jako widmo – wskutek braku jasnego znaczenia czy oczywistego odniesienia.</p> <p>Kolejna scena nawiedzenia pojawia się w&nbsp;<em>Dear Adviser</em> (2009), krótkim wideo dokumentującym spacer mężczyzny w&nbsp;biznesowym garniturze, wiodący przez na&nbsp;w&nbsp;pół zurbanizowany krajobraz brudnych hałd, dróg i&nbsp;nowoczesnych, betonowych zabudowań, które jawią się jako jednocześnie niedokończone i&nbsp;zrujnowane. Praca ta została zarejestrowana w&nbsp;Chandigarh – wspólnej stolicy stanów Pendżab i&nbsp;Haryana, mieście zaprojektowanym przez Le Corbusiera w&nbsp;latach 50. jako lśniący przykład Nehruwiańskiej modernizacji Indii, bezpośrednio po&nbsp;odzyskaniu przez nie niepodległości. Nawiedzane przez duchy nowoczesności i&nbsp;architektoniczny fantazmat scentralizowanej władzy politycznej, przeszczepiony z&nbsp;Zachodu na&nbsp;subkontynent indyjski, obrazy podążają za&nbsp;postacią przechadzającą się wśród cieni. Równocześnie głos z&nbsp;offu opowiada ulubioną bajkę Le Corbusiera, który chciał być tytułowany „doradcą”, choć w&nbsp;rzeczywistości działał w&nbsp;tym projekcie jako ktoś w&nbsp;rodzaju prawodawcy. Bajka opowiada o&nbsp;wronie pragnącej udawać orła (gra słów w&nbsp;jęz. franc.: <em>courbeau</em>, wrona, przywołuje nazwisko architekta „Corbu”). Ta scena, skrywająca opowieść o&nbsp;postkolonialnej mimikrze – dlaczego premier Jawaharlal Nehru zwrócił się w&nbsp;stronę międzynarodowego modernizmu jako stylu reprezentującego nowe indyjskie państwo?; czyż nie była to kontynuacja kulturowej logiki zachodniej hegemonii? – zdaje się przekształcana przez współczesne metafizyczne zakłócenia. „Stolica będzie nawiedzona […] żywi będą wołać, martwi będą wzywać” – powtarza głos lektora.</p> <p>Zarówno w&nbsp;<em>Dear Advisor</em>, jak i&nbsp;w <em>The Intruder</em> Meessen tworzy swoją własną wersję dokumentu performatywnego, w&nbsp;którym działania wykonywane <em>in situ</em> przynoszą nieprzewidziane w&nbsp;scenariuszu rezultaty. Obie prace różnią się od konwencjonalnego podejścia dokumentalnego tym, że&nbsp;nie rejestrują wydarzeń po&nbsp;to, by poddać je następnie narracyjnemu wyjaśnieniu, lecz raczej wytwarzają nowe wydarzenia, pokazując trwałość przeszłości jako niepohamowanej siły działającej w&nbsp;teraźniejszości, która zawsze się staje. Przedstawione w&nbsp;nich działania są otwarte na&nbsp;interpretacje, nawet jeśli czasem spowija je poetycki głos lektora przypominający o&nbsp;świecie duchów i&nbsp;widm. Podobnie jak w&nbsp;pracy Svena Augustijnena <em>Spectres</em> (2011)<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup> rezultatem jest rozłamanie „teraz” na&nbsp;przeszłość i&nbsp;teraźniejszość oraz ujawnienie nieoczekiwanych analogii pomiędzy skądinąd odległymi czasowościami (chociaż osoby dramatu Meessena, jawiące się jako przybysze z&nbsp;obcego świata, różnią się od gadających głów Augustijnena, tkwiących w&nbsp;życiu codziennym).</p> <p><em>Vita Nova</em> kontynuuje tę widmologiczną konstrukcję, pogłębiając eseistyczność <em>Dear Adviser</em> i&nbsp;wzmacniając historyczną wnikliwość <em>The Intruder</em>, jednocześnie rozwijając performatywne właściwości obu filmów. Również to wideo jest zbudowane wokół widmowej figury, Etienne’a Minoungou, aktora i&nbsp;reżysera teatralnego z&nbsp;Burkina Faso, wcielającego się w&nbsp;rolę narratora i&nbsp;od czasu do czasu widocznego w&nbsp;filmie podczas odwiedzin wybranych miejsc w&nbsp;Ouagadougou, takich jak rezydencja gubernatora, w&nbsp;której niegdyś urzędował Binger<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>. Tworząc tekst jego wypowiedzi, Meessen obficie korzystał z&nbsp;pism Barthes’a – przeplatają się tu ustępy z&nbsp;książek takich jak <em>Mitologie</em>, <em>Camera Lucida </em>i <em>Roland Barthes </em>– w&nbsp;taki sposób jednak, by opowieść dokonywała istotnego przesunięcia w&nbsp;wymiarze czasowym, geograficznym i&nbsp;subiektywnym. Głos Barthes’a nie tylko zwraca się do nas w&nbsp;czasie teraźniejszym, jak gdyby mówił dzisiaj, co tworzy wrażenie niezborności; okazuje się on także przestrzennie wyobcowany w&nbsp;wyniku przeniesienia do afrykańskiego kontekstu i&nbsp;ucieleśnienia go w&nbsp;partykularnym sposobie mówienia innej osoby. W&nbsp;efekcie znaczenia tekstów Barthes’a ulegają krystalizacji, przerzucane w&nbsp;nieoczekiwanych kierunkach, otwierających nowe narracyjne linie wyjścia<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. W&nbsp;ten sposób, lokując słowa Barthes’a w&nbsp;afrykańskim głosie, <em>Vita Nova </em>przyznaje język dawniej skolonizowanym; ożywia istnienia które w&nbsp;rezultacie zaczynają też od wewnątrz nawiedzać tekst Barthes’a.</p> <p>Film pokazuje, że&nbsp;takie „przechwytywanie” (<em>détournement</em>) usankcjonowane jest przez przedstawione w&nbsp;<em>Mitologiach</em> estetyczno-polityczne analizy samego Barthes’a, szczególnie te momenty, gdy autor tłumaczy, że&nbsp;„mit jest zawsze kradzieżą języka”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>, odwróconego w&nbsp;swoim pierwotnie założonym znaczeniu. W&nbsp;istocie, Barthes porównuje mit do „kradzieży przez skolonizowanie”<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Skoro tak, to co oznaczałaby kradzież samego tekstu Barthes’a mitologiczne odczytanie <em>Mitologii</em>? Czy ustanowiłoby ono swego rodzaju spóźnioną dekolonizację? Jak tłumaczy narrator <em>Vita Nova</em>: „Słowa nigdy nie umrą, bo&nbsp;nie są istnieniami lecz funkcjami. Poddają się zmianom, wcieleniom, reinkarnacjom”. Jeśli „słowa poddają się reinkarnacjom, to co stałoby się, gdyby słowa Rolanda Barthes’a uległy reinkarnacji?” – pyta narrator Meessena. <em>Vita Nova</em> przedstawia takie właśnie ożywienie, jego rezultaty zaś przynoszą nowe krytyczne ujęcie – niezależnie od tego, że&nbsp;przywłaszczenie mitu nie jest gwarancją krytyczności<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Z&nbsp;jednej strony wskazuje ono, iż&nbsp;pokazowy akt semiologicznego dekodowania zastosowany w&nbsp;<em>Mitologiach</em> był równocześnie gestem zasłaniania – ukrywania wkładu i&nbsp;zaangażowania rodziny Barthes’a w&nbsp;projekt kolonialny, którego błyskotliwą krytykę sam przeprowadził. Z&nbsp;drugiej, umieszczając historyczne fakty w&nbsp;ramach nowej spekulatywnej narracji, Meessen przyznaje autorowi drugie życie, chociaż Barthes pozostaje tu równie widmowy jak duchy, prześladujące jego teksty (duch dziadka)<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/widmologia-kolonialna/230-3136-1-pb-1920x-db5.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/widmologia-kolonialna/230-3136-1-pb-330x-d00.jpg 330w,assets/cache/images/issues/2014/7/widmologia-kolonialna/230-3136-1-pb-660x-756.jpg 660w,assets/cache/images/issues/2014/7/widmologia-kolonialna/230-3136-1-pb-768x-1f5.jpg 768w,assets/cache/images/issues/2014/7/widmologia-kolonialna/230-3136-1-pb-1320x-8b7.jpg 1320w" src="assets/cache/images/issues/2014/7/widmologia-kolonialna/230-3136-1-pb-660x-756.jpg" alt="" ></a>    <figcaption><p>Atelier fotograficzne Nadara, Pierre Savorgnan de Brazza (1852-1905), oficer francuskiej marynarki i&nbsp;odkrywca, <a href="http://www.photo.rmn.fr/archive/09-519709-2C6NU09AJCFL.html" target="_blank" rel="noopener">RMN-GP/BE&amp;W</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Oczywiście sam Barthes – zgodnie z&nbsp;określeniem Jean-Michela Rabaté „ghostwriter nowoczesności” – często pisał o&nbsp;śmierci<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. Śmierć to dla niego „<em>eidos</em>” – lub najbardziej znamienny wyraz – fotografii. Własne doświadczenie bycia fotografowanym przyrównywał do stawania się „zjawą”<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. Jak pisze Eduardo Cadava: „Nie może istnieć fotografia bez oddalenia tego, co fotografowane. […] Powiązanie śmierci i&nbsp;fotografowanego obiektu jest w&nbsp;istocie podstawowym pewnikiem fotografii – fotografia jest cmentarzem. Ów mały nagrobny pomnik, fotografia, jest grobem dla żywych trupów. Opowiada ich historię – historię duchów i&nbsp;cieni – i&nbsp;czyni tak dlatego, że&nbsp;to <span class="rozstrzelony">jest</span> tą historią”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. W&nbsp;<em>Camera Lucida</em>, późniejszym zapisie rozmyślań o&nbsp;fotografii, Barthes dokonał także swego rodzaju uwidmowienia, usuwając z&nbsp;pola swej analizy <em>studium </em>(symboliczne znaczenie obrazu), by skoncentrować się na&nbsp;tym, co nazwał <em>punctum</em> (subiektywne „ukłucie”, opierające się wytłumaczeniu, niejasny szczegół, który wymyka się konwencjonalnemu rozumieniu obrazu, a&nbsp;przez to je nawiedza). Rozpatrzmy na&nbsp;przykład jego omówienie zdjęcia Félixa Nadara z&nbsp;1882 roku, ukazującego Pierre’a Paula François'a Camille’a Savorgnan de Brazza. Na&nbsp;zdjęciu znany odkrywca, który ogłosił Kongo terytorium francuskim, ukazany jest na&nbsp;realistycznym tle pejzażu morskiego; siedzi w&nbsp;towarzystwie dwóch młodych czarnych chłopców przebranych za&nbsp;marynarzy, ręka jednego z&nbsp;niech spoczywa na&nbsp;udzie de Brazzy, w&nbsp;geście osobliwej poufałości. „Ten niezborny gest powinien wystarczyć dla przyciągnięcia mojego wzroku, stworzenia <em>punctum</em>” – wyznaje Barthes, nawet jeśli stanowczo ignoruje oczywistą w&nbsp;tym obrazie ideologiczną konstrukcję kolonialnego paternalizmu. „A jednak – kontynuuje – nie to stanowi właściwe <em>punctum</em>, gdyż natychmiast odnotowuję »dziwną« postawę drugiego majtka (<em>punctum </em>stanowią dla mnie skrzyżowane ramiona chłopaka). To, co mogę nazwać, nie może mnie w&nbsp;rzeczywistości uderzyć. Niemożliwość znalezienia określenia, nazwy, jest niewątpliwą oznaką poruszenia”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>.</p> <p>Można się zastanawiać, dlaczego Barthes nie jest w&nbsp;stanie nazwać tego niepokojącego gestu (skrzyżowanych ramion), jakby subtelnie wywrotowego, nieprzejrzystej sugestii samostanowienia; gestu odrzucającego dramat relacji kolonialnych, do udziału w&nbsp;których chłopak najwyraźniej jest zmuszany. Zapewne Barthes z&nbsp;czasów <em>Mitologii</em> wykorzystałby okazję, by rozpoznać tę konstrukcję. Czy dzieje się tak dlatego, że&nbsp;jak sugeruje Avery Gordon, „<em>punctum</em> jest tym, co nas prześladuje”, lecz nie może być otwarcie dyskutowane? Jej zdaniem „jest to szczegół, rzecz mała, ale o&nbsp;dużym ciężarze, która rozpala moment wstrzymanego poruszenia, ożywiający świat duchów”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. Czy w&nbsp;takim wypadku widmowość to dziwne przemieszczenie, w&nbsp;wyniku którego ojciec Barthes’a postawiony zostaje w&nbsp;roli de Brazzy, a&nbsp;subiektywna pozycja Barthes’a zostaje podzielona pomiędzy postaci dwóch chłopców: jednego, wiernego kolonialnemu paternalizmowi, i&nbsp;drugiego, zdystansowanego krytyka kolonializmu? Jeśli jednak <em>punctum</em> ożywia świat duchów, to może go też zasłonić, spowić i&nbsp;ukryć, w&nbsp;tej mierze w&nbsp;jakiej idzie w&nbsp;parze z&nbsp;„niemożliwością nazwania”. O&nbsp;ile Barthes troszczył się w&nbsp;<em>Mitologiach</em> o&nbsp;dekodowanie ideologicznego przesłania, a&nbsp;więc o&nbsp;wówczas jeszcze nienazwane <em>studium</em>, o&nbsp;tyle Meessen odpowiada mu w&nbsp;<em>Vita Nova</em>, wskazując i&nbsp;otwierając <em>punctum </em>obrazu z&nbsp;„Paris Match”. Zdjęcie to zmienia się w&nbsp;grób żywych trupów – subiektywnego, lecz niewypowiedzianego znaczenia, które to kolonialny obraz mógł mieć dla Barthes’a. Innymi słowy, film bada osobiste i&nbsp;rodzinne powiązania Barthes’a z&nbsp;kolonizacją Afryki Zachodniej, które najprawdopodobniej wpłynęły na&nbsp;jego zainteresowanie tą fotografią i&nbsp;stosunek do niej – powiązania, które zostały następnie stłumione przez „niemożliwość nazwania”.</p> <p>Oczywiście inni autorzy także rozliczali Barthes’a z&nbsp;jego estetyki fotografii. Według teoretyczki fotografii, Arielli Azoulay, stanowisko Barthes’a prezentowane w&nbsp;<em>Camera Lucida </em> polega na&nbsp;odrzuceniu tego, co ona sama postrzega jako etyczno - polityczną odpowiedzialność wobec tego, co przedstawione. W&nbsp;rezultacie Barthes „sprowadza rolę widza do aktu sądzenia, eliminując jego/jej odpowiedzialność za&nbsp;to, co widać na&nbsp;fotografii. Osąd ten zakłada bierną postawę wobec obrazu i&nbsp;nastawiony jest przede wszystkim na&nbsp;to, w&nbsp;jakim stopniu fotografia jest w&nbsp;stanie wywołać pożądany efekt lub doświadczenie”<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>.</p> <p>Jakie były okoliczności zmiany stanowiska Barthes’a między latami 50. a&nbsp;80., które doprowadziły do pełnego przyjęcia owego aktu subiektywnego sądzenia? Czy była to kwestia wieku oraz zmiany subiektywnych i&nbsp;politycznych upodobań? (Jak zauważyli krytycy, z&nbsp;upływem lat 70. Barthes coraz częściej zwracał się ku eksplorowaniu tekstowych przyjemności, co doprowadziło go do porzucenia zaangażowania politycznego na&nbsp;rzecz estetyki subiektywistycznej)<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. Czy wynikało to raczej ze zmiany kontekstu historycznego? Wszak w&nbsp;latach 50. Francja zaangażowana była w&nbsp;intensywne polityczne i&nbsp;militarne konflikty związane z&nbsp;walkami antykolonialnymi, zwłaszcza w&nbsp;Algierii i&nbsp;Indochinach. W&nbsp;tym właśnie kontekście Jean-Paul Sartre opublikował <em>Le colonialisme est un système</em> w&nbsp;magazynie „Les Temps Modernes” w&nbsp;kwietniu 1956 – dokładnie w&nbsp;tym samym czasie Barthes pisał swoje krótkie teksty do <em>Mitologii</em>. Sartre w&nbsp;swym artykule wskazywał: „My, Naród Kontynentalnej Francji, mamy tylko jedną lekcję do wyciągnięcia z&nbsp;tych faktów: kolonializm przechodzi proces autodestrukcji. Wciąż jednak zatruwa atmosferę. To nasza hańba; to drwina z&nbsp;naszego prawa lub jego karykatura. Zaraża nas swoim rasizmem. […] Zobowiązuje naszych młodych mężczyzn do walki wbrew sobie i&nbsp;do śmierci za&nbsp;nazistowskie zasady, przeciw którym walczyliśmy dziesięć lat temu; próbuje bronić się przez budzenie faszystowskich nastrojów nawet tutaj, we Francji. Naszym zadaniem jest pomóc mu umrzeć. Nie tylko w&nbsp;Algierii, ale wszędzie, gdzie tylko istnieje”<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>. Porównując kolonializm do nazizmu, Sartre odwoływał się do najważniejszych głosów radykalnej czarnej opozycji wobec francuskiej i&nbsp;europejskiej polityki kolonialnej, w&nbsp;tym W.E.B. Du Bois, C.L.R. Jamesa, George’a Padmore i&nbsp;Aimé Césaire’a<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>. Bez wątpienia właśnie antykolonialna polityka prowadzona <span class="rozstrzelony">wewnątrz</span> Francji była tym, w&nbsp;co celowała obrona kolonialnego projektu prowadzona przez „Paris Match” w&nbsp;połowie lat 50. - prowadzona nawet mimo tego, że&nbsp;francuska Afryka Zachodnia była od długiego czasu miejscem antykolonialnego oporu (z przerwami już od II wojny światowej, aż&nbsp;do czasu, gdy Wybrzeże Kości Słoniowej otrzymało status autonomii w&nbsp;późnych latach 50. i&nbsp;pełną niepodległość w&nbsp;roku 1960). W&nbsp;1980 roku, kiedy została wydana <em> Camera Lucida</em>, kwestia kolonializmu nie była już rzecz jasna obecna w&nbsp;debacie publicznej w&nbsp;taki sam sposób jak wówczas, Barthes zaś, zgodnie z&nbsp;tym kierunkiem historycznych zmian, zwrócił się ku innym niekolonialnym zagadnieniom.</p> <p style="text-align: center;">***</p> <p>Przemiana Barthes’a, która spowodowała swego rodzaju spektralizację – uczynienie widmowymi owych historycznych i&nbsp;politycznych znaczeń i&nbsp;problemów kolonialnej przeszłości wydobytych w&nbsp;<em>Mitologiach</em> – stała się również źródłem dalszych ożywień i&nbsp;aktów wywoływania duchów realizowanych na&nbsp;wystawie Meessena „My Last Life”<em>,</em> pokazanej w&nbsp;ośrodku artystycznym Khiasma w&nbsp;Paryżu w&nbsp;2011 roku oraz w&nbsp;belgijskim centrum Netwerk w&nbsp;Aalst na&nbsp;przełomie 2011 i&nbsp;2012 roku. „My Last Life” rozwija tematykę i&nbsp;strukturalne założenia <em>Vita Nova</em>. Zestaw instalacji i&nbsp;prezentacji wizualnych pogłębia badania widm Barthes’a, zmienionego przez Meessena w&nbsp;ducha unoszącego się nad zgromadzonymi na&nbsp;wystawie obiektami i&nbsp;materiałami wizualnymi, których fikcyjne układy ujawniają ich własne, prawdy historyczne. Wystawa udekorowana drzewami palmowymi w&nbsp;doniczkach przywoływała ducha matki Barthes’a, Henriette’y Binger, której fotografii z&nbsp;cieplarni autor poświęcił obszerny fragment eseju <em>Camera Lucida</em>, nie zamieszczając jednak reprodukcji zdjęcia<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>. Instalacja z&nbsp;drzew palmowych budziła zaś skojarzenia z&nbsp;konceptualnym artystą Marcelem Broodthaersem i&nbsp;jego archiwalnym modelem „fikcji muzealnej”, której prezentacje również przyozdabiane były w&nbsp;taki sposób, by stworzyć eleganckie, lecz dominujące nad elementami natury instytucjonalne środowisko, przypominające widoki kolonialnej Belgii. Wystawa Meessena to równie poetycki i&nbsp;produktywny w&nbsp;kwestii komentowania historii przykład krytyki instytucjonalnej, skupiony jednak na&nbsp;artystycznym wytwarzaniu zaskakującego archiwum imaginacyjnego Rolanda Barthes’a. W&nbsp;zbiorze tym prawdziwe dokumenty idą w&nbsp;parze z&nbsp;wymyślonymi tworami, zmieniającymi fikcję w&nbsp;składnik właśnie odsłoniętych kulturowych i&nbsp;wizualnych realiów kolonialnej przeszłości. Zwiedzający wystawę ogląda różne magazyny, jak „Paris Match”, „National Geographic”, „La Quinzaine”, oraz opowieści z&nbsp;podróży z&nbsp;czasów kolonializmu, między innymi książkę <em>Le serment de l’explorateur </em>autorstwa Louisa Gustave’a Bingera. Obiekty te rozłożone były na&nbsp;podłodze wzdłuż ścian galerii. Standardowe drewniane witryny, w&nbsp;których prezentowano dokumenty podczas wcześniejszej paryskiej instalacji, leżały puste i&nbsp;beznogie na&nbsp;podłodze Netwerk – to przesunięcie w&nbsp;wystawie sugerowało możliwości narracyjnego przenoszenia uwagi z&nbsp;jednego punktu na&nbsp;inny, a&nbsp;tym samym niemożliwość jednej, ostatecznej historii. Zmieniając te dokumenty w&nbsp;obiekty i&nbsp;przekształcając je w&nbsp;formy rzeźbiarskie, instalacja podkreślała ich plastyczność w&nbsp;odniesieniu do historycznych relacji, które same okazują się czymś nieskończenie zmiennym.</p> <p>W ten sposób wystawa włączała swoje elementy – dyskursywne znaczniki różnych trajektorii historycznych – w&nbsp;nowe konstelacje, częściowo wskazane w&nbsp;ogromnym wiszącym na&nbsp;ścianie „diagramie kosmicznym” (<em>cosmograph</em>): rozbudowanym układzie linearnych powiązań różnorodnych nazwisk i&nbsp;nazw, łączących ludzi, postaci, dzieła i&nbsp;okresy historyczne, w&nbsp;tym Bingera, Barthes’a, „Paris Match”, Stéphane’a Mallarmégo, Alfreda Stieglitza i&nbsp;Philipa Sollersa. Setki odniesień na&nbsp;tej mapie (stworzone przy pomocy programu komputerowego, przeznaczonego do budowania schematów genealogicznych) znacznie wykraczały poza zasadniczy zakres treściowy wystawy i&nbsp;otwierały wyraźnie nieskończony potencjał wątków narracyjnych. Sterta przedrukowanych numerów „Paris Match” pojawiła się w&nbsp;przeciwnym rogu pomieszczenia; układ magazynu przetworzono tak, by uwidocznić cały materiał z&nbsp;numeru lipcowego 1955 roku związany z&nbsp;praktykami kolonialnymi, dziś uderzający schematyzmem przedstawienia Afryki. Znalazły się tam zatem: krótki esej fotograficzny, dokumentujący wycieczkę Dioufa i&nbsp;jego towarzyszy, Issy i&nbsp;Santoura (o których redakcja numeru wyraża się familiarnie), zwiedzających wieżę Eiffla w&nbsp;Paryżu i&nbsp;La fête à Neu-Neu w&nbsp;Neuilly-sur-Seine w&nbsp;tygodniu poprzedzającym Les Nuits de l’Armée; relacja z&nbsp;wizyty w&nbsp;Kongo króla belgijskiego Baldwina; artykuł o&nbsp;rzekomym istnieniu niewolnictwa na&nbsp;Mali; ilustrowany esej o&nbsp;„ostatnich przedstawicielach prehistorii” odkrytych w&nbsp;Nowej Gwinei, oraz wszystkie strony oryginalnego magazynu umieszczone w&nbsp;zmniejszonej skali na&nbsp;czterech stronach.</p> <p>Te romantyczne i&nbsp;egzotyczne narracje kolonialnych eksploracji okazują się zaskakująco podobne do osobistych fikcyjnych wędrówek Barthes’a, przedstawianych na&nbsp;tej wystawie. Przykładowo Meessen zaprezentował makiety trzech nieistniejących książek autorstwa niejakiego Herbé – nazwisko to jest homonimem inicjałów R.B., którymi Barthes czasem odnosił się w&nbsp;druku do samego siebie. Tytuły, oparte na&nbsp;znalezionych u&nbsp;Barthes’a osobliwych sugestiach zagadnień podejmowanych w&nbsp;jego pismach, dają spekulatywny wgląd w&nbsp;fantazje autora o&nbsp;byciu powieściopisarzem. Są to: <em>Psychanalyse historique des imageries tronquées</em> (Historyczna psychoanaliza okrojonego obrazu), <em>Theatrum Orbis Verborum </em>(Teatr świata słów), <em>Mathesis Singularis</em> (Nauka jednostkowa); ostatni tytuł zaczerpnięty został z&nbsp;prowokacyjnej sugesti Barthes’a wypowiedzianej w<em>Camera Lucida</em>, mówiącej, że&nbsp;każdy tekst lub obraz zasługuje na&nbsp;własną, jednostkową metodologię interpretacji<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>. Właśnie tego typu metodologię <em>Vita Nova</em> stwarza dla obrazu z&nbsp;okładki „Paris Match”, wideo i&nbsp;wystawa grają z&nbsp;Barthes’owskim pragnieniem „nowego życia” - wskazanym przezeń w&nbsp;odwołaniu do <em>La Vita Nuova</em> Dantego, gdy tworzył wizję nieuchronnie odmiennej formy egzystencji, związanej ze stawaniem się powieściopisarzem –które jednocześnie uśmierciłoby wcześniejsze życie<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>. Podążając szlakiem wytyczonym przez Barthes’a, projekty Meessena wyzyskują multiplikację tożsamości w&nbsp;pismach Barthes’a, szczególnie praca <em>Third Text</em> (2011), gdzie Meessen wiesza na&nbsp;ścianie jego krótkie artykuły w&nbsp;trzech językach i&nbsp;oświetla je światłem reflektora o&nbsp;odcieniach barw podstawowych. Tekst <em>Barthes to the Power of Three</em> (Barthes do potęgi trzeciej) opublikowany był pierwotnie w&nbsp;1975 roku, w&nbsp;magazynie „La Quinzaine” (także prezentowanym na&nbsp;wystawie w&nbsp;Khiasma i&nbsp;Netwerk), dla którego Barthes sam recenzował własną autobiografię. Rezultatem tej zabawy był triadyczny podział tożsamości pisarza, ukazanego równocześnie jako autor, przedmiot i&nbsp;krytyk własnej twórczości. Instalacja Meessena uzmysławia nieoczekiwane konsekwencje wcześniejszych rozważań Barthes’a na&nbsp;temat autorstwa z&nbsp;klasycznego eseju <em>Śmierć autora</em>, prowadząc nas z&nbsp;powrotem do autora/autorów, którego/ych Messen przywraca do życia.</p> <p>Znaczenie tych zręcznych sztuczek i&nbsp;twórczych zabiegów zasadza się na&nbsp;tym, że&nbsp;Meessen nie wykorzystuje rzekomo wypartych historii rodzinnych Barthes’a jako kontekstu dla poprawnych, prawdziwych i&nbsp;rozstrzygających dokumentalnych ujęć przeszłości. Barthes pokazany jest raczej jako dokonujący własnej „auto-mitologizacji” poprzez krytyczne odczytanie kolonialnej mitologii i&nbsp;rozwinięcie własnych licznych tożsamości – mitologizacji odkrytej następnie przez Meessena jako ostateczna prawda reprezentacji dokumentalnej, konstrukcji historycznej, zbioru archiwalnego i&nbsp;krytyki semiologicznej<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>. Oznacza to, że&nbsp;żadna „prawda” nie jest pewna; żadna narracja – obiektywna czy ostateczna – nie istnieje poza autorskim punktem widzenia, subiektywnym rozumieniem odbiorcy oraz działaniem wyparcia i&nbsp;stłumienia. Ponadto taka mitologizacja może atakować sam mit. Jak sam Barthes przewidział w&nbsp;eseju <em>Mit dzisiaj </em>z <em>Mitologii</em>: „Prawdę mówiąc, najlepszą bronią przeciw mitowi jest być może umitycznienie mitu, wytworzenie <span class="rozstrzelony">mitu sztuczneg</span>o: a&nbsp;ten odtworzony mit będzie prawdziwą mitologią. Skoro mit kradnie język, dlaczego nie ukraść mitu?”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>. Tak działa <em>Factitus</em> (2011) Meessena – realistyczne „banany” z&nbsp;brązu, spoczywające na&nbsp;dokumentach rozproszonych w&nbsp;przestrzeni wystawy. Tytuł nawiązuje do łacińskiego terminu „wytworzony”, który – jak wskazuje Meessen – stanowi źródło etymologicznie powiązanych, lecz przeciwstawnych słów, takich jak „fakt”, „fikcja” i&nbsp;„fetysz”. Nie może zatem istnieć prosta opozycja pomiędzy faktem i&nbsp;fikcją; raczej jedno wytwarza drugie<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>.</p> <p>Płynność granic pomiędzy tymi znaczeniami i&nbsp;afirmacja swego rodzaju „ontologicznej anarchii” pozwala Meessenowi uwalniać duchy bez próby zamknięcia ich następnie w&nbsp;opowieści<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>. Jak sam wyjaśnia:</p> <blockquote>Próbuję uczynić Historię bardziej czytelną, jako nawarstwienie konkurujących porządków wypowiadania: Historii pokonanej osoby, którą pamięć momentami zawodzi, zapisanej Historii nazwisk i&nbsp;dat, powtarzanej w&nbsp;szkole, Historii oralnej i&nbsp;legendarnej, opowiadanej na&nbsp;wsiach – wszystko to w&nbsp;jakimś sensie zagubiony czas opowieści. Równocześnie jednak powoli powstaje inna historia, która działa jak naświetlenie <em>punctum</em> zdjęcia z&nbsp;„Paris Match”. Jednak dla Barthes’a <em>punctum</em> jest zawsze prywatne i&nbsp;intymne, ponieważ jest czymś, co porusza cię tak bardzo w&nbsp;niektórych fotografiach, czymś, czego nie możesz nazwać<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>.</blockquote> <p>Trzeba to jasno powiedzieć: wskazywanie<em> punctum </em>w zdjęciu z&nbsp;„Paris Match” nie polega na&nbsp;prostym odzyskiwaniu stłumionej historii; raczej wiąże się ze wskazaniem niemożliwości zanegowania tej historii przez Barthes’a. Chodzi o&nbsp;zwrócenie uwagi na&nbsp;jej przedłużoną, trwałą obecność; o&nbsp;sposób, w&nbsp;jaki historia ta nadal żyła w&nbsp;pracach Barthes’a, nawet jeśli wprost nie potwierdzał jej istnienia. Oznacza to dostrzeżenie niepokojącej obecności nieobecności. Innymi słowy, taka widmologia odsłania obecność „radykalnej nie-negatywności”, by posłużyć się słowami Stevena Shaviro, nazywającymi to, co nie daje się uciszyć. Według Shaviro widmowy ślad staje się „rodzajem pozostałości, quasi materialnym uporem, zakłócającym i&nbsp;burzącym wszelki moment negacji lub negatywności. Właśnie czymś takim jest duch: czymś, czego już nie ma lub co nie żyje, ale zarazem odmawia bycia nieobecnym; czymś, co jest nie tutaj, nie teraz, ale stale naznacza, zatruwa, zniekształca lub uderza w&nbsp;tu i&nbsp;teraz”<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>. Innymi słowy, ta radykalna nie-negatywność wskazuje sposób, w&nbsp;jaki fotografia, jako widmowa nieobecność lub jako zakłócająca obecność nieobecności, nieustannie kieruje ku kolonialnej przeszłości ukrytej w&nbsp;pracach Barthes’a – od obrazu Brazza w&nbsp;<em>Camera Lucida</em>, po&nbsp;portret jego dziadka kolonizatora w&nbsp;autobiografii <em>Roland Barthes </em>– lecz czyni to tak, by nie można było odnieść się do nich bezpośrednio lub opracować historycznie. Pozostają nam tylko ślady wyparcia, które nigdy w&nbsp;pełni nie znikną.</p> <p style="text-align: center;">***</p> <p>W tym miejscu możemy ponownie rozważyć znaczenie <em>Vita Nova</em>: jeśli film ten daje dokumentom historycznym, takim jak okładka „Paris Match”, nowe życie – to życie to jest otwarte, zmienne i&nbsp;po części nienazwane. Widać to, gdy wideo pod&nbsp;sam koniec ukazuje Kaboré, który dostaje kopię magazynu – po&nbsp;raz pierwszy w&nbsp;życiu widzi ten numer – pięćdziesiąt lat po&nbsp;ukazaniu się zrobionej mu fotografii (my też po&nbsp;raz pierwszy zobaczyć możemy okładkę pisma w&nbsp;całości). Ta poruszająca sytuacja umożliwia pojawienie się pewnego wspomnienia, które Kaboré – co widać w&nbsp;filmie – dzieli z&nbsp;wnukami. Postacie te wpadają w&nbsp;wir cyklicznej historii odseparowującej je od siebie nawzajem: starszy człowiek powraca do własnego obrazu, któremu dano drugie życie, takie jednak, które czyni jego wiek nierozpoznawalnym. Równocześnie jego wnukowie osobliwie rozpoznają siebie w&nbsp;zdjęciu swojego dziadka jako chłopca, ale kontekst historyczny jest już całkiem odmienny. Zamiast rekonstruować przeszłe wydarzenia <span class="rozstrzelony">retrospektywni</span>e, praca Meessena prowokuje nowe i&nbsp;przyszłe wydarzenia <span class="rozstrzelony">prospektywni</span>e. Jego dokument performatywny stanowi zatem mieszaninę dokumentacji historycznych, opowiadania, zmyślania, spontanicznych sytuacji społecznych, z&nbsp;których wszystkie zbiegają się wspólnie w&nbsp;przekształcającym momencie teraźniejszości i&nbsp;tworzą twórczą naukę dla przyszłości. Kobena Mercer wskazuje na&nbsp;odkupieńcze działanie tego gestu: „Nadając nowe życie, lub drugie życie, obrazom kolonizowanych, którzy w&nbsp;innym wypadku pozostaliby nienazwani i&nbsp;nierozpoznani, film Meessena wykonuje postkolonialny gest »odkupieńczego powrotu«, w&nbsp;którym materiał archiwalny, zamiast pozostawać martwym i&nbsp;pochowanym w&nbsp;przeszłości, rozbłyskuje współcześnie w&nbsp;krytycznym momencie opóźnionego przebudzenia, odsłaniającego niezakończone życie po&nbsp;życiu relacji kolonialnych”<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>. Jednak skoro tak, to <em>Vita Nova</em> ujawnia, że&nbsp;historyczne znaczenie obrazu pozostanie zawsze niedomknięte, zawsze zdolne do produkowania nowych mitologii, stale obdarzone potencjałem ożywiania nowych duchów.</p> <p>Ta właściwość dokumentu performatywnego zaprezentowana jest w&nbsp;scenach filmu ukazujących kino pod&nbsp;gołym niebem, zrekonstruowane przez Meessena w&nbsp;dawnych barakach kadetów w&nbsp;Ouagadougou (gdzie dziś mieści się szkoła średnia). Burkinańczycy pokazani są podczas oglądania fragmentów <em>La force noire</em>, filmu Erica Deroo z&nbsp;2007 roku, który proponuje oficjalną wizję udziału kolonizowanych Afrykańczyków w&nbsp;wojnach prowadzonych przez Francję i&nbsp;zawiera materiał filmowy pozyskany z&nbsp;archiwów francuskiego Ministerstwa Obrony. W&nbsp;filmowym montażu Meessena, spajającym te odrębne zdarzenia, rozwija się splątana, zataczająca swój krąg historia. Film pokazuje na&nbsp;przykład afrykańskie oddziały paradujące w&nbsp;Pałacu Sportu – jak po&nbsp;wojnie nazwano Vel’ d’Hiv [tzw. <em>Vélodrome d’Hiver</em>, franc. welodrom zimowy], stary kryty tor kolarski, po&nbsp;części po&nbsp;to, by oddalić to miejsce od jego niesławnej przeszłości, w&nbsp;której używany był jako punkt zbiorczy dla osób deportowanych następnie do obozów zagłady w&nbsp;czasie II wojny światowej<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>. W&nbsp;tym sensie umiejscowienie <em>Les Nuits de L’Armée</em> właśnie tu w&nbsp;1955 roku ustanawia zatrważające powiązanie między historią antysemityzmu i&nbsp;Holokaustu a&nbsp;francuskim kolonializmem. Teraz jednak to Afrykańczycy stają się widzami – za&nbsp;sprawą przeplatających się ujęć <em>Vita Nova:</em> spoglądają na&nbsp;siebie sprzed lat i&nbsp;obserwują oryginalną francuską widownię pół wieku później. Czy obecnie uczestniczą w&nbsp;osądzaniu tego kolonialnego spektaklu, celebracji militaryzmu i&nbsp;francuskiego patriotyzmu za&nbsp;jego współudział w&nbsp;rasizmie i&nbsp;ludobójstwie? Czy groźne duchy owej przeszłości spoczną w&nbsp;końcu, gdy ta historia opresji i&nbsp;podporządkowania znajdzie swoje ujęcie w&nbsp;formie historiograficznej sprawiedliwości? Choć tego zakończenia nie jesteśmy w&nbsp;stanie zweryfikować – może być ono tylko przedmiotem spekulacji – jesteśmy świadkami międzypokoleniowego przekazu, gdy ludzie w&nbsp;podeszłym już wieku dzielą swoje niemalże zapomniane doświadczenie dawnych lat kolonialnych ze swoimi wnukami, pośród których znajdują się żołnierze wojska niepodległej Burkina Faso. Historia staje się medium powtórzenia i&nbsp;różnicy – przywołującym, według Barthes’a, <em>punctum</em> „zatrzymanego” czasu; według Derridy będącym tym, co „de-synchronizuje” i&nbsp;„przypomina o&nbsp;anachronii”<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup>. Jak tłumaczy narrator <em>Vita Nova, </em>ożywiając słowa Barthes’a: „Historia to spirala. Czas przynosi ponownie stany uprzednie, ale kręgi spirali rozszerzają się, żaden nie jest dokładną kopią. Historia jest jak polifonia uderzeń światła i&nbsp;mgły, które nieustannie sobie odpowiadają. Na&nbsp;trajektorii tej spirali wszystko się powtarza, ale na&nbsp;innym, wyższym poziomie; to powrót różnicy, ruch metafory, to Fikcja”<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>. <em>Vita Nova</em> stanowi edukacyjne ćwiczenie, katalizujące pamięć w&nbsp;postkolonialnej teraźniejszości, ale jednocześnie wideo Messeena przedstawia krytyczną historię francuskiego dyskursu literackiego lat 50., kiedy to autorzy tacy jak Barthes przyczynili się do odsłonięcia mechanizmów i&nbsp;zbudowania krytyki imperialistycznej kultury wizualnej. Jednak nawet jeśli pionierskie analizy Barthes’a miały swój wkład w&nbsp;obalenie kolonialnej mitologii, jego pisarstwo wyrzeka się współudziału i&nbsp;odpowiedzialności związanych z&nbsp;własnym domem. <em>Vita Nova</em> ingeruje w&nbsp;to wyparcie. Po&nbsp;pierwsze zwracając się ku wczesnej Barthes’owskiej semiotycznej krytyce ideologii kolonialnej, wideo prowadzi rozważania nad <em>punctum</em>, wskazującym nawiedzanie tekstów Barthes’a przez jego osobistą historię – tekstów, które dokonały wymazania, w&nbsp;osobliwy sposób ujawniając to, co zostało wyparte. Widmologia odnajduje tu swoją definicję w&nbsp;negatywnej ontologii reprezentacji: „To, co widmowe [<em>spectral</em>] nie <span class="rozstrzelony">jes</span>t” – pisze Derrida. Nie jest „ani istotą, ani esencją, ani egzystencją. Jako takie nie <span class="rozstrzelony">jest nigdy obecn</span>e”<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>. Po&nbsp;drugie, film demaskuje i&nbsp;odrzuca subiektywną fenomenologię <em>Camera Lucida</em>, zdradzającą oddalenie się Barthes’a od krytyki ideologii, a&nbsp;w szczególności odrzucenie przezeń politycznego obrazu ekonomii kolonializmu, który – jak widzieliśmy – spleciony był z&nbsp;jego historią rodzinną . Ostatecznie dochodzimy do wniosku, że&nbsp;późniejszy analityczny kierunek myśli Barthes’a korespondował z&nbsp;odkrywczym stłumieniem, które powraca w&nbsp;pracy Barthes’a w&nbsp;pełni swojej nie-negatywności, w&nbsp;swojej widmowej obecności, spotęgowanej przez dzieło Meessena. Jako taka, <em>Vita nova</em> wspiera pracę odzyskiwania historii. Ponadto widmologia pokazuje, w&nbsp;jaki sposób <em>punctum</em> i&nbsp;<em>studium</em> mogą się ponowne połączyć (jeśli nie pojednać) w&nbsp;eksperymentalnej historiografii – jednocześnie subiektywnie znaczącej, historycznie i&nbsp;politycznie świadomej oraz wrażliwej na&nbsp;złożoność reprezentacji<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>. Tego rodzaju historiografia nie opierałaby się na&nbsp;łatwej dostępności historycznej obecności, lecz raczej na&nbsp;niemożliwości całościowego ujmowania historii, na&nbsp;obstawaniu przy uporczywej i&nbsp;radykalnej nie-negatywności, prześladującej świadomość historyczną i&nbsp;reprezentację. W&nbsp;ten sposób podważałaby wszelki historyzm, zbudowany na&nbsp;ścisłym rozumieniu chronologii czy dążący do konceptualnego utrwalania przeszłości<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>.</p> <p>I wreszcie elementy te wskazują swoiste znaczenie pracy Meessena w&nbsp;teraźniejszości, w&nbsp;sytuacji, gdy francuska kultura, edukacja i&nbsp;polityka – podobnie jak większość europejskiego dyskursu, od Holandii po&nbsp;Włochy, od Belgii po&nbsp;Niemcy – zmierzają w&nbsp;kierunku neorewizjonistycznego „imperialnego ochłodzenia”, łączącego – co nie będzie zaskoczeniem – amnezję w&nbsp;kwestii historii z&nbsp;nostalgią kolonialną<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup>. Wszak studia postkolonialne przyswojone zostały we Francji ze znaczącym opóźnieniem – dopiero w&nbsp;ostatniej dekadzie (mimo bogatej historii ruchów oporu w&nbsp;koloniach oraz teoretycznych analiz Fanona, Césaire’a i&nbsp;Alberta Memmi’ego) – i&nbsp;wciąż w&nbsp;najlepszym wypadku utrzymują status dyscypliny dyskusyjnej. Ich spóźnione pojawienie się jest zbieżne w&nbsp;czasie z&nbsp;wysiłkami prawicy, zmierzającymi do wyparcia się odziedziczonych tradycji internacjonalizmu i&nbsp;antykolonializmu, a&nbsp;także usunięcia złożonej spuścizny marksizmu oraz pamięci społecznych i&nbsp;politycznych walk 1968 roku – wśród nich ruchu solidarności z&nbsp;Trzecim Światem<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup>. Nie sposób tego zjawiska oddzielić od polityki oporu wobec multikulturalizmu, która zaprzeczając przemocy i&nbsp;negatywnemu dziedzictwu kolonialnej przeszłości, ułatwia kontynuację tej samej logiki – czy to w&nbsp;formie ataków na&nbsp;imigrantów czy podtrzymywania neokolonialnych nierówności pomiędzy Północą i&nbsp;Południem, wykorzystywanych przez zachodnie polityczne i&nbsp;ekonomiczne elity. Nie sugeruję, że&nbsp;polityczna pozycja Barthes’a jest bezpośrednio powiązana z&nbsp;tym konserwatywnym zwrotem, ale jego wieloznaczne milczenie z&nbsp;pewnością świadczy o&nbsp;głębi przesycenia kolonializmem, obecnym na&nbsp;tym ukrytym poziomie nawet we wczesnej krytyce samego kolonializmu. Badanie tej przeszłości dzisiaj, jak czyni to <em>Vita Nova</em>, ma szczególne znaczenie dla wykształcenia wizji odmiennej przyszłości – przyszłości poza kolonializmem.</p> <p></p> <p><b>Przekład <em>A Colonial Hauntology. Vincent Meessen’s </em>Vita Nova, eseju, który ukazał się w&nbsp;książce T.J. Demosa <em>Return to Postcolony. Spectres of Colonialism in Contemporary Art</em>, Sternberg Press, Berlin 2013, s.&nbsp;45–70. Redakcja dziękuje autorowi i&nbsp;wydawnictwu Sternberg Press za&nbsp;zgodę na&nbsp;przekład.</b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Roland Barthes, <em>Mitologie</em>, przeł. A. Dziadek, Wydawnictwo KR, Warszawa 2000, s. 247.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Podpis pod zdjęciem na okładce brzmi: „Les Nuits de l'Armée: Le petit Diouf venu de Ouagadougou avec son comarades, enfants de troupes a’A.O.F. [Afrique Occidentale Française], pour ouvrir le fantastique spectacle que l’Armée française presente au Palais des Sports cette semaine”. (Les Nuits de l’Armée: Mały Diouf przybył z Ouagadougou wraz ze swoimi towarzyszami, chłopcami z oddziałów Francuskiej Wschodniej Afryki, by otworzyć fantastyczne widowisko prezentowane przez Armię Francuską w tym tygodniu w Pałacu Sportu).</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Dyerma – również: Djerma, Zarma; grupa etniczna zamieszkująca tereny Ghany, Beninu, Nigerii i Burkina Faso – przyp. tłum.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Przekład polski: Roland Barthes, <em>Roland Barthes</em>, przeł. T. Swoboda, słowo/obraz terytoria, Gdańsk 2011 – przyp. tłum.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Jacques Derrida, <em>Spectres of Marx</em>, przeł. P. Kamuf, Routledge, London-New York 2006, s. 10–11.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Termin ten był także używany przez organizację Meessena „Normal”, która zrealizowała przegląd współczesnych i historycznych filmów oraz serię dyskusji pod hasłem „Hautologie des colonies” w dniach 8 października – 18 listopada 2011 roku, we współpracy z centrum artystycznym Khiasma w Paryżu. Meessen wraz z Pablo Martinezem, zorganizował także sympozjum <em>Bewitched System. The Exorcising Role of Images</em> (Zaklęty system: egzorcystyczna rola obrazów) w CAZM Centro de Arte Dos de Mayo w Madrycie w dniach 18–20 czerwca 2012.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Na temat „widmowego zawrotu głowy” związanego z białą skórą antropologa, którego przypomina postać Meessena, zob. Christopher Pinney, <em>Photography and Anthropology</em>, Reaktion., London 2011, s. 59; Michael Taussing, <em>What Colour Is the Sacred?,</em> University of Chicago Press, Chicago 2009, s. 81–82. (Zob. Franz Fanon, <em>Peau noire, masques blanc</em>, pierwsze wyd. 1952 – przyp. tłum.).</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a><em>Spectres</em> Svena Augustijnena stanowi przedmiot analizy wcześniejszego rozdziału książki Demosa, <em>Sven Augustijnen’s Spectropoetics</em> – przyp. tłum.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Minougou współpracował z Meessenem także jako lektor przy filmie <em>Les Sociétaires</em> (2006).</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Termin Gillesa Deleuze’a i Felixa Guattariego (<em>ligne de fuite</em>, ang. <em>line of flight</em>), oznaczający przedostawanie się myśli do nowej przestrzeni koncepcyjnej – przyp. tłum.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Roland Barthes, <em>Mitologie…</em>, s. 264.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Ibidem, s. 265.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> W rzeczy samej, jak wskazuje Sven Lutticken „niektóre zawłaszczenia mogą wzmacniać działanie mitów. Mitologia drugiego stopnia może w istocie stać się pseudokrytyczną, bezsilną próbą, wciąż zdominowaną przez mity, które chce demaskować. Może też ona przerodzić się w swój własny mit – mit zawłaszczenia jako działania z istoty radykalnego lub tworzącego radykalną różnicę”. <em>The Feathers of the Eagle</em>, „New Left Review” 2005, nr 36, s. 124–25. W eseju tym autor wyprowadza pomocną genealogię sztuki współczesnej i mitu, omawiając między innymi stosowane przez Marcela Broodthaersa strategie przywłaszczania inspirowane przez Barthesa, bliskie – jak zobaczymy – projektowi Meessena.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Pojęcie „spekulatywnej narracji” (<em>speculative narration</em>), oznaczające formę konstrukcji, opierającej się prawdopodobieństwu w celu stworzenia nowego świata, było omawiane przez twórcę filmowego Fabrizio Terranova na konferencji zorganizowanej przez Meessena 7 lutego 2012 w Netwerk Center of Contemporary Art w Aalst, w Belgii, z okazji trwającej tam jego wystawy.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Jean-Michel Rabaté, <em>Roland Barthes, Ghostwriter of Modernity</em> w: <em>The Ghost of Modernity</em>, University Press of Florida, Gaineswille 1996.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Zob. Roland Barthes, <em>Światło obrazu. Uwagi o fotografii</em>, przeł. J. Trznadel, Wyd. KR, Warszawa 1996, s. 25. Będąc fotografowanym, pisze Barthes, „nie jestem ani podmiotem, ani przedmiotem, ale raczej podmiotem, który czuje, że staje się przedmiotem. Przeżywam wtedy mikrodoświadczenie śmierci (ujęcia w nawias): naprawdę staję się zjawą”.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Eduardo Cadava, <em>Words of Light. Theses on the Photography of History</em>, Princeton University Press, Princeton, NJ 1997, s. 10.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Roland Barthes, <em>Światło obrazu…</em>, s. 90.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Avery Gordon, <em>Ghostly Matters…</em>, s. 106-108. Pisze dalej: „Czarujący detal nie może być z góry przewidziany ani wykalkulowany zgodnie z metodologicznym rygorem. Bez wątpienia, niezależnie od pragnienia Barthes’a by stworzyć naukę o tym, co poszczególne, jest to też w pełni społeczny fenomen”.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Ariella Azoulay, <em>The Civil Contract of Photography</em>, przeł. R. Melazi i R. Danieli, Zone Books, New York 2008, s. 130.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Na temat tej przemiany postawy Barthes’a zob. Alec G. Hargreaves, <em>A Neglected Precursor. Roland Barthes and the Origins of Postcolonialism</em> w: <em>Postcolonial Theory and Francophone Literary Studies</em>, red. H. Adlai Murdoch, A. Donadey, University Press of Florida, Gainesville 2005, s. 56; Diana Knight, <em>Barthes and Utopia. Space, Travel and Writing</em>, Clarednon Press, Oxford 1997, zwłaszcza s. 97; Chela Sandoval, <em>Methodology of Oppressed</em>, University of Minnesota Press, Minneapolis 2000, zwłaszcza s. 113; XX Rabaté, <em>Roland Barthes</em>…</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Jean-Paul Sartre, <em>Colonialism and Neocolonialism</em>, przeł. S. Brewer, A. Haddour, T. McWilliams, Routledge, London 2001, s. 47.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Zob. np. Aimé Césaire, <em>Discourse on Colonialism</em>, przeł. J. Pinkham, Monthly Review Press, New York 2000, gdzie wyraźnie widać tę zależność.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Jak tłumaczył Barthes: „Nie mogę pokazać publicznie Zdjęcia z Cieplarni. Ono istnieje tylko dla mnie. Dla was byłoby to jeszcze jedno obojętne zdjęcie, jedna z tysięcy manifestacji »czegokolwiek«”. Idem, <em>Światło obrazu…</em>, s. 125.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Zob. Roland Barthes, <em>Światło obrazu…, </em>s. 16.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Zob. Roland Barthes, <em>The Preparation of the Novel. Lecture, Courses and Seminars at the Collège de France</em><em>(1978 - 1979 and 1979 - 1980),</em> trans. Kate Briggs, Columbia University Press, New York 2010, s. 5. Autor pisze: „dla kogoś kto pisze, kto wybrał pisanie, to znaczy dla kogoś kto doświadczył rozkoszy, radości pisania (nie innej od tej »pierwszej przyjemności«), nie może być innej <em>Vita Nova</em> (lub tak mi się wydaje) jak ta, którą jest odkrycie nowej praktyki pisarskiej”.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Ten aspekt współbrzmi z szerszym rozwojem „archiwalnego impulsu” i roli „artysty jako historyka” we współczesnej sztuce, której nowsze praktyki – dopuszczające subiektywną przygodność i narracyjną otwartość – różnią się od wcześniejszych wersji praktyki dokumentalnej, której celem było poszukiwanie obiektywnej i ostatecznej prawdy. Zob.: Hal Foster, <em>An Archival Impulse</em>, „October” 2004, nr 110; Mark Godfrey, <em>The Artist as Historian</em>, „October” 2007, nr 120.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Roland Barthes, <em>Mitologie…</em>, s. 269.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Odnosi się to do przedefiniowania fikcji u Jacques’a Rancière’a, który w swoim eseju <em>Documentary Fiction</em> na s. 158, pisze: „»Fikcja« nie jest piękną historią czy diabelskim kłamstwem, skutkiem ubocznym realności, który ludzie próbują omijać. Pierwotnie <em>fingere</em> nie oznaczało ‘symulować, udawać’, lecz ‘tworzyć’. Fikcja oznacza używanie środków sztuki, by skonstruować »system« przedstawionych działań, połączonych form i wewnętrznie spójnych znaków”.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> W ramach swojego projektu <em>Animism</em> Anselm Franke mówi o „ontologicznej anarchii – w której wykluczenia stały się bardziej intelektualnie uchwytnie ze względu na ich symptomatyczne przemieszczenia w ekonomii pożądań, w gatunkach fikcji, w psychopatologiach, itd.” Anselm Franke, <em>Introduction – Animism</em>, „e flux journal” 2012, nr 36, s. 2; <a href="http://www.e-flux.com/journal/introduction%E2%80%94%E2%80%9Canimism%E2%80%9D/" target="_blank" rel="noopener">http://www.e-flux.com/journal/introduction%E2%80%94%E2%80%9Canimism%E2%80%9D/</a>, dostęp 1 stycznia 2015.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Cyt. za: Katrin Mundit, <em>Conversation with Vincent Meessen</em>, „A Prior” 2012, nr 20, s. 25.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Zob. wpis na blogu Shaviro na ten temat,<em> Spectres of Marx</em>, „The Pinocchio Theory” z 8 lutego 2006 roku; <a href="http://www.shaviro.com/Blog/?p=474" target="_blank" rel="noopener">http://www.shaviro.com/Blog/?p=474</a>, dostęp 1 stycznia 2015.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Kobena Mercer, <em>Vincent Meessen</em> w: <em>Art 11</em>, Museum of Contemporary Art Kiasma, Helsinki 2011, s. 150.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Pałac Sportu [Palais des Sports], który wykorzystywany był w 1955 roku, to inny budynek niż stadion wybudowany w 1960 roku, po tym jak Vel’ d’Hiv spłonął w 1959 roku.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Roland Barthes, <em>Światło obrazu</em>..., s. 161; Jacques Derrida, <em>Spectres of Marx</em>..., s. 6-7.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> W charakterystyczny dla filmu sposób zdania te są wplecione w filmową narrację bez oznaczenia cytatu – jest to niejako ciąg dalszy kreatywnego odkrywania głosu Barthes’a. Cytowany fragment pochodzi z książki: Roland Barthes, <em>Essais critiques</em>, Éditions du Seuil, Paris 1981, s. 89.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> Jacques Derrida, dodatek do <em>Spectres of Marx</em>..., xix.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> W pewnym stopniu ta późniejsza propozycja oferuje uwalniającą możliwość dla historii sztuki, która często wybierała pójście tropem Barthes’a w odwróceniu się od <em>studium</em> i podążaniu w kierunku <em>punctum</em>. Tu jednak chodziłoby o jednoczesne wejście na poziom strukturalnej konieczności – zazwyczaj rozumianej jako funkcja traumy – a nie tylko subiektywnej preferencji, jak to było u Barthes’a. Skutkiem tego może być całkowite porzucenie przedmiotu historycznego. Zob. na przykład proponowane przez Benjamina H.D. Buchloha odczytanie Gerharda Richtera, <em>The Anomic Archive</em>, „October” 1999, nr 88, czy Hala Fostera czytającego prace Warhola, <em>Death in America</em>, „October” 1996, nr 75. Ryzykują oni takie poświęcenie historii na rzecz historyczności formalnych czynników, decydujących o oddziaływaniu <em>punctum</em>.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a> O historiograficznym znaczeniu widm zob. <em>Ghosts. Deconstruction, Psychoanalisis, History</em>, red. P. Buse, A. Scott, Macmillan, London 1999.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a> Achille Mbembe, <em>Provincializing France?</em>, „Public Culture” 2011, nr 1 (23), s. 87.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a> O kulturowych i intelektualnych wyparciach radykalnej lekcji maja ’68 zob.: Kristin Ross, <em>May ’68 and Its Afterlives</em>, University of Chicago Press, Chicago 2002.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/widmologia-kolonialna.-vita-nova-vincenta-meessena" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Form and Inform. | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/16-digital-darkness/form-and-inform.-internal-semantics-of-computation-languages-and">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Form and Inform. | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/assets/cache/images/issues/2016/16/form-and-inform/402-6325-1-pb-1200x630-e68.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Form and Inform. | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/assets/cache/images/issues/2016/16/form-and-inform/402-6325-1-pb-1200x630-e68.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/16-digital-darkness/form-and-inform.-internal-semantics-of-computation-languages-and">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Form and Inform. | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/assets/cache/images/issues/2016/16/form-and-inform/402-6325-1-pb-1200x630-e68.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #c0c0c0 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #c0c0c0 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #c0c0c0 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #c0c0c0 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #c0c0c0 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #c0c0c0 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #c0c0c0 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #c0c0c0 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(192,192,192,0.8) !important; */
+			/* background-color:#c0c0c0 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(192,192,192,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#c0c0c0 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(192,192,192,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#c0c0c0; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(192,192,192,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(192,192,192,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#c0c0c0 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#c0c0c0 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#c0c0c0 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-714 parent-id-719">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="718" data-selected-issue-color="#c0c0c0" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2016/cyfrowe-mroki#toc">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2016/cyfrowe-mroki/form-and-inform.-internal-semantics-of-computation-languages">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/16-digital-darkness#toc">16</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/16-digital-darkness/form-and-inform.-internal-semantics-of-computation-languages-and?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Form and Inform. Internal Semantics of Computation Languages and Architecture of Developed Capitalism</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/16-digital-darkness/form-and-inform.-internal-semantics-of-computation-languages-and?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=712">Adam Przywara</a>, <a href="/en/bio?id=713">Krzysztof Dołęga</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;">The first peculiarity which strikes us when we reflect on the equivalent form is this, that&nbsp;use-value becomes the form of appearance of its opposite, value.</p> <p style="text-align: right;">Karl Marx, <em>Capital</em> vol. 1, 148</p> </blockquote>  </section>  <div class="clearfix"></div><section class="u-typo">   <p>Throughout its development, capitalism has been producing and re-producing its ideological message, aiming to permeate the lives of human and non-human collectives around&nbsp;the globe. Its ideals manifest themselves in cultural production and their status is processual.<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> Their mediums, forms, and contexts change with&nbsp;the development of new technologies, appearing in different layers of discourse, creating new representations, and surfacing in different aspects of material culture.<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup> Sometimes they are introduced in a&nbsp;very clear manner — like&nbsp;in a&nbsp;street advertisement encouraging consumption. In other instances, they are less visible and more resistant to detection and criticism, changing our thinking about&nbsp;our day-to-day existence, such as the way we construe our individuality or distinguish between&nbsp;public and private spaces. The latter mode of influence seems to prevail in the field of contemporary architecture, where spatial and aesthetic paradigms historically developed by global corporate culture are now the predominant mode of spatial production in urban and formerly urban environments around&nbsp;the world.<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> Their dominance manifests itself at the macro level of city skylines and urbanism as well as at the level of individual experience of space. The cityscapes of London, Frankfurt, Dubai, Shanghai or even peripheral cities like&nbsp;Warsaw share an uncanny similarity of downtowns dominated by glass-paned towers, special designated business zones, as well as impersonal office spaces, multinational brand stores, and clean-cut artisanal eateries lining up in a&nbsp;never-ending flow of plain space. As we travel from&nbsp;city to city, and look at recently built or refurbished offices, airports, cafes, and restaurants, we are haunted by the feeling that&nbsp;we haven’t moved at all. Additionally, public spaces are becoming ever more familiar as benches and ledges around&nbsp;the world are covered by increasingly ubiquitous anti-homeless protrusions and bulges. Everywhere is the same. Everything seems interchangeable.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/16/form-and-inform/402-6325-1-pb-1920x-0e1.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw -&nbsp;78px), calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/16/form-and-inform/402-6325-1-pb-333x-1a2.jpg 333w,assets/cache/images/issues/2016/16/form-and-inform/402-6325-1-pb-666x-272.jpg 666w,assets/cache/images/issues/2016/16/form-and-inform/402-6325-1-pb-1332x-4fc.jpg 1332w" src="assets/cache/images/issues/2016/16/form-and-inform/402-6325-1-pb-666x-272.jpg" alt="" ></a>    <figcaption><p>Atrium of the headquarters of Airbnb in San Francisco, photo: Dilu, CC-BY-S.A.-4.0</p></figcaption>   </figure>  </section><section class="u-typo">   <p>At first glance, it may seem that&nbsp;the architectural form, its structural entity, is becoming more and more uniform, seemingly emptied of any symbolic values and ideological messages. However, as we intend to show, an appropriate examination of the subject reveals the opposite&nbsp;is true. Its generic formal appearance merely hides the fact that&nbsp;there has been a&nbsp;full subsumption of the structural and ideological levels of the built environment under&nbsp;the will of investors and the interest of capital.<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> The present article follows the insight of Manfredo Tafuri, who claimed that&nbsp;in order to talk about&nbsp;the architectural field in a&nbsp;meaningful way, one needs to proceed in two stages. First, we have to step out of the architectural discourse to gain a&nbsp;wider perspective, revealing the inadequacy of the prevalent means of analysis and exposing the lack of autonomy of architectural creation from&nbsp;external influences. Secondly, one needs to refocus on architectural production, bringing in new conceptual tools and methods of analysis. This&nbsp;allows one to articulate ideologies which tend to disappear from&nbsp;our everyday architectural experience.<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> As Tafuri himself proposed, to achieve such a&nbsp;new mode of analysis it is worth looking at the architectural language as a&nbsp;means by which built environments can be seamlessly connected or disconnected from&nbsp;the market or its own social realities.</p> <p>Contemporary architectural theory and history is often embedded in the framework of continental philosophy, applying its concepts and language to analyze spatial problems.<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> At the same time, currently dominant languages of architectural production are strongly connected to the traditions of analytical philosophy, logic, and more recently –&nbsp;computer science.<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> Not only have the forms of buildings become governed by the tools and information introduced through&nbsp;the software and interfaces available to architects, but&nbsp;the purpose of many spaces has been transformed by the computerization of work and the appearance of the new demographic of digital laborers. The language of computation that&nbsp;has created this&nbsp;change escapes the methods of analysis provided by the continental tradition. The semantic structure of computational languages is significantly different, resisting attempts to move beyond&nbsp;the pragmatic or expressivist understanding of language proposed by Heidegger and others.<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup> Programing languages are artificially created for&nbsp;describing and composing process routines meant to accomplish an explicit purpose. They are implemented for&nbsp;creating functional structures, much like&nbsp;the formal tools of architectural theory are intended as tools for&nbsp;erecting complex constructions. As such they can cast new light on our understanding of the architectural field today.</p> <p>In the present article, we aim to build on the Tafurian line of thought and propose to step away from&nbsp;the prevailing analysis of architecture by applying the insights of philosophical works on the semantics of computational processes. We will start by presenting a&nbsp;brief outline of a&nbsp;thesis about&nbsp;architecture’s autonomy and Tafuri’s critique of it. The prominent role that&nbsp;formal systems and computational languages play in this&nbsp;analysis will serve as a&nbsp;segue into&nbsp;a&nbsp;brief presentation of a&nbsp;discussion on the semantics of computation. As we will show, these analyses are complimentary –&nbsp;the dual nature of the semantics of computation can be successfully applied to the semantics of contemporary architectural production. By viewing prevalent architectural typologies of space, such as offices, civic infrastructure, and economic areas, through&nbsp;the interpretative lens of the semantics of computation we come to view architectural products as possessing not only an easily comprehensible form, but&nbsp;also a&nbsp;second layer of meaning subservient to the needs of capital and its accumulation. Much as the internal semantics of computers direct the inner workings of CPUs, so the internal semantics of architecture reveal a&nbsp;usually obscured layer of considerations which govern built environments. We label this&nbsp;the ‘inform’ and use it as a&nbsp;critical tool to analyze repeatable, plain, and non-experimental contemporary architectural production. As we aim to show, it is exactly where and when the lack of any meaning and artistic value is proclaimed that&nbsp;the inform prevails.</p> <h2>Emptiness of Autonomy</h2> <p>In his influential essay published in 2000, Peter Eisenmann argues that&nbsp;the syntax and semantics of architecture are one and the same, producing a&nbsp;unique autonomy within&nbsp;the discipline. According to him: “A column in architecture [...] is both a&nbsp;structural element and the sign of that&nbsp;structure; that&nbsp;is, the sign is immanent to its own being.”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> This&nbsp;enables Eisenmann to conceptually enclose the field of architectural design from&nbsp;external influences. By doing this&nbsp;he can work safely within&nbsp;its borders, without&nbsp;the necessity of paying any real attention to social, natural, or economic factors. However, Eisenmann’s theoretical encapsulation is based on a&nbsp;strong and questionable assumption that&nbsp;language itself is an autonomous structure. As contemporary linguistics abandoned this&nbsp;thesis long ago, its lasting appeal within&nbsp;architectural theory (as seen, for&nbsp;example, in the work of Pier Vittorio Aureli<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>) seems to be nothing more than&nbsp;an attempt at securing a&nbsp;conception of architecture as a&nbsp;field which is a&nbsp;haven for&nbsp;purely theoretical discourse, disconnected from&nbsp;the need to deal with&nbsp;the reality of architectural production.
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a><sup></sup> Max Horkheimer and Theodor W. Adorno, <em>Dialectic of Enlightenment</em>, trans. E. Jephcott (Stanford: Stanford University Press, 2002), 94.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a><sup></sup> Walter Benjamin, <em>The Work Of Art In The Age Of Mechanical Reproduction</em>, trans.J. A. Underwood (London: Penguin, 2008), 4.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a><sup></sup> Nikil Saval, <em>Cubed: A Secret History Of The Workplace</em> (New York: Doubleday, 2014), 256.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a><sup></sup> Fulcrum, ed., <em>Real Estates: Life Without Debt</em> (London: Bedford Press, 2014), 23.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a><sup></sup> Manfredo Tafuri, <em>Architecture And Utopia</em>, trans. B. L. La Penta (Cambridge, Mass.: MIT Press, 1979).</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a><sup></sup> Either tending towards the teachings of Maurice Merleau-Ponty or trying to incorporate the methods of Situationists International.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a><sup></sup> Mario Carpo, <em>The Alphabet And The Algorithm</em> (Cambridge, Mass.: MIT Press, 2011).</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a><sup></sup> Martin Heidegger, <em>On the Way to Language</em>, trans. P. Hertz (New York: Harper and Row, 1971).</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a><sup></sup> Peter Eisenman, “Autonomy and the Will to the Critical,” <em>Assemblage</em>, no. 41 (2000): 90-91.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a><sup></sup> Pier Vittorio Aureli, <em>The Possibility Of An Absolute Architecture</em> (Cambridge, Mass.: MIT Press, 2011), 215.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a><sup></sup> Bernard Tschumi, <em>Architecture And Disjunction</em> (Cambridge, Mass.: MIT Press, 1994), 229.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a><sup></sup> Bernard Tschumi, op.cit., 228.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a><sup></sup> Greig Crysler, Stephen Cairns and Hilde Heynen, <em>The SAGE Handbook Of Architectural Theory</em> (Los Angeles: SAGE, 2012), 61.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a><sup></sup> Ibid., 61.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a><sup></sup> Manfredo Tafuri, op.cit., 178.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a><sup></sup> Ibid., 150.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a><sup></sup> Ibid., 151.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a><sup></sup> Ibid., 160.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a><sup></sup> Daniel Dennett, <em>The Intentional Stance</em>, (Cambridge, MA: MIT Press, 1987).</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a><sup></sup> Keller Easterling, <em>Extrastatecraft: The Power Of Infrastructure Space</em> (New York: Verso, 2014), 17.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a><sup></sup> Jason W. Moore, <em>Capitalism In The Web Of Life</em> (London: Verso, 2015), 115.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a><sup></sup> Ibidem, 19.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a><sup></sup> Marshall McLuhan, Quentin Fiore,<em> The Medium Is The Message</em> (London: Penguin, 1996).</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a><sup></sup> Keller Easterling, op.cit., 22.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a><sup></sup> Jon Goodbun, Michael Klein, Andreas Rumpfhuber, and Jeremy Till, <em>The Design Of Scarcity</em> (London: Strelka Press, 2014).</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a><sup></sup> Keller Easterling, op.cit., 45.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a><sup></sup> Ibid., 53.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a><sup></sup> Ibid., 59.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a><sup></sup> Ibid., 55.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a><sup></sup> Rem Koolhaas, <em>S, M, L, XL</em> (New York: Monacelli Press, 1998).</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a><sup></sup> “Shenzhen: The Silicon Valley Of Hardware (Full Documentary) | Future Cities | WIRED,” accessed October 23, 2016, <a href="https://www.youtube.com/watch?v=SGJ5cZnoodY" target="_blank" rel="noopener">https://www.youtube.com/watch?v=SGJ5cZnoodY</a>.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a><sup></sup> Kyle Chayka, “Welcome to Airspace”, <em>The Verge</em>, August 3, 2016, accessed October 23, 2016, <a href="http://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification" target="_blank" rel="noopener">http://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification</a>.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a><sup></sup> Ibid.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a><sup></sup> Ibid.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a><sup></sup> Ibid.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a><sup></sup> David Harvey, "The Right To The City", <em>New Left Review</em> 54 (2008):23-40, accessed December 20, 2016, <a href="https://newleftreview.org/II/53/david-harvey-the-right-to-the-city" target="_blank" rel="noopener">https://newleftreview.org/II/53/david-harvey-the-right-to-the-city</a>.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a><sup></sup> Fulcrum, op.cit., 45.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a>David Harvey, op.cit. 27.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a><sup></sup> Ibid., 34.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a><sup></sup> Fulcrum, op.cit., 6.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a><sup></sup> Ibid., 101.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a><sup></sup> Maurizio Lazzarato, <em>Governing By Debt</em> (Los Angeles: Mit Press, 2014).</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/16-digital-darkness/form-and-inform.-internal-semantics-of-computation-languages-and" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

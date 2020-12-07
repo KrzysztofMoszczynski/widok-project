@@ -1,0 +1,44 @@
+@-webkit-keyframes load {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes load {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#preloader {
+  position: fixed;
+  z-index : 9999;
+  top     : 0;
+  left    : 0;
+  right   : 0;
+  bottom  : 0;
+  background-color: #fff;
+  
+  &:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -50px 0 0 -50px;
+    display: inline-block;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    border-left-color: $color_default;
+    border-radius: 50%;
+    width : 100px;
+    height: 100px;
+    -webkit-animation: load 1s linear infinite;
+    animation: load 1s linear infinite;
+  }
+}
+

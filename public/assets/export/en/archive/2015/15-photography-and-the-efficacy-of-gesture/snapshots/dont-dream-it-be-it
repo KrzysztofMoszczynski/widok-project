@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Zamiast o tym śnić, bądź tym, czym chcesz być | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2015/migawki/zamiast-o-tym-snic-badz-tym-czym-chcesz-byc">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Zamiast o tym śnić, bądź tym, czym chcesz być | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Zamiast o tym śnić, bądź tym, czym chcesz być | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2015/migawki/zamiast-o-tym-snic-badz-tym-czym-chcesz-byc">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Zamiast o tym śnić, bądź tym, czym chcesz być | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #c69 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #c69 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #c69 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #c69 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #c69 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #c69 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #c69 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #c69 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(204,102,153,0.8) !important; */
+			/* background-color:#c69 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(204,102,153,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#c69 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(204,102,153,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#c69; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(204,102,153,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(204,102,153,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#c69 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#c69 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#c69 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-904 parent-id-854">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="441" data-selected-issue-color="#c69" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/15-photography-and-the-efficacy-of-gesture#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/dont-dream-it-be-it">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2015/fotografia-i-skutecznosc-gestu#toc">12</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2015/migawki/zamiast-o-tym-snic-badz-tym-czym-chcesz-byc?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Zamiast o tym śnić, bądź tym, czym chcesz być</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2015/migawki/zamiast-o-tym-snic-badz-tym-czym-chcesz-byc?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=903">Anna Taszycka</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Karolina Kosińska, <em>Androgyn: tożsamość, tęsknota, pragnienie. Postać androgyniczna w&nbsp;brytyjskiej kulturze popularnej i&nbsp;filmie lat 70.</em>, Instytut Sztuki PAN, Warszawa 2014</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/zamiast-o-tym-snic/339-4997-1-pb-1920x-c11.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/12/zamiast-o-tym-snic/339-4997-1-pb-330x-815.jpg 330w,assets/cache/images/issues/2015/12/zamiast-o-tym-snic/339-4997-1-pb-660x-063.jpg 660w,assets/cache/images/issues/2015/12/zamiast-o-tym-snic/339-4997-1-pb-768x-c91.jpg 768w,assets/cache/images/issues/2015/12/zamiast-o-tym-snic/339-4997-1-pb-1320x-873.jpg 1320w" src="assets/cache/images/issues/2015/12/zamiast-o-tym-snic/339-4997-1-pb-660x-063.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p><em>Don't dream it, be it</em> – pragnienie wyrażone w&nbsp;<em>The Rocky Horror Picture Show</em> nie zawsze co prawda jest możliwe do zrealizowania, ale może warto przynajmniej spróbować je zrealizować? Zachęca do tego książka Karoliny Kosińskiej <em>Androgyn. Tożsamość, tęsknota, pragnienie</em>. Wbrew podtytułowi (<em>Postać androgyniczna w&nbsp;brytyjskiej kulturze popularnej i&nbsp;filmie lat 70</em>). książka ta jest czymś więcej niż jedynie panoramą kultury popularnej i&nbsp;filmowej lat 70. XX wieku w&nbsp;Wielkiej Brytanii. Autorka w&nbsp;komplementarny sposób definiuje kategorię androgynii i&nbsp;hermafrodytyzmu, począwszy od mitu opisanego w&nbsp;dwojaki sposób przez Platona i&nbsp;Owidiusza; przedstawia różnice i&nbsp;podobieństwa pomiędzy poszczególnymi koncepcjami i&nbsp;teoriami, ukazuje jak zmieniała się ta konstrukcja w&nbsp;czasie – sięga nie tylko do dzieł starożytnych, ale także do epoki elżbietańskiej i&nbsp;wybranych dzieł Shakespeare'a, przywołuje brytyjską tradycję pantomimy i&nbsp;musicalu, rekonstruuje kategorię dandyzmu w&nbsp;całej swej zmienności i&nbsp;istotności. Szuka śladów androgyniczności w&nbsp;pismach Johanna Joachima Winckelmanna, Wilhelma von Humboldta, Johanna Christopha Friedricha von Schillera czy Friedricha Schlegla. Porządkując pojęcia związane z&nbsp;kategorią androgyniczności, Kosińska pisze:</p> <blockquote>Wcielony androgyn nie istnieje. W&nbsp;kulturze zachodniej rozumiany jako pełne, idealne połączenie kobiety i&nbsp;mężczyzny czy kobiecości i&nbsp;męskości, nie może mieć racji bytu, dopóki jedną z&nbsp;podstawowych zasad tej kultury jest dychotomia płci. (...) Ponadto idei androgynii nieustannie towarzyszy niemożność sformułowania jednej, spójnej i&nbsp;uniwersalnej definicji. (...) Podstawowe mityczne opowieści Zachodu, kształtujące pojęcie zjednoczenia w&nbsp;jednym ciele dwóch płci, przekazane przez Platona (mit androgyna) i&nbsp;Owidiusza (mit Hermafrodyta), pozostają ze sobą sprzeczne, a&nbsp;więc niejako zaświadczają o&nbsp;niemożliwości stworzenia jednej definicji istoty wykraczającej poza dychotomię płci <a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a>.</blockquote> <p>Autorka wnikliwie przygląda się także współczesności, odnajdując androgyniczne figury w&nbsp;dwudziestowiecznych młodzieżowych subkulturach, takich jak <em>teddy boys</em> i&nbsp;<em>mods</em>, opisuje również przemiany brytyjskiej kultury w&nbsp;czasach <em>swinging London</em> i&nbsp;możliwości jakie pojawiają się w&nbsp;epoce glam rocka. Ponieważ jednak, co wielokrotnie w&nbsp;książce podkreślane, postać androgyniczną trudno uchwycić, ujarzmić, pozostaje ona migotliwym, pełnym znaczeń konstruktem – enigmą, powracającą ciągle w&nbsp;nowych odsłonach i&nbsp;wcieleniach.</p> <p>Kosińska odnajduje postać androgyniczną również w&nbsp;literaturze – choćby w&nbsp;prozie Virginii Woolf. Autorka odwołuje się także do teorii o&nbsp;performatywnym charakterze płci autorstwa Judith Butler. Teoria Butler jest co prawda bardzo często przywoływana w&nbsp;kontekście badań nad kulturową tożsamością płci, ale ponieważ sama kategoria <em>androgyne</em> rzadko pojawia się w&nbsp;tekstach analitycznych, warto uwypuklić ją także i&nbsp;w tym kontekście.</p> <blockquote>W postrzeganiu androgyna zaszło współcześnie, jak sądzę, istotne przesunięcie. Nie wynika ono ze zmiany samej jego definicji (o ile w&nbsp;ogóle można o&nbsp;niej mówić), ale raczej z&nbsp;przemiany kontekstów, w&nbsp;jakich się on pojawia. Sprawia ona, że&nbsp;istota taka ma we współczesnej kulturze nieco inną funkcję niż w&nbsp;wieku XIX, a&nbsp;już bardzo daleko odbiega od symboliki archaicznej, znanej z&nbsp;mitów opowiedzianych przez Platona w&nbsp;<em>Uczcie</em> czy przez Owidiusza w&nbsp;<em>Metamorfozach</em><a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a>.</blockquote> <p>Jako filmoznawczyni autorka szuka postaci androgynicznych również w&nbsp;historii kina. Odnajduje je w&nbsp;kreacjach wielkich diw ekranu, takich jak Marlena Dietrich i&nbsp;Greta Garbo. Nieprzypadkowo pojawia się w&nbsp;książce opis stosunkowo mało znanego u&nbsp;nas nurtu <em>new queer cinema</em>, który pojawił się na&nbsp;początku lat 90. na&nbsp;Festiwalu Filmowym w&nbsp;Sundance, przyczyniając się nie tylko do przemiany niszowego kina lat 90., ale również do przeobrażenia światowej kinematografii ostatnich 25 lat. Chodzi przede wszystkim o&nbsp;otwartość w&nbsp;ukazywaniu na&nbsp;ekranie tożsamości homoseksualnych, a&nbsp;także wszelkich identyfikacji niebinarnych, w&nbsp;sposób otwarty, niezakamuflowany, a&nbsp;tym samym politycznie wyrazisty i&nbsp;skuteczny.</p> <p>Androgyniczność jest tu kategorią ściśle powiązaną z&nbsp;kulturą brytyjską, obecną w&nbsp;tym kręgu kulturowym od wieków i&nbsp;wciąż powracającą. Autorka co prawda opisuje inne, poza Wielką Brytanią, źródła jej pochodzenia, ale jednocześnie podkreśla, że&nbsp;to właśnie w&nbsp;kulturze brytyjskiej figura ta regularnie odżywa i&nbsp;jest stale obecna, także dzisiaj. Kosińską interesuje przede wszystkim androgyniczność czasów współczesnych: płynna, poddana ciągłej kreacji, <em>stająca się</em>, ale jednocześnie mocno zakorzeniona we współczesnej kulturze, będąca odpowiedzią na&nbsp;tęsknoty i&nbsp;pragnienia współczesnego człowieka. Autorka przeprowadza w&nbsp;swojej książce wnikliwe i&nbsp;dogłębne analizy filmów, w&nbsp;których androgyniczność bohaterów staje się centralnym punktem odniesienia dla jej badawczych poszukiwań; śledzi zarówno swoistą migotliwość postaci androgynicznej, jej społeczny i&nbsp;kulturowy sposób funkcjonowania, wreszcie możliwe odczytania oraz semantyczne potencjalne znaczenia tej kategorii. Co ciekawe, badaczka dostrzega androgyniczność nie tylko w&nbsp;podejmowanych przez poszczególnych reżyserów tematach i&nbsp;konstrukcji bohaterów, ale także w&nbsp;samej strukturze filmów i&nbsp;sposobie prowadzenia narracji.</p> <p>Kosińska analizuje cztery tytuły: <em>Performance</em> Donalda Cammella i&nbsp;Nicolasa Roega (1970), <em>Człowiek, który spadł na&nbsp;Ziemię</em> Roega (1976), <em>The Rocky Horror Picture Show</em> Jima Sharmana (1975), czyli filmy, które powstały w&nbsp;latach 70., oraz jako nawiązanie i&nbsp;hołd złożony brytyjskiej kulturze lat 70. – amerykański film <em>Idol</em> (<em>Velvet Goldmine</em>)<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a> Todda Haynesa (1998). O&nbsp;ile dwa ostatnie z&nbsp;nich są raczej znane (film Sharmana jest często przywoływany w&nbsp;Polsce przy okazji rozmaitych dyskusji o&nbsp;kampie; z&nbsp;kolei <em>Idol</em> był u&nbsp;nas pokazywany w&nbsp;regularnej dystrybucji kinowej), o&nbsp;tyle dwa pierwsze pozostają dla szerszej widowni naszego kraju enigmatyczne, dostępne jedynie wybranemu gronu specjalistów (co może oczywiście dziwić, ze względu na&nbsp;obecność w&nbsp;obu produkcjach Micka Jaggera oraz Davida Bowiego). Zestawienie tych właśnie filmów, raczej nieoczywiste, pozwala dostrzec ich wspólny rys właśnie poprzez nadrzędną kategorię androgyniczności, która spaja i&nbsp;przenika świat przedstawiony każdego z&nbsp;nich, przede wszystkim (ale nie wyłącznie) poprzez konstrukcję ich bohaterów.</p> <p>Autorka nie ogranicza się jedynie do materii samych filmów: jej analizy są osadzone w&nbsp;szerokich kontekstach kulturowych, jednocześnie nie pozostają zamknięte; nie wyczerpują tematu, wskazują jedynie pewien szczególny trop interpretacyjny. I&nbsp;tak, przykładowo, interpretacja <em>Człowieka, który spadł na&nbsp;Ziemię</em> nie ogranicza się jedynie do diegezy filmu, ale obejmuje także sceniczną kreację Davida Bowie z&nbsp;epoki <em>glamu</em>, czyli Ziggy'ego Stardusta – postaci wykreowanej przez artystę i&nbsp;przekraczającej ramy binarnego podziału płci. Kosińska wielokrotnie na&nbsp;łamach książki podkreśla, że&nbsp;w&nbsp;konstrukcji postaci androgynicznej, w&nbsp;pogoni za&nbsp;ideałem, często zatrzymujemy się na&nbsp;powierzchni, która w&nbsp;tym przypadku, co szczególnie istotne, zastępuje głębię. Autorka, za&nbsp;Philipem Auslanderem, pisze:</p> <blockquote>Tożsamość Ziggy'ego (a dla niektórych i&nbsp;Bowiego) niczego nie wyraża, jest kopią pozbawioną oryginału, czystym konstruktem bez odniesienia do „naturalnej” rzeczywistości. Logika <em>queer</em> odkrywa arbitralność tego rodzaju pojęć, norm, zasad, odsłaniając mechanizmy ich konstruowania, proces reifikacji, w&nbsp;którym w&nbsp;powszechnej świadomości to, co stworzone przez człowieka, zaczyna funkcjonować jako uprzednie wobec twórcy. Kreacja Bowiego wpisuje się w&nbsp;taką subwersywną praktykę odkrywania. Nie jest ani częścią dyskursu heteroseksualnego, ani homoseksualnego. Działa poza nimi<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a>.</blockquote> <p>W związku z&nbsp;niedawną śmiercią Davida Bowiego, w&nbsp;chwili kiedy jego olbrzymi dorobek muzyczny, ale także kolejne role filmowe i&nbsp;kreacje sceniczne (autorka dodatkowo przypomina jego minirole w&nbsp;teledyskach z&nbsp;tamtego okresu oraz kolejne wcielenia m.in. w&nbsp;filmach <em>Zagadka nieśmiertelności</em>, <em>Wesołych Świąt, pułkowniku Lawrence</em> czy <em>Labiryncie</em>) są ponownie odkrywane i&nbsp;reinterpretowane, książka Kosińskiej wydaje się rzucać świeże, oryginalne spojrzenie na&nbsp;zamkniętą już twórczość brytyjskiego artysty.</p> <p><a name="_GoBack"></a> Równie nieoczywista i&nbsp;inspirująca wydaje się analiza debiutanckiego filmu Roega i&nbsp;Cammella <em>Performance</em>. Ten w&nbsp;gruncie rzeczy dosyć skromny pod&nbsp;względem realizacyjnym obraz staje się dla autorki prawdziwą kopalnią znaczeń i&nbsp;możliwych odczytań, zwłaszcza w&nbsp;konstrukcji jego głównych bohaterów, dla których migotliwa androgyniczność staje się wehikułem przemian tożsamościowych. Porównanie anarchicznego domu zblazowanej gwiazdy rocka (Mick Jagger w&nbsp;roli Turnera) ze skodyfikowanym światem gangsterskiego kodeksu, z&nbsp;którego wyrasta ukrywający się przed prześladowcami Chas (wspaniała kreacja Jamesa Foxa); pokazanie ich obu jako dwóch skrajnie różnych wcieleń tej samej postaci wydaje się niezwykle odkrywcze i&nbsp;inspirujące.</p> <blockquote>Jak sytuują się względem siebie Chas i&nbsp;Turner? Czy są przeciwieństwami? Pierwszy jest stereotypowym hipermężczyzną, drugi – istotą androgyniczną. Pierwszy akceptuje tylko sztywne, wyraźnie zdefiniowane kategorie i&nbsp;jest nieufny wobec wszystkiego, co poza nimi. Drugi żyje w&nbsp;świecie, w&nbsp;którym kategorie nie tyle są płynne czy otwarte, ile w&nbsp;ogóle nie istnieją<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a>.</blockquote> <p>Autorka przedstawia tu jedne z&nbsp;pierwszych filmowych wcieleń Bowiego i&nbsp;Jaggera jako korespondujące z&nbsp;ich wizerunkami scenicznymi. W&nbsp;przypadku Nicolasa Roega, wcześniej wybitnego i&nbsp;oryginalnego operatora (<em>Z dala od zgiełku</em>, <em>Fahrenheit 451</em>), opisane przez Kosińską filmy należą do początków jego kariery reżyserskiej i&nbsp;ukazują jego autorską strategię pracy z&nbsp;zawodowymi artystami (później także w&nbsp;filmie <em>Zmysłowa obsesja</em>, gdzie u&nbsp;boku Theresy Russell pojawił się Art Garfunkel). Wybór tych właśnie tytułów Roega - artysty, dla którego kwestie płci, konstrukcji tożsamości i&nbsp;odgrywania ról w&nbsp;społeczeństwie zawsze zajmowały centralną rolę (także m.in. w&nbsp;inicjacyjnej opowieści <em>Walkabout</em>) – podyktowany został niezwykłą konstrukcją ich bohaterów: przekraczających granice, poszukujących, androgynicznych właśnie.</p> <p>Książka Kosińskiej świetnie wpisuje się w&nbsp;powracającą właśnie modę retro na&nbsp;lata 70., obecną także w&nbsp;obszarze kultury filmowej. Postać młodego Micka Jaggera pojawia się na&nbsp;ekranie w&nbsp;sposób pośredni: artysta został właśnie współproducentem i&nbsp;współscenarzystą serialu <em>Vinyl</em>, produkowanego przez stację HBO, który opowiada o&nbsp;przemianach amerykańskiej branży muzycznej w&nbsp;latach 70., do jakich doszło m.in. w&nbsp;związku z&nbsp;pojawieniem się nowych tendencji w&nbsp;kulturze, obyczajowości i&nbsp;estetyce tamtego okresu. Samego Jaggera co prawda nie oglądamy na&nbsp;ekranie, ale w&nbsp;serialu gra jego syn – James.</p> <p>Z kolei analizowany przez autorkę <em>The Rocky Horror Picture Show</em> to film-legenda, dobrze opisany na&nbsp;polskim gruncie przez Andrzeja Pitrusa jako przykład kina kultowego<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a>, często przywoływany w&nbsp;kontekście kategorii kampu. W&nbsp;książce Kosińskiej pojawia się jeszcze inne jego odczytanie – staje się on opowieścią o&nbsp;ucieczce od binarności płci, społecznej reifikacji u&nbsp;progu dorosłości. Postać głównego bohatera, Franka N. Furtera (w kreacji Tima Curry’ego), może zostać odczytana jako androgyniczna: nie tylko sama przekracza granice społecznego porządku, ale także uświadamia możliwość kreacji własnej tożsamości, stereotypowej parze głównych bohaterów, Bradowi (Barry Bostwick) oraz Janet (Susan Sarandon). Przekroczenie to staje się w&nbsp;pewnym sensie możliwe także dla widzów tego filmowego spektaklu, o&nbsp;czym świadczy jego żywiołowy odbiór przez kolejne już pokolenia fanów i&nbsp;fanek.</p> <blockquote>Będąc filmem na&nbsp;wskroś kampowym, <em>The Rocky Horror...</em> od razu przekroczył granice subkultury gejowskiej. Rzecz można ująć inaczej: film Sharmana jest filmem subkulturowym, ale subkulturowość ta dotyczy raczej poczucia wspólnotowości queerowej, związanej z&nbsp;odmiennością, a&nbsp;nie z&nbsp;określoną orientacją seksualną. Słowem, <em>The Rocky Horror...</em> nie pokazuje już, w&nbsp;jaki sposób napiętnowana tożsamość homoseksualna czy gejowska może sobie radzić z&nbsp;opresją świata większości, ale raczej jak tożsamość sytuująca się poza matrycą heteronormatywności walczy z&nbsp;opresyjną naturą tej matrycy. W&nbsp;tym sensie <em>The Rocky Horror... </em>niejako wyprzedził dyskurs lat 70., doskonale przy tym realizując politykę kampu postulowaną w&nbsp;latach 90. przez zwolenników performatywności płci<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a>.</blockquote> <p>Domknięciem podróży w&nbsp;lata 70. staje się film Haynesa <em>Idol</em>. Autorka przedstawia reżysera jako jednego z&nbsp;najważniejszych twórców, który wyrósł z&nbsp;nurtu <em>new queer cinema</em>, jednocześnie osiągając największe komercyjne sukcesy.</p> <blockquote>Haynes wielokrotnie zaznaczał, że&nbsp;wczesne lata 70. (a <em>glam</em> przede wszystkim) były ostatnim naprawdę bogatym, płodnym i&nbsp;progresywnym czasem, otwartym na&nbsp;nowe idee przełamujące tabu zwłaszcza w&nbsp;sferze seksualności. To nie lata 60. przyniosły rewolucję seksualną, ale właśnie 70. Postulowana we wcześniejszej dekadzie wolna miłość ograniczała się do obowiązującej heteroseksualności i&nbsp;binarności płci. Zaś lata 70., a&nbsp;z nimi glam, stanowiły – jak twierdzi reżyser – kwintesencję seksualności prawdziwie wyzwolonej<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a>.</blockquote> <p><em>Tęsknota i&nbsp;pragnienie</em> to także tytuł rozdziału poświęconego analizie filmu Todda Haynesa. Kosińska pisze, że&nbsp;kategoriom tym podporządkowana jest zarówno struktura, jak i&nbsp;estetyka dzieła. Nadrzędną kategorią staje się także nostalgia za&nbsp;latami 70., będąca udziałem zarówno bohaterów filmu, jak i&nbsp;reżysera, wreszcie widzów.</p> <blockquote>Androgyn glamu to nie <em>drag queen</em> łącząca kobiecość i&nbsp;męskość w&nbsp;jakimś zjawiskowym przemieszaniu – w&nbsp;takim wypadku nadal można byłoby rozpoznać, który z&nbsp;jej elementów przynależy kulturowo do danej płci. Androgyn nonszalancko rezygnuje z&nbsp;atrybutów którejkolwiek z&nbsp;nich. Nadal jest tu obecna strategia subwersji, jako że&nbsp;glam i&nbsp;jego androgyniczne istoty nieustannie zaznaczają swoją sztuczność, demonstrują, że&nbsp;są jedynie kopią, której oryginał nie istnieje<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a>.</blockquote> <p>Czy nie pobrzmiewa w&nbsp;tej konstatacji myśl Jeana Baudrillarda o&nbsp;<em>symulakrum</em> jako modelu współczesnej kultury? Film Haynesa staje się więc z&nbsp;jednej strony wehikułem przenoszącym w&nbsp;lata 70., czasy glam rocka, ale jednocześnie wyrasta wprost z&nbsp;lat 90., które to w&nbsp;sposób świadomy podejmują zagadnienia performatywnego charakteru płci, wyrasta w&nbsp;zgodzie z&nbsp;pragnieniami i&nbsp;tęsknotami widzów tamtego okresu, wyrażonymi na&nbsp;początku dekady wraz z&nbsp;powstaniem wyrazistego nurtu <em>new queer cinema</em>.</p> <p><em>Androgyn. Tożsamość, tęsknota, pragnienie</em> to pozycja komplementarna: kulturoznawcze podstawy tej książki mogą stać się punktem wyjścia do analizy nie tylko utworów filmowych, ale także innych tekstów kultury. Autorka, kulturoznawczyni-filmoznawczyni, doskonale zdaje sobie sprawę z&nbsp;tego, że&nbsp;zawęża pole swoich badań jedynie do niewielkiego obszaru kultury filmowej. Z&nbsp;tej perspektywy książka ta staje się inspiracją i&nbsp;bazą dla dalszych, samodzielnych poszukiwań, zarówno w&nbsp;obszarze filmu, ale też muzyki, literatury, sztuki. Autorka zaledwie sygnalizuje możliwości, jakie niesie ze sobą badanie postaci androgynicznej w&nbsp;kontekście feministycznym czy transgenderowym. Dostarcza nam użytecznych narzędzi, które te poszukiwania, także w&nbsp;obszarze kultury filmowej, znacznie ułatwią.</p> <blockquote>Jednakże w&nbsp;wieku XX, zwłaszcza w&nbsp;jego drugiej połowie, androgyn staje się szczególną figurą polityczną, narzędziem subwersji, która może służyć podważeniu kategorii uznawanych za&nbsp;podstawowe, aksjomatyczne, predyskursywne. W&nbsp;tym sensie androgyn może być idealną metaforą dla wielu koncepcji postmodernistycznych. Tęsknota za&nbsp;pełnią ustępuje miejsca zanegowaniu samej binarności płci, która stanowi podstawową zasadę androgynii archaicznej. Współczesny model androgynii przestaje być połączeniem płci, podwójnością godzącą w&nbsp;sobie przeciwieństwa, a&nbsp;jawi się jako negacja samego istnienia kategorii płci i&nbsp;polaryzacji, jakiej tradycyjnie poddaje się konstrukt tożsamości płciowej<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a>.</blockquote> <p>Jeśli coś można autorce zarzucić, to przede wszystkim to, że&nbsp;nie udało się jej wyjść poza horyzont dwudziestego wieku: teoria Butler powstała na&nbsp;początku lat 90. XX wieku, a&nbsp;w ciągu ostatnich 25 lat doczekała się zarówno wielu głosów krytycznych, jak i&nbsp;tekstów, które tę teorię uzupełniają o&nbsp;nowe konteksty. Zabrakło tu także refleksji nad tzw. <em>men's studies</em>, studiami nad męskością, które być może rzuciłyby nowe światło na&nbsp;potrzebę przekraczania kategorii męskości i&nbsp;zacieranie różnic pomiędzy tym, co męskie i&nbsp;kobiece.</p> <p>Chociaż książka <em>Androgyn. Tożsamość, tęsknota, pragnienie</em> porusza się w&nbsp;obrębie zagadnień z&nbsp;obszaru kultury popularnej – co zresztą zapowiada już jej tytuł – to jednak istotnym niedopatrzeniem ze strony autorki jest w&nbsp;zasadzie brak teoretycznego ujęcia i&nbsp;uporządkowania definicji kultury popularnej oraz kultury masowej (którymi to pojęciami autorka posługuje się w&nbsp;swojej książce często, chwilami zamiennie). Zdecydowanie zabrakło tu też historycznego osadzenia obu tych kategorii. Wydaje się to o&nbsp;tyle istotne, że&nbsp;właśnie w&nbsp;obszarze brytyjskich badań naukowych, na&nbsp;gruncie teorii kultury, rozwinęła się słynna szkoła z&nbsp;Birmingham, która przyczyniła się do rozwoju narzędzi służących do badania kultury popularnej w&nbsp;obrębie tzw. brytyjskich studiów kulturowych. Teoretycy związani z&nbsp;Centre for Contemporary Cultural Studies wypracowali metodologię pozwalającą badać relacje między nadawcami a&nbsp;odbiorcami w&nbsp;obrębie kultury popularnej, zwracając przy tym szczególną uwagę na&nbsp;relację pomiędzy kulturą a&nbsp;władzą; interesowały ich także zagadnienia dotyczące kultury młodzieżowej (w tym subkultur), ideologii, gender<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a>.</p> <p>Szczególnie interesujące w&nbsp;tym kontekście wydają się badania Johna Fiske’a dotyczące tworzenia strategii używanych w&nbsp;obrębie kultury popularnej przez grupy podporządkowane, tworzące własną kulturę, w&nbsp;opozycji do dominującego centrum narzucającego swoje odczytania. Właśnie napięcie pomiędzy tym, co w&nbsp;centrum, a&nbsp;marginesem – czemu Fiske przygląda się chociażby w&nbsp;swojej słynnej książce z&nbsp;końca lat 80. <em>Zrozumieć kulturę popularną</em><a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a> – mogłoby w&nbsp;szerszym świetle ukazać strategie form oporu wobec oficjalnego nurtu stosowane przez użytkowników kultury popularnej (czy to muzycznej, czy też filmowej). W&nbsp;kontekście rozważań o&nbsp;tożsamości i&nbsp;identyfikacji (z naciskiem na&nbsp;procesualność tej kategorii) zabrakło tu teoretycznego ujęcia tematu od tej właśnie strony.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Karolina Kosińska, <em>Androgyn: tożsamość, tęsknota, pragnienie. Postać androgyniczna w brytyjskiej kulturze popularnej i filmie lat 70.</em>, Instytut Sztuki PAN, Warszawa 2014, s. 70.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Ibidem, s. 93.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Tłumaczenie tytułu tego filmu przez polskiego dystrybutora wydaje się wyjątkowo niefortunne, ponieważ <em>Idol</em> to także film Feliksa Falka z 1985 roku.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Karolina Kosińska, <em>Androgyn...</em>, s. 187.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Ibidem, s. 144.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Zob. Andrzej Pitrus, <em>Kino kultu</em>, Wydawnictwo Rabid, Kraków 1998.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Karolina Kosińska, <em>Androgyn...</em>, s. 221.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Ibidem, s. 254.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Ibidem, s. 266.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Ibidem, s. 93-94.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>Por. <em>Kultura i hegemonia. Antologia tekstów szkoły z Birmingham</em>, red. M. Wróblewski, Wydawnictwo Naukowe UMK, Toruń 2012. W tomie tym znajduje się m.in. jeden z tekstów z przywołanej przez autorkę książki Dicka Hebdige'a <em>Subculture: The Meaning of Style</em>.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> John Fiske, <em>Zrozumieć kulturę popularną</em>, przeł. K. Sawicka, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2010.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2015/migawki/zamiast-o-tym-snic-badz-tym-czym-chcesz-byc" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

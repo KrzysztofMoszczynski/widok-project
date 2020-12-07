@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Słabe obrazy | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2015/slabe-obrazy">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Słabe obrazy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Słabe obrazy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2015/slabe-obrazy">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Słabe obrazy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #606 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #606 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #606 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #606 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #606 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #606 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #606 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #606 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(102,0,102,0.8) !important; */
+			/* background-color:#606 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(102,0,102,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#606 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(102,0,102,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#606; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(102,0,102,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(102,0,102,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#606 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#606 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#606 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1040 parent-id-1013">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="432" data-selected-issue-color="#606" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/9-warsaw-moscow.-monuments-of-transition#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/9-warsaw-moscow.-monuments-of-transition/poor-images">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2015/warszawa-moskwa.-pomniki-transformacji#toc">9</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2015/slabe-obrazy?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Słabe obrazy – obrazy słabych</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2015/slabe-obrazy?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=1039">Marek Krajewski</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>W artykule próbuję odpowiedzieć na&nbsp;dwa podstawowe pytania. Po&nbsp;pierwsze, chciałbym zastanowić się nad tym, czym są <span class="rozstrzelony"> słabe obrazy </span> i&nbsp;jaka jest ich relacja wobec <span class="rozstrzelony"> przedstawień silnych, mocnych, sprawczyc</span>h. Odpowiedź na&nbsp;to pytanie wydaje się płodna poznawczo, ponieważ umożliwia przyjrzenie się konstrukcji współczesnego pola wizualnego oraz temu, jak wytwarzana jest zdolność do działania pewnych wizerunków czy ich skuteczność jako środków pobudzania jednostek do działania. Po&nbsp;drugie, zamierzam pytać, czym są <span class="rozstrzelony"> obrazy słabych </span> oraz czy mogą one – i&nbsp;w jakich warunkach – stać się <span class="rozstrzelony"> obrazami mocnymi, sprawczym</span>i? Odpowiedź na&nbsp;drugie pytanie posłuży mi do pokazania, że&nbsp;dominacja określonych kategorii społecznych opiera się na&nbsp;kontroli nad warunkami dystrybucji obrazów i&nbsp;jest władzą, której bardzo trudno się przeciwstawić. Artykuł ma więc pozornie pesymistyczną konkluzję – słabi są w&nbsp;stanie tworzyć silne obrazy wyłącznie za&nbsp;pośrednictwem tych, którzy dominują, a&nbsp;zatem na&nbsp;warunkach określanych przez sprawujących władzę. Opór polegający na&nbsp;próbie wytwarzania sprawczych wizerunków przez zmarginalizowane grupy społeczne jest więc o&nbsp;tyle nieskuteczny, że&nbsp;zawsze reprodukuje istniejące struktury dominacji. Pesymistyczny charakter moich wniosków jest jednak pozorny – nie stwierdzam bowiem jednocześnie, że&nbsp;słabi są pozbawieni zdolności do przeobrażania porządku społecznego. Przeciwnie, jak postaram się pokazać, mają taką możliwość, ale tylko wówczas, gdy nie próbują wytwarzać obrazów, które mają być mocne i&nbsp;potężne.</p> <p></p> <h2>„Włochata małpa w&nbsp;źle skrojonej tunice”</h2> <p>Cecilia Giménez, osiemdziesięcioletnia mieszkanka Borja, małego miasta położonego w&nbsp;prowincji Saragossa w&nbsp;Hiszpanii, w&nbsp;2012 roku dokonała próby restauracji fresku <em>Ecce Homo</em>, namalowanego w&nbsp;1910 roku przez Elíasa Garcíię Martíneza, a&nbsp;przedstawiającego Chrystusa w&nbsp;koronie cierniowej. Efektem działania parafianki było całkowite przekształcenie pierwotnego obrazu – zgodnie z&nbsp;doniesieniami mediów zaczął on przedstawiać „naszkicowaną kredkami włochatą małpę w&nbsp;źle skrojonej tunice”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. Nie był to prawdopodobnie ani pierwszy, ani ostatni nieudany zabieg konserwatorski, lecz z&nbsp;pewnością jedyny, który wywołał tak żywiołową reakcję. Informowały o&nbsp;nim główne stacje telewizyjne na&nbsp;całym świecie, czyniąc zeń najważniejszy fragment <em>soft news</em> w&nbsp;głównych wydaniach programów informacyjnych<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Na&nbsp;jego punkcie oszalały też media społecznościowe: powstały tysiące memów odwołujących się do poprawionego <em>Ecce Homo</em><sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> i&nbsp;miliony mniej lub bardziej złośliwych komentarzy. O&nbsp;dziele pani Giménez wypowiadali się konserwatorzy i&nbsp;muzealnicy; a&nbsp;efekty zabiegu konserwatorskiego dokonanego przez nią porównywano do równie katastrofalnej w&nbsp;skutkach próby ratowania <em>Matki </em>Whistlera przez Jasia Fasolę<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>.</p> <p>W pierwszych reakcjach na&nbsp;fresk Giménez dominowały dwa typy wypowiedzi. Po&nbsp;pierwsze te, które można określić jako profesjonalne. Eksponowały one barbarzyństwo aktu zniszczenia dzieła sztuki przez amatorkę, przeciwstawiając jej działaniu mozolną pracę konserwatorów reprezentujących instytucje artystyczne i&nbsp;muzealne. Przekaz był czytelny – sztuką powinni zajmować się profesjonaliści, zaś wszelkie próby demokratyzacji w&nbsp;tej dziedzinie przynoszą katastrofalne efekty. Dominantą drugiego typu wypowiedzi był <em>ageism</em> – w&nbsp;ich centrum znajdował się podeszły wiek Giménez i&nbsp;sugestia, że&nbsp;dokonane przez nią zniszczenia wynikały z&nbsp;jej zniedołężnienia, słabego wzroku i&nbsp;niepełnej kontroli własnych działań; sama autorka była zatem kimś, kto raczej wymaga opieki, niż może ją sprawować nad czymkolwiek. Oba dyskursy splatały się ze sobą w&nbsp;pełnych potępienia głosach eksponujących zniszczenia, jakie przyniosła praca Cecilii Giménez. Podkreślano też naruszenie przez kobietę relacji dominacji; wzięła się przecież za&nbsp;coś, za&nbsp;co odpowiedzialne powinny być osoby uprawnione (profesjonaliści) albo przynajmniej potencjalnie zdolne podołać zadaniu (osoby młode). W&nbsp;większości głosów dominował sarkastyczny, pełen ironii ton, w&nbsp;którym poczucie wyższości splatało się z&nbsp;próbą przedstawienia działania Giménez jako aktu kogoś, kto nie do końca wie, co czyni; kto nie jest świadom ani wartości dzieła, które niszczy, ani swoich własnych słabości.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/slabe-obrazy/267-3761-1-pb-1920x-163.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/slabe-obrazy/267-3761-1-pb-330x-e21.jpg 330w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3761-1-pb-660x-de2.jpg 660w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3761-1-pb-768x-7ff.jpg 768w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3761-1-pb-1320x-e2e.jpg 1320w" src="assets/cache/images/issues/2015/9/slabe-obrazy/267-3761-1-pb-660x-de2.jpg" alt="" ></a>    <figcaption><p>Elías García Martínez, <em>Ecce Homo</em>, 1930, Borja, Hiszpania. Fresk przed renowacją Cecilii Giménez (po lewej) – i&nbsp;po renowacji (po prawej).</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Dosyć zaskakujące było jednak to, co stało się potem, a&nbsp;o czym media prawie nie informowały lub informowały bardzo oszczędnie. Zniszczony obraz Martineza stał się lokalną atrakcją turystyczną, a&nbsp;Borja do dziś przeżywa najazd osób chętnych, by zobaczyć i&nbsp;sfotografować fresk. Linie Ryanair wprowadziły specjalne loty po&nbsp;promocyjnych cenach. Kościół, w&nbsp;którym znajduje się dzieło, zaczął pobierać opłaty za&nbsp;jego oglądanie, zbierając dzięki temu około 50 tysięcy euro rocznie<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Napisano też petycję, w&nbsp;której 20 tysięcy osób domaga się, by zachować obraz w&nbsp;obecnej postaci, widząc w&nbsp;nim pełen odwagi akt oporu, kontestujący kreacjonistyczną ideologię kościoła, czy też przedstawienie, które lepiej niż tradycyjne malarstwo religijne wyraża współczesną kondycję wiary i&nbsp;skutki procesów sekularyzacji. Praca Giménez jest w&nbsp;petycji porównywana do dzieł Goi, Muncha, Modiglianiego<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. W&nbsp;Nowym Jorku powstaje opera opowiadająca o&nbsp;całym zdarzeniu<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>, a&nbsp;barcelońska grupa Wallpeople przygotowała wystawę prezentującą setki prac z&nbsp;całego świata zainspirowanych nową wersją <em>Ecce Homo</em><sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>.</p> <p>Co nie mniej istotne, prace konserwatorskie Cecilii Giménez sprawiły, że&nbsp;i&nbsp;ona, i&nbsp;efekt jej działań stały się na&nbsp;tyle znane, by można je było przekuć w&nbsp;sukces komercyjny. Autorka swoim nazwiskiem i&nbsp;dziełem sygnuje lokalną markę wina; doskonale też sprzedają się jej własne obrazy, a&nbsp;poprawione przez nią <em>Ecce Homo</em> zdobi T-shirty oraz inspiruje designerów i&nbsp;projektantów mody. Warto też odnotować, że&nbsp;dzięki światowemu rozgłosowi obrazu poprawionego przez Giménez, znany i&nbsp;rozpoznawany stał się autor fresku – Martinez. Sława ta okazała się jednak dwuznaczna, bo&nbsp;jego dzieło dziennikarze okrzyknęli plagiatem<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> ze względu na&nbsp;uderzające podobieństwo do pracy pod&nbsp;tym samym tytułem, stworzonej w&nbsp;połowie XVII wieku przez włoskiego malarza Guida Reniego<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. Fresk Martineza, właśnie po&nbsp;jego przekształceniu, doczekał się także własnego hasła w&nbsp;Wikipedii, stworzonego w&nbsp;14 wersjach językowych, w&nbsp;tym w&nbsp;polskiej.</p> <p></p> <h2>Słabe obrazy: dwa źródła sprawstwa</h2> <p>Splątane losy poprawionego <em>Ecce Homo</em> są dobrym punktem wyjścia do tego, by mówić o&nbsp;słabych obrazach i&nbsp;obrazach słabych<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Fresk po&nbsp;interwencji Cecilii Giménez i&nbsp;społeczna reakcja na&nbsp;to zdarzenie pozwalają bowiem na&nbsp;identyfikację większości mechanizmów odpowiedzialnych za&nbsp;nadawanie słabym obrazom tworzonym przez podporządkowanych nowego statusu. Statusu, który czyni je obrazami mocnymi, sprawczymi. Jednocześnie przykład ten pokazuje paradoksalność tego procesu – nadana w&nbsp;ten sposób moc sprawia, że&nbsp;obrazy kreowane przez słabych zaczynają działać przeciwko nim, w&nbsp;tym sensie, że&nbsp;czynią ich integralną częścią kontekstu, w&nbsp;którym zajmują oni marginalną pozycję.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/slabe-obrazy/267-3767-1-pb-1920x-57d.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/slabe-obrazy/267-3767-1-pb-330x-dc6.jpg 330w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3767-1-pb-660x-35e.jpg 660w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3767-1-pb-768x-5c5.jpg 768w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3767-1-pb-1320x-916.jpg 1320w" src="assets/cache/images/issues/2015/9/slabe-obrazy/267-3767-1-pb-660x-35e.jpg" alt="" ></a>    <figcaption><p>Guido Reni, <em>Ecce Homo</em>, ca. 1897</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Odpowiedź na&nbsp;pytanie, czym są słabe obrazy, wymaga uprzedniego zdefiniowania obrazów silnych. Zwłaszcza jeśli uznamy, że&nbsp;to silne obrazy potrzebują słabych, by móc dominować w&nbsp;polu uwagi, w&nbsp;istocie więc powołują je do życia. Silne obrazy to te, które mają zdolność działania, sprawstwa, powodują zatem, że&nbsp;za ich pośrednictwem sprawy toczą się inaczej, niż toczyłyby się bez ich udziału – mają zdolność czynienia różnicy<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Silne obrazy mają władzę. Powodują przeobrażenie pewnego fragmentu rzeczywistości, co oznacza, że&nbsp;ogniskują uwagę i&nbsp;odwracają ją od czegoś innego, zmieniają sposób działania lub myślenia, aktywizują i&nbsp;pobudzają, mobilizują do działań zbiorowych<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Interesującym przypadkiem silnych obrazów są przedstawienia, które Scott Lash i&nbsp;Celia Lury nazywają obrazami-rzeczami<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Są to wizualne reprezentacje, które nie przenoszą żadnych informacji, ale, niczym obiekty stające na&nbsp;drodze, zmuszają do tego, byśmy coś z&nbsp;nimi zrobili – zareagowali na&nbsp;nie, usunęli je z&nbsp;pola widzenia, przesłali je innym, skomentowali, oburzyli się. Silne obrazy to również przedstawienia, które prowokują powstawanie innych wizerunków – słabych (powstających w&nbsp;reakcji na&nbsp;silne obrazy lub niezbędnych do tego, by je wytwarzać).</p> <p>Silne obrazy czerpią zdolność sprawczą z&nbsp;jednego z&nbsp;dwu podstawowych mechanizmów lub z&nbsp;obu jednocześnie. Pierwszy z&nbsp;nich – nazwałem go mechanizmem antypodobizn – polega na&nbsp;czerpaniu przez obraz mocy z&nbsp;tego, że&nbsp;nie przedstawia on niczego, co wcześniej znaliśmy, lecz przeciwnie: ma zdolność pokazywania tego, co nowe, albo tego, co stare, ale w&nbsp;nowy sposób. Silny obraz, jak powie Gottfried Boehm<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>, nie jest podobizną. W&nbsp;przeciwieństwie do podobizn, które usiłują być jak najbardziej wiernymi, realistycznymi przedstawieniami rzeczywistości (zarówno za&nbsp;sprawą tego, że&nbsp;pokazują rzeczywistość tak, jak jawi się ona bez ich pośrednictwa, jak i&nbsp;dlatego, że&nbsp;jest ona prezentowana w&nbsp;nich w&nbsp;sposób prawdopodobny<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>), silne obrazy pokazują zatem to, czego nie znamy – czego nigdy wcześniej nie widzieliśmy. Ich siła płynie z&nbsp;wytrącania nas z&nbsp;przyzwyczajeń i&nbsp;rutyny, z&nbsp;zaburzenia naszego pola percepcyjnego przez element, który do niego nie pasuje, który się od niego odkleja, z&nbsp;którego zrozumieniem, kategoryzacją i&nbsp;uznaniem mamy problem.</p> <p><a name="tu"></a> W&nbsp;taki sposób działają na&nbsp;nas na&nbsp;przykład wybitne dzieła sztuki<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. Tak działały pierwsze fotografie i&nbsp;filmy<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. Tak działa pornografia i&nbsp;obrazy reklamowe pokazywane tam, gdzie nie były wcześniej obecne (wystarczy wspomnieć, jak silne robiły wrażenie w&nbsp;momencie narodzin nowego, kapitalistycznego systemu w&nbsp;Polsce końca lat 80., jak intensywnie zwracaliśmy na&nbsp;nie uwagę, jak wielkie wywoływały dyskusje i&nbsp;jak bardzo nieudolne były pierwsze próby ich samodzielnego tworzenia<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>). Tak działają na&nbsp;nas obrazy bestialskiej przemocy, zwłaszcza jeśli dokumentują akty okrucieństwa dokonywane przez tych, którzy mieli im zapobiegać (Abu Ghraib<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>), albo na&nbsp;tych, którzy są bezbronni i&nbsp;których traktujemy jako „naszych” (egzekucje na&nbsp;dziennikarzach i&nbsp;rzeźbach dokonywane przez Państwo Islamskie, pornografia dziecięca itd.). A&nbsp;także obrazy ataków na&nbsp;to, co przez pewne społeczności traktowane jest jako święte i&nbsp;w efekcie nienaruszalne (obrazy obrażające uczucia religijne, telewizyjna relacja z&nbsp;ataków na&nbsp;WTC<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>, przedstawienia zamachów na&nbsp;głowy kościołów i&nbsp;państw…).</p> <p>Paradoks polega na&nbsp;tym, że&nbsp;tak rozumiane silne obrazy (a więc obrazy zdolne do działania) potrzebują milionów wizerunków, które są słabe albo, jak powie niemiecka artystka Hito Steyerl, obrazów nędznych<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>, a&nbsp;więc tych, które dobrze znamy, którymi nasycona jest otaczająca nas ikonosfera, wizerunków wypełniających instrumentalne funkcje informowania, ilustrowania, instruowania, sprzedawania, ewangelizacji, uwodzenia itd. To dopiero obecność tych słabych obrazów, obrazów opatrzonych sprawia, że&nbsp;pewne przedstawienia mogą stać się potężne. Mówiąc jeszcze inaczej, siła obrazu nie drzemie w&nbsp;nim samym ani w&nbsp;związku pomiędzy nim a&nbsp;oglądającym, lecz raczej w&nbsp;relacji łączącej obraz z&nbsp;innymi, słabymi obrazami. Oznacza to również, że&nbsp;siła ta z&nbsp;konieczności jest kontekstualna – słabe obrazy przenoszone do wizualnego środowiska, w&nbsp;którym nie były dotąd obecne, uzyskują siłę, zdolność do działania, zaś potężne obrazy oglądane przez tych, którzy je tworzą albo za&nbsp;ich pomocą pracują na&nbsp;co dzień, są wizerunkami słabymi, bo&nbsp;opatrzonymi. Jednocześnie moc obrazów rozumiana jako ich zdolność do przedstawiania tego, czego nie widzieliśmy, lub w&nbsp;sposób, jakiego nie znaliśmy, nie jest wartością stałą, lecz wyczerpuje się wraz z&nbsp;ich upowszechnianiem i&nbsp;tym, jak szybko stają się obrazami nędznymi.</p> <p>Nieprzypadkowo więc podstawową strategią produkcji silnych obrazów jest dziś transgresyjny remix<em> – </em>łączenie w&nbsp;nowe całości wartości i&nbsp;zjawisk, które nigdy nie powinny być obecne w&nbsp;ramach jednego obrazu: dzieci i&nbsp;seksualności, muzeum i&nbsp;przemocy, religii i&nbsp;erotyki. Co ważne, transgresyjny remix nie tyle wytwarza obrazy nowe, ile dokonuje dekontekstualizacji istniejących przedstawień – włączając to, co niewidzialne, w&nbsp;to, co widzialne; czyniąc publicznym to, co skrajnie intymne; łącząc niedojrzałe, dziecięce z&nbsp;tym, co dorosłe; integrując codzienne z&nbsp;niecodziennym itd. Warto przy tym dodać, że&nbsp;wizerunki oparte na&nbsp;tej strategii produkcji obrazów stają się często pozornie silne. Dzieje się tak zwłaszcza wówczas, gdy są one zbyt jednoznaczne w&nbsp;swoich intencjach, a&nbsp;ich konstrukcja zdradza, że&nbsp;podstawowym motywem ich wykreowania był jakiś cel instrumentalny: zwrócenie na&nbsp;siebie uwagi przez twórcę<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>, promocja produktów<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup> albo mobilizacja polityczna. Konstytutywnym aspektem silnych obrazów jest zatem ich kłopotliwość<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>, problemy natury poznawczej, ale też moralnej, których nam przysparzają, ich ambiwalencja i&nbsp;niejednoznaczność. Motywy stojące za&nbsp;ich powołaniem do życia są nieprzejrzyste. Nietransparentna jest ich struktura przedstawieniowa i&nbsp;to, do czego przedstawienie odsyła. Najczęściej też nie pasują do kontekstu, w&nbsp;którym się je prezentuje.</p> <p>Warto też zauważyć, że&nbsp;opisany tu mechanizm antypodobizn działa raczej w&nbsp;planie indywidualnym (ewentualnie subkulturowym), wytwarzając obrazy mające moc poruszania jednostek. Dzieje się tak dlatego, że&nbsp;przedstawienia te zdolne są do pokazywania tego, czego pożąda jednostka, i&nbsp;tego, co przez nią wyparte<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>; że&nbsp;konkretyzują one jej lęki i&nbsp;fobie albo pokazują wyraźnie jej mgliste marzenia oraz obiektywizują to, co skrywa się za&nbsp;abstrakcyjnymi ideałami. Mówiąc jeszcze inaczej, antypodobizna to również obraz tego, co jednostka wyparła, by stawać się tym, kim jest, obraz przypominający o&nbsp;jej zrepresjonowanych pragnieniach i&nbsp;traumatycznych przeżyciach. Raz jeszcze podkreślę, że&nbsp;również w&nbsp;takich wypadkach siła obrazu nie drzemie w&nbsp;nim samym, lecz raczej w&nbsp;relacji wobec tego, co jednostka pragnie widzieć jako swój świat, i&nbsp;jak pragnie widzieć samą siebie, a&nbsp;więc w&nbsp;relacji łączącej silny wizerunek z&nbsp;innymi przedstawieniami.</p> <p>Drugi mechanizm wytwarzania potęgi wizerunków na&nbsp;pierwszy rzut oka jest rewersem pierwszego. Jego istotą jest bowiem kreowanie sytuacji, w&nbsp;której obraz zaczyna dominować w&nbsp;polu uwagi tak bardzo, że&nbsp;trudno znaleźć osobę, która by go nie widziała, nie poddała refleksji, nie podzieliła się nim z&nbsp;innymi. Ta opozycyjność obu modeli wytwarzania silnych obrazów jest jednak pozorna. W&nbsp;drugim wypadku mamy bowiem do czynienia z&nbsp;potęgą, której poddaje się już nie tylko jednostka, lecz populacja – albo określona zbiorowość, albo wręcz cały glob. Źródłem potęgi obrazu jest tu nie tylko jego szerokie upowszechnienie, ale też kreowana przezeń wspólnota osób egzystująca w&nbsp;podzielanej przez nie strukturze tego, co widzialne.</p> <p>W tym mechanizmie, który Jenkins określiłby mianem rozprowadzalności (<em>spreadability</em><sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>), zależność silnego obrazu od nędznych wizerunków jest jeszcze wyższa. Te ostatnie są bowiem reprodukcjami, kopiami, powieleniami obrazu, który ma być potężny; to one sprawiają, że&nbsp;staje się on nadobecny i&nbsp;powszechnie rozpoznawalny. Cyfrowa reprodukcja obrazów i&nbsp;ich upowszechnianie przez sieć nie tyle więc niszczy oryginał (jego aurę), jak chciałby Walter Benjamin, ile raczej wytwarza jego oryginalność, sprawia, że&nbsp;chcemy z&nbsp;nim obcować, obejrzeć go dotknąć, zawłaszczyć<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>.</p> <p>Doskonale ten mechanizm pokazuje projekt <em>Fabiola</em> belgijskiego artysty Francisa Alÿsa<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>. Kolekcjonuje on wizerunki Fabioli, rzymskiej matrony żyjącej w&nbsp;IV wieku naszej ery, która poświęciła swoje życie i&nbsp;majątek pomocy ubogim i&nbsp;schorowanym. Obrazy te nawiązują do jej zaginionego portretu, stworzonego przez Jean-Jacques’a Hennera pod&nbsp;koniec XIX wieku. Alÿs przez 15 lat zgromadził około 300 obrazów nawiązujących do zaginionego dzieła, stworzonych przez amatorów i&nbsp;profesjonalistów. Każde z&nbsp;tych przedstawień korzysta z&nbsp;siły kopiowanego obrazu, pozwalając jednocześnie trwać również samemu kultowi świętej. Kopia kreuje tu wspólnotę zorganizowaną wokół kultu tego, co przedstawiał pierwowzór.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/slabe-obrazy/267-3771-1-pb-1920x-368.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/slabe-obrazy/267-3771-1-pb-330x-66f.jpg 330w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3771-1-pb-660x-30b.jpg 660w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3771-1-pb-768x-73f.jpg 768w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3771-1-pb-1320x-2b5.jpg 1320w" src="assets/cache/images/issues/2015/9/slabe-obrazy/267-3771-1-pb-660x-30b.jpg" alt="" ></a>    <figcaption><p>Francis Alÿs, <em>Fabiola</em>, Santo Domingo de Silos Abbey (Burgos), 28 października 2009 – 7 marca 2010, źródło: <a href="http://www.museoreinasofia.es/en/exhibitions/francis-alys-fabiola" target="_blank" rel="noopener">http://www.museoreinasofia.es/en/exhibitions/francis-alys-fabiola</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Projekt Alÿsa, choć interpretowany najczęściej w&nbsp;kontekście innych jego przedsięwzięć opartych na&nbsp;kolaboracji<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>, wskazujących na&nbsp;ludzką potrzebę tworzenia, da się przeczytać inaczej – właśnie jako zbiór nędznych obrazów, których zadaniem jest podtrzymywanie siły oryginału i&nbsp;pamięci o&nbsp;tym, do czego on odsyła. Słabe obrazy wykonują tu niezauważaną przez nikogo pracę, są przezroczyste tak długo, jak trzymają się wiernie oryginału. Ich trud zostaje wydobyty przez artystę, a&nbsp;pokazanie ich razem pozwala dostrzec, że&nbsp;każde z&nbsp;nich jest czyimś dziełem, że&nbsp;zawiera pracę osoby, dla której pierwowzór wart był powielenia, która wierzyła, że&nbsp;w&nbsp;ten sposób umacnia jego obecność, nie pozwalają zapomnieć o&nbsp;tym, co przedstawia.</p> <p>Ten sam mechanizm działa też w&nbsp;przypadku reklamy, portali plotkarskich, propagandy i&nbsp;komunikacji politycznej. To dopiero powielenie w&nbsp;tysiącach nędznych obrazów, które chcą być silne, powoduje, że&nbsp;zaczynamy pożądać tego, co przedstawiają. Tysiące nędznych obrazów multiplikujących oryginał poświadcza, że&nbsp;to, co reprezentują, jest doniosłe i&nbsp;ważne. Gdyby takie nie było, nie byłoby też warte reprodukowania. Zatem dopiero masa nędznych obrazów stwarza siłę oryginału, który reprezentują.</p> <p>Ten drugi model wytwarzania silnych obrazów jest interesujący również dlatego, że&nbsp;kontestuje „utopię egalitarnej kreatywności”. Zgodnie z&nbsp;tą ideą, obecną we współczesnych studiach kulturowych<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>, <em>community art </em>i sztuce partycypacyjnej<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>, postulatach rzeźby społecznej Beuysa<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup> i&nbsp;we współczesnych ruchach otwartościowych<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>, ludzie są twórczy i&nbsp;aktywni, mają zdolność do kreowania znaczeń i&nbsp;sensów, do budowania własnych światów, często opozycyjnych wobec dominujących. Zwiększenie dostępu do narzędzi tworzenia oraz szerokie upowszechnienie dóbr kulturowych i&nbsp;zapewnienie pełnego dostępu do nich sprawi, że&nbsp;wszyscy staniemy się twórczy, czego sztandarowym dowodem ma być rozwój mediów społecznościowych, wypełnionych amatorską twórczością.</p> <p>Problem polega na&nbsp;tym, że&nbsp;– jak zauważa Jaron Lanier<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup> – oryginalna twórczość stanowi znikomą część zawartości sieci. Przeważają w&nbsp;niej bowiem obrazy, będące poddanymi silnych przedstawień, żerujące na&nbsp;nich, będące ich pastiszem albo złożonym im hołdem; obrazy, których podstawową funkcją jest budowanie potęgi wizerunków tworzonych przez globalny przemysł kulturowy, korporacje i&nbsp;mainstreamowe media<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>. Powszechność tworzenia jest zatem potwierdzeniem tego, że&nbsp;nie każdy może tworzyć, ponieważ tego rodzaju wytwory są tylko reakcją na&nbsp;obrazy silne za&nbsp;sprawą stojących za&nbsp;nimi potężnych instytucji, które je produkują i&nbsp;upowszechniają. Nie może być inaczej, bo&nbsp;o&nbsp;ile narzędzia produkcji i&nbsp;upowszechniania obrazów są dostępne, to nie jest powszechna kontrola nad procesami produkcji silnych obrazów. Przeciwnie, wraz z&nbsp;koncentrację własności mediów<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>, staje się ona coraz bardziej ekskluzywna.</p> <p>Hito Steyerl zauważa też, że&nbsp;opozycja oryginał-kopia silnie odznacza się w&nbsp;jakości przedstawienia<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>. Doskonale widać tę zależność w&nbsp;różnicy pomiędzy obrazami bezpłatnymi i&nbsp;tymi, za&nbsp;których oglądanie musimy płacić (dzieła sztuki w&nbsp;muzeach czy filmy oglądane w&nbsp;multipleksie, nazywanym przez Steyerl „flagowym sklepem współczesnej kultury wizualnej”). Zadaniem obrazów darmowych jest bowiem popularyzowanie płatnych (jak w&nbsp;przypadku internetowych trailerów, streamingu i&nbsp;mniej lub bardziej legalnych kopii „oryginałów”). Bezpłatne są zatem słabej jakości – mają niską rozdzielczość, często są niekompletne, pozbawione ścieżki dźwiękowej. Tak rozumiana słabość przedstawienia jest ceną, jaką płacą one za&nbsp;skalę upowszechnienia, ponieważ zła jakość oznacza zarazem większą szybkość tworzenia kolejnych kopii i&nbsp;ich upowszechniania<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/slabe-obrazy/267-3763-1-pb-1920x-d04.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/slabe-obrazy/267-3763-1-pb-330x-b5d.jpg 330w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3763-1-pb-660x-e5a.jpg 660w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3763-1-pb-768x-cee.jpg 768w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3763-1-pb-1320x-30a.jpg 1320w" src="assets/cache/images/issues/2015/9/slabe-obrazy/267-3763-1-pb-660x-e5a.jpg" alt="" ></a>    <figcaption><p>Jeden z&nbsp;obrazów-reakcji na&nbsp;dzieło Cecilii Giménez</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Wyjaśniając, jak rozumiem obrazy silne, a&nbsp;więc zdolne do działania – albo ze względu na&nbsp;swoją unikalność, albo powszechność – starałem się również definiować obrazy słabe. Jak się okazuje, źródło impotencji obrazów jest podwójne. Słabe obrazy to albo podobizny, albo reprodukcje. Jednocześnie, co warto podkreślić, relacja pomiędzy nędznymi a&nbsp;silnymi obrazami jest identyczna jak relacja pomiędzy niewolnikiem a&nbsp;panem<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup>. Pan włada niewolnikiem, ale bez niego i&nbsp;jego zgody na&nbsp;podporządkowanie się nie byłby panem. Niewolnik zgadza się na&nbsp;podporządkowanie, bo&nbsp;to sankcjonuje jego istnienie. Żyje on przecież tylko dlatego, że&nbsp;pan go potrzebuje. Relacja ta jest niezbędnym i&nbsp;koniecznym warunkiem dominacji, to zaś z&nbsp;kolei łączy słabych i&nbsp;silnych w&nbsp;perwersyjnym związku, w&nbsp;którym każda ze stron konieczna jest do tego, by mógł on zaistnieć. Trudno więc odpowiedzieć na&nbsp;pytanie, kto w&nbsp;związku dominuje, można natomiast wskazać, kto jest jego beneficjentem, kto korzysta z&nbsp;pracy innych, kto eksploatuje.</p> <p>Cecilia Giménez, przekształcając fresk Martineza, stworzyła silny obraz – antypodobiznę, coś, czego nikt wcześniej nie widział. Potęga tego malowidła została zwiększona za&nbsp;sprawą tysięcy nędznych obrazów, które w&nbsp;sarkastyczny sposób prezentowały nieudany akt konserwacji. Zwycięska w&nbsp;tym procesie nie jest jednak Giménez, choć i&nbsp;ona uszczknęła nieco z&nbsp;potęgi stworzonego przez siebie obrazu, ale przede wszystkim media decydujące o&nbsp;jego potędze. To one są bowiem podstawową maszyną do kreowania potężnych wizerunków, nie zaś ci, którzy dostarczają kolejnych kandydatów do tego miana.</p> <p></p> <h2>Obrazy słabych i&nbsp;warunkowa sprawczość</h2> <p>Przykład nieudanej konserwacji obrazu <em>Ecce Homo</em> jest o&nbsp;tyle interesujący, że&nbsp;nie tylko pozwala odpowiedzieć na&nbsp;pytanie o&nbsp;to, czym są słabe i&nbsp;silne obrazy, ale też dlatego, że&nbsp;umożliwia zauważenie obrazów słabych, a&nbsp;więc przedstawień wytwarzanych przez osoby w&nbsp;pewien sposób niewidzialne, funkcjonujące na&nbsp;marginesie życia społecznego, posiadające niski status społeczny, nieuczestniczące w&nbsp;pełni we wszystkich formach życia społecznego.</p> <p>Na początek warto podkreślić, że&nbsp;niewidzialność tych osób nie oznacza ich niezdolności do wytwarzania obrazów, dzięki którym mogłyby zostać zauważone. Przeciwnie – funkcjonujące na&nbsp;marginesach życia społecznego zbiorowości posiadają niezwykle rozwiniętą kulturę wizualną, często autonomiczną wobec tej, która uznawana jest za&nbsp;prawomocną (upowszechnianą przez podstawowe instytucje społeczne, jak szkoła, muzeum, galeria, uniwersytet, kino, filharmonia)<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup>. Wystarczy przypomnieć robotniczy folklor, kreatywność subkultur czy bogatą kulturę wizualną hip-hopu. Niewidzialność tych grup społecznych nie bierze się więc z&nbsp;braku obrazów, które mogłyby je reprezentować, lecz raczej z&nbsp;tego, że&nbsp;są to obrazy słabe. Dokładniej mówiąc, niewidzialność ta wynika z&nbsp;braku kontroli zmarginalizowanych grup społecznych nad warunkami umożliwiającymi uruchomienie mocy obrazów, które wytwarzają one jako potencjalnie silne. „Słabe” grupy nie kontrolują warunków swojej widzialności.</p> <p>Tego rodzaju deficyt wynika oczywiście z&nbsp;posiadania technicznych środków kreowania silnych obrazów przez dominujące grupy społeczne. W&nbsp;efekcie grupy zdominowane są widzialne tak, jak chcą dominujący. Mechanizm ten ujawnia się z&nbsp;całą mocą wszędzie tam, gdzie obrazy słabych stają się obrazami silnymi, zdolnymi do działania, poruszającymi wyobraźnię i&nbsp;zachęcającymi do działania. Jak sądzę, jest to możliwe w&nbsp;kilku zaledwie wariantach, dla których wspólne jest to, że&nbsp;zawsze dotyczą one sytuacji kontrolowanych przez grupy i&nbsp;osoby zarządzające obrazami silnymi.</p> <p>Dzieje się tak wówczas, po&nbsp;pierwsze, gdy obrazy tworzone przez słabych stają się przedmiotem pełnych poczucia wyższości i&nbsp;sarkazmu drwin ze strony rzekomych prawodawców reguł, które powinny obowiązywać w&nbsp;przestrzeni widzialnego. Dobrym przykładem jest wszechobecność stron internetowych opartych na&nbsp;wzorcu „beka z…”, jak „Beka z&nbsp;nastolatek”, „Faszyn from Raszyn” czy „Grafik płakał, jak projektował”. Pierwsza z&nbsp;nich drwi z&nbsp;osób przynależących do niższych kategorii społecznych, które zwróciły uwagę swoim strojem, niekonwencjonalnym zachowaniem, miejscem, w&nbsp;którym się sfotografowały. Mają one zdolność do zaburzenia pola uwagi, stając się jednocześnie przedmiotem ironicznych komentarzy, ponieważ odstają od modowego kanonu, grają z&nbsp;nim, „nic sobie nie robią” z&nbsp;reguł określających pożądane wzorce cielesności i&nbsp;dozwolone sposoby używania ciała. Na&nbsp;zdjęciach widać osoby, które są w&nbsp;pewnym sensie wolne od rygorystycznej kontroli nakładanej na&nbsp;cielesność i&nbsp;wygląd, które odważyły się być w&nbsp;zgodzie z&nbsp;tym, co podpowiada im własna fantazja, pragnienia, wyobrażenia na&nbsp;temat tego, co piękne. Reakcje na&nbsp;wizerunki takich jednostek doskonale pokazują, że&nbsp;chociaż żyjemy w&nbsp;świecie ceniącym sobie oryginalność i&nbsp;indywidualizm, to niekoniecznie aprobowane są podobne zachowania w&nbsp;wykonaniu przedstawicieli wszystkich grup społecznych. Paradygmatycznymi przykładami właściwych form praktykowania indywidualizmu są jedynie ci, których do tej roli wytypowało społeczeństwo i&nbsp;którzy robią to zawodowo (celebryci, gwiazdy pop kultury, projektanci, modele, aktorzy itd.), nie zaś osoby rzucające wyzwanie tej koncesjonowanej oryginalności. Kpiny z&nbsp;nich są przekonującym dowodem naruszenia przez nie podziału pracy i&nbsp;władzy, wejścia w&nbsp;rolę osób zwracających na&nbsp;siebie uwagę, chociaż powinny one pozostać normalne, a&nbsp;więc naśladować kontrolujących pole uwagi.</p> <p>Zdjęcia prezentowane na&nbsp;stronach typu „beka z” dyscyplinując, zwiększają widzialność przedstawionych na&nbsp;nich osób, ale na&nbsp;własnych warunkach, wśród których najważniejsza jest zasada, zgodnie z&nbsp;którą podporządkowany ma prawo znajdować się w&nbsp;centrum uwagi, ale tylko jako <em>exemplum</em> aktualizujące normy określające to, jak być powinno, jako dydaktyczny przykład demonstrujący zgubne skutki łamania zasad dotyczących wyglądu i&nbsp;cielesności określonych przez tych, którzy dominują. Obraz wytwarzany przez słabego<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup> staje się więc silny pod&nbsp;warunkiem skierowania go przeciwko jego twórcy i&nbsp;zreprodukowania jego podporządkowanej pozycji.</p> <p>W wypadku strony <em>Grafik płakał jak projektował</em> mamy do czynienia przede wszystkim z&nbsp;ekspozycją mniej lub bardziej profesjonalnych prac osób zajmujących się działalnością artystyczną o&nbsp;użytkownym charakterze, które w&nbsp;opinii administratorów strony, o&nbsp;czym świadczą ich komentarze, wymknęły się im spod kontroli. Dowodzić ma tego forma przedmiotu drwin. Reklamy i&nbsp;plakaty prezentowane przez portal nie spełniają bowiem, zdaniem jego twórców, podstawowych kryteriów, jakie powinny obowiązywać w&nbsp;projektowaniu graficznym, są źle, niestarannie wykonane, rażą papuzią kolorystyką, nadużywaniem typografii rodem z&nbsp;komiksowych dymków i&nbsp;amatorskich zinów, nadmiarem ornamentów i&nbsp;ozdobników, seksistowską lub opartą na&nbsp;kiepskich żartach retoryką. Pokazanie tych obrazów na&nbsp;poświęconej im stronie sprawia, że&nbsp;stają się one obrazami silnymi. Dzieje się tak również dlatego, że&nbsp;przedstawienia te aktywizują profesjonalistów do mniej lub bardziej sarkastycznych komentarzy umieszczanych pod&nbsp;publikowanymi grafikami. Strona ma charakter humorystyczny, trudno się jednak oprzeć wrażeniu, że&nbsp;jej celem, podobnie jak w&nbsp;przypadku „Faszyn from Raszyn” jest wprowadzanie porządku, ładu, oczyszczanie pola wizualnego z&nbsp;tego wszystkiego, co tworzone jest przez tych, którzy nie akceptują lub po&nbsp;prostu nie znają jego reguł.</p> <p>Jednocześnie to dyscyplinujące spojrzenie zdaje się ignorować fakt, że&nbsp;estetyka obśmiewanych plakatów, ulotek, ulicznych reklam i&nbsp;szyldów nie ma charakteru kuriozum odstającego od tego, co dominuje w&nbsp;przestrzeni publicznej, lecz przeciwnie – odnosi się do gustów rozpoznawanych przez znaczną część populacji zamieszkującej Polskę jako swojskie, nasze, normalne. Twórcy strony próbują uczynić egzotycznym to, co jest normą<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup>, a&nbsp;co zarazem niezgodne jest z&nbsp;gustem i&nbsp;wiedzą profesjonalistów. Mamy tu więc do czynienia z&nbsp;roszczeniem do sprawowania władzy nad polem, w&nbsp;którym rzeczywiście dominują słabi, podstawowym narzędziem jego wyrażania jest zaś ubrany w&nbsp;sarkastyczną retorykę dyskurs profesjonalny. Również tu zatem obrazy słabych stają się silne pod&nbsp;warunkiem wymierzenia ich w&nbsp;nie same i&nbsp;reprodukcji istniejące struktur dominacji.</p> <p>Drugi mechanizm, za&nbsp;sprawą którego obrazy słabych stają się silne, można określić jako rzecznictwo. Chodzi o&nbsp;te wszystkie sytuacje, w&nbsp;których ktoś, kto posiada silną pozycję w&nbsp;obrębie pola, staje się tubą albo medium, dzięki któremu to, co niewidzialne, funkcjonujące na&nbsp;marginesach społecznej uwagi, staje się silnym obrazem, ogniskującym uwagę. Taki charakter ma niewątpliwie <em>community art</em>, video-rzecznictwo, zaangażowane dziennikarstwo, niektóre formy sztuki publicznej, wystawy delegowane, sztuka oparta na&nbsp;ideach partycypacji i&nbsp;kolektywnego tworzenia. W&nbsp;tym nurcie mieści się też projekt „Niewidzialne miasto”<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/slabe-obrazy/267-3769-1-pb-1920x-c40.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/slabe-obrazy/267-3769-1-pb-330x-ef3.jpg 330w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3769-1-pb-660x-342.jpg 660w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3769-1-pb-768x-223.jpg 768w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3769-1-pb-1320x-85d.jpg 1320w" src="assets/cache/images/issues/2015/9/slabe-obrazy/267-3769-1-pb-660x-342.jpg" alt="" ></a>    <figcaption><p>Projekt „Niewidzia;ne miasto”. Fot. Joanna Bukowiecka, źródło: <a href="http://www.niewidzialnemiasto.pl" target="_blank" rel="noopener">http://www.niewidzialnemiasto.pl</a>/</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Jego podstawowym celem było zwrócenie uwagi na&nbsp;oddolne i&nbsp;spontaniczne aktywności mieszkańców przeobrażające miasto. Działania, takie jak zakładanie przyblokowych ogródków, zdobienie balkonów, chałupnicze naprawy publicznej infrastruktury, tworzenie miejsc spotkań i&nbsp;placów zabaw, traktowano w&nbsp;projekcie jako próby adaptowania miasta do potrzeb użytkowników. Podstawowym celem fotografowania tych ingerencji w&nbsp;przestrzeń miejską było zwrócenie uwagi na&nbsp;to, że&nbsp;miasto nie jest tylko dziełem architektów i&nbsp;władz miejskich, ale też zwykłych ludzi, którzy przeobrażają je w&nbsp;przestrzeń swojego życia. W&nbsp;efekcie projektu „Niewidzialne miasto” powstała rozległa baza zdjęć dokumentujących interwencje mieszkańców; zorganizowano też wiele wystaw, pokazów i&nbsp;dyskusji, w&nbsp;trakcie których próbowano zwrócić uwagę na&nbsp;ogromny potencjał twórczy drzemiący w&nbsp;zwykłych ludziach, potencjał niewykorzystywany ani jako źródło informacji o&nbsp;tym, czego chcą mieszkańcy, ani jako siła, która mogłaby zmieniać miasto. Badanie pozwoliło niewątpliwie zwrócić uwagę na&nbsp;zjawisko oddolnych ingerencji w&nbsp;przestrzeń miejską, pokazać ich skalę i&nbsp;różnorodność. Z&nbsp;pewnością jednak nie doprowadziło do sytuacji, w&nbsp;której są one traktowane jako pożądane, a&nbsp;ich twórcy jako partnerzy, istotni aktorzy, których zdanie bierze się pod&nbsp;uwagę w&nbsp;procesie kształtowania przestrzeni miejskiej.</p> <p>Przeciwnie, jak się wydaje, projekt zakończył się, gdy rozpoczęło się to, co można nazwać drugą fazą przeobrażania miasta. O&nbsp;ile w&nbsp;pierwszej podstawowymi podmiotami były duże korporacje inwestujące w&nbsp;najbardziej atrakcyjnych miejskich terenach, o&nbsp;tyle w&nbsp;drugiej stały się nimi przede wszystkim ruchy miejskie próbujące otwierać miasto na&nbsp;mieszkańców. Problem w&nbsp;tym, że&nbsp;tym „mieszkańcem” był tu przede wszystkim ktoś podobny do samych aktywistów – młody, dobrze wykształcony, intensywnie uczestniczący w&nbsp;kulturze, potrzebujący zatem przede wszystkim miejsc spotkań, twórczych działań i&nbsp;dyskusji oraz wyrafinowanej konsumpcji. Ktoś, kogo gusta reprezentują najlepiej minimalistyczne wnętrza, estetyka twórczego brikolażu, umiar w&nbsp;używaniu koloru i&nbsp;znaków. W&nbsp;tym ideale niewidzialne miasto, ze swoją krzykliwością, nieuporządkowaniem, wieczną prowizorką zdecydowanie się nie mieści, a&nbsp;jeżeli jest w&nbsp;nim obecne, to tylko w&nbsp;formie bezpiecznej i&nbsp;silnie zestetyzowanej.</p> <p>Dosyć charakterystyczna jest też inna reakcja na&nbsp;niewidzialne miasto, czyli skłonność do traktowania go jako etnograficznej ciekawostki, której barwność budzi uśmiech, ale która najlepiej sprawdza się w&nbsp;galerii sztuki jako świadectwo, że&nbsp;wszyscy są twórczy, ale już nie poza nią, gdzie – jako część rzeczywistości – budzi niechęć i&nbsp;reprezentuje to, co w&nbsp;mieście najgorsze. Doskonałymi przykładami są tu akcje wycinania banerów reklamowych zawieszanych nielegalnie na&nbsp;ogrodzeniach czy zachęcania właścicieli sklepów na&nbsp;poznańskiej Wildzie do zmiany krzykliwych szyldów na&nbsp;zaprojektowane przez profesjonalnych grafików. Wszystko byłoby w&nbsp;porządku, gdyby nie to, że&nbsp;w&nbsp;imię zaprowadzania ładu estetycznego atak zostaje przypuszczony prawie wyłącznie na&nbsp;słabych, a&nbsp;nie na&nbsp;silnych aktorów tworzących miasto. Jego efektem jest zatem pasteryzacja przestrzeni, wyparcie zeń wszystkiego, co nie mieści się w&nbsp;globalnej normalności wizualnej.</p> <p>Paradoks niewidzialnego miasta, a&nbsp;także innych form rzecznictwa polega więc na&nbsp;tym, że&nbsp;prowadząc do wytworzenia silnych obrazów słabych, uwidoczniają też ich praktyki i&nbsp;obecność, wywołując zwrotną reakcję w&nbsp;postaci prób ich wyeliminowania, zastąpienia czymś, co lepiej przylega do obowiązujących standardów. Problemem rzecznictwa, niezależnie od jego pozytywnych rezultatów, jest to, że&nbsp;słabi stają się widzialni na&nbsp;mocy reguł, których nie kontrolują.</p> <p>Trzeci mechanizm, za&nbsp;sprawą którego obrazy słabych stają się silne, widzialne, zdolne do działania, jest typ praktyk kulturowych określanych – za&nbsp;Richardem Petersenem – jako wszystkożerność<sup><a href="#sdfootnote45sym" name="sdfootnote45anc">45</a></sup>. Podejmowane są one przede wszystkim przez wykształcone jednostki o&nbsp;wysokim statusie, a&nbsp;ich efektem jest przekształcenie tego, co pozbawione wartości estetycznej, co reprezentuje zły smak i&nbsp;nieodpowiedni gust, w&nbsp;coś wartościowego. Wszystkożerność jest przede wszystkim wyrafinowaną formą wyróżnienia, której istotą jest konsumowanie dóbr kultury należących do różnych porządków: niskiego, w&nbsp;którym uczestniczą słabi, i&nbsp;wysokiego, który dla słabych jest niedostępny. Zdolność do poruszania się w&nbsp;całym polu kulturowym, samodzielne decydowanie o&nbsp;tym, co należy konsumować, a&nbsp;czego nie wypada, ma być dowodem wyższości nad tymi uczestnikami gry o&nbsp;wyróżnienie, którzy kurczowo trzymają się dóbr, których konsumpcja oddaje właściwą im pozycję społeczną. Wszystkożerność, jako mechanizm czynienia widzialnymi obrazów słabych, za&nbsp;swój przedmiot przyjmuje to, co ostentacyjnie domaga się uwagi – poprzez brak umiaru, nieudolne naśladowanie tego, co rzekomo luksusowe, piękne, niezwykłe, fascynujące. Wszystkożerność uwidzialnia i&nbsp;celebruje więc to, co wcześniej zostało odrzucone jako kicz, jako zbyt natrętne domaganie się uwagi przez tych, którzy na&nbsp;to nie zasługują, bo&nbsp;nie przestrzegają reguł obowiązujących w&nbsp;polu wizualnym, nieustannie je gwałcąc.</p> <p>Wszystkożerne jest więc organizowanie przez inicjatorów „Faszyn from Raszyn” imprez, na&nbsp;których uczestnicy zakładają na&nbsp;siebie to, co wcześniej wykpili, przebierając się za&nbsp;osoby, które wyśmiali. Wszystkożerna jest fascynacja miłośników kina artystycznego i&nbsp;awangardowego filmami klasy B. Wszystkożerny jest <em>Mister D</em>., projekt Doroty Masłowskiej, eksploatujący język i&nbsp;wizualność wielkomiejskiego lumpenproletariatu. Wszystkożerność wchłania to wszystko, czego wartość została zanegowana w&nbsp;dominującej kulturze wizualnej, ale nie po&nbsp;to, by dowartościować obrazy słabych, ich gusta i&nbsp;upodobania, ale przeciwnie – by demonstrować kulturową autonomię praktyków wszystkożerności. Traktowana jest ona czasami jako strategia subwersywna, przewracająca kulturowe hierarchie do góry nogami i&nbsp;wprowadzająca pospolity gust na&nbsp;salony, okazuje się jednak mechanizmem, który, co prawda, eksponuje obrazy słabych i&nbsp;czyni je silnymi, zdolnymi do działania, ale tylko po&nbsp;to, by utwierdzić podporządkowanie ich twórców.</p> <p></p> <h2>Zakończenie. Sprawcze obrazy słabych</h2> <p>Te trzy mechanizmy czynienia obrazów słabych – silnymi obrazami, zdolnymi do działania w&nbsp;przekonujący sposób dowodzą, że&nbsp;to, co miało zostać w&nbsp;efekcie tych działań dowartościowane, wzmocnione, uwidzialnione przeobraża się w&nbsp;swoje zaprzeczenie – w&nbsp;obrazy potwierdzające poślednią pozycję zmarginalizowanych. Jak pisałem, wynika to z&nbsp;tego, że&nbsp;zdolność do tworzenia obrazów przez słabych nie idzie w&nbsp;parze z&nbsp;możliwością kontroli narzędzi ich upowszechniania i&nbsp;nadawania im znaczeń. Wszelkie próby wzmacniania obrazów słabych kończą się zatem osłabieniem tych, których obrazy te reprezentują. Doskonale to widać w&nbsp;codziennych programach informacyjnych, przepełnionych obrazami słabych: cierpiących z&nbsp;powodu przemocy, głodu, braku pracy, niepewności i&nbsp;braku dachu nad głową, protestujących przeciw niesprawiedliwemu systemowi i&nbsp;próbujących go zniszczyć za&nbsp;pomocą aktów terrorystycznych czy publicznych egzekucji jego przedstawicieli. Obrazy te oczywiście poruszają, budzą gniew, inspirują akty solidarności i&nbsp;mobilizują do działania, ale wszystko to na&nbsp;warunkach określonych przez kogoś innego. Nie służą pokrzywdzonym, ponieważ – zmieniając często losy jednostek – w&nbsp;żaden sposób nie zmieniają struktur dominacji.</p> <p>Oznacza to, że&nbsp;opór wyrażany w&nbsp;próbach uczynienia obrazów słabych – obrazami silnymi skazany jest na&nbsp;niepowodzenie, bo&nbsp;dokonuje się wyłącznie za&nbsp;przyzwoleniem dominujących grup społecznych, reprodukuje zatem istniejące struktury hierarchiczne. Pole wizualne i&nbsp;pole społeczne są więc homologiczne, a&nbsp;nierówności obecne w&nbsp;społeczeństwie odciskają się i&nbsp;reprodukują przy udziale i&nbsp;w obrębie wizualności.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/slabe-obrazy/267-3765-1-pb-1920x-a02.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/slabe-obrazy/267-3765-1-pb-330x-169.jpg 330w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3765-1-pb-660x-528.jpg 660w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3765-1-pb-768x-25c.jpg 768w,assets/cache/images/issues/2015/9/slabe-obrazy/267-3765-1-pb-1320x-7b4.jpg 1320w" src="assets/cache/images/issues/2015/9/slabe-obrazy/267-3765-1-pb-660x-528.jpg" alt="" ></a>    <figcaption><p>Jeden z&nbsp;obrazów-reakcji na&nbsp;dzieło Cecilii Giménez</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Czy jednak oznacza to, że&nbsp;niemożliwa jest zmiana rzeczywistości społecznej za&nbsp;pomocą obrazów, a&nbsp;wszelkie przejawy subwersji zawsze będą formami reprodukcji ładu społecznego? Taka pesymistyczna odpowiedź jest zasadna, gdy założymy, że&nbsp;opór musi koniecznie opierać się na&nbsp;silnych obrazach, a&nbsp;więc na&nbsp;próbie zdobycia przewagi w&nbsp;obrębie pola wizualnego, na&nbsp;wytworzeniu kontrobrazów – równie potężnych, jak wytwory dominujących grup społecznych. Jak się wydaje, istnieją też inne możliwości. Pierwszą z&nbsp;nich przedstawiłem w&nbsp;dwu innych artykułach: <em>Przeciw inżynierii wizualnej. Ożywianie i&nbsp;uśmiercanie miasta</em><sup><a href="#sdfootnote46sym" name="sdfootnote46anc">46</a></sup> oraz <em>Dyskretna niezgoda. Opór i&nbsp;kultura materialna</em><sup><a href="#sdfootnote47sym" name="sdfootnote47anc">47</a></sup><em>. </em>Istotą obu było zwrócenie uwagi na&nbsp;nieskuteczność prób dokonywania zmian w&nbsp;przestrzeni miejskiej oraz podejmowania oporu za&nbsp;pośrednictwem tego, co wizualne, a&nbsp;zwłaszcza subwersywnych taktyk korzystających z&nbsp;obrazów. Dużo bardziej istotne i&nbsp;efektywne jako narzędzie realizacji tych celów wydaje się (1) przekształcanie relacji komunikacyjnych za&nbsp;sprawą budowania nowych sieci współpracy zdolnych do przeobrażania porządku na&nbsp;bardzo podstawowym poziomie: codziennych praktyk, relacji z&nbsp;rzeczami i&nbsp;ze środowiskiem przyrodniczym; (2) uniezależnianie się od rynku dzięki różnych formom wytwórczości nie tylko zaspokajającym potrzeby, ale też więziotwórczym i&nbsp;produktywnym społecznie; (3) budowanie alternatywnych obiegów wiedzy oraz samouczenie się oparte na&nbsp;niehierarchicznych relacjach społecznych.</p> <p>Druga możliwość opiera się na&nbsp;założeniu, że&nbsp;obrazy słabych stają się sprawcze, gdy nie próbuje się ich czynić obrazami silnymi. Brzmi to paradoksalnie, ale znajduje potwierdzenie w&nbsp;obserwacji współczesnego pola wizualnego. Świetnym przykładem tej formy sprawczości obrazów słabych jest przywoływane już zjawisko oddolnych ingerencji w&nbsp;przestrzeń miejską, które zostało nazwane niewidzialnym miastem. Są one skuteczne jako narzędzia przeobrażania przestrzeni właśnie dlatego i&nbsp;tylko wtedy, gdy nie zwracają na&nbsp;siebie uwagi. Kiedy zaś stają się widoczne, gdy je zauważamy, gdy zaczynamy o&nbsp;nich dyskutować i&nbsp;się o&nbsp;nie spierać, zmuszają do reakcji również podmioty realizujące miejskie strategie związane z&nbsp;kreowaniem ładu przestrzennego, dbające o&nbsp;estetykę i&nbsp;próbujące „uładniać” miasto, przeobrażać je zgodnie z&nbsp;aktualnymi potrzebami i&nbsp;upodobaniami dominujących grup społecznych. Materialne obrazy – oddolne ingerencje w&nbsp;przestrzeń miejską latami narastają, ignorowane, traktowane niepoważnie, stając się powszechną formą adaptacji do niej, pleniącą się wszędzie, prowadząc do całkowitego nią zawładnięcia. Dzięki swojej niewidzialności stają się tak powszechne, że&nbsp;nie sposób już z&nbsp;nimi walczyć: jedyne, co pozostaje, to je oswoić, próbować nadać im formę choć trochę upodobniającą je do obrazów silnych, wyznaczających standardy estetycznej normalności. Przekonującym przykładem sprawczości obrazów słabych jest oczywiście nielegalna reklama, zwłaszcza w&nbsp;skali mikro, promująca niewielkie przedsięwzięcia ekonomiczne za&nbsp;pomocą chałupniczych szyldów i&nbsp;standów, banerów wieszanych na&nbsp;płotach, ulotek i&nbsp;plakatów. To ona, nie zaś tylko wielkie miejskie <em>pop-upy</em> zasłaniające centra handlowe i&nbsp;biurowce, włada miastami, zwłaszcza małymi i&nbsp;średnimi. To ona jest estetyczną dominantą nadającą koloryt polskim miejscowościom. Dominantą, której obecność przegapiono właśnie dlatego, że&nbsp;ignorowano jej znaczenie, nie traktowano jej wystarczająco poważnie.</p> <p>Innym przykładem siły obrazów słabych są środowiskowe mody, zwłaszcza rodzące się w&nbsp;zdominowanych grupach społecznych, wspierane przez kulturę bazarową i&nbsp;naręczną oferującą produkty niedostępne w&nbsp;sklepach sieciowych i&nbsp;w centrach handlowych, a&nbsp;upowszechniane dzięki procesowi dyfuzji – rozlewania się<em> (trickle across)</em><sup><a href="#sdfootnote48sym" name="sdfootnote48anc">48</a></sup>. Chodzi mi o&nbsp;trendy, które rodzą się wśród osób podobnych do siebie ze względu na&nbsp;ich stosunkowo niski status materialny, a&nbsp;przez to niezdolnych do pełnego uczestnictwa w&nbsp;rynku. Wytwarzają one interakcyjnie własne standardy określające właściwy i&nbsp;pożądany wygląd, normalność pewnych wzorów cielesności i&nbsp;sposobów posługiwania się nią oraz atrakcyjne i&nbsp;traktowane jako obowiązujące formy spędzenia wolnego czasu i&nbsp;rozrywki. W&nbsp;ostatnich dekadach tak właśnie upowszechniały się mody na&nbsp;męskie „białe skarpetki”, kobiece „białe kozaki”, reklamówki i&nbsp;kraciaste torby zakupowe, na&nbsp;noszenie obuwia w&nbsp;stylu chodaków firmy Crocs i&nbsp;urządzanie mieszkań z&nbsp;użyciem tzw. mebli holenderskich, na&nbsp;grillowanie i&nbsp;na napoje energetyzujące (zwłaszcza te z&nbsp;„przemocowymi” nazwami, jak Vader, Tiger, Dominator, Red Diabolo, Pitbull, Kamikaze itd.), na&nbsp;tzw. dopalacze<em>, disco polo</em>, i&nbsp;wiele innych. Ich cechą wspólną jest obywanie się bez widzialności porównywalnej z&nbsp;tą, której wymaga uruchomienia mainstreamowych trendów kulturowych i&nbsp;mód. Upowszechniają się one za&nbsp;pośrednictwem lokalnych trendsetterów, którymi są osoby z&nbsp;najbliższego otoczenia, znajomi z&nbsp;pracy i&nbsp;sąsiedzi. Bardzo szybko jednak osiągają one punkt krytyczny, po&nbsp;którego przekroczeniu stają się wszechobecne i&nbsp;przekształcają się w&nbsp;obiekt drwin i&nbsp;moralizowania na&nbsp;temat braku gustu ze strony kuratorów widzialności reprezentujących dominujące grupy społeczne. Ich łkania i&nbsp;próby regulacji sfery widzialności są przeciwskuteczne. Zderzają się bowiem z&nbsp;formami istnienia obrazów zakorzenionymi silnie w&nbsp;codziennych praktykach i&nbsp;dających poczucie bycia we wspólnocie, a&nbsp;w efekcie odpornych na&nbsp;formalistyczną krytykę elit. Elit, których jedynym argumentem jest dobry, bo&nbsp;prawomocny, gust, zaś bronią – kontrola nad zmedializowanym polem wizualnym.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote1anc" name="sdfootnote1sym">1</a>Zob. artykuł na stronie internetowej BBC: <em>Spanish fresco restoration botched by amateur</em>, BBC online, 23 sierpnia 2012, <a href="http://www.bbc.com/news/world-europe-19349921" target="_blank" rel="noopener">http://www.bbc.com/news/world-europe-19349921</a>, dostęp 15 maja 2015.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote2anc" name="sdfootnote2sym">2</a> Dwa duże materiały na ten temat zostały pokazane 22 września 2012 roku w głównych wydaniach Faktów TVN oraz Wiadomości TVP, a następnie kilkakrotnie powtórzone w kanałach informacyjnych TVN 24 i TVP Info.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote3anc" name="sdfootnote3sym">3</a> Memy te można podzielić na cztery kategorie: żartobliwie trawestowały nieudany akt konserwacji; pokazywały inne dzieła sztuki tak, jakby zostały one poprawione przez Giménez; lokowały <em>Ecce Homo</em> w kontekście ikonicznych przedstawień popkultury; podkreślały subwersywną moc gestu autorki, porównując go do wywrotowej <em>street art</em> czy rewolucyjnych aktów sabotażu.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote4anc" name="sdfootnote4sym">4</a> Chodzi tu o scenę z filmu <em>Jaś Fasola. Nadciąga totalny kataklizm</em> (<em>Bean. The Ultimate Disaster Movie</em>, reż. Mel Smith, 1997), w której nieudolny pracownik muzealny grany przez Rowana Atkinsona, doprowadza najpierw do przypadkowego zniszczenia, a potem destrukcyjnej konserwacji obrazu Jamesa McNeilla Whistlera <em>Portret matki</em> (1871).</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote5anc" name="sdfootnote5sym">5</a> Zob. <em>Ecce dinero. Spanish turn ruined Christ fresco into money-spinner</em>, „The Guardian” online, 14 sierpnia 2013, <a href="http://www.theguardian.com/artanddesign/2013/aug/14/ruined-christ-fresco-money-spinner" target="_blank" rel="noopener">http://www.theguardian.com/artanddesign/2013/aug/14/ruined-christ-fresco-money-spinner</a>, dostęp 22 września 2015.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote6anc" name="sdfootnote6sym">6</a> Zob. tekst petycji i podpisy na portalu „Change.org”: <a href="https://www.change.org/p/ayuntamiento-de-borja-zaragoza-mantenimiento-de-la-nueva-versi%C3%B3n-del-ecce-homo-de-borja" target="_blank" rel="noopener">https://www.change.org/p/ayuntamiento-de-borja-zaragoza-mantenimiento-de-la-nueva-versi%C3%B3n-del-ecce-homo-de-borja</a>, dostęp 22 września 2015.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote7anc" name="sdfootnote7sym">7</a> Zob. Dorjeen Carvajal, <em>A Town, if Not a Painting, Is Restored</em>, „New York Times” online, 14 grudnia 2014, <a href="http://www.nytimes.com/2014/12/15/world/a-town-if-not-a-painting-is-restored.html?_r=0" target="_blank" rel="noopener">http://www.nytimes.com/2014/12/15/world/a-town-if-not-a-painting-is-restored.html?_r=0</a>, dostęp 22 września 2015.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote8anc" name="sdfootnote8sym">8</a> Por. dokumentacja wystawy na stronie grupy: <a href="http://wallpeople.org/en/index.php/in-tribute-to-the-ecce-homo/" target="_blank" rel="noopener">http://wallpeople.org/en/index.php/in-tribute-to-the-ecce-homo/</a>, dostęp 22 września 2015.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote9anc" name="sdfootnote9sym">9</a> Używam tu słowa plagiat w powszechnie przyjmowanym sensie, zgodnie z którym oznacza ono działanie polegające na przywłaszczeniu czyjegoś dzieła lub jego fragmentu i wykorzystanie go we własnym utworze bez wskazania na źródło tego zapożyczenia.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote10anc" name="sdfootnote10sym">10</a> Zob. Jesus Monkey restoration eclipses original, „The History Blog”, wpis z 23 sierpnia 2013, <a href="http://www.thehistoryblog.com/archives/19167" target="_blank" rel="noopener">http://www.thehistoryblog.com/archives/19167</a>, dostęp 22 września 2015.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote11anc" name="sdfootnote11sym">11</a> Warto podkreślić, że odróżnienie tych dwu kategorii nie jest zabiegiem stylistycznym, lecz raczej wyraża dwoistość sposobów mówienia o słabości obrazów. Mogą być one słabe ze względu na skutki, jakie wywołują, bądź swe techniczne własności (wówczas używam sformułowania słabe obrazy), albo ze względu na marginalną pozycję i deficyty władz tych, którzy je stwarzają (w odniesieniu do nich używam kategorii obrazy słabych). W tym artykule próbuję pokazywać te dwie kategorie obrazów nie tylko jako odrębne, ale również czasami zupełnie niepowiązane. Oznacza to, że słabi nie tworzą wyłącznie słabych obrazów, zaś ci, którzy dominują, nie kreują tylko mocnych, sprawczych przedstawień.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote12anc" name="sdfootnote12sym">12</a> Anthony Giddens, <em>Stanowienie społeczeństwa. Zarys teorii strukturacji</em>, przeł. S. Amsterdamski, Zysk i S-ka, Poznań 2003, s. 53.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote13anc" name="sdfootnote13sym">13</a> Należy oczywiście zwrócić uwagę (za to spostrzeżenie dziękuję Maciejowi Frąckowiakowi), że silne obrazy to również te, które mają zdolność do powstrzymywania zmiany, są zatem współodpowiedzialne za reprodukowanie porządku społecznego.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote14anc" name="sdfootnote14sym">14</a> Zob. Scott Lash, Celia Lury, <em>Globalny przemysł kulturowy. Medializacja rzeczy</em>, przeł. J. Majmurek, R. Mitoraj, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2011; Marek Krajewski, <em>Przedmiot, który dyskredytuje. Obciach i kultura materialna</em>, w: <em>Moda na obciach. Materiały z Ogólnopolskiej Konferencji Kulturoznawczej „Moda na obciach. Co Polacy robią z kulturą popularną?”</em>, red. J. Nowiński, Wyd. Wilk Stepowy, Elbląg 2008, s. 201–212.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote15anc" name="sdfootnote15sym">15</a> Gottfried Boehm, <em>O obrazach i widzeniu. Antologia tekstów</em>, przeł. M. Łukasiewicz, A. Pieczyńska-Sulik, Universitas, Kraków 2014, s. 99–101.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote16anc" name="sdfootnote16sym">16</a> Nicolas Abercrombie, Scott Lash, Brian Longhurst, <em>Przedstawienie popularne. Przerabianie realizmu</em>, przeł. E. Mrowczyk-Hearfield, w: <em>Odkrywanie modernizmu</em>, red. R. Nycz, Universitas, Kraków 2004, s. 381–417.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote17anc" name="sdfootnote17sym">17</a> Jacques Rancière, <em>Estetyka jako polityka</em>, przeł. J. Kutyła, P. Mościcki, Wydawnictwo Krytyki Politycznej, Warszawa 2007, s. 43–66; David Freedberg, <em>Potęga wizerunku. Studia z historii i teorii oddziaływania</em>, przeł. E. Klekot, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2005.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote18anc" name="sdfootnote18sym">18</a> Tom Gunning, <em>The Aesthetic of Astonishment: Early Film and the (In)credulous Spectator</em>, w:<em> Film Theory. Critical Concepts in Media and Cultural Studies</em>, red. P. Simpson, A. Utterson, K.J. Shepherdson, Taylor &amp; Francis, New York–London 2004; Ben Stigler, <em>Obrazy fotografii. Album metafor fotograficznych</em>, przeł. J. Czudec, Universitas, Kraków 2009; Jan B. Deręgowski, <em>Oko i obraz. Studium psychologiczne</em>, Państwowe Wydawnictwo Naukowe, Warszawa 1990; Wiaczesław Demidow, <em>Patrzeć i widzieć</em>, przeł. W. Chołodowski, Wydawnictwo Czasopism i Książek Technicznych NOT-SIGMA, Warszawa 1989.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote19anc" name="sdfootnote19sym">19</a> Zob. Magda Szcześniak, <em>Wizualne konstruowanie tożsamości w polskiej przestrzeni publicznej po 1989 roku</em>, Warszawa 2014 (niepublikowana rozprawa doktorska); Marek Krajewski, <em>Koniec lat 80-tych. Rewolucja wyobraźni</em>, w: Mariusz Forecki, <em>I love Poland</em>, ZPF, Poznań 2009.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote20anc" name="sdfootnote20sym">20</a> Susan Sontag, <em>Regarding the Torture of Others</em>, „New York Times Magazine” online, 23 maja 2004, <a href="http://www.nytimes.com/2004/05/23/magazine/regarding-the-torture-of-others.html?pagewanted=all" target="_blank" rel="noopener">http://www.nytimes.com/2004/05/23/magazine/regarding-the-torture-of-others.html?pagewanted=all</a><br> dostęp 16 października 2015; Judith Butler, <em>Ramy wojny. Kiedy życie godne jest opłakiwania?</em>, przeł. A. Czarnacka, Książka i Wiedza, Warszawa 2011; Slavoj Žižek, <em>To, czego Rumsfeld nie wie, że wie o Abu Ghraib</em>, przeł. J. Maciejczyk, „Recycling Idei”, 7 czerwca 2004, <a href="http://recyklingidei.pl/zizek-to-czego-rumsfeld-nie-wie-ze-wie-o-abu-ghraib" target="_blank" rel="noopener">http://recyklingidei.pl/zizek-to-czego-rumsfeld-nie-wie-ze-wie-o-abu-ghraib</a>, dostęp 16 października 2015.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote21anc" name="sdfootnote21sym">21</a> Jean Baudrillard, <em>Duch terroryzmu. Requiem dla Twin Towers</em>, przeł. R. Lis, Wyd. Sic!, Warszawa 2005.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote22anc" name="sdfootnote22sym">22</a> Hito Steyerl, <em>W obronie nędznego obrazu</em>, przeł. Ł. Zaremba, „Konteksty” 2013, nr 3, s. 101–105;<br> Łukasz Zaremba, <em>Męki obrazów</em>, „Widok. Teorie i praktyki kultury wizualnej” 2014, nr 5, <a href="http://pismowidok.org/index.php/one/article/view/169/284" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/article/view/169/284</a>.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote23anc" name="sdfootnote23sym">23</a> Na ten temat zob. Gregor Muir, <em>Lucky Kunst. Rozkwit i upadek Young British Art</em>, przeł. I. Sak, Karakter–Muzeum Sztuki Nowoczesnej, Kraków–Warszawa 2013; Agnieszka Szymańska, <em>Współczesna forma skandalu artystycznego. Czy warto być artystą skandalistą?</em>, „Kultura i Społeczeństwo” 2013, nr 1, s. 117–130. Dobrymi przykładami tego typu strategii akumulacji uwagi w najnowszym kontekście polskim są między innymi próby wystawienia przez Alinę Żemojdzin kosmetyków wykonanych na bazie ludzkiego tłuszczu (CSW Łaźnia w Gdańsku, 2009), skandalizujące prace grupy Krasnals czy strategie promowania wystaw przez poznańską galerię Abnormals.</p>
+<p></p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote24anc" name="sdfootnote24sym">24</a> Prekursorką strategii marketingowych opartych na epatowaniu odbiorców szokującymi obrazami jest niewątpliwie firma Benetton, która od końca lat 80., z inicjatywy Oliviera Toscaniego projektującego wówczas jej kampanie reklamowe, próbowała w ten sposób zwrócić uwagę na swoje produkty (na temat strategii marketingowych Benettona zob. Olivier Toscani, <em>Reklama. Uśmiechnięte ścierwo</em>, przeł. M. Misiorny, Agencja Wydawnicza Delta, Warszawa 1997). Określam tego rodzaju działania jako produkcję pozornie silnych obrazów, ponieważ są one czymś, czego odbiorca oczekuje, podobnie jak widz idący do kina na horror oczekuje, że w trakcie seansu będzie się bał.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote25anc" name="sdfootnote25sym">25</a> W.J.T. Mitchell, <em>Czego chcą obrazy? Pragnienia przedstawień, życie i miłości obrazów</em>, przeł. Ł. Zaremba, Narodowe Centrum Kultury, Warszawa 2013, s. 155–173.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote26anc" name="sdfootnote26sym">26</a> Todd McGowan, <em>Realne spojrzenie. Teoria filmu po Lacanie</em>, przeł. K. Mikurda, Wydawnictwo Krytyki Politycznej, Warszawa 2008.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote27anc" name="sdfootnote27sym">27</a> Jenkins przeciwstawia ten model upowszechniania obrazów innemu, opartemu na strategii szoku. Rozprowadzalność to zatem pewna potencja zawarta w samym obrazie, która sprawia, że chcemy się nim dzielić z innymi. Zob. Henry Jenkins, <em>If It Doesn’t Spread, It’s Dead (Part One). Media Viruses and Memes</em>, wpis na blogu z 11 lutego 2009, <a href="http://henryjenkins.org/2009/02/if_it_doesnt_spread_its_dead_p.html" target="_blank" rel="noopener">http://henryjenkins.org/2009/02/if_it_doesnt_spread_its_dead_p.html</a>, dostęp 22 września 2015; Henry Jenkins, Sam Ford, Joshua Green, <em>Spreadable Media. Creating Value and Meaning in a Networked Culture</em>, NYU Press, Nowy Jork 2013.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote28anc" name="sdfootnote28sym">28</a> Na ten temat zob. Dean McCannell, <em>Turysta. Nowa teoria klasy próżniaczej</em>, przeł. E. Klekot, A. Wieczorkiewicz, Wyd. Muza, Warszawa 2002.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote29anc" name="sdfootnote29sym">29</a> Stephen Bann et al., <em>Francis Alÿs, Fabiola. An Investigation</em>, Dia Art Foundation, New York 2008.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote30anc" name="sdfootnote30sym">30</a> Francis Alÿs et al., <em>Francis Alÿs (Contemporary Artists)</em>, Phaidon Press, New York 2007.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote31anc" name="sdfootnote31sym">31</a> Zob. Brian Longhurst, Nick Abercrombie, <em>Audiences. A Sociological Theory of Performance and Imagination</em>, SAGE Publications, Londyn 1998; John Fiske, <em>Zrozumieć kulturę popularną</em>, przeł. K. Sawicka, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2010; <em>Kultura i hegemonia. Antologia tekstów szkoły z Birmingham</em>, red. M. Wróblewski, Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika, Toruń 2012; Stuart Hall, <em>Kodowanie i dekodowanie</em>, przeł. W. Lipnik, I. Siwiński, „Przekazy i Opinie” 1987, nr 1–2; Chris Jenks, <em>Kultura</em>, przeł. W. Burszta, Zysk i S-ka, Poznań 1999; Chris Barker, <em>Studia kulturowe. Teoria i praktyka</em>, przeł. A. Sadza, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2005; Elaine Baldwin et al., <em>Wstęp do kulturoznawstwa</em>, przeł. M. Kaczyński, J. Łoziński, T. Rosiński, Zysk i S-ka, Poznań 2007.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote32anc" name="sdfootnote32sym">32</a> Arlene Goldbard, <em>New Creative Community. The Art of Cultural Development</em>, New Village Press Oakland 2006; Miwon Kwon, <em>One Place After Another. Site-specific Art and Locational Indentity</em>, The MIT Press, Cambridge 2004; Caroline Levine, <em>Provoking Democracy. Why We Need the Arts?</em>, Wiley-Blackwell, Oxford 2007; Halina Taborska, <em>Współczesna sztuka publiczna. Dzieła i problemy</em>, Wiedza i Życie, Warszawa 1997; <em>Dialogues in Public Art</em>, red. T. Finkelpearl, The MIT Press, Cambridge 2001; Malcolm Miles, <em>Art Space and the City. Public Art and Urban Futures</em>, Routledge, London 2000; Grzegorz Dziamski, <em>Sztuka publiczna</em>, „Kultura i Społeczeństwo” 2005, nr 1; Marek Krajewski, <em>Co to jest sztuka publiczna</em>, „Kultura i Społeczeństwo” 2005, nr 1; Lucy Lippard, <em>Foreword</em>, w: <em>Toward a People's Art. The Contemporary Mural Movement</em>, red. E. Cockcroft, J.P. Weber, B. Keppel, University of New Mexico Press, Albuquerque 1998; Peter Selz, Susan <em>Art of Engagement. Visual Politics in California and Beyond</em>, University of California Press, Berkeley 2006. Na temat krytyki tego partycypacyjnego modelu sztuki zob. Claire Bishop, <em>Artificial Hells. Participatory Art and the Politics of Spectatorship</em>, Verso, London–New York 2012.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote33anc" name="sdfootnote33sym">33</a> Zob. Joseph Beuys,<em> Teksty, komentarze, wywiady</em>, red. J. Jedliński, Akademia Ruchu–Centrum Sztuki Współczesnej, Warszawa 1990, s. 71–77.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote34anc" name="sdfootnote34sym">34</a> Lawrence Lessig, <em>Wolna kultura</em>, przeł. P. Białokozowicz et al., Wydawnictwa Szkolne i Pedagogiczne, Warszawa 2005; idem,<em> Remix. Aby sztuka i biznes rozkwitały w hybrydowej gospodarce</em>, przeł. R. Próchniak, Wydawnictwa Akademickie i Profesjonalne, Warszawa 2009.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote35anc" name="sdfootnote35sym">35</a> Jaron Lanier, <em>You are not a gadget. A Manifesto</em>, Vintage, Nowy Jork 2010.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote36anc" name="sdfootnote36sym">36</a> Zob. Dubravka Ugrešić, <em>Kultura karaoke</em>, przeł. D. Jovanka Ćirlić, korporacja ha!art, Kraków 2013, s. 55–65.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote37anc" name="sdfootnote37sym">37</a> Zob. Graham Murdock, <em>Media, kultura i ekonomia: krytyczne pytania. Antologia tekstów</em>, red. J. Fras, przeł. M. Łuczak, Wydawnictwo Naukowe Dolnośląskiej Szkoły Wyższej, Wrocław 2010.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote38anc" name="sdfootnote38sym">38</a> Hito Steyerl, <em>W obronie nędznego obrazu</em>...</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote39anc" name="sdfootnote39sym">39</a> Ciekawe w tym kontekście jest powstawanie serwisów sieciowych alternatywnych wobec masowych. Wyróżnia je dobra albo bardzo dobra jakość zamieszczanych treści. Wystarczy porównać YouTube z Vimeo, Fotkę.pl z Instagramem, aby dostrzec, że środowiska produkujące profesjonalne obrazy próbują ukryć ich nędzę, „podkręcając” jakość cyfrowej reprezentacji.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote40anc" name="sdfootnote40sym">40</a> G.W.F. Hegel, <em>Fenomenologia ducha</em>, t. 1, przeł. A. Landman, Państwowe Wydawnictwo Naukowe, Warszawa 1963, s. 221–229.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote41anc" name="sdfootnote41sym">41</a> Na temat kategorii kultury prawomocnej i jej roli w reprodukowaniu społecznego porządku zob. m.in. Pierre Bourdieu, <em>Dystynkcja. Społeczna krytyka władzy sądzenia</em>, przeł. P. Biłos, Wydawnictwo Naukowe Scholar, Warszawa 2005; Pierre Bourdieu, J.C. Passeron, <em>Reprodukcja. Elementy teorii systemu nauczania</em>, przeł. E. Neyman, Państwowe Wydawnictwo Naukowe, Warszawa 1990; Pierre Bourdieu, <em>Photography. A Middle-brow Art</em>, Stanford University Press, Stanford 1990.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote42anc" name="sdfootnote42sym">42</a> Mówiąc o obrazach, nie mam tu na myśli tylko zdjęć zamieszczanych na omawianych tu stronach (choć i tego rodzaju przedstawienia wytwarzają słabi, a następnie są one przechwytywane przez twórców tego rodzaju portali), ale też stylizacje, pozy i przestrzenie tworzone przez słabych, a następnie fotografowane przez kuratorów gustu. Na temat obrazów trójwymiarowych, wizerunków i przestrzeni jako obrazów zob. Rudolf Wittkower, <em>Interpretacja symboli wizualnych</em>, przeł. A. Morawińska, w: <em>Symbole i symbolika</em>, red. M. Głowiński, PIW, Warszawa 1990.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote43anc" name="sdfootnote43sym">43</a> Używając słowa norma odnoszę się do takiego jego znaczenia, w którym oznacza ono powszechność i akceptowalność pewnego zjawiska, zachowania, procesu.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote44anc" name="sdfootnote44sym">44</a> Zob. <em>Niewidzialne miasto</em>, red. M. Krajewski, Fundacja Bęc Zmiana, Warszawa 2012. Zob. też strona projektu: <a href="http://www.niewidzialnemiasto.pl/" target="_blank" rel="noopener">www.niewidzialnemiasto.pl</a>.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote45anc" name="sdfootnote45sym">45</a> Na ten temat zob. Richard A. Peterson, Roger M. Kern, <em>Changing Highbrow Taste. From Snob to Omnivore</em>, „American Sociological Review” 1996, nr 5; Tally Katz-Gerro, Mads Meier Jæger, <em>Top of the Pops. Ascend of the Omnivores, Defeat of the Couch Potatoes: Modeling Change in Cultural Consumption</em>, „European Sociological Review” 2013, vol. 29, nr 2, s. 243–260; Seweryn Grodny, Jerzy Gruszka, Kamil Łuczaj, <em>O zawężeniu wyższego gustu estetycznego. Analiza zjawiska wszystkożerności kulturowej w Polsce</em>, „Studia Socjologiczne” 2013, nr 2.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote46anc" name="sdfootnote46sym">46</a> Marek Krajewski, <em>Przeciw inżynierii wizualnej. Ożywianie i uśmiercanie miasta</em>, w: <em>Sztuka – kapitał kulturowy polskich miast</em>, red. E. Rewers, A. Skórzyńska, Wydawnictwo Naukowe Uniwersytetu im. Adama Mickiewicza, Poznań 2010.</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote47anc" name="sdfootnote47sym">47</a> Marek Krajewski, <em>Dyskretna niezgoda. Opór i kultura materialna</em>, „Kultura Współczesna” 2010, nr 2 (64).</p>
+<p><a href="http://pismowidok.org/index.php/one/article/view/267/512#sdfootnote48anc" name="sdfootnote48sym">48</a> Nawiązuję tu do modelu upowszechniania się mody zaproponowanego przez Herberta Blumera, ale nie aplikuję go do masowego rynku, lecz do mód środowiskowych i wewnątrzklasowych. Zob. Herbert Blumer, <em>Fashion. From Class Differentiation to Collective Selection</em>, „The Sociological Quarterly” 1969, nr 3; zob. też Cynthia Overbeck Bix, <em>Fad Mania! A History of American Crazes</em>, 21st Century Books, Minneapolis 2014; Hilary Evans, Robert E. Bartholomew, <em>Outbreak. The Encyclopedia of Extraordinary Social Behavior</em>, Anomalist Books, San Antonio 2009.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2015/slabe-obrazy" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

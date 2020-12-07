@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Między materialnością rzeczy a obrazem miasta | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/20-2018-odmuzealnienie/miedzy-materialnoscia-rzeczy-a-obrazem-miasta">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Między materialnością rzeczy a obrazem miasta | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Między materialnością rzeczy a obrazem miasta | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/20-2018-odmuzealnienie/miedzy-materialnoscia-rzeczy-a-obrazem-miasta">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Między materialnością rzeczy a obrazem miasta | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ce0058 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ce0058 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ce0058 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ce0058 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ce0058 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ce0058 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+			/* background-color:#ce0058 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(206,0,88,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ce0058 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ce0058; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ce0058 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ce0058 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ce0058 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-469 parent-id-361">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="333" data-selected-issue-color="#ce0058" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/20-2018-demusealization#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/20-2018-demusealization/between-the-materiality-of-things-and-the-image-of-the-city">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/20-2018-odmuzealnienie#toc">20</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-20/20-wisniewska.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Między materialnością rzeczy a obrazem miasta</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-20/20-wisniewska.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=468">Maria Wiśniewska</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p><b><em>Rzeczy warszawskie</em> (odsłona pierwsza), wystawa stała Muzeum Warszawy, zespół kuratorski kierowany przez Jarosława Trybusia</b></p> <p><br><br></p> <p>Wybór strategii wystawienniczej, zaraz obok wyboru tematu wystawy, wydaje się najbardziej istotny dla skuteczności muzealnego spotkania, jeśli skuteczność rozumieć będziemy jako zgodność między opowieścią, którą zamierzali przedstawić twórcy wystawy, a&nbsp;opowieścią konstruowaną przez widzów podczas jej oglądania. Wychodząc z&nbsp;założenia, że&nbsp;na tak pojętej zgodności można oprzeć projekt wspólnot o&nbsp;różnym zasięgu (dzielnicy, miasta wsi, regionu, kraju), zastanowię się nad tym, jakiego rodzaju wspólnota konstruowana jest w&nbsp;Muzeum Warszawy. Zwrócę uwagę zwłaszcza na&nbsp;rozwiązania aranżacyjne rozumiane jako warunki „spotkania” zwiedzającego muzeum z&nbsp;tematem wystawy. Celem będzie zaś namysł nad sposobem opowiadania o&nbsp;przeszłości i&nbsp;współczesności Warszawy za&nbsp;pomocą aranżacji muzealnej i&nbsp;wyboru narzędzi tworzenia relacji mieszkańców i&nbsp;przyjezdnych z&nbsp;miastem.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/wisniewska/2d-1920x-bfc.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/wisniewska/2d-330x-a6a.jpg 330w,assets/cache/images/issues/2018/20/wisniewska/2d-660x-804.jpg 660w,assets/cache/images/issues/2018/20/wisniewska/2d-768x-31c.jpg 768w,assets/cache/images/issues/2018/20/wisniewska/2d-1320x-630.jpg 1320w" src="assets/cache/images/issues/2018/20/wisniewska/2d-660x-804.jpg" alt="" ></a>    <figcaption><p>Ekspozycja Muzeum Warszawy.</p> <p>Fot. Marcin Czechowicz</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Otwarta dla zwiedzających w&nbsp;maju 2017 roku nowa wystawa stała w&nbsp;Muzeum Warszawy, zatytułowana <em>Rzeczy warszawskie</em>, jest dobrym materiałem do tak zakrojonej analizy. Po&nbsp;pierwsze bowiem poświęcona jest określonemu terytorium, z&nbsp;którym zarówno mieszkańcy, jak i&nbsp;przyjezdni mogą się identyfikować. Po&nbsp;drugie jej twórcy wykonali zdecydowany gest, proponując obcowanie z&nbsp;przeszłością i&nbsp;teraźniejszością miasta za&nbsp;pośrednictwem materialnych wytworów, autentycznych przedmiotów. W&nbsp;wyniku tej decyzji pewni bohaterowie, zjawiska i&nbsp;wydarzenia z&nbsp;przeszłości zyskują na&nbsp;znaczeniu kosztem innych. W&nbsp;procesie konstruowania ekspozycji kuratorzy powoływali się na&nbsp;rozważania norweskiego archeologa Bjørnara Olsena<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>, postulującego „powrót do rzeczy”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. W&nbsp;książce <em>W obronie rzeczy </em>Olsen uporządkował teorie, których twórcy próbowali zwrócić rzeczom podmiotowość, oddać im głos jako bytom istniejącym dla siebie, a&nbsp;nie tylko dla świata ożywionego. Przekonująco dowiódł, że&nbsp;rzeczy posiadają sprawczość, mają realny wpływ na&nbsp;rzeczywistość. Szczególnie mocno sprzeciwiał się „szeroko rozpowszechnionemu przekonaniu, że&nbsp;najbardziej ponętne znaczenie rzeczy zawsze wynika z&nbsp;pełnionych przez nie symbolicznych i&nbsp;przedstawieniowych funkcji, podczas gdy ich codzienne nawykowe użytkowanie jest banalne”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. W&nbsp;kontekście wystawy warto zauważyć przede wszystkim uwagę poświęconą cechom fizycznym rzeczy i&nbsp;sposobom, na&nbsp;jakie ta materialność warunkuje charakter i&nbsp;pole relacji między rzeczami a&nbsp;otoczeniem. Ważna wydaje się również teza Olsena o&nbsp;sprawczości przedmiotów, mających realny wpływ na&nbsp;działanie wszelkiej materii ożywionej, w&nbsp;tym także człowieka. Czy jednak aranżacja ekspozycji <em>Rzeczy warszawskie</em> podkreśla sprawczość przedmiotów, czy może, wbrew intencji Olsena, uwypukla ich rolę symboliczną i&nbsp;przedstawieniową?</p> <p><em>Rzeczy warszawskie</em> pokazywane są w&nbsp;kilku kamienicach północnej pierzei Rynku Starego Miasta. W&nbsp;pierwszej odsłonie wystawy z&nbsp;planowanych dwudziestu jeden tematycznych gabinetów udostępniono osiem. Zwiedzanie rozpoczyna się od piwnic, gdzie mieści się Gabinet Archeologiczny oraz dwie części uzupełniające wystawę: <em>Dane warszawskie</em> oraz <em>Dzieje kamienic</em>. Na&nbsp;parterze zwiedzający napotyka Gabinet Syren Warszawskich, Pomników Warszawskich, Suwenirów oraz Pocztówek. Na&nbsp;pierwszym piętrze obejrzeć można Gabinet Portretów, a&nbsp;na drugim Gabinet Sreber i&nbsp;Platerów Warszawskich oraz Portretów<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>.</p> <p>Choć ekspozycja nie ma z&nbsp;góry określonego planu zwiedzania, pracownicy muzeum kierują zwiedzających do piwnic, by następnie przechodzili w&nbsp;górę po&nbsp;kolejnych piętrach i&nbsp;salach. Pierwsze więc, co widz napotyka na&nbsp;swojej drodze, to <em>Dane warszawskie</em> – tablice wypełnione tekstem, wykresami i&nbsp;infografikami objaśniającymi najważniejsze zdaniem twórców wystawy dane statystyczne dotyczące życia miasta (między innymi jego przestrzenny, demograficzny i&nbsp;architektoniczny rozwój oraz  przeobrażenia cywilizacyjne). Jest to wprowadzenie „dostarczające podstawowej wiedzy tym, którzy po&nbsp;raz pierwszy stykają się z&nbsp;miastem, a&nbsp;jednocześnie może stanowić punkt wyjścia do pogłębionej refleksji dla tych, którzy Warszawę już znają”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/wisniewska/1d-1920x-bfc.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/wisniewska/1d-330x-a6a.jpg 330w,assets/cache/images/issues/2018/20/wisniewska/1d-660x-804.jpg 660w,assets/cache/images/issues/2018/20/wisniewska/1d-768x-31c.jpg 768w,assets/cache/images/issues/2018/20/wisniewska/1d-1320x-630.jpg 1320w" src="assets/cache/images/issues/2018/20/wisniewska/1d-660x-804.jpg" alt="" ></a>    <figcaption><p>Ekspozycja Muzeum Warszawy.</p> <p>Fot. Marcin Czechowicz</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Warto zauważyć nieoczywistość tego pozornie przezroczystego rozwiązania, zastanawiającego zwłaszcza na&nbsp;wystawie poświęconej przedmiotom. Kuratorzy, jak się wydaje, hołdują przekonaniu o&nbsp;konieczności zaszczepienia podstawowej wiedzy zwiedzającym oraz zburzenia narosłych stereotypów za&nbsp;pomocą statystyk. Takie podejście faworyzuje narracje „makroskalowe” i&nbsp;nastawione jest na&nbsp;widzów przyzwyczajonych do prób całościowego ujęcia przeszłości. Zdradza zarazem przekonanie kuratorów, że&nbsp;mieszkańcy oraz przyjezdni budują związki z&nbsp;miastem za&nbsp;pomocą faktograficznej, książkowej wiedzy: tworzenie emocjonalnych łączników z&nbsp;materialnością miasta ma być ufundowane na&nbsp;analizie danych statystycznych. Może to również świadczyć o&nbsp;nieufności kuratorów w&nbsp;stosunku do przyjętej przez nich samych strategii prezentacji przedmiotów. Tak jakby obraz miasta, jaki wyłania się dzięki spotkaniu człowieka z&nbsp;przedmiotem, był niepełny bez danych tekstualnych wyrażonych za&nbsp;pomocą „abstrakcyjnego języka matematyki”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>.</p> <p>Właściwą część wystawy poprzedza jeszcze sekcja <em>Dzieje kamienic</em>, prezentująca makiety siedzib muzeum z&nbsp;roku 1938, 1945 i&nbsp;1964. Zwracają one uwagę na&nbsp;architekturę i&nbsp;materialność budynków jako pierwotnego kontekstu funkcjonowania przedmiotów. Uzmysławiają również stopień przeobrażenia się miasta w&nbsp;stosunkowo krótkim, ale ważnym okresie od lat 30. do 60. XX wieku. Aranżacja całej wystawy jest zresztą stworzona tak, by podkreślić funkcje i&nbsp;wystrój kamienic poprzez zaznaczenie elementów architektonicznych, dawnych urządzeń, ekspozycje polichromii na&nbsp;sufitach oraz zachowanie pierwotnych materiałów, z&nbsp;których wzniesiono budynki. Dzięki tym zabiegom sama kamienica staje się pierwszą rzeczą warszawską.</p> <h2>Sprawczość rzeczy</h2> <p>Ekspozycja rozpoczyna się krótkim opisem założeń kuratorskich, przygotowującym na&nbsp;spotkanie z&nbsp;„rzeczami codziennymi i&nbsp;odświętnymi, dziełami sztuki i&nbsp;przedmiotami użytkowymi, pamiątkami po&nbsp;ludziach”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. Kuratorzy zachęcają odwiedzających, by potraktowali przedmioty tak, jak traktują rzeczy towarzyszące im w&nbsp;życiu codziennym. „Staraliśmy się stworzyć warunki do bliskiego kontaktu z&nbsp;nimi [rzeczami]”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Temu postulatowi przeczy jednak sama aranżacja, pozwalająca jedynie na&nbsp;przyglądanie się przedmiotom. W&nbsp;Gabinecie Archeologicznym oraz Gabinecie Platerów i&nbsp;Sreber Warszawskich przedmioty umieszczone zostały w&nbsp;gablotach-szafach; w&nbsp;Gabinecie Portretów, Widoków Warszawy i&nbsp;Pocztówek zawieszone są na&nbsp;ścianach; w&nbsp;Gabinecie Syren Warszawskich oraz Suwenirów znajdują się w&nbsp;szklanych gablotach; w&nbsp;Gabinecie Miniatur oraz Pomników Warszawskich, mimo że&nbsp;nie są oddzielone od widza, nie można ich dotknąć. Aranżacja sal wystawowych stawia więc wyraźną i&nbsp;dosłowną granicę między obiektami muzealnymi a&nbsp;widzami.</p> <p>Wybór przedmiotów spośród blisko trzystu tysięcy obiektów znajdujących się w&nbsp;zbiorach muzeum ujawnia chęć przedstawienia obrazu przeszłości jako składającego się ze zwykłych obiektów kultury materialnej, które, gdyby funkcjonowały poza kontekstem instytucji tego typu, pozostawałyby na&nbsp;marginesach widzialności. Czy jednak takie ujęcie nie zmienia przedmiotów na&nbsp;tyle, że&nbsp;zaciera całkowicie wernakularne sposoby ich wykorzystania? To przecież właśnie instytucja muzeum określa przedmioty jako warte uwagi i&nbsp;namysłu. Co więcej, muzealna rama podkreśla, że&nbsp;przeszłość składała się również ze  zwykłych wydarzeń, do których możemy mieć tylko fragmentaryczny, nieciągły dostęp; wydarzeń, które zazwyczaj nie są postrzegane jako ważne, a&nbsp;jednak miały bezpośredni wpływ na&nbsp;życie ludzi. Nie widać w&nbsp;tym przypadku prób stworzenia za&nbsp;pomocą przedmiotów wiernej inscenizacji historii. Dzięki temu widz nie otrzymuje złudnego wrażenia, że&nbsp;możliwe jest odtworzenie całościowego obrazu przeszłości. Zwiedzający powinni zgodzić się na&nbsp;tak niesatysfakcjonującą wizję dziejów, a&nbsp;co za&nbsp;tym idzie – także wizję swojego pochodzenia.</p> <p>Pierwszy z&nbsp;dwudziestu jeden gabinetów wystawy <em>Rzeczy warszawskie</em> mieści się w&nbsp;podziemiach. W&nbsp;Gabinecie Archeologicznym obiekty wyeksponowane są w&nbsp;dużych czarnych szafach o&nbsp;przeszklonych frontach i&nbsp;minimalistycznej formie. W&nbsp;każdym pomieszczeniu znajduje się jedna, najwyżej dwie gabloty, więc ekspozycja sprawia wrażenie przestronnej. W&nbsp;szafach oglądać można przedmioty znalezione podczas wykopalisk prowadzonych na&nbsp;terenie Warszawy. Gabinet wypełniają kafle, plansze do gier, drewniane fajki, nocniki, garnki, naczynia aptekarskie i&nbsp;wiele innych. Widz ogląda więc zarówno rzeczy pochodzące z&nbsp;okresu powstawania miasta, jak i&nbsp;znacznie późniejsze, bo&nbsp;dziewiętnastowieczne przedmioty użytkowe i&nbsp;dekoracyjne. Są bardzo dobrze oświetlone, a&nbsp;niektóre szyby wyposażono dodatkowo we wbudowaną lupę. Taki sposób aranżacji, choć podkreśla wizualny wymiar rzeczy, buduje dystans. Obiekty są wyraźnie oddzielone od widzów, wnętrza kamienic oraz od siebie nawzajem.</p> <p>Kuratorzy rozmijają się więc z&nbsp;deklaracją, zgodnie z&nbsp;którą przedmioty „pozwalają przyjrzeć się w&nbsp;szerszej perspektywie zmianom zachodzącym w&nbsp;kulturze materialnej”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>. Krótkie opisy informujące o&nbsp;czasie powstania, miejscu znalezienia i&nbsp;(czasami) materiale, z&nbsp;którego wykonano przedmiot, znajdują się na&nbsp;tablicach wmontowanych w&nbsp;wysuwane z&nbsp;szaf szuflady. Niewiele dowiadujemy się z&nbsp;nich jednak o&nbsp;zastosowaniach przedmiotów, ich wartościowaniu oraz innych wymiarach składających się na&nbsp;kontekst ich kulturowego życia. Oferowana przez kuratorów możliwość przyjrzenia się przedmiotom bez uprzedniego odczytania komentarza pozwala na&nbsp;wydobycie ich materialności, ale zarazem pozbawia je wspomnianej przez Olsena sprawczości.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/wisniewska/3d-1920x-028.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/wisniewska/3d-330x-ae4.jpg 330w,assets/cache/images/issues/2018/20/wisniewska/3d-660x-67d.jpg 660w,assets/cache/images/issues/2018/20/wisniewska/3d-768x-089.jpg 768w,assets/cache/images/issues/2018/20/wisniewska/3d-1320x-600.jpg 1320w" src="assets/cache/images/issues/2018/20/wisniewska/3d-660x-67d.jpg" alt="" ></a>    <figcaption><p>Ekspozycja Muzeum Warszawy.</p> <p>Fot. Marcin Czechowicz</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Innym elementem obrazu przeszłości przedstawionego w&nbsp;muzeum są przedmioty częściowo zniszczone, jak choćby filiżanki i&nbsp;spodki z&nbsp;XVIII, XIX i&nbsp;XX wieku. Dzięki nim zwiedzający mogą sobie uświadomić, że&nbsp;przedmioty tworzą kolejne, przenikające się warstwy materialności – nie przynależą do jednej epoki, lecz raczej funkcjonują na&nbsp;zasadzie palimpsestu. Poza muzeum zostałyby uznane za&nbsp;odpadki, śmieci, obiekty nienadające się do użytku, nieposiadające wartości. Fragmenty, które przetrwały, przypominają, że&nbsp;nigdy nie będziemy obcować z&nbsp;całościowym i&nbsp;kompletnym obrazem przeszłości - nasza identyfikacja z&nbsp;miastem konstruowana jest więc w&nbsp;oparciu o&nbsp;nietrwałe i&nbsp;efemeryczne związki z&nbsp;materialnością. Muzeum Warszawy nie proponuje sposobu postrzegania szczątków przeszłości jako stale działających we współczesności. Tak jakby ich ocalenie możliwe było jedynie w&nbsp;ramie muzealnej, pozbawiającej je pierwotnych funkcji. Mam wątpliwości, czy aby wydobyć podmiotowość rzeczy, należy zmarginalizować ich relację z&nbsp;człowiekiem i&nbsp;czy takie próby są zasadne w&nbsp;instytucji poświęconej historii miasta – terytorium zamieszkanego przez ludzi. Dowartościowanie przedmiotów wydaje się możliwe w&nbsp;efekcie dostrzeżenia ich sprawczości tu i&nbsp;teraz. Chodziłoby o&nbsp;sprawczość realizującą się za&nbsp;sprawą codziennych praktyk cielesnych, a&nbsp;nie bierną obserwację.</p> <p>Również w&nbsp;Gabinecie Archeologicznym widz napotyka szklane gabloty, tym razem wypełnione fragmentami przedmiotów, których kształt, bez opisu, byłby trudny do zidentyfikowania. Są to szczątki drewnianych fajek oraz szklanych i&nbsp;glinianych naczyń. Ich włączenie do wystawy jeszcze dobitniej pokazuje fragmentaryczność oraz deformację obrazu przeszłości konstruowanego w&nbsp;oparciu o&nbsp;materialność oraz sam proces tworzenia eksponatów muzealnych. Zwiedzający może zauważyć, że&nbsp;obraz historii jest w&nbsp;istocie dosłownie i&nbsp;metaforycznie wyprodukowany. Strategia ta ujawnia odwagę twórców, gotowych zmierzyć się z&nbsp;niekompletnym i&nbsp;zdeformowanym obrazem przeszłości - czyli takim, jakim w&nbsp;istocie jest.</p> <h2>Sztuka użytkowa – co jest zwykłe, a&nbsp;co niezwykłe?</h2> <p>Na wystawie odnaleźć można zarówno przedmioty codziennego użytku, jak i&nbsp;obiekty sztuki. Trudno podejrzewać, że&nbsp;widzowie traktować je będą podobnie, nawet jeśli sposób ich wystawienia nie podkreśla tej różnicy. Konstruowanie związku z&nbsp;przedmiotem przebiega inaczej w&nbsp;przypadku przedmiotu rozpoznawalnego („moja babci miała taki serwis”), a&nbsp;inaczej w&nbsp;kontekście zupełnie obcego („do czego służy ta piękna rzecz?”). Jeśli w&nbsp;istocie tak jest, to relacja z&nbsp;przedmiotem będzie wpływać na&nbsp;relację z&nbsp;miastem. Jak zauważa Olsen, fizyczne parametry przedmiotów wpływają na&nbsp;ich funkcjonowanie, a&nbsp;ich wygląd na&nbsp;percepcję. Gabinet Sreber i&nbsp;Platerów Warszawskich jest tego dobrym przykładem. Wykonane z&nbsp;metali szlachetnych przedmioty od razu zostaną uznane za&nbsp;cenne. Ich wartość podkreślają dodatkowo biały kolor szaf oraz oświetlenie, wydobywające właściwości fizyczne przedmiotów. Biel podkreśla kolor, światło odbija się od powierzchni, uwypuklając fakturę i&nbsp;materiał, z&nbsp;którego zostały wykonane. Zgromadzone w&nbsp;dużej liczbie w&nbsp;jednym pomieszczeniu mogą jednak zostać odebrane nie jako zwykłe przedmioty, lecz jako obiekty sztuki. Na&nbsp;mechanizm ten zwróciła uwagę Barbara Kirshenblatt-Gimblett, kuratorka wystawy stałej Muzeum Historii Żydów Polskich POLIN<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. W&nbsp;takiej aranżacji widz odbiera przedmioty przez pryzmat estetycznych, a&nbsp;nie historycznych kategorii, co może utrudniać budowanie emocjonalnych związków z&nbsp;miastem. Obiekty artystyczne lub pretendujące do tego miana w&nbsp;tym wypadku pełnią funkcję raczej ekskluzywną niż inkluzywną.</p> <p>Podczas gdy opisane gabinety podkreślają materialność przedmiotów, pozostałe części wystawy wydobywają ich inne funkcje – symboliczne i&nbsp;przedstawieniowe. Wymiar symboliczny widoczny jest zwłaszcza w&nbsp;Gabinecie Syren, Suwenirów oraz Pomników Warszawskich. Zgromadzone tam rzeczy służą jako totemy. Choć z&nbsp;pozoru podobne, wykonane zostały z&nbsp;rozmaitych materiałów, pełniły odmienne doraźne funkcje, różnią się kolorami, fakturą, ciężarem i&nbsp;wielkością. Dzięki symbolicznemu podobieństwu dostrzeżenie wizualnych różnic między nimi staje się prostsze. Gabinet ten balansuje zatem umiejętnie pomiędzy ukazaniem funkcji symbolicznej przedmiotów a&nbsp;wydobyciem ich materialności.</p> <p>Z kolei Gabinet Pomników tę równowagę gubi i&nbsp;wymyka się kuratorskiej strategii. Prezentowane tu eksponaty – miniatury lub kopie pomników – pełniły co prawda funkcję pamiątek lub zdobiły gmachy urzędów, odsyłają one jednak widza w&nbsp;pierwszym rzędzie do ich właściwych odpowiedników: pomnika Fryderyka Chopina w&nbsp;Łazienkach Królewskich czy Kolumny Zygmunta na&nbsp;placu Zamkowym. Pełnią więc funkcję zastępczą wobec monumentów znajdujących się w&nbsp;przestrzeni miasta. Ginie zatem ich znaczenie jako przedmiotów - a&nbsp;szkoda, gdyż jako kopie mogłyby w&nbsp;ciekawy sposób problematyzować zarówno fizyczność, jak i&nbsp;moc rzeźby i&nbsp;pomnika jako medium.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/wisniewska/4d-1920x-67c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/wisniewska/4d-330x-238.jpg 330w,assets/cache/images/issues/2018/20/wisniewska/4d-660x-8f2.jpg 660w,assets/cache/images/issues/2018/20/wisniewska/4d-768x-344.jpg 768w,assets/cache/images/issues/2018/20/wisniewska/4d-1320x-986.jpg 1320w" src="assets/cache/images/issues/2018/20/wisniewska/4d-660x-8f2.jpg" alt="" ></a>    <figcaption><p>Ekspozycja Muzeum Warszawy.</p> <p>Fot. Krzysztof Kamiński</p></figcaption>   </figure>  </section><section class="u-typo">   <p>W tym kontekście należy zwrócić uwagę na&nbsp;ogólniejsze, z&nbsp;pozoru banalne zjawisko – wykorzystanie przedmiotów, które są zarazem przedstawieniami wizualnymi. Gabinet Widoków Warszawy na&nbsp;przykład prezentuje szereg płócien ukazujących miasto kilkadziesiąt lub kilkaset lat temu. W&nbsp;tej części wystawy obejrzeć można typowe dla osiemnasto- i&nbsp;dziewiętnastowiecznego malarstwa pejzażowego przedstawienia najbardziej charakterystycznych budowli oraz przestrzeni, między innymi Teatru Wielkiego, Łazienek Królewskich czy Rynku Nowego Miasta. Towarzyszy im malarstwo dwudziestowieczne, choćby <em>Budowa Dworca Centralnego</em> Edwarda Dwurnika czy obrazy przedstawiające zniszczoną powojenną stolicę. Wizerunek Warszawy wyłania się z&nbsp;różnicy między tym, co istniało w&nbsp;przeszłości, a&nbsp;tym, co istnieje teraz. Na&nbsp;obrazach przedstawiona jest materialność, której już nie ma (budynki, powozy, ubrania), albo która zmieniła formę (dobudowane elementy budynków, zmienione detale architektoniczne) lub pustka, współcześnie zapełniona. Galerie obrazów najsilniej, jak się zdaje, zagrażają realizacji postulatu, aby to same rzeczy opowiadały o&nbsp;losach Warszawy i&nbsp;jej mieszkańców. Kuratorzy bronią się przed utratą materialnego wymiaru obrazów ich nietypowym rozlokowaniem na&nbsp;ścianach, ale czy to wystarczy, by warstwa przedstawieniowa nie zwyciężyła nad przedmiotową?</p> <p>Przechodząc przez kolejne gabinety wystawy <em>Rzeczy warszawskie</em> z&nbsp;zamiarem podjęcia namysłu nad materialnością, możemy dojść do wniosku, że&nbsp;jej uchwycenie jest niezwykle trudne. Jako świadectwo stale obecnej przeszłości materialność wciąż się wymyka, ukrywa się za&nbsp;symbolem, przedstawieniem, dziełem sztuki. Obraz przeszłości zakotwiczony jest w&nbsp;abstrakcyjnych wyobrażeniach, a&nbsp;nie codziennych praktykach cielesnych, które według koncepcji Olsena umożliwiają dostrzeżenie sprawczości przedmiotów.</p> <p>Kuratorom udało się jednak wywołać namysł nad sferą materialną, choćby w&nbsp;gabinecie prezentującym pozostałości ludzkich praktyk, a&nbsp;także kwestię oddziaływania człowieka i&nbsp;czasu na&nbsp;przedmioty i&nbsp;przedmiotów na&nbsp;człowieka. Stało sie tak dzięki pokazaniu rzeczy, które wyszły już z&nbsp;codziennego użycia, a&nbsp;ich dzisiejsza „nieprzydatność” przywołuje dawną obecność, która dzięki muzeum może zostać zauważona. Również w&nbsp;Gabinecie Archeologicznym w&nbsp;obserwacji zniszczonych przedmiotów, resztek pozbawionych dawnej formy, zwiedzający odkrywa podstawową cechę materii – jej nietrwałość. Świadomość procesów, jakim poddawana jest materia, ma fundamentalne znaczenie dla wytwarzania przeszłego i&nbsp;współczesnego obrazu miasta. Obraz ten okazuje się bowiem efemeryczny, kruchy, pełen pęknięć i&nbsp;zniekształceń, niekiedy cudem ocalony.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Tomasz Urzykowski, <em>Muzeum Warszawy. „Rzeczy warszawskie” mają głos</em>, „Gazeta Wyborcza” z 25 marca 2017, <a href="http://warszawa.wyborcza.pl/warszawa/7,54420,21540088,muzeum-warszawy-rzeczy-warszawskie-czyli-przedmioty-maja.html" target="_blank" rel="noopener">http://warszawa.wyborcza.pl/warszawa/7,54420,21540088,muzeum-warszawy-rzeczy-warszawskie-czyli-przedmioty-maja.html</a>, dostęp 20 sierpnia 2018.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Bjørnar Olsen, <em>W obronie rzeczy. Archeologia i ontologia przedmiotów</em>, przeł. B. Shallcross, Instytut Badań Literackich PAN, Warszawa 2013, s. 234.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a><sup></sup>Ibidem.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Gabinety otwarte w maju 2018 to: Gabinet Planów i Map Warszawy, Detali Architektonicznych, Gabinet Fotografii, Gabinet Rysunków Architektonicznych, Gabinet Brązów Warszawskich, Ubiorów, Medali, Opakowań Firm Warszawskich, Ludwika Gocla, Gabinet Galanterii Patriotycznej, Relikwii, Gabinet Schielów oraz Gabinet Zegarów Warszawskich.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a><em></em>Strona internetowa Muzeum Warszawy, <a href="https://muzeumwarszawy.pl/wystawa/dane-warszawskie/" target="_blank" rel="noopener">https://muzeumwarszawy.pl/wystawa/dane-warszawskie/</a>, dostęp 20 sierpnia 2018.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Ibidem.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Por. strona Muzeum: <a href="http://muzeumwarszawy.pl/wizyta/" target="_blank" rel="noopener">http://muzeumwarszawy.pl/wizyta/</a>, dostęp 20 sierpnia 2018.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Fragment opisu wystawy na planszy.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Fragment opisu wystawy na planszy.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Barbara Kirshenblatt-Gimblett, <em>Destination Culture. Tourism, Museums, and Heritage</em>, University of California Press, Berkeley–Los Angeles 1998, s. 25.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/20-2018-odmuzealnienie/miedzy-materialnoscia-rzeczy-a-obrazem-miasta" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

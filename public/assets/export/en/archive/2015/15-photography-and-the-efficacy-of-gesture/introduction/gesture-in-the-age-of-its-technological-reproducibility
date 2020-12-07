@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Gesture in the Age of its Technological Reproducibility | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/gesture-in-the-age-of-its-technological-reproducibility">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Gesture in the Age of its Technological Reproducibility | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Gesture in the Age of its Technological Reproducibility | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/gesture-in-the-age-of-its-technological-reproducibility">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Gesture in the Age of its Technological Reproducibility | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #c69 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #c69 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #c69 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #c69 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #c69 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #c69 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #c69 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #c69 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(204,102,153,0.8) !important; */
+			/* background-color:#c69 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(204,102,153,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#c69 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(204,102,153,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#c69; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(204,102,153,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(204,102,153,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#c69 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#c69 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#c69 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-913 parent-id-907">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="906" data-selected-issue-color="#c69" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2015/queer-obrazy/wstep">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2015/queer-obrazy/wstep">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/15-photography-and-the-efficacy-of-gesture#toc">12</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/gesture-in-the-age-of-its-technological-reproducibility?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Gesture in the Age of its Technological Reproducibility</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/gesture-in-the-age-of-its-technological-reproducibility?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=301">Krzysztof Pijarski</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Jan Szelągiewicz
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>And as for&nbsp;gestures, they are as transitory hieroglyphics, and are to hieroglyphics as words spoken are to words written, in that&nbsp;they abide not; but&nbsp;they have evermore, as well as the other, an affinity with&nbsp;the things signified.</p> <p>Francis Bacon, <em>The Advancement of Learning</em> (1605)</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/389-5128-1-pb-1920x-ec1.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/389-5128-1-pb-330x-3d6.jpg 330w,assets/cache/images/issues/2015/12/389-5128-1-pb-660x-ae2.jpg 660w,assets/cache/images/issues/2015/12/389-5128-1-pb-768x-cff.jpg 768w,assets/cache/images/issues/2015/12/389-5128-1-pb-1320x-adc.jpg 1320w" src="assets/cache/images/issues/2015/12/389-5128-1-pb-660x-ae2.jpg" alt="" ></a>    <figcaption><p>Jeff Wall, <em>Volunteer</em>, 1996, silver gelatin print, 221.4 x 313.0 cm, courtesy of the artist</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The goal of the issue we are putting in front of the reader is not to thoroughly exhaust the issue of gesture—a matter widely discussed nowadays—but rather to open up issues surrounding photography. I&nbsp;consider this&nbsp;opening a&nbsp;disruption, if not outright abolition, of the violence and dictatorialness of the frame, that&nbsp;traumatic structure of experience of the photographic image, wherein it remains radically extrinsic with&nbsp;regard to the subject; incidental and mute, to some extent impossible to internalize. “What the Photograph reproduces to infinity has occurred only once: the Photograph mechanically repeats what could never be repeated existentially“,<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a> says Roland Barthes, echoing, to some extent, the definition of trauma understood as “the violent and shocking obliteration of unity, a&nbsp;rift, a&nbsp;fracture” that&nbsp;one can neither “work through&nbsp;psychologically nor incorporate into&nbsp;the order of representations and understanding.”<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> The crosswise cut against&nbsp;the flow of time that&nbsp;the camera makes when its shutter clicks, establishes a&nbsp;structure that&nbsp;is perfectly complete because immobile, discrete and isolated; John Szarkowski described it thus: “The central act of photography, the act of choosing and eliminating, forces a&nbsp;concentration on the picture edge—the line that&nbsp;separates in from&nbsp;out—and on the shapes that&nbsp;are created by it.”<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a> This&nbsp;structure, therefore, is always-already intimately bound up with&nbsp;death. Simultaneously, by isolating, once and for&nbsp;all, the moment of its own inscription, the photographic image infuses it with&nbsp;incredible density: suddenly, every detail is given weight, becomes significant, often—or maybe exclusively, as Barthes wanted it—in ways completely unpredictable or even unwanted by the picture’s very producers.<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a> Because of these two aspects, the photograph is considered an image with&nbsp;low intentionality,<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a> inhuman even,<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a> or one in which another intentionality, the intentionality of the world-as-it-is, is revealed.<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a></p> <p>Looking at photography from&nbsp;the perspective of the subject of the gesture allows us to comprehend it as a&nbsp;phenomenon that&nbsp;has accompanied man, as—although not exclusively and only to some degree— a&nbsp;human activity, and to bind it (anew) with&nbsp;the body and its expressiveness, with&nbsp;subjectivity understood as embodied being. Such a&nbsp;gesture focuses the frame of our deliberations not so much on the image itself as the subject of reflection, as on the moment of its inscription, when what we call the subject of representation is not presented to us as a&nbsp;(new) object of perception, but&nbsp;rather a&nbsp;trace of an occurrence, always referencing outside&nbsp;itself. Margaret Iversen, whose important essay can be found in this&nbsp;issue in translation, concludes that&nbsp;such an understanding of photography is drawn directly from&nbsp;the practices of surrealists and the theory of peformativity, the latter disrupting the privileged status of the source and the associated belief in the irreproducibility of the gesture.<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> The “performative realism” proposed by Iversen shifts the emphasis from&nbsp;the captured moment onto&nbsp;the moment of inscription, pulling photography away from&nbsp;Barthes’ thanatological grip: rather than&nbsp;being an automatic, rigid record of a&nbsp;single moment that&nbsp;is never to return again, performative photography “follows the event not knowing the conclusion in advance.“<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a> “Photography is thus conceived, not as a&nbsp;melancholic ‘that-has-been,’” Iversen claims, “but more as a&nbsp;future oriented and interrogative ‘what-will-be?’“<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a></p> <p>Implying the delicate status of the photographic image as a&nbsp;relic—resembling a&nbsp;charred object moments before&nbsp;it crumbles into&nbsp;dust<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a>—causes the photograph to appear to us as something essentially open, and, most of all, relational. Calling attention to this&nbsp;particular aspect allows for&nbsp;a&nbsp;dialectical understanding of photography, in which the peculiar finality and irreproducibility of the gesture of framing is abolished in the need for&nbsp;its continual renewal, and reveals a&nbsp;certain promiscuity of photography: every photograph in existence has been reflected in countless others. “If a&nbsp;photographic gesture always produces an image-symptom in which the tensions and contradictions of the world around&nbsp;us are momentarily fixed in place,” writes Paweł Mościcki in his essay <em>Gest fotograficzny. Między symptomem a&nbsp;etosem</em> [<em>The Photographic Gesture—Between Symptom and Ethos</em>], “reproducing it, however, may cause it to grow beyond&nbsp;just ossified hesitation and to live on, in other images.“<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a></p> <p>While talking about&nbsp;the relationality of photography, we would do well to remember that&nbsp;it is not the same thing as referentiality. It is not about&nbsp;regarding photography as a&nbsp;gesture that&nbsp;identifies objects in our world: “this,” “this one exactly,” “that one,” instead we consider it an abstracting gesture of seeing—a theorizing gesture comparable to the practice of philosophy. To quote Vilém Flusser, whose iconic essay we also republish in this&nbsp;issue, “the reason is that&nbsp;the gesture of photographing is a&nbsp;gesture of seeing and so engages in what the antique thinkers called ‘theoria,’ producing an image that&nbsp;these thinkers called ‘idea.’”<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a></p> <p>That’s not the end of it, however. The subject of gesture encompasses more than&nbsp;just the moment of photographic capture. It also includes the moment of our engagement with&nbsp;the (photographic) image and our attempts at sharing what we see in it, what we read from&nbsp;it. As we very well know, words often fail us in the presence of an image,<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a> there’s always a&nbsp;surfeit—in its matter, in our experience of it, and finally, in our reading of it—that cannot be carried over&nbsp;into discourse. In this&nbsp;moment the eloquence of our pronouncements is suspended, the discourse is interrupted and we start to grope about: we look for&nbsp;words, we hesitate, delay, repeat fragments of individual sentences. That’s when gestures aimed at the image—including rubbing, pointing, touching, aimless wandering, isolating, dividing—are revealed, along&nbsp;with an entire repertoire of gestures that&nbsp;“drive” speech, gestures which remain transparent, nearly imperceptible although they accompany it most of the time. It is exactly when words fail us that&nbsp;we realize something many scholars of gesture have called attention to. In the words of David McNeill, “language is inseparable from&nbsp;imagery,“<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a> and—to follow this&nbsp;particular train of thought—language is inseparable from&nbsp;gestures. “Body language,” therefore, isn’t some separate kind of language over&nbsp;which—at least according to certain cultural critics—we have lost any and all semblance of control (or have repressed it completely, which is simply the reverse side of this&nbsp;diagnosis);<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a> it is neither an ornament to nor a&nbsp;supplement of speech, but&nbsp;rather its integral element.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/389-5130-1-pb-1920x-fa6.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/389-5130-1-pb-330x-7f2.jpg 330w,assets/cache/images/issues/2015/12/389-5130-1-pb-660x-a0e.jpg 660w,assets/cache/images/issues/2015/12/389-5130-1-pb-768x-f23.jpg 768w,assets/cache/images/issues/2015/12/389-5130-1-pb-1320x-482.jpg 1320w" src="assets/cache/images/issues/2015/12/389-5130-1-pb-660x-a0e.jpg" alt="" ></a>    <figcaption><p>Jakub Woynarowski, design for&nbsp;the title page of the planned website of the performative symposium, 2014</p></figcaption>   </figure>  </section><section class="u-typo">   <p>This particular aspect of the subject was explored over&nbsp;the course of a&nbsp;performative symposium that&nbsp;took place in 2013 in Warsaw’s Zachęta Gallery. Our current issue includes video recordings of all six sessions that&nbsp;took place throughout the symposium, during&nbsp;which Polish artists working with&nbsp;photography, representing a&nbsp;variety of artistic attitudes and approaches to the medium itself, tested the “whole repertoire of responses to images which the body has at its disposal“<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a> (the recordings are preceded by the symposium’s programmatic statement, or manifesto, if you will).</p> <p>Given what has already been said, it is imperative not to treat these films solely as a&nbsp;record of an event, as something derivative. After&nbsp;all it was precisely the technology-based recording, combined with&nbsp;appropriate staging based on the isolation of individual senses, that&nbsp;enabled gesture to emerge not only as the proper subject of the symposium, but&nbsp;also an essential dimension of our relationship with&nbsp;images, and particularly our attempts at sharing them with&nbsp;others. That&nbsp;does not mean, however, that&nbsp;this specific staging allowed us to rediscover the “efficacy of gesture” that&nbsp;Michael Fried wrote about&nbsp;in the context of Anthony Caro’s sculptures,<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a> on the contrary.</p> <p>Weronika Szczawińska, one of the symposium’s attendees, who decided to take another look at the events of the symposium after&nbsp;gaining some distance, wrote about&nbsp;a&nbsp;“gestural surplus,” which she herself defines as a&nbsp;“fevered activity of the hands”<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a> that’s impossible to name or label: gestures of other attendees often seem inadequate or run against&nbsp;the words coming from&nbsp;their mouths. It is in these “gestures of revolting hands” that&nbsp;the theatre director sees a&nbsp;peculiar “social choreography,” understood not only in categories describing the kinetic aspects of the emergence of community, and again—opening up the image to relationality, but&nbsp;also as a&nbsp;moment revealing the pure media character of the gesture, a&nbsp;promise—to quote Agamben—of “liberation of the image into&nbsp;gesture.“<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a> Here, gesture seems suspended between&nbsp;symptomaticity and agency.</p> <p>Similar territory—the horizon of a&nbsp;liberation of images through&nbsp;gesture—is explored by Kuba Mikurda, although his inquiry starts with&nbsp;a&nbsp;radical abolishing of distance. It is on the establishment of frames that&nbsp;the sense of sight is founded—and so to the image, following&nbsp;in its path. In response to such an order of things, Mikurda defines the events of the symposium in the categories of “critical gesture <em>par excellence</em>.” “It is the violation of the frame [which itself lies at the heart of the act of touching an image—author’s note] that&nbsp;opens up the possibility of a&nbsp;genuine, critical reflection on images and the manner they’re presented in,“<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a> claims the film critic and theorist. This, in turn, demonstrates that&nbsp;in contrast to vision, which is asymmetric (there is no passive side to seeing), “touching implies reciprocity to a&nbsp;degree that&nbsp;no other sense does—to touch is to be touched, to reveal oneself, to open oneself up to touch.”<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a> Invoking the theory of haptic visuality, Mikurda postulates that&nbsp;engaging with&nbsp;images involves a&nbsp;certain eroticism, related to the ethics of vision—“a vision that&nbsp;renounces power (including the power to interpret) over&nbsp;the image, that&nbsp;does not aim to appropriate or exhaust it.”<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a></p> <p>There remains one final aspect of the issue of gesture with&nbsp;regard to photography that&nbsp;has heretofore stayed mostly invisible, although it seems that&nbsp;its significance is beyond&nbsp;measure. We’re talking, quite obviously, about&nbsp;the recording of gestures using cameras—photographic and video. We may say that&nbsp;gestures, understood as language, have been the subject of intense study for&nbsp;ages now, as clearly evidenced by the tradition of physiognomy harking back to the Renaissance — from&nbsp;the work of Giambattista della Porta, to Charles le Brun, to Johann Kaspar Lavater — which aimed to decipher the mysteries of human facial expressions,<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a> as well as ancient studies over&nbsp;the efficacy and significance of codified gestures that&nbsp;accompanied speechmaking. Only in the 1930s did we see the emergence of studies of gestures appearing spontaneously in everyday human interactions,<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a> of the “fevered activity of the hands.” The reasons for&nbsp;this state of affairs can be found in the development of proper reproduction equipment that&nbsp;could either freeze a&nbsp;moment in time (the development of Leica and the birth of snapshot photography), or capture a&nbsp;smooth sequence of moments (the development of motion pictures, and more<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a>). In this&nbsp;sense, photography and motion pictures—media of technological reproduction—seem an appropriate refuge for&nbsp;gesture and its viability in modern times.</p> <p>It was in the mid-1930s that&nbsp;Marcel Mauss published his essay on the “techniques of the body”<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a>, wherein he demonstrates the cultural conditioning of gestural sphere. A&nbsp;couple of years later Norbert Elias published the first two volumes of <em>The Civilizing Process</em>, his monumental opus in which he researched etiquette manuals in order to portray the “transformation of Western morals”<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a> from&nbsp;the Middle Ages to the present day. The results of Elias’ work included a&nbsp;hypothesis stipulating that&nbsp;as man grew more “civilized”, the sphere of gesture and body language, being closer to nature, was gradually limited—even repressed—which, in turn, could be one explanation of the necessity of “rediscovering” it in recent years. Theodor Adorno theorized that&nbsp;this suppression was not the result of the civilizing process, but&nbsp;rather of the growing rationalization and instrumentalization of the world, including human behavior, in the course of post-Enlightenment modernization: “Technology is making gestures precise and brutal, and with&nbsp;them men,” he writes in <em>Minima Moralia</em>. “It expels from&nbsp;movements all hesitation, deliberation, civility,“<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a> combining the loss of reflectiveness with&nbsp;the modern demise of experience under&nbsp;the dictate of utility, disallowing any unconsumed surplus, “either in freedom of conduct or in autonomy of things.”<a href="#sdfootnote30sym" name="sdfootnote30anc"><sup>30</sup></a></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/389-5132-1-pb-1920x-98a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/389-5132-1-pb-330x-7b5.jpg 330w,assets/cache/images/issues/2015/12/389-5132-1-pb-660x-803.jpg 660w,assets/cache/images/issues/2015/12/389-5132-1-pb-768x-ef0.jpg 768w,assets/cache/images/issues/2015/12/389-5132-1-pb-1320x-b3d.jpg 1320w" src="assets/cache/images/issues/2015/12/389-5132-1-pb-660x-803.jpg" alt="" ></a>    <figcaption><p>Jeff Wall, <em>Volunteer</em> (detail), 1996, silver gelatin print, 221.4 x 313.0 cm, courtesy of the artist</p></figcaption>   </figure>  </section><section class="u-typo">   <p>It’s not hard to see how deeply Adorno’s work influenced Jeff Wall, whose essay on gesture (which we also reprint in this&nbsp;issue) transposes the diagnosis put forward by the co-creator of critical theory onto&nbsp;his own artistic practice and further develops the ideas of the author of <em>Minima Moralia</em>. “The contracted little actions, the involuntarily expressive body movements which lend themselves so well to photography, are what remain in everyday life of the older idea of gesture as the bodily, pictorial form of historical consciousness“,<a href="#sdfootnote31sym" name="sdfootnote31anc"><sup>31</sup></a> claims Wall, suggesting simultaneously that&nbsp;if there is any critical potential in gesture, any emancipatory power, then it can only be revealed in an image that&nbsp;is technological in nature<a href="#sdfootnote32sym" name="sdfootnote32anc"><sup>32</sup></a>. Because if gesture as “bodily, pictorial form of historical consciousness” has survived only in the form of a&nbsp;revolted sphere of micromotions, then we would be hard-pressed to make it the subject of reflection in any other way than&nbsp;as a&nbsp;result of halting it in the course of reproduction. Here, we arrive at a&nbsp;truly dialectical moment, as images were also considered one of the reasons for&nbsp;the gradual instrumentalization and disintegration of the gestural aspect of human existence.</p> <p></p> <p>One excellent example here would be Allan Sekula’s essay, <em>Photography Between&nbsp;Labor and Capital</em>, in which the author traces the origins of the process of “functionalizing”<a href="#sdfootnote33sym" name="sdfootnote33anc"><sup>33</sup></a> the worker back to Taylorism, and Frank and Lillian Gilbreth’s “micromotion studies” in particular. In the writings of the Gilbreths, Taylorian scientific management becomes a&nbsp;total system, one that&nbsp;grows far beyond&nbsp;the factory, eventually encompassing the totality of everyday life, with&nbsp;increased capacity as the primary objective—“not only for&nbsp;work, but&nbsp;for health, and for&nbsp;life in general.”<a href="#sdfootnote34sym" name="sdfootnote34anc"><sup>34</sup></a> Because of the way they utilized photography, combining “surveillance and sentiment, reification and moral instruction, reification and pleasure,” Sekula considered the Gilbreths responsible for&nbsp;“the invention of the picture-language of industrial capitalism.”<a href="#sdfootnote35sym" name="sdfootnote35anc"><sup>35</sup></a> Were we to think what work looks like&nbsp;in huge Amazon warehouses, where every movement of a&nbsp;worker is surveilled by video cameras and the efforts of employees are constantly calculated against&nbsp;efficiency optimization algorithms, we’d quickly realize that&nbsp;the process we’re talking about&nbsp;doesn’t belong to the past.<a href="#sdfootnote36sym" name="sdfootnote36anc"><sup>36</sup></a></p> <p>Some authors, like&nbsp;Carrie Noland, are interested in the emancipatory potential of the gestural sphere. Noland identifies it in the peculiar surplus produced within&nbsp;the domain of bodily movement: according to her, gestures “provide kinesthetic sensations that&nbsp;remain in excess of what the gestures themselves might signify or accomplish within&nbsp;that culture.“<a href="#sdfootnote37sym" name="sdfootnote37anc"><sup>37</sup></a> Thus a&nbsp;question arises about&nbsp;the character of said surplus and its relationship with&nbsp;agency: “How does embodying socialized gestures produce an experience of movement—its texture and velocity—that ends up altering the routine, the body that&nbsp;performs the routine, and eventually, perhaps, culture itself?”<a href="#sdfootnote38sym" name="sdfootnote38anc"><sup>38</sup></a></p> <p>According to Gadi Algazi, not only have Elias and Mauss definitely seen this&nbsp;potentiality (they didn’t consider the body as a&nbsp;passive surface on which culture inscribes itself), they associated it with&nbsp;the uses of popular cinema. “With cinema,” claims Algazi, “came a&nbsp;heightened awareness of minute bodily gestures coupled with&nbsp;the recognition that&nbsp;they were subject to historical change and culturally transmitted.”<a href="#sdfootnote39sym" name="sdfootnote39anc"><sup>39</sup></a> And although it is hard to argue with&nbsp;the fact that&nbsp;scientific inquiries into&nbsp;the nature of movement reduced the gestural sphere to nothing more than&nbsp;mechanical motions and subordinated it to the dictates of capitalist rationalizations, the audiences “used cinema to adopt gestures and body techniques, not in the context of imposed discipline but&nbsp;as strategies of self-fashioning, promising to reduce cultural distance.”<a href="#sdfootnote40sym" name="sdfootnote40anc"><sup>40</sup></a> As an example, the author cites Mauss’s observations from&nbsp;hospital. Mauss noticed that&nbsp;the nurses taking care of him in a&nbsp;New York hospital walk exactly like&nbsp;movie stars, and after&nbsp;coming home to France he noticed that&nbsp;French nursing personnel do the same. In this&nbsp;case, however, it’s the class aspect of these appropriation practices that&nbsp;seems to be the most important. According to Algazi, cinema has made “one of the most precious instruments of social distinction—the socialized moving body—available in unusual ways and perhaps to a&nbsp;hitherto unknown extent to classes far removed from&nbsp;the settings in which classed bodies had traditionally been shaped.”<a href="#sdfootnote41sym" name="sdfootnote41anc"><sup>41</sup></a></p> <p>Such “migrations of gestures”<a href="#sdfootnote42sym" name="sdfootnote42anc"><sup>42</sup></a> also pose a&nbsp;question about&nbsp;the truth of the gesture itself—under what conditions is a&nbsp;gesture “true,” when is it really “mine”? And what does that&nbsp;even mean? If the appropriation of a&nbsp;gesture is proof of either liberty or resistance, wouldn’t its “unnaturalness” be the measure of its critical nature? What does such an unfamiliar gesture say about&nbsp;the person making it? And if photography (and film) is to be considered a&nbsp;laboratory of the gesture, should we be interested primarily in appropriated (observed) or newly constructed (staged) gestures? Is the gestural sphere even subject to the dialectics of authenticity and theatricality? We won’t be able to provide definite answers to these questions here, we can only pose them in the hope that&nbsp;they will contribute to the opening up of the question of photography postulated herein. It seems, however, that&nbsp;a&nbsp;trace of a&nbsp;possible answer for&nbsp;these questions can be found in the works of Jeff Wall, especially those the artist considers “near-documentary.”</p> <p>That is precisely why we’re opening this&nbsp;current issue with&nbsp;one of Wall’s more meaningful works — Wall has spent years exploring the dynamics of gestures as territory of subordination and resistance, while at the same time putting absolute emphasis on the aesthetic experience (it is only, he says, “in that&nbsp;experience, that&nbsp;experience of the work and the experience of your judgement of the work, that&nbsp;you will recognize the revelation, or disclosure, of that&nbsp;significant social experience, or social material, to use Adorno’s term”.<a href="#sdfootnote43sym" name="sdfootnote43anc"><sup>43</sup></a>) This, it seems, is the source of his hypothesis stipulating that&nbsp;“gesture creates truth in the dialectic of its being for&nbsp;another — in pictures, its being for&nbsp;an eye.”<a href="#sdfootnote44sym" name="sdfootnote44anc"><sup>44</sup></a> While this&nbsp;claim of gesture being for&nbsp;another channels our thoughts towards&nbsp;its inalienable relationality, defining the truth of the gesture in pictures as something intended for&nbsp;the eye presents a&nbsp;challenge. On the one hand, it’s a&nbsp;source of pleasure, and therefore an object of consumption, on the other the eye is called upon&nbsp;to perform labor that&nbsp;cannot be reduced to interpretation alone: “I imagine that&nbsp;eye as one which labors and which desires simultaneously to experience happiness and to know the truth about&nbsp;society.“<a href="#sdfootnote45sym" name="sdfootnote45anc"><sup>45</sup></a></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Roland Barthes, <em>Camera Lucida. Reflections on Photography</em>, trans. Richard Howard (New York: Hill and Wang, 1981), 4.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Katarzyna Bojarska, “Trauma,” in <em>Modi memorandi</em>. <em>Leksykon kultury pamięci</em>, ed. M. Saryusz-Wolska and R. Traba (Warszawa: Wydawnictwo Naukowe SCHOLAR, 2014), 501.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>John Szarkowski, <em>The Photographer</em><em>‘s Eye (</em>New York: The Museum of Modern Art, 1966), unpaginated.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>“Certain details may ‘prick’ me. If they do not, it is doubtless because the photographer has put them there intentionally. […]Hence the detail which interests me is not, or at least is not strictly, intentional, and probably must not be so; it occurs in the field of the photographed thing like a supplement that is at once inevitable and delightful” (Barthes, <em>Camera Lucida</em><em>…</em>, 47).</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>John Berger and Jean Mohr, <em>Another Way of Telling</em>, (New York: Vintage Books, 1982), 90.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>“What might be worse than the possibility that photographs ‘prick’ us, that they harbor an ‘optical unconscious,’ that they point so uncomfortably at the viewer’s own death? In a word: that they might be boring. Or apparently meaningless. Or cold, <em>inhuman</em>, painful in a somatic way, hard to look at” (James Elkins, <em>What Photography Is</em> (New York—London: Routledge, 2011), 218).</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>”The world did not disappear when Descartes replaced his sensory perceptions with mental representations; it was still there, but it was no longer present. The heliograph, daguerreotype, and calotype were the means through which it attempted to rectify this situation—to ‘come forward,’ or ‘presence’” (Kaja Silverman, <em>The Miracle of Analogy: or The History of Photography, Part 1</em><em></em>(Stanford: Stanford University Press, 2015), Kindle edition, locations 681-684).</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Cf., <em>inter alia</em>, Philip Auslander, “The Performativity of Performance Documentation,” <em>Performing Arts Journal</em> 84 (2006): 1–10.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Margaret Iversen, “Following Pieces. On Performative Photography,” in <em>Photography Theory</em>, ed. James Elkins, vol. 2, The Art Seminar (New York, Oxon: Routledge, 2007), 94.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Ibid., 105.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>This was beautifully put by Man Ray, as quoted by Iversen: according to him, photography is “a residue of experience… recalling the event more or less clearly, like the undisturbed ashes of an object consumed by flames“ (ibid).</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Paweł Mościcki, “Gest fotograficzny. Między symptomem a etosem,” <em>Widok. Teorie i praktyki kultury wizualnej </em>12 (2015), <a href="http://pismowidok.org/index.php/one/article/view/357/700">http://pismowidok.org/index.php/one/article/view/357/700</a>.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>Vilém Flusser, <em>Gestures</em> (Minneapolis: University of Minnesota Press, 2014), 76.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>See: <em>Brak słów. Topos „niewysłowienia” w nauce i literaturze o sztuce </em>[<em>Where Words Fail. The Topos of “Unspeakability” in </em><em>Scholarship and Literature Devoted to Art</em>], ed. M. Poprzęcka, (Warszawa: Stowarzyszenie Historyków Sztuki, 2007).</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>David McNeill, <em>Gesture and Thought</em>, (Chicago–London: University of Chicago Press, 2005), 4. McNeill follows Antonio Damasio here, see idem, <em>Descartes</em><em>’ </em><em>Error: Emotion, Reason, and the Human Brain</em>, Putnam, New York 1994, oraz <em>The Feeling of What Happens: Body and Emotion in the Making of Consciousness</em> (New York: Harcourt Brace, 1999).</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>The loss of control over gestures was described by Giorgio Agamben in his “Notes on Gesture,” in Agamben, <em>Means Without End: Notes on Politics</em> (Minneapolis: University of Minnesota Press, 2000), 49-60; the suppression of gestural language was explored by Norbert Elias in his <em>The Civilizing Process</em> (New York: Urizen Books, 1978).</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>Krzysztof Pijarski, “Gesture And Photography,” in this issue, available at: <a href="http://pismowidok.org/index.php/one/article/view/388/770">http://pismowidok.org/index.php/one/article/view/388/770</a>. Due to unforeseen technical complications, we do not possess a recording of the first 47 minutes of the first meeting—in the released recording, that 47-minute-long interval is filled with an abstract placeholder footage from material captured during the session.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>Michael Fried, “An Introduction to My Art Criticism”<em></em>and “Art and Objecthood,” in Fried, <em>Art and Objecthood: Essays and Reviews</em><em></em>(Chicago: University Of Chicago Press, 1998), 1-74 and 148-172.<em></em></p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>Weronika Szczawińska, “Images in Action. Photography, Gesture, Performativity,” <em>Widok. Teorie i praktyki kultu</em><em>ry wizualnej </em>12 (2015), <a href="http://pismowidok.org/index.php/one/article/view/302/767">http://pismowidok.org/index.php/one/article/view/302/767</a>.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>Agamben, “Notes o Gesture,” 56.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a>Kuba Mikurda, “<em>Touching Images</em>. Please Touch,” <em>Widok. Teorie i praktyki kultury wizualnej</em> 12 (2015), <a href="http://pismowidok.org/index.php/one/article/view/307/765">http://pismowidok.org/index.php/one/article/view/307/765</a>.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a><em>Ibid</em>.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a><em>Ibid</em>.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a>See: <em>A </em><em>Cul</em><em>tural</em><em> History of Gesture. From Antiquity to the Present Day</em>, ed. J. Bremmer, H. Roodenburg (Cambridge: Polity Press, 1991), 2.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a>See: David Efron, <em>Gesture, Race and Culture</em><em> (</em>The Hague: Mouton, 1972). Efron conducted his research in the 1930s, see: McNeill, <em>Gesture and Thought</em><em>, </em>13.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a>See: <em>ibid</em>, and, first and foremost, Gadi Algazi, “Norbert Elias’s Motion Pictures: History, Cinema and Gestures in the Process of Civilization,” <em>Studies in History and Philosophy of Science</em><em></em>39 (2008): 444-458.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a>First given as a lecture at a meeting of the Société de Psychologie on May 17th, 1934 and published a year later in the <em>Journal de psychologie normal et pathol</em><em>o</em><em>gique</em><em> (</em>Paris, Année XXXII, 1935, 271-93).</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>This was the title of the first, significantly abridged, edition of Elias’s work published in Poland in 1980.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a>Theodor W. Adorno, <em>Minima Moralia. Reflections on a Damaged Life</em>, trans. E.F.N. Jephcott (London—New York: Verso, 2005), 40.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a><em>Ibid</em>.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a>Jeff Wall, “Gestus” in: <em>Jeff Wall: Selected Essays and Interviews</em> (New York: Museum of Modern Art, 2007), 85, also available in this issue in Polish translation, available at: <a href="http://pismowidok.org/index.php/one/editor/proofGalley/369/687">http://pismowidok.org/index.php/one/editor/proofGalley/369/687</a>.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> In my referencing Walter Benjamin’s artwork essay, I use the term “technological” - rather than the traditional and now outdated “mechanical” - as suggested by the original title of Walter Benjamin’s artwork essay and used by Edmund Jephcott and Harry Zohn in their latest translation in Walter Benjamin, <em>The Work of Art in the Age of Its Technological Reproducibility, and Other Writings on Media</em>, ed. M.W. Jennings, B. Doherty, T.Y. Levin (Cambridge, Mass: Belknap Press of Harvard University Press, 2008), 19-55.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a>Lillian Gilbreth, <em>Psychology of Management</em><em></em>(New York: MacMillan Company, 1914), 76, as quoted in: Allan Sekula, “Photography Between Labour and Capital,” in: <em>Mining Photographs and Other Pictures: A Selection From the Negative Archive of Shedden Studio, Glace Bay, Cape Breton. 1948—</em><em>1968</em>, ed. B.H.D. Buchloh (Halifax: Press of Nova Scotia College of Art and Design / University College of Cape Breton, 1983), 247.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a>Ibid, 329, as quoted in: Sekula, <em>Photography</em><em>,</em> 245.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a>Sekula, <em>Photography</em>, 249.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a>See: <em>inter alia</em>, <a href="http://www.salon.com/2014/02/23/worse_than_wal_mart_amazons_sick_brutality_and_secret_history_of_ruthlessly_intimidating_workers/">http://www.salon.com/2014/02/23/worse_than_wal_mart_amazons_sick_brutality_and_secret_history_of_ruthlessly_intimidating_workers/</a>, accessed: September 1, 2016, <a href="http://www.telegraph.co.uk/technology/amazon/10472094/Amazon-workers-face-increased-risk-of-mental-and-physical-illness.html">http://www.telegraph.co.uk/technology/amazon/10472094/Amazon-workers-face-increased-risk-of-mental-and-physical-illness.html</a>, accessed: September 1, 2016, <a href="http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html">http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html</a>, accessed: September 1, 2016.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a>Carrie Noland, <em>Agency and Embodiment. Performing Gestures/Producing Culture</em>, (Cambridge, Mass.–London: Harvard University Press, 2009), 2.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a><em>Ibid</em>.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a>Algazi, “Norbert Elias’s Motion Pictures,” 455.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a><em>Ibid</em>.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a><em>Ibid</em>.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a>See: <em>Migrations of Gesture</em>, ed. Carrie Noland, Sally Ann Ness (Minneapolis—London: University of Minnesota Press, 2008).</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a>Peter Osborne and Jeff Wall, “Art After Photography, After Conceptual Art,” <em>Radical Philosophy</em> 150 (2008): 46.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a>Jeff Wall, “Gestus.”</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a>Ibid.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/gesture-in-the-age-of-its-technological-reproducibility" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

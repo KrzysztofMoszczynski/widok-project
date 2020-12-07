@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Od Umy do Pumy - o roli podróbki w polskiej transformacji | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/od-umy-do-pumy-o-roli-podrobki-w-polskiej-transformacji">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Od Umy do Pumy - o roli podróbki w polskiej transformacji | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Od Umy do Pumy - o roli podróbki w polskiej transformacji | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/od-umy-do-pumy-o-roli-podrobki-w-polskiej-transformacji">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Od Umy do Pumy - o roli podróbki w polskiej transformacji | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ff5239 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ff5239 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ff5239 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ff5239 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ff5239 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ff5239 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+			/* background-color:#ff5239 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,82,57,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ff5239 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ff5239; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ff5239 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ff5239 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ff5239 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1341 parent-id-1332">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="419" data-selected-issue-color="#ff5239" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/the-visibility-of-things#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/the-visibility-of-things/from-uma-to-puma.-the-role-of-the-counterfeit-during">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/widzialnosc-rzeczy#toc">1</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/od-umy-do-pumy-o-roli-podrobki-w-polskiej-transformacji?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Od Umy do Pumy - o roli podróbki w polskiej transformacji</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/od-umy-do-pumy-o-roli-podrobki-w-polskiej-transformacji?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=309">Magda Szcześniak</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;">- Po&nbsp;czym najłatwiej poznać podróbkę? <br>- Po&nbsp;właścicielu<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>.</p> <p style="text-align: right;">Jerzy Mazgaj, importer luksusowych marek, 2012</p> </blockquote> <h2>„Tacy byliśmy”</h2> <p>17 czerwca 1992 roku w&nbsp;Warszawie, na&nbsp;rogu ulic Marszałkowskiej i&nbsp;Świętokrzyskiej, uroczyście otwarto pierwszą restaurację McDonald’s w&nbsp;Polsce. Zdjęcia dokumentujące wydarzenie przedstawiają pierwszych klientów, elegancko ubranych i&nbsp;starannie wyselekcjonowanych, takich, którym udało się dostać zaproszenie. Panie przybyły więc w&nbsp;wyjściowych kompletach bądź sukienkach, panowie – z&nbsp;wyjątkiem Jacka Kuronia, ubranego w&nbsp;charakterystyczny dżinsowy komplet – przywdziali garnitury i&nbsp;krawaty. Jak wspomina po&nbsp;latach dziennikarz „Gazety Wyborczej”, „wstęgę przecinał Jacek Kuroń, minister pracy i&nbsp;polityki społecznej, bo&nbsp;dostał od firmy czek na&nbsp;biedne dzieci”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Wśród gości obecna była między innymi Agnieszka Osiecka (błyszczący czarny żakiet i&nbsp;czarna spódnica za&nbsp;kolano) – jedno ze zdjęć ukazuje poetkę siedzącą przy stoliku zastawionym kieliszkami z&nbsp;szampanem i&nbsp;charakterystycznymi papierowymi kubkami z&nbsp;logo McDonald’s. Na&nbsp;kolejnej fotografii goście spożywający napój (być może „deserowy specjał zwany milk-shake – [...] bardzo dobry koktajl mleczno-lodowy, który ciągnie się przez rurkę”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>), słuchają ze skupieniem ubranego w&nbsp;uniform pracownika. Uwieczniono również uśmiechniętych policjantów z&nbsp;chorągiewkami McDonald’s; gości stłoczonych przy kasach, nad którymi w&nbsp;kasetonach na&nbsp;białym tle prezentują się dania; a&nbsp;także wygłaszającego przemówienie Kuronia, trzymającego w&nbsp;ręku wielki czek.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/tacy-bylismy/13-195-1-pb-1920x-b40.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/tacy-bylismy/13-195-1-pb-330x-c69.jpg 330w,assets/cache/images/issues/2013/01/tacy-bylismy/13-195-1-pb-660x-137.jpg 660w,assets/cache/images/issues/2013/01/tacy-bylismy/13-195-1-pb-768x-4c8.jpg 768w,assets/cache/images/issues/2013/01/tacy-bylismy/13-195-1-pb-1320x-f2c.jpg 1320w" src="assets/cache/images/issues/2013/01/tacy-bylismy/13-195-1-pb-660x-137.jpg" alt="" ></a>    <figcaption><p>Jacek Kuroń przemawiający na&nbsp;otwarciu restauracji Mc Donald's <a href="http://pokazywarka.pl/9qxs9f/" name="il1odsylacz" target="_blank" rel="noopener">(źródło)</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Zdjęcia te powróciły dziś w&nbsp;związku z&nbsp;okrągłą rocznicą dwudziestolecia wejścia marki McDonald’s na&nbsp;polski rynek<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Komentarze dziennikarzy i&nbsp;internautów wskazują jednak, że&nbsp;przyczyna wzrostu zainteresowania „rewolucyjnymi” wydarzeniami lat 90. – jak pisze „Gazeta Wyborcza”, „Big Mac kupiony w&nbsp;Warszawie był [...] znakiem rewolucji. W&nbsp;gastronomii, w&nbsp;polityce, wszędzie”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> – nie ogranicza się do zamiłowania do okrągłych rocznic, lecz wiąże się także z&nbsp;wypracowaniem możliwości mówienia o&nbsp;czasach tzw. transformacji jako przeszłości możliwej już do ujęcia z&nbsp;dystansu i&nbsp;w sposób uogólniający. Nacechowanemu częściowo nostalgią, częściowo wstydem stwierdzeniu „tacy wtedy byliśmy” nieuchronnie towarzyszy bowiem przekonanie, że&nbsp;„już tacy nie jesteśmy”. Choć większość opowieści o&nbsp;transformacji przybiera formę wspomnienia kapitalistycznego dzieciństwa, a&nbsp;więc przebytego przez społeczeństwo okresu niedojrzałości, to jednak możliwe jest również inne spojrzenie na&nbsp;transformację – niewolne zapewne od emocji, ale nastawione raczej na&nbsp;rozwarstwienie narracji linearnego rozwoju i&nbsp;odczarowanie „naturalnych” zmian systemowych<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. Taki cel stawiam sobie również w&nbsp;tym tekście, skupiając się na&nbsp;wybranych elementach przemian statusu towarów na&nbsp;początku lat 90.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/tacy-bylismy/13-196-1-pb-1920x-388.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/tacy-bylismy/13-196-1-pb-330x-0fb.jpg 330w,assets/cache/images/issues/2013/01/tacy-bylismy/13-196-1-pb-660x-ffa.jpg 660w,assets/cache/images/issues/2013/01/tacy-bylismy/13-196-1-pb-768x-168.jpg 768w,assets/cache/images/issues/2013/01/tacy-bylismy/13-196-1-pb-1320x-846.jpg 1320w" src="assets/cache/images/issues/2013/01/tacy-bylismy/13-196-1-pb-660x-ffa.jpg" alt="" ></a>    <figcaption><p>Kolejka do pierwszej restauracji McDonald’s <a href="http://www.mcdonaldsimy.pl/historia.php" name="il2odsylacz" target="_blank" rel="noopener">(źródło)</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Przynajmniej na&nbsp;pierwszy rzut oka kanapki McDonald’s nie są towarem typowym. Trudno je nawet jednoznacznie nazwać przedmiotami. Jednak analizowany już wielokrotnie mechanizm globalnego rozwoju marki, oparty w&nbsp;dużej mierze na&nbsp;wytwarzaniu pewnego rodzaju naddatku znaczenia w&nbsp;stosunku do produktu (obnażanego przez niektórych polskich dziennikarzy jako „bułka z&nbsp;kotletem”), pozwala na&nbsp;wydobycie dynamiki transformacyjnych procesów „wchodzenia” nowych towarów na&nbsp;polski rynek. Pojawienie się w&nbsp;Polsce amerykańskiej sieci zostało przyjęte z&nbsp;entuzjazmem, o&nbsp;czym świadczy nie tyle obecność na&nbsp;otwarciu gości pokroju Osieckiej i&nbsp;Kuronia, ile przede wszystkim kolejki wijące się przed wyróżniającą się wówczas swoją nowoczesnością siedzibą flagowej restauracji. Jak donosiły media, „silna ochrona będzie [...] strzec lokalu [...] podczas pierwszych dni po&nbsp;otwarciu”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>.</p> <p>Choć artykuły i&nbsp;notki prasowe utrzymane były zasadniczo w&nbsp;tonie przychylnym, niektóre podkreślały z&nbsp;rozczarowaniem tak późne, w&nbsp;porównaniu z&nbsp;innymi krajami postkomunistycznymi, wkroczenie firmy na&nbsp;polski rynek. W&nbsp;1988 roku otwarto pierwszego „McDonald’sa” na&nbsp;Węgrzech i&nbsp;w Serbii, w&nbsp;1990 roku w&nbsp;Rosji, zaś w&nbsp;marcu 1992 roku w&nbsp;Czechach. Dlatego w&nbsp;obszerniejszym tekście dziennikarz „Gazety Wyborczej” Piotr Bikont skrytykował strategię sieci niczym rasowy analityk rynku:</p> <blockquote>Nie mam żadnych wątpliwości, że&nbsp;inwazja McDonald’s na&nbsp;Warszawę nastąpiła za&nbsp;późno i&nbsp;została bardzo źle przygotowana strategicznie. Gdyby to było, powiedzmy, pół roku temu, kiedy rynek zarzucony był pseudomakdonaldowym świństwem, można było liczyć na&nbsp;łatwy sukces. Ale czasy się zmieniły i&nbsp;przyjdzie konkurować z&nbsp;ambitnymi, mniejszymi firmami, które zdążyły już dać się poznać z&nbsp;dobrej strony. Drugi błąd polegał na&nbsp;tym, że&nbsp;najwyraźniej z&nbsp;perspektywy drugiej półkuli ziemskiej Warszawa leży tuż obok Moskwy.</blockquote> <p>Dziennikarz skrytykował pozorność wysokiej jakości dań serwowanych w&nbsp;warszawskiej restauracji:</p> <blockquote>To, co serwują nam w&nbsp;Sezamie, odpowiada raczej standardowi moskiewskiemu. […] Zdumiewająco skromny jest wybór dań – wyłącznie hamburger, cheeseburger i&nbsp;Big Mac. A&nbsp;gdzie paluszki rybne? Gdzie panierowane kawałki kurczaka? Gdzie sałatki i&nbsp;zupy? Gdzie, wreszcie, wspaniałe ciepłe ciasto z&nbsp;jabłkami? Doprawdy, znacznie lepiej udać się choćby na&nbsp;Marszałkowską do Quicka – stamtąd znacznie bliżej do Ameryki i&nbsp;Europy<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>.</blockquote> <p>W artykule Bikonta aż&nbsp;roi się od ukrytych „znaturalizowanych” tez na&nbsp;temat polskiej konsumpcji lat 90. oraz postkomunistycznego społeczeństwa. Po&nbsp;pierwsze, według autora rozwój w&nbsp;Polsce charakteryzuje się niezwykle szybkim tempem – pół roku wystarczy, aby „czasy się zmieniły”, nie ma więc miejsca na&nbsp;długotrwałe analizy<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>. Po&nbsp;drugie pewne procesy – takie jak wprowadzanie na&nbsp;polski rynek znanych, światowych marek – zachodzą zbyt późno, rzekomo grożąc marce, jak w&nbsp;tym przypadku, przegraną z&nbsp;rozwijającymi się polskimi przedsiębiorstwami. Przekonanie o&nbsp;błyskawicznej, przyspieszonej czasowości jest zresztą stałym elementem transformacyjnych narracji – rzeczywistość zmienia się nadzwyczaj szybko, by z&nbsp;czasem ugrzęznąć w&nbsp;bezruchu.</p> <p>Kolejnym elementem tej transformacyjnej narracji jest trop nienowy – według niektórych badaczy fundamentalny dla kultury polskiej – mianowicie ambiwalentne przestrzenne usytuowanie Polski. Jak pisze Jan Sowa,</p> <blockquote>między dobrze określonymi biegunami Zachodu i&nbsp;dwóch rodzajów Wschodu – Rosji jako „Wschodu europejskiego” oraz Orientu jako „Wschodu obcego” – rozciąga się szary pas, którego definicja i&nbsp;habitus wymykają się czarno-białym kategoryzacjom<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>.</blockquote> <p>Sowa zwraca uwagę, że&nbsp;pomimo oczywistych granic geograficznych (wszyscy intuicyjnie wiemy, gdzie kończy się Zachód), państwa Europy Środkowo-Wschodniej nie wykształciły żadnego wspólnego zespołu cech pozytywnych, który mógłby stanowić o&nbsp;wspólnej (nawet jeśli skonfliktowanej) tożsamości owego pasa „ziemi niczyjej”. Krajów tych nie łączy w&nbsp;rzeczywistości żadne doświadczenie kulturowe poza ściśnięciem pomiędzy Wschodem a&nbsp;Zachodem, poza byciem „nie-Zachodem” i&nbsp;„nie-Wschodem”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. To właśnie ten rodzaj umiejscowienia – pomiędzy – stanowi więc w&nbsp;gruncie rzeczy o&nbsp;tożsamości społeczeństw zamieszkujących tak zwaną Europę Środkowo-Wschodnią, choć, jak wskazuje Sowa, ów stan bywał różnie interpretowany w&nbsp;zależności od kulturowego zaplecza danego kraju.</p> <p>Wschód i&nbsp;Zachód sytuują się rzecz jasna na&nbsp;przeciwległych krańcach pragnień krajów „środkowych”. Gdyby ulec na&nbsp;chwilę pokusie uproszczenia skomplikowanych struktur afektywnych, można by stwierdzić, że&nbsp;pogarda wobec Wschodu miesza się z&nbsp;żywionym przed nim strachem; pragnienie i&nbsp;pożądanie Zachodu niekiedy zakłócane jest zaś przez poczucie moralnej wyższości. Co zupełnie oczywiste, po&nbsp;1989 roku w&nbsp;oficjalnym dyskursie państw postkomunistycznych nastąpił – zarówno na&nbsp;poziomie propagowanych marzeń i&nbsp;wzorów, jak i&nbsp;na poziomie działań politycznych – otwarty zwrot ku wzorcom kapitalizmu zachodniego<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Różnica między „Wschodem” a&nbsp;„Zachodem” rysuje się niezwykle ostro i&nbsp;ujawnia w&nbsp;kontraście jakości (jak w&nbsp;tekście Bikonta). W&nbsp;kategoriach gastronomicznych „standardem moskiewskim” jest „mały, cienki i&nbsp;wybitnie suchy kotlet wołowy, bez żadnych dodatków poza cieniutkim plasterkiem konserwowego ogórka”. Nie ma przy tym wątpliwości, do którego standardu należy dążyć i&nbsp;na który zasługuje polskie społeczeństwo, oszukane przez korporację McDonald’s, według której „najwyraźniej Warszawa leży tuż obok Moskwy”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>.</p> <p>Wyraźna potrzeba odróżnienia się od „standardu moskiewskiego”, ale i&nbsp;przekonanie o&nbsp;konieczności i&nbsp;możliwości dogonienia Zachodu, przejawia się już w&nbsp;samej nazwie okresu i&nbsp;procesów rozpoczętych w&nbsp;1989 roku na&nbsp;terytorium państw bloku wschodniego. Pojęcie „transformacji” (<em>transition</em>), rozumianej jako proces polityczno-gospodarczy, po&nbsp;raz pierwszy pojawiło się w&nbsp;amerykańskiej politologii w&nbsp;latach 60. i&nbsp;70. i&nbsp;służyło określeniu zmian zachodzących w&nbsp;niektórych krajach Ameryki Południowej. Jak podkreśla jednak chorwacki teoretyk kultury Boris Buden, dopiero pod&nbsp;koniec lat 80. pojęcie to wypełniło się znaczeniem. Słowo „transformacja” – którego polskimi synonimami są „przeistoczenie”, „przekształcenie”, „przemiana” – zakłada bowiem nie tylko punkt wyjścia (stary układ polityczny), ale i&nbsp;punkt dojścia (nowy system). Upragnionym i&nbsp;jedynym możliwym końcem jest rzecz jasna system wolnorynkowy:</p> <blockquote>To przejście jest teleologiczne, to znaczy determinowane przez swój cel, i&nbsp;polega na&nbsp;pięciu się w&nbsp;górę po&nbsp;demokratycznej skali aż&nbsp;do samego szczytu – stanu urzeczywistnionej wolności w&nbsp;systemie demokracji liberalnej<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>.</blockquote> <p>W rezultacie dominuje retoryka doganiania, nadrabiania zaległości<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. Zamiast jeść kotlety wschodniej jakości, „lepiej udać się choćby na&nbsp;Marszałkowską do Quicka – stamtąd znacznie bliżej do Ameryki i&nbsp;Europy”.</p> <p>Problem lepszych i&nbsp;gorszych kotletów kieruje nas z&nbsp;kolei ku kwestii standaryzacji i&nbsp;wyznaczania norm. Tak w&nbsp;przypadku kotletów, jak w&nbsp;przypadku jeansów możliwa jest zapewne ocena jakości towaru przy wykorzystaniu określonej skali normatywnej. W&nbsp;tym przypadku interesujące są przede wszystkim sposoby rozsądzania o&nbsp;jakości, tworzenia norm dobrego smaku oraz łączenia tożsamości klasowej z&nbsp;konkretnymi przedmiotami.</p> <p>Analizując strategiczne błędy wejścia firmy McDonald’s do Polski, dziennikarz „Gazety Wyborczej” zwraca uwagę na&nbsp;występujące na&nbsp;rynku jeszcze przed pojawieniem się amerykańskiej sieci „<span class="rozstrzelony">pseudomakdonaldowe</span> świństwa”. Status „oryginalnych” (jak się okazuje, mimo wszystko nieco wadliwych) hamburgerów przysługuje więc tym z&nbsp;sieci McDonald’s, „podróbkami” są zaś – zapewne sprzedawane w&nbsp;przeżywających szczyt popularności w&nbsp;latach 80. i&nbsp;90. budkach z&nbsp;zapiekankami i&nbsp;frytkami – towary udające te amerykańskie. Podróbki są polskie, na&nbsp;co wskazuje stosowany przez Bikonta spolszczony zapis („makdonaldowe”) – zapis, przy którym nie ma miejsca na&nbsp;znak towarowy, przypominający o&nbsp;strategiach fałszerzy, produkujących „Abibasy”, „Reebocki”, czy „Umy”. W&nbsp;wypowiedzi Bikonta uderza jednak czasowa niezgodność – na&nbsp;polskim rynku pierwsze pojawiły się nie oryginalne Big Mac'i, ale podrobione „pseudomakdonaldowe świństwa”. Zatem w&nbsp;polskiej rzeczywistości przemian gospodarczych to podróbka okazuje się czasowo uprzednia wobec oryginału. Mimo to zostaje przez oryginał wyprzedzona symbolicznie. Dzieje się tak, rzecz jasna, za&nbsp;sprawą siły amerykańskiej marki<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>, symbolizującej nowy, zachodni porządek, marki obecnej w&nbsp;polskiej wyobraźni mimo jej nieobecności fizycznej.</p> <p>Na marginesie należy również podkreślić rolę ekspertów i&nbsp;komentatorów w&nbsp;procesie nadawania wartości przedmiotom. Bikont – choć brzmi to nieco śmiesznie – dysponuje popkulturową i&nbsp;fastfoodową erudycją, ponieważ, jak pisze, „przez długi czas [był] entuzjastą [tych] dań” i&nbsp;„jadał u&nbsp;McDonalda w&nbsp;różnych częściach świata”. Dzięki temu posiada wiedzę na&nbsp;temat innych dań restauracji i&nbsp;jest w&nbsp;stanie ocenić te już istniejące. Pojawianie się ekspertów, sprawnie odróżniających podróbki od oryginałów, elegancję od obciachu, luksus od kiczu – a&nbsp;więc posiadających i&nbsp;rozpowszechniających wiedzę o&nbsp;mechanizmach dystynkcji społecznej – jest również jednym z&nbsp;procesów charakterystycznych dla okresu przemian społecznych lat 90<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>.</p> <h2>Fałszywe pieniądze, prawdziwe torebki</h2> <p>„Towar wydaje się na&nbsp;pierwszy rzut oka rzeczą samo przez się zrozumiałą i&nbsp;trywialną”, pisze Marks w&nbsp;pierwszym tomie <em>Kapitału</em>, by następnie podwójnie podważyć to powszechne przekonanie<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. Nie chodzi wyłącznie o&nbsp;to, że&nbsp;pozornie trywialny towar pełen jest „metafizycznych subtelności” i&nbsp;„teologicznych kruczków”, ale również o&nbsp;to, że&nbsp;siła towaru jest siłą wyobrażoną, nadaną i&nbsp;podtrzymywaną przez system kapitalistyczny. Te dwie w&nbsp;zasadzie sprzeczne cechy towaru stanowią zagadkę dość prostą do rozwikłania – zależy, kto i&nbsp;kiedy (w którym systemie kulturowo-gospodarczym) patrzy na&nbsp;towar. Sam Marks ma rzecz jasna dostęp do wszystkich punktów widzenia, jego celem jest zaś rozszyfrowanie procesu nadawania towarom znaczeń – zaczarowywania trywialnego przedmiotu w&nbsp;towar, a&nbsp;następnie zapominania o&nbsp;akcie zaczarowania. Fetyszyzm towarowy polega na&nbsp;przyznawaniu zwykłym przedmiotom statusu magicznych towarów, których wartość warunkowana jest wiarą w&nbsp;niezwykłe cechy przedmiotu, nadawane mu nie w&nbsp;wyniku ludzkiej pracy, lecz rzekomo płynące z&nbsp;niego samego. Sam Marks obdarza przedmioty dość chłodnym spojrzeniem, w&nbsp;jego oczach nie posiadają bowiem magicznego naddatku, stają się z&nbsp;powrotem mało znaczącymi wytworami<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. Jak pisze Bill Brown, „Marks sprawia, że&nbsp;nawet złoto nie wydaje się ciekawe”<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>. Suchy styl niemieckiego filozofa kontrastuje z&nbsp;wiecznie migoczącym światem ożywionych towarów. Jak się bowiem wydaje, najbardziej dotkliwą formą krytyki kapitalizmu nie jest zwrócenie uwagi na&nbsp;to, że&nbsp;samo zdobywanie pieniędzy stanowi w&nbsp;nim wartość (kapitalista w&nbsp;końcu dobrze wie, co ceni), lecz zrekonstruowanie zupełnie irracjonalnych założeń postawy kapitalisty. Tak należy rozumieć odwołanie Marksa do tego, co w&nbsp;dziewiętnastowiecznym dyskursie najbardziej irracjonalne – prymitywnej religii<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. W.J.T. Mitchell we wnikliwej analizie obrazowego charakteru retoryki Marksa zauważa:</p> <blockquote>Część tej mocy jest retoryczna: figura „fetyszyzmu towarowego” [...] to rodzaj katachrezy, związanie siłą najbardziej prymitywnych, egzotycznych, irracjonalnych, najbardziej poniżonych przedmiotów z&nbsp;najbardziej nowoczesnymi, codziennymi, racjonalnymi i&nbsp;cywilizowanymi. Nazywając towary fetyszami, Marks mówi dziewiętnastowiecznemu czytelnikowi, że&nbsp;materialna podstawa nowoczesnej, cywilizowanej, racjonalnej ekonomii politycznej jest strukturalnym odpowiednikiem tego, co najbardziej wrogie nowoczesnej świadomości<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>.</blockquote> <p>Pojęcie fetyszymu jest zatem w&nbsp;rękach Marksa narzędziem rozbrajania „racjonalnego” systemu kapitalisystycznego, ujawniającym, że&nbsp;u&nbsp;samych podstaw tego systemu tkwi to, co irracjonalne i&nbsp;nienowoczesne. Skuteczność tej metody opiera się na&nbsp;rozpoznaniu, że&nbsp;kapitalista nie tylko czczci towary, ale także po&nbsp;nadaniu przedmiotowi cech bóstwa, zapomina o&nbsp;swojej wierze, naturalizując magiczne cechy – widząc ich źródło w&nbsp;samych przedmiotach. Dlatego Marks ironicznie komentuje rozpoznania dziewiętnastowiecznego traktatu na&nbsp;temat wartości ekonomicznej:</p> <blockquote>Dotychczas żaden chemik nie odkrył wartości wymiennej w&nbsp;perle lub diamencie. Jednakże ekonomiści-odkrywcy tej chemicznej substancji, którzy roszczą sobie szczególne pretensje do głębi krytycznej, uważają, że&nbsp;wartość użytkowa rzeczy jest niezależna od ich rzeczowych własności, natomiast wartość jest im właściwa jako rzeczom<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>.</blockquote> <p>Fetyszystyczny charakter relacji z&nbsp;nieożywionymi przedmiotami, którym tak pogardzali europejscy podróżnicy i&nbsp;etnografowie piszący o&nbsp;„niecywilizowanych” ludach, zostaje zakryty przez pozornie racjonalne pojęcie przynależnej przedmiotowi wartości. Wartość wymienna zastępuje wartość użytkową.</p> <p>Paradoks „nie-przedmiotowości” towarów (czy raczej, jak sądzi Bill Brown, napięcie wynikające z&nbsp;połączenia wykluczających się własności – materialności i&nbsp;abstrakcyjności przedmiotu), ich wydrążenie z&nbsp;funkcjonalności, a&nbsp;więc to, co Peter Stallybrass nazywa „jednym z&nbsp;najmniej rozumianych żartów Marksa”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>, może pomóc w&nbsp;opisaniu ambiwalentnej różnicy pomiędzy przedmiotem oryginalnym a&nbsp;podrobionym.</p> <p>Istnienie tak oryginału, jak i&nbsp;podróbki warunkowane jest przez ich wzajemność, ciągłe odnoszenie się do siebie. Celem podróbki jest uchodzenie za&nbsp;oryginał – idealna podróbka jest niemal niemożliwa do odróżnienia od oryginału. Idealną podróbkę może oddzielić od oryginału jedynie sprawne i&nbsp;wyćwiczone oko, świadome najdrobniejszych tajemnic produktu. W&nbsp;instruktażowym wideo <em>How to Authenticate a&nbsp;Louis Vuitton Handbag</em>, „główna specjalistka od autentyczności” portalu <a href="http://www.luxedesignerhandbags.com/" target="_blank" rel="noopener">LuxeDH</a> wylicza coraz to drobniejsze różnice między oryginałem a&nbsp;podróbką – idealna symetria znaczków „LV”, szwy wyglądające „jak gdyby wykonano je ręcznie” („bo oczywiście wykonano je ręcznie” – poprawia się po&nbsp;chwili specjalistka), inny odcień koloru, powstający w&nbsp;wyniku starzenia się skóry (oryginał ciemnieje, zamieniając się w&nbsp;„przepiękny miodowy odcień”, podróbka albo nie zmienia koloru, albo ciemnieje na&nbsp;„pomarańczowo”), czy bliżej niesprecyzowane wrażenie cenności skóry („wszystko będzie odczuwalnie drogie”). Łatwe do podrobienia szczegóły (kod na&nbsp;metce, zawierający informacje o&nbsp;miejscu produkcji) mieszają się z&nbsp;trudnymi do zdefiniowania odczuciami – cenności, autentyczności, luksusu. Nie tylko podróbka stara się uchodzić za&nbsp;oryginał, lecz także oryginał bezustannie odnosi się do podróbki, wskazując całą gamę „naturalnych” cech odróżniających towar oryginalny od podrobionego. Różnica pomiędzy oryginałem a&nbsp;podróbką rozgrywa się więc nie tylko, jak chcą niektórzy, w&nbsp;polu jakości, lecz również w&nbsp;obszarze magii towaru. Podobnie jak wartość wspomnianych przez Marksa pereł i&nbsp;diamentów jest arbitralnie przekładana na&nbsp;wartość innych towarów, tak wartość oryginalnej torebki Louisa Vuittona ustanawia się właśnie wobec wartości (bezwartościowości) fałszywki. Spomiędzy klasyfikacji towarów, rozróżnienie na&nbsp;oryginalne i&nbsp;podrobione wydaje się bardzo silnie osadzone właśnie w&nbsp;sferze fetyszyzacji.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zJBrhTnVpRg?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>    <div class="c-article-video__caption"><p><a href="http://www.youtube.com/user/LuxeDH?feature=watch" target="_blank" rel="noopener">LuxeDH</a>: How to Authenticate a&nbsp;Louis Vuitton Handbag</p></div>   </div>  </section><section class="u-typo">   <p>Ponadto napięcie pomiędzy podróbką a&nbsp;oryginałem wydobywa wizualny charakter każdego towaru – jego uzależnienie zarówno od wizualnych oznaczeń (logo, metka, szwy), jak i&nbsp;od wizualnych kompetencji konsumenta, rozpoznającego, bądź nie, jego status. Zidentyfikowanie podróbki może niekiedy wiązać się z&nbsp;pozbawieniem danego towaru skuteczności (polegającej w&nbsp;przypadku produktów luksusowych na&nbsp;wzmacnianiu prestiżu społecznego posiadacza). Niepewność pozycji podróbki, ciągle zagrożonej przez czujne oko obytego znawcy przedmiotów, wyraża się w&nbsp;jej statusie ontologicznym. Jak pisał Jacques Derrida o&nbsp;fałszywych pieniądzach (i <em>Fałszywym pieniądzu </em>Charles’a Baudelaire’a, przenosząc cechę fałszywości na&nbsp;poziom konstrukcji narracji literackiej):</p> <blockquote>Fałszywe pieniądze nigdy nie są, <span class="rozstrzelony">jako takie</span>, fałszywymi pieniędzmi. Gdy tylko stają się tym, czym są, gdy tylko zostają rozpoznane <span class="rozstrzelony">jako takie</span>, przestają działać jako fałszywe pieniądze i&nbsp;przestają mieć wartość fałszywych pieniędzy<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>.</blockquote> <p>Tożsamość podróbki jest więc niezwykle chwiejna, opiera się bowiem na&nbsp;nie-byciu tym, czym w&nbsp;rzeczywistości jest. „Fałszywy pieniądz nigdy, jako taki, nie jest fałszywym pieniądzem”. W&nbsp;jego chwiejnej tożsamości kryje się jednak kusząca potencjalność. Wszak podarowana żebrakowi fałszywa dwufrankówka z&nbsp;analizowanego przez Derridę krótkiego opowiadania Baudelaire’a ma szansę zarówno przyczynić się do dalszego upadku żebraka, jak i&nbsp;do wyprowadzenia go z&nbsp;nędzy:</p> <blockquote>Czyż nie mogła przeobrazić się w&nbsp;monety prawdziwe? Czyż nie mogła także zaprowadzić go do więzienia? Gdyby jakiś szynkarz czy piekarz doniósł na&nbsp;niego, że&nbsp;jest fałszerzem albo oszustem, co rozprowadza fałszywe pieniądze? Mogła wreszcie, jeśli biedak był trochę finansistą, stać się zalążkiem kilkudniowej fortuny. Tak to wyobraźnia ponosiła mnie coraz dalej, wyciągając wszystkie możliwe wnioski ze wszystkich możliwych przesłanek i&nbsp;przypinając skrzydła duszy mojego przyjaciela<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>.</blockquote> <p>Czy więc podróbka zagraża istnieniu oryginału, czy raczej je warunkuje, podbijając wartość oryginału swoją niedoskonałością? Czy podważa fetyszyzm towarowy, rozwiewając złudzenia rzekomo istotowej wartości przypisywanej oryginałom, a&nbsp;także ich poszczególnym właściwościom (dlaczego miodowy miałby być lepszy od pomarańczowego, a&nbsp;trzy paski modniejsze od czterech?), czy też jest jedną z&nbsp;sił napędzających fetyszyzm towarowy?</p> <p>Wróćmy na&nbsp;chwilę do Marksa i&nbsp;jego taktyki wykorzystywanej w&nbsp;walce z&nbsp;systemem kapitalistycznym<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>. Pułapka zastawiona na&nbsp;pozornie racjonalny kapitalizm polegała w&nbsp;tym przypadku na&nbsp;ukazaniu irracjonalności zachowań oraz wynikających z&nbsp;nich niesprawiedliwości społecznych. Nie bez powodu jednak do roli konia trojańskiego wybrany został towar, rzecz na&nbsp;pozór trywialna. Marks wierzy bowiem, że&nbsp;cały system kapitalistyczny da się przeczytać przez towar właśnie, przez taki rodzaj rzeczy, która w&nbsp;oczach kapitalistycznego społeczeństwa nabrała magicznych właściwości, by później na&nbsp;powrót je stracić. Jak pisze Brown,</p> <blockquote>Marks przedstawia <em>Kapitał</em> jako przedsięwzięcie hermeneutyczne: rozszerzoną interpretację strukturalnego faktu – tego, że&nbsp;towar zarazem jest i&nbsp;wcale nie jest rzeczą [...] Retoryczna siła deklarowanej i&nbsp;obszernie opisywanej tajemnicy leży w&nbsp;jej zdolności do przekonania nas, że&nbsp;istnieje prawda – cała prawda Kapitału rozumianego jako system – zalegająca na&nbsp;dnie tajemnicy, spoczywająca tam, właśnie tam, w&nbsp;towarze<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>.</blockquote> <p>Czy idąc śladami Marksa, dowiemy się czegoś na&nbsp;temat przemian gospodarczo-społecznych lat 90., jeśli skupimy się na&nbsp;roli i&nbsp;funkcji tego jednego zjawiska, jakim jest podróbka? Czy aspirująca do miana oryginału fałszywka – „pseudomakdonaldowe świństwa”, „fałszywe perfumy Poison [...] wykonane na&nbsp;wodzie kwiatowej Spółdzielni Inwalidów Świt”<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>, rozmaite „Romexy i&nbsp;Orlexy”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup> – może nam powiedzieć coś o&nbsp;strukturze życia społecznego i&nbsp;dominujących wyobrażeń na&nbsp;temat tego, jak powinno wyglądać życie pośród rzeczy po&nbsp;1989 roku?</p> <h2>Polska fałszywka</h2> <p>16 kwietnia 1993 roku uchwalono ustawę o&nbsp;nieuczciwej konkurencji. Podrabianie produktów, eufemistycznie nazwane tam „naśladownictwem”, zostało zdefiniowane w&nbsp;osobnym artykule ustawy<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>. Obowiązująca do dziś ustawa (z drobnymi poprawkami, nie dotyczącymi jednak interesującego nas artykułu trzynastego) wyróżnia dwie warstwy produktu – zewnętrzną i&nbsp;wewnętrzną – z&nbsp;których, w&nbsp;ramach tej ustawy, jednie zewnętrzna podlega ochronie. Naśladowanie cech stanowiących o&nbsp;użyteczności przedmiotu nie zostało zdefiniowane w&nbsp;tej ustawie jako karalne, a&nbsp;w zamian ustawodawca wyraźnie zatroszczył się o&nbsp;konsumentów, którzy mogą zostać „wprowadzeni w&nbsp;błąd” przez podróbki. Podobne cele stawiała sobie część ówczesnej prasy (na czele z&nbsp;„Gazetą Wyborczą”), przyjmując rolę edukatorów, prowadzących konsumenta za&nbsp;rękę przez skomplikowany labirynt wolnego rynku. Troska ustawodawcy i&nbsp;mediów prowokuje jednak pytania zarówno o&nbsp;możliwości taktycznego podejścia do podróbek (przywołujących na&nbsp;myśl potencjalność Baudelaire’owskiej dwufrankówki), używania ich wbrew wkraczającym na&nbsp;rynek wielkim korporacjom, jak i&nbsp;o prawdopodobieństwo i&nbsp;konsekwencje całkowitej przezroczystości (nieistotności) marki na&nbsp;początku lat 90. Czy można mówić o&nbsp;„wprowadzaniu klientów w&nbsp;błąd” w&nbsp;sytuacji, w&nbsp;której podróbka nie jest uznawana (jeszcze) za&nbsp;błąd?</p> <p>Stwierdzenie, że&nbsp;początek lat 90. to moment gwałtownego zalania rynku towarami, brzmi rzecz jasna dość banalnie i&nbsp;należy do powszechnej wiedzy o&nbsp;czasach transformacji; jest jednym z&nbsp;podstawowych motywów narracji przełomu. W&nbsp;zbiorowej i&nbsp;indywidualnej pamięci przechowujemy obrazy z&nbsp;tamtych lat, obrazy w&nbsp;barwach lat 90., nieco bardziej jaskrawej wersji koloru późnego PRL-u. Kolor ten powrócił w&nbsp;nostalgicznym projekcie <em>1994 </em>Mikołaja Długosza, w&nbsp;którym autor, wykorzystując zdjęcia wykonane na&nbsp;potrzeby reklamowe, przywołał przedmioty kiedyś (czasem nadal) zaludniające nasze otoczenie. „Zaludniające” właśnie, bo&nbsp;przecież prezentowane przez Długosza zdjęcia reklamowe to właściwie portrety rzeczy. Sfotografowane na&nbsp;kolorowym, sugerującym przestrzenną głębię tle „Colcafe Instant Coffee”, „Ketchup Billy”, dezodorant „Old Spice” i&nbsp;kaseta VHS „Raks” wyglądają dumnie. Życie rzeczy w&nbsp;<em>1994 </em>nie posiada wymiaru społecznego (nie dowiadujemy się, co się z&nbsp;nimi stało, w&nbsp;jakiego rodzaju relacje wchodziły z&nbsp;ludźmi czy z&nbsp;innymi przedmiotami)<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>, jest w&nbsp;pewnym sensie życiem wiecznym. Zwracając się ku pierwotnym pozbawionym opisów i&nbsp;cen zdjęciom „pakszotowym” (zapewne później trafiającym do gazetek reklamowych i&nbsp;na billboardy), Długosz przypomina utracone uczucie zadziwienia nowymi towarami<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/tacy-bylismy/13-197-1-pb-1920x-2ab.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/tacy-bylismy/13-197-1-pb-330x-f79.jpg 330w,assets/cache/images/issues/2013/01/tacy-bylismy/13-197-1-pb-660x-958.jpg 660w,assets/cache/images/issues/2013/01/tacy-bylismy/13-197-1-pb-768x-ea2.jpg 768w,assets/cache/images/issues/2013/01/tacy-bylismy/13-197-1-pb-1320x-4e4.jpg 1320w" src="assets/cache/images/issues/2013/01/tacy-bylismy/13-197-1-pb-660x-958.jpg" alt="" ></a>    <figcaption><p>Mikołaj Długosz, zdjęcie z&nbsp;serii <em>1994</em>, 2010</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Owo zadziwienie dobrze oddają również polskie filmy z&nbsp;początku lat 90., w&nbsp;których bohaterowie dosłownie nie mogą oderwać oczu od produktów – wskazują je palcami, pokazują sobie nawzajem, powtarzają opisywaną przez Marksa czynność obracania towaru na&nbsp;wszystkie strony<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>. Przechadzająca się po&nbsp;bazarze na&nbsp;placu Defilad bohaterka <em>Pajęczarek </em>(reż. B. Sass, 1993) wgapia się w&nbsp;towary, wlepia w&nbsp;nie wzrok, co chwila odbiega i&nbsp;wraca do spacerującej z&nbsp;nią starszej siostry. Przemiana bohatera <em>Młodych wilków </em>(reż. J. Żamojda, 1995) – z&nbsp;kujona w&nbsp;przemytnika – pokazywana jest również jako przejście między przedmiotami, konkretnie: ufundowanym przez amerykańskiego biznesmena ciężkim komputerem a&nbsp;szybkim motorem, użyczonym bohaterowi przez miejscowego gangstera. Scena przymierzania kolejnych płaszczy w&nbsp;rytmie organkowego disco ma w&nbsp;filmie <em>Kapitał, czyli jak zrobić </em><em>pieniądze w&nbsp;Polsce </em>(reż. F. Falk, 1990) oddawać przemianę, którą przechodzi główny bohater – kiedyś naukowiec, od przełomu politycznego biznesmen (kolejno inwestujący w&nbsp;smażalnię frytek, punkt ksero i&nbsp;biuro matrymonialne), powoli i&nbsp;z bólem dostosowujący się do nowego systemu.</p> <p>Jednak w&nbsp;pewnym sensie przedmioty grające w&nbsp;filmach ważne role nie są markowe – ważne jest nie tyle pochodzenie przedmiotu, ile sama jego obecność. W&nbsp;jednej z&nbsp;pierwszych scen <em>Pajęczarek </em>bohaterka dostaje od trenera wymarzone buty sportowe – podobne do tych, które na&nbsp;początku filmu oglądała na&nbsp;straganie. Na&nbsp;podeszwie kolorowych „adidasów” widnieje jednak nie markowe logo, ale podrobiony logotyp znanej firmy sportowej – charakterystyczna pantera przeskakuje w&nbsp;tym przypadku napis „UMA”.</p> <p>Podróbka jest jednak przezroczysta. Wycięty pilnikiem na&nbsp;upragnionych butach napis „Ewa”, świadczący o&nbsp;posiadaniu, jest tu o&nbsp;wiele ważniejszy niż brak jednej literki w&nbsp;słowie „Puma”. W&nbsp;jednej z&nbsp;kolejnych scen filmu na&nbsp;podeszwie widzimy już prawdziwe logo firmy („PUMA” i&nbsp;panterę) co uwidacznia, jak się wydaje, nie tylko niedbałość polskich rekwizytorów filmowych, ale również obojętność żywioną wobec marki<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/tacy-bylismy/13-198-1-pb-1920x-dc4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/tacy-bylismy/13-198-1-pb-330x-252.jpg 330w,assets/cache/images/issues/2013/01/tacy-bylismy/13-198-1-pb-660x-704.jpg 660w,assets/cache/images/issues/2013/01/tacy-bylismy/13-198-1-pb-768x-a49.jpg 768w,assets/cache/images/issues/2013/01/tacy-bylismy/13-198-1-pb-1320x-d62.jpg 1320w" src="assets/cache/images/issues/2013/01/tacy-bylismy/13-198-1-pb-660x-704.jpg" alt="" ></a>    <figcaption><p><em>Pajęczarki, </em>reż. Barbara Sass, 1993</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Tymczasem to właśnie przed obojętnością przestrzegają dziennikarze w&nbsp;licznych artykułach na&nbsp;temat podrabianych produktów. W&nbsp;ich wypowiedziach uderza zwłaszcza łatwość przyjęcia systemu marek oraz bezrefleksyjność opowiedzenia się po&nbsp;stronie wielkich korporacji – nieprzystające, jak się wydaje, do ówczesnego rynku obrotu towarami, w&nbsp;których bazary dominowały nad centrami handlowymi i&nbsp;firmowymi sklepami. By opisać bazarowych biznesmenów, dziennikarze odwołują się do języka kryminalnego – perfumy podrabiają „gangi” (złożone z&nbsp;kilkunastu osób)<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>, dżinsy zaś piraci<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>. Równocześnie dziennikarze często wikłają się w&nbsp;sprzeczności – ostrzegając klientów przed podrobionymi telewizorami, psującymi się po&nbsp;kilku latach, autor artykułu przyznaje równocześnie, że&nbsp;„żywotność odbiorników [...] Otake, Royal, Funai [...] wynosi 3-4 lata”<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>. Zaskakuje również łatwość akceptowania zawyżonych cen – co prawda „w warszawskim Diorze jest drogo, [...] lansowane obecnie perfumy Diune kosztują ponad 1 mln zł”, ale „płaci się za&nbsp;firmę, obsługę”, bo&nbsp;w&nbsp;końcu „oryginał kosztuje”, czytamy w&nbsp;artykule z&nbsp;początku 1992 roku<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/tacy-bylismy/13-199-1-pb-1920x-326.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/tacy-bylismy/13-199-1-pb-330x-e95.jpg 330w,assets/cache/images/issues/2013/01/tacy-bylismy/13-199-1-pb-660x-a5e.jpg 660w,assets/cache/images/issues/2013/01/tacy-bylismy/13-199-1-pb-768x-e48.jpg 768w,assets/cache/images/issues/2013/01/tacy-bylismy/13-199-1-pb-1320x-3a8.jpg 1320w" src="assets/cache/images/issues/2013/01/tacy-bylismy/13-199-1-pb-660x-a5e.jpg" alt="" ></a>    <figcaption><p><em>Pajęczarki, </em>reż. Barbara Sass, 1993</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Teksty dotyczące podróbek służą jednak przede wszystkim kształceniu świeżo upieczonych konsumentów w&nbsp;odróżnianiu oryginałów od fałszywek. Ważna okazuje się zmieniająca się w&nbsp;czasach transformacji przestrzeń zakupów – w&nbsp;dużych miastach bazary stopniowo wypierane są przez centra handlowe. Najprostszym sposobem na&nbsp;uniknięcie podróbek jest sięganie do „pewnego źródła”, czyli powoli pojawiających się w&nbsp;Polsce sklepów firmowych. „Jeśli na&nbsp;polowym łóżku leży T-shirt z&nbsp;metką Benettona – to na&nbsp;pewno jest podrobiony. Nasze wyroby można kupić wyłącznie w&nbsp;sklepach firmowych”<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup>, mówi w&nbsp;1992 roku dziennikarce prezes Benetton Central Europe. W&nbsp;1993 roku „Levi Strauss ostrzega, że&nbsp;oryginalne dżinsy można kupić tylko w&nbsp;firmowych sklepach”<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup>. „Podróbki są coraz bardziej eleganckie i&nbsp;coraz droższe” – mówi Kazimiera Krawczyk z&nbsp;Adidasa. „Trudno więc poznać podróbkę po&nbsp;niskiej cenie. Wciąż najpewniejszym sposobem uniknięcia podróbek są zakupy w&nbsp;renomowanych sklepach”, pisze Jacek Pawlicki już w&nbsp;1996 roku<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup>.</p> <p>Przewaga infrastruktury bazarowej polegała jednak na&nbsp;możliwości przebierania w&nbsp;towarach, negocjowania cen, zestawiania ze sobą różnych „marek”. Jak pisze Roch Sulima o&nbsp;Stadionie Dziesięciolecia:</p> <blockquote>[...] dla kilkudziesięciotysięcznej rzeszy kupujących tu każdego dnia „detalistów” rytuały eksploracyjne nabrały znaczenia, gdyż syndrom pogranicza to tyle, co syndrom „okazji”. „Okazji” jako zdarzenia quasi-niesystemowego, a&nbsp;więc zakupu „z przemytu”, „z drugiej ręki”, „wyjątkowo tanio” np.&nbsp;towarów znanych marek<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup>.</blockquote> <p>Właśnie takich klientów pragnęły wyedukować korporacje za&nbsp;pomocą mediów, dostarczając im narzędzi odróżniania „ziaren (oryginałów) od plew (podróbek)”<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup>. W&nbsp;artykułach pojawiają się wyliczenia wizualnych wyznaczników marek – nie są to już wcale metki (zapewne w&nbsp;związku z, uwiecznionym w&nbsp;<em>Kapitale </em>Falka, nielegalnym obrotem metek oraz pojawieniem się wytwórni fałszywych metek, przestały one pełnić rolę wyznaczników oryginału), ale elementy mniej oczywiste – produkt podrobiony od oryginalnego odróżnia między innymi „brak plastikowej wkładki wzmacniającej”<sup><a href="#sdfootnote45sym" name="sdfootnote45anc">45</a></sup>, brak „firmowych guzików, miedzianych nitów, szew rozłożony w&nbsp;nogawce spodni”<sup><a href="#sdfootnote46sym" name="sdfootnote46anc">46</a></sup>, „instrukcja obsługi odbita na&nbsp;ksero”<sup><a href="#sdfootnote47sym" name="sdfootnote47anc">47</a></sup>, brak hologramów, zabezpieczeń i&nbsp;znaków bezpieczeństwa.</p> <p>Negocjacje między bazarowymi podróbkami a&nbsp;nabywanymi w&nbsp;firmowych sklepach oryginałami to równocześnie kolejny w&nbsp;Polsce obszar „pomiędzy”, pomiędzy Wschodem a&nbsp;Zachodem. Walczące o&nbsp;„ucywilizowanie rynku” firmy produkujące markowe produkty to w&nbsp;większości zachodnie korporacje (z wyjątkiem zdominowanego przez azjatyckie firmy rynku sprzętu elektronicznego), reprezentowane przez krajowe lub regionalne, wschodnioeuropejskie oddziały<sup><a href="#sdfootnote48sym" name="sdfootnote48anc">48</a></sup>, dające, za&nbsp;sprawą pochodzenia marki (choć nie pochodzenia produkowanych przez nią towarów, wytwarzanych już przecież na&nbsp;rozwijających się rynkach azjatyckich), gwarancję „zachodniej jakości”<sup><a href="#sdfootnote49sym" name="sdfootnote49anc">49</a></sup>. Towary z&nbsp;bazaru są z&nbsp;kolei, według jednego z&nbsp;handlujących w&nbsp;1992 roku na&nbsp;Stadionie Dziesięciolecia, „robione pod&nbsp;Ruskich [...] Polak tego nie kupi, a&nbsp;Ruskie biorą”<sup><a href="#sdfootnote50sym" name="sdfootnote50anc">50</a></sup>, a&nbsp;do tego pochodzą albo ze Wschodu albo z&nbsp;małych polskich miasteczek (region łódzki kontynuował tradycję włókienniczą, przodując w&nbsp;podrabianiu dresów i&nbsp;T-shirtów Adidasa<sup><a href="#sdfootnote51sym" name="sdfootnote51anc">51</a></sup>).</p> <p>Zacytowana jako motto tekstu wypowiedź Jerzego Mazgaja, znanego polskiego biznesmena, jednego z&nbsp;wygranych polskiej transformacji, sprowadzającego na&nbsp;nasz rynek luksusowe marki (m.in. Burberry, Ermenegildo Zegna, Kenzo) wskazuje na&nbsp;siłę społecznej dystynkcji (różnicowania i&nbsp;wykluczania), którą dysponuje podróbka. Podróbkę można poznać po&nbsp;właścicielu, mówi Mazgaj, sugerując pewien rozpoznawalny wizualny styl tych, których nie stać na&nbsp;oryginały, a&nbsp;którzy jednocześnie aspirują do tego, by wyglądać tak, jakby ich było na&nbsp;nie stać. Za&nbsp;pragnieniem Mazgaja, by za&nbsp;pomocą podróbki nie dało się już uchodzić za&nbsp;kogoś bogatszego niż w&nbsp;rzeczywistości, stać może pragnienie mniejszej przepuszczalności granic klasowych, pragnienie, by transformacja dobiegła końca, stała się już zamkniętym okresem polskiej historii.</p> <p>Polska transformacja rozegrała się jako przejście od przezroczystości podróbki (i oryginału) do ich coraz większej widoczności w&nbsp;sferze publicznej; od rozlewających się w&nbsp;przestrzeniach miast bazarów do skupionych w&nbsp;budynkach centrów handlowych, których przestrzeń dzieli się na&nbsp;„firmowe” sklepy; od zachwytów nad towarami do zachwytów nad markowymi oryginałami. Napięcie między podróbką a&nbsp;oryginałem, widoczne w&nbsp;walce o&nbsp;nieprzezroczystość podróbki, pojawia się również w&nbsp;innych transformacyjnych dyskusjach. Czy nowobogaccy nie zostają okrzyknięci podróbką prawdziwych zachodnich bogaczy, mieszanką złożoną z&nbsp;obrazów zachodniego i&nbsp;wschodniego luksusu i&nbsp;przepychu?<sup><a href="#sdfootnote52sym" name="sdfootnote52anc">52</a></sup> Czy sam polski system gospodarczy nie mógłby zostać potraktowany jak podróbka zachodniego, bezkrytyczne naśladownictwo, świadome przyszywania metki do produktu szytego, z&nbsp;tego, co pod&nbsp;ręką?</p> <p>W tym kontekście transformacja może zostać odczytana nie tylko jako okres walki podróbki z&nbsp;oryginałem, ale także okres stopniowego wyostrzania różnicy pomiędzy tymi dwoma rodzajami towarów. Być może, aby dołączyć do grona „nowoczesnych” i&nbsp;„racjonalnych” gospodarek europejskich, Polska musiała zapomnieć o&nbsp;fetyszystycznym czarze rzucanym na&nbsp;„oryginały”, a&nbsp;więc naturalnie bardziej wartościowe towary. Stawanie się nowoczesnym wymaga zapomnienia o&nbsp;źródłach różnicy pomiędzy oryginałem a&nbsp;podróbką, o&nbsp;tym, że&nbsp;nie są to istotowe własności towarów. Tam gdzie Adidasy zastępują „Abibasy”, tam „nowoczesna klasa średnia” wypiera nowobogackich, a&nbsp;„normalna nowoczesna Polska” zastępuje „szaloną Polskę lat 90.”.</p> <p></p> <p>Projekt został sfinansowany ze środków Narodowego Centrum Nauki przyznanych na&nbsp;podstawie decyzji numer DEC-2012/05/N/HS2/03077</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Cyt. za: Piotr Mazurkiewicz, <em>Podróbka dla każdego, „</em>ekonomia24.pl” z 13 lipca 2012, <a href="http://www.ekonomia24.pl/artykul/913302.html" target="_blank" rel="noopener">http://www.ekonomia24.pl/artykul/913302.html</a>, dostęp 20 grudnia 2012.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Dariusz Bartoszewicz, <em>Kuroń przecina wstęgę, </em>dodatek „Spacerownik. Warszawa lat 90.” do „Gazety Wyborczej” z 25 maja 2008, s. 14.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Piotr Bikont, <em>McDonalda wersja wschodnia, </em>dodatek „Weekend” do „Gazety Wyborczej” z 19 czerwca 1992, s. 14.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Zdjęcia z otwarcia zostały opublikowane na stronie McDonald’s, w artykule „Gazety Stołecznej” oraz na wielu portalach internetowych. Por. <a href="http://pokazywarka.pl/9qxs9f/" target="_blank" rel="noopener">http://pokazywarka.pl/9qxs9f/</a>, dostęp 25 listopada 2012; <a href="http://www.mcdonaldsimy.pl/historia.php" target="_blank" rel="noopener">http://www.mcdonaldsimy.pl/historia.php</a>, dostęp 25 listopada 2012.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>wot, <em>Pionierski czas McDonald’s. Już od 20 lat w Polsce</em>, „Gazeta Stołeczna” z 17 czerwca 2012, <a href="http://wyborcza.pl/1,126565,11945706,Pionierski_czas_McDonald_s__Juz_od_20_lat_w_Polsce.html" target="_blank" rel="noopener">http://wyborcza.pl/1,126565,11945706,Pionierski_czas_McDonald_s__Juz_od_20_lat_w_Polsce.html</a>, dostęp 20 grudnia 2012.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Wyróżnić tu można np. stanowisko etnografów i antropologów (m.in. Monika Baer, Michał Buchowski), podkreślających nierównomierność przemian transformacyjnych we wsiach i miastach, i opowiadających się za korzystaniem z terminu „transformacje” zamiast „transformacja”. Por. Monika Baer, <em>Transformacje transformacji. O problemach antropologii postsocjalizmu, </em>w: <em>Antropologiczne badania zmiany kulturowej, </em>red. K. Górny, M. Marczyk, Katedra Etnologii i Antropologii Uniwersytetu Wrocławskiego, Wrocław 2009. Innym odczarowującym podejściem są prace badaczy sugerujących zaprzepaszczenie szansy na odnalezienie tzw. trzeciej drogi, pozwalającej na stworzenie nowego, wschodnioeuropejskiego modelu funkcjonowania rynku, a także badaczy podkreślających skalę trudności towarzyszących podmiotom w trakcie transformacji ekonomicznej. Por. np. wyniki badań przeprowadzanych w polskich zakładach produkcyjnych wykupywanych przez zagraniczne koncerny w: Elizabeth Dunn, <em>Prywatyzując Polskę. Antropologiczne spojrzenie na polską transformację, </em>przeł. P. Sadura, Wydawnictwo Krytyki Politycznej, Warszawa 2007.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Anna Gąsiorowska, <em>Pierwszy McDonald w Polsce, </em>„Gazeta Wyborcza” z 17 czerwca 1992, s. 5.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Piotr Bikont, <em>McDonalda...</em>.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>W ten sposób argumentowano między innymi konieczność wprowadzenia „terapii szokowej” polskiego systemu gospodarczego. Terapia miała zostać zastosowana z zaskoczenia i całkowicie – w najkrótszym możliwym czasie – przeobrazić strukturę gospodarczo-społeczną. Por. Jane Hardy, <em>Nowy polski kapitalizm, </em>przeł. A. Czarnacka, Instytut Wydawniczy Książka i Prasa, Warszawa 2012.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Jan Sowa, <em>Fantomowe ciało króla. Peryferyjne zmaganie z nowoczesną formą, </em>Wydawnictwo Universitas, Kraków 2011, s. 15.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>Jednym z możliwych punktów krytyki inspirującej książki Sowy jest ograniczenie zainteresowań autora do sfery gospodarczej. Jako że kompleks niebycia Zachodem obecny jest z pewnością także w innych formach działalności kulturowej, mniej związanych z gospodarką, być może możliwe byłoby wyszukanie charakterystycznie wschodnich modeli niektórych praktyk kulturowych.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Należy podkreślić, że wzorce te odnaleźć można w kulturze polskiej nie tylko przed okresem PRL-u, ale również w czasach komunizmu, którego kulturowe granice nie były szczelne, lecz przepuszczalne – wytwarzały rozmaite wyobrażenia i wzory „zachodniości”. Nie chciałabym więc sugerować nieobecności dążeń do naśladowania wzorów zachodnich w czasach komunizmu, lecz zasygnalizować jedynie zwrot ku retoryce zachodniego kapitalizmu w oficjalnym dyskursie. Oczywiście również w czasach PRL-u zmieniało się podejście do kwestii konsumeryzmu. Ciekawym tłem dla rozpoznań historyków kultury jest, nieopisana dotąd, historia prób wkroczenia na rynek polski firmy McDonald’s. W latach 1979–1980 reprezentanci firmy prowadzili negocjacje z Ministerstwem Handlu Wewnętrznego i Usług w sprawie „stworzenia wspólnie ze Społem »systemu masowego żywienia«”. Umowa została uzgodniona w 1980 roku, jednak jej podpisanie zostało zawieszone ze względu na sytuację polityczną. Taka choćby możliwość współpracy firmy McDonald’s, uznawanej za ikonę globalnego kapitalizmu, ze spółdzielnią „Społem” wskazuje na istnienie w PRL-u silnych potrzeb oraz praktyk konsumerystycznych. Por. aga, uś, <em>Big Mac zamiast leniwych, </em>„Gazeta Wyborcza” z 15 czerwca 1992, s. 5.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>Piotr Bikont, <em>McDonalda...</em></p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Boris Buden, <em>Strefa przejścia. O końcu postkomunizmu, </em>przeł. M. Sutowski, Wydawnictwo Krytyki Politycznej, Warszawa 2012, s. 36.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>Jan Sowa przypisuje tę logikę całej kulturze polskiej od XVI wieku. „To jasne, że tożsamość zawsze określa się w kategoriach relacyjnych, to znaczy wobec kogoś lub czegoś, jednak szczególna sytuacja państw w tej [wschodniej] części Europy polega na ich wiecznym uwięzieniu w logice doganiania‑uciekania, która nie stosuje się do państw Europy Zachodniej”. Zob. Jan Sowa, <em>Fantomowe ciało...</em>, s. 18.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>W siłę marki McDonald’s wierzyli zapewne również szefowie firmy, którzy wyznali „że firma obejdzie się bez wielkiej kampanii reklamowej, bo „wystarczy otworzyć drzwi, uśmiechać się i pilnować, by nie zabrakło frytek”. Można by argumentować, że na tak pustym rynku niepotrzebna jest kampania reklamowa, jednak dziennikarze relacjonujący otwarcie restauracji wskazywali na nieproporcjonalne do zarobków (również pracowników McDonaldsa) ceny posiłków. Por. wot, <em>Pionierski czas McDonald’s</em>...</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>Por. Pierre Bourdieu, <em>Dystynkcja. Społeczna krytyka władzy sądzenia, </em>przeł. P. Biłos, Wydawnictwo Naukowe Scholar, Warszawa 2005.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>Karol Marks, <em>Kapitał. Krytyka ekonomii politycznej</em>, tom I, ks. 1, <em>Proces wytwarzania kapitału</em>, dział I, <em>Towar i pieniądz</em>, rozdział I, <em>Towar</em> – 4. <em>Fetyszyzm towarowy i jego tajemnica</em>, Wydawnictwo Książka i Wiedza, Warszawa 1951, s. 76.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>Jak zauważa Bill Brown, jedynym ciekawym przedmiotem jest, wspomniany na samym początku rozdziału o fetyszyzmie towarowym stół, który „nie tylko stoi nogami na podłodze, ale staje na głowie, przeciwstawiając się wszystkim innym towarom, i wysnuwa ze swej drewnianej głowy fantazje dziwniejsze, niż gdyby się puścił nagle w tany”. Por. Karol Marks, <em>Kapitał..., </em>s. 76. Według Browna w stole tym ujawnia się splot materialności i niematerialności towaru, który mimo ożywienia i wyabstrahowania nie traci swojej fizyczności. Bill Brown, <em>A Sense of Things: The Object Matter of American Literature, </em>University of Chicago Press, Chicago 2003.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>Bill Brown, A <em>Sense..., </em>s. 29.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a>Termin „fetysz” pojawia się po raz pierwszy w obiegu naukowym w połowie osiemnastego wieku za sprawą pracy <em>O kulcie fetyszów </em>Charlesa de Brosses’a z 1760 roku. Por. Charles de Brosses, <em>O kulcie fetyszów, </em>przeł. M. Skrzypek, Polska Akademia Nauk Instytut Filozofii i Socjologii, Warszawa 1992. Por. także William Pietz, <em>The Problem of the Fetish, I, </em>„RES: Anthropology and Aesthetics” 1985, nr 9; idem, <em>The Problem of the Fetish, II, </em>„RES: Anthropology and Aesthetics” 1987, nr 13; idem, <em>The Problem of the Fetish, III, </em>„RES: Anthropology and Aesthetics” 1988, nr 16.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>W.J.T. Mitchell, <em>Iconology: Image, Text, Ideology, </em>University of Chicago Press, Chicago 1987, s. 191.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a>Karol Marks, <em>Kapitał..., </em>s. 89.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a>Peter Stallybrass, <em>Marx’s Coat, </em>w: <em>Border Fetishes: Material Objects in Unstable Spaces, </em>red. P. Spyer, Routledge, New York 1998, s. 184.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a>Jacques Derrida, <em>Donner le temps: 1. La fausse monnaie, </em>Galilée, Paris 1991, cyt. za: Jacques Derrida, <em>Given Time: 1. Counterfeit Money</em>, przeł. P. Kamuf, The University of Chicago Press, Chicago 1992, s. 87.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a>Charles Baudelaire, <em>Fałszywy pieniądz, </em>w: idem, <em>Paryski splin. Poematy prozą, </em>przeł. R. Engelking, słowo/obraz terytoria, Gdańsk 2008, s. 98.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a>Jak pokazuje Peter Stallybrass, Marks walczył z kapitalizmem nie tylko w pismach, ale także w życiu. Nie chodzi jednak o aktywizm społeczny w dzisiejszym rozumieniu, lecz o sposoby radzenia sobie Marksa i (a może przede wszystkim) jego żony z biedą. Stallybrass szczegółowo opisuje rodzinny system oddawania przedmiotów w zastaw i ich ponownego wykupywania, podkreślając równocześnie zależność Marksa od mechanizmów gospodarki kapitalistycznej, widoczną m.in. w jego ciągłym zapożyczaniu się u Fryderyka Engelsa, który w latach pięćdziesiątych XIX wieku zarządzał wytwórnią bawełny. W tekście Stallybrassa fizyczny przedmiot staje się wziernikiem w życie i myśl Marksa – jego płaszcz, będący zarówno bohaterem pierwszego tomu <em>Kapitału </em>(w polskim tłumaczeniu surdut), jak i fizycznym przedmiotem, który Marks zastawił po to, by móc kupić papier do pisania. Jego brak jednak uniemożliwiał filozofowi pracę nad tekstem, ponieważ bez płaszcza Marks nie mógł udać się do biblioteki British Museum (prawdopodobnie dlatego, że wyglądając niereprezentatywnie, nie zostałby do niej wpuszczony). Por. Peter Stallybrass, <em>Marx’s Coat</em>...</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>Bill Brown, <em>A Sense..., </em>s. 29.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a>Inga Janikowska, <em>Jak ze Świtu zrobić Diora, </em>„Gazeta Wyborcza” z 17 marca 1993, s. 2.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a>Adam Władysław Staśkiewicz, <em>Podróbki. Psucie marki, </em>„Gazeta Wyborcza Katowice” z 2 listopada 1994, s. 5.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a>„1. Czynem nieuczciwej konkurencji jest naśladowanie gotowego produktu, polegające na tym, że za pomocą technicznych środków reprodukcji jest kopiowana zewnętrzna postać produktu, jeżeli może wprowadzić klientów w błąd co do tożsamości producenta lub produktu. 2. Nie stanowi czynu nieuczciwej konkurencji naśladowanie cech funkcjonalnych produktu, w szczególności budowy, konstrukcji i formy zapewniającej jego użyteczność. Jeżeli naśladowanie cech funkcjonalnych gotowego produktu wymaga uwzględnienia jego charakterystycznej formy, co może wprowadzić klientów w błąd co do tożsamości producenta lub produktu, naśladowca jest zobowiązany odpowiednio oznaczyć produkt”. Ustawa z dnia 16 kwietnia 1993 r. o nieuczciwej konkurencji, rozdział I, artykuł 13.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a>Por. <em>The Social Life of Things. Commodities in Cultural Perspective, </em>red. A. Appadurai, Cambridge University Press, Cambridge 1988.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a>Afektywno-dźwiękową reakcję na widok towarów świetnie uchwyciła Julia Holewińska w dramacie <em>Rewolucja balonowa. </em>Na widok mnogości rzeczy na płynącym do Norwegii promie główna bohaterka i jej brat są w stanie jedynie wydawać wydłużone okrzyki zachwytu: „Jacie! Ooooo! Jaaaa! Patrz! Noooo! Ale! Ja nie mogę!”. Por. Julia Holewińska, <em>Rewolucja balonowa</em>, tekst dostępny: <a href="http://www.ispan.pl/rewolucjabalonowajuliaholewinska.pdf" target="_blank" rel="noopener">http://www.ispan.pl/rewolucjabalonowajuliaholewinska.pdf</a>, dostęp 25 listopada 2012.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a>„Choćbyśmy więc poszczególny towar kręcili i obracali na wszystkie strony, jako rzecz posiadająca wartość pozostanie on nieuchwytny”. Karol Marks, <em>Kapitał..., </em>s. 50. Oczywiście – w przeciwieństwie do Marksa – bohaterowie filmów dostrzegają w przedmiotach wartość.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a>Co jeszcze ciekawsze, firma „Puma AG” zostaje wymieniona na pierwszej planszy filmu (obok m.in. British Airways i Hotelu Forum) jako jeden ze sponsorów.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a>Inga Janikowska, <em>Jak ze Świtu zrobić Diora</em>...</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a>Paweł Wrabec, <em>Dżinsowa solidarność, </em>„Gazeta Wyborcza” z 9 sierpnia 1993.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a>[brak autora], <em>Westa, Sony czy Funai, </em>„Gazeta Wyborcza” z 2 listopada 1991, s. 4.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a>aga, <em>Oryginał kosztuje, </em>„Gazeta Stołeczna” z 19 lutego 1992, s. 3.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a>aga, <em>Benetton made in Poland, </em>„Gazeta Wyborcza” z 5 czerwca 1992, s. 5.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a>Adam Władysław Staśkiewicz, <em>Podróbki. Psucie marki</em>...</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a>Jacek Pawlicki, <em>Celnicy kontra piraci, </em>„Gazeta Wyborcza” z 12 marca 1996, s. 15.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a>Roch Sulima, <em>Stadion – bazar, </em>„Konteksty” 2009, nr 1–2, s. 138.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a>Adam Władysław Staśkiewicz, <em>Podróbki. Psucie marki</em>...</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a>Ibidem.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a>Ibidem.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a>Ibidem.</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a>Na temat wprowadzania zachodnich norm w polskich przedsiębiorstwach por. Elizbeth Dunn, <em>Prywatyzując...</em></p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a>Przykładem niech będzie sprzedawana na bazarach i przy drogach mitologiczna „oryginalna chemia z Niemiec”.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a>Beata Pawlak, <em>Jarmark na stadionie, </em>„Gazeta Wyborcza” z 18 lutego 1992, s. 11.</p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a>Dariusz Klincewicz, <em>Adidas gromi piratów, </em>„Gazeta Wyborcza” z 24 września 1993, s. 21.</p>
+<p><a href="#sdfootnote52anc" name="sdfootnote52sym">52</a>Por. ironiczne przedstawienia nowobogackich w serialu komediowym <em>Tygrysy Europy, </em>reż. Jerzy Gruza, 1999.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/od-umy-do-pumy-o-roli-podrobki-w-polskiej-transformacji" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

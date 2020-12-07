@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Trzy ziemskie wystawy | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/22-zobaczyc-antropocen/trzy-ziemskie-wystawy">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Trzy ziemskie wystawy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/assets/cache/images/issues/2018/22/kmak/bz5-1200x630-cd5.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Trzy ziemskie wystawy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/assets/cache/images/issues/2018/22/kmak/bz5-1200x630-cd5.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/22-zobaczyc-antropocen/trzy-ziemskie-wystawy">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Trzy ziemskie wystawy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/assets/cache/images/issues/2018/22/kmak/bz5-1200x630-cd5.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #47495b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #47495b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #47495b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #47495b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #47495b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #47495b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+			/* background-color:#47495b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(71,73,91,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#47495b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#47495b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#47495b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#47495b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#47495b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1796 parent-id-1767">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1743" data-selected-issue-color="#47495b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/22-how-to-see-the-antropocene#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/22-how-to-see-the-antropocene/three-earthly-exhibitions">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/22-zobaczyc-antropocen#toc">22</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/22-zobaczyc-antropocen/trzy-ziemskie-wystawy?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Trzy ziemskie wystawy</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/22-zobaczyc-antropocen/trzy-ziemskie-wystawy?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=778">Aleksander Kmak</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <ul> <li><b><em>Bezludzka Ziemia</em>, kurator: Jarosław Lubiak, Centrum Sztuki Współczesnej Zamek Ujazdowski w&nbsp;Warszawie, 15 marca–22 września 2019</b></li> <li><b><em>Forensic Architecture</em>, kurator: Jarosław Lubiak, Centrum Sztuki Współczesnej Zamek Ujazdowski w&nbsp;Warszawie, 15 marca–22 września 2019</b></li> <li><b><em>Zjednoczona Pangea</em>, kuratorka: Joanna Sokołowska, Muzeum Sztuki w&nbsp;Łodzi (ms1), 22 marca–8 czerwca 2019</b></li> </ul>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/kmak/bz1-1920x-5e5.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/kmak/bz1-330x-805.jpg 330w,assets/cache/images/issues/2018/22/kmak/bz1-660x-221.jpg 660w,assets/cache/images/issues/2018/22/kmak/bz1-768x-b62.jpg 768w,assets/cache/images/issues/2018/22/kmak/bz1-1320x-ffb.jpg 1320w" src="assets/cache/images/issues/2018/22/kmak/bz1-660x-221.jpg" alt="" ></a>    <figcaption><p>Monika Zawadzki, <em>Reklamówka</em>, 2019. Wystawa<em> Bezludzka Ziemia</em>, Centrum Sztuki Współczesnej Zamek Ujazdowski w&nbsp;Warszawie. Fot. Bartosz Górka. Dzięki uprzejmości CSW Zamek Ujazdowski</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Nicholas Mirzoeff rozpoczyna książkę <em>Jak zobaczyć świat</em> analizą obrazu <em>Blue Marble – </em>pierwszego pełnego zdjęcia Ziemi wykonanego z&nbsp;pokładu statku kosmicznego Apollo 17 w&nbsp;grudniu 1972 roku. Badacz kultury wizualnej przekonuje, że&nbsp;prezentując syntetyczny wizerunek globu z&nbsp;wcześniej nieosiągalnego punktu widzenia, dało ono symboliczny początek ruchowi ekologicznemu, ale także wskrzesiło pojęcie uniwersalnej wspólnotowości dzielonej przez wszystkie, ludzkie i&nbsp;nieludzkie, podmioty zamieszkujące planetę i&nbsp;za nią współodpowiedzialne<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. Wspominane przez Mirzoeffa utopijne ideały ponadgatunkowej solidarności, empatii i&nbsp;pacyfizmu, inspirowane fotografią Ziemi w&nbsp;jej pozornej całości – przecież kuli nie można oddać w&nbsp;dwóch wymiarach bez znaczącego cięcia – nie tylko definiują historyczny moment przemyślenia tego, co i&nbsp;jak możliwe jest (było) do zobaczenia. Równie ważne jest w&nbsp;tym przypadku to, że&nbsp;medium ekologii – w&nbsp;szerokim sensie: refleksji o&nbsp;tym, co wspólne – były i&nbsp;wciąż są obrazy. Obrazy to ważni aktorzy – nie tylko pośrednicy – politycznej dyskusji o&nbsp;przyszłości planety i&nbsp;nieodwracalnych antropogenicznych zmianach. To przecież rozprzestrzeniające się choćby w&nbsp;mediach społecznościowych wizualne przedstawienia okazują się nierzadko najmocniejszym impulsem ekologicznej świadomości, nawet jeśli tempo i&nbsp;zasięg oddziaływania obrazów niekoniecznie bezpośrednio przekładają się na&nbsp;ich skuteczność.</p>  </section>  <div class="clearfix"></div><section class="u-typo">   <p>Dziś zresztą najważniejsza stawka walki prowadzonej przez ruchy ekologiczne – a&nbsp;więc przyszłość planety – pojawia się w&nbsp;debacie publicznej (a nie wyłącznie w&nbsp;specjalistycznych debatach naukowych) przede wszystkim za&nbsp;sprawą obrazów: przyjmuje formy imponujących dystopii (<em>Mad Max. Na&nbsp;drodze gniewu</em>, reż. George Miller, 2015) albo prób eksperymentalnego ukazania świata po&nbsp;antropocenie w&nbsp;sztuce współczesnej. Zatem reprezentacje wizualne towarzyszą myśleniu o&nbsp;Ziemi nie tylko i&nbsp;zaledwie jako ilustracje tez, przestrogi czy obietnice. Należy je raczej postrzegać jako pełnoprawny wymiar ekologii w&nbsp;działaniu, próbę spojrzenia na&nbsp;nowo – jak powiedziałby Mirzoeff – na&nbsp;wyzwania antropocenu.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/kmak/bz3-1920x-f41.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/kmak/bz3-330x-73d.jpg 330w,assets/cache/images/issues/2018/22/kmak/bz3-660x-f38.jpg 660w,assets/cache/images/issues/2018/22/kmak/bz3-768x-562.jpg 768w,assets/cache/images/issues/2018/22/kmak/bz3-1320x-21b.jpg 1320w" src="assets/cache/images/issues/2018/22/kmak/bz3-660x-f38.jpg" alt="" ></a>    <figcaption><p>Diana Lelonek, <em>Insytytut dla Żywych Rzeczy</em>, od 2016. Wystawa<em> </em><em>Bezludzka Ziemia</em>, Centrum Sztuki Współczesnej Zamek Ujazdowski w&nbsp;Warszawie. Fot. Bartosz Górka. Dzięki uprzejmości CSW Zamek Ujazdowski</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Przypisanie obrazom pewnej sprawczości jest więc integralnym elementem refleksji ekologicznej. Takie rozpoznanie – silniej lub słabiej wyartykułowane – odnaleźć można na&nbsp;trzech wystawach poświęconych Ziemi (bo tak chyba należy określić ich wspólny mianownik): <em>Bezludzkiej Ziemi</em> i&nbsp;<em>Forensic Architecture</em> w&nbsp;Centrum Sztuki Współczesnej Zamku Ujazdowskim oraz <em>Zjednoczonej Pangei</em> w&nbsp;Muzeum Sztuki w&nbsp;Łodzi. Ich niewątpliwe powiązanie trudno uchwycić ze względu na&nbsp;dobór całkowicie odmiennych strategii oraz perspektywy na&nbsp;współżycie różnych istot żywych. Żeby wyraziście zobaczyć te różnice, warto przywołać jeszcze jeden kontekst bezpośrednio związany z&nbsp;przywołanymi na&nbsp;początku obserwacjami Mirzoeffa. Podczas gdy w&nbsp;latach 70. myślenie o&nbsp;wspólnotowości i&nbsp;środowiskowej odpowiedzialności zostało zdominowane przez romantyzowane wyobrażenie <em>Blue Marble</em>, trzy ziemskie wystawy pokazywane w&nbsp;Polsce w&nbsp;2019 roku ciekawie zbiegły się w&nbsp;czasie z&nbsp;publikacją 10 kwietnia pierwszej w&nbsp;historii fotografii czarnej dziury w&nbsp;centrum galaktyki Messier 87<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Podczas gdy ekologicznemu zapałowi dogasającej kontrkultury przyświecała wizja wspólnego domu, którego harmonii jakoby nie zakłóca żadna działalność ludzka – przynajmniej na&nbsp;fotografii, na&nbsp;której obecność i&nbsp;działalność człowieka zostają zawieszone – w&nbsp;większości pesymistyczne wizje konsekwencji antropocenu odzwierciedla zdjęcie wprost ukazujące horyzont współczesnej wiedzy o&nbsp;kosmosie, ten jego punkt, w&nbsp;którym wszelka stabilna refleksja załamuje się, a&nbsp;fizyka bezradnie przyznaje, że&nbsp;natura osobliwości, czyli obszaru nieskończonej gęstości i&nbsp;grawitacji położonego w&nbsp;centrum czarnej dziury, jest być może z&nbsp;istoty niemożliwa do naukowego zgłębienia.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/kmak/bz4-1920x-676.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/kmak/bz4-330x-97b.jpg 330w,assets/cache/images/issues/2018/22/kmak/bz4-660x-4cf.jpg 660w,assets/cache/images/issues/2018/22/kmak/bz4-768x-c2a.jpg 768w,assets/cache/images/issues/2018/22/kmak/bz4-1320x-8aa.jpg 1320w" src="assets/cache/images/issues/2018/22/kmak/bz4-660x-4cf.jpg" alt="" ></a>    <figcaption><p>Diana Lelonek,<em> Insytytut dla Żywych</em> Rzeczy, od 2016. Wystawa<em> </em><em>Bezludzka Ziemia</em>, Centrum Sztuki Współczesnej Zamek Ujazdowski w&nbsp;Warszawie. Fot. Bartosz Górka. Dzięki uprzejmości CSW Zamek Ujazdowski</p></figcaption>   </figure>  </section><section class="u-typo">   <p>O ile wspomniana fotografia z&nbsp;lat 70. była jedynym całościowym obrazem planety – a&nbsp;nie montażem różnych zdjęć, jak jej późniejsze przedstawienia – udowadniającym wizualną uchwytność, a&nbsp;może nawet materialność Ziemi, o&nbsp;tyle przedstawienie czarnej dziury jest efektem zobrazowania fal radiowych. Jako takie stanowi przykład obrazu, którego podstawą nie jest wizualność, lecz właśnie niedostrzegalność, nienaoczność i&nbsp;nieprzejrzystość. Zdjęcie czarnej dziury – choć przecież wcale nim niebędące – w&nbsp;samej swojej technice opowiada więc o&nbsp;zawodności zmysłowego poznania, w&nbsp;inny niż <em>Blue Marble </em>sposób kreśląc wyzwania stojące przed współczesnym myśleniem o&nbsp;ekologii, a&nbsp;także o&nbsp;miejscu człowieka we wszechświecie. Jak stwierdza Catherine Malabou, przywoływana w&nbsp;tekście kuratorskim towarzyszącym <em>Bezludnej ziemi</em>, ambiwalentny charakter antropocenu polega na&nbsp;tym, że&nbsp;gdy aktywność człowieka osiąga zasięg planetarny, wówczas traci on panowanie nad sytuacją, Ziemia zyskuje zaś pozycję podmiotową, „przekształcając się w&nbsp;siłę o&nbsp;nierozpoznanej mocy i&nbsp;niekontrolowanej sprawczości”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Podobny paradoks wyrażać może „widok” czarnej dziury – którego żywotność została swoją drogą potwierdzona proliferacją memów, wyśmiewających głównie nieczytelność przełomowej fotografii – będący przecież popisem niezwykłych technologicznych możliwości Teleskopu Horyzontu Zdarzeń, a&nbsp;zarazem oddający ograniczenia i&nbsp;zawodność naszych zdolności poznawczych. Fotografia czarnej dziury w&nbsp;Messier 87 staje się więc mrocznym rewersem <em>Blue Marble</em>: to metafora współczesnego myślenia o&nbsp;ekologii, w&nbsp;której ratowanie planety zostało zastąpione minimalizacją katastrofy, tak czy inaczej przesądzonej.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/kmak/bz5-1920x-600.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/kmak/bz5-330x-ad1.jpg 330w,assets/cache/images/issues/2018/22/kmak/bz5-660x-486.jpg 660w,assets/cache/images/issues/2018/22/kmak/bz5-768x-f60.jpg 768w,assets/cache/images/issues/2018/22/kmak/bz5-1320x-107.jpg 1320w" src="assets/cache/images/issues/2018/22/kmak/bz5-660x-486.jpg" alt="" ></a>    <figcaption><p>Agnieszka Kurant, Postfordyt, 2019. Wystawa <em>Bezludzka Ziemia</em>, Centrum Sztuki Współczesnej Zamek Ujazdowski w&nbsp;Warszawie. Fot. Bartosz Górka. Dzięki uprzejmości CSW Zamek Ujazdowski</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Odniesienie do tego właśnie przesunięcia akcentów wyznacza też z&nbsp;gruntu odrębne strategie wystaw w&nbsp;Warszawie i&nbsp;Łodzi. Zgodnie z&nbsp;tytułem główna wystawa w&nbsp;Zamku Ujazdowskim dotyczy fantazji o&nbsp;życiu na&nbsp;Ziemi – fantazji podszytej widmową obecnością wymarłego <em>homo sapiens</em>. Zebrano na&nbsp;niej zatem prace skoncentrowane na&nbsp;ludzkich pozostałościach, alternatywnych formach życia, nowych organizmach, naturze anektującej to, co jeszcze chwilę temu stało po&nbsp;stronie kultury. Nie jest to jednak eskapistyczne <em>science-fiction</em>. Przeciwnie artystki i&nbsp;artyści poruszają tematy silnie zakorzenione we współczesnych debatach – kwestię plastikowego zaśmiecenia, niszczącej działalności przemysłu farmaceutycznego czy kruchej bariery między ludzkim a&nbsp;nieludzkim podmiotem. Z&nbsp;kolei w&nbsp;<em>Zjednoczonej Pangei</em>,<em> </em>w której<em> </em>unika się przywiązania do tak wyraźnie określonej perspektywy, eksplorowane są raczej współczesne możliwości kategorii uniwersalizmu wobec fundamentalnej wspólnotowości życia na&nbsp;planecie. Tak szeroki, ale jednocześnie na&nbsp;pozór nieprecyzyjny temat pozwala na&nbsp;kompozycję dzieł obejmującą obiekty sprzed kilku dekad i&nbsp;prace najnowsze, prace pochodzące z&nbsp;różnych kręgów kulturowych, rzeźby i&nbsp;instalacje wideo. Ostatecznie ta przemyślana dezynwoltura służy stworzeniu w&nbsp;ms1 propozycji o&nbsp;wiele wyrazistszej i&nbsp;bardziej dogłębnej niż uporządkowany, ale przez to też repetytywny pokaz w&nbsp;CSW. W&nbsp;napięciu między różnymi mediami, w&nbsp;porzuceniu fantazji o&nbsp;tym, co stanie się po&nbsp;nieuniknionej katastrofie klimatycznej, objawia się procesualny, kompozytowy charakter wspólnego życia na&nbsp;Ziemi – to, co w&nbsp;<em>Bezludzkiej Ziemi</em> jest zaledwie estetycznym artefaktem.</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/kmak/f1-1920x-063.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/kmak/f1-330x-367.jpg 330w,assets/cache/images/issues/2018/22/kmak/f1-660x-b06.jpg 660w,assets/cache/images/issues/2018/22/kmak/f1-768x-a88.jpg 768w,assets/cache/images/issues/2018/22/kmak/f1-1320x-491.jpg 1320w" src="assets/cache/images/issues/2018/22/kmak/f1-660x-b06.jpg" alt="" ></a>    <figcaption><p><em>Forensic Architecture</em>, Centrum Sztuki Współczesnej Zamek Ujazdowski w&nbsp;Warszawie. Fot. Bartosz Górka. Dzięki uprzejmości CSW Zamek Ujazdowski</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Przykładem tej różnicy mogą być filmy Angeliki Markul i&nbsp;Toma Shermana prezentowane w&nbsp;Zamku Ujazdowskim oraz wideo Alana Butlera i&nbsp;Zhou Tao w&nbsp;Łodzi. Choć zupełnie inne, filmy Markul <em>Pamięć lodowców</em> i&nbsp;Shermana <em>Igrając z&nbsp;ogniem pod&nbsp;wodą</em> w&nbsp;podobny sposób myślą o&nbsp;obrazach-mediach jako deskryptywnych. I&nbsp;tak w&nbsp;nienarracyjnym filmie Markul z&nbsp;różnych perspektyw obserwujemy lodowiec – czasem od razu rozpoznawalny, czasem abstrakcyjny jak malarska kompozycja – przy akompaniamencie wzniosłej muzyki doskonale wpisującej się w&nbsp;popularną narrację o&nbsp;podniosłej sile i&nbsp;pięknie natury, u&nbsp;Shermana natomiast słuchamy wykładu z&nbsp;offu o&nbsp;odpornych na&nbsp;antybiotyki wirusach i&nbsp;degradacji bioróżnorodności przy wtórze dość przypadkowych, niewiele mówiących ujęć parku rozrywki, sztucznych ogni czy jeziora. Oba dzieła – zgodnie z&nbsp;wykładnią pokazu w&nbsp;CSW – na&nbsp;różne sposoby opisują to, co zostaje po&nbsp;człowieku, piętno zauważalne nawet bez widocznej ludzkiej ingerencji. Tak jest choćby w&nbsp;przypadku efektownie kruszących się lodowców u&nbsp;Markul – rozpad potraktowany jest raczej jak fenomen estetyczny, którego przyczyny i&nbsp;konsekwencje pozostają w&nbsp;filmie znacząco przemilczane. Nawet jeśli odzwierciedlające realne zagrożenia, powyższe dzieła nie wikłają w&nbsp;te fantazje współczesnego widza, nie problematyzują jego obecności przed obrazem, wykonują raczej encyklopedyczną pracę klasyfikacji i&nbsp;opisu, ale już nie analizy czy tym bardziej syntezy, na&nbsp;przykład próby pomyślenia o&nbsp;wyłaniającej się z&nbsp;prac wizji przyszłości. Co innego sugerują filmy łódzkie: na&nbsp;pozór równie nienarracyjne co film Markul, wideo Tao <em>Światowa jaskinia </em>składające się z&nbsp;długich nieruchomych ujęć kręconych w&nbsp;różnych miejscach świata oraz dwukanałowa instalacja Butlera <em>O ścisłości w&nbsp;nauce</em>, będąca zestawieniem filmu <em>Koyaanisqatsi</em> (reż. Godfrey Reggio, 1982) i&nbsp;jego w&nbsp;miarę możliwości wiernego komputerowego odzwierciedlenia stworzonego na&nbsp;podstawie animacji popularnej serii gier Grand Theft Auto. Zrealizowana w&nbsp;duchu <em>slow Cinema,</em> czy też w&nbsp;stylu Jamesa Benninga, kręcącego zachody słońca w&nbsp;czasie rzeczywistym, <em>Światowa jaskinia</em> przedstawia niespójny zbiór lokalizacji – pustynię, port, miasto, bezdroża – jakby przez przypadek uchwycając toczące się na&nbsp;nich życie, za&nbsp;każdym razem inne, zmienione, dostosowane do lokalnych warunków. Ludzie i&nbsp;zwierzęta wchodzący i&nbsp;znikający z&nbsp;kadru, przecięci jego ramą, mówiący, nawołujący się, krzyczący, śmiejący się, pozujący do zdjęć. Przypadkowość tych obrazów i&nbsp;ich nienarracyjność prowadzą do niezwykle ciekawego abstrahowania, które artysta wykorzystuje, by podkreślić ich – <em>sic!</em> – uniwersalny sens.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/kmak/f3-1920x-765.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/kmak/f3-330x-101.jpg 330w,assets/cache/images/issues/2018/22/kmak/f3-660x-fd5.jpg 660w,assets/cache/images/issues/2018/22/kmak/f3-768x-aba.jpg 768w,assets/cache/images/issues/2018/22/kmak/f3-1320x-8c8.jpg 1320w" src="assets/cache/images/issues/2018/22/kmak/f3-660x-fd5.jpg" alt="" ></a>    <figcaption><p><em>Forensic Architecture<b>, </b></em>Centrum Sztuki Współczesnej Zamek Ujazdowski w&nbsp;Warszawie. Fot. Bartosz Górka. Dzięki uprzejmości CSW Zamek Ujazdowski</p></figcaption>   </figure>  </section><section class="u-typo">   <p>W swojej instalacji wideo Butler pyta właśnie o&nbsp;sens takiej translacji z&nbsp;partykularnego na&nbsp;uniwersalne. Artysta podwajając wyglądy i&nbsp;kontrastując typy obrazów, ukazuje, jak samo medium wpływa na&nbsp;myśl płynącą z&nbsp;<em>Koyaanisqatsi </em>– o&nbsp;ile film Reggia był obrazem świata doby niezwykłego technologicznego przyspieszenia i&nbsp;początków kapitalistycznej prekaryjności, o&nbsp;tyle instalacja Butlera wskazuje sam proces wytwarzania i&nbsp;krążenia obrazów. Nie chodzi już o&nbsp;„szalone życie” (to właśnie oznacza <em>koyaanisqatsi</em> w&nbsp;języku Hopi) podyktowane zawrotną prędkością konsumpcji, ale raczej o&nbsp;szaloną prędkość powstawania i&nbsp;powielania obrazów oraz mnogość dróg ich dystrybucji, jednoczących ludzi w&nbsp;wizualnych wspólnotach silniej nawet niż konsumeryzm w&nbsp;atomistycznej wizji społeczeństwa z&nbsp;filmu Reggia.</p> <p>Właśnie w&nbsp;różnicy między suchą deskrypcją a&nbsp;umiejętnością syntezy tkwi wyższość uniwersalistycznej strategii <em>Pangei</em> – tam, gdzie <em>Bezludzka Ziemia</em> kompletuje zestaw korespondujących ze sobą, ale jednak z&nbsp;gruntu osobnych fantazji na&nbsp;temat przyszłości antropocenu, <em>Zjednoczona Pangea</em> prezentuje fragmentaryczną, zmontowaną, lecz przekonującą, ostatecznie spójną, na&nbsp;ile to możliwe, wizję wspólnotowego doświadczenia tu i&nbsp;teraz. Synteza i&nbsp;uniwersalność nie oznaczają linearności – w&nbsp;przeciwieństwie do CSW, gdzie wystawa ewidentnie dotyczy wymyślonej przyszłości, która nadchodzi. W&nbsp;Łodzi czas jest twórczo splątany, spiralny, kolisty, niekoniecznie podporządkowany antropomorficznemu umysłowi. Dlatego nie dziwi na&nbsp;wystawie obecność landartowych prac Teresy Murak z&nbsp;lat 70. czy jeszcze wcześniejszych op‑artowych projektów Jerzego Rosołowicza. Przeciwnie, jest ona doskonale uzasadniona jako świadectwo synchronicznej logiki, zgodnie z&nbsp;którą na&nbsp;dzisiejszą mapę świata rzutowana jest Pangea, czyli dawny superkontynent, w&nbsp;skład którego wchodziły wszystkie dzisiejsze połacie lądu, a&nbsp;współczesne strategie artystyczne współistnieją z&nbsp;tymi sprzed półwiecza. Pracując w&nbsp;ten sposób z&nbsp;czasem, wystawa uwypukla na&nbsp;przykład ekologiczne zaangażowanie konceptualizmu Rosołowicza – choćby w&nbsp;„działaniach neutralnych”, niesytuujących się wcale daleko od współczesnego pomysłu na&nbsp;gospodarkę zrównoważoną.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/kmak/p2-1920x-7cf.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/kmak/p2-330x-797.jpg 330w,assets/cache/images/issues/2018/22/kmak/p2-660x-fdf.jpg 660w,assets/cache/images/issues/2018/22/kmak/p2-768x-ad4.jpg 768w,assets/cache/images/issues/2018/22/kmak/p2-1320x-f85.jpg 1320w" src="assets/cache/images/issues/2018/22/kmak/p2-660x-fdf.jpg" alt="" ></a>    <figcaption><p><span>Anetta Mona Chisa i&nbsp;Lucia Tkacova, <em>Rzeczy <br> w&nbsp;naszych rękach</em>, 2014. Wystawa <em>Zjednoczona Pangea</em>, Muzeum Sztuki w&nbsp;Łodzi. Dzięki uprzejmości artystek <br> i&nbsp;MS w&nbsp;Łodzi </span></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Różnice koncepcji uwidaczniają się, kiedy przyjrzymy się miejscu i&nbsp;roli dzieł artystek prezentowanych na&nbsp;obu ekspozycjach – Diany Lelonek i&nbsp;Moniki Zawadzki. Pierwsza z&nbsp;nich i&nbsp;w Łodzi, i&nbsp;w Warszawie prezentuje swój sztandarowy projekt <em>Instytutu dla żywych rzeczy</em> – to przedmioty codziennego użytku porośnięte mchami i&nbsp;porostami, zagarnięte przez naturę, którym towarzyszą szczegółowe opisy wyjaśniające pochodzenie rzeczy, ich przeznaczenie i&nbsp;stopień oraz charakter rozkładu. Konsekwentnie prowadzone od 2016 roku przedsięwzięcie wyraźnie lepiej rezonuje z&nbsp;myślą <em>Bezludzkiej ziemi</em>, podczas gdy na&nbsp;łódzkiej wystawie składa się wraz z&nbsp;nieudanymi pracami ze słomy i&nbsp;sznurka Agnieszki Kalinowskiej, przypominających trochę archeologiczne znaleziska, oferujących dość prostą, lecz niekoniecznie odkrywczą refleksję o&nbsp;uniwersalności symboli ludzkich narzędzi i&nbsp;zaradności, na&nbsp;pokój kuriozów – raczej pozbawionych polotu dzieł o&nbsp;alternatywnych formach życia rzeczy. W&nbsp;pracach Lelonek prędzej jednak niż o&nbsp;posthumanistyczny namysł nad różnymi instancjami sprawczości oddziałujących na&nbsp;przedmioty chodzi o&nbsp;romantyzowanie ruinacji i&nbsp;rozkładu, a&nbsp;także dość oczywistą ostatecznie konstatację, że&nbsp;natura pochłonie nawet to, co w&nbsp;naszych oczach wydaje się najtrwalsze i&nbsp;najodporniejsze. Do tego stwierdzenia z&nbsp;mniejszą lub większą łatwością sprowadzić można całą <em>Bezludzką Ziemię</em>, co uwypukla powierzchowność jej rozpoznań. Podobnie jest przecież z&nbsp;instalacją Bonity Ely <em>Plastikus Progressus</em> ilustrującą wyobrażenia o&nbsp;istotach z&nbsp;plastiku i&nbsp;sprzętów AGD czy modelami Pakui Hardware prezentującymi coś na&nbsp;kształt wykonanego z&nbsp;różnych tworzyw ubrania – poza futurystycznymi fantazjami trudno w&nbsp;te prace wpisać treści istotne dla współczesnego doświadczenia, nawet jeśli symulują one zaangażowanie w&nbsp;aktualne problemy, jak jest w&nbsp;przypadku pracy Ely i&nbsp;kwestii śmieci. Co jednak wynika z&nbsp;instalacji artystki dla realnego problemu naszej nadmiernej produkcji odpadów?</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/kmak/p5-1920x-fb1.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/kmak/p5-330x-e14.jpg 330w,assets/cache/images/issues/2018/22/kmak/p5-660x-a1d.jpg 660w,assets/cache/images/issues/2018/22/kmak/p5-768x-9d7.jpg 768w,assets/cache/images/issues/2018/22/kmak/p5-1320x-9be.jpg 1320w" src="assets/cache/images/issues/2018/22/kmak/p5-660x-a1d.jpg" alt="" ></a>    <figcaption><p>Monika Zawadzki, <em>Karmiąca</em>. Wystawa <em>Zjednoczona Pangea</em>, Muzeum Sztuki w&nbsp;Łodzi. Dzięki uprzejmości artystek i&nbsp;MS w&nbsp;Łodzi</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Inaczej rzecz ma się z&nbsp;Moniką Zawadzki, której monumentalna rzeźba <em>Reklamówka</em> otwiera <em>Bezludzką Ziemię</em>, a&nbsp;praca <em>Karmiąca,</em> pokazywana w&nbsp;2014 roku w&nbsp;Zachęcie, znalazła się w&nbsp;jednej z&nbsp;sal <em>Zjednoczonej Pangei</em>. Poza tym, że&nbsp;obie prace potwierdzają znakomity warsztat rzeźbiarski Zawadzki i&nbsp;jej ciekawą wizję tego medium, funkcjonują na&nbsp;wystawach zupełnie inaczej. <em>Reklamówka</em> przedstawia dużych rozmiarów ludzką figurę trzymającą w&nbsp;tytułowej torbie własną miniaturę, <em>Karmiąca </em>– kiełbasę karmiącą własne mniejsze wersje. Zwielokrotnienie postaci, sugestia dziedziczenia, a&nbsp;może raczej kopiowania, to stałe motywy pracy Zawadzki. W&nbsp;tym przypadku najważniejsze okazuje się to, jak obiekt rezonuje z&nbsp;przestrzenią wystawy. <em>Reklamówka</em> wyeksponowana jest w&nbsp;sali z&nbsp;mało przenikliwym wideo Mariny Zurkow na&nbsp;temat odpadów i&nbsp;toksycznych materiałów oraz prostą pracą Aleksandry Ska układającej z&nbsp;plastiku pałeczki i&nbsp;zawijasy wirusów na&nbsp;wzór mikroskopowych fotografii wywieszonych jako wyjątkowo nieatrakcyjne infografiki na&nbsp;obu ścianach. Praca Zawadzki – niewątpliwie najlepsza w&nbsp;zestawie – mimo skali wpisuje się jednak bez problemu w&nbsp;elegancką, czarno-biało-szarą przestrzeń, z&nbsp;powodzeniem zaprojektowaną (podobnie zresztą jak <em>Zjednoczona Pangea</em>) przez duet Matosek-Niezgoda. Z&nbsp;kolei <em>Karmiąca</em> wyeksponowana została w&nbsp;historyzującej, wybitnie odbiegającej od stylistyki <em>white cube</em> sali pałacu Poznańskiego. Połyskliwie czarne, smoliste i&nbsp;ciężkie rzeźby artystki celowo kłócą się z&nbsp;neorokokowym pomieszczeniem, kierując uwagę nie tylko na&nbsp;temat opracowany przez Zawadzki, lecz przede wszystkim na&nbsp;samą wystawę jako nieprzezroczyste medium jego wydobywania i&nbsp;wybrzmiewania. Nie jest to dźwięk czysty, oczywisty ani nawet przyjemny – niemniej wpisuje w&nbsp;dzieło Zawadzki nowe znaczenia – umieszczenie kiełbasy karmiącej swoje młode wskazuje ponadhistoryczny, jednoczący, a&nbsp;może nawet w&nbsp;pewien sposób kosmiczny charakter przemiany materii, którego metonimią staje się wydestylowany obraz rodzicielstwa czy raczej macierzyństwa. Jednocześnie nie wpada się tutaj w&nbsp;pułapkę <em>Mistyki kobiecości</em><sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> i&nbsp;feministycznego esencjalizmu, ponieważ Zawadzki nie interesuje to, co „naturalnie” kobiece, ale raczej to, co wspólne dla wielu różnych form życia – zwierzęcych, w&nbsp;tym ludzkich, i&nbsp;innych – oraz co stanowi zasadę ciągłości biologicznego życia.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/kmak/p4-1920x-729.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/kmak/p4-330x-fe4.jpg 330w,assets/cache/images/issues/2018/22/kmak/p4-660x-f32.jpg 660w,assets/cache/images/issues/2018/22/kmak/p4-768x-904.jpg 768w,assets/cache/images/issues/2018/22/kmak/p4-1320x-d8a.jpg 1320w" src="assets/cache/images/issues/2018/22/kmak/p4-660x-f32.jpg" alt="" ></a>    <figcaption><p><span>Carolina Caycedo, <em>Yuma albo Ziemia Przyjaciół</em>, 2014. Wystawa <em>Zjednoczona Pangea</em>, Muzeum Sztuki w&nbsp;Łodzi. Dzięki uprzejmości artystek i&nbsp;MS w&nbsp;Łodzi</span></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Podczas gdy <em>Bezludzka Ziemia</em> dotyczy fantazji o&nbsp;przyszłości i&nbsp;konsekwencji antropocenu i&nbsp;dość instrumentalnie posługuje się obrazami, sprowadzając je do roli ilustracji tych wyobrażeń, <em>Zjednoczona Pangea</em> zdecydowanie wskazuje, że&nbsp;wspólnotowy charakter ekologii nie jest po&nbsp;prostu reprezentowany w&nbsp;obrazach, lecz w&nbsp;nich i&nbsp;przez nie realizowany. Próbę wypracowania takiej wizualnej ekologii reprezentują prace w&nbsp;nieoczywisty sposób związane z&nbsp;tematem wystawy – w&nbsp;tym halucynacyjne, przywodzące na&nbsp;myśl szamanistyczne rytuały wideo Sin Kabeza Productions składające się z&nbsp;zapisów enigmatycznych performensów – udowadniające tym samym jej eksperymentalny charakter, otwarcie na&nbsp;nierozstrzygniętą jeszcze przyszłość. Wspólnotowy wymiar troski o&nbsp;planetę wymyka się tu naszym gotowym pojęciom czy schematom i&nbsp;– podobnie jak zdjęcie czarnej dziury – udowadnia granice wyznaczone wąską, ludzką perspektywą. W&nbsp;ten sposób <em>Zjednoczona Pangea</em> odgrywa to, o&nbsp;czym deklaratywnie i&nbsp;bez powodzenia opowiadać ma <em>Bezludzka Ziemia</em> – ambiwalentny charakter awaryjnej przyszłości rysującej się w&nbsp;ciemnych barwach nieuchronnej katastrofy, obiecującej jednak także możliwość nowej wspólnoty, a&nbsp;może nawet – nowej podmiotowości.</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/kmak/p6-1920x-bb1.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/kmak/p6-330x-6d4.jpg 330w,assets/cache/images/issues/2018/22/kmak/p6-660x-4e1.jpg 660w,assets/cache/images/issues/2018/22/kmak/p6-768x-3ff.jpg 768w,assets/cache/images/issues/2018/22/kmak/p6-1320x-492.jpg 1320w" src="assets/cache/images/issues/2018/22/kmak/p6-660x-4e1.jpg" alt="" ></a>    <figcaption><p><span>Zhou Tao, kadr z&nbsp;filmu <em>Fan Dong</em> (<em>Światowa jaskinia</em>), 2017. Wystawa <em>Zjednoczona Pangea</em>, Muzeum Sztuki w&nbsp;Łodzi. Dzięki uprzejmości artysty i&nbsp;MS w&nbsp;Łodzi</span></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Symptomatycznym rozwinięciem <em>Bezludzkiej Ziemi</em> jest wystawa – choć trudno użyć tego słowa bez zastrzeżeń – kolektywu Forensic Architecture, opisująca herbicydowe wojny w&nbsp;Kolumbii i&nbsp;Palestynie, regularne pustynnienie terenów jako strategię militarnej walki o&nbsp;dominację. Symptomatyczność ta zasadza się na&nbsp;jeszcze większej obojętności na&nbsp;wizualną reprezentację, która w&nbsp;realizacji Forensic Architecture pełni rolę czysto ilustracyjną. Wykresy, mapy, zdjęcia, grafiki – obrazy pokazują tu bardzo dużo, jednak uparcie milczą, wycofują się, aby „obiektywnie” naświetlić skądinąd bardzo ważną i&nbsp;przerażającą odsłonę współczesnych wojen wykorzystujących środowisko jako broń i&nbsp;pole walki zarazem. Dlatego też problematyczne jest omówienie prezentacji Forensic Architecture po&nbsp;prostu jako kolejnej ekspozycji, trudno wskazać bowiem, co byłoby właściwie jej przedmiotem. Jeśli jednak traktować pokaz jako całościową, konceptualną pracę, to okazuje się ona bardzo słabo opracowana. Wydaje się, jakoby ingerencja artystów i&nbsp;badaczy współpracujących w&nbsp;ramach Forensic Architecutre polegała na&nbsp;skatalogowaniu, opisaniu i&nbsp;wizualnym przedstawieniu zjawisk jako gotowych, istniejących uprzednio faktów, niezależnych nie tylko od metod ich reprezentacji, lecz także od samych uwikłanych w&nbsp;badania podmiotów. Tymczasem rzetelna analiza faktów polega również na&nbsp;pracy odkrywania ich konstrukcji, mediatyzowanego charakteru, zależności od pozycji badaczki/a – innymi słowy od eksponowania ich „faktyszowej” natury<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>, spajającej sztuczność fetyszu z&nbsp;mocą prawdziwego oddziaływania faktu. Nawet jeśli działacze FA<em> </em>mają świadomość, że&nbsp;niemożliwe jest oddzielenie wiedzy od jej zapośredniczenia – co udowadniać może wykorzystanie obrazów właśnie w&nbsp;interesie grup zmarginalizowanych, pozbawionych władzy, jak w&nbsp;przypadku Palestyńczyków i&nbsp;Kolumbijczyków, których ziemie atakowane są toksycznymi herbicydami i&nbsp;zamieniane w&nbsp;jałowe pustynie – wystawa w&nbsp;CSW nie uwidacznia procesu wytwarzania tych reprezentacji, pokazuje raczej gotowe, symulujące obiektywizm produkty pozbawione własnego zaplecza i&nbsp;pochodzenia.</p> <p>Wracając do porównania interpretacyjnych znaczeń <em>Blue Marble </em>i fotografii czarnej dziury, można zauważyć, że&nbsp;jeśli drugie zdjęcie rzeczywiście przedstawia triumf i&nbsp;zarazem zapaść ludzkiego poznania, a&nbsp;także wymykający się spod kontroli charakter wytworów człowieka, będąc jednocześnie metaforą współczesnego myślenia o&nbsp;planecie i&nbsp;naszym w&nbsp;niej miejscu, to dyskusja z&nbsp;tymi rozpoznaniami podejmowana jest jedynie w&nbsp;<em>Zjednoczonej Pangei</em>.<em> </em>Wystawa<em> </em>przekracza rozłączność pesymizmu i&nbsp;optymizmu, trzeźwo oceniając wpływ człowieka na&nbsp;środowisko, ale także nie popadając w&nbsp;eskapistyczne mnożenie scenariuszy przyszłości. Nie udaje się to natomiast na&nbsp;dwóch pokazach w&nbsp;CSW, które choć wyrastają z&nbsp;trafnych refleksji (co udowadnia tekst kuratorski, traktujący o&nbsp;konieczności formułowania nowych wyobrażeń i&nbsp;sposobów rozumienia ekologii, a&nbsp;także otwarcia się na&nbsp;potencjalności, które niesie przyszłość), koncentrują się na&nbsp;antropocentrycznym w&nbsp;istocie lamencie nad dewastacją planety i&nbsp;chronią się w&nbsp;bezpiecznych fantazjach o&nbsp;wyczyszczonej z&nbsp;ludzi <em>Blue Marble</em>.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a><span>Nicholas Mirzoeff, </span><span><em>Jak zobaczyć świat</em></span><span>, przeł. Ł. Zaremba, Karakter–Muzeum Sztuki Nowoczesnej w Warszawie, Kraków–Warszawa 2016, s. 18.</span></p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a><span>Katarzyna Florencka, </span><span><em>Astronomowie zaprezentowali pierwsze w historii zdjęcie czarnej dziury</em></span><span>, „Nauka w Polsce” z 10 kwietnia 2019, </span><span><a href="http://naukawpolsce.pap.pl/aktualnosci/news%252C33598%252Castronomowie-zaprezentowali-pierwsze-w-historii-zdjecie-czarnej-dziury.html?fbclid=IwAR0bEckOBfCkx_3m_FcvKv9Iu9sXGiPzDdSKUkdvpV2DJPoMmOa42fv-Kl0" target="_blank" rel="noopener">http://naukawpolsce.pap.pl/aktualnosci/news%2C33598%2Castronomowie-zaprezentowali-pierwsze-w-historii-zdjecie-czarnej-dziury.html?fbclid=IwAR0bEckOBfCkx_3m_FcvKv9Iu9sXGiPzDdSKUkdvpV2DJPoMmOa42fv-Kl0</a></span><span>, dostęp 14 marca 2019.</span></p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a><span>Jarosław Lubiak, tekst kuratorski do wystawy </span><span><em>Bezludzka Ziemia</em></span><span>.</span></p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a><span>Betty Friedan, </span><span><em>Mistyka kobiecości</em></span><span>, przeł. A. Grzybek, Wydawnictwo Czarna Owca, Warszawa 2012.</span></p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a><span>Bruno Latour, </span><span><em>Działanie przynosi coś nieoczekiwanego. Fakty, fetysze, faktysze</em></span><span>, w: ibidem, </span><span><em>Nadzieja Pandory. Eseje o rzeczywistości w studiach nad nauką</em></span><span>, przeł. K. Abriszewski, Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika, Toruń 2013, s. 329–358.</span></p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/22-zobaczyc-antropocen/trzy-ziemskie-wystawy" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

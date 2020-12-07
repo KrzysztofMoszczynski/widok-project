@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Wolność od wszystkiego. Wolni strzelcy i najemnicy | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/21-praca-niewidzialna/wolnosc-od-wszystkiego.-wolni-strzelcy-i-najemnicy">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Wolność od wszystkiego. Wolni strzelcy i najemnicy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Wolność od wszystkiego. Wolni strzelcy i najemnicy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/21-praca-niewidzialna/wolnosc-od-wszystkiego.-wolni-strzelcy-i-najemnicy">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Wolność od wszystkiego. Wolni strzelcy i najemnicy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #00205b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #00205b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #00205b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #00205b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #00205b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #00205b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #00205b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #00205b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(0,32,91,0.8) !important; */
+			/* background-color:#00205b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(0,32,91,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#00205b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(0,32,91,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#00205b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(0,32,91,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(0,32,91,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#00205b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#00205b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#00205b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-481 parent-id-453">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="451" data-selected-issue-color="#00205b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/21-invisible-labor#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/21-invisible-labor/freedom-from-everything-freelancers-and-mercenaries">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/21-praca-niewidzialna#toc">21</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/21-praca-niewidzialna/wolnosc-od-wszystkiego.-wolni-strzelcy-i-najemnicy?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Wolność od wszystkiego. Wolni strzelcy i najemnicy</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/21-praca-niewidzialna/wolnosc-od-wszystkiego.-wolni-strzelcy-i-najemnicy?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=483">Hito Steyerl</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Przełożył: 
+		
+		Łukasz Zaremba
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>W 1990 roku George Michael wypuścił utwór <em>Freedom! ’90</em>. Był to czas entuzjastycznego wyśpiewywania Beethovenowskiej <em>Ody do radości</em> czy <em>Wind of Change</em> Scorpionsów – czas świętowania tego, co po&nbsp;upadku muru berlińskiego uważano za&nbsp;ostateczne zwycięstwo wolności i&nbsp;demokracji. Najstraszniejszą spośród tych wspólnie wykonywanych pieśni była <em>Looking for Freedom</em> w&nbsp;aranżacji Davida Hasselhoffa, odegrana na&nbsp;żywo wprost ze szczytu muru. Piosenka ta opowiada o&nbsp;zgryzotach syna bogacza próbującego zdobyć własną fortunę.</p> <p>George Michael uderzał jednak w&nbsp;zupełnie inne akordy. Nie myślał o&nbsp;wolności jako liberalnym raju okazji. Zamiast tego przedstawiał ją następująco:</p> <blockquote>Wygląda jak droga do nieba,</blockquote> <blockquote>Ale czujesz, jakby była drogą do piekła<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>.</blockquote> <p>Jakiego rodzaju wolność opisywał zatem George Michael? Nie chodzi o&nbsp;klasyczną liberalną wolność, definiowaną jako zdolność do robienia, mówienia czy myślenia czegoś. Jest to raczej wolność negatywna, definiowana jako nieobecność, brak własności i&nbsp;równości wymiany, a&nbsp;nawet nieobecność autora i&nbsp;zniszczenie wszelkich atrybutów jego publicznego wizerunku. Dlatego właśnie utwór ten wydaje się o&nbsp;wiele bardziej współczesny niż te wszystkie ody do wolności rodem z&nbsp;dawno minionej epoki końca historii. Opisuje on współczesną wolność: wolność od wszystkiego.</p> <p>Przywykliśmy rozumieć to pojęcie przede wszystkim jako wolność pozytywną – wolność do robienia lub posiadania czegoś; mamy zatem wolność słowa, wolność poszukiwania szczęścia i&nbsp;okazji, wolność wyznania<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Dziś sytuacja ta ulega zmianie, zwłaszcza za&nbsp;sprawą wciąż trwającego kryzysu ekonomicznego i&nbsp;politycznego, gdy jedyną formą uniwersalnej wolności stał się rewers ujęcia liberalnego, rozumianego jako wolność korporacji od wszelkich form regulacji, a&nbsp;także wolność do niepohamowanego dążenia do realizacji własnych interesów za&nbsp;wszelką cenę. Tym rewersem jest bowiem wolność od więzi społecznych, uwolnienie od solidarności, pewności i&nbsp;przewidywalności, wolność od zatrudnienia i&nbsp;pracy, od kultury, transportu publicznego, edukacji publicznej i&nbsp;w ogóle wszystkiego, co publiczne.</p> <p>Oto jedyne powszechne dziś na&nbsp;świecie formy wolności. Nie stosują się na&nbsp;równi do wszystkich, zależą od sytuacji ekonomicznej i&nbsp;politycznej każdego z&nbsp;nas. Są to wolności negatywne, obowiązujące na&nbsp;całym obszarze starannie skonstruowanej i&nbsp;przejaskrawionej różnorodności oraz inności kulturowej – wspierającej wolność od ubezpieczenia społeczego, wolność od możliwości zarobienia na&nbsp;życie, wolność od odpowiedzialności i&nbsp;zrównoważenia, wolność od bezpłatnej edukacji, służby zdrowia, emerytury i&nbsp;kultury finansowanej ze środków publicznych, zniesienie standardów odpowiedzialności publicznej, a&nbsp;w wielu miejscach również wolność od reguł prawa.</p> <p>Zgodnie ze słowami Janis Joplin „wolność jest jedynie kolejnym określeniem na&nbsp;nic do stracenia”. Udział w&nbsp;takiej wolności przypada dziś ludziom w&nbsp;wielu miejscach świata. Współczesna wolność nie oznacza zatem nie tyle - jak to było w&nbsp;tradycyjnej liberalnej wizji - możliwość cieszenia się prawami obywatelskimi, lecz raczej wolność swobodnego opadania, doświadczanego przez tak wielu ludzi wrzuconych w&nbsp;niepewną i&nbsp;nieprzewidywalną przyszłość.</p> <p>Tak rozumiane negatywne wolności stanowią również napęd niezwykle różnorodnych ruchów protestu, które w&nbsp;ostatnim czasie wyłoniły się na&nbsp;świecie – ruchów pozbawionych pozytywnej idei przewodniej czy niestawiających wyraźnych żądań. Chodzi zatem o&nbsp;ruchy oporu, które swoim charakterem odpowiadają warunkom wolności negatywnej. Artykułują one utratę tego, co wspólne.</p> <h2>Wolność negatywna jako kondycja wspólna</h2> <p>Nadszedł czas na&nbsp;dobre wiadomości. W&nbsp;opisanym stanie – stanie wolności negatywnej – nie ma nic złego. Oczywiście kondycja ta ma niszczący wpływ na&nbsp;tych, którzy jej podlegają, ale zarazem przekształca formuły opozycyjności w&nbsp;pożądany sposób. Odwodzi bowiem dyskusję od wolności traktowanej jako wolność robienia, kupowania, mówienia lub noszenia tego czy owego. Taka dyskusja kończy się zwykle tworzeniem Innego, czy to islamskiego fundamentalisty czy komunisty ateisty czy też feministycznej zdrajczyni narodu lub kultury – kończy się zatem uaktualnieniem figury, która zakazuje wam robić, kupować, mówić lub nosić określone rzeczy. Tymczasem upieranie się przy mówieniu o&nbsp;wolnościach negatywnych otwiera możliwość żądania kolejnych wolności negatywnych: wolności od wyzysku, ucisku, lekceważenia. Oznacza zatem poszukiwanie i&nbsp;testowanie nowych form relacji pomiędzy ludźmi, którzy stali się wolnymi agentami w&nbsp;świecie wolnego handlu i&nbsp;niepohamowanej deregulacji.</p> <p>Swoisty wymiar wolności negatywnej w&nbsp;jej dzisiejszym wydaniu doskonale realizuje się w&nbsp;statusie wolnego strzelca.</p> <p>Kim jest freelancer? Przyjrzyjmy się najprostrzej definicji.</p> <ol> <li>Osoba sprzedająca swoje usługi pracodawcom bez długoterminowego związania się z&nbsp;jednym z&nbsp;nich.</li> <li>Osoba niezależna, niezaangażowana, choćby w&nbsp;politykę czy życie społeczne.</li> <li>Średniowieczny najemnik<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>.</li> </ol> <p>Słowo <em>freelance</em> pochodzi od średniowiecznego określenia najemnego żołnierza, <em>free-lance</em>, „wolnej włóczni”, czyli wojownika niezwiązanego z&nbsp;żadnym panem lub rządem, zatrudnianego do wykonania zadań specjalnych. Po&nbsp;raz pierwszy określenia tego użył Walter Scott (1771–1832) w&nbsp;powieści <em>Ivanhoe</em> do opisu „najemnika, [...] gotowego służyć każdemu, kto zapłaci”, wskazując tym samym, że&nbsp;broń nie jest zaprzysiężona służyć żadnemu władcy<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Rzeczownikiem osobowym stało się mniej więcej w&nbsp;latach 60. XIX wieku, a&nbsp;formę czasownikową w&nbsp;1903 roku uznało grono ekspertów <em>Oksfordzkiego Słownika Języka Angielskiego</em>. Dopiero współcześnie słowo to przekształciło się z&nbsp;rzeczownika <em>a freelance </em>w przymiotnik („freelancerski”), czasownik („freelancować”), przysłówek („freelancersko”) oraz rzeczownik „freelancer”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/wolnosc/604-7972-1-pb-1920x-579.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/21/wolnosc/604-7972-1-pb-330x-e55.jpg 330w,assets/cache/images/issues/2018/21/wolnosc/604-7972-1-pb-660x-dd6.jpg 660w,assets/cache/images/issues/2018/21/wolnosc/604-7972-1-pb-768x-090.jpg 768w,assets/cache/images/issues/2018/21/wolnosc/604-7972-1-pb-1320x-05e.jpg 1320w" src="assets/cache/images/issues/2018/21/wolnosc/604-7972-1-pb-660x-dd6.jpg" alt="" ></a>    <figcaption><p>Romantyczna wizja „wolnej lancy” w&nbsp;książce <em>A Festival of Song: A&nbsp;Series of Evenings with the Greatest Poets of the English Language</em>, Scammell and company, St. Louis, Chicago etc., 1876.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Choć dziś włócznię do wynajęcia zastąpiły raczej kruszarka do kamieni, szpadel, dziecięca butelka, karabin maszynowy albo wszelkie rodzaje cyfrowego sprzętu, warunki zatrudnienia zdają się nie różnić tak bardzo. Dziś – przynajmniej w&nbsp;przypadku osób parających się pisaniem – lancę najpewniej dostarczyl Steve Jobs. A&nbsp;może warunki pracy również uległy zmianie – fabryka wydaje się obecnie rozpadać na&nbsp;autonomiczne, podwykonawcze mikrojednostki, produkujące na&nbsp;warukach wcale nieodległych od przywiązania do ziemi czy pracy dorywczej bez długoterminowej umowy. Takie szeroko rozpowszechnione, choć nieuniwersalne odwrócenie historycznych form pracy feudalnej może oznaczać, że&nbsp;rzeczywiście żyjemy dziś w&nbsp;czasach neofeudalnych<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>.</p> <p>W kinie japońskim istnieje długa tradycja przedstawiania wędrownego najemnika, ronina, wędrownego samuraja niesłużącego jednemu panu. Ronin stracił przywilej podlegania jednemu panu i&nbsp;żyje w&nbsp;świecie Hobbesowskiej wojny wszystkich przeciwko wszystkim. Jedyne, co mu zostało, to umiejętność walki, którą oferuje na&nbsp;wynajem. Jest lumpensamurajem, poniżonym i&nbsp;zdegradowanym, lecz wciąż dysponującym najważniejszą w&nbsp;tym przypadku sprawnością.</p> <p>Klasycznym filmem o&nbsp;wolnym strzelcu jest <em>Straż przyboczna</em> (<em>Yojimbo</em>) Akiry Kurosawy z&nbsp;1961 roku – obraz popularny również na&nbsp;Zachodzie za&nbsp;sprawą przeróbki w&nbsp;formule spaghetti westernu wyreżyserowanej przez Sergia Leone. Produkcja kinowa <em>Za garść dolarów</em> z&nbsp;1964 roku wyróżniała się ze względu na&nbsp;pierwszą główną rolę Clinta Eastwooda oraz superszerokie zbliżenia, zwykle ukazujące spoconych mężczyzn walczących na&nbsp;spojrzenia przed decydującą strzelaniną. Jednak oryginalna, japońska wersja jest znacznie ciekawsza. Rozpoczyna ją zaskakująco współczesna sytuacja: wolny strzelec przemierza surowy krajobraz, by dotrzeć do wioski, w&nbsp;której natyka się na&nbsp;ludzi w&nbsp;różnych stadiach męki i&nbsp;degradacji. Początkową sekwencję zamyka ujęcie przebiegającego przez wioskę psa niosącego w&nbsp;pysku ludzką rękę.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/wolnosc/604-7974-1-pb-1920x-579.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/21/wolnosc/604-7974-1-pb-330x-e55.jpg 330w,assets/cache/images/issues/2018/21/wolnosc/604-7974-1-pb-660x-dd6.jpg 660w,assets/cache/images/issues/2018/21/wolnosc/604-7974-1-pb-768x-090.jpg 768w,assets/cache/images/issues/2018/21/wolnosc/604-7974-1-pb-1320x-05e.jpg 1320w" src="assets/cache/images/issues/2018/21/wolnosc/604-7974-1-pb-660x-dd6.jpg" alt="" ></a>    <figcaption><p>Hollywoodzka adaptacja filmu Akiry Kurosawy <em>Yojimbo</em> (1961) z&nbsp;Clintem Eastwoodem w&nbsp;roli głównej. W&nbsp;trylogii spagetti westernu samuraj zmienił sie w&nbsp;kowboja.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>W filmie Kurosawy kraj znajduje się w&nbsp;procesie przejścia od gospodarki opartej na&nbsp;produkcji do gospodarki opartej na&nbsp;konsumpcji i&nbsp;spekulacji. Wioską rządzi dwóch rywalizujących ze sobą watażków-kapitalistów. Ludzie porzucają swoje warsztaty rzemieślinicze, by stać się pośrednikami i&nbsp;agentami. Jednocześnie produkcja tekstylna – dziedzina dogłębnie związana z&nbsp;tworzeniem i&nbsp;rozwojem kapitalizmu – zostaje „outsourcowana”, scedowana na&nbsp;żony. Coraz liczniej pojawiają się prostytutki oraz ochroniarze, których obsługują. Seks i&nbsp;ochrona to wartościowe towary, podobnie jak trumny, które – po&nbsp;produkcji sukna – zdają się głównym wytworem miejskiego przemysłu. W&nbsp;takiej scenerii pojawia się wolny strzelec, freelancer. Udaje mu się wywołać konflikt pomiędzy watażkami i&nbsp;wyzwolić wioskę.</p> <h2>Najemnik</h2> <p>O ile historia ronina stanowi trafną alegorię warunków życia współczesnych wolnych strzelców, o&nbsp;tyle najemnik nie jest po&nbsp;prostu figurą alegoryczną czy historyczną – przeciwnie, to postać bardzo współczesna. Żyjemy bowiem w&nbsp;epoce, w&nbsp;której wykorzystanie sił najemnych niespodziewanie wróciło, zwłaszcza podczas drugiej wojny w&nbsp;Iraku, która – o&nbsp;czym zdążyliśmy zapomnieć – rozpoczęła się pod&nbsp;szyldem „Operacja: Iracka Wolność”.</p> <p>Pytanie, czy prywatne firmy ochroniarskie można nazwać najemnikami w&nbsp;myśl prawa międzynarodowego, było jednym z&nbsp;najburzliwiej dyskutowanych podczas wojny w&nbsp;Iraku. Choć wojskowi zleceniobiorcy nie spełniają być może wszystkich kryteriów, by zgodnie z&nbsp;definicją konwencji genewskiej można było ich określić jako najemników, wykorzystanie 20 tysięcy pracowników tego rodzaju podczas okupacji uwydatnia postępującą prywatyzację operacji wojennych i&nbsp;zniesienie kontroli państwa nad działaniami prywatnych żołnierzy.</p> <p>Jak zauważyło wielu politologów, prywatyzacja działań wojennych jest symptomem generalnego osłabienia struktury państwa narodowego – oznaką utraty kontroli nad władzą wojskową, co w&nbsp;konsekwencji prowadzi do zniesieniem odpowiedzialności i&nbsp;rządów prawa. Podważeniu ulega w&nbsp;ten sposób monopol państwa na&nbsp;przemoc, a&nbsp;także sama suwerenność państwa, zastępowana tym, co nazywa się „suwerennością podwykonawczą”. Istnieją zatem dwie dopełniające się postacie, odgrywające ważne role w&nbsp;scenariuszu wolności negatywnej: freelancer reprezentuje wymiar zawodowy, a&nbsp;najemnik czy prywatny ochroniarz - wymiar okupacji przestrzeni.</p> <p>Zarówno freelancer, wolny strzelec, jak i&nbsp;najemnik nie posiadają związków z&nbsp;tradycyjnymi formami organizacji politycznej, choćby z&nbsp;państwami narodowymi. Wchodzą w&nbsp;dowolne układy lojalnościowe, podlegające negocjacjom finansowym i&nbsp;militarnym. Demokratyczna reprezentacja polityczna zmienia się zatem w&nbsp;pustą obietnicę, gdyż tradycyjne instytucje polityczne gwarantują wolności negatywne wyłącznie wolnym strzelcom i&nbsp;najemnikom: oferują im wolność od wszystkiego, prawo do bycia wyjętym spod prawa czy, jak mówi piękne powiedzenie, swobodną grę. Swobodna gra dla rynku; swobodna gra dla sił deregulacji państwa i&nbsp;wreszcie: deregulacji samej demokracji liberalnej.</p> <p>Zarówno wolnych strzelców, jak i&nbsp;najemników wiązać można z&nbsp;rozwojem tego, co Saskia Sassen nazywa „miastem globalnym”. Ostatnio wspaniale uchwycił to pojęcie Thomas Elsaesser, pisząc, że&nbsp;miasta globalne to miejsca, które</p> <blockquote>ze względu na&nbsp;wiele niezależnych czynników stały się ważnymi węzłami globalnego systemu ekonomicznego. Koncepcja miasta globalnego zakłada zatem myślenie o&nbsp;świecie w&nbsp;kategoriach sieci, tworzonych w&nbsp;pewnych punktach, w&nbsp;miastach, których zasięg i&nbsp;znaczenie wyraźnie przekraczają granice pojedynczego kraju, wskazując tym samym ponadnarodowość czy też postnarodowość<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>.</blockquote> <p>Miasta globalne oddają więc nową geografię władzy, powiązaną ze swej istoty z&nbsp;globalizacją ekonomiczną i&nbsp;jej licznymi konsekwencjami, które wydatnie przekształciły funkcje państwa narodowego i&nbsp;jego instytucji politycznych, takich jak reprezentacja demokratyczna. Oznacza to, że&nbsp;tradycyjne tryby reprezentacji demokratycznej znajdują się w&nbsp;głębokim kryzysie. Kryzys ten nie został wywołany zakłóceniem spowodowanym przez jakiegoś kulturowo obcego Innego. Przeciwnie, doprowadził do niego sam system reprezentacji politycznej, który z&nbsp;jednej strony podważył władzę państwa narodowego, cofnąwszy regulacje finansowe, a&nbsp;z drugiej strony rozbuchał władzę państwa narodowego za&nbsp;pomocą praw stanu wyjątkowego i&nbsp;ucyfrowionego nadzoru. Liberalna koncepcja demokracji przedstawicielskiej została dogłębnie naruszona przez niepohamowane siły ekonomicznego liberalizmu i&nbsp;nacjonalizmu.</p> <p>W tej sytuacji pojawia się nowy rodzaj wolności negatywnej: prawo do niebycia reprezentowanym przez tradycyjne instytucje, odmawiające wzięcia odpowiedzialności za&nbsp;ciebie, lecz jednocześnie próbujące kontrolować twoje życie i&nbsp;nim sterować, a&nbsp;może wręcz wykorzystujące do tego prywatne wojskowa lub prywatne firmy ochroniarskie.</p> <p>Czym zatem wolność należy przedstawić w&nbsp;inny sposób? Jak znaleźć wyraz stanu całkowitej wolności od wszystkiego, od wszelkich związków, podmiotowości, własności, lojalności, więzi społecznych, a&nbsp;nawet od siebie samego jako podmiotu? I&nbsp;w jaki sposób mielibyśmy zakomunikować to wszystko politycznie?</p> <p>Może w&nbsp;ten sposób?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/wolnosc/604-7975-1-pb-1920x-579.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/21/wolnosc/604-7975-1-pb-333x-cb1.jpg 333w,assets/cache/images/issues/2018/21/wolnosc/604-7975-1-pb-666x-f88.jpg 666w,assets/cache/images/issues/2018/21/wolnosc/604-7975-1-pb-1332x-067.jpg 1332w" src="assets/cache/images/issues/2018/21/wolnosc/604-7975-1-pb-666x-f88.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <blockquote> <p>Makieta papierowej maski bohatera powieści graficznej <em>V jak Vendetta</em>, wykorzystywanej przez demonstrantów od 2008 roku jako odwołanie do hakerskiego ruchu Anonymous. Makieta maski pozwala samodzielnie ją wykonać i&nbsp;uniknąć płacenia firmie Warner Bros., posiadającej prawa do filmowej adaptacji dzieła.</p> </blockquote> <h2>Tracę twarz teraz / muszę żyć...<sup><b><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></b></sup></h2> <p>W 2008 roku maska Guya Fawkesa została przejęta przez grupę hackerską Anonymous, by pełnić funkcję publicznego oblicza protestów przeciw scjentologii. Od tego czasu rozprzestrzeniła się jako wizualny symbol współczesnego oporu. Właściwie nierozpoznane pozostaje jednak to, że&nbsp;przechwyceniu uległa twarz najemnika.</p> <p>Guy Fawkes był nie skazańcem straconym za&nbsp;próbę wysadzenia brytyjskiego parlamentu. Był również najemnikiem religijnym walczącym na&nbsp;rzecz katolicyzmu w&nbsp;całej Europie. O&nbsp;ile jego historia jest co najmniej dwuznaczna i&nbsp;szczerze mówiąc, niezbyt pociągająca, przejęcie tego wyabstrahowanego wizerunku przez Anonymous wskazuje ciekawą, choć napewno nieświadomą reinterpretację roli najemnika.</p> <p>Nowy najemnik – rzekomo wolny od wszystkiego – jest już nie tyle podmiotem, ile przedmiotem: maską. Jest przedmiotem komercyjnym, własnością dużej korporacji, oczywiście również podrabianą. Maska ta pojawiła się po&nbsp;raz pierwszy w&nbsp;komiksie <em>V jak Vendetta</em>, opowiadającym o&nbsp;zamaskowanym buntowniku, nazywającym siebie V i&nbsp;walczącym przeciw faszystowskim władzom rządzącym Wielką Brytanią w&nbsp;przyszłości. Popularność zyskała za&nbsp;sprawą filmu pod&nbsp;tym samym tytułem. Dlatego właśnie prawa autorskie do maski posiada korporacja Time Warner, która wyprodukowała film. Nastawieni antykorporacyjnie demonstranci, kupując oficjalną wersję maski, przyczyniają się zatem do wzbogacenia jednej z&nbsp;korporacji, przeciw którym występują. Ale pojawiają się również gesty oporu:</p> <blockquote>Jeden z&nbsp;londyńskich demonstrantów powiedział, że&nbsp;jego towarzysze starają się przeciwstawić kontroli firmy Time Warner nad tym wizerunkiem. Twierdził, że&nbsp;organizacja Anonymous UK sprowadziła tysiąc egzemplarzy masek z&nbsp;Chin, a&nbsp;środki z&nbsp;ich dystrybucji idą „prosto do funduszu piwnego Anonymous, zamiast do Warnerów. Tak jest o&nbsp;wiele lepiej”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>.</blockquote> <p>Ten przeładowany znaczeniami przedmiot reprezentuje wolność od bycia reprezentowanym. Obiekt podważanych praw autorskich gwarantuje niedookreśloną tożsamość ludziom, którzy nie tylko czują, że&nbsp;potrzebują anonimowości, by być reprezentowanymi, lecz również przyznają, że&nbsp;mogą być reprezentowani przez przedmioty i&nbsp;towary, ponieważ – czy to jako wolni strzelcy, czy jako najemnicy – sami są swobodnie dryfującymi towarami.</p> <p>Przyjrzyjmy się jednak innym sposobom użycia masek czy zmyślonych osobowości, by zobaczyć, jak trop najemnika może nas zaprowadzić jeszcze dalej. Członkinie rosyjskiego punkowego zespołu Pussy Riot do zakrycia twarzy podczas głośnych wystąpień na&nbsp;placu Czerwonym w&nbsp;Moskwie wykorzystywały kominiarki w&nbsp;jaskrawych barwach, by nie przebierając w&nbsp;słowach, wezwać prezydenta Władimira Putina do pakowania manatków. Poza praktyczną funkcją (przynajmniej tymczasową) ukrywania twarzy kominiarka przywołuje na&nbsp;myśl jedną z&nbsp;najsłynniejszych dobrodusznych ikon rebelii ostatnich dekad – przed oczami staje pykający fajkę w&nbsp;kominiarce <em>subcomandante</em> Marcos, nieoficjalny rzecznik Zapatystowskiej Armii Wyzwolenia Narodowego.</p> <p>Ten przypadek uczy nas również, w&nbsp;jaki sposób zmienić postać najemnika w&nbsp;figurę partyzanta. Zresztą historycznie są one sobie bliskie. W&nbsp;drugiej połowie XX wieku najemnicy zostali nasłani na&nbsp;grupy powstańcze na&nbsp;całym świecie, w&nbsp;szczególności w&nbsp;postkolonialnej Afryce. Tak zwani doradcy paramilitarni wykorzystywani byli również w&nbsp;Ameryce Łacińskiej podczas brudnych zastępczych wojen, których zadaniem było podtrzymanie panowania Stanów Zjednoczonych w&nbsp;regionie. Pod&nbsp;pewnymi względami partyzanci i&nbsp;najemnicy dzielą podobne przestrzenie, choć różnią się choćby tym, że&nbsp;partyzanci zwykle nie otrzymują wynagrodzenia finansowego za&nbsp;swoje wysiłki. Oczywiście nie można wrzucać wszystkich grup partyzanckich do jednego worka i&nbsp;trzeba pamiętać o&nbsp;ich wielkim zróżnicowaniu. Czasem jednak działają one w&nbsp;sposób analogiczny do grup najemników i&nbsp;formacji paramilitarnych, które przeciw nim występują. W&nbsp;innych przypadkach przekształcają ten schemat organizacyjny – odwracają go, afirmując wolność negatywną i&nbsp;dążąc do uwolnienia się od zależności, od okupacji w&nbsp;każdym sensie.</p> <p>Jako reprezentanci współczesnych realiów ekonomicznych najemnicy i&nbsp;wolni strzelcy mogą uwolnić się od swoich pracodawców i&nbsp;przeorganizować w&nbsp;grupy partyzanckie, lub – by ująć to nieco skromniej – w&nbsp;gang roninów na&nbsp;wzór tego ukazanego w&nbsp;arcydziele Kurosawy <em>Siedmiu samurajów</em> z&nbsp;1954 roku. Siedmiu wolnych strzelców łączy siły, by obronić wioskę przed bandytami. W&nbsp;sytuacji całkowitej wolności negatywnej nawet takie scenariusze stają się możliwe.</p> <h2>Maska</h2> <p>Teraz możemy wreszcie wrócić do George’a Michaela. Teledysk do utworu <em>Freedom! ’90</em> ukazuje całą zarysowaną tu charakterystykę. Ta bezwstydna, pełna przesady afirmacja heteronormatywnych gwiazd kultury popularnej dziś wydaje się równie absurdalna, co w&nbsp;momencie jej stworzenia.</p> <p>George Michael w&nbsp;żadnym momencie nie pojawia się na&nbsp;ekranie. Reprezentują go supertowary, supermodele i&nbsp;supermodelki, poruszający wargami do słów piosenki niczym ludzkie mikrofony. Wszelkie atrybuty jego scenicznej postaci – skórzana kurtka, szafa grająca i&nbsp;gitara – trawi ogień, jakby były wysadzanym w&nbsp;powietrze brytyjskim parlamentem. Sceneria przypomina z&nbsp;kolei przejęty przez komornika, zamknięty na&nbsp;cztery spusty dom, z&nbsp;którego do lombardów powędrowały już wszystkie meble, a&nbsp;ostał się tylko system nagłaśniający. Nic innego nie zostało. Żadnego podmiotu, własności, tożsamości czy marki, gdy głos i&nbsp;twarz zostały rozdzielone. Pozostały wyłącznie maski, anonimowość, alienacja, utowarowienie, wolność niemal od wszystkiego. Wolność wygląda jak droga do nieba, ale czujesz, jakby była drogą do piekła. Powoduje konieczność zmiany, odmowy bycia podmiotem zawsze z&nbsp;góry określonym, nazwanym i&nbsp;kontrolowanym.</p> <p>Wreszcie czas na&nbsp;dobre wiadomości. Tylko wówczas, gdy zaakceptujemy, że&nbsp;nie ma powrotu do rozumienia wolności <em>à la</em>David Hasselhoff, gloryfikującej stwarzającą siebie przedsiębiorczą jednostkę żyjącą rojeniami o&nbsp;życiowych szansach, otworzy się przed nami nowa wolność. Może wydawać się przerażająca - niczym świt w&nbsp;scenerii katastroficznej – nie wyklucza jednak solidarności.</p> <blockquote>Wolności – nie zawiodę cię,</blockquote> <blockquote>Wolności – nie zdradzę cię. Musisz dawać, skoro bierzesz<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>.</blockquote> <p>W dystopii wolności negatywnej – w&nbsp;naszych koszmarach o&nbsp;zatomizowanym świecie – nikt nie należy do nikogo (poza bankami). Nie należymy nawet sami do siebie. Ale nie zdradzę cię. Nie zawiodę cię. Uwierz w&nbsp;dźwięki. To jedyna dobra rzecz, jaką mamy.</p> <p>Niczym wolni strzelcy i&nbsp;najemnicy Kurosawy, budujący więzi wzajemnego wsparcia w&nbsp;sytuacji Hobbesowskiej wojny wszystkich przeciwko wszystkim, feudalizmu i&nbsp;rządów wojennych przywódców, mamy swobodę, by coś zrobić, skoro jesteśmy wolni od wszystkiego.</p> <p>Oto nowa wolność: musisz dawać, skoro bierzesz.</p> <p><br><b>Przekład eseju Hito Steyerl <em>Freedom From Everything: Freelancers and Mercenaries</em>, który ukazał się w&nbsp;jej książce <em>Wretched of the Screen</em>, Sternberg Press, Berlin 2012.</b> </p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> <em>Well it looks like the road to heaven / But it feels like the road to hell</em>. </p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Na temat rozróżnienia wolności pozytywnej i negatywnej zob. Isaiah Berlin, <em>Cztery eseje o wolności</em>, przeł. H. Bartoszewicz, Wydawnictwo Naukowe PWN, Warszawa 1994. Pojęcie wolności negatywnej występuje również w filozofii Charlesa Taylora, różni się ono jednak od proponowanego tutaj rozumienia.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Hasło <em>freelance</em>: <a href="http://www.thefreedictionary.com/freelance" target="_blank" rel="noopener">www.thefreedictionary.com/freelance</a>, dostęp 10 grudnia 2016 (w oparciu o <em>American Heritage Dictionary of the English Language</em>, wydanie V, Houghton Mifflin Harcourt Publishing Company, Boston 2016).</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Walter Scott, <em>Ivanhoe</em>, przeł. T. Tatarkiewicz, Wydawnictwo Dolnośląskie, Wrocław 2005.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Zobacz hasło <em>freelancer</em> na Wikipedia.com, <a href="https://en.wikipedia.org/wiki/Freelancer" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/Freelancer</a>, dostęp 10 grudnia 2016.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> „W wymiarze abstrakcyjnym wielowarstwowa geografia polityczna porządku feudalnego przypomina dzisiejszą sytuację nakładających się na siebie jurysdykcji państw narodowych, ponadnarodowych instytucji i całkiem nowych prywatnych reżimów globalnych. Jest to jedna z najpowszechniejszych interpretacji proponowanych przez badaczy globalizacji”. Zob. Saskia Sassen, <em>Territory, Authority, Rights: From Medieval to Global Assemblages</em>, Princeton University Press, Princeton 2006, s. 27.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Thomas Elsaesser, <em>Walter Benjamin, Global Cities, and „Living with Asymmetries”</em>, niepublikowany referat zaprezentowany podczas III Biennale w Atenach w grudniu 2011 roku.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> <em>Lose the face now / I’ve got to live</em>.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Tamara Lush i Verena Dobnik, Associated Press, <em>„Vendetta” Mask Becomes Symbol of Occupy Protests</em>, Boston.com z 4 listopada 2011 roku, <a href="http://archive.boston.com/ae/movies/articles/2011/11/04/vendetta_mask_becomes_symbol_of_occupy_protests/" target="_blank" rel="noopener">http://archive.boston.com/ae/movies/articles/2011/11/04/ vendetta_mask_becomes_symbol_of_occupy_protests/</a>, dostęp 10 grudnia 2016.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> <em>Freedom: I won’t let you down / Freedom: I will not give you up. You got to give [for] what you take</em>.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/21-praca-niewidzialna/wolnosc-od-wszystkiego.-wolni-strzelcy-i-najemnicy" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

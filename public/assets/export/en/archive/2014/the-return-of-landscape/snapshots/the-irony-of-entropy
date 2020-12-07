@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>The Irony of Entropy | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/the-return-of-landscape/the-irony-of-entropy">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="The Irony of Entropy | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="The Irony of Entropy | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/the-return-of-landscape/the-irony-of-entropy">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="The Irony of Entropy | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #789 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #789 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #789 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #789 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #789 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #789 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #789 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #789 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(119,136,153,0.8) !important; */
+			/* background-color:#789 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(119,136,153,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#789 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(119,136,153,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#789; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(119,136,153,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(119,136,153,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#789 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#789 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#789 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1425 parent-id-1395">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1389" data-selected-issue-color="#789" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/8-powrot-krajobrazu#toc">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/8-powrot-krajobrazu/the-irony-of-entropy">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/the-return-of-landscape#toc">8</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/the-return-of-landscape/the-irony-of-entropy?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>The Irony of Entropy</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/the-return-of-landscape/the-irony-of-entropy?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=498">Sidsel Nelund</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2><em>The Anthropocene Project. A&nbsp;Report</em>, Haus der Kulturen der Welt in Berlin, October 16 –&nbsp;December 8, 2014</h2> <p></p> <h2><br><br></h2> <h2>Facing contemporary concerns through&nbsp;the curating of research</h2> <p>Dry desert soil surfaces as the camera slowly pans over&nbsp;the ground. Black miniature canyons pierce the arid clay-like land, leaving traces of a&nbsp;once moist field. Juxtaposition with&nbsp;long shots of rubber-covered cracks in a&nbsp;concrete parking lot enhances our contemplation of the ground. In both sites, cracks and ruptures bear witness to a&nbsp;destruction of the ground through&nbsp;dehydration and earthquakes.<em></em>The Otolith Group’s video work <em>Medium Earth </em>(2013) cinematically attunes to signs of the earth and thereby allows spectators to contemplatively sense it. Attunement to the earth was one of the main aims of <em>The Anthropocene Project</em>, the result of an interdisciplinary project devoted to the current ecological crisis. The final exhibition, titled <em>The Anthropocene Project, A&nbsp;Report</em>, took place at Haus der Kulturen der Welt in Berlin <sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> and asked: if we can better sense the signs of earth, can we then understand –&nbsp;and even more importantly avoid the deepening of –&nbsp;the ecological crisis?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3368-1-pb-1920x-68a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3368-1-pb-330x-01f.jpg 330w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3368-1-pb-660x-b48.jpg 660w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3368-1-pb-768x-134.jpg 768w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3368-1-pb-1320x-d7f.jpg 1320w" src="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3368-1-pb-660x-b48.jpg" alt="" ></a>    <figcaption><p>The Otolith Group, <em>Medium Earth</em> (still), 2013, Courtesy and copyright of the artist</p></figcaption>   </figure>  </section><section class="u-typo">   <p><em>The Anthropocene Project, A&nbsp;Report</em>, considers the hypothesis that&nbsp;we have now left the geological epoch of the Holocene, which started about&nbsp;11700 years back, to enter into&nbsp;the era of the Anthropocene.<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup> In the Anthropocene, humans shape geology through&nbsp;the accelerated use of technology: from&nbsp;nuclear power to airplane traffic and plastic. The Anthropocene condition means that&nbsp;we have reached a&nbsp;tipping point after&nbsp;which there is no known or overall “rescue plan” for&nbsp;life on earth. Instead, climate change caused by enormous technological acceleration appears in the form of drier and hotter, colder and wetter climates, which destroy eco-systems and force humans and animals to migrate. Consequently, this&nbsp;is also the condition of coming to terms with&nbsp;the prospect of the extinction of human life as we know it.</p> <p>Using science and art as means for&nbsp;cultural research <em>The Anthropocene Project, A&nbsp;Report</em> came at the end of a&nbsp;two-year period of interdisciplinary exhibitions, conferences, music events and week-long scientific gatherings among&nbsp;scientists, artists and philosophers.<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> One of the main challenges of the Anthropocene is that&nbsp;it is extremely vast to study in all its interrelated connections. The coming together of different disciplines is therefore necessary. Simultaneously, the condition of the Anthropocene is particularly difficult to grasp in its totality, both for&nbsp;laymen and experts. The educative aim of attuning to the earth therefore becomes important as a&nbsp;curatorial strategy: how do you both investigate an entropic topic and maintain a&nbsp;contemplative focus within&nbsp;the format of an exhibition?</p> <h2>Earthbound or evaporating?</h2> <p><em>The Anthropocene Project. A&nbsp;Report </em>consisted of separate exhibitions by Adam Avikainen, The Otolith Group and the Anthropocene Observatory. The Anthropocene Observatory<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> presented the last part of a&nbsp;series of four exhibitions <em>#4 The Dark Abyss of Time,</em> which strove to understand the condition of the Anthropocene visually and historically<em>. </em>It made up the main spatial and conceptual axis of the three exhibitions and was divided into&nbsp;two parts. Sizable displays took up the foyer of HKW and conveyed the development of planning and control systems related to larger earth scale systems and their development within, for&nbsp;instance, mining on a&nbsp;global scale since&nbsp;early capitalism. Each of the displays represented a&nbsp;single topic, each utilising about&nbsp;thirty entries consisting of one photograph and a&nbsp;short, introductory paragraph.<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> The audience was taken through&nbsp;the complex historical processes of industrialization, colonization and the postcolonial period, up to the current situation determined by the domination of global neoliberal mechanisms. On the massive pillars of the foyer or from&nbsp;the ceiling hung large framed photographs by Armin Linke, portraying industrial landscapes, mass production processes and the oftentimes inaccessible interiors of institutions. A&nbsp;second part continued in the gallery with&nbsp;screens arranged spatially so as to correspond to the large room. Each presented interviews with&nbsp;scientists, politicians and activists.<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3364-1-pb-1920x-2c5.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3364-1-pb-330x-8db.jpg 330w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3364-1-pb-660x-ec4.jpg 660w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3364-1-pb-768x-b9f.jpg 768w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3364-1-pb-1320x-fc6.jpg 1320w" src="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3364-1-pb-660x-ec4.jpg" alt="" ></a>    <figcaption><p>The Anthropocene Project. A&nbsp;Report, installation view, ©Sebastian Bolesch / Haus der Kulturen der Welt</p></figcaption>   </figure>  </section><section class="u-typo">   <p>This main axis of the Anthropocene Observatory provided the informational background about&nbsp;the ecological conditions of this&nbsp;new era, both by a&nbsp;vertical tracing of the historical development present in the displays, and by a&nbsp;horizontal plotting of the contemporary visions and diagnoses of experts. An interesting tension appeared in the wide range of geographical areas influenced by the Anthropocene, covered in the displays and by the experts, and the clear domination of Western scholars and historical influence on innovation and technology, since&nbsp;industrialization and through&nbsp;colonization. These two parts clearly aimed to negotiate the challenge of how to communicate an entropic topic like&nbsp;the Anthropocene, exemplified by the photographs by Armin Linke, which provided aesthetic contemplation in oscillation with&nbsp;the processing of large amounts of information on the displays. The risk of mimicking National Geographic aesthetics of lightly packaged knowledge in combination with&nbsp;talking heads balanced delicately with&nbsp;presenting an aesthetically careful, generous and specific introduction to a&nbsp;very vast field. At first glance, the amount of information seemed overwhelming, however the displays and edited video interviews risked becoming slightly shallow despite&nbsp;the amount of research they were based on, because of their edited, statement-like character and the two-dimensional interaction they provided for.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3362-1-pb-1920x-3d7.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3362-1-pb-330x-cd9.jpg 330w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3362-1-pb-660x-972.jpg 660w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3362-1-pb-768x-a22.jpg 768w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3362-1-pb-1320x-812.jpg 1320w" src="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3362-1-pb-660x-972.jpg" alt="" ></a>    <figcaption><p>Adam Avikainen, <em>CSI Department of Natural Resources</em>', photo by Sidsel Nelund</p></figcaption>   </figure>  </section><section class="u-typo">   <p>On one side of <em>#4 The Dark Abyss of Time </em>was Adam Avikainen’s <em>CSI Department of Natural Resources</em> with&nbsp;large ‘earth paintings’ covering the two tall, perpendicular walls. As the catalogue entry helped to understand, the earth painting had been made in Seoul with&nbsp;the use of iron. The ‘paintings’ varied from&nbsp;red to brown to a&nbsp;greenish black affected by rust. Abstract, they served as a&nbsp;counterpoint to the garden-scape outside&nbsp;the large windows opposite&nbsp;them and as a&nbsp;backdrop to the sculptural and theatrical elements placed in the center of the room and along&nbsp;a&nbsp;third wall. Here, in a&nbsp;circular arrangement, 333 posters and photographs were hung that&nbsp;one could make a&nbsp;selection from&nbsp;and place on a&nbsp;light box supposedly made of recycled X-ray machines. One could then pair these with&nbsp;one of 333 letters sent by the artist to institutions and research centers apparently affiliated with&nbsp;the study of the Anthropocene. Each letter contained 111 letters of the alphabet and utilized a&nbsp;playful, nonsense language, albeit using a&nbsp;formal aesthetic. Martin Herbert, reviewer of Frieze d/e Magazine, might be right in suggesting that&nbsp;this arrangement would work better as a&nbsp;book,<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> because even though one was invited to activate the material, it was difficult to access the otherwise captivating story-telling aspects that&nbsp;curator Caterina Riva so poetically unfolded in the catalogue as being essential to Avikainen’s practice.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3372-1-pb-1920x-d77.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3372-1-pb-330x-0b8.jpg 330w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3372-1-pb-660x-768.jpg 660w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3372-1-pb-768x-d50.jpg 768w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3372-1-pb-1320x-296.jpg 1320w" src="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3372-1-pb-660x-768.jpg" alt="" ></a>    <figcaption><p>The Otolith Group, <em>Medium Earth</em> (still), 2013, Courtesy and copyright of the artist</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Yet there was an interesting connection between&nbsp;the abundance of poetic nonsense letters and the “expert-talk” displayed next door as part of <em>#4 The Dark Abyss of Time</em>. The juxtaposition of voices continued elegantly in The Otolith Group’s exhibition <em>Medium Earth</em>, which consisted of several elements<em>.</em> In the piece <em>Who does the Earth Think it Is</em>, copies of letters sent to earthquake institutes in California were installed on tall wooden display tables throughout the room. In these letters, 'earthquake sensitives,' that&nbsp;is people who sense earthquakes bodily or calculate them through&nbsp;intricate personal systems, share their concerns, patterns and predictions of future earthquakes so as to warn experts in time. Again, the letters appear as nonsense and sometimes provoke laughter, but&nbsp;following the display out through&nbsp;the hallway to the second gallery, one finds the film essay <em>Medium Earth</em> where letters of 'earthquake sensitives' make up a&nbsp;poetic and sincere voice-over. The film essay is about&nbsp;forty minutes long and consists of slow moving shots in a&nbsp;California desert and in Los Angeles parking lots. In both places the dominant colors are brown and grey. The cracked ground is evidence of the devastation brought by earthquakes even to solid materials and substances. The act of transferring landscape painting to HD video provides an almost meditative contemplation through&nbsp;the very grounding sensation of the slow shots and the focus on the dry cracked desert soil or fractured parking lot surface. The Otolith Group’s landscape video might also be understood as a&nbsp;statement on the need to develop a&nbsp;new landscape genre in the age of the Anthropocene –&nbsp;a&nbsp;landscape which no longer reflects on nature, but&nbsp;on the life of industrial or man made items. The non-action –&nbsp;there are barely any humans on screen or any kind of sequential action going on –&nbsp;gives a&nbsp;comforting, calm feeling in juxtaposition to the information overload and the slightly heavy-handed interaction of <em>#4 The Dark Abyss of Time </em>and <em>CSI Department of Natural Resources</em>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3366-1-pb-1920x-7e3.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3366-1-pb-330x-1e8.jpg 330w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3366-1-pb-660x-795.jpg 660w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3366-1-pb-768x-e12.jpg 768w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3366-1-pb-1320x-851.jpg 1320w" src="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3366-1-pb-660x-795.jpg" alt="" ></a>    <figcaption><p>Anthropocene Observatory: Territorial Agency (John Palmesino and Ann-Sofi Rönnskog), <em>Iraq / Syria / Turkey: Tigris and Euphrates rivers. Landsat multiyear multispectral analysis of farmland transformation</em>, Landsat data elaborated by Territorial Agency, © Territorial Agency</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Overall, <em>#4 The Dark Abyss of Time </em>presented a&nbsp;fascinating and impressive overview of the development of the effects of human activities on earth. The thoughtful spatial installation gave a&nbsp;sense of the effort to communicate something as complex as the Anthropocene condition. The displays, photographs and expert videos balanced between&nbsp;aesthetics and science, but&nbsp;somewhat surprisingly seemed to insist on a&nbsp;beautiful aesthetic to communicate abundant information. What would it mean to convey the Anthropocene in all its painful ugliness of destruction and extinction? Furthermore, the focus on historical timelines and the interior of closed institutions and experts might result in distancing the viewer from&nbsp;the topic of the Anthropocene, as the responsibility for&nbsp;the contemporary effects of climate change thereby seems to be placed on big industry and capitalist exploitation. The responsibility for&nbsp;solving the situation is likewise placed on scientists and experts. The two artistic approaches of Avikainen and The Otolith Group invited more contemplative, imaginative, playful and layman approaches and responses to the Anthropocene. The many voices, letters and talking heads presented a&nbsp;spectrum of necessary approaches between&nbsp;knowing everything scientifically, and sensing the immediate environment. The artistic responses added a&nbsp;more human and materially small-scale entry point to the devastating prospect of the Anthropocene future without&nbsp;being trapped by the fear it understandably provokes.</p> <p>However, a&nbsp;few questions remain. If the Anthropocene concerns us all, why not make the genealogy more much more global instead of largely Western? In the light of the Anthropocene's vastness, what agency does an individual have, especially an individual grounded in specific identity categories (his/her ethnicity, gender, age etc.)? On a&nbsp;less critical, but&nbsp;curious level, one could also ask what is the political role of a&nbsp;cultural institution in hosting such a&nbsp;project considering&nbsp;that many politicians shy away from&nbsp;acting seriously on climate change?</p> <h2>Entropic sensing?</h2> <p>A theorist whose thought and practice hover above&nbsp;<em>The Anthropocene Project. A&nbsp;Report</em>, &gt;and the <em>Anthropocene Project</em> as such, is the sociologist of science Bruno Latour. Not only has he been concerned with&nbsp;the Anthropocene and, in a&nbsp;wider sense, ecology for&nbsp;at least a&nbsp;decade, his practice also asks pertinent questions about&nbsp;both the philosophical conceptualisation and methodologies of enquiry, which the condition of the Anthropocene needs. As Latour argues, we need to understand epistemologically what it means to live with&nbsp;the prospect of human extinction and we also need methodological ways of approaching this&nbsp;situation to act upon&nbsp;it. In the Gifford Lecture series titled <em>Facing Gaia. A&nbsp;New Enquiry into&nbsp;Natural Religion</em>, Latour offers an understanding of the environment in the Anthropocene as a&nbsp;series of feedback loop mechanisms.<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup> Where we have traditionally thought of eco-systems as being somewhat small and predictable, for&nbsp;instance in the form of a&nbsp;farm recycling compost or manure to grow plants that&nbsp;the animals then eat to produce more manure, in the Anthropocene we are dealing with&nbsp;a&nbsp;feedback loop mechanism where we cannot predict what comes back. Saving energy in a&nbsp;household does not mean that&nbsp;the inhabitants of the household breath non-contaminated air. The impact of our action is erratic and not in our control. Ultimately, the relationship between&nbsp;cause and effect has changed.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3370-1-pb-1920x-115.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3370-1-pb-330x-915.jpg 330w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3370-1-pb-660x-a57.jpg 660w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3370-1-pb-768x-1e3.jpg 768w,assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3370-1-pb-1320x-19e.jpg 1320w" src="assets/cache/images/issues/2014/8/the-irony-of-entropy/248-3370-1-pb-660x-a57.jpg" alt="" ></a>    <figcaption><p>Anthropocene Observatory: <em>Whirlwind</em>, Pantelleria, Italy, 2007, © Armin Linke</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Alongside the epistemological understanding of the Anthropocene, there is a&nbsp;need for&nbsp;new methodologies. Here Latour represents a&nbsp;compositionist approach, which does not criticize as critical theory does, but&nbsp;rather creates new sets of compositions –&nbsp;an exhibition and project like&nbsp;<em>The Anthropocene Project</em> corresponds well to this&nbsp;attitude in the gathering of elements to make understandings appear. Moreover, Latour gives value to aesthetics claiming that&nbsp;we ‘need a&nbsp;force that&nbsp;turns around&nbsp;a&nbsp;notion of aesthetics’.<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> Both science and art are aesthetic, not in the sense of beauty, but&nbsp;in the etymological sense of the word –&nbsp;designating how we can be sensible toward&nbsp;new approaching entities. Science invents instruments to grasp and explain a&nbsp;collective sensibility to areas other than&nbsp;science, and art holds the capacity to make us sensible to the composition of non-human entities –&nbsp;a&nbsp;necessary task of the Anthropocene, where non-human forces take on a&nbsp;new and strong role. One of the consequences of the Anthropocene and the unpredictable feedback loop mechanism is to understand processes on a&nbsp;global scale in terms of flux, dissipation and entropy. There can be no single authoritarian voice, only plurivocality, plurimateriality and pluriformality, making the <em>Anthropocene Project</em> with&nbsp;its many events, people and materials, a&nbsp;set of channels to tune in and out of.</p> <p>The Anthropocene also brings about&nbsp;a&nbsp;crisis of language and thus requires finding the “right” language and mood with&nbsp;which to address its enormity. Reactions to such overwhelmingness were tangible among&nbsp;the audience: one person sat sleeping throughout the time I&nbsp;spent in the second part of <em>#4 The Dark Abyss of Time,</em> another announced that&nbsp;a&nbsp;visit to the café was necessary in order to even start engaging with&nbsp;the displays in the foyer, and a&nbsp;third noted in his notebook during&nbsp;one event the word “PLATITUDES” referring to the banality of the speakers. These reactions are all examples of diversions in engaging with&nbsp;the topic, of balancing between&nbsp;too much and too little information, and between&nbsp;pluridirectional or focused information.</p> <p>The slight acceleration of knowledge embedded in the overall project, which <em>CSI Department of Natural Resources </em>and <em>Medium Earth</em> elegantly navigated, echoes the condition of the Anthropocene. The concept of entropy is apt here to point to the irony of the project in its performative gesture of evoking an entropic sense of knowledge production and information sharing that&nbsp;may or may not do justice to the overall aim of raising the Anthropocene condition as a&nbsp;serious topic to engage with. In short, if the entropic character of the project makes the layman avoid engaging with&nbsp;the content, then the curators and researchers still need to find the right size and shape of the exhibition to make knowledge more accessible and publicly sharable. One might even evoke what Georg Simmel wrote about&nbsp;125 years ago on art exhibitions, namely that&nbsp;the unison of distant worlds, exhilaration and desire for&nbsp;the "sensuously rare, peculiar and delicate" in the exhibition as "nervous overstimulation" leads, on the one hand, "to hyperaesthesia" and, on the other hand, "to anaesthesia –&nbsp;the twin sicknesses of too much sensitivity and too little sensitivity."<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup> If this&nbsp;is the case, Latour’s idea about&nbsp;art enabling us to be sensible to new entities coming to us, still needs to find its formal curatorial character when engaging with&nbsp;such a&nbsp;challenging topic as the Anthropocene.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> <a href="http://www.hkw.de/en/programm/projekte/2014/anthropozaenprojekt_ein_bericht/anthropozaen_ein_bericht.php" target="_blank" rel="noopener"><u><em>The Anthropocene Project</em></u></a> was organized together with Max-Planck-Society, Deutsches Museum, Rachel Carson Center for Environment and Society, and the Institute for Advanced Sustainability Studies, Potsdam and curated by Anselm Franke.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> There are differing accounts on the exact starting point of the Anthropocene era, some point to the beginning of industrialization, others to the acceleration of industrial production after the Second World War.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> For theoretical explorations of the recent surge in exhibitions combinations of curating and research, see Paul O’Neill and Mick Wilson, <em>Curating Research</em> (London: Open Editions, 2015).</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> The Anthropocene Observatory consists of artist Armin Linke, curator Anselm Franke and Territorial Agency (John Palmesino and Ann-Sofi Rönnskog).</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> The topics were: territories; empires and rivers; city-states and energy from wood; parliamentary nations, infrastructure and energy from coal; the international: atomic energy and oil; globalisation and renewable energy.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a><sup></sup>The conversations were devoted to: land grabs; the law; the seas and the Holocene; accounting, markets and models; science and authorities; negotiations.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Martin Herbert, “The Anthropocene Project. A Report,” <em>Frieze d/e Magazine</em>, <a href="http://frieze-magazin.de/archiv/kritik/das-antropozaen-projekt/?lang=en" target="_blank" rel="noopener">http://frieze-magazin.de/archiv/kritik/das-antropozaen-projekt/?lang=en</a>, accessed February 12, 2015.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a><sup></sup> Latour is here re-conceptualising James Lovelock’s conception of <em>Gaia</em>, namely the hypothesis that life on Earth is a self-organised system that it maintains through organisms’ interaction with their inorganic surroundings. See Bruno Latour, “Facing Gaia. A New Enquiry into Natural Religion” (presented at the Gifford Lectures, The University of Edinburgh, 28.02 2013).</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a><sup></sup>Diego Milos and Matías Wolff, “Bruno Latour, Sociólogo Y Antropólogo Francés: ‘El Capitalismo Nunca Será Subvertido, Será Aspirado Hacia Abajo,’” <em>The Clinic Online</em>, April 2, 2015, <a href="http://www.theclinic.cl/2015/02/04/bruno-latour-sociologo-y-antropologo-frances-el-capitalismo-nunca-sera-subvertido-sera-aspirado-hacia-abajo/" target="_blank" rel="noopener">http://www.theclinic.cl/2015/02/04/bruno-latour-sociologo-y-antropologo-frances-el-capitalismo-nunca-sera-subvertido-sera-aspirado-hacia-abajo/</a>, accessed February 15, 2015.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a><sup></sup>Georg Simmel, “On Art Exhibitions,” <em>Theory, Culture &amp; Society</em> 32, no. 1 (2015): 90.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/the-return-of-landscape/the-irony-of-entropy" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

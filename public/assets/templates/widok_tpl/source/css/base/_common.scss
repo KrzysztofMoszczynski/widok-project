@@ -1,0 +1,76 @@
+/* body */
+
+body {
+  position: relative;
+  padding-top: $siteheader_height;
+  background-color: $page_background_color;
+  overflow-x: hidden;
+  
+  @media (min-width: $breakpoint_sm) {
+    padding-top: $siteheader_height_sm;
+  }
+
+  &.is-mobilenav {
+    overflow: hidden;
+    @media (min-width: $breakpoint_switch) {
+      overflow: auto;
+    }
+  }
+}
+
+/* transitions */
+
+.c-sitenav {
+  @media (max-width: $breakpoint_md_max) {
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition   : all 0.3s linear 0s;
+    -ms-transition    : all 0.3s linear 0s;
+    -o-transition     : all 0.3s linear 0s;
+    transition        : all 0.3s linear 0s;
+  }
+}
+
+#header,
+.c-headerissue__number {
+  @media (max-width: $breakpoint_md_max) {
+    -webkit-transition: opacity 0.2s ease 0s, transform 0.2s ease 0s;
+    -moz-transition   : opacity 0.2s ease 0s, transform 0.2s ease 0s;
+    -ms-transition    : opacity 0.2s ease 0s, transform 0.2s ease 0s;
+    -o-transition     : opacity 0.2s ease 0s, transform 0.2s ease 0s;
+    transition        : opacity 0.2s ease 0s, transform 0.2s ease 0s;
+  }
+}
+
+.btn,
+.c-jump2issue,
+.c-issue-toc__article-collapse-btn:after {
+  @include transition(0.1s);
+}
+
+/* images */
+
+img {
+  max-width: 100%;
+}
+
+img.media-object {
+  max-width: none;
+}
+
+/* utils */
+
+.u-underline-border {
+  position: relative;
+  &:hover {
+    text-decoration: none !important;
+  }
+  &:after {
+    position: absolute;
+    bottom: 0;
+    display: block;
+    content: '';
+    width: 100%;
+    height: 2px;
+    background-color: #000;
+  }
+}

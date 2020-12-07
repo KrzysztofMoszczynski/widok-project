@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Deleuze, Guattari i kino queer | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/queer-obrazy/deleuze-guattari-i-kino-queer">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Deleuze, Guattari i kino queer | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Deleuze, Guattari i kino queer | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/queer-obrazy/deleuze-guattari-i-kino-queer">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Deleuze, Guattari i kino queer | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #f0f !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #f0f !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #f0f !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #f0f !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #f0f !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #f0f !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+			/* background-color:#f0f !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,0,255,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#f0f !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#f0f; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#f0f !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#f0f !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#f0f !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1157 parent-id-1131">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="424" data-selected-issue-color="#f0f" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/queer-images#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/queer-images/deleuze-guattari-and-queer-cinema">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/queer-obrazy#toc">5</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/queer-obrazy/deleuze-guattari-i-kino-queer?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Deleuze, Guattari i kino queer</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/queer-obrazy/deleuze-guattari-i-kino-queer?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=488">Małgorzata Radkiewicz</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Wprowadzenie wątków z&nbsp;teorii Gilles’a Deleuze’a i&nbsp;Félixa Guattariego do refleksji o&nbsp;kinie queer ma dwa uzasadnienia. Pierwszym jest przewijanie się tematu kina w&nbsp;ich pracach, zwłaszcza w&nbsp;Deleuzjańskiej koncepcji obrazu-ruchu i&nbsp;obrazu-czasu<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>, ale także w&nbsp;eseju Guattariego o&nbsp;„kinie mniejszościowym” (<em>cinéma mineur</em>)<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Rozważania obu filozofów zostają wykorzystane przez Nicka Davisa<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> do tego, by zdefiniować i&nbsp;zanalizować współczesne kino queer w&nbsp;inny sposób, niż narzuca to teoria queer czy poetyka nurtu <em>new queer cinema </em>(NQC). W&nbsp;książce <em>The Desiring Image</em> skupia się on na&nbsp;dokonaniach reżyserów, takich jak David Croneneberg, rzadko interpretowanych w&nbsp;kategoriach queer, choć nienormatywność jest immanentną cechą ich twórczości. Podejście Davisa polega na&nbsp;połączeniu terminów użytych przez Deleuze’a: obrazu-ruchu i&nbsp;obrazu-czasu z&nbsp;koncepcjami Eve Kosofsky Sedgwick, Teresy de Lauretis i&nbsp;Judith Butler dotyczącymi seksualności oraz performatywnej tożsamości. Autorowi nie przeszkadza to, że&nbsp;w&nbsp;rozdziałach o&nbsp;obrazie-czasie, w&nbsp;którym Deleuze akcentuje rewolucyjny wymiar kina, nie wymienia jednocześnie mniejszości seksualnych jako grupy pozbawionej władzy i&nbsp;wpływów. Davisowi wystarcza analogia między społecznościami i&nbsp;tożsamościami queer a&nbsp;grupami dysydenckimi, które w&nbsp;ujęciu autora <em>Kina</em> mają twórczą i&nbsp;rewolucyjną siłę.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/deleuze/165-1923-1-pb-1920x-aeb.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/deleuze/165-1923-1-pb-330x-4d4.jpg 330w,assets/cache/images/issues/2014/5/deleuze/165-1923-1-pb-660x-67c.jpg 660w,assets/cache/images/issues/2014/5/deleuze/165-1923-1-pb-768x-8bb.jpg 768w,assets/cache/images/issues/2014/5/deleuze/165-1923-1-pb-1320x-f5e.jpg 1320w" src="assets/cache/images/issues/2014/5/deleuze/165-1923-1-pb-660x-67c.jpg" alt="" ></a>    <figcaption><p>Nurt <em>new queer cinema</em> Małgorzata Radkiewicz przedstawia w&nbsp;książce <em>Oblicza kina queer</em>, ha!ART, Kraków 2014.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Drugim źródłem inspiracji jest dla Davisa praca Deleuze’a oraz Guattariego o&nbsp;„literaturze mniejszościowej” (<em>littérature mineur</em>)<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>, będącej obszarem ekspresji tych, którzy zostali wykluczeni z&nbsp;różnych powodów z&nbsp;„literatury większościowej” (<em>littérature majeur</em>). Potraktowanie filmowej twórczości queer jako „mniejszościowej” pozwala, podkreśla Davis, wyjść poza wąskie, niszowe obszary kina, w&nbsp;rodzaju NQC, i&nbsp;spojrzeć w&nbsp;kategoriach queer na&nbsp;kino głównego nurtu. Poza tym gdy za&nbsp;Deleuze'em i&nbsp;Guattarim położy się nacisk na&nbsp;potencjał kreacyjny języka, możliwe stanie się wytworzenie (i dostrzeżenie) nowych sposobów przedstawiania problematyki queer, uwzględniających uwarunkowania społeczno-kulturowe i&nbsp;historyczne. Zdaniem Davisa poszerzenie (lub zastąpienie) hermetycznych kategorii teorii queer czy NQC określeniami francuskich filozofów pozwala uniknąć ograniczających i&nbsp;często marginalizujących klasyfikacji autorów i&nbsp;filmów.</p> <p>Praca Davisa jest jedną z&nbsp;propozycji zastosowania terminów zaczerpniętych z&nbsp;Deluze’a i&nbsp;Guattariego do analizy filmów lub innych tekstów o&nbsp;queer<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Niezależnie od wypracowanej metodologii i&nbsp;doboru materiału wszystkie one wykorzystują możliwości tkwiące w&nbsp;pismach Francuzów, wynikające z&nbsp;ich waloru krytycznego związanego z&nbsp;„nienormatywnym” postrzeganiem i&nbsp;interpretowaniem zjawisk społecznych i&nbsp;kulturowych. Wspólne rozważania filozofów o&nbsp;kapitalizmie i&nbsp;schizofrenii poprzedza wstęp Michela Foucaulta, nazywającego ich publikację „książką etyki”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. Proponowana w&nbsp;niej postawa wiąże się bowiem z&nbsp;określonym sposobem myślenia oraz zachowania, co zdaniem Foucaulta pozwalałoby zatytułować ją wręcz jako <em>Wstęp do niefaszystowskiego życia</em>. Foucault dostrzega w&nbsp;dywagacjach autorów wykładnię sztuki życia, opozycyjnej wobec różnych form faszyzmu, opierającej się bowiem na&nbsp;alternatywnych założeniach. Pierwsze dotyczy uwolnienia politycznych działań od całościowej totalizującej paranoi. Drugie - poszerzenia zakresu aktywności, myśli i&nbsp;pragnień poprzez mnogość stanowisk i&nbsp;współistniejących obok siebie idei, nie krzyżujących się ze sobą. W&nbsp;efekcie pozwoli to uniknąć podporządkowywania i&nbsp;piramidalnej hierarchizacji działań czy postaw.</p> <p>Ponadto Foucault podkreśla, że&nbsp;w&nbsp;nastawieniu opisywanym przez Deleuze’a i&nbsp;Guattariego zasadnicze znaczenie ma przedkładanie różnicy nad uniformizację, płynności nad scalanie, dynamicznych układów nad systemy. Sam pisząc o&nbsp;podobnych zagadnieniach, zastanawia się, w&nbsp;jaki sposób można „oswobodzić różnicę”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. Stwierdza, podobnie jak omawiani filozofowie, że&nbsp;potrzebna jest do tego umiejętność myślenia nie w&nbsp;kategoriach opozycji, dialektyki, negacji, ale raczej wielowątkowości i&nbsp;wielorakości, wyrażających się w&nbsp;„nomadycznej i&nbsp;rozproszonej wielości”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>.</p> <p>Już samo odejście od binarnego pozycjonowania i&nbsp;definiowania tożsamości czyni z&nbsp;prac Deleuze’a i&nbsp;Guattariego źródło inspiracji dla badaczy queer, szukających nowych narzędzi interpretacyjnych. Francuska refleksja otwiera nowe pole dla rozważań, choćby dzięki temu, że&nbsp;poszerza listę kanonicznych tekstów o&nbsp;odmienności i&nbsp;seksualności, zdominowanej przez refleksję amerykańską, wymuszając tym samym zróżnicowanie paradygmatów. Dzieje się tak między innymi dlatego, podkreśla Verena Andermatt Conley<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>, że&nbsp;myślenie Francuzów o&nbsp;nienormatywności łączy się z&nbsp;dyskusją nad regułami społecznymi (i kapitalistycznymi), określającymi normatywność, a&nbsp;równocześnie sankcjonującymi dominujący porządek oraz związane z&nbsp;nim instytucje.</p> <h2>Deleuzjańskie spojrzenie na&nbsp;kino</h2> <p>Swoje podejście do kina Deleuze określa już we wstępie do refleksji o&nbsp;„filmie-ruchu” i&nbsp;„filmie obrazie”, traktując je jako zbiór „jedynych w&nbsp;swoim rodzaju, autonomicznych form, na&nbsp;przekór wszystkiemu wymyślonych i&nbsp;przeniesionych na&nbsp;ekran przez twórców”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. W&nbsp;założeniu „przekorności” filmu zawiera się wiara w&nbsp;jego potencjał twórczy, a&nbsp;także nienormatywny – zwłaszcza wobec konwencji opowiadania i&nbsp;obrazowania. Jako pierwszą filozof wprowadza kategorię „obrazu-ruchu”, uznając za&nbsp;obraz „zespół tego, co się ukazuje”, przy czym „wszystkie obrazy zlewają się ze związanymi z&nbsp;nimi akcjami i&nbsp;reakcjami”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Pojęcie obraz-ruch pozwala autorowi przeanalizować relację między motorycznością, przestrzenią a&nbsp;jednostkami struktury filmu, kadrem i&nbsp;ujęciem oraz ich montażem, pozwalającym operować na&nbsp;poziomie „całostek i&nbsp;ich części” oraz „całości i&nbsp;jej zmian”<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Deleuzjańskie myślenie o&nbsp;obrazie-ruchu prowadzi do wydzielenia jego czterech rodzajów: obrazów będących ruchem, obrazów-działań, obrazów-percepcji i&nbsp;obrazów-uczuć. Wszystkie należy rozpatrywać jako „ruchomy odcinek zmieniającej się Całości”, a&nbsp;wspólną płaszczyzną dla nich pozostaje „blok przestrzeń-czas”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Kreacyjny aspekt obrazu-ruchu zawiera się w&nbsp;eksperymentowaniu z&nbsp;montażem lub z&nbsp;czystym ruchem, często za&nbsp;pomocą skomplikowanych środków technicznych, ze sposobami kadrowania i&nbsp;ustawieniami kamery.</p> <p>Drugą kategorią zastosowaną przez Deleuze’a w&nbsp;analizie kina, jest „obraz-czas”, będący próbą sprostania, jak pisze, „wymaganiom nowych znaków, przenoszących je poza ruch”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Wyjście form filmowych poza ramy „tradycyjnych sytuacji sensoryczno-motorycznych” umożliwił wyłonienie się szeregu „czystych sytuacji optycznych i&nbsp;dźwiękowych”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>, ujmowanych biegunowo, między obiektywnym i&nbsp;subiektywnym, realnym i&nbsp;nierealnym, fizycznym i&nbsp;psychicznym. Dynamika przekazu i&nbsp;kreacjonizmu opiera się tu na&nbsp;tym, że&nbsp;znaki optyczne i&nbsp;dźwiękowe nieustannie funkcjonują między tymi biegunami, a&nbsp;w efekcie „zapewniają „przejścia i&nbsp;przekształcenia, zmierzając w&nbsp;stronę nierozstrzygalności (a nie połączenia)”<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. Sygnalizowaną przez Deleuze’a tendencję do „rozluźnienia więzów sensoryczno-motorycznych” – jaką odnajduje on między innymi we francuskiej nowej fali – można potraktować jako formę nienormatywności, charakteryzującą obraz-czas, ale także te wszystkie formy filmowe, które pozwalają nam uchwycić „coś niedopuszczalnego, nieznośnego, […] coś zbyt potężnego, zbyt niesprawiedliwego, ale czasami także zbyt pięknego, co dotąd przerasta zdolności sensoryczno-motoryczne”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>.</p> <p>Tego rodzaju spostrzeżenia Deleuze’a mogą się także odnosić do twórców kina queer, dążących – jak opisywani przez niego Godard, Herzog, Ozu – do „przedłużenia znaku optycznego”, polegającego na&nbsp;„uwidocznieniu i&nbsp;udźwiękowieniu czasu i&nbsp;myśli”. Nacisk na&nbsp;czas i&nbsp;myśl wydaje się szczególnie ważny w&nbsp;przypadku autorów queerowych, których życie i&nbsp;twórczość naznaczone były intensywnym odczuciem temporalności. Jak ujmuje to Eve Kosofsky Sedgwick w&nbsp;podsumowaniu dorobku zmarłego na&nbsp;AIDS Craiga Owensa, „[jego czas] musi być nazwany momentem queer”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. Także Jane Gallop pisze o&nbsp;„queerowej tymczasowości”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. Aby ją uchwycić, a&nbsp;tym bardziej ukazać, potrzebne jest myślenie o&nbsp;kinie w&nbsp;deleuzjańskich kategoriach upłynnienia, roźluźnienia i&nbsp;irracjonalności.</p> <h2>Język „mniejszościowy” i&nbsp;queer</h2> <p>W rozważaniach Deleuze’a i&nbsp;Guattariego<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup> szczególne miejsce zajmuje język, którego naturę uznają oni za&nbsp;fundamentalnie polityczną. Dominacja określonego języka, jego wewnętrzna konstrukcja i&nbsp;spójność, wynika bowiem zawsze z&nbsp;określonego porządku władzy, która dokonuje za&nbsp;jego pomocą homogenizacji i&nbsp;centralizacji. Autorzy zaznaczają jednak, że&nbsp;w&nbsp;każdym systemie zaznacza się podział między formacjami językowymi: „większościową” (<em>major</em>) i&nbsp;„mniejszościową” (<em>minor</em>). Przy czym nie chodzi im o&nbsp;wyodrębnienie dwóch rodzajów języków: dominującego i&nbsp;podporządkowanego, ale o&nbsp;pokazanie, że&nbsp;istnieją różne sposoby potraktowania tego samego języka, dzięki czemu otwiera się sfera transgresji i&nbsp;wariacji.</p> <p>Do środków umożliwiających wariacyjność form językowych teoretycy zaliczają wszelkie parafrazy, parodię, stylizację, ale także elementy związane z&nbsp;bezpośrednią komunikacją jak ton, akcent, intonacja. Dzięki nim posługiwanie się językiem nie musi oznaczać sztywnego przestrzegania obowiązujących zasad formalnych, zwłaszcza gdy zastąpi się je „dynamiką różnic”<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. Języki mniejszościowe nie są uboższe od większościowego, a&nbsp;po prostu odmienne, gdyż czerpiąc z&nbsp;niego materiał, zmieniają jego status. W&nbsp;efekcie mniejszościowi autorzy są niczym „obcokrajowcy” w&nbsp;swoim własnym języku, eksplorując go, zawłaszczają i&nbsp;dokonują w&nbsp;nim przemieszczeń.</p> <p>Dla przedstawicieli nurtu NQC sprawy filmowego języka były podstawowe, stanowiły bowiem część „nieprzerwanego procesu konstrukcji, rekonstrukcji i&nbsp;dekonstrukcji tożsamości oraz kultur. Nieprzerwanego, ponieważ doświadczenie zawsze wykracza poza konstrukcje, które nigdy go dość dobrze nie oddają i&nbsp;są zawsze za&nbsp;mało satysfakcjonujące”<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>. Efektem alternatywnych działań filmowców było wypracowanie własnego języka, który B. Ruby Rich – autorka nazwy <em>new queer cinema</em> – definiuje jako „homo-pomo”<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>, zawierając w&nbsp;tej nazwie jego aspekt postmodernistyczny i&nbsp;queerowy. Wykorzystanie form eksperymentalnych i&nbsp;artystycznych, często opartych na&nbsp;pastiszu, przerysowaniach i&nbsp;ekstrawaganckim stylu, pozwoliło twórcom zobrazować homoseksualizm i&nbsp;nienormatywność płciową w&nbsp;sposób „impertynencki, energetyczny, skrajnie minimalistyczny albo inny, [równie] ekstremalny”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>. Przykładem użycia językowych form „homo-pomo” jest twórczość Dereka Jarmana, który w&nbsp;swoich obrazach, filmach i&nbsp;zapiskach literackich widział przede wszystkim manifest swojej nienormatywności. Jego autorskie dokonania podporządkowane były poszukiwaniu form ekspresji nieprzystającej do estetycznych kanonów i&nbsp;narracyjnych schematów. Nawet kiedy czerpał z&nbsp;kulturowego dziedzictwa, robił to w&nbsp;sposób podkreślający twórczy charakter odczytań i&nbsp;trawestacji. Szekspirowskie sonety wykorzystane w&nbsp;ścieżce dźwiękowej <em>The Angelic Conversation</em> (1987) stają się ilustracją do obrazów gejowskiej pary, przeżywającej na&nbsp;plaży i&nbsp;w innych współczesnych sceneriach miłosne uniesienia. Wizja ta jest odzwierciedleniem queerowej lektury, który nie narusza struktury klasycznego tekstu, ale w&nbsp;jednoznaczny sposób dookreśla zawarte w&nbsp;nim znaczenia. Podobnie dzieje się w&nbsp;<em>Edwardzie II</em> (1991), w&nbsp;którym za&nbsp;pomocą poetyki kampu, drag i&nbsp;przy udziale gejowskich artystów elżbietański dramat zostaje przekształcony w&nbsp;spektakl queerowy. Zapis historycznego dramatu staje się w&nbsp;nim kroniką miłosnej relacji między władcą i&nbsp;jego najbliższym towarzyszem, ponoszących, podobnie jak współcześni geje brytyjscy pojawiający się na&nbsp;drugim planie, konsekwencje układów politycznych i&nbsp;społecznych norm.</p> <p>Jarmanowskim eksperymentom z&nbsp;utworami literackimi towarzyszyły poszukiwania własnego języka wizualnego, polegające na&nbsp;wykorzystywaniu ikonicznych wizerunków (kulturowych, medialnych), stylistyk oraz technik filmowych. Wbrew podziałom gatunkowym i&nbsp;konwencjom łączył on poetyki wideoklipu, kina artystycznego z&nbsp;amatorskimi taśmami z&nbsp;domowych archiwów, jakby właśnie ze zderzenia różnorodnych form i&nbsp;obrazów miały wyłonić się „nienormatywne” znaczenia. W&nbsp;<em>Sebastianie</em> (1976) i&nbsp;późniejszym <em>Caravaggiu</em> (1986) pojawiają się wyraźne nawiązania do malarstwa o&nbsp;tematyce religijnej, zwłaszcza związanej z&nbsp;męczeństwem, cierpieniem, śmiercią. Jarman parafrazuje je, by oddać (swoje) doświadczenia związane z&nbsp;Innością, a&nbsp;w konsekwencji z&nbsp;odtrąceniem i&nbsp;wykluczeniem, każącym mu schronić się w&nbsp;nadmorskiej posiadłości – „biblijnym” raju ukazanym w&nbsp;<em>Ogrodzie</em> (1990). Na&nbsp;poziomie języka filmowego tradycja kultury wysokiej i&nbsp;popularnych przekazów miesza się w&nbsp;jego utworach, tworząc heterogeniczną całość, nie pozwalającą na&nbsp;gatunkowe ani stylistyczne klasyfikacje.</p> <p><a name="OLE_LINK2"></a><a name="OLE_LINK1"></a> W&nbsp;świetle założeń Deleuze’a i&nbsp;Guattariego podobne subwersywne działania reżyserów NQC, choć alternatywne i&nbsp;„rewolucyjne”, tylko po&nbsp;części miałyby jednak rangę „mniejszościową”, nie zawsze bowiem polegały na&nbsp;przepracowywaniu zastanego języka „większościowego”, czyli reguł gatunkowych czy konwencji filmowych. Większość z&nbsp;twórców tego nurtu dążyła raczej do wypracowania całkowicie odmiennych, alternatywnych form wypowiedzi, nieprzystających do normatywnych stylów ani estetyk. W&nbsp;efekcie powstałe realizacje w&nbsp;stylu „homo-pomo” miały charakter oryginalnych, autorskich działań, skazujących je na&nbsp;dość zamknięty obieg festiwalowy. Dlatego Davis proponuje, by wyjść poza NQC, będące jego niszową odmianą i&nbsp;jako queer analizować także filmy zawierające inne rodzaje formalnej „wariacyjności”. Odwołuje się on do koncepcji „mniejszościowej literatury” (<em>minor literature</em>), zakładając że&nbsp;pozwali mu to interpretować filmową twórczość queer bez dokonywania jej marginalizacji czy gettoizacji – nie zawsze dawało się tego uniknąć, mówiąc o&nbsp;NQC. Nawet B. Ruby Rich postrzega ten nurt jako rodzaj „getta”, gdy z&nbsp;perspektywy lat krytycznie komentuje jego dorobek oraz konsekwencje wynikające z&nbsp;wprowadzenia wątków queerowych do głównego nurtu. Uznaje ona, że&nbsp;„kiedy getto wkracza do mainstreamu, pojawia się depresja i&nbsp;paranoja. Może mieć charakter ideologiczny, pokoleniowy albo mieć podłoże genderowe”<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>. W&nbsp;jej wypowiedzi wyraźna jest pozycja NQC jako wąskiego zjawiska, rozwijającego się i&nbsp;funkcjonującego w&nbsp;sferze „zgettoizowanej”, dalekiej od centrum i&nbsp;od niego odizolowanej.</p> <p>W rozważaniach o&nbsp;Kafce i&nbsp;jego twórczości Deleuze i&nbsp;Guattari podkreślają złożoność określenia „mniejszości” stosowanego przez nich zarówno w&nbsp;odniesieniu do muzyki, literatury, języka, jak i&nbsp;do polityki. Na&nbsp;wstępie zakładają oni, że&nbsp;opozycja pomiędzy „mniejszością” a&nbsp;„większością” nie jest po&nbsp;prostu ilościowa. „Większość” oznaczająca stałość pewnych struktur i&nbsp;tego, co się w&nbsp;nich mieści, służy bowiem jako standardowa miara, oparta na&nbsp;władzy i&nbsp;dominacji. Czyni ona odmienne cechy czy parametry ekspresji mniejszościowymi, skazując je na&nbsp;funkcjonowanie jako „podsystemy i&nbsp;poza-systemy”<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>. Ponadto „mniejszości” nie należy postrzegać w&nbsp;kategoriach „stałości” i&nbsp;„bycia”, lecz raczej „stawania się”, co wiąże się z&nbsp;możliwością dewiacji i&nbsp;odróżnienia się od dominującego modelu. Stąd jak sugerują francuscy teoretycy, należy wydzielić: system większościowy (<em>majoritarian</em>), jako stały i&nbsp;homogeniczny, oraz mniejszościowy (<em>minoritarian</em>), jako potencjalny, kształtowany i&nbsp;kreowany (a zarazem kreatywny).</p> <p>Konsekwencją takiego podziału jest uznanie „mniejszościowości” za&nbsp;„definiowalny stan języka, etniczności, płci (<em>sex</em>)”<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>, który choć przypisany do życia w&nbsp;określonej sferze, zawiera w&nbsp;sobie potencjał do „przemieszczania” znaczeń (w) „większościowości”. Działania mniejszościowych twórców polegają na&nbsp;wykraczaniu poza standardy przedstawiania i&nbsp;reprezentacji, na&nbsp;przykład za&nbsp;sprawą ich ominięcia lub zastosowania poetyki nadmiaru. Z&nbsp;tej perspektywy ekspresja artystyczna wiąże się z&nbsp;osiąganiem autonomii. Przy czym „autonomiczne stawanie się”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup> nie odbywa się za&nbsp;pomocą używania mniejszościowego języka jako dialektu przypisanego do regionu czy getta. Następuje raczej w&nbsp;rezultacie wykorzystania większościowych elementów w&nbsp;mniejszościowych strategiach łączenia ich, zestawiania ze sobą tych, mających w&nbsp;sobie potencjał rewolucyjny i&nbsp;wyzwalający.</p> <h2>„Mniejszościowe języki” literatury i&nbsp;kina</h2> <p>W swoim studium „literatury mniejszościowej” Deleuze i&nbsp;Guattari<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup> wskazują na&nbsp;trzy jej cechy. Po&nbsp;pierwsze, język tej literatury jest naznaczony i&nbsp;uwarunkowany przemieszczeniem czy wręcz wywłaszczeniem, gdyż chodzi o&nbsp;funkcjonowanie w&nbsp;obrębie innego niż własny obszaru: językowego, kulturowego, państwowego. Przykładem jest twórczość Franza Kafki reprezentującego praskich Żydów (innym przykładem są tu Żydzi warszawscy), gdyż w&nbsp;jego przypadku literatura jest formą, w&nbsp;której może (wręcz musi) zaistnieć narodowa świadomość, zwłaszcza ta niepewna albo podlegająca represjom. Nie chodzi tu o&nbsp;jednak pisanie w&nbsp;języku własnym mniejszości, lecz o&nbsp;działania jej przedstawicieli wewnątrz języka większości.</p> <p>Drugą cechą charakterystyczną dla literatury mniejszościowej jest jej polityczność, wynikająca z&nbsp;tego, że&nbsp;w&nbsp;literaturze większościowej społeczeństwo i&nbsp;społeczny wymiar ukazywanych zjawisk są jedynie tłem lub kontekstem dla spraw indywidualnych. Natomiast w&nbsp;tym przypadku indywidualne działania twórcze zawsze są polityczne. Pozwalają one bowiem, jak twierdził Kafka, ukazać w&nbsp;pełnym świetle, jako doniosłą kwestię to, co w&nbsp;większościowych utworach jest ukrywane i&nbsp;adresowane do ograniczonego grona zainteresowanych. W&nbsp;efekcie wszystko w&nbsp;mniejszościowej literaturze ma wymiar zbiorowy – to jej trzeci wyznacznik. Nawet jeśli głos autora jest pojedynczy i&nbsp;zindywidualizowany, to wygłasza on tezy związane ze zbiorowością (chociaż ona sama wcale nie musi – a&nbsp;czasem nie chce – się z&nbsp;nimi utożsamiać). Dzięki temu literatura ta zyskuje rolę zbiorowego „obwieszczenia”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup> (<em>enunciation</em>) o&nbsp;często rewolucyjnym charakterze, wyrażającego inną świadomość, wrażliwość i&nbsp;typ społeczności, dla których nie ma miejsca gdzie indziej.</p> <p>Zdaniem francuskich filozofów, aby zdefiniować literaturę mniejszościową, należy wskazać praktyki i&nbsp;działania mniejszościowe w&nbsp;obrębie języka większościowego. Tylko określenie takich działań wewnątrz systemu dominującego pozwoli na&nbsp;zdefiniowanie takich zjawisk jak „literatura popularna, literatura marginalna”<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>. Wskazuje się bowiem wówczas na&nbsp;potencjał wielkiej literatury do wewnętrznej zmiany i&nbsp;różnicowania. Podobnie jest z&nbsp;kinem: nie chodziłoby o&nbsp;nazwanie mniejszościowymi pojedynczych, odrębnych kinematografii, lecz o&nbsp;różne formy kina mogące powstawać w&nbsp;obrębie kina większościowego – na&nbsp;przykład kina głównego nurtu lub kina narodowego.</p> <p>Dla Kafki, podkreślają autorzy, najważniejsze było wypracowanie własnego niepowtarzalnego języka w&nbsp;obrębie dominującej struktury, będącego jej „mniejszościowym użytkowaniem”<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>. Pozwoliło mu to zawrzeć w&nbsp;tekstach niemożliwe dotąd treści albo funkcje językowe i&nbsp;polityczne, a&nbsp;ponadto przekroczyć granice – formalne i&nbsp;treściowe – między tym, co może, a&nbsp;tym, co nie może być powiedziane. Wypracowana w&nbsp;ten sposób forma ekspresji jest otwarta na&nbsp;„intensywne użytkowanie”<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>, oznaczające ucieczkę od form i&nbsp;schematów, kreatywność, a&nbsp;także opozycyjność.</p> <p>Deleuze i&nbsp;Guattari zwracają uwagę, że&nbsp;wiele nurtów i&nbsp;stylów przynależnych do mniejszości zmierzało do wypracowania nowego języka, który stałby się językiem oficjalnym, państwowym. Tymczasem należy raczej myśleć nie o&nbsp;tworzeniu alternatywy i&nbsp;zdobywaniu dla niej pola dominacji, ale o&nbsp;tym, jak wyrazić mniejszościowość za&nbsp;pomocą dostępnych środków, za&nbsp;pomocą istniejących form wyrazu. Przykładem realizacji takiej właśnie strategii negocjowania mniejszościowych tematów i&nbsp;kwestii w&nbsp;obrębie dominujących poetyk są filmy głównego nurtu dotykające kwestii queer na&nbsp;poziomie tematyki, konstrukcji bohaterów, a&nbsp;także wyraźnej postawy twórców. Oskarowy triumf filmu <em>Tajemnica Brokeback Mountain</em> (reż. Ang Lee, 2005) był symbolicznym gestem usankcjonowania przez Amerykańską Akademię Filmową queerowej problematyki, pojawiającej się dotąd głównie w&nbsp;niezależnych produkcjach, pokazywanych na&nbsp;niszowych festiwalach. Gejowski romans w&nbsp;konwencji westernu wzbudzał kontrowersje i&nbsp;wśród publiczności normatywnej, niechętnej modyfikacjom „męskiego” gatunku, i&nbsp;nienormatywnej, piętnującej stereotypowość ujęcia. Krytyczne opinie nie wpłynęły na&nbsp;komercyjny sukces dzieła, co skutecznie przyczyniło się do wzrostu popularności queer na&nbsp;ekranie.</p> <h2>„Mniejszościowe kino” i&nbsp;tożsamość queer</h2> <p>W analizie kina queer warto sięgnąć jeszcze po&nbsp;termin „małego kina” czy też „mniejszościowego kina”, wywodzący się z&nbsp;tradycji deleuzjańskiej, ale zdefiniowany przez samego Guattariego<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>. Guattari użył go w&nbsp;eseju o&nbsp;mniejszościowej sztuce filmowej, często pomijanym i&nbsp;w ogóle nie wspominanym w&nbsp;kontekście rozważań o&nbsp;„literaturze mniejszościowej”. Tymczasem Guattari poszedł w&nbsp;tekście tropem swoich badań nad filmem, między innymi nad formami dokumentalnymi rejestrującymi stany świadomości i&nbsp;stany mentalne. Co charakterystyczne dla jego stanowiska, nie utożsamia on ze sobą mniejszościowości i&nbsp;marginalności, odróżniając te dwa pojęcia. Podkreśla wręcz, że&nbsp;działania mniejszości (na przykład gejów domagających się praw w&nbsp;Stanach Zjednoczonych) często są wyrazem braku zgody na&nbsp;marginalizację, zwłaszcza że&nbsp;jest ona konsekwencją dominującego systemu, z&nbsp;jego normami i&nbsp;regułami – przede wszystkim dotyczącymi stylu życia i&nbsp;seksualności. Już samo przejście od kategorii marginesu do mniejszości może być zatem punktem wyjścia do dyskutowania zjawisk i&nbsp;ruchów społecznych, związanych z&nbsp;mniejszościami i&nbsp;zyskiwaniem przez nie nowych możliwości – kiedy marginalność staje się źródłem siły i&nbsp;alternatywnych wartości, umożliwiających dokonanie społecznych zmian.</p> <p>Guattari nie proponuje całościowej czy wyczerpującej teorii filmu. Skupia się na&nbsp;tym, jak sztuka mniejszościowa wspomaga nawiązywanie kontaktu między grupami uprzywilejowanymi i&nbsp;podporządkowanymi. Jego celem nie jest zredukowanie kina do jego funkcji utylitarnych, lecz zwrócenie uwagi na&nbsp;różne środki wyrazu i&nbsp;elementy filmu – dźwięki, kolory, rytmy, za&nbsp;pomocą których można dokonać zwielokrotnienia głosów i&nbsp;punktów widzenia. W&nbsp;efekcie takich zabiegów dochodzi do nawiązania kontaktu czy w&nbsp;ogóle dostrzeżenia się nawzajem przez grupy niekontaktujące się dotąd ze sobą. Ważny jest też dla niego polityczny wymiar takiego kina, zawierający się w&nbsp;działaniach zwiększających świadomość określonych problemów i&nbsp;zjawisk. Nie chodzi o&nbsp;działanie podporządkowane celom ideologicznym, lecz o&nbsp;połączenie polityki i&nbsp;kultury znajdujące wyraz w&nbsp;interwencjach aktywistycznych i&nbsp;artystycznych. Mają one polegać na&nbsp;eksperymentowaniu i&nbsp;tworzeniu nowych form wyrazu, na&nbsp;transformacjach (sytuacji i&nbsp;środków) związanych z&nbsp;robieniem i&nbsp;odbiorem filmów.</p> <p>Dla Deleuze’a i&nbsp;Guattariego termin „mniejszościowość” oznacza przekroczenie dystansu między tym, co polityczne, a&nbsp;tym, co prywatne. Poza tym, jak zaznacza Guattari, pojęcie „mniejszość” odnosi się przede wszystkim do możliwości wytwarzania połączeń pomiędzy elementami. Siła mniejszości tkwi właśnie w&nbsp;jej potencjale do tworzenia takich wewnętrznych łączników, pozwalających wyjść poza wyznaczone trajektorie i&nbsp;wymykających się utartym schematom większościowym.</p> <p>Zdaniem Guattariego właśnie kino można uznać za&nbsp;sztukę mniejszościową, która „być może służy ludziom, którzy ustanawiają mniejszość, i&nbsp;w żadnym stopniu nie jest to określenie pejoratywne. Sztuka większościowa jest narzędziem siły… A&nbsp;mniejszościowe kino jest dla mniejszości… ale także dla wszystkich z&nbsp;nas, skoro wszyscy jesteśmy częścią tych mniejszości w&nbsp;taki lub w&nbsp;inny sposób”<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup>. W&nbsp;efekcie to, co mniejszościowe, może stać się masowe i&nbsp;zyskać walor uniwersalności, co wcale nie oznacza, że&nbsp;oglądając podobne dzieła, stajemy się jednocześnie częścią mniejszości lub jej reprezentantami. Nie zyskujemy identycznego statusu czy cech charakterystycznych, nie jest to bowiem ani kwestia upodobniania się do mniejszości, ani przynależności do niej.</p> <p>W ujęciu Guattariego twórczość kinowa staje się mniejszościowa w&nbsp;efekcie odejścia od powszechnych gustów i&nbsp;utartych schematów, a&nbsp;następnie zastąpienia ich ważkimi kwestiami, odnoszącymi się do konkretnych realiów społecznych. Cechować ma ją ponadto etyczny charakter praktyk filmowych, opartych na&nbsp;szacunku dla podmiotowości oraz odpowiedzialności za&nbsp;tworzone obrazy (zwłaszcza przedstawienia osób). Na&nbsp;poziomie konstruowania znaczeń oznacza to najczęściej konieczność zerwania z&nbsp;utartymi zasadami przedstawiania, odwołującymi się do stałych kodów. Może to nastąpić w&nbsp;rezultacie przełamywania tych kodów, wprowadzania innowacji i&nbsp;eksperymentów formalnych.</p> <p>Punktem wyjścia dla Guattariego jest osadzenie kina w&nbsp;normatywizujących systemach i&nbsp;paradygmatach znaczeniowych. Proponuje on, by kino opuściło to pole i&nbsp;położyło nacisk na&nbsp;tworzenie tego rodzaju znaków (i znaczeń), które potrafimy odczytać (czy w&nbsp;ogóle dostrzec) tylko wtedy, gdy zaczniemy myśleć w&nbsp;kategoriach kina mniejszościowego. Współcześni reżyserzy filmów o&nbsp;tematyce queer próbują to osiągnąć, różnicując środki wyrazu, mieszając poetyki i&nbsp;gatunki, ale także akcentując twórczą postawę i&nbsp;działalność artystyczną bohaterów.</p> <p>Takie filmy queerowe – przykładem <em>Samotny weekend </em>lub <em>Życie Adeli 1,2</em> – można by uznać za&nbsp;przykład kina mniejszościowego, które jak pisze Guattari, „interweniuje w&nbsp;nasze relacje ze światem zewnętrznym”<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup> dzięki indywidualnym środkom wyrazu i&nbsp;zabiegom twórców odwołujących się do emocjonalności oraz wrażliwości odbiorców. Interwencje te nie przebiegają wyłącznie w&nbsp;diegezie filmowej ani w&nbsp;relacji między oglądającymi a&nbsp;obrazem, ale, w&nbsp;sposób pośredni, dokonują się także w&nbsp;obrębie dominujących systemów wartości i&nbsp;norm. Dlatego dla Guattariego najważniejsza w&nbsp;kinie mniejszościowym była jego etyczność i&nbsp;odpowiedzialność na&nbsp;poziomie doboru tematów, punktów widzenia i&nbsp;praktyk filmowania. Każdy z&nbsp;elementów filmu i&nbsp;procesu filmowania miał zainspirować masową publiczność do myślenia w&nbsp;kategoriach mniejszościowości, w&nbsp;konsekwencji powodując zmiany mentalne i&nbsp;świadomościowe, wywołane autorefleksją i&nbsp;przemodelowaniem koncepcji podmiotowości.</p> <p>Podobnie o&nbsp;kinie queer myśli B. Ruby Rich, która komentując działania twórców filmowych na&nbsp;początku XXI wieku, pisze, że&nbsp;potrzebne są one zwłaszcza w&nbsp;Ameryce, w&nbsp;kontekście dominacji wzorców opartych na&nbsp;„mieszaninie męskości i&nbsp;patriotyzmu”<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>. Jej zdaniem kino popularne dokonuje konwencjonalizacji wątków queerowych głównie w&nbsp;komediach romantycznych, dlatego trzeba stworzyć alternatywę, w&nbsp;której znajdą się wypierane kwestie „rasy, klasy, traum rodzinnych, pragnienia życiowej odmiany”<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>.</p> <p>Guattari pisząc o&nbsp;mniejszościowych strategiach filmowania, nie chciał przedstawiać konkretnych propozycji reformy kina. Chodziło mu raczej o&nbsp;pokazanie, że&nbsp;musi się ono zmierzyć z&nbsp;nowymi potrzebami i&nbsp;odpowiedzieć na&nbsp;nie – zwłaszcza w&nbsp;głównym nurcie – za&nbsp;pomocą odmiennych poetyk i&nbsp;przesłań. Idąc tym tropem, można na&nbsp;queerowe tematy oraz sposoby ich obrazowania w&nbsp;filmach „środka” i&nbsp;komercyjnych produkcjach popatrzeć jak na&nbsp;próbę negocjacji między dominującą kulturą a&nbsp;nienormatywnością, między „większościowością” a&nbsp;„mniejszościowością”.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Zob.: Gilles Deleuze, <em>Kino</em>. 1. <em>Obraz</em>-<em>ruch</em>. 2. <em>Obraz</em>-czas, przeł. J. Margański, słowo/obraz terytoria, Gdańsk 2008.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Félix Guattari, <em>Le Cinéma. Un Art Mineur</em>, w: idem, <em>La révolution moléculaire</em>, Recherches (Encres), Fontenay-Sous-Bois 1977, s. 203–238.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Nick Davis, <em>The Desiring-Image. Gilles Deleuze and Contemporary Queer Cinema</em>, Oxford University Press, Oxford 2013.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Davis używa angielskich określeń <em>minor literature</em> i <em>major literature</em>, pracując na anglojęzycznej wersji tekstu: Gilles Deleuze, Félix Guattari, <em>Kafka: Pour une littérature mineur</em> z 1975 roku.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Przykładem jest tom zbiorowy: <em>Deleuze and </em>Queer<em> Theory</em>, red. Ch. Nigiani, M. Storr, Edinburgh University Press, Edinburgh 2009.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Michel Foucault, <em>Preface</em>, w: Gilles Deleuze, Félix Guattari, <em>Anti-Oedpius. Capitalism and Schizophrenia</em>, przeł. R. Hurley, M. Seem, H. R. Lane, Continuum, London 2004, s. xv–xvi.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Michel Foucault, <em>Theatrum Philosophicum</em>, w: <em>Language, Counter-Memory, Practice: Selected Essays and Interviews</em>, red. D. F. Bouchard, Cornell University Press, Ithaca 1977, s. 75–99.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Ibidem.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Conley odwołuje się do ich dwóch wspólnych tekstów: <em>L’Anti Oedipe </em>(1972) oraz <em>Mille Plateaux</em> (1980). Zob. Verena Andermatt Conley, <em>Thirty-six Thousand Forms of Love. The </em>Queer<em>ing of Deleuze and Guattari</em>, w: <em>Deleuze and </em>Queer<em> Theory</em>…, s. 24–36.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Gilles Deleuze, <em>Kino</em>. 1. <em>Obraz</em>-<em>ruch</em>. 2. <em>Obraz</em>-<em>czas</em>…, s. 7.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Ibidem, s. 69.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Ibidem, s. 65.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Ibidem, s. 79.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Ibidem, s. 229.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Ibidem, s. 239.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Ibidem, s. 237.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ibidem, s. 245.</p>
+<p><a name="OLE_LINK4"></a><a name="OLE_LINK3"></a><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Eve Kosofsky Sedgwick, <em>Tendencies</em>, Duke University Press, Durham 1993, s. xi–xii.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Jane Gallop, <em>The </em>Queer<em> Temporality of Writing</em>, w: eadem, <em>The Deaths of the Author</em>, Duke University Press, Durham 2011, s. 89.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Opracowano na podstawie fragmentu z: Gilles Deleuze, Félix Guattari, <em>A Thousand Plateaus: Capitalism and Schizophrenia</em>, przeł. B. Massumi, Minnesota University Press, Minneapolis 1986, zamieszczonego jako rozdział: <em>Language: Major and Minor</em>, w: <em>The Deleuze Reader</em>, red. C.V. Boudras, Columbia University Press, New York 1993, s. 145–151.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Ibidem, s. 149.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Fragment zasłyszanej wypowiedzi Richarda Dyera oraz Juliane Pidduck, cytowanej w książce B. Ruby Rich, <em>New Queer Cinema, The Director’s Cut</em>, Duke University Press, Durham 2013, s. xxi.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> B. Ruby Rich, <em>New Queer Cinema</em>, w: <em>New Queer Cinema. A Critical Reader</em>, red. M. Aaron, Edinburgh University Press, Edinburgh 2004, s. 16.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Ibidem.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Ibidem.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Gilles Deleuze, Félix Guattari, <em>Language: Major and Minor</em>, w: <em>The Deleuze Reader</em>…, s. 150.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Ibidem, s. 151.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Ibidem.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> W artykule wykorzystana została anglojęzyczna wersja francuskiego tekstu: Gilles Deleuze, Félix Guattari, <em>Kafka. Toward A Minor Literature</em>, przeł. D. Polan, Minnesota University Press, Minneapolis 1986.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Ibidem, s. 17.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Ibidem, s. 18.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Ibidem, s. 26.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Ibidem.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Félix Guattari,<em> Le cinema doit devenir un art mineur, </em>w: idem,<em> La Révolution Moléculaire</em>, Fontenay-sous-Bois: Recherches (Encres) 1977; omówienie na podstawie angielskiego tłumaczenia fragmentów w: Gary Genosko,<em> Félix Guattari. A Critical Introduction</em>, Pluto Press, New York 2009.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Ibidem, s. 140.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> Ibidem, s. 149.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> B. Ruby Rich, <a href="http://www.villagevoice.com/2002-03-19/news/vision-quest/1/" target="_blank" rel="noopener"><em>Vision Quest: Searching for Diamonds in the Rough</em>, „The Village Voice” z 19 marca 2002, </a><a href="http://www.villagevoice.com/2002-03-19/news/vision-quest/1/" target="_blank" rel="noopener">http://www.villagevoice.com/2002-03-19/news/vision-quest/1/</a> dostęp 10 marca 2014.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> Ibidem.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/queer-obrazy/deleuze-guattari-i-kino-queer" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Gesture And Photography. A Performative Symposium | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/gesture-and-photography.-a-performative-symposium">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Gesture And Photography. A Performative Symposium | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Gesture And Photography. A Performative Symposium | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/gesture-and-photography.-a-performative-symposium">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Gesture And Photography. A Performative Symposium | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #c69 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #c69 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #c69 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #c69 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #c69 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #c69 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #c69 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #c69 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(204,102,153,0.8) !important; */
+			/* background-color:#c69 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(204,102,153,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#c69 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(204,102,153,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#c69; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(204,102,153,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(204,102,153,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#c69 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#c69 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#c69 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-916 parent-id-909">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="906" data-selected-issue-color="#c69" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2015/punkt-widokowy/gest-wobec-obrazu-fotograficznego.-sympozjum-performatywne">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2015/punkt-widokowy/gest-wobec-obrazu-fotograficznego.-sympozjum-performatywne">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/15-photography-and-the-efficacy-of-gesture#toc">12</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/gesture-and-photography.-a-performative-symposium?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Gesture And Photography. A Performative Symposium</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/gesture-and-photography.-a-performative-symposium?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=301">Krzysztof Pijarski</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Our aim –&nbsp;to investigate, describe, and above&nbsp;all, to “demonstrate” the visual and practical ways of expressing thought; to “show” the work of the imagination and the critical mind that&nbsp;expresses itself in and through&nbsp;photographic images.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5116-1-pb-1920x-1a6.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5116-1-pb-330x-b2b.jpg 330w,assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5116-1-pb-660x-465.jpg 660w,assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5116-1-pb-768x-67e.jpg 768w,assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5116-1-pb-1320x-b55.jpg 1320w" src="assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5116-1-pb-660x-465.jpg" alt="" ></a>    <figcaption><p><span>Performative symposium -&nbsp;camera / light, photo Krzysztof Pijarski</span></p></figcaption>   </figure>  </section><section class="u-typo">   <p>To show imagination at work, one has to break, or at least transform, the convention of a&nbsp;traditional scholarly conference. In place of a&nbsp;situation where the speaker, separated from&nbsp;the audience, shares his readymade knowledge, the performative symposium proposed a&nbsp;series of meetings of several people –&nbsp;artists and theorists –&nbsp;to discuss specific photographs in any format, books or contact sheets, in order to “discover” or explore them –&nbsp;for&nbsp;each other and for&nbsp;the gathered audience. The process of discovering / exploring the images was carried out not only through&nbsp;discussion, but&nbsp;essentially, via&nbsp;the exchange of gestures: by pointing a&nbsp;finger, juxtaposing, cropping, inscribing, outlining, etc. –&nbsp;the whole repertoire of responses to images which the body has at its disposal. Such a&nbsp;formula resulted from&nbsp;the assumption that&nbsp;it is artists who most effectively “think” in and by means of images. This&nbsp;is why it is artists who were at the center of attention here –&nbsp;not as the subject of discourse, but&nbsp;as partners in dialogue, in an exchange of thought while confronting pictures, books, and photographic objects.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5118-1-pb-1920x-390.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5118-1-pb-330x-ebc.jpg 330w,assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5118-1-pb-660x-2f5.jpg 660w,assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5118-1-pb-768x-729.jpg 768w,assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5118-1-pb-1320x-163.jpg 1320w" src="assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5118-1-pb-660x-2f5.jpg" alt="" ></a>    <figcaption><p><span> Performative symposium -&nbsp;projector / audience, photo Krzysztof Pijarski</span></p></figcaption>   </figure>  </section><section class="u-typo">   <p>What seems crucial in this&nbsp;context, is the setting of these meetings: they took place at a&nbsp;round table, placed on a&nbsp;square podium, with&nbsp;a&nbsp;loosely organized auditorium scattered around&nbsp;it (with comfortable seating). The meetings were recorded by a&nbsp;high definition camera, placed vertically above&nbsp;the table. The eye of the camera didn’t record the faces of the participants but&nbsp;their hands and the works that&nbsp;were the object of discussion. The recording in turn was projected back onto&nbsp;a&nbsp;freestanding screen positioned in the hall in such a&nbsp;way as to bring about&nbsp;a&nbsp;“separation of attention”: the gathered audience, occupying the space between&nbsp;the podium and the screen and listening to the voices of the participants, were able either to follow the choreography of gestures, the work of the hands confronting the pictures, or watching the dialog taking place “live” on the podium, but&nbsp;ultimately inaccessible to them –&nbsp;the discussants were both “elevated” above, and sat with&nbsp;their backs to the audience, absorbed in conversation.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5120-1-pb-1920x-fd4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5120-1-pb-330x-ae2.jpg 330w,assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5120-1-pb-660x-fca.jpg 660w,assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5120-1-pb-768x-4f9.jpg 768w,assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5120-1-pb-1320x-833.jpg 1320w" src="assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5120-1-pb-660x-fca.jpg" alt="" ></a>    <figcaption><p><span>  Performative symposium -&nbsp;screen / projection, photo Krzysztof Pijarski</span></p></figcaption>   </figure>  </section><section class="u-typo">   <p>During the symposium, Aneta Grzeszykowska and Jan Smaga talked about&nbsp;their series of photographs Private Archive (Archiwum prywatne) with&nbsp;literary scholar, cultural critic and historian, Katarzna Bojarska. Elżbieta Janicka and Wojciech Wilczyk entered into&nbsp;a&nbsp;discussion about&nbsp;their collaboration Other City (Inne miasto) with&nbsp;Waldemar Baraniewski, art historian and expert in the matters of Warsaw. Michał Kaczyński and Łukasz Gorczyca participated in the symposium as authors of an artists’ book, D.O.M. Polski, to subject it to contemplation together with&nbsp;Paweł Szypulski, collector of photographic books and curator. The avant-garde director, dramatist and theorist Weronika Szczawińska reflected on Colleagues (Koleżanki i&nbsp;koledzy), a&nbsp;series of works by Paweł Bownik, in dialogue with&nbsp;the artist, while director, cultural theorist and philosopher Kuba Mikurda together with&nbsp;Nicolas Grospierre animated his photographic objects (not only in the sense of movement of thought). Lastly the photography curator and historian Joanna Kinowska discussed with&nbsp;Rafał Milach and Anna Nałęcka-Milach their joint work on the medium of the photobook.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5122-1-pb-1920x-eca.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5122-1-pb-330x-33b.jpg 330w,assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5122-1-pb-660x-f9a.jpg 660w,assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5122-1-pb-768x-7d5.jpg 768w,assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5122-1-pb-1320x-faa.jpg 1320w" src="assets/cache/images/issues/2015/12/gest-wobec-obrazu/388-5122-1-pb-660x-f9a.jpg" alt="" ></a>    <figcaption><p><span>  Performative symposium -&nbsp;table / podium, photo Krzysztof Pijarski</span></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Of course, it’s not only about&nbsp;inventing a&nbsp;“new” formula of symposium –&nbsp;attractiveness was not our purpose. Rather, it resulted directly from&nbsp;ways of formulating thoughts by the invited artists, and was designed both to extract an unacknowledged aspect of our relationship to images, and to identify modes of artistic production which clearly emphasize the physical aspect of the photographic image and go beyond&nbsp;the feedback mechanism (based on reflex) of eye and camera shutter. The “thinking in images” by the invited artists consists, among&nbsp;others, in that&nbsp;they extend the “decisive moment” over&nbsp;the entire process of working on a&nbsp;given picture, so that&nbsp;they are able to endow their work with&nbsp;a&nbsp;certain “density” –&nbsp;a&nbsp;density, which is not easily translated into&nbsp;the language of discourse.</p> <p></p> <p><b>[The programmatic statement was slightly modified]</b></p> <p><b>The symposium took place on October 21st and 22nd, 2013, at the Zachęta National Gallery of Art in Warsaw, as a&nbsp;part of the festival Warsaw Photo Days 2013 (<a href="http://warsawphotodays.com/">http://warsawphotodays.com</a>)</b></p> <p><br><br></p> <h2>Gesture And Photography. A&nbsp;Performative Symposium</h2> <h3>curator</h3> <p>Krzysztof Pijarski</p> <h3>production</h3> <p>Association of Polish Artists Photographers<br> The Lodz Film School</p> <h3>publication</h3> <p>The Lodz Film School</p> <h3>project Partners</h3> <p>Zachęta –&nbsp;National Gallery of Art</p> <h3>participants (in order of appearance)</h3> <p>Rafał Milach and Anna Nałęcka / Joanna Kinowska<br> Paweł Bownik / Weronika Szczawińska<br> Aneta Grzeszykowska and Jan Smaga / Katarzyna Bojarska<br> Nicolas Grospierre / Kuba Mikurda<br> Łukasz Gorczyca and Michał Kaczyński / Paweł Szypulski<br> Elżbieta Janicka and Wojciech Wilczyk / Waldemar Baraniewski</p> <h3>cameras</h3> <p>Karolina Zielińska<br> Adam Romanowski</p> <h3>sound</h3> <p>Krzysztof Boguszewski</p> <h3>translation into&nbsp;English</h3> <p>Paulina Schlosser<br> Marta Skotnicka</p> <h3>transcription of the meetings</h3> <p>Aleksandra Chciuk<br> Małgorzata Grygierczyk<br> Katarzyna Iwańska<br> Martyna Rudnicka<br> Joanna Wlaźlak<br> Marta Zgierska</p> <h3>special thanks</h3> <p>Elżbieta Protakiewicz<br> Hanna Wróblewska<br> Katarzyna Majak<br> Jolanta Rycerska<br> and all the participants</p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/gesture-and-photography.-a-performative-symposium" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Theatricality and Sincerity | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/15-theatricality/theatricality-and-sincerity">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Theatricality and Sincerity | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Theatricality and Sincerity | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/15-theatricality/theatricality-and-sincerity">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Theatricality and Sincerity | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #76b97d !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #76b97d !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #76b97d !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #76b97d !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #76b97d !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #76b97d !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #76b97d !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #76b97d !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(118,185,125,0.8) !important; */
+			/* background-color:#76b97d !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(118,185,125,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#76b97d !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(118,185,125,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#76b97d; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(118,185,125,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(118,185,125,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#76b97d !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#76b97d !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#76b97d !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-756 parent-id-749">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="747" data-selected-issue-color="#76b97d" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2016/15-teatralnosc#toc">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2016/15-teatralnosc/theatricality-and-sincerity">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/15-theatricality#toc">15</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/15-theatricality/theatricality-and-sincerity?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Theatricality and Sincerity</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/15-theatricality/theatricality-and-sincerity?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=757">Tim Gough</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>In a&nbsp;short untitled piece collected in <em>Discussions in Contemporary Culture</em> from&nbsp;1987<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a>, Michael Fried emphasises that&nbsp;his opposition to the theatricality of minimalist art, famously expressed in <em>Art and Objecthood</em> of 1967<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a>, was an opposition “limited to the [then] contemporary situation.”<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a> He says: <em>Art and Objecthood’s</em> claim is that&nbsp;theatricality was, in 1967, inimical to art as it was <em>then</em>. From&nbsp;the vantage point of 1987, he implies that&nbsp;he never had an <em>absolute</em> mistrust of theatricality; rather, this&nbsp;mistrust related to the specific period of the minimalism –&nbsp;or literalism, as he names it -&nbsp;of the 1960s.</p> <p>Following the critical reception of the essay and in the light of Fried’s later work on absorption and theatricality (which we will come to below), is this&nbsp;merely special pleading after&nbsp;the event? In <em>Art and Objecthood</em> Fried does indeed twice link the corruption of minimalist art to the current moment: “theatre is <em>now</em> the negation of art”<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a>; “theatre and theatricality are at war <em>today</em>…. with&nbsp;art as such”<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a>. If critical readers have missed this&nbsp;temporal limitation to the argument, as the author complains, then this&nbsp;is perhaps not surprising given the trenchant quality of the piece and its apparent a-temporal tone elsewhere: the Objecthood of the literalists is “antithetical to art”<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a>; “what is wrong with&nbsp;literalist work is… that&nbsp;it is… incurably theatrical”<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a>; “…theatre’s profound hostility to the arts…”<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a>; “… a&nbsp;sensibility <em>already</em> theatrical, already (to say the worst) corrupted or perverted by theatre”<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a>; “<em>Art degenerates as it approaches the condition of theatre.</em>”<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a> Furthermore, as Hal Foster points out in <em>The Crux of Minimalism<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a></em>, Fried’s essay is framed by the absolute, by an appeal to God. The epigraph is a&nbsp;quotation from&nbsp;the Puritan theologian Jonathan Edwards and speaks of the “abiding assurance” of the presence of God. The final sentence is a&nbsp;“spiritual imperative” (in Foster’s words): “Presentness is grace”<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a>. This&nbsp;is art criticism, or art theory, as theology. The attentive reader might be forgiven for&nbsp;coming away from&nbsp;the essay convinced of the absolute character of the argument, if not by the argument itself.</p> <p>Let us however take Fried at his 1987 word and allow that&nbsp;the absolutist statements be read in the light of the temporally limited ones, and not <em>vice versa</em>. We should, of course, also read <em>Art and Objecthood</em> in the light of his later works on the history of French 18<sup>th</sup> and 19<sup>th</sup> century art, specifically <em>Absorption and Theatricality </em>(1980)<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a>, <em>Courbet’s Realism</em> (1990)<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a> and <em>Manet’s Modernism</em> (1996)<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a> which incorporates his seminal essay <em>Manet’s Sources, 1859-1869</em> from&nbsp;1969.<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a> These books –&nbsp;each one located squarely within&nbsp;the discipline of art history –&nbsp;do not fail to cite <em>Art and Objecthood</em>, a&nbsp;work of art criticism which is <em>outside</em> the discipline of art history as such. The appeal in the later books to the earlier polemical essay is in each case an explanatory one: the reader is invited to refer back to the arguments against&nbsp;minimalism in order to clarify the context within&nbsp;which Fried analyses 18<sup>th</sup> and 19<sup>th</sup> century French painting. It is instructive to follow these references –&nbsp;both their tone and content.</p> <p>In <em>Absorption and Theatricality</em> Fried repeats his polemical disparagement of minimalism as “seemingly difficult and advanced but&nbsp;actually ingratiating and mediocre”, and notes that, as the title of the book “makes clear, the concept of theatricality is crucial to my interpretation of French painting and criticism in the age of Diderot, and in general the reader who is familiar with&nbsp;my essays on abstract art will be struck by certain parallels between&nbsp;ideas developed in those essays and in this&nbsp;book.”<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a></p> <p>A decade later, in <em>Courbet’s Realism</em>, the tone and content regarding&nbsp;minimalism is somewhat different: “As for&nbsp;the relation of this&nbsp;book to my writings on abstract painting and sculpture of the 1960s and early 1970s (in particular to the essay ''Art and Objecthood"), there is an important sense in which, like<em> Absorption and Theatricality</em>,<em></em>it investigates the roots of what I&nbsp;characterized in 1966-67 as a&nbsp;new, decisive split within&nbsp;contemporary artistic practice.”<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a> The disparagement of minimalism is not repeated. Gone, too, is the 1967 idea that&nbsp;minimalism is not even art. Instead of a&nbsp;threat to art itself, minimalism now represents merely a&nbsp;dichotomy (albeit decisive) <em>within</em> the realm of art.</p> <p>In the coda to <em>Manet’s Modernism</em>, Fried refers to a&nbsp;“final step in a&nbsp;formalist-modernist evolution [that] would purport to go beyond&nbsp;painting into&nbsp;Minimalist objecthood.” The depreciation of minimalism reappears with&nbsp;the word “purport”, but&nbsp;this time the act which minimalism carries out on art is neither to destroy it (the 1967 position), nor to split it (the 1980 position) but&nbsp;simply to contribute to its <em>evolution</em>.<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a></p> <p>However, if in these books Fried refers us back to the essay in order to clarify his position on French painting, in turn their arguments clarify the idea of theatricality used previously in that&nbsp;essay. But&nbsp;before I&nbsp;come to these, I&nbsp;would like&nbsp;to look at what we can glean about&nbsp;theatricality in Fried at the time the essay was written. Rosalind Krauss, in a&nbsp;reading that&nbsp;is deconstructivist in technique –&nbsp;a&nbsp;style of critique Fried implies in 1996 is necessary in order to comprehend his aims in <em>Art and Objecthood<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a></em> -&nbsp;holds that&nbsp;the central concept of theatricality is not anywhere defined:</p> <blockquote>Now the theatre and theatricality are precisely what is not defined in the pages of “Art and Objecthood,” or in the one definition that&nbsp;<em>is </em>ventured we are told that&nbsp;theatre is what lies <em>between</em> the arts, a&nbsp;definition that&nbsp;specifies theatre as a&nbsp;nonthing, an emptiness, a&nbsp;void. Theatre is thus an empty term whose role it is to set up a&nbsp;system founded upon&nbsp;the opposition between&nbsp;itself and another term. This&nbsp;is not of course a&nbsp;neutral, unloaded opposition, a&nbsp;simple <em>a</em> versus&nbsp;<em>b</em>, rather it is one that&nbsp;is vectored along&nbsp;an axis of good and bad: Theatre as the empty, unlocatable, amorphous member of the pair is bad, while the nontheatrical rises within&nbsp;the pair to be coded as good.<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a></blockquote> <p>This isolating of an empty term around&nbsp;which the analysis (and, supposedly, the piece itself) turns; the precipitation out of a&nbsp;binary pair of concepts; and the depreciation of one of those concepts represents a&nbsp;classic deconstructivist analysis, and Krauss notes that&nbsp;Derrida gives the name logocentrism to the strategy of thought thus deconstructed.<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a> Krauss is, however, too quick in her appeal to deconstructivist analysis. That&nbsp;Fried does not, in so many explicit words, state what theatricality is does not mean to say it is undefined within&nbsp;<em>Art and Objecthood</em>, or that&nbsp;it is specified as empty or void. This&nbsp;is something that&nbsp;I&nbsp;wish to insist on, because in fact theatricality has its own inherent positive character, as we will see. Within&nbsp;the contexts in which it is used here, theatricality has, for&nbsp;Fried, an utterly clear meaning:</p> <blockquote>Literalist sensibility is theatrical because, to begin with, it is concerned with&nbsp;the actual circumstances in which the beholder encounters the work… the experience of literalist art is of an object in a&nbsp;<em>situation </em>- one that&nbsp;virtually by definition, <em>includes the beholder</em>.<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a></blockquote> <p>Krauss is correct that, for&nbsp;Fried, the term ‘theatricality’ is opposed to another term or idea, namely the character of modernist painting which Fried insists has the status of real art; and that&nbsp;within the binary structure theatricality is depreciated. (As is well known, and as will be discussed below, theatricality is more generally opposed to the concept of <em>absorption</em>.) To claim in addition (or therefore) that&nbsp;the term theatricality is empty ignores the critical efforts that&nbsp;Fried makes to understand minimalism/literalism through&nbsp;this concept of theatricality, which he carefully characterises as something far from&nbsp;a&nbsp;Kraussian “void”.</p> <p>Furthermore, an analysis of what theatricality means for&nbsp;Fried in the late 1960s cannot omit consideration of the last words of <em>Art and Objecthood</em>, which in the footnotes refer us to two essays by Stanley Cavell –&nbsp;readings of Shakespeare and Beckett –&nbsp;collected in 1969 in <em>Must We Mean What We Say?”<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a></em> And when we read Cavell, what we find is a&nbsp;corresponding footnote which states:</p> <blockquote>That the place of art is now pervasively threatened by the production of objects whose hold upon&nbsp;us is theatrical, and that&nbsp;serious modernist art survives only in its ability to defeat theater, are companion subjects of Michael Fried’s “Art and Objecthood” (<em>Artforum</em>, Volume V, No. 10, June, 1967, pp. 12–23). It is, among&nbsp;other things, the most useful and enlightening explanation of the tastes and ambitions of the fashionable modern sensibility I&nbsp;know of. Its conjunction with&nbsp;what I&nbsp;am saying in this&nbsp;essay (even to the point of specific concepts, most notably that&nbsp;of “presentness’’) is more exact than&nbsp;can be made clear in a&nbsp;summary, and will be obvious to anyone reading it.<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a></blockquote> <p>As Fried has made clear elsewhere<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a>, there is a&nbsp;to-and-fro between&nbsp;his critical and art historical writings and the ordinary language philosophy of his friend Cavell<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a>, and as these two footnotes indicate, Fried has obtained his terms from&nbsp;and in discussion with&nbsp;Cavell. The very term “theatricality” comes from&nbsp;one of these essays -&nbsp;Cavell’s piece on Beckett entitled “Ending the Waiting Game”, which Fried notes that&nbsp;he read in 1963 or 1964.<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a></p> <p><em>Pace</em> Krauss, it is therefore not to Derrida or deconstruction that&nbsp;we should look for&nbsp;a&nbsp;hint, in the late 1960s, as to the sources or resources of Fried’s concept of theatricality, but&nbsp;rather to the ordinary language philosophy of Cavell, which he develops, as Bruns notes, out of late Ludwig Wittgenstein and J. L. Austin.<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a></p> <p>This brings me to the first key point I&nbsp;wish to address: if we grant, as noted above, that&nbsp;Fried’s disparagement of theatricality was specific to the situation of the late 1960s in the United States, noting nonetheless that&nbsp;the way in which this&nbsp;supposedly (at least in retrospect, for&nbsp;Fried) <em>relative </em>concern gets expressed at times in an absolutist, arguably (with Foster) <em>theological</em> manner, then what is it about&nbsp;that moment which caused Fried to be so vehemently against&nbsp;minimalism? Foster has already, in <em>The Return of the Real</em>, noted that&nbsp;Fried’s objections relate to the “disciplinary basis of his formalist aesthetics”<a href="#sdfootnote30sym" name="sdfootnote30anc"><sup>30</sup></a> in that&nbsp;“the old Enlightenment order of the arts (the temporal versus&nbsp;the spatial arts) is endangered.”<a href="#sdfootnote31sym" name="sdfootnote31anc"><sup>31</sup></a> (I would note in passing, because it speaks to the argument later on, that&nbsp;Foster is wrong here to characterise Fried as a&nbsp;formalist critic. Fried is not Clement Greenberg, and he himself complains in places about&nbsp;being bracketed with&nbsp;formalists.<a href="#sdfootnote32sym" name="sdfootnote32anc"><sup>32</sup></a> More specifically, I&nbsp;would argue that&nbsp;Fried’s positive engagement with&nbsp;ordinary language philosophy and, as we will see, phenomenology, is precisely anti-formalist.<a href="#sdfootnote33sym" name="sdfootnote33anc"><sup>33</sup></a>) The undermining of the disciplinary basis of art criticism and art history, and the overturning of the “old” (in Foster’s word) Enlightenment artistic order is clearly a&nbsp;challenge to Fried’s position within&nbsp;the discipline, as evident when he rather sniffily notes that&nbsp;“the literalists have largely avoided the issue of value or quality”<a href="#sdfootnote34sym" name="sdfootnote34anc"><sup>34</sup></a>, a&nbsp;value or quality that&nbsp;Fried implies it is the task of critics such as him to decide, and in such a&nbsp;manner that&nbsp;the quality may not be “in doubt”.<a href="#sdfootnote35sym" name="sdfootnote35anc"><sup>35</sup></a> However, these disciplinary and personal issues still do not get to the crux of Fried’s vehemence, which cannot merely be an issue of a&nbsp;threat to his professional status.</p> <p>If the link to Cavell is given the weight I&nbsp;believe it deserves, then we need to see the key terms of Fried’s argument –&nbsp;“theatricality” and “Presentness”, a&nbsp;Presentness which we have already noted has a&nbsp;theological aspect –&nbsp;in the light of ordinary language philosophy, and in the light of the issue of the sincerity of an utterance that&nbsp;that philosophy considers as a&nbsp;key question. For&nbsp;ordinary language philosophers, it is the seriousness with&nbsp;which an utterance is said which marks out its validity, and Cavell translates this&nbsp;characteristic across&nbsp;to the world of art when he states that&nbsp;“this means that&nbsp;modern art, if and where it exists, forces the issue of sincerity, depriving the artist and his audience of every measure except&nbsp;absolute attention to one’s experience and absolute honesty in expressing it.”<a href="#sdfootnote36sym" name="sdfootnote36anc"><sup>36</sup></a> That&nbsp;Fried takes sincerity seriously is evident from&nbsp;the preface to <em>Manet’s Modernism</em>, where he makes a&nbsp;claim for&nbsp;the sincerity of his argument, which he claims “is <em>sincere</em> in the sense of being the best that&nbsp;I&nbsp;can do under&nbsp;the circumstances.”<a href="#sdfootnote37sym" name="sdfootnote37anc"><sup>37</sup></a> This&nbsp;emphasis is his, as it is later on when he remarks upon&nbsp;Manet’s sincerity: “His pictures, he wrote in 1867, were above&nbsp;all <em>sincere</em>: ‘It's the effect of sincerity to give to works a&nbsp;character that&nbsp;makes them appear an act of protest, when the painter has thought only of rendering his impression.’”<a href="#sdfootnote38sym" name="sdfootnote38anc"><sup>38</sup></a> The themes of Presentness and presence (which Fried opposed to each other) also need to be read in the light of phenomenology, which Fried already makes reference to in his 1965 essay <em>Three American Painters</em>, where he notes that&nbsp;the work of Jackson Pollock, Morris Louis, Kenneth Noland, Jules Olitski and Frank Stella have a&nbsp;“phenomenological subtlety, complexity and richness without&nbsp;equal since&nbsp;Manet.”<a href="#sdfootnote39sym" name="sdfootnote39anc"><sup>39</sup></a> Later on, in <em>Courbet’s Realism</em>, Fried will state that&nbsp;“as a&nbsp;general emphasis [his analysis] is in line with&nbsp;the philosophical tendency known as existential phenomenology, and in fact a&nbsp;long-standing familiarity with&nbsp;phenomenological thinking (in particular with&nbsp;the work of Maurice Merleau Ponty) helped shape the approach of this&nbsp;study.”<a href="#sdfootnote40sym" name="sdfootnote40anc"><sup>40</sup></a></p> <p>In taking Fried at his word that&nbsp;he is a&nbsp;phenomenologist, and in accepting that&nbsp;modernist art is phenomenological in its intent, I&nbsp;am making a&nbsp;counter-argument to Hal Foster’s claim that&nbsp;it is rather minimalism which uses the resources of phenomenological thought. He states in <em>The Return of the Real</em> that&nbsp;“minimalism turned from&nbsp;the objective orientation of formalism to the subjective orientation of phenomenology…”<a href="#sdfootnote41sym" name="sdfootnote41anc"><sup>41</sup></a> This&nbsp;is part and parcel of Foster’s claim that&nbsp;Fried is (with Greenberg) a&nbsp;formalist; this&nbsp;enables him to equate formalism with&nbsp;Fried’s modernism and then show minimalism as a&nbsp;phenomenological response to that&nbsp;formalism. My argument is instead that&nbsp;Fried analyses modernism through&nbsp;phenomenology, and that&nbsp;minimalism is, precisely, post-phenomenological. I&nbsp;believe Fried is right to link the work of high modernist painters with&nbsp;phenomenology, and this&nbsp;link enables Fried to make a&nbsp;more substantive analysis of their work than&nbsp;the formalism of Greenberg allows. But&nbsp;by the end of the 1960s, phenomenology, and with&nbsp;it ordinary language philosophy and Cavell’s concept of “Presentness”, were themselves under&nbsp;an existential threat, announced with&nbsp;the lecture “Structure, Sign, and Play in the Discourse of the Human Sciences” which introduced Derrida to the United States fifty years ago in October 1966.<a href="#sdfootnote42sym" name="sdfootnote42anc"><sup>42</sup></a></p> <p>For, as is well known, what the early work of Derrida does is to question the basic premises of phenomenology, and particularly the notion of presence. In the lecture cited above, for&nbsp;instance, Derrida contrasts the concept of play –&nbsp;radical play, play without&nbsp;foundation –&nbsp;with&nbsp;that of presence, and notes that&nbsp;“Play is the disruption of presence”.<a href="#sdfootnote43sym" name="sdfootnote43anc"><sup>43</sup></a> We <em>cannot</em> begin our analysis, he states, with&nbsp;something like&nbsp;presence; rather, it is on the basis of the non-presence of play that&nbsp;something like&nbsp;the alternative between&nbsp;presence and absence can be established. To set out one’s analysis on the basis of a&nbsp;positive term such as “presence” or “Presentness”, as Fried does, can only be justified by an appeal to an absolute position, in other words by an appeal to God or via&nbsp;the resources of theology. We have already noted that&nbsp;Foster notes that&nbsp;this is exactly what Fried does at the beginning and end of <em>Art and Objecthood</em>. For&nbsp;Derrida, the basis of any valid discussion must be not a&nbsp;positive term such as presence, but&nbsp;rather the hyper-relational situation of <em>différance</em>. As Derrida’s essay of that&nbsp;name says, “What is written as <em>différance</em>, then, will be the playing movement that&nbsp;‘produces’…. these differences, these effects of difference.”<a href="#sdfootnote44sym" name="sdfootnote44anc"><sup>44</sup></a></p> <p>Krauss’s characterisation of deconstructive analysis, cited above, as positing an empty “void” around&nbsp;which binary concepts are organised and ordered is therefore doubly wrong: not only is Fried’s notion of the theatrical not empty (as I&nbsp;have shown, Fried defines it in positive terms), but&nbsp;deconstruction operates on the basis of the fullness and “affirmation” (as Derrida says, in Nietzschean terms) of play<a href="#sdfootnote45sym" name="sdfootnote45anc"><sup>45</sup></a>, not the emptiness of the void. Nonetheless, Krauss’s caricature of deconstructive analysis is pertinent here, because although Derrida was at pains from&nbsp;the outset to emphasize the excessive affirmation of deconstruction, this&nbsp;was not how his work was generally understood by Anglo-Saxon philosophers and human scientists. Rather, the challenge to phenomenological presence, outlined explicitly in Derrida’s work on Husserl<a href="#sdfootnote46sym" name="sdfootnote46anc"><sup>46</sup></a>, and the challenge to the presence implied by ordinary language philosophy, outlined in Derrida’s essay on Austin<a href="#sdfootnote47sym" name="sdfootnote47anc"><sup>47</sup></a> and later expanded in <em>Limited Inc<a href="#sdfootnote48sym" name="sdfootnote48anc"><sup>48</sup></a></em> was regarded for&nbsp;a&nbsp;number of decades as being nothing less than&nbsp;a&nbsp;challenge to all rational thought and to Enlightenment order, instead of being seen for&nbsp;what it really was –&nbsp;a&nbsp;response to Nietzsche’s death of God and an analysis of the impossibility of founding concepts if theology is deemed to have lost its purchase.</p> <p>If I&nbsp;am correct in this&nbsp;–&nbsp;and it is difficult to believe that&nbsp;Fried, and Cavell, in using the terms “presence” and “Presentness” to inform the notion of (non-?) artistic theatricality, would not have been doing so at that&nbsp;time in conscious counter-point to the new and disruptive influence of Derrida on the American scene –&nbsp;then that&nbsp;explains the ostensibly odd Puritan theological epigraph to <em>Art and Objecthood</em>. The antidote to a&nbsp;Derridean and European lack of presence is the invocation of the faith of an archetypal New World Puritan. And if Fried was later to claim that&nbsp;a&nbsp;deconstructive reading of his text was welcome, as we have already noted, then this&nbsp;reflects less an acceptance of <em>différance</em> and more an acknowledgement that&nbsp;the discourse of the human sciences in the States had by that&nbsp;time generally reduced the efficacy and purchase of Derrida’s attempted destruction of metaphysics –&nbsp;as evidenced by Krauss’s caricature of it.<a href="#sdfootnote49sym" name="sdfootnote49anc"><sup>49</sup></a></p> <p>What follows from&nbsp;this is a&nbsp;point about&nbsp;minimalist art itself. If, with&nbsp;Fried, we can say that&nbsp;the high modernists, against&nbsp;which the minimalists (principally Donald Judd and Robert Morris) positioned themselves, were essentially concerned with&nbsp;phenomenology in their work, then in turn minimalism necessarily becomes a&nbsp;critique not just of a&nbsp;Friedian modernism, but&nbsp;also of its philosophical underpinnings. In other words, minimalism is anti-phenomenological; and that&nbsp;is what Fried is pointing to when he states that&nbsp;the “presence” of the minimalist work is to be opposed to the “Presentness” of true art, exemplified by the modernist painters and sculptors he championed. This&nbsp;is not to argue that&nbsp;the minimalists were necessarily indebted to Derrida; I&nbsp;see no sign of this&nbsp;in their writings of that&nbsp;time. However, Derrida was only one sign, in the 1960s, of the overturning of the modernist tenets of presence, albeit one that&nbsp;most obviously pitched its tent against&nbsp;that metaphysical founding concept. In order to say more about&nbsp;this, I&nbsp;will look at the concrete terms of Fried’s argument in <em>Art and Objecthood</em>, informed also by his later writings on theatricality.</p> <p>For what, after&nbsp;all, is the theatrical for&nbsp;Fried? The most straightforward way to characterise it, although somewhat anachronistic in relation to <em>Art and Objecthood</em>, is to contrast it with&nbsp;absorption, a&nbsp;term which Fried famously takes from&nbsp;Denis Diderot in <em>Absorption and Theatricality</em>. Absorption is clearly a&nbsp;phenomenological term, for&nbsp;Fried: the first chapter of that&nbsp;book is entitled “The Primacy of Absorption”, a&nbsp;clear reference to Merleau-Ponty’s <em>The Primacy of Perception</em> which as we have already seen was influential on Fried.<a href="#sdfootnote50sym" name="sdfootnote50anc"><sup>50</sup></a> The theory of theatricality can be said to rotate around&nbsp;Diderot’s claim, cited by Fried in the original French, that&nbsp;a&nbsp;painting is sublime –&nbsp;is a&nbsp;great painting -&nbsp;“qu'il n'y a&nbsp;personne au monde que les personnages du tableau".<a href="#sdfootnote51sym" name="sdfootnote51anc"><sup>51</sup></a> We can translate this&nbsp;phrase from&nbsp;Diderot as “there is no one else in the world except&nbsp;the people in the tableau”. This&nbsp;is the mark of absorption: that&nbsp;within the tableau of the painting –&nbsp;that&nbsp;is, within&nbsp;the scene (<em>tableau</em>) that&nbsp;it represents -&nbsp;the people shown will be totally absorbed in their activities, in the scene within&nbsp;which they are depicted. Famously, for&nbsp;Fried as for&nbsp;Diderot, the drama of the tableau, its unity as presented by the skill of the painter, is what makes for&nbsp;great art, and it is in this&nbsp;sense that&nbsp;the notion of absorption relies upon&nbsp;the phenomenological concept of presence: the people depicted in the scene must appear to be wholly present to each other.</p> <p>Theatricality, by contrast, occurs when the people within&nbsp;the scene do not appear to be wholly absorbed by what they are doing, by their interrelations with&nbsp;each other, and the prime cause for&nbsp;the disruption of absorption is the situation where the characters in the scene begin to relate not only (or at all) to each other, but&nbsp;instead to the “beholder” (as Fried names it) who is looking at the painting. For&nbsp;Diderot, this&nbsp;disruption of the absorption of the represented characters in the name of a&nbsp;theatricality is the mark of bad painting, and it is this&nbsp;18<sup>th</sup> century notion of theatricality which Fried takes up in his analysis of minimalism in <em>Art and Objecthood</em>. So, the term theatricality should not be taken to refer in general to the theatre, but&nbsp;rather to the specific moment when any art makes an explicit appeal to its audience. Bad theatricality (for Diderot and the Fried of <em>Art and Objecthood</em>) is to be contrasted with&nbsp;the good quality of drama, for&nbsp;drama is what happens within&nbsp;the represented scene or tableau such that&nbsp;it remains a&nbsp;world unto itself, such that&nbsp;the characters therein remain absorbed in themselves and do not relate outwards, so not open themselves up to the audience or “beholder” (to use Fried’s term).</p> <p>I would like&nbsp;to make a&nbsp;second key point, in relation to Fried’s analysis of Diderot and French 19<sup>th</sup> century painting, before&nbsp;we return to minimalism. Fried, in <em>Absorption and Theatricality</em> and elsewhere, characterises the issue of theatricality as a&nbsp;paradox. Amongst other places, he notes in the introduction that&nbsp;Diderot works in his writings with&nbsp;a&nbsp;“paradoxical relationship between&nbsp;painting and beholder”<a href="#sdfootnote52sym" name="sdfootnote52anc"><sup>52</sup></a>; there is a&nbsp;paradox inherent in Jean-Baptiste Greuze’s paintings<a href="#sdfootnote53sym" name="sdfootnote53anc"><sup>53</sup></a> which also works over&nbsp;those of Jean-Baptiste-Siméon Chardin<a href="#sdfootnote54sym" name="sdfootnote54anc"><sup>54</sup></a>; in <em>Courbet’s Realism</em> he again notes “a new and paradoxical relationship between&nbsp;the work of art and its audience.”<a href="#sdfootnote55sym" name="sdfootnote55anc"><sup>55</sup></a> What exactly is this&nbsp;paradox, and why does it become such for&nbsp;Fried? There is a&nbsp;remarkable point towards&nbsp;the end of the first chapter of <em>Absorption and Theatricality</em> where he makes an appeal to the reader:</p> <blockquote>It has become clear, I&nbsp;think, that&nbsp;the developments analysed in this&nbsp;chapter [regarding Greuze and other painters] involve a&nbsp;major shift in the relationship between&nbsp;painting and beholder.<a href="#sdfootnote56sym" name="sdfootnote56anc"><sup>56</sup></a></blockquote> <p>And it is this&nbsp;shift which has a&nbsp;“paradoxical” quality, a&nbsp;quality which lies in the fact that&nbsp;the <em>drama</em> of the painting –&nbsp;the quality of the absorption of the represented characters in each other’s presence –&nbsp;is a&nbsp;denial of the “basic” fact of the beholder’s presence to the painting, the fact that&nbsp;the beholder is looking at what is going on in the painting. This&nbsp;“basic fact” is, at one level, the phenomenon of theatricality. As Fried states in <em>Courbet’s Realism</em>, “the theatrical” is in one sense “a basic pictorial or ontological category.”<a href="#sdfootnote57sym" name="sdfootnote57anc"><sup>57</sup></a> By this&nbsp;he means the simple fact that&nbsp;all paintings, and all art, are made to be looked at. Therefore, the paradox lies in the way in which the “dramatic” art which Diderot valued denied this&nbsp;“basic” theatricality. Given that, for&nbsp;Fried (at least most of the time) as for&nbsp;Diderot, theatrical work is not in fact art, one can say that&nbsp;<em>all</em> art worthy of the name is for&nbsp;them paradoxical in this&nbsp;sense. Pliny was wrong: Zeuxis’ painting of grapes trumps the <em>trompe-l'œil </em>curtain of Parrhasius, since&nbsp;the former makes a&nbsp;theatrical appeal only to the birds, not to us.</p> <p>Note that&nbsp;what Fried does here is to elide the logical distinction between&nbsp;the scene of the painting, the “tableau” that&nbsp;it represents, and the painting <em>itself</em> as a&nbsp;work. If that&nbsp;distinction is elided, then art tends to become, essentially, a&nbsp;question of representation: no distinction is made between&nbsp;what the painting represents and what it is. Having discussed at length the <em>drama</em> of the paintings of Chardin, Grueze and others –&nbsp;that&nbsp;is, the way in which the scenes which these paintings depict become more absorptive, and the fact this&nbsp;this absorption is explicitly praised by Diderot in his critical writings, Fried then states baldly in the quotation cited above&nbsp;that this&nbsp;concerns “the relationship between&nbsp;painting and beholder”. This&nbsp;is not strictly speaking correct: it concerns rather the relationship between&nbsp;the <em>tableau of the painting</em> and the beholder, which is an entirely different thing.</p> <p>As Stephen Melville and others have pointed out, the French word <em>tableau</em> means both painting <em>and</em> the scene which is represented in the painting.<a href="#sdfootnote58sym" name="sdfootnote58anc"><sup>58</sup></a> We can therefore say that&nbsp;Diderot has some excuse when he elides the difference between&nbsp;a&nbsp;painting and what is represented in the painting by stating that&nbsp;“En supposant qu'd n'y a&nbsp;personne au monde que les personnages du tableau, celui de Vandick est sublime<em>.</em>”<a href="#sdfootnote59sym" name="sdfootnote59anc"><sup>59</sup></a> In Fried’s translation this&nbsp;reads: “In supposing that&nbsp;there is no one else in the world except&nbsp;the personages of the painting, Van Dyck's painting is sublime.”<a href="#sdfootnote60sym" name="sdfootnote60anc"><sup>60</sup></a> We may excuse Diderot for&nbsp;using this&nbsp;ambiguity, or we might alternatively note that&nbsp;it is the disregarding of this&nbsp;ambiguity which sets up the deliberate naivety of the notion of “classicism”, of the notion of the classical in painting (and elsewhere).<a href="#sdfootnote61sym" name="sdfootnote61anc"><sup>61</sup></a> For&nbsp;Fried, the maintenance of the equivalence between&nbsp;the two meanings of <em>tableau</em> is symptomatic of his view of art as an essentially <em>representational</em> exercise. It is this&nbsp;essentially representational quality of art which Fried does not want to let go of (and which again marks him out as anything but&nbsp;a&nbsp;formalist) and which is at the root, I&nbsp;argue, of his avowed aversion to minimalist art. This&nbsp;may on the face of it appear a&nbsp;strange assertion to make of someone who places in contrast to minimalism the work of the abstract painters already mentioned, or the work of sculptors such as Anthony Caro. However, the terms in which Fried speaks of these works in <em>Art and Objecthood</em> makes clear that&nbsp;he does not conceive them outside&nbsp;the realm of representation.</p> <p>He does this&nbsp;by making an analogy between&nbsp;the character of, say, a&nbsp;Caro sculpture and the narrative structure of an 18<sup>th</sup> century French painting. The absorptive quality of the drama of the painting has its equivalent, for&nbsp;Fried, in the drama of the internal structure of a&nbsp;Caro sculpture, a&nbsp;structure and set of relations which he claims can be apprehended all at once in a&nbsp;moment of Presentness: and this&nbsp;“Presentness is grace”.<a href="#sdfootnote62sym" name="sdfootnote62anc"><sup>62</sup></a> Although the good, modernist work of art has a&nbsp;complex structure –&nbsp;for&nbsp;instance, the complexity of the relations between&nbsp;the elements of a&nbsp;sculpture by Caro or David Smith, just as for&nbsp;Diderot a&nbsp;good painting has a&nbsp;complex structure inherent in the drama unfolding within&nbsp;the tableau –&nbsp;it therefore <em>also</em> has the quality of “presentness and instantaneousness”. There is a&nbsp;moment of presentness, there is an instantaneous absorption of a&nbsp;proper work of art, evident when Fried asserts that&nbsp;the modernist work, or the true work of art, is “wholly manifest” at every moment; or when he says that&nbsp;it has a&nbsp;quality of <em>instantaneousness</em>.<a href="#sdfootnote63sym" name="sdfootnote63anc"><sup>63</sup></a> Fried posits this&nbsp;notion of presentness, and the instant, in order to maintain the distinction he wishes to draw between&nbsp;the avowedly time-based work of the minimalists and the modernists he favours. But&nbsp;he also has to maintain it because he remains within&nbsp;a&nbsp;representational concept of art. The internal <em>dispositif<a href="#sdfootnote64sym" name="sdfootnote64anc"><sup>64</sup></a></em> or machine of Caro’s work<a href="#sdfootnote65sym" name="sdfootnote65anc"><sup>65</sup></a>, its dramatic quality, has a&nbsp;representational quality which the minimalists identify as anthropomorphic; this&nbsp;work is a&nbsp;body, to use Antonin Artaud’s term, with&nbsp;organs. As Fried says, Caro’s work has “meaning”, and it defeats objecthood “by imitating, not gesture exactly, but&nbsp;the <em>efficacy</em> of gesture.”<a href="#sdfootnote66sym" name="sdfootnote66anc"><sup>66</sup></a> And by contrast the trouble with&nbsp;the minimalist work is that&nbsp;it does not “represent, signify or allude to anything”.<a href="#sdfootnote67sym" name="sdfootnote67anc"><sup>67</sup></a></p> <p>Likewise, in his 2011 return to art criticism <em>Four Honest Outlaws: Sala, Ray, Marioni, Gordon<a href="#sdfootnote68sym" name="sdfootnote68anc"><sup>68</sup></a></em>, Fried is at pains to emphasize that&nbsp;the subjective experience of the viewer of these works does not become the work itself (as in minimalism/literalism), but&nbsp;rather matters because that&nbsp;experience provides “a channel of insight into&nbsp;the overall structure of intentions that&nbsp;make the work what it is”.<a href="#sdfootnote69sym" name="sdfootnote69anc"><sup>69</sup></a> So even in the case of ostensibly abstract works such as Joseph Marioni’s, Fried’s concern is to show, by patient analysis of the making of the work –&nbsp;a&nbsp;making which he does not fail to note gives a&nbsp;distinctly non-minimalist “composite” quality to the paintings<a href="#sdfootnote70sym" name="sdfootnote70anc"><sup>70</sup></a> -&nbsp;how the structure of intentions of the artist is conveyed to the beholder. It is in this&nbsp;sense that&nbsp;Fried’s concept of art remains representational: art is the transmission of a&nbsp;certain meaningful structure across&nbsp;to the subject that&nbsp;views the work, be this&nbsp;structure the physical layers of paint in Marioni or the absorption evident in the subject matter of Anri Sala’s video pieces. This&nbsp;is why the sincerity of the work or, as the title of the book implies, its honesty as a&nbsp;true and authentic attempt to convey something to the beholder, is so important to Fried; a&nbsp;lack of sincerity or honesty implies the undermining of the schema of representation.</p> <p>By contrast, it is the essentially anti-representational (and therefore anti-aesthetic) nature of art, its ontological status <em>outside</em> the realm of representation, which the best writers on minimalism, cited by Fried, posit. Exemplary (but not alone) in this&nbsp;regard is Tony Smith’s anecdote of his experience on the New Jersey Turnpike, quoted at length in <em>Art and Objecthood</em>:</p> <blockquote>This drive was a&nbsp;revealing experience. The road and much of the landscape was artificial, and yet it couldn’t be called a&nbsp;work of art. On the other hand, it did something for&nbsp;me that&nbsp;art had never done. At first I&nbsp;didn’t know what it was, but&nbsp;its effect was to liberate me from&nbsp;many of the views I&nbsp;had had about&nbsp;art. It seemed that&nbsp;there had been a&nbsp;reality there that&nbsp;had not had any expression in art.</blockquote> <blockquote>The experience on the road was something mapped out but&nbsp;not socially recognized. I&nbsp;thought to myself, it ought to be clear that’s the end of art. Most painting looks pretty pictorial after&nbsp;that. There is no way you can frame it, you just have to experience it.<a href="#sdfootnote71sym" name="sdfootnote71anc"><sup>71</sup></a></blockquote> <p>On the one hand Smith is stating an experience that&nbsp;he says lies outside&nbsp;art; on the other hand, what he is doing is redefining art as it had heretofore been defined. No longer is art to be pictorial; that&nbsp;is, no longer is art to be seen as essentially to do with&nbsp;representation and meaning, as Fried would have it. Rather, art is to do with&nbsp;the experience –&nbsp;a&nbsp;real experience -&nbsp;and this&nbsp;experience, Smith says, has not previously had any “expression” in art. It becomes the specific task of minimalism to <em>express</em> the reality which had been apprehended in this&nbsp;experience. Smith is making a&nbsp;statement about&nbsp;the ontology of the art work, and the ontology he is positing and then promoting is an anti-representational one.</p> <p>This anti-representational quality is precisely summed up by Fried’s notion of theatricality. If, as noted above, the internal <em>dispositif</em> or machine of a&nbsp;work like&nbsp;Caro’s has a&nbsp;relational quality that&nbsp;can be analysed (just as Fried analyses the drama of French 18<sup>th</sup> century painting, or a&nbsp;video piece by Sala, or the composite layered structure of a&nbsp;Marioni painting), a&nbsp;body with&nbsp;organs where the organs can be separated out, then what minimalism does is to posit instead, or in addition, what we might call an external <em>dispositif</em> or machine.<a href="#sdfootnote72sym" name="sdfootnote72anc"><sup>72</sup></a> This&nbsp;external <em>dispositif</em> is also relational; it is the relation of theatricality which Fried has correctly identified as the key concept of minimalism. We could say that&nbsp;the minimalist work of art is therefore a&nbsp;“body without&nbsp;organs”, in the terms in which Artaud would understand that. What minimalism points to is a&nbsp;change in the perceived ontology of the work of art, and it is this&nbsp;change which stimulates Fried’s vehemence, it is this&nbsp;challenge which he feels he must oppose in the strongest terms as being the destruction of art.</p> <p>This minimalist or literalist ontology of art is an essentially relational ontology. What the minimalist work does is to foreground and <em>express</em> the relation between&nbsp;not only those who come to view it and live with&nbsp;it –&nbsp;to experience it -&nbsp;but&nbsp;also the specific situation in which it exists. The best works of minimalism are situational works; for&nbsp;Fried, this&nbsp;is a&nbsp;marker of their lack of quality, their lack of authenticity,<a href="#sdfootnote73sym" name="sdfootnote73anc"><sup>73</sup></a> but&nbsp;this lack of quality is such only when looked at from&nbsp;the point of view of a&nbsp;representational and “meaningful” ontology of art.</p> <p>What is remarkable about&nbsp;this new relational ontology of art that&nbsp;Smith in particular, and minimalism in general, puts forward is that&nbsp;it picks up on the trajectory of thought and philosophy which goes beyond&nbsp;Fried’s phenomenology and Cavell’s ordinary language philosophy. I&nbsp;have already outlined what I&nbsp;see as Fried’s implicit opposition to deconstruction in <em>Art and Objecthood</em>, where the central theme of presence or presentness is directly counter to the play of <em>différance</em> which Derrida announces. But&nbsp;what is the play of <em>différance</em> if not an essentially relational ontology? <em>Différance</em> expresses a&nbsp;sort of hyper-relationality. What <em>différance</em> says is that&nbsp;difference is primary, in other words that&nbsp;relations are primary, as long as we understand that&nbsp;the terms of the relation do not pre-exist the relation. It is the relation which is generative, not the positive terms of that&nbsp;relation, which are in fact an after-effect of the play of difference, of the play of relations.</p> <p>Now Fried, of course, does not ignore this&nbsp;play between&nbsp;the art work and what he calls the “beholder”. In fact, it is something he mentions frequently, as we noted above. But&nbsp;he mentions it not in order to draw a&nbsp;conclusion about&nbsp;the ontology of the work of art, but&nbsp;rather, as we have seen, to dwell in the apparent paradox of the disjunction between&nbsp;the fact that&nbsp;certain works of art –&nbsp;those favoured by Diderot, for&nbsp;instance -&nbsp;appear to ignore this&nbsp;relation by concentrating on the internal drama of the tableau, and the fact that&nbsp;nonetheless this&nbsp;representational scene is being looked at by somebody. What minimalism claims, together with&nbsp;the philosophies that&nbsp;I&nbsp;am now outlining, is that&nbsp;the simplicity of the reality of the inevitable interplay between&nbsp;the work of art and those who come to it –&nbsp;an inevitability which Fried repeatedly and positively acknowledges –&nbsp;is nothing other than&nbsp;the reality of the work of art; this&nbsp;is its ontology, because this&nbsp;is what is common to all works of art, whether or not on an “ontical” level (as Heidegger might have expressed it) the work deals with&nbsp;that issue by being explicitly theatrical in the way in which Fried characterises it.</p> <p>What is on the face of it puzzling about&nbsp;Fried’s vehement dislike of theatricality in <em>Art and Objecthood</em> is that&nbsp;sometimes in his writings he appears to have nothing against&nbsp;theatricality <em>per se</em>. As I&nbsp;noted at the outset, his opposition to theatricality was an opposition “limited to the [then] contemporary situation.”<a href="#sdfootnote74sym" name="sdfootnote74anc"><sup>74</sup></a> He recognises in turn that&nbsp;Diderot’s opposition to the theatricality of Rococo painting is an opposition that&nbsp;relates to its specific time. Fried does not rule that&nbsp;the theatricality of rococo painting means that&nbsp;all rococo painting is bad; nor does he rule that&nbsp;Manet’s work is poor painting because of its extraordinary theatrical quality –&nbsp;quite the opposite, although there is not enough space here to analyse the precise terms in which he does this.<a href="#sdfootnote75sym" name="sdfootnote75anc"><sup>75</sup></a> What I&nbsp;want to argue is that&nbsp;his vehemence is a&nbsp;result of the minimalist translation of theatricality out of the realm of representation –&nbsp;a&nbsp;realm which, as we have seen, Fried regards as containing the ontology of the work of art –&nbsp;and into&nbsp;the question of the ontology of the work, an alternative and anti-representational ontology which appears to directly challenge the whole basis on which Fried considers works of art.</p> <p>I wish to conclude by pointing to the wider implications of this&nbsp;anti-representational ontology of the work of art. These questions occur not just in the supposedly limited realm of aesthetics, but&nbsp;more broadly they concern how we view the world and how the very notions of authenticity and sincerity with&nbsp;which we negotiate our social world are framed. I&nbsp;implied above&nbsp;that Fried’s concern for&nbsp;sincerity, filtered as it was through&nbsp;ordinary language philosophy and linked to the theological idea of the Presentness of grace, is marked as antithetical to theatricality, and yet that&nbsp;most theatrical of painters –&nbsp;Manet –&nbsp;was quoted approvingly in his sincerity by Fried. Sincerity and authenticity cannot, therefore, even in Fried, be regarded as determined in opposition to the acknowledgement of the interplay of theatre. What, therefore, is the place of sincerity in a&nbsp;world of <em>différance</em>, within&nbsp;an ontology of relations which come before&nbsp;any positing of the terms which make up those relations? We should note again that&nbsp;sincerity is an inherently <em>representational</em> issue for&nbsp;Fried. To be sincere means to aim to properly represent what is going on “inside”, to properly represent the essence of who one is, just as the good work of non-minimalist art, for&nbsp;Fried, and non-rococo art for&nbsp;Diderot, properly represented, without&nbsp;disruption, an internal drama, scene, or tableau.</p> <p>With the destruction of this&nbsp;representational scene within&nbsp;art comes, if we take its full implications, the destruction of the representational qualities of the person. Fried was correct in his vehemence, in the sense that&nbsp;he sensed that&nbsp;the new ontology of the work of art which minimalism proclaims has much wider implications. Art, Fried (and with&nbsp;him Cavell) understood, is not a&nbsp;regional discipline, and at bottom the ontology of the work of art is necessarily the ontology of the world itself and our relation to it and to others. He did not wish to see us condemned to a&nbsp;universalising theatricality which would, in his terms, displace us from&nbsp;presence and give us no access to who we truly are –&nbsp;and therefore no access to sincerity. And his solution to this&nbsp;problem appears to involve the invocation of a&nbsp;godhead who will guarantee this&nbsp;presence and allow us access –&nbsp;if only at the limit or as an ideal –&nbsp;to a&nbsp;proper expression of ourselves.</p> <p>If there is an answer to this&nbsp;question, then it would seem to me to lie in one of two directions. On the one hand, the question of sincerity –&nbsp;and much else –&nbsp;would need to be reframed in terms other than&nbsp;that of representation. It would then be necessary to think sincerity within&nbsp;the breach that&nbsp;minimalism signifies, within&nbsp;an ontology of relations, which in turn would mean to think sincerity beyond&nbsp;the question of identity. Alternatively, the concept of sincerity would become a&nbsp;question no longer posed; together with&nbsp;representation, it would disappear as a&nbsp;problem because the network of concepts which supports it has reached a&nbsp;point of crisis which tips discourse across&nbsp;a&nbsp;threshold into&nbsp;another set of guiding concepts. In reality, these two alternatives amount to the same thing, but&nbsp;we can say that&nbsp;the crisis of representation which precedes them is, in the realm of art, nowhere better displayed than&nbsp;in the twists and turns of Fried’s writings.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Michael Fried, Untitled essay, in <em>Discussions in Contemporary Culture Number One</em>, ed. Hal Foster (New York: Dia Art Foundation, 1987), 55-58.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Michael Fried, “Art and Objecthood”, <em>Artforum</em> (June 1967): 12-23. Collected in Michael Fried, <em>Art and Objecthood: Essays and Reviews</em> (Chicago: University of Chicago Press, 1998), 148-172.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Fried, Untitled essay, 57.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Fried, “Art and Objecthood”, 153.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Ibid., 163.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Ibid., 153.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Ibid., 157.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Ibid., 160.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Ibid., 161.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Ibid., 164.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Hal Foster, “The Crux of Minimalism”, chapter two in <em>The Return of the Real</em> (Cambridge, Mass: MIT Press, 1996), 52.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Fried, “Art and Objecthood”, 168.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Michael Fried, <em>Absorption and Theatricality: Painting and Beholder in the Age of Diderot</em> (Berkeley: University of California Press, 1980).</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Michael Fried, <em>Courbet’s Realism</em> (Chicago: University of Chicago Press, 1990).</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Michael Fried, <em>Manet’s Modernism or, The Face of Painting in the 1860s</em> (Chicago: University of Chicago Press, 1996).</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Michael Fried, “Manet’s Sources: Aspects of his Art, 1859-1865,” A<em>rtforum 7</em> (March 1969): 28-82.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Fried, <em>Absorption and Theatricality</em>, 5.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Fried, <em>Courbet’s Realism</em>, 51.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> This analysis of the references back to <em>Art and Objecthood </em>could of course be extended through many of Fried’s essays, for instance “Jeff Wall, Wittgenstein, and the Everyday”, <em>Critical Inquiry 33</em> (Spring 2007): 495-526. The question of theatricality orientates all of Fried’s writing.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Fried, Untitled essay, 56.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Krauss, Untitled essay, in <em>Discussions in Contemporary Culture Number One</em>, 63.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Ibid., 63.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Fried, “Art and Objecthood”, 153.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Stanley Cavell, “Ending the Waiting Game” and “The Avoidance of Love: A Reading of King Lear” in <em>Must We Mean What We Say?</em> (updated edition: Cambridge: Cambridge University Press, 2002), 115-162 and 267-353.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Cavell, <em>Must We Mean What We Say?</em>, 307 (footnote 16).</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> For instance, in <em>Courbet’s Realism</em>, 278-282, where the topic of theatricality is applied to photography, and Roland Barthes is brought into the discussion as someone who also addresses this question; in the same book page 334 on questions of activity and passivity; page 363 where Cavell’s notion of “nextness” in relation to Henry David Thoreau’s <em>Walden</em> is discussed; and in <em>Absorption and Theatricality</em>, page 182, where Fried states “Between Cavell's work and my own there exists a community of concept and purpose which will be apparent to anyone reading us both.” In the introduction to the book <em>Manet’s Sources</em>, Fried states that the original essay of the same title dating from 1969 was read by Cavell and discussed with him, and was indeed dedicated to him (page xviii). Fried’s book <em>Realism, Writing, Disfiguration: On Thomas Eakins and Stephen Crane</em> (Chicago: University of Chicago Press, 1987) was also dedicated to Cavell.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> See Fried, Untitled essay, 57, where he speaks of his “friendship with the philosopher Stanley Cavell.”</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Michael Fried, ‘On Meeting Stanley Cavell’, MLN, vol. 126, no. 5, December 2011, 939–42.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Gerald L. Bruns, “Stanley Cavell's Shakespeare”, <em>Critical Inquiry</em> (issue 3 1990): 613.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Foster, <em>The Return of the Real</em>, 54.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Ibid., 52.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> As Fried states in the first chapter of <em>Courbet’s Modernism</em>, “I don't think of my approach in this book (or in <em>Absorption and Theatricality</em>) as in any sense 'formalist:' an epithet that has tended mechanically to be affixed to my work ever since the 1960s….” Fried, <em>Courbet’s Modernism</em>, 47.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> An example of this is given in Fried’s <em>Manet’s Modernism</em>, where he outlines Clement Greenberg’s “formalist” argument in relation to Manet’s modernism, but then notes that he himself finds this approach open to “serious objection.” Fried, <em>Manet’s Modernism</em>, 14.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Fried, “Art and Objecthood”, 164.</p>
+<p><a name="__DdeLink__28655_288636062"></a><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Ibid., 165.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> Cavell, <em>Must We Mean What We Say?</em>, 195.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> Fried, <em>Manet’s Modernism</em>, xxvi.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a>Ibid., 23.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a> Fried, <em>Art and Objecthood: Essays and Reviews</em>, 223.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a> Fried, <em>Courbet’s Realism</em>, 49.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a> Foster, <em>The Return of the Real</em>, 59.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a> Jacques Derrida, “Structure, Sign and Play in the Discourse of the Human Sciences”, in <em>Writing and Difference</em>, trans. Alan Bass (London: Routledge and Kegan Paul, 1978), 278-293.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a> Derrida, “Structure, Sign and Play in the Discourse of the Human Sciences”, 292.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a> Jacques Derrida, “<em>Différance”</em> in <em>Margins of Philosophy</em>, trans. Alan Bass (Brighton: The Harvester Press, 1982), 11.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a> Derrida, “Structure, Sign and Play in the Discourse of the Human Sciences”, 292.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a> Jacques Derrida, <em>Speech and Phenomena and other essays on Husserl’s theory of signs</em>, trans. David B. Allison (Evanston: Northwestern University Press, 1973).</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a> Derrida, “Signature Event Context”, 307-330.</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a> Jacques Derrida, <em>Limited Inc</em>, trans. Samuel Weber (Evanston: Northwestern University Press, 1988). The essay <em>Limited Inc a b c…</em> was first published in 1977 in <em>Glyph</em>.</p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a> What I am not able to do within the scope of this essay is to link Fried’s notion of theatricality with that of Artaud, whom he mentions on occasion. That reading would necessarily have to go via an analysis of Derrida’s essay “The Theatre of Cruelty”, where again Artaud is shown to deconstruct theatre into the infinite movement of play. Jacques Derrida, “The Theatre of Cruelty”, in <em>Writing and Difference</em>, trans. Alan Bass (London: Routledge and Kegan Paul, 1978), 232-250.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a> Maurice Merleau-Ponty, “The Primacy of Perception and its Philosophical Consequences”, in <em>The Primary of Perception And Other Essays on Phenomenological Psychology, the Philosophy of Art, History and Politics</em>, trans. James M. Edie (Evanston: Northwestern University Press, 1964), 12-42.</p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a> Fried, <em>Absorption and Theatricality</em>, 159.</p>
+<p><a href="#sdfootnote52anc" name="sdfootnote52sym">52</a> Ibid., 3.</p>
+<p><a href="#sdfootnote53anc" name="sdfootnote53sym">53</a> Ibid., 68.</p>
+<p><a href="#sdfootnote54anc" name="sdfootnote54sym">54</a> Ibid., 103.</p>
+<p><a href="#sdfootnote55anc" name="sdfootnote55sym">55</a> Fried, <em>Courbet’s Realism</em>, 6.</p>
+<p><a href="#sdfootnote56anc" name="sdfootnote56sym">56</a> Fried, <em>Absorption and Theatricality</em>, 66.</p>
+<p><a href="#sdfootnote57anc" name="sdfootnote57sym">57</a> Fried, <em>Courbet’s Realism</em>, 20.</p>
+<p><a href="#sdfootnote58anc" name="sdfootnote58sym">58</a> See for instance Stephen Melville, “Notes on the Reemergence of Allegory, the Forgetting of Modernism, the Necessity of Rhetoric, and the Conditions of Publicity in Art and Criticism”, <em>October</em>, Vol. 19 (Winter, 1981), 55-92. Fried makes specific and warm reference to this essay as one which does, for him, address <em>Art and Objecthood</em> in a deconstructive manner (see Fried, Untitled essay, 58). I do not have the space here to show why Melville is <em>not</em> in fact using the strategies of deconstruction, but if I did then my argument would circle around the point that deconstruction does not have anything to do with arguments, like those of Fried, which use a misplaced notion of paradox to construct a discourse.</p>
+<p><a href="#sdfootnote59anc" name="sdfootnote59sym">59</a> Diderot, <em>Correspondance</em>, IV, 57.</p>
+<p><a href="#sdfootnote60anc" name="sdfootnote60sym">60</a> Fried, <em>Absorption and Theatricality</em>, 148.</p>
+<p><a href="#sdfootnote61anc" name="sdfootnote61sym">61</a> This topic of the naivety of classicism comes up a number of times in <em>Absorption and Theatricality</em>, for instance in relation to the Abbé Laugier’s art criticism (Ibid., 15).</p>
+<p><a href="#sdfootnote62anc" name="sdfootnote62sym">62</a> Fried, “Art and Objecthood”, 166-168.</p>
+<p><a href="#sdfootnote63anc" name="sdfootnote63sym">63</a> Ibid., 167.</p>
+<p><a href="#sdfootnote64anc" name="sdfootnote64sym">64</a> To use a term taken from Fried’s essay on Anri Sala. Michael Fried, <em>Four Honest Outlaws: Sala, Ray, Marioni, Gordon</em> (New Haven: Yale University Press, 2011), 62.</p>
+<p><a href="#sdfootnote65anc" name="sdfootnote65sym">65</a> To use a term of Diderot’s which Fried quotes: “The principal idea [of a painting] properly conceived, must exercise its despotism over all the others. It is the driving force of the machine, which, like the force that maintains the celestial bodies in their orbits and carries them along, acts in inverse ratio to distance.” Fried, <em>Absorption and Theatricality</em>, 85.</p>
+<p><a href="#sdfootnote66anc" name="sdfootnote66sym">66</a> Fried, “Art and Objecthood”, 162.</p>
+<p><a href="#sdfootnote67anc" name="sdfootnote67sym">67</a> Ibid., 165.</p>
+<p><a href="#sdfootnote68anc" name="sdfootnote68sym">68</a> Fried, <em>Four Honest Outlaws</em>. The essays in the book date from lectures he gave in 2008.</p>
+<p><a href="#sdfootnote69anc" name="sdfootnote69sym">69</a> Ibid., 6.</p>
+<p><a href="#sdfootnote70anc" name="sdfootnote70sym">70</a> Ibid., 140.</p>
+<p><a href="#sdfootnote71anc" name="sdfootnote71sym">71</a> Tony Smith, quoted without specific reference in Fried, “Art and Objecthood”, 158.</p>
+<p><a href="#sdfootnote72anc" name="sdfootnote72sym">72</a> I noted above that Fried uses the words “machine” (from Diderot) and <em>dispositif </em>in his writings. When he uses these terms, they always refer to a movement or complexity <em>within</em> the work of art. What I am pointing to here is a use of these terms that goes beyond the work of art precisely to include within its machinic workings the beholder or indeed the social field within which the art occurs. This use of these terms one can find in Deleuze and (in the case of <em>dispositif</em>) in Foucault.</p>
+<p><a href="#sdfootnote73anc" name="sdfootnote73sym">73</a> Fried, “Art and Objecthood”, 167.</p>
+<p><a href="#sdfootnote74anc" name="sdfootnote74sym">74</a> Fried, Untitled essay, in <em>Discussions in Contemporary Culture Number One</em>, 57.</p>
+<p><a name="_GoBack"></a><a href="#sdfootnote75anc" name="sdfootnote75sym">75</a> See Fried, <em>Manet’s Modernism</em>, chapter three.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/15-theatricality/theatricality-and-sincerity" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

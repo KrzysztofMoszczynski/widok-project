@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Spis rzeczy: wsparcie i blokada pamięci | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/spis-rzeczy-wsparcie-i-blokada-pamieci">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Spis rzeczy: wsparcie i blokada pamięci | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Spis rzeczy: wsparcie i blokada pamięci | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/spis-rzeczy-wsparcie-i-blokada-pamieci">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Spis rzeczy: wsparcie i blokada pamięci | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ff5239 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ff5239 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ff5239 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ff5239 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ff5239 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ff5239 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+			/* background-color:#ff5239 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,82,57,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ff5239 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ff5239; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ff5239 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ff5239 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ff5239 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1343 parent-id-1333">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="419" data-selected-issue-color="#ff5239" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/the-visibility-of-things#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/the-visibility-of-things/listing-activating-versus-frustrating-memory">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/widzialnosc-rzeczy#toc">1</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/spis-rzeczy-wsparcie-i-blokada-pamieci?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Spis rzeczy: wsparcie i blokada pamięci<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup></span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/spis-rzeczy-wsparcie-i-blokada-pamieci?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=460">Ernst van Alphen</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Przełożyła: 
+		
+		Katarzyna Bojarska
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Spis, listę zazwyczaj rozpoznajemy po&nbsp;wyglądzie. Po&nbsp;formalnej zasadzie decydującej o&nbsp;sekwencyjnym przedstawieniu jej elementów. Gdy są one ułożone w&nbsp;porządku alfabetycznym, numerycznym, chronologicznym, geograficznym – by wymienić tylko niektóre powszechnie stosowane metody – od razu rozpoznajemy w&nbsp;tym układzie listę. Zastosowanie takiej formalnej organizacji tworzy swoistą retorykę spisu.</p> <p>Przykład tworzenia listy według wzorca numerycznego można znaleźć w&nbsp;krótkim opowiadaniu Georges’a Pereca <em>Niektóre z&nbsp;rzeczy, które chciałbym zrobić przed śmiercią</em>. Wyliczenie to przerywają gdzieniegdzie komentarze, jednak tworzące je zdania można łatwo rozpoznać ze względu na&nbsp;sposób ich retorycznej prezentacji:</p> <blockquote>Najpierw są rzeczy bardzo proste do zrobienia, rzeczy, które mógłbym zrobić już dzisiaj, na&nbsp;przykład: <br> <ol> <li>Przepłynąć się statkiem po&nbsp;rzece.</li> </ol> Następnie rzeczy troszkę bardziej znaczące, rzeczy, które pociągają za&nbsp;sobą decyzje, rzeczy, które powtarzam sobie, że&nbsp;jeśli je zrobię, być może ułatwią mi życie, na&nbsp;przykład: <br> <ol> <li>Zdecydować się wyrzucić pewną liczbę rzeczy, które przechowuję, nie wiedząc, dlaczego to robię.</li> </ol> albo<br> <ol> <li>Uporządkować raz na&nbsp;zawsze swoją bibliotekę.</li> <li>Kupić różne elektryczne sprzęty domowego użytku.</li> </ol> albo jeszcze<br> <ol> <li>Przestać palić (zanim będę do tego zmuszony...)<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>.</li> </ol> </blockquote> <p>Retoryczne wzorce tworzenia spisów nie zawsze jednak przekładają się na&nbsp;prezentację w&nbsp;formie listy. Kiedy nie są one wizualnie rozpoznawalne na&nbsp;podstawie takich formalnych zasad, można je wyróżnić wyłącznie dzięki powtarzalności pewnych struktur syntaktycznych. Tak jest na&nbsp;przykład we fragmencie z&nbsp;dwunastego epizodu <em>Ulissesa </em>Jamesa Joyce’a. Narrator wylicza kolejno warzywa i&nbsp;owoce, które można nabyć na&nbsp;targu w&nbsp;Dublinie:</p> <blockquote>Tu takoż wozy wielce obszerne zwożą obfitość plonów z&nbsp;pól, kosze kalafiora, szpinaku fury, ananas w&nbsp;plastrach, fasolę z&nbsp;Rangoonu, pomidorów góry, fig beczułki, brukwi zagony, ziemniaki krągłe, tęczowej kapusty kopce z&nbsp;Yorku i&nbsp;Savoy, cebule na&nbsp;wiklinie, co są perłami ziemi, grzybów kobiałki, a&nbsp;i dynie i&nbsp;wykę tłustą i&nbsp;jęczmień i&nbsp;rzepę i&nbsp;czerwone zielone żółte brunatne różowe słodkie wielkie kwaśne dojrzałe jabłkowite jabłka, truskawek kobiałki, agrestu przetaki, soczystego i&nbsp;przezroczystego, truskawki godne książąt i&nbsp;owoc maliny wprost z&nbsp;krzewu<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>.</blockquote> <p>Wszystkie warzywa i&nbsp;owoce pojawiają się kolejno jako przedmioty opisu. Nie zostają po&nbsp;prostu nazwane, lecz każdemu z&nbsp;nich przypisana zostaje pewna szczególna cecha. Powstaje w&nbsp;ten sposób lista, która jest formalnie zróżnicowana, ale opiera się na&nbsp;syntaktycznym powtórzeniu. Tworzenie listy polega na&nbsp;powtórzeniu tej samej funkcji.</p> <h2>Mnemotechniczna funkcja wyliczania</h2> <p>W nowoczesności referencjalna funkcja tworzenia list wydaje się dominująca. Jednak w&nbsp;retorycznej tradycji epoki klasycznej wyliczanie miało przede wszystkim funkcję mnemotechniczną. Dzięki układaniu i&nbsp;przedstawianiu rzeczy w&nbsp;pewnym porządku – nazywaniu miejsca, które zajmowały w&nbsp;porządku świata – łatwiej było je zapamiętywać. Listę jako narzędzie mnemotechniczne wykorzystywano często w&nbsp;formie wyobrażonej wędrówki po&nbsp;budynku. Kompilacja mijanych i&nbsp;oglądanych elementów architektury pozwalała na&nbsp;zapamiętanie tych, które miały zostać włączone w&nbsp;przygotowywaną wypowiedź. Zapamiętując kolejne etapy wędrówki po&nbsp;budynku, zapamiętywało się jednocześnie poszczególne elementy konstruowanej wypowiedzi we właściwym porządku.</p> <p>Ta mnemotechniczna funkcja tworzenia list powraca, jak się zdaje, w&nbsp;tekstach Georges’a Pereca. Jego książki, takie jak <em>Espèces d’espaces</em> (1974) czy <em>Życie. Instrukcja obsługi</em> (1978) składają się w&nbsp;znacznej mierze z&nbsp;list i&nbsp;na nich opierają. Funkcja, jaką w&nbsp;książkach tych pełni pamięć, nie jest ani łatwa do uchwycenia, ani jednoznaczna. Bez wątpienia jednak pamięć odgrywa tu niezwykle istotną rolę. Już na&nbsp;pierwszy rzut oka widać, że&nbsp;<em>Espèces d’espaces</em> nie proponuje narracji w&nbsp;sensie tradycyjnym. Przerzucając kolejne strony książki, natychmiast zauważamy mnogość list, choć cały tekst nie od razu jawi się jako struktura podporządkowana wizualnemu porządkowi listy; można wręcz powiedzieć, że&nbsp;na tym poziomie nie występuje żadna retoryka wyliczenia. Spis treści wskazuje jednak, że&nbsp;układ rozdziałów tworzy listę przestrzeni, skomponowaną w&nbsp;ten sposób, że&nbsp;od przestrzeni położonych najbliżej narratora przechodzimy stopniowo do bardziej odległych, które jednocześnie zawierają w&nbsp;sobie przestrzenie wcześniejsze. Pierwsza z&nbsp;tych przestrzeni, strona, przywodzi na&nbsp;myśl intymny obszar czytania i&nbsp;wyobraźni. Następnie przechodzimy do łóżka (w którym pisarz pisze i&nbsp;czyta), pokoju, mieszkania, kamienicy, ulicy, dzielnicy, miasta, gminy, państwa, Europy, świata. W&nbsp;ostatnim rozdziale, zatytułowanym <em>Wszechświat</em>, istota listy zostaje streszczona w&nbsp;pigułce za&nbsp;pomocą opowiedzianej przez Pereca anegdoty o&nbsp;tym, jak w&nbsp;dzieciństwie zapisywał w&nbsp;kalendarzu swój adres:</p> <blockquote>Georges Perec<br> 18, Rue de l’Assomption<br> Klatka A<br> Trzecie piętro<br> Drzwi po&nbsp;prawej<br> Paryż 16e<br> Departament Seine<br> Francja<br> Europa<br> Świat<br> Wszechświat</blockquote> <p>W każdym rozdziale Perec opisuje z&nbsp;różnych perspektyw wskazaną w&nbsp;nim przestrzeń: fizycznie, funkcjonalnie, pod&nbsp;kątem wykonywanych w&nbsp;niej czynności, dotyczących jej obrazów pamięci, itd., itp.</p> <p>W rozdziale poświęconym sypialni autor przywołuje związane z&nbsp;nią wspomnienia:</p> <blockquote>Moje wspomnienia krążą wokół szczupłości łóżka, zahaczone są o&nbsp;wrażenie ciasnoty w&nbsp;pokoju; prześladuje mnie cierpki smak wystygłej, zbyt mocnej herbaty: tamtego lata pijałem <em>pinks</em> – czysty dżin z&nbsp;kropelką angostury; flirtowałem – raczej bezowocnie – z&nbsp;córką kierownika przędzalni, który niedawno powrócił do kraju z&nbsp;Aleksandrii; właśnie wtedy postanowiłem, że&nbsp;zostanę pisarzem<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>.</blockquote> <p>Bezsprzecznie sypialnia jest przestrzenią uprzywilejowaną, ponieważ lepiej niż inne potrafi pobudzać wspomnienia:</p> <blockquote>Wystarczy wskrzesić przestrzeń jakiegoś pokoju, aby ożywić, przywołać wspomnienia – zarówno te ulotne i&nbsp;błahe, jak i&nbsp;te najbardziej istotne. Wystarczy, że&nbsp;uprzytomnię sobie, że&nbsp;moje ciało spoczywało w&nbsp;tamtym łóżku, że&nbsp;przypomnę sobie, w&nbsp;którym miejscu w&nbsp;pokoju stało owo łóżko, natychmiast moja pamięć się ożywia, a&nbsp;wspomnienia nabierają prawie nigdy poza tym niespotykanej ostrości i&nbsp;precyzji<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>.</blockquote> <p>Nieco dalej Perec przedstawia cały projekt <em>Espèces d’espaces </em>jako przedsięwzięcie z&nbsp;ducha proustowskie:</p> <blockquote>Dzieje się tak dlatego, bo&nbsp;przestrzeń pokoju działa na&nbsp;mnie jak magdalenka na&nbsp;Prousta. Pod&nbsp;jego zresztą patronatem pozostaje całe moje przedsięwzięcie: polega ono po&nbsp;prostu na&nbsp;rygorystycznym rozwinięciu szóstego i&nbsp;siódmego akapitu pierwszego rozdziału pierwszej części (<em>Combray</em>) pierwszego tomu (<em>W stronę Swanna</em>) <em>W poszukiwaniu straconego czasu</em>. Wiele już lat temu postanowiłem sporządzić inwentarz – na&nbsp;tyle wyczerpujący i&nbsp;precyzyjny, jak tylko jest to możliwe – wszystkich «Miejsc», w&nbsp;których zdarzyło mi się sypiać<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>.</blockquote> <p>W rzeczy samej <em>Espèces d’espaces </em>to rygorystyczne zastosowanie „Prousta” jako metody pisania, z&nbsp;tą różnicą, że&nbsp;Perec nie ogranicza się do sypialni, lecz zagarnia także stopniowo rozszerzające się przestrzenie, które ją obejmują.</p> <p>Przestrzenie te są rzeczywiste, fizyczne i&nbsp;materialne, zwłaszcza sypialnia, którą można odtworzyć z&nbsp;dużą szczegółowością. Jakkolwiek materialne i&nbsp;realne nie byłyby te przestrzenie, czas odciska na&nbsp;nich swój ślad. W&nbsp;dwóch końcowych akapitach ostatniego rozdziału zatytułowanego <em>Wszechświat</em> Perec snuje refleksję na&nbsp;temat zmienności i&nbsp;dotykalności przestrzeni. Miejsca zawodzą jako punkty odniesienia:</p> <blockquote>Moje przestrzenie są kruche: zużyją się z&nbsp;czasem, on je zniszczy. Nic już w&nbsp;nich nie będzie mi przypominało o&nbsp;tym, co było, pamięć mnie zawiedzie, zapomnienie przeniknie moją pamięć, będę patrzył na&nbsp;tych kilka pożółkłych fotografii z&nbsp;zagiętymi rogami, nie rozpoznając ich. Hasła „Książka telefoniczna dostępna w&nbsp;środku” czy „Przekąski podawane cały dzień” nie będą już napisane półkolistymi białymi porcelanowymi literami w&nbsp;oknie małej kawiarenki na&nbsp;Rue Coquillière<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>.</blockquote> <p>To w&nbsp;tym momencie Perec odchodzi od proustowskiej poetyki. Przestrzenie zawodzą jako oparcie dla pamięci, bo&nbsp;są kruche, a&nbsp;nie trwałe. Zmieniają się w&nbsp;czasie, a&nbsp;nawet znikają. Dlatego też trudno je uznać za&nbsp;przechowalnie wspomnień. Odpowiedzią na&nbsp;tę niepewność byłoby zapośredniczenie ich przez listę. Przeniesienie z&nbsp;przestrzeni realnej w&nbsp;przestrzeń literacką stałoby się gwarantem ich funkcji mnemotechnicznej. Ostatnie słowa rozdziału poświęconego przestrzeni Wszechświata wskazują, w&nbsp;jaki sposób zapośredniczenie przez tekst, a&nbsp;dokładniej przez tekst-listę, może zagwarantować przetrwanie pamięci:</p> <blockquote>Pisać, usiłować pieczołowicie zachować coś, sprawić, że&nbsp;coś przetrwa; wyrwać parę skrawków z&nbsp;rozrastającej się otchłani, pozostawić gdzieś fałdkę, ślad, znak albo kilka znaków<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>.</blockquote> <p>To zakończenie <em>Espèces d’espaces </em>tłumaczy, jaką funkcję pełni lista przestrzeni, która strukturyzuje tekst książki. To nie przestrzeń jako taka pełni funkcję mnemotechniczną, lecz jej zapośredniczenie w&nbsp;formie zapamiętanej lub zapisanej listy.</p> <p>Ten mnemotechniczny potencjał wyliczania przestrzeni znajduje swoje negatywne potwierdzenie w&nbsp;innej eksperymentalnej liście Pereca. W&nbsp;1975 roku opublikował on <em>Tentative d’épuisement d’un lieu parisien</em> (Próba wyczerpania pewnego paryskiego miejsca). Pod&nbsp;wieloma względami tekst ten różni się od <em>Espèces d’espaces, </em>choć także nie jest narracją w&nbsp;tradycyjnym sensie. Sam Perec opisał go jako wynik poszukiwania tego, „co się dzieje, kiedy nic się nie dzieje”. Jednak w&nbsp;przeciwieństwie do <em>Espèces d’espaces </em>listę rozdziałów i&nbsp;podrozdziałów organizuje nie tyle zasada przestrzenna, ile czasowa. Od początku do końca w&nbsp;tekście tym pojawiają się opisy wyłącznie jednej przestrzeni: placu Saint-Sulpice w&nbsp;Paryżu. Wszystko, co autor opisuje w&nbsp;ciągu trzech dni, to zapis wrażeń z&nbsp;tego miejsca. Zmienia się jedynie punkt, z&nbsp;którego narrator prowadzi obserwację i&nbsp;opowieść. Może to być Tabac Saint-Sulpice, Café de la Mairie, Café La Fontaine Saint-Sulpice, ławka (z widokiem na&nbsp;fontannę). Powraca do tych samych miejsc w&nbsp;różne dni. W&nbsp;każdym podrozdziale wylicza sekwencję swoich obserwacji z&nbsp;placu. Nie opisuje zatem jego fizycznych cech, ale raczej to, co ewoluuje w&nbsp;czasie: kolejne postrzeżenia. Czytając te listy, podążamy za&nbsp;Perekiem, fokalizatorem. Rezultatem tego eksperymentu są następujące listy:</p> <blockquote>(data: 18 października 1974, czas: 12.40, miejsce: Café de la Mairie)<br> […]<br> przejeżdża 86. Przejeżdża 87. Przejeżdża 63.<br> Ludzie się potykają. Mikro-wypadki. <br> Przejeżdża 96. Przejeżdża 70. <br> Jest dwadzieścia po&nbsp;pierwszej. <br> Powrót (nie jestem pewien) uprzednio widzianych postaci: młody chłopak w&nbsp;granatowej kurtce pilotce, trzymający w&nbsp;ręku plastikową siatkę, znów mija kawiarnię. <br> Przejeżdża 86. Przejeżdża 86. Przejeżdża 63. <br> Kawiarnia jest pełna. <br> Na&nbsp;placu dziecko wyprowadza na&nbsp;spacer psa (wygląda jak Miluś). <br> Tuż obok kawiarni, pod&nbsp;oknem i&nbsp;w trzech innych miejscach, dość młody mężczyzna rysuje kredą na&nbsp;chodniku coś na&nbsp;kształt V z&nbsp;czymś niby znak zapytania pośrodku. (sztuka ziemi?). <br> Przejeżdża 63<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>.</blockquote> <p>Pisarz Perec wydaje się tutaj uwięziony w&nbsp;czasie teraźniejszym swoich obserwacji. Rejestruje sekwencję spostrzeżeń, która nie staje się ostatecznie narracyjnym zapisem tego, co stało się na&nbsp;tym paryskim placu, lecz listą tego, co kolejno widział. Między poszczególnymi elementami nie ma jednak żadnego porządku czasowego, żadnego następstwa przyczynowo-skutkowego. Jedyną spójność gwarantuje przestrzeń: wszystkie to zdarzyło się w&nbsp;tym samym miejscu, na&nbsp;placu Saint-Sulpice w&nbsp;Paryżu.</p> <p>Drugiego dnia dochodzi do załamania i&nbsp;zmęczenie bierze górę nad obserwacją. Narracja natychmiast zmienia kierunek i&nbsp;przechodzi od opisu świata zewnętrznego, placu, do wewnętrznego, subiektywnego świata obserwatora. Wylicza on wówczas:</p> <blockquote>Przejeżdża autobus Paris-Vision. Turyści mają na&nbsp;uszach słuchawki. <br> Niebo jest szare. Przelotne przebłyski słońca. <br> Zmęczony wzrok: obsesyjny lęk przed jabłkowo-zielonymi citroenami 2CV. <br> Niezaspokojona ciekawość (co chciałem tu znaleźć, pamięć błądząca po&nbsp;tej kawiarni…)<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>.</blockquote> <p>Przeniesienie fokalizacji do świata wewnętrznego sprawia, że&nbsp;czytelnik uświadamia sobie lęk Pereca przed zielonymi citroenami. To w&nbsp;istocie powracający motyw tych obserwacji. Ale teraz, mając dostęp do jego świata wewnętrznego, możemy ujawnić motywacje, które stały za&nbsp;podjęciem przez Pereca eksperymentu zatytułowanego <em>Tentative d’épuisement d’un lieu parisien</em>. Projekt ten opierał się na&nbsp;systematycznej procedurze poszukiwania wspomnień. Czasowa, a&nbsp;nie przestrzenna organizacja tych poszukiwań sprawiła jednak, że&nbsp;zakończyły się one porażką. Ta zasada strukturalna nie wyzwala żadnych wspomnień.</p> <p>W tym wyliczaniu kolejnych obserwacji kryje się jednak coś więcej. Lista zewnętrznych obserwacji sprawia, że&nbsp;czytelnik uświadamia sobie, jak bardzo percepcja świata zewnętrznego opiera się na&nbsp;kategoriach i&nbsp;klasyfikacjach, które są całkowicie konwencjonalne, a&nbsp;nawet stereotypowe. W&nbsp;obserwacjach Pereca nie ma żadnego postępu (nie wyłania się żadna narracja), nie świadczą one ani o&nbsp;tym, że&nbsp;czegoś się dowiaduje, ani o&nbsp;wzmocnieniu jego spostrzegawczości: nie widzi lepiej i&nbsp;bardziej intensywnie. Jedyny moment, kiedy jego obserwacje stają się mniej konwencjonalne, moment, w&nbsp;którym widzi więcej, następuje wówczas, kiedy punkt skupienia przenosi się ze świata zewnętrznego do wewnętrznego.</p> <p>Po eksperymencie <em>Tentative d’épuisement d’un lieu parisien</em> Perec powrócił w&nbsp;1978 roku do tworzenia list przestrzeni w&nbsp;swoim monumentalnym i&nbsp;bodaj najbardziej znanym dziele <em>Życie. Instrukcja obsługi</em>. Wylicza w&nbsp;nim rozmaite przestrzenie i&nbsp;zakamarki paryskiej kamienicy, dokładnie je opisując. Niektóre z&nbsp;tych opisów zajmują ledwie pół strony, inne dziesięć stron i&nbsp;więcej. W&nbsp;przeciwieństwie do <em>Tentative d’épuisement… </em>opisy te nie są wynikiem czasowego następstwa obserwacji – poszczególne przestrzenie budynku ukazywane są jakby były zatrzymane w&nbsp;czasie. Ten czas to 23 czerwca 1975 roku, tuż przed godziną 20. Kilka chwil po&nbsp;śmierci głównego „bohatera”, Bartlebootha. (Fikcyjny) adres tej kamienicy to 11 Rue Simon-Crubellier.</p> <p>Choć wszystkie opisy dotyczą tej samej chwili, nie oznacza to, że&nbsp;czasowy wymiar książki ogranicza się do 23 czerwca 1975 roku. Przedstawienia przestrzeni uwalniają wspomnienia, z&nbsp;których większość wiąże się z&nbsp;jakimś jej mieszkańcem. Tak wywołane wspomnienia tworzą wątki fabularne. Większość mieszkańców kamienicy staje się bohaterami opowieści, a&nbsp;ich losy przecinają się ze sobą. W&nbsp;ten sposób liczne „mniejsze narracje” tworzą narrację większą.</p> <p>Wiele z&nbsp;nich wiąże się z&nbsp;postacią Bartlebootha. Jego imię brzmi jak kombinacja imion dwóch znanych bohaterów literackich: Bartleby’ego z&nbsp;opowiadania Melville’a i&nbsp;Barnabootha Larbauda. Bartlebooth, zamożny Anglik mieszkający w&nbsp;Paryżu, postanowił nauczyć się malować. Jego sąsiad z&nbsp;kamienicy przez dziesięć lat uczy go zatem malowania techniką akwareli. Po&nbsp;opanowaniu, lepiej lub gorzej, techniki malowania, bohater udaje się w&nbsp;trwającą dwadzieścia lat podróż dookoła świata. Towarzyszy mu sługa Smautf, który także mieszka w&nbsp;tej samej kamienicy. W&nbsp;odwiedzanych portach Bartlebooth maluje marynistyczne pejzaże. Po&nbsp;jakimś czasie ma ich już około pięćset i&nbsp;wysyła je do Paryża. Inny mieszkaniec kamienicy, Gaspard Winckler przykleja wszystkie te akwarele na&nbsp;cienką drewnianą deseczkę, po&nbsp;czym wycina z&nbsp;nich układankę złożoną z&nbsp;siedmiuset pięćdziesięciu puzzli. Kiedy Bartlebooth w&nbsp;końcu wraca do swojego paryskiego mieszkania, spędza większość czasu, układając puzzle i&nbsp;odtwarzając kolejno sceny rodzajowe podpatrzone w&nbsp;portach. Następnie zleca usunięcie drewnianego podłoża, na&nbsp;które naklejono akwarele za&nbsp;pomocą skomplikowanych procesów chemicznych. Obraz trafia z&nbsp;powrotem do portu, w&nbsp;którym powstał, dokładnie dwadzieścia lat wcześniej. Tam zostaje on potraktowany specjalnym rozpuszczalnikiem, który ma odbarwić papier. I&nbsp;taki właśnie „czysty papier” wraca do Bartlebootha, do Paryża. Ostatecznie, po&nbsp;pięćdziesięciu latach, projekt stanie się absolutnie niewidzialny, ponieważ nie zachowa się żaden jego ślad.</p> <p>Jednak projekt ten nie przebiega po&nbsp;myśli Bartlebootha. Przede wszystkim dlatego, że&nbsp;zrobione przez Wincklera puzzle stawały się coraz trudniejsze, a&nbsp;ich ułożenie zajmowało coraz więcej czasu. Bartlebooth traci wzrok. Zamiast wysyłać swoje akwarele do miejsc ich powstania, zaczyna je palić. Umiera w&nbsp;chwili, kiedy niemal ułożył puzzle numer 439. Także malarz Valène, nauczyciel Bartlebootha podejmuje pewien dziwaczny projekt, którego również nie udaje mu się ukończyć. Chce namalować kamienicę bez fasady, pokazując w&nbsp;ten sposób wszystkich mieszkańców i&nbsp;ich codzienność. Kończy się to na&nbsp;tym, że&nbsp;zamierza przedstawić powieść jako obraz, powieść, w&nbsp;której on sam jest jednym z&nbsp;bohaterów. „On sam malowałby siebie malującego siebie”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Chce to zrobić w&nbsp;stylu malarzy renesansowych, którzy zostawiali dla siebie maleńkie miejsce w&nbsp;tłumie wasali, żołdaków, biskupów lub kupców:</p> <blockquote>Nie żadne miejsce w&nbsp;środku, miejsce w&nbsp;uprzywilejowanej, i&nbsp;znaczącej strefie, miejsce położone na&nbsp;istotnej osi, podkreślone ważką perspektywą, która jeśli spojrzeć odpowiednio, obnaża bogactwo utajonych znaczeń i&nbsp;pozwala na&nbsp;zupełnie nowe odczytanie dzieła; wręcz przeciwnie miejsce na&nbsp;pozór neutralne wybrane jakby mimochodem, trochę jakby przez przypadek (…)<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>.</blockquote> <p>Następnie w&nbsp;rozdziale tym wylicza się sto siedemdziesiąt dziewięć scen, przedstawiających wszystkie postaci i&nbsp;ich historie, ich przeszłość, ich legendy. Ta niemal nieskończona wyliczanka obrazów do namalowania jest niczym figura archiwum: nieograniczony magazyn informacji o&nbsp;różnych ludziach, praktykach i&nbsp;zdarzeniach, zwykle, choć nie zawsze, połączonych. Również idiosynkratyczny projekt Bartlebootha, chęć stworzenia układanki z&nbsp;własnych malowideł i&nbsp;próbę ułożenia puzzli, można widzieć jako obraz badania archiwum.</p> <p>W perspektywie struktury archiwalnej warto jednak pamiętać, że&nbsp;projekty zarówno Valène’a, jak i&nbsp;Bartlebootha ponoszą porażkę. Liczy się nie tyle ich końcowy efekt, co sama metoda pracy Pereca, odzwierciedlona w&nbsp;projekcie malarskim Valène’a, w&nbsp;przedstawieniu historii mieszkańców kamienicy na&nbsp;Rue Simon-Crubellier 11. Zajmują oni konkretne miejsce w&nbsp;świecie, mieszkanie w&nbsp;określonym budynku. Perec opowiada ich historie, wyliczając kolejno różne części kamienicy i&nbsp;drobiazgowo je opisując. W&nbsp;ten sposób uwalnia i&nbsp;ożywia wspomnienia, które służą mu za&nbsp;budulec narracji, choć same w&nbsp;sobie nie są jeszcze autonomicznymi narracjami.</p> <p>W konwencjonalnym opowiadaniu tych historii należałoby połączyć opisywane wydarzenia i&nbsp;poszczególne opowieści; powiązania te opierałyby się na&nbsp;przykład na&nbsp;ciągłości zdarzeń, związkach przyczynowo-skutkowych itd. Tymczasem, jeśli mamy tu do czynienia z&nbsp;jakimiś powiązaniami, są to powiązania na&nbsp;zasadzie przyległości: zestawione zostają historie, które zdarzyły się „przez ścianę”, w&nbsp;sąsiadujących mieszkaniach. Aby połączyć te przylegające do siebie informacje, wydarzenia i&nbsp;opowieści w&nbsp;narrację opartą na&nbsp;ciągłości czasowej, trzeba z&nbsp;zaangażowaniem układać puzzle.</p> <p>Kiedy piszę, że&nbsp;wspomnienia są ożywiane i&nbsp;uwalniane dzięki opisom różnych przestrzeni, narzuca się pytanie, do kogo te wspomnienia należą? Patrząc na&nbsp;to z&nbsp;formalnej, narratologicznej perspektywy, można powiedzieć, że&nbsp;opisy i&nbsp;wspomnienia wytwarzane są przez zewnętrznego narratora, aktanta, który nie jest bohaterem tej opowieści. Jednak z&nbsp;perspektywy mnemotechnicznej wygląda na&nbsp;to, że&nbsp;wspomnienia te pozostają w&nbsp;bliskiej łączności z&nbsp;opisywanymi pomieszczeniami. Skupienie na&nbsp;konkretnej przestrzeni pobudza w&nbsp;ten czy inny sposób wspomnienia z&nbsp;nią związane – zupełnie jakby należały do przestrzeni, a&nbsp;nie do osoby. Zewnętrzny narrator nadaje formę wspomnieniom, które w&nbsp;istocie należą do budynku. Jawi się on w&nbsp;efekcie jako miejsce nawiedzone, pochłonięte przez wspomnienia i&nbsp;opowieści. Może zostać wyzwolony spod jarzma tego mnemonicznego widma jedynie przez zewnętrznego narratora, który opowie o&nbsp;uwięzionych w&nbsp;nim wspomnieniach.</p> <p>To rzecz jasna tylko kwestia sposobu mówienia. Wspomnienia nie są przecież nigdy ani przedstawione, ani wypowiedziane jako subiektywna relacja o&nbsp;tym, co się zdarzyło w&nbsp;przeszłości. Z&nbsp;narratologicznego punktu widzenia można powiedzieć, że&nbsp;nie ma tu żadnej fokalizacji przypisanej konkretnemu bohaterowi. Tak zwane wspomnienia nie tylko opowiada, ale także „widzi” zewnętrzny narrator. Ta paradoksalna sytuacja ujawnia niespodziewaną cechę tych wyliczanek i&nbsp;list. W&nbsp;przeciwieństwie do narracji listy nie są w&nbsp;stanie oddać subiektywnej wizji. Oznacza to, że&nbsp;fokalizacja nigdy nie wiąże się z&nbsp;postacią, ale zawsze z&nbsp;zewnętrznym narratorem, albo w&nbsp;tym przypadku twórcą list, który narzuca swoją fokalizację wyliczanym przedmiotom. Ta wymuszona wizja sprawia (niejako z&nbsp;definicji) wrażenie „wszystkowiedzącej”, obiektywnej i&nbsp;wszechwiedzącej w&nbsp;sensie narratologicznym.</p> <p>Kiedy czyta się w&nbsp;ten sposób <em>Życie. Instrukcję obsługi</em> – to znaczy, kiedy traktuje się je jako alegorię spisu archiwalnego, czytanego i&nbsp;analizowanego przez użytkownika archiwum, powiedzmy, historyka – tekst obnaża paradoksalny status tego, co taki użytkownik-historyk może powiedzieć na&nbsp;podstawie swoich archiwalnych poszukiwań. Cały materiał zostaje zamrożony w&nbsp;czasie. Ze względu na&nbsp;nałożoną na&nbsp;ten materiał strukturę także jego subiektywny wymiar został zawieszony i&nbsp;przekształcony w&nbsp;obiekt – i&nbsp;coś obiektywnego. Takie obiekty nazywamy zazwyczaj dokumentami. Podobnie jak przestrzenie mogą one być nawiedzone, wypełnione wspomnieniami i&nbsp;historiami. Jednak te wspomnienia i&nbsp;historie nie mogą zostać opowiedziane przez bohaterów opisanych w&nbsp;dokumentach. Potrzebny jest pośrednik, który wysłucha i&nbsp;dotrze do tych opowieści. Jest nim historyk rozumiany jako zewnętrzny narrator. Dzięki jego mediacji opowieści i&nbsp;wspomnienia mogą zostać wypowiedziane, choć za&nbsp;cenę utraty ich subiektywnego wymiaru i&nbsp;statusu. To właśnie nie może zostać ocalone w&nbsp;tłumaczeniu.</p> <h2>Na ile wymowne mogą być listy?</h2> <p>W <em>Życiu. Instrukcji obsługi</em> Pereca to nie konkretne przestrzenie opowiadają swoje historie, ale ten, kto tworzy listę, opisuje je po&nbsp;kolei. Narracja, w&nbsp;którą układają się te opisy, jest wynikiem rozwiązywania zagadki, kompletowania układanki. Pierwszym, który tego dokonuje, jest główny bohater, Bartlebooth. Jednak czynności wykonywane przez niego to jednocześnie ilustracja zmagań samego czytelnika z&nbsp;archiwalną powieścią, jaką jest <em>Życie. </em>Obraz układania puzzli wydaje się odpowiedni, ponieważ opowiadana historia tak dalece odbiega od konwencjonalnej narracji, że&nbsp;nie sposób za&nbsp;nią podążać. Jest tak dziwaczna i&nbsp;skomplikowana, że&nbsp;czytelnik niemal nie jest w&nbsp;stanie połączyć jej poszczególnych, rozsypanych kawałków w&nbsp;jedną sensowną całość. Ale to właśnie ta trudność sprawia, że&nbsp;czytelnik zaczyna przyglądać się swoim działaniom, możności i&nbsp;niemożności rozwiązania łamigłówki.</p> <p>Tworzenie listy bywa jednak również stosowane jako antidotum na&nbsp;narracyjność i&nbsp;narrację. Główny przykład takiej strategii wyliczania stanowią <em>Fragmenty dyskursu miłosnego </em>Rolanda Barthes’a (1977). Autor prezentuje tu język, którym posługujemy się, kiedy jesteśmy zakochani. Nie jest to ani język mówiony, ani pisany, ale raczej „obraz-repertuar”. Repertuar ten tworzy język pierwotny, który najlepiej porównać ze składem gestów, „scen” lub figur języka.</p> <p>Figury te nie występują w&nbsp;żadnym porządku. „Przez całe życie miłosne figury pojawiają się w&nbsp;głowie podmiotu zakochanego bez żadnego porządku, gdyż za&nbsp;każdym razem zależą od przypadku (wewnętrznego lub zewnętrznego)”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Inaczej opowieści miłosne. Te mają szczególny porządek, rządzą się konwencjonalnym zestawem reguł. Barthes nazywa te opowieści podporządkowanymi „narracji wielkiego Innego”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Opowieść miłosna podporządkowuje się opinii powszechnej:</p> <blockquote>(…) która nie ceni jakiejkolwiek przesady i&nbsp;pragnie, by podmiot sam ograniczył wielki wyobraźniowy wyciek, broczący w&nbsp;nim bez ładu i&nbsp;kresu do bolesnego kryzysu, z&nbsp;którego należy się wyleczyć<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>.</blockquote> <p>Opowieść miłosna to zatem cena, jaką zakochany/a musi zapłacić światu, by pozostać z&nbsp;nim w&nbsp;zgodzie, choć jednocześnie trwa w&nbsp;niemożliwym do zniesienia napięciu z&nbsp;całym tym repertuarem miłosnych figur i&nbsp;obrazów.</p> <p>Ustawiwszy opowieść o&nbsp;miłości i&nbsp;dyskurs miłosny na&nbsp;przeciwległych biegunach, Barthes musi teraz znaleźć sposób na&nbsp;przedstawienie dyskursu miłosnego bez uciekania się do narracji czy choćby pośredniego jej aktywowania, jak to się dzieje u&nbsp;Pereca. Rozwiązanie znajduje w&nbsp;spisaniu listy figur i&nbsp;obrazów tego repertuaru. Ta wyliczanka musi być jednak całkowicie arbitralna. Nie może odsyłać do żadnego znaczenia czy porządku, które mogłyby służyć jej za&nbsp;podstawę. Porządek rzeczy musi być „<span class="rozstrzelony">zupełnie nieznaczący</span>” (podkr. R.B.)<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. Każda figura z&nbsp;repertuaru obrazów zostaje nazwana, a&nbsp;następnie umieszczona na&nbsp;liście w&nbsp;kolejności alfabetycznej. Za&nbsp;przykład niech posłuży początek listy z&nbsp;następującymi wyrażeniami:</p> <blockquote><em>s’abîmer</em> / lecieć w&nbsp;otchłań<br> <em>absence</em> / nieobecność<br> <em>adorable</em> / cudowny<br> <em>affirmation</em> / afirmacja<br> <em>alternation</em> / zniekształcenie<br> <em>angoisse</em> / lęk</blockquote> <p>Barthes odrzuca narrację, ponieważ narracja miłosna musiałaby stać się opowieścią znaczącą albo jakąś „filozofią miłości”. Tymczasem chce on jedynie afirmować miłość, a&nbsp;nie stworzyć jej reprezentację lub znaczenie. Nadzieję powodzenia upatruje w&nbsp;archiwalnie uporządkowanym wyliczeniu.</p> <h2>Czego (na liście) pragnie kobieta</h2> <p>Na tworzeniu i&nbsp;przetwarzaniu list opiera się również praktyka artystyczna Sophie Calle. W&nbsp;przeciwieństwie do Pereca i&nbsp;w symbiozie z&nbsp;Barthes’em posługuje się ona listami bez odwołania do ich funkcji mnemotechnicznej. Jej projekty nigdy nie miały przeszłości i&nbsp;nie odsyłały do czasu przeszłego, są one bowiem w&nbsp;sposób radykalny osadzone w&nbsp;teraźniejszości i&nbsp;szukają swego celu w&nbsp;przyszłości. Listy tworzone przez Calle zawierają wyczerpujące zbiory szczegółów i&nbsp;sytuacji obserwowanych w&nbsp;teraźniejszości. W&nbsp;przypadku większości jej projektów listy te przedstawione są na&nbsp;dwa sposoby: jako instalacje w&nbsp;galeriach czy muzeach i&nbsp;jako książki artystyczne. Na&nbsp;listach tych znajdują się zazwyczaj fotografie, jak również teksty reporterskie lub dziennikarskie. Powstają zawsze według narzuconego sobie przez artystkę planu.</p> <p>Dobrym przykładem są <em>Les Dormeurs </em>(Śpiący) z&nbsp;1979 roku, projekt zrealizowany przez Calle, zanim jeszcze uznała siebie za&nbsp;artystkę. Zrobiła go – jak sama twierdzi – by „uciec od nudy” i&nbsp;zapełnić życiową pustkę<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. Zaprosiła nieznajomych, by spali w&nbsp;jej łóżku. Łóżko miało być zawsze zajęte. Każda z&nbsp;zaproszonych osób miała spać w&nbsp;jej łóżku przez osiem godzin, a&nbsp;następnie zostać obudzona przez kolejną osobę, która miała tam spać przez kolejne osiem godzin. Rytuał ten powtarzano przez osiem dni. Przez cały czas Sophie Calle stała nieopodal, fotografując co godzinę i&nbsp;zapisując wszystko, co śpiący w&nbsp;jej łóżku mówili w&nbsp;podejmowanych z&nbsp;nią rozmowach. Ważne było dla niej, aby rozmowy te pozostały neutralne i&nbsp;zdystansowane. Nie mogły stać się nazbyt osobiste, choć toczyły się w&nbsp;intymnej przestrzeni jej własnej sypialni.</p> <p>W wyniku tych działań powstała praca, na&nbsp;którą składa się lista stu siedemdziesięciu sześciu czarno-białych fotografii i&nbsp;dwudziestu trzech tekstów. Nie tworzą one żadnej narracji. Między fotografowanymi chwilami nie ma jakiejkolwiek ciągłości. Pojawiają się po&nbsp;prostu jedna po&nbsp;drugiej co godzinę. Każda fotografia i&nbsp;rozmowa stanowi jedynie zapis chwili. Biorąc pod&nbsp;uwagę wymiar czasu, projekt Calle można porównać do <em>Tentative d’épuisement d’un lieu parisien</em> Pereca, który również jest wynikiem radykalnego ograniczenia się do czasu teraźniejszego i&nbsp;niemal całkowitej neutralizacji funkcji mnemotechnicznej.</p> <p>Innym przykładem tworzenia list przez Calle jest jej <em>The Address Book</em>, praca pierwotnie wykonana w&nbsp;1983 roku, ale wydana w&nbsp;formie książkowej w&nbsp;2009 roku. Jedyną jej narracyjną część stanowi umieszczony na&nbsp;początku scenariusz. To także jedyne miejsce, w&nbsp;którym pojawia się czas przeszły – już w&nbsp;trzecim zdaniu zmieniający się na&nbsp;czas przyszły. Plan tego projektu wygląda następująco:</p> <blockquote><b>Paryż<br> Koniec czerwca<br> 1983</b><br> Na&nbsp;Rue des Martyrs znalazłam notes z&nbsp;adresami<br> Postanowiłam skopiować zawartość notesu przed anonimowym odesłaniem go właścicielowi, którego adres znajdował się na&nbsp;końcu. Skontaktuję się z&nbsp;ludźmi, których adresy znajdują się w&nbsp;notesie. Powiem im „Przypadkiem znalazłam na&nbsp;ulicy notes z&nbsp;adresami. Był tam Pana/Pani numer. Chciałabym się z&nbsp;Panem/Panią spotkać”. Poproszę, żeby opowiedzieli mi o&nbsp;właścicielu notesu, którego nazwisko wyjawię jedynie podczas spotkania, jeśli się na&nbsp;nie zgodzą<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>.</blockquote> <p>Na podstawie tego scenariusza Calle pozna właściciela notesu Pierre’a D. Pozna go za&nbsp;pośrednictwem jego przyjaciół i&nbsp;znajomych, nigdy nie spotykając go samego osobiście. Rozmowy z&nbsp;przyjaciółmi i&nbsp;znajomymi mężczyzny złożą się na&nbsp;jego portret. Podczas rozmów artystka fotografuje przedmioty i&nbsp;sceny, które także staną się elementami tego portretu. Na&nbsp;przykład, gdy jeden z&nbsp;rozmówców mówi: „Odwiedzając mnie, lubi siadać na&nbsp;tym krześle”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>, Calle robi zdjęcie krzesła. Po&nbsp;scenariuszu w&nbsp;książce następuje osobny tekst zawierający opis notesu, szczegółowy katalog fizycznych cech tego małego zeszyciku, jak również inwentarz nazwisk znajdujących się w&nbsp;nim pod&nbsp;każdą literą alfabetu oraz nazwy krajów i&nbsp;miast, w&nbsp;których mieszkają wpisani do niego ludzie.</p> <p>Po tych dwóch wstępnych tekstach pojawiają się zapisy rozmów z&nbsp;przyjaciółmi i&nbsp;znajomymi mężczyzny. Każdą z&nbsp;nich otwiera informacja o&nbsp;dniu tygodnia i&nbsp;porze dnia spotkania, a&nbsp;także imię i&nbsp;inicjał nazwiska rozmówcy/rozmówczyni. Niektóre osoby mówią niezwykle osobiste rzeczy, inne, tłumacząc się bliskimi kontaktami z&nbsp;mężczyzną, odmawiają powiedzenia czegokolwiek. Niektórzy nie widzieli się z&nbsp;Pierre’em D. przez ponad pięć czy sześć lat; inni widzieli go zaledwie parę dni wcześniej. Choć rozmowy i&nbsp;fotografie pojawiają się w&nbsp;porządku chronologicznym (czyli tak, jak pierwotnie były publikowane w&nbsp;dzienniku „Libération” między 2 sierpnia a&nbsp;4 września 1983 roku), to nie znaczy to, że&nbsp;taki sposób prezentacji tworzy narrację opartą na&nbsp;czasowym następstwie. Między rozmowami nie ma żadnej relacji czasowej. Nie stanowią one też osobnych rozdziałów powieści, po&nbsp;prostu pojawiają się kolejno na&nbsp;liście. Tym, co je łączy, nie są zdarzenia, lecz temat: Pierre D.</p> <p>Niektóre z&nbsp;nowszych prac Calle zdają się na&nbsp;pierwszy rzut oka zmierzać w&nbsp;nieco innym kierunku, będąc wyliczeniami raczej wspomnień niż reporterskich obserwacji artystki. Nawet te listy wspomnień nie tworzą jednak narracji o&nbsp;przeszłości. Wspomnienia te są aktami dokonywanymi w&nbsp;teraźniejszości, nawet jeśli treść każdego z&nbsp;nich jest zapisem chwili z&nbsp;przeszłości. Te akty pamięci nie odtwarzają żadnej historii życia. To jedynie wyliczanie tego, co Calle pamięta tu i&nbsp;teraz. Twórczość Calle, jak się zdaje, tworzy archiwum badawcze. Unikając nostalgicznych poszukiwań przeszłości zgubionej w&nbsp;archiwum, artystka tworzy archiwalne spisy, przekształcając scenariusze w&nbsp;sekwencje fikcyjnych sytuacji, które stają się następnie nowymi rzeczywistościami.</p> <p>Listy i&nbsp;spisy są w&nbsp;takim samym stopniu wypadkową przedsięwziętego planu organizacji świata, nałożonych kategorii, co wyobraźni tworzącej je osoby. Ostatecznie listy są końcowym zdarzeniem, skutkiem rozciągniętego w&nbsp;czasie procesu. Zgłębiając retorykę list i&nbsp;wyliczanek Georges Perec odgrywa konflikt między opowiadaniem historii a&nbsp;wyliczaniem. Lista stanowi dla niego warunek funkcji mnemotechnicznej oraz narracji, sugeruje jednocześnie ich bliski związek. Roland Barthes poszukuje sposobu na&nbsp;oddanie dyskursu miłosnego poza narracją i&nbsp;bez pośredniego odsyłania do narracji, inaczej niż robi to Perec. Rozwiązanie znajduje w&nbsp;uporządkowaniu miłosnego repertuaru w&nbsp;listę figur i&nbsp;obrazów. W&nbsp;przypadku Calle listy stanowią narzędzie stawania się: coś nieistniejącego lub jeszcze nie istniejącego, coś bezsensownego – można nazwać to fikcją – zaczyna się dziać, zaczyna istnieć, albo po&nbsp;prostu staje się. Na&nbsp;etapie układania scenariusza wyobrażone sytuacje wciąż były fikcyjne. Realizowanie scenariusza i&nbsp;umieszczanie na&nbsp;liście kolejnych zaplanowanych sytuacji przemieniło fikcję w&nbsp;rzeczywistość. Sporządzane przez Calle spisy zaplanowanych sytuacji rejestrują momenty transformacji, fikcyjne momenty, które staję się czymś, co naprawdę się wydarzyło. Jej scenariusze tworzą listy możliwości poza istniejącymi sytuacjami.</p> <p></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Artykuł jest fragmentem rozdziału <em>Listing</em> książki Ernsta van Alphena, <em>Staging the Archive. On Life and Death</em>, która ukaże się nakładem wydawnictwa Reaktion Books. Przekład publikujemy dzięki uprzejmości autora.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Georges Perec, <em>Niektóre z rzeczy, które chciałbym zrobić przed śmiercią</em>, przeł. J. Olczyk, w: idem, <em>Urodziłem się</em>, Lokator, Kraków 2012, s. 209.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>James Joyce, <em>Ulisses</em>, przeł. M. Słomczyński, Wydawnictwo Zielona Sowa, Kraków 1997, s. 238.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Georges Perec, <em>Przestrzenie</em>, przeł. W. Brzozowski, „Literatura na Świecie” 1995, nr 11–12, s. 166.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Ibidem, s. 166.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Ibidem, s. 167.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Polskie tłumaczenie nie zawiera całości <em>Espèces d’espaces</em>, więc dalej tłumaczę za angielskim przekładem książki Pereca, cytowanym przez autora: Georges Perec, <em>Species of Spaces and Other Pieces,</em> przeł., wstęp i red. J. Sturrock, Penguin, Londyn 2008, s. 91 [przyp. tłum.].</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Ibidem, s. 92.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Polski przekład za: Georges Perec, <em>An Attempt at Exhausting a Place in Paris, </em>przeł. M. Lowenthal, Wakefield Press, Cambridge 2010, s. 12.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Ibidem, s. 33.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>Georges Perec, <em>Życie. Instrukcja obsługi</em>, przeł. W. Brzozowski, Korporacja Ha!art, Kraków 2009, s. 291.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Ibidem, s. 290.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>Roland Barthes, <em>Fragmenty dyskursu miłosnego</em>, przeł. M. Bieńczyk, Wydawnictwo KR, Warszawa 1999, s. 43.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Ibidem, s. 44.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>Ibidem.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>Ibidem.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>Sophie Calle, <em>The Reader, </em>White Chapel Gallery, Londyn 2009, s. 50.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>Sophie Calle, <em>The Address Book, </em>Siglio, Los Angeles 2012, s. 1.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>Ibidem, s. 53.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/spis-rzeczy-wsparcie-i-blokada-pamieci" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

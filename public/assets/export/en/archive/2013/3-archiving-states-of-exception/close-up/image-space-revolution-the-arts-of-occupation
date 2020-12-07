@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Obraz, przestrzeń, rewolucja. Wszystkie sztuki okupacji | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/archiwa-stanow-wyjatkowych/obraz-przestrzen-rewolucja.-wszystkie-sztuki-okupacji">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Obraz, przestrzeń, rewolucja. Wszystkie sztuki okupacji | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Obraz, przestrzeń, rewolucja. Wszystkie sztuki okupacji | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/archiwa-stanow-wyjatkowych/obraz-przestrzen-rewolucja.-wszystkie-sztuki-okupacji">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Obraz, przestrzeń, rewolucja. Wszystkie sztuki okupacji | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #25aa93 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #25aa93 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #25aa93 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #25aa93 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #25aa93 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #25aa93 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #25aa93 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #25aa93 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(37,170,147,0.8) !important; */
+			/* background-color:#25aa93 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(37,170,147,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#25aa93 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(37,170,147,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#25aa93; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(37,170,147,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(37,170,147,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#25aa93 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#25aa93 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#25aa93 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1270 parent-id-1216">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="421" data-selected-issue-color="#25aa93" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/3-archiving-states-of-exception#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/3-archiving-states-of-exception/image-space-revolution-the-arts-of-occupation">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/archiwa-stanow-wyjatkowych#toc">3</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/archiwa-stanow-wyjatkowych/obraz-przestrzen-rewolucja.-wszystkie-sztuki-okupacji?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Obraz, przestrzeń, rewolucja. Wszystkie sztuki okupacji<SUP><A NAME="sdfootnote1anc" HREF="#sdfootnote1sym"><SUP>1</SUP></span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/archiwa-stanow-wyjatkowych/obraz-przestrzen-rewolucja.-wszystkie-sztuki-okupacji?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=485">W.J.T. Mitchell </a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Przełożył: 
+		
+		Łukasz Zaremba
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Jesienią 2011 roku Najwyższa Rada Kultury w&nbsp;Egipcie zaprosiła mnie do wygłoszenia odczytu na&nbsp;temat światowego ruchu Occupy. Miał on być częścią uroczystości uświetniających pierwszą rocznicę rewolucji egipskiej. W&nbsp;zaproszeniu (odłożonym na&nbsp;przyszłość ze względu na&nbsp;wciąż niepewny los rewolucji) zastrzegano, że&nbsp;w&nbsp;swojej wypowiedzi powinienem rozważyć „rolę obrazów i&nbsp;mediów w&nbsp;rewolucji 25 stycznia i&nbsp;w ruchu Occupy Wall Street”. Ten tekst jest odpowiedzią na&nbsp;to zaproszenie.</p> <h2>Occupatio</h2> <p>Czy istnieje jakiś dominujący globalny obraz – nazwijmy go obrazem światowym – łączący ruch Occupy z&nbsp;arabską wiosną? Albo (by zdecydowanie ograniczyć pole namysłu) czy istnieje jakiś jeden obraz, któremu udało się uchwycić – a&nbsp;może wręcz sprowokować – wyraźnie widoczną synergię i&nbsp;zaraźliwe, wzajemne naśladownictwo pomiędzy placem Tahrir a&nbsp;parkiem Zuccottiego? Odpowiedź na&nbsp;te pytania należałoby zacząć od wskazania radykalnych różnic pomiędzy tymi miejscami i&nbsp;rozgrywającymi się tam wydarzeniami. Arabska wiosna to seria mniej lub bardziej „twardych” klasycznych rewolucji, związanych w&nbsp;jakimś stopniu z&nbsp;przemocą i&nbsp;żądaniami zmiany ustroju. Amerykański ruch Occupy kontynuował natomiast „miękką” rewolucję, rozpoczętą wraz z&nbsp;wyborem Baracka Obamy na&nbsp;prezydenta – prezydenta, którego przemówienie wygłoszone przed połączonymi izbami amerykańskiego Kongresu w&nbsp;2012 roku (<em>State of the Union address</em>) powtarzało wiele żądań tego ruchu. Te dwie postaci rewolucji dnia dzisiejszego mają także pewien zaskakujący rys lustrzanego podobieństwa. Twarde rewolucje arabskiej wiosny, które żądają po&nbsp;prostu demokracji, wolności obywatelskich i&nbsp;przyzwoitej gospodarki Keynesowskiej, okazują się inspiracją dla ruchu amerykańskiego skupionego na&nbsp;jądrze amerykańskiego kapitalizmu – nie na&nbsp;państwie, lecz na&nbsp;systemie powszechnie uważanym za&nbsp;źródło korupcji państwa i&nbsp;całego życia politycznego. Ruch Occupy Wall Street, umiarkowany i&nbsp;wstrzemięźliwy w&nbsp;działaniach taktycznych (zajmowanie przestrzeni publicznych bez użycia przemocy), był bardzo radykalny w&nbsp;żądaniach i&nbsp;(jak powiedzieliby niektórzy) jeszcze bardziej radykalny w&nbsp;początkowej odmowie przypisania sobie konkretnych żądań. Właśnie to łączyło go z&nbsp;placem Tahrir, uparcie obstającym przy antyikonicznym repertuarze obrazów, które nie władają i&nbsp;nie przedstawiają władzy. Plac Tahrir mógł mieć konto na&nbsp;Facebooku, odmówił jednak przyjęcia jakiejkolwiek <span class="rozstrzelony">twarzy</span> jako awatara rewolucji. Po&nbsp;części było to oczywiście działanie taktyczne – gdyby policja poznała taką twarz, szybko przecież zaaresztowałaby i&nbsp;poddała torturom powiązane z&nbsp;nią ciało. Zarazem jednak była to istotna cecha ideologiczna ruchu Occupy, podkreślającego znaczenie ikonografii anonimowości i&nbsp;braku władzy, wyrzekającego się twarzy i&nbsp;postaci charyzmatycznego lidera na&nbsp;rzecz twarzy w&nbsp;tłumie i&nbsp;twarzy tłumu, zespolonych mas. Gdy z&nbsp;tłumu wyłaniały się pojedyncze twarze, należały one do anonimowych jednostek lub były w&nbsp;nieskończoność powtarzającymi się <span class="rozstrzelony">maskam</span>i, jak wyszczerzone w&nbsp;uśmiechu oblicze Guya Fawkesa, wyjątkowo niezręcznej i&nbsp;nietrafionej ikony rewolucji, która zrezygnowała z&nbsp;przemocy<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>.</p> <p>Dlatego właśnie ikoniczne chwile, obrazy zapowiadające się na&nbsp;pomniki globalnej rewolucji 2011 roku, nie ukazują <span class="rozstrzelony">twarz</span>y, lecz <span class="rozstrzelony">przestrze</span>ń; nie postacie, lecz ich negatyw czy też tło, wobec którego odnoszona jest postać. Figurą o&nbsp;globalnym obiegu, właściwą zarówno placowi Tahrir, jak i&nbsp;parkowi Zuccottiego, która być może została przeoczona – skrywa się bowiem na&nbsp;widoku – jest, rzecz jasna, figura samej <span class="rozstrzelony">okupacj</span>i. Okupacja i&nbsp;ruch Occupy nie mają jednak jednej określonej formy ani postaci poza dialektycznymi parami: masa i&nbsp;jednostka, zgromadzony tłum i&nbsp;samotna, anonimowa figura oporu. Trzeba również podkreślić, że&nbsp;okupacja jest nie tylko wizualną i&nbsp;fizyczną obecnością w&nbsp;przestrzeni, lecz także operacją dyskursywną i&nbsp;retoryczną. Wiąże się bezpośrednio z&nbsp;tropem <em>occupatio</em>, taktyką przewidywania argumentów adwersarza i&nbsp;uprzedzania ich, przejęcia inicjatywy w&nbsp;obszarze, o&nbsp;którym wiadomo, że&nbsp;pojawi się w&nbsp;nim opór i&nbsp;kontrargumenty<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. W&nbsp;kontekście retoryki przestrzeni publicznej <em>occupatio</em> oznacza zatem – o&nbsp;czym przypomina pierwotne znaczenie tego pojęcia – zajęcie pustej przestrzeni, która powinna być <em>res</em> <em>nullius</em>, nie należeć do nikogo, nie być własnością prywatną. To niezależne żądanie, żądanie <span class="rozstrzelony">obecnośc</span>i, żądanie, by zostać usłyszanym, zanim wysunie się jakiekolwiek konkretne żądania, żądanie, by społeczność mogła się gromadzić i&nbsp;przebywać w&nbsp;przestrzeni publicznej. Jednak wezwanie do <em>occupatio</em> pada z&nbsp;pełną świadomością, że&nbsp;przestrzeń publiczna w&nbsp;rzeczywistości jest już <span class="rozstrzelony">okupowana</span> przez państwo i&nbsp;policję, że&nbsp;jej <span class="rozstrzelony">spacyfikowany</span> i&nbsp;demokratyczny charakter, pozorna dostępność dla wszystkich, opiera się na&nbsp;stałej możliwości agresywnego wysiedlenia<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Zatem <em>occupatio</em> dąży w&nbsp;sporze nie tyle do wzięcia w&nbsp;posiadanie pustej przestrzeni, ile do sprowokowania reakcji i&nbsp;nadania jej z&nbsp;góry określonych ram.</p> <p>Równie ważnym jak pozytywne znaczenie zajęcia pustej przestrzeni, jest negatywne znaczenie <em>occupatio</em> jako <span class="rozstrzelony">wytwarzania</span> pustej przestrzeni, która paradoksalnie stanowi przestrzeń pełni i&nbsp;obfitości. Ta forma <em>occupatio</em> opisywana jest zwykle jako deklaracja rezygnacji z&nbsp;powiedzenia czegoś z&nbsp;jednoczesnym tego wypowiedzeniem. Rezygnację tę można tłumaczyć nieudolnością mówiącego lub niewydolnością samego medium, jak wówczas, gdy William Wordsworth obwieszcza: „Nie umiem tego wyrazić, czym byłem”, po&nbsp;czym zalewa czytelnika słowami<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Laurence Sterne nadaje tropowi <em>occupatio</em> dosłowną formę graficzną w&nbsp;<em>Tristramie Shandym</em> – wyznawszy niemożność opisania nieskończonej urody Wdowy Wadman, pozostawia pustą stronę, zachęcając czytelnika do jej wypełnienia.</p> <p>Ruch Occupy stanowi radykalną realizację retoryki <em>occupatio</em>. Odmawia bowiem szczegółowego opisu i&nbsp;zdefiniowania świata, który chce stworzyć, demonstrując jednocześnie rzeczywiste istnienie tego świata jako wyłaniającej się wspólnoty. Odrzuca żądania, by stawiać określone, praktyczne żądania, otwierając zarazem przestrzeń, w&nbsp;której można je bezustannie formułować. W&nbsp;ten sposób nie tyle deklaruje swoją niezdolność („Nie potrafimy powiedzieć, czego chcemy”), ile przyjmuje zasadę odmowy i&nbsp;celowego odroczenia („Nie czas na&nbsp;wygłaszanie żądań politycznych, pora zająć bardziej zasadnicze stanowisko wynikające z&nbsp;samego faktu naszej obecności w&nbsp;tym miejscu”). Ta strategiczna odmowa przejawia się w&nbsp;różnych, dobrze znanych taktykach, takich jak choćby czuwanie w&nbsp;milczeniu buddystów, którzy czasami towarzyszą Occupy; kneblowanie lub zaklejanie taśmą ust, aby zademonstrować ograniczenie wolności słowa i&nbsp;zgromadzeń; działanie „ludzkiego mikrofonu”, które zarazem wzmacnia mowę i&nbsp;ukazuje ograniczanie jej swobody przez siły policyjne zakazujące korzystania z&nbsp;wzmacniaczy dźwięku. Taktyki te wiążą się z&nbsp;ogólną strategią rezygnacji z&nbsp;wyłaniania przedstawicieli i&nbsp;rzeczników oraz obstawania przy polityce radykalnej równości i&nbsp;braku przywództwa. Innymi słowy, celem nie jest zdobycie władzy, lecz ukazanie latentnej władzy odmowy oraz stworzenie założycielskiej przestrzeni samej polityczności, tego, co Hannah Arendt nazywa „przestrzenią pojawiania się”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> – powstającą wówczas, gdy ludzie gromadzą się, by rozmawiać i&nbsp;działać jako równi. Jest to przestrzeń założycielska, ponieważ poprzedza politykę w&nbsp;potocznym rozumieniu, ustanawiając potencjalnie rewolucyjny i&nbsp;konstytutywny obszar zgromadzeń, mowy i&nbsp;działania.</p> <p>Zatem trop, jakim jest <span class="rozstrzelony">okupowani</span>e, zawiera paradoksalny wymiar czasowy i&nbsp;retoryczny – mówi poprzez odmowę mówienia (na razie); deklaruje poprzez odmowę składania deklaracji; podtrzymuje i&nbsp;przedłuża milczenie oraz tymczasowe powstrzymanie się od działania, nieuchronnie poprzedzające przecież liczne słowa i&nbsp;działania. Dlatego właśnie ruch Occupy oraz figura <em>occupatio</em> są werbalno-wizualnymi obrazami łączącymi rewolucyjne ruchy arabskiej wiosny i&nbsp;Occupy Wall Street. OWS nie inspirowało się celami arabskiej wiosny – takimi jak obalenie dyktatury i&nbsp;ustanowienie ustrojów demokratycznych – ale właściwym jej strategicznym zastosowaniem retoryki przestrzeni i&nbsp;taktyki okupacji.</p> <p>Wyjaśnia to, dlaczego na&nbsp;całym świecie wirusowo rozprzestrzeniał się właśnie ruch Occupy, nie zaś żadne jego konkretne żądania: usunięcia dyktatorów, wprowadzenia demokracji czy odrzucenia kapitalizmu. Occupy był w&nbsp;stanie rozwiązać niezliczone sprzeczności lub przynajmniej zapewnić im płaszczyznę porozumienia. Na&nbsp;placu Tahrir Bractwo Muzułmańskie rozbiło obóz obok koptyjskich chrześcijan, radykalnych fundamentalistów, świeckich liberałów i&nbsp;marksowskich rewolucjonistów. Prawicowi osadnicy syjonistyczni dołączyli na&nbsp;bulwarze Rothschilda w&nbsp;Tel Awiwie do antysyjonistycznych ultraortodoksów i&nbsp;świeckich Żydów, a&nbsp;przedstawiciele Tea Party pojawiali się na&nbsp;wiecach Occupy w&nbsp;różnych miejscach Stanów Zjednoczonych. Samo słowo <em>occupy</em> działało niczym magia homeopatyczna na&nbsp;dyskurs globalizacji, a&nbsp;właściwie na&nbsp;dyskurs jako taki. W&nbsp;formie nakazu (<span class="rozstrzelony">ty</span> okupuj / <span class="rozstrzelony">wy</span> okupujcie – <em>you</em> <em>occupy</em>) stało się ono uniwersalnym zwrotem do wszelkich możliwych odbiorców; interpelowało lub wzywało (by przywołać określenia Louisa Althussera<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>) cały świat i&nbsp;każdego człowieka z&nbsp;osobna. Jako czasownik przechodni wymagający dopełnienia bliższego (Wall Street, świat) mogło dowolnie poszerzać i&nbsp;kurczyć swój zasięg – od konkretnych miejsc (plac Tahrir, Wall Street) po&nbsp;cały świat. Czasownik <em>occupy</em> ostatecznie objął nawet obiekty teoretyczne, abstrakcyjne idee: Czas, Teorię, Dyscypliny, Sztukę, Wyobraźnię, Media, USA. Plakat ze słowami <em>Occupy Everything</em> [„Okupuj wszystko”] oddawał niekończący się zasięg tej figury, zilustrowany wykresem kołowym, którego dziewięćdziesiąt dziewięć procent było czarne, a&nbsp;maleńki wycinek bieli wskazywał jeden procent tych, którzy w&nbsp;rzeczywistości „okupują” większość dóbr tego świata. Jednocześnie słowo <em>occupy</em> przekształcało się z&nbsp;czasownika w&nbsp;rzeczownik i&nbsp;przymiotnik, jakby okupowało sam język. W&nbsp;wyrażeniu „ruch Occupy” następuje przypisanie słowu <em>occupy</em> funkcji przymiotnika określającego ruch, a&nbsp;w wielu innych użyciach pełni ono w&nbsp;zdaniu rolę podmiotu, zastępując mianownik „okupacja” (<em>occupation</em>), jak w&nbsp;zdaniu „Occupy dotarło do Oakland”.</p> <p><a name="tu"></a> Nieograniczona plastyczność gramatyczna to jedno, ale ruch Occupy zdołał także dokonać niesamowitego powtórzenia i&nbsp;parodystycznego odegrania poprzedzających go warunków, czyli okupacji świata przez globalny system, który uciskał i&nbsp;zubażał znaczną większość ludności świata oraz niszczył środowisko. Najbardziej widocznym objawem niesamowitości odwrócenia znaczenia „okupacji” było odejście od sensu, jaki to słowo miało w&nbsp;poprzedniej epoce, gdy określało militarny podbój i&nbsp;neokolonializm – inwazję i&nbsp;okupację Iraku i&nbsp;Afganistanu, wspieranie autorytarnych reżimów na&nbsp;Bliskim Wschodzie, czy trwającą pół wieku izraelską okupację ziem palestyńskich. Przez lata na&nbsp;dźwięk słowa „okupacja” do głowy przychodziła nam zapewne myśl o&nbsp;narzuceniu stanu wojennego w&nbsp;reakcji na&nbsp;społeczny opór, o&nbsp;produkowaniu dyktatur w&nbsp;imię walki z&nbsp;komunizmem (albo fundamentalizmem czy też terroryzmem) lub – w&nbsp;dawnym bloku sowieckim – pielęgnowaniu wolności i&nbsp;demokracji (jak się okazywało, dla rynku i&nbsp;kapitału spekulacyjnego, a&nbsp;nie człowieka). Nagle jednak słowo „okupacja” nabrało nowego sensu – zaczęło znaczyć odzyskiwanie przestrzeni publicznej przez masy ludzi pozbawionych prawa głosu, pokojowe, wolne od przemocy zajmowanie różnych miejsc w&nbsp;dążeniu do nowego początku, tworzenie przestrzeni założycielskiej dla sprawiedliwości, demokracji i&nbsp;równości<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>.</p> <p>Świat czekał na&nbsp;taką przeciwokupację. Nie wystarczyło już wezwanie do udziału w&nbsp;demonstracji, paradzie, tymczasowym zgromadzeniu. Różnica pomiędzy demonstracją a&nbsp;okupacją, oraz między sztukami właściwymi każdej z&nbsp;nich, jest niezwykle ważna. Siedzące protesty amerykańskiego ruchu praw obywatelskich były gestami okupacji, deklaracjami, że&nbsp;segregacja rasowa przestrzeni publicznej nie będzie dłużej tolerowana. Okupacja natomiast, poza swoimi przestrzennymi właściwościami, jest również sztuką trwania i&nbsp;cierpliwości, paradoksalną syntezą <span class="rozstrzelony">ruchu</span> społecznego i&nbsp;<span class="rozstrzelony">mobilizacji</span> z&nbsp;<span class="rozstrzelony">bezruche</span>m, odmową ruszenia się z&nbsp;miejsca. Jest to ruch, którego podstawowa maksyma brzmi (jak w&nbsp;klasycznym protest songu) „We Shall Not Be Moved” (nie damy się ruszyć). Zakłada potrzebę długiej kampanii, rewolucji rozumianej jako proces w&nbsp;czasie oraz nowego i&nbsp;stale odnawiającego się języka. Rewolucja nie jest wydarzeniem, które może się zakończyć, przejść do przeszłości i&nbsp;sprowadzić się do daty w&nbsp;kalendarzu. Jeden z&nbsp;plakatów głosił: „Straciłem pracę, ale znalazłem zajęcie (<em>occupation</em>)”. Occupy jest nie tyle pojedynczym, datowanym wydarzeniem, ile historycznym procesem znaczonym chwilami – sytuacjami trwającymi w&nbsp;czasie, wypełnionymi ulotnymi i&nbsp;momentalnymi zdarzeniami oraz doniosłymi punktami zwrotnymi i&nbsp;decydującymi chwilami. Occupy charakteryzują zatem nie tylko masowe zgromadzenia ludzi, ale również te drobne chwile, pozornie nieznaczące wydarzenia o&nbsp;katalizującym działaniu: jak samospalenie tunezyjskiego sprzedawcy owoców czy biwakowanie samotnego aktywisty na&nbsp;placu Parlamentu przez dziesięć lat<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>.</p> <p></p> <h2>Obraz, przestrzeń, rewolucja</h2> <blockquote>Działanie i&nbsp;mowa kreują przestrzeń między uczestnikami przedsięwzięcia, którzy mogą znaleźć swe właściwe miejsce niemal gdziekolwiek i&nbsp;kiedykolwiek. Jest to przestrzeń pojawiania się w&nbsp;najszerszym sensie tego słowa, mianowicie przestrzeń, gdzie pojawiam się innym, jak inni pojawiają się mnie [...]. <p></p> <p>Przestrzeń pojawiania się zostaje powołana do istnienia wszędzie, gdzie ludzie są razem na&nbsp;sposób działania i&nbsp;mowy, zatem jest ona czasowo i&nbsp;przyczynowo wcześniejsza niż wszelkie formalne stanowienie dziedziny publicznej i&nbsp;różne formy rządu, czyli różne formy organizacji dziedziny publicznej [...] inaczej niż przestrzenie będące dziełem naszych rąk, nie trwa dłużej niż rzeczywistość [<em>actuality</em>] ruchu, który ją powołał do istnienia, znika zaś nie tylko wraz z&nbsp;rozproszeniem ludzi [...], ale wraz z&nbsp;zanikiem lub zatrzymaniem samych czynności<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>.</p> </blockquote> <p>Jakie obrazy pełnią rolę ikon na&nbsp;tle takich przestrzeni jako plac Tahrir czy park Zuccottiego? Skoro wydarzenia te zakładały <span class="rozstrzelony">okupacj</span>ę, a&nbsp;nie wyłącznie <span class="rozstrzelony">demonstrację</span>, po&nbsp;której rozchodzimy się do domów, to można by wyróżnić obraz namiotu i&nbsp;obozowiska, znak wskazujący, że&nbsp;nie było to tymczasowe lub przejściowe zgromadzenie w&nbsp;rodzaju typowego wiecu politycznego, ale długotrwała manifestacja trwająca w&nbsp;czasie. Obok namiotów pojawiają się oczywiście wszelkie praktyczne oznaki zamieszkiwania i&nbsp;działania wioski. W&nbsp;malutkim parku Zuccottiego, podobnie jak na&nbsp;placu Tahrir, powstały punkty medyczne i&nbsp;punkty wymiany odzieży, budki z&nbsp;jedzeniem, biblioteki i&nbsp;centra komunikacyjne. Na&nbsp;placu Tahrir odbyły się uroczystości ślubne i&nbsp;urodziło się dziecko. Sceny te były pozytywnym odbiciem innej, dobrze znanej formy obozowiska, powszechnej dziś na&nbsp;świecie, czyli dzielnic nędzy i&nbsp;kleconych naprędce obozów dla uchodźców, pojawiających się wszędzie tam, gdzie jakaś społeczność zostaje przesiedlona, pozbawiona domu lub wrzucona w&nbsp;stan wyjątkowy. Na&nbsp;początku arabskiej wiosny miasteczka namiotowe można było spotkać w&nbsp;całym Izraelu, poczynając od modnego bulwaru Rothschilda w&nbsp;Tel Awiwie, a&nbsp;kończąc na&nbsp;mieszanych żydowsko-arabskich terenach na&nbsp;południe od Jaffy<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Czasami pojawiały się i&nbsp;negatywne, i&nbsp;pozytywne formy obozu, jak w&nbsp;Oslo na&nbsp;przełomie 2011 i&nbsp;2012 roku, gdzie palestyńscy uchodźcy schronili się na&nbsp;pustej parceli obok kościoła św. Jakuba i&nbsp;mieszkali tam przez całą srogą norweską zimę w&nbsp;widocznym geście protestu publicznego. Obozy i&nbsp;zgromadzenia Occupy szybko jednak stały się tłem czy też przestrzenią odniesienia, w&nbsp;relacji do której pojawiała się oszałamiająca różnorodność obrazów werbalnych i&nbsp;wizualnych. Rodzi się więc kolejne pytanie: jakie pozytywne i&nbsp;swoiste dla tego ruchu obrazy pozostaną trwałymi ikonami globalnej rewolucji 2011 roku? Jakie pomniki upamiętnią serię demokratycznych powstań, które przetoczyły się po&nbsp;świecie – od samospalenia handlarza owoców w&nbsp;Tunezji po&nbsp;okupację placu Tahrir i&nbsp;Occupy Wall Street?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1022-1-pb-1920x-20c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1022-1-pb-330x-037.jpg 330w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1022-1-pb-660x-f3b.jpg 660w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1022-1-pb-768x-27a.jpg 768w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1022-1-pb-1320x-530.jpg 1320w" src="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1022-1-pb-660x-f3b.jpg" alt="" ></a>    <figcaption><p>il. 1. <a href="http://www.huffingtonpost.com/2011/12/06/occupy-cinema-screening_n_1132136.html" target="_blank" rel="noopener">Zob. żródło</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Mogłoby się zdawać, że&nbsp;masowa erupcja kreatywności w&nbsp;tym roku kryzysu – miliony obrazów przedstawianych na&nbsp;banerach, wykrzykiwanych w&nbsp;hasłach, obecnych w&nbsp;filmach wideo, na&nbsp;fotografiach, plakatach, w&nbsp;kostiumach i&nbsp;w performensach – uniemożliwi stworzenie wyczerpującego, systematycznego ujęcia. Tempo i&nbsp;ogromne możliwości archiwistyczne mediów cyfrowych sprawiają zarazem, że&nbsp;materiały te są w&nbsp;pełni dostępne – łatwo je odszukać i&nbsp;odzyskać, co jednocześnie grozi badaczowi zatonięciem w&nbsp;tsunami źródeł<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Już w&nbsp;punkcie wyjścia zauważyć jednak można pewien dialektyczny stosunek pomiędzy obrazami triumfalnego oporu i&nbsp;radości z&nbsp;jednej strony, a&nbsp;obrazami upodlenia, poniżenia i&nbsp;policyjnej przemocy z&nbsp;drugiej. Bez wątpienia przetrwają ikony pozytywne, takie jak balerina z&nbsp;magazynu „Adbusters” tańcząca na&nbsp;byku na&nbsp;Wall Street, oblicze rewolucyjnej idei wcielone w&nbsp;maskę Guya Fawkesa, ślub na&nbsp;placu Tahrir lub po&nbsp;prostu masy zjednoczone w&nbsp;święcie demokratycznego entuzjazmu. Równie ważne będą także zdjęcia reporterskie i&nbsp;filmy wideo ukazujące oburzającą przemoc wobec pokojowych demonstrantów – atak kawalerii na&nbsp;plac Tahrir, ataki gazem pieprzowym na&nbsp;protestujących w&nbsp;Oakland, Berkeley i&nbsp;w parku Zuccotiego. Parę zdjęć – z&nbsp;baleriną (il. 1) i&nbsp;z „kobietą w&nbsp;niebieskim staniku” (il. 2) – można uznać za&nbsp;emblematyczne przedstawienie podstawowych skrajności związanych z&nbsp;ruchem Occupy: pozytywnego celu, jakim jest odzyskanie przestrzeni publicznej przez ludzi, i&nbsp;celu negatywnego, jakim jest ujawnienie systemowej przemocy kryjącej się za&nbsp;zasłoną „bezpieczeństwa publicznego”, „stabilności” i&nbsp;„bezpieczeństwa”.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1026-1-pb-1920x-20c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1026-1-pb-330x-037.jpg 330w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1026-1-pb-660x-f3b.jpg 660w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1026-1-pb-768x-27a.jpg 768w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1026-1-pb-1320x-530.jpg 1320w" src="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1026-1-pb-660x-f3b.jpg" alt="" ></a>    <figcaption><p>il. 2. <a href="http://www.npr.org/blogs/pictureshow/2011/12/21/144098384/the-girl-in-the-blue-bra" target="_blank" rel="noopener">Zob. żródło</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Nieprzypadkowo oba te ikoniczne obrazy pokazują kobiety. Taktyka unikania przemocy ma bowiem z&nbsp;istoty kobiece i&nbsp;feministyczne konotacje, wyraźnie przeciwstawne maczystowskiej przemocy, którą wywołuje. (Tradycja ta sięga <em>Lizystraty</em> i&nbsp;oporu kobiet wobec męskiej przemocy). Balerina nie próbuje zabić byka, lecz zamienia go w&nbsp;rekwizyt do swojego występu. „Kobieta w&nbsp;niebieskim staniku” nie odwzajemnia przemocy, ale zmusza policję do odegrania właściwej jej roli w&nbsp;przedstawieniu aktywnego unikania przemocy. Niczym Martin Luther King wobec wozów pożarniczych i&nbsp;policyjnych psów „Byka” Connora w&nbsp;Birmingham w&nbsp;stanie Alabama, obie te kobiety występują jako artystki-performerki. Jedna z&nbsp;nich jest ulotna, wyobrażeniowa, widmowa, przeciwstawia się grawitacji i&nbsp;fizycznym ograniczeniom – w&nbsp;najbardziej jaskrawy sposób w&nbsp;hologramowym wcieleniu OccupyCinema.org – tańcząc na&nbsp;plecach prawdziwego byka Wall Street po&nbsp;usunięciu rzeczywistego obozu Occupy. Druga jest aż&nbsp;nadto prawdziwą, realną i&nbsp;cielesną – nie wyłącznie symboliczną – istotą ludzką z&nbsp;krwi i&nbsp;kości, która staje się ulotna, wirtualna i&nbsp;w lot trafia do obiegu wiralowego, powracając po&nbsp;paru dniach, by nawiedzać rzeczywistą przestrzeń placu Tahrir na&nbsp;sztandarach egipskiego ruchu kobiecego (il. 3)<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1029-1-pb-1920x-20c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1029-1-pb-330x-037.jpg 330w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1029-1-pb-660x-f3b.jpg 660w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1029-1-pb-768x-27a.jpg 768w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1029-1-pb-1320x-530.jpg 1320w" src="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1029-1-pb-660x-f3b.jpg" alt="" ></a>    <figcaption><p>il. 3. <a href="http://doomspirals.wordpress.com/2012/02/" target="_blank" rel="noopener">Zob. żródło</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Choć te obrazy (i wiele innych) pozostaną ikonami światowego ruchu Occupy, nie sądzę, by stały się pomnikami rewolucji roku 2011. Obrazy mogą ożyć jedynie wobec tła. Każda figura wymaga tła, podstawy, krajobrazu albo środowiska, w&nbsp;którym się pojawia i&nbsp;porusza. Sądzę, że&nbsp;w&nbsp;kwestii prawdziwie trwałych pomników rewolucji musimy podążać za&nbsp;słynną analizą rewolucji francuskiej Julesa Micheleta i&nbsp;jego deklaracją, że&nbsp;właściwym pomnikiem rewolucji jest <span class="rozstrzelony"> pusta przestrzeń</span> i&nbsp;określone miejsce, w&nbsp;którym rozegrały się jej najważniejsze wydarzenia.</p> <blockquote>Pola Marsowe! To jedyny pomnik pozostawiony przez Rewolucję. Imperium ma swoją Kolumnę, zawłaszcza dla siebie łuk triumfalny. Władza królewska ma swój Luwr, Szpital Inwalidów; w&nbsp;Notre Dame wciąż panuje feudalny kościół z&nbsp;XII wieku; mało tego, sami Rzymianie mają swoje ruiny imperium, Termy Cezara! <p></p> <p>A Rewolucja ma za&nbsp;pomnik pustą przestrzeń<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>.</p> </blockquote> <p>Pola Marsowe, pierwotnie teren parad wojskowych, stały się obszarem zarówno uroczystości, jak i&nbsp;katastrof rewolucji, zaczynając od pierwszego Dnia Zdobycia Bastylii 14 lipca 1790 roku, po&nbsp;którym, rok później nastąpiła przeprowadzona przez Gwardię Narodową masakra obywateli, zebranych tam w&nbsp;celu podpisania petycji żądającej usunięcia króla. Był to jednocześnie obszar pierwszych prób monumentalizacji rewolucji – między innymi <em>Święta Istoty Najwyższej</em>, znanego z&nbsp;obrazu Pierre-Antoine’a Demachy’ego z&nbsp;1794 roku; święta, z&nbsp;okazji którego zbudowano sztuczną górę z&nbsp;Drzewem Wolności. W&nbsp;tym samym miejscu na&nbsp;gilotynie zginął pierwszy burmistrz Paryża.</p> <p>Według Micheleta żaden z&nbsp;tych obrazów i&nbsp;żadne z&nbsp;wydarzeń nie przetrwało jednak jako ikoniczny pomnik rewolucji francuskiej – „jedynym pomnikiem” jest „pusta przestrzeń” Pól Marsowych. Podobna logika, jak sądzę, działa w&nbsp;przypadku rewolucji roku 2011. Liczne place, skwery i&nbsp;otwarte przestrzenie miejskie na&nbsp;całym świecie, od placu Tahrir po&nbsp;park Zuccottiego, same w&nbsp;sobie są właściwymi pomnikami ruchu Occupy. Choć różni je historia i&nbsp;architektura, to wszystkie łączy pustka, wszystkie odgrywają rolę Heideggerowskiej „polany”, otwarcia w&nbsp;gęstej tkaninie miasta, a&nbsp;zatem miejsca zgromadzeń. Ich pustka jest świadectwem ich historyczności (tego, co Hannah Arendt nazwała „przestrzenią pojawiania się”). Są to miejsca, w&nbsp;których wspólna mowa polityczna i&nbsp;wspólne działania pojawiają się i&nbsp;mogą równie szybko zniknąć w&nbsp;widmowej pamięci „wraz z&nbsp;zanikiem lub zatrzymaniem samych czynności”.</p> <p>Łączy je również epidemiczna czasowość – sposób, w&nbsp;jaki puste przestrzenie publicznych zgromadzeń za&nbsp;sprawą współczesnej cyberprzestrzeni i&nbsp;jej związku z&nbsp;mediami masowymi stawały się formą globalnej wspólnoty terytorium. Pusta przestrzeń współczesnej rewolucji jest zatem trójwarstwową przestrzenią, którą tworzy (1) cielesna bezpośredniość, swoistość miejsca, intymna bliskość, symbolizowana przez „ludzki mikrofon” przypominający o&nbsp;słynnej deklaracji Jean-Jacques’a Rousseau, że&nbsp;założycielską sceną demokracji są zgromadzone masy, do których kierowany jest dźwięk ludzkiego głosu; (2) poszerzona przestrzeń społeczna osiągana dzięki mediom społecznościowym, jak Twitter, Facebook, YouTube, poczta internetowa itd; oraz (3) wzmocnienie i&nbsp;powielenie zarówno niezapośredniczonych, jak i&nbsp;społecznie zapośredniczonych przestrzeni w&nbsp;przekazie mediów masowych. To, co dzieje się na&nbsp;placu Tahrir jest bowiem powtarzane w&nbsp;Madison w&nbsp;stanie Wisconsin i&nbsp;w parku Zuccottiego, w&nbsp;całym świecie arabskim, i&nbsp;dalej.</p> <p>I rzeczywiście – wielkie rewolucje oświecenia wykorzystywały dokładnie tę samą strukturę mediacji, mimo wyraźnie odmiennych możliwości technicznych. Rewolucja francuska była nie tylko procesem gromadzenia mas w&nbsp;rzeczywistych przestrzeniach, jak Pola Marsowe, ale również procesem wirtualnym, zapośredniczonym. Jak zauważył William Hazlitt, rewolucja to „odległa, choć nieuchronna konsekwencja wynalezienia sztuki drukarskiej”. Thomas Carlyle zaś określił epokę rewolucyjną jako „Wiek Papieru”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. Społeczności epistolarne i&nbsp;usługi pocztowe są strukturalnym odpowiednikiem dzisiejszych mediów społecznościowych, zaś niekoncesjonowany druk pamfletów i&nbsp;ulotek z&nbsp;manifestami okupował nowe puste przestrzenie kultury druku<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>.</p> <p>Nie ma oczywiście gwarancji, że&nbsp;te puste przestrzenie, rzeczywiste czy wirtualne, pozostaną obszarami demokratycznymi lub choćby rewolucyjnymi. Pola Marsowe były terenem parad wojskowych oraz miejscem, gdzie rewolucja francuska przerodziła się w&nbsp;orgię przemocy. Zbrojna reakcja na&nbsp;różne okupacje przestrzeni publicznych w&nbsp;Stanach Zjednoczonych została skoordynowana podczas telekonferencji z&nbsp;udziałem burmistrzów co najmniej osiemnastu amerykańskich miast<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. Wspólnota nie jest po&nbsp;prostu pustą przestrzenią, którą można sobie wziąć, ale polem bitwy, gdzie zwalczane są możliwości demokracji i&nbsp;rewolucyjnej zmiany.</p> <p>Musimy bliżej przyjrzeć się zagadnieniom pomnikowego obrazu oraz pustej przestrzeni. Jesteśmy przyzwyczajeni, że&nbsp;pomnik to posąg lub obelisk wzniesiony w&nbsp;pustej przestrzeni. Jednym z&nbsp;pierwszych impulsów do egipskiej rewolucji było postawienie na&nbsp;placu Tahrir obelisku z&nbsp;wyrytymi imionami męczenników. Podobnie jak Styropianowa Bogini Wolności z&nbsp;Placu Tiananmen, pomnik ten istniał krótko (il. 4)<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup> . Michelet wskazuje nam jednak dokładnie przeciwny kierunek, przekonując, że&nbsp;pomnikiem nie jest figura lub postać, lecz tło; nie statua lub obelisk, ale pusta przestrzeń bez posągu. Dlaczego? Co mamy na&nbsp;myśli mówiąc o&nbsp;„pustej przestrzeni” i&nbsp;jak przebiega jej monumentalizacja?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1033-1-pb-1920x-20c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1033-1-pb-330x-037.jpg 330w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1033-1-pb-660x-f3b.jpg 660w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1033-1-pb-768x-27a.jpg 768w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1033-1-pb-1320x-530.jpg 1320w" src="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1033-1-pb-660x-f3b.jpg" alt="" ></a>    <figcaption><p>il. 4</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Po pierwsze należy powtórzyć, że&nbsp;pusta przestrzeń nie musi być wcale pomnikiem rewolucji demokratycznej. Może równie dobrze służyć za&nbsp;pomnik totalitaryzmu, ze statuą dyktatora lub bez. Reforma miejska barona Haussmanna w&nbsp;wieku XIX realizowała przecież strategię państwowej kontroli i&nbsp;oczyszczenia przestrzeni – tworzyła długie szerokie bulwary, jak Pola Elizejskie, które miały uniemożliwiać wznoszenie rewolucyjnych barykad i&nbsp;służyć jako niezakłócony żadnymi przeszkodami poligon strzelniczy artylerii w&nbsp;przypadku konieczności zdławienia ludowych powstań. Plac Czerwony w&nbsp;Moskwie i&nbsp;plac Tiananmen w&nbsp;Pekinie wykorzystywano zarówno do ludowych protestów, jak i&nbsp;spektakli absolutyzmu. Słynny obraz samotnej jednostki w&nbsp;obliczu kolumny czołgów na&nbsp;placu Tiananmen doskonale oddaje tę dwoistość.</p> <p>Nie będzie zatem zaskoczeniem, że&nbsp;pusta przestrzeń jest radykalnie niejednoznaczną i&nbsp;wielowartościową formą tego, co Henri Lefebvre nazwał produkcją przestrzeni społecznej<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. W&nbsp;środowisku miejskim są to przestrzenie pomiędzy budynkami, czyli ulice, parki, skwery, stanowiące lokalizację parad i&nbsp;obozowisk, publicznych zgromadzeń afirmujących lub oprotestowujących państwo. Należy pamiętać, że&nbsp;nie wszystkie puste przestrzenie są puste w&nbsp;ten sam sposób. Niektóre są opróżnione lub oczyszczone za&nbsp;sprawą zaniedbania i&nbsp;opuszczenia – jak puste parcele i&nbsp;domy w&nbsp;czasach ekonomicznych trudności – inne za&nbsp;sprawą policyjnej przemocy zastosowanej wobec tłumu, motłochu, zbiorowiska lub obozowiska. Plac Tahrir w&nbsp;czasach reżimu Mubaraka nie był popularnym miejscem zgromadzeń. Był wręcz odgrodzony płotem pod&nbsp;pozorem budowy planowanego garażu podziemnego. Jak pisze Nasser Rabbat, „Plac Tahrir [...] to gęsty wielowarstwowy obszar, w&nbsp;którym nowoczesność styka się z&nbsp;czasami mameluków, Haussmannowskie widoki z&nbsp;zimnowojennym brutalizmem, zaś sieć ścieżek z&nbsp;otwartą agorą”<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>.</p> <p>Pusta przestrzeń może być zatem znakiem porażki, zwalczonej, pokonanej lub zdradzonej rewolucji, która niczego nie przyniosła, niczego nie zmieniła, do niczego nie doszła. Albo takiej, która zostaje przechwycona przez pomnik żywego władcy i&nbsp;totalitarnego reżimu, najbliższe idolowi zjawisko kultury współczesnej. Posąg tyrana, Najdroższego Przywódcy, Pierwszego Sekretarza, Führera lub Lewiatana, bierze we władanie pustą przestrzeń placu publicznego, skweru, parku lub agory, symulując ucieleśnienie zbiorowości w&nbsp;formie personifikacji ludu i&nbsp;jego woli. Pusta przestrzeń jest więc nawiedzana, zamieszkiwana przez duchy, odmawiające spoczynku, zbiorowe i&nbsp;jednostkowe wspomnienia. Takie postrzeganie pustej przestrzeni prowadzi z&nbsp;kolei do jej przeciwnej interpretacji: przekształca pustą przestrzeń w&nbsp;znak potencjalności, możliwości i&nbsp;obfitości, demokracji jeszcze niezrealizowanej, w&nbsp;której pusta przestrzeń publiczna oczekuje dopiero na&nbsp;święto i&nbsp;ponowne zajęcie (<em>occupation</em>) – jako nowa „przestrzeń pojawiania się”.</p> <p>Lewicowa teoria polityczna kompulsywnie powraca ostatnio do obrazu pustej przestrzeni jako figury założycielskiej samej demokracji. Jeffersonowska idea demokracji jako nieustannej rewolucji zostaje dopełniona przekonaniem, że&nbsp;formalna demokracja, w&nbsp;postaci cykli wyborczych, wymaga, by miejsca władcy i&nbsp;władzy pozostawały z&nbsp;zasady puste (z zasady, lecz nie w&nbsp;praktyce). Liczy się urząd, nie zajmująca go postać z&nbsp;krwi i&nbsp;kości; liczą się prawa, nie ludzie, którzy je narzucają. Dla przykładu, krytyka formalnej demokracji przedstawiona przez Slavoja Žižka to oskarżenie o&nbsp;liberalny fundamentalizm, systematycznie wymazujący i&nbsp;ignorujący przemoc leżącą u&nbsp;podstaw kapitalizmu. „W tej mierze, w&nbsp;jakiej gramy w&nbsp;demokratyczną grę, w&nbsp;której miejsce władzy zostaje puste i&nbsp;w której akceptujemy szczelinę pomiędzy miejscem władzy a&nbsp;naszym aktem zajęcia tego miejsca” – pisze Žižek – „wszyscy, jako demokraci, jesteśmy wierni kastracji”<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. Sam Žižek pozostaje w&nbsp;zasadzie wierny tej metaforze. Twierdzi, że&nbsp;liberałowie – z&nbsp;ich ideologiami tolerancji, włączenia, wielokulturowości i&nbsp;wiary w&nbsp;procesy demokratyczne – „[nie] mają jaj [...], [żeby] odważyć się na&nbsp;podjęcie niemożliwego”, którym byłoby rzecz jasna obalenie globalnego systemu kapitalizmu, wzmacnianego i&nbsp;podtrzymywanego przy życiu przez liberalizm<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>. Žižek wyraża ostrożny podziw dla bezkompromisowości Partii Republikańskiej, zauważając, że&nbsp;„jedynie prawicowy populizm wykazuje dziś autentycznie <span class="rozstrzelony">polityczną</span> pasję akceptując <span class="rozstrzelony">walkę</span> i&nbsp;otwarcie przyznając, że&nbsp;jeśli chce się przemawiać z&nbsp;uniwersalnej pozycji, nie można próbować zadowolić wszystkich, ale trzeba być gotowym wprowadzić <span class="rozstrzelony">podział</span> na&nbsp;»My« i&nbsp;»Oni«”<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>. Według Žižka jedyną prawdziwą podstawą polityki jest pretensja do uniwersalnego stanowiska połączona z&nbsp;praktyką polityczną dzielenia raczej niż łączenia, z&nbsp;porzuceniem idei kompromisu lub negocjacji jako liberalnej pułapki, służącej jedynie ochronie niezagrożonej hegemonii kapitału. Dostrzegamy tu zbieżność podstaw politycznej filozofii Karla Rove’a, leninizmu i&nbsp;rewolucyjnej autentyczności Tea Party.</p> <p>Žižek odrzucił również świąteczny wymiar Occupy Wall Street jako odciągający uwagę od poważnych działań rewolucyjnych. „Nie zakochajcie się w&nbsp;sobie w&nbsp;tych miłych okolicznościach, jakie nam tu towarzyszą. Karnawały są łatwe”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>. Pamiętam to samo kazanie z&nbsp;lat 60. Uważałem wówczas, że&nbsp;jest pozbawione racji, i&nbsp;wciąż jestem o&nbsp;tym przekonany. Chcę podkreślić potrzebę obfitości, kreatywności i&nbsp;przyjemności w&nbsp;procesie rewolucyjnym. Świetnie uchwyciła to Emma Goldman stwierdzając, że&nbsp;nie chciałaby brać udziału w&nbsp;żadnej rewolucji, która zakazuje tańca. Dodałbym do tego grę na&nbsp;bębnach.<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>.</p> <h2>Wszystkie sztuki okupacji</h2> <blockquote>Uwagi o&nbsp;sztuce, przestrzeni i&nbsp;ich grze jednego w&nbsp;drugim pozostają pytaniami, nawet jeśli wyrażają się w&nbsp;formie twierdzeń. Ograniczają się do sztuk plastycznych, a&nbsp;w ich obrębie do rzeźby. Wytwory sztuki rzeźbiarskiej są ciałami. Ich masa, składająca się z&nbsp;różnorodnych materiałów, wielorako jest ukształtowana. Kształtowanie dzieje się w&nbsp;odgraniczeniu jako ujmowaniu granicą i&nbsp;wylączaniu poza nią. Tutaj do gry wkracza przestrzeń. Zostaje ona zajęta przez rzeźbę uformowaną jako wolumen zamknięty w&nbsp;sobie, wolumen otwierający się i&nbsp;wolumen pusty. Są to sprawy dobrze znane, wszelako zagadkowe<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>.</blockquote> <p>Stwierdzenia te prowadzą mnie ku ostatniej części przemyśleń na&nbsp;temat znaczenia obrazów i&nbsp;mediów w&nbsp;rewolucjach 2011 roku w&nbsp;kontekście estetyki. Jaką rolę odegrała sztuka na&nbsp;placu Tahrir, w&nbsp;parku Zuccottiego oraz w&nbsp;innych miejscach po&nbsp;obu stronach Atlantyku i&nbsp;poza nim? Ograniczę się wyłącznie do sztuk wizualnych, choć rzecz jasna muzyka, zwłaszcza rap, a&nbsp;także taniec, odegrały niezwykle istotną rolę w&nbsp;podtrzymywaniu ducha tłumów zwołanych przez media do wypełnienia fizycznych przestrzeni okupacji. Jednocześnie chciałbym wykroczyć poza dzieła sztuki stworzone w&nbsp;tym czasie, by szerzej zastanowić się nad tym, jak przestrzeń publiczna „zostaje zajęta” (<em>occupied</em>) – jak ujmuje to Heidegger – przez „wyrzeźbioną strukturę”, gdy o&nbsp;rzeźbie pomyślimy w&nbsp;poszerzonym polu przeciwpomnika, instalacji, pojęcia swoistości miejsca (<em>site specific</em>) i&nbsp;performensu<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>.</p> <p>Dotychczas wypowiadałem się tak, jakby okupowanie przestrzeni publicznej przez masowe zgromadzenia samo było praktyką artystyczną. Jak poważnie należy traktować tę tezę? Czy powinniśmy uznać Kinga za&nbsp;artystę performera przygotowującego po&nbsp;mistrzowsku zaaranżowane marsze, siedzące protesty i&nbsp;masowe wiece?<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup> Czy też takie porównanie jest po&nbsp;prostu dziwaczne i&nbsp;umniejsza powagę politycznych celów ruchu praw obywatelskich, w&nbsp;którego działaniach sztuka pełniła zaledwie funkcje służebne jako narzędzie pomocnicze? Czy estetyzacja polityki nie prowadzi – zgodnie z&nbsp;ostrzeżeniem Waltera Benjamina – prostą drogą do faszyzmu, czego przykładem filmy Leni Riefenstahl i&nbsp;masowe widowiska Alberta Speera, podczas gdy prostą i&nbsp;jedyną drogą do postępu społecznego i&nbsp;komunizmu jest upolitycznienie sztuki? Wiek XX i&nbsp;modernistyczne formy sztuki publicznej ukazały zbieżność członów tej alternatywy – w&nbsp;wiecach politycznych Norymbergi i&nbsp;w masowych zgromadzeniach pomyślanych jako święta władzy państwowej i&nbsp;militarnej w&nbsp;Związku Radzieckim i&nbsp;Chinach. Potrzebujemy zatem lepszego ujęcia relacji estetyki i&nbsp;polityki niż Benjaminowski tragiczny wybór pomiędzy faszyzmem a&nbsp;komunizmem<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>.</p> <p>Rozważania Kracauera o&nbsp;„ornamencie z&nbsp;ludzkiej masy” sugerują, że&nbsp;możliwą trzecią drogą z&nbsp;pewnością <span class="rozstrzelony"> nie jes</span>t kapitalizm, zawłaszczający przestrzeń publiczną za&nbsp;pomocą reklam (jak na&nbsp;Times Square) lub prywatyzujący agorę i&nbsp;wiejski rynek, przekształcając je w&nbsp;przestrzeń supermarketu. (Nikt przecież nie protestuje, gdy masy biwakują pod&nbsp;Walmartem, by złapać okazję oferowaną pierwszym klientom). Dla Kracauera „struktura ornamentu z&nbsp;ludzkiej masy”, ucieleśniana w&nbsp;geometrycznych wzorach tańca <em>tiller girls</em>, „odzwierciedla strukturę współczesnej sytuacji ogólnej”, redukując ciało ludzkie do trybika abstrakcyjnej maszyny zwanej kapitałem. Ale Kracauer przyznaje również, że&nbsp;„<span class="rozstrzelony">estetyczne</span> upodobanie do ornamentalnych masowych ćwiczeń jest <span class="rozstrzelony">uzasadnione</span>”, ponieważ ujawnia prawdę o&nbsp;kapitalizmie, podobnie jak wiece norymberskie ujawniały prawdę faszyzmu: „Gdy z&nbsp;pola widzenia naszego świata znikną wszystkie treści rzeczywistości, wtedy sztuka musi gospodarzyć pozostałymi wartościami, gdyż wyobrażenie estetyczne jest tym realniejsze im mniej abstrahuje od rzeczywistości spoza sfery estetyki”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>. Ruch Occupy gospodarzył zalewem spektaklu i&nbsp;roszczeń, wiralowo krążącymi słowami i&nbsp;obrazami, twarzami i&nbsp;tłumami.</p> <p>Kolejne pytanie o&nbsp;sztukę powinno być jednak bardziej ogólne. W&nbsp;jaki sposób odważna, postępowa sztuka publiczna podejmowała istotną refleksję nad zajmowanymi przez nią przestrzeniami? Czego uczy nas współczesna rzeźba w&nbsp;przestrzeni publicznej? Artykuł Michaela Northa z&nbsp;1990 roku <em>Sfera publiczna jako rzeźba</em> dostarcza wglądu w&nbsp;tę kwestię<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>. Esej ten, napisany dokładnie u&nbsp;szczytu zwrotu postmodernistycznego w&nbsp;sztuce publicznej – zwrotu ku zagadnieniom swoistości miejsca (<em>site specificity</em>), performensu i&nbsp;partycypacji – który zbiegł się z&nbsp;końcem zimnej wojny i&nbsp;wydarzeniami na&nbsp;placu Tiananmen, przenikliwie podsumowuje przekształcenia sztuki publicznej i&nbsp;sztuki politycznie zaangażowanej, nie tracąc aktualności również dziś<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>.</p> <p>Wychodząc od spostrzeżenia Rosalind Krauss, że&nbsp;pod koniec XX wieku „zaskakujące rzeczy otrzymywały miano rzeźb”<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>, North dokumentuje genealogię bliźniaczych metafor społeczeństwa jako rzeźby i&nbsp;społeczeństwa jako architektury, czyli sztuk tradycyjnie wiązanych z&nbsp;figurą i&nbsp;tłem, formą i&nbsp;przestrzenią jej wystawiania. Kanonicznym przykładem najbardziej zredukowanej i&nbsp;abstrakcyjnej formy społeczeństwa dosłownie manifestującego się zarówno w&nbsp;rzeźbie, jak i&nbsp;architekturze byłby obelisk waszyngtoński, postrzegany nie „[jako] monolit, lecz [jako] wiele bloków”, odzwierciedlających wcielenie poszczególnych obywateli do całości: „E PLURIBUS UNUM”<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>. Pomnik w&nbsp;Waszyngtonie (niepokojąco podobny do obelisku, nie tylko pod&nbsp;względem formy, ale też włączenia weń poszczególnych imion) stanowi zatem abstrakcyjną wersję Hobbesowskiego Lewiatana, wcielającego wszystkich obywateli (sprowadzonych do identycznych cegiełek) w&nbsp;obręb jednej olbrzymiej formy symbolizującej pierwszą osobę, która zajęła puste miejsce władzy. Na&nbsp;przeciwnym biegunie znajduje się wspaniała „pusta przestrzeń”, w&nbsp;której, jak zauważył Eric Hobsbawm, „akcent przesunął się ze statui na&nbsp;otwarte przestrzenie miejskie, gdzie najistotniejszym elementem estetycznym stawał się tłum”<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup>. Jednak masy zajmujące (<em>occupy</em>) te puste przestrzenie znajdują się tam zwykle po&nbsp;to, by zainscenizować cud (czasem wytwór demokracji, czasem przemocy), dzięki któremu wielu staje się jednym i&nbsp;gromadzi się wokół postaci przywódcy, rzecznika, tego, który mówi w&nbsp;imieniu wielu i&nbsp;do wielu.</p> <p>Istnieją jednak inne możliwości realizacji sztuki w&nbsp;przestrzeni publicznej. North koncentruje się zwłaszcza na&nbsp;twórczości Josepha Beuysa, który</p> <blockquote>zamiast wznosić pomniki, [...] na&nbsp;serio rozważał, jak stworzyć ludzki pomnik, dzieło społeczne, zbudowane przez jednostki, z&nbsp;których każda byłaby „rzeźbiarzem lub architektem tkanki społecznej”<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>.</blockquote> <p>Beuys uważał, że&nbsp;w&nbsp;rezultacie powstanie „TOTALNE DZIEŁO SZTUKI PRZESZŁEGO PORZĄDKU SPOŁECZNEGO”<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>. North jednak wyraża pewne wątpliwości co do tego totalizującego programu, zauważając, że&nbsp;„nazywanie prac »rzeźbą społeczną« lub »architekturą społeczną« powinno [wywołać] drżenie na&nbsp;myśl o&nbsp;złożoności tła historycznego i&nbsp;politycznego, które przywoływał”<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>, zwłaszcza na&nbsp;myśl o&nbsp;totalitarnym wykorzystaniu mas jako ornamentu władcy. Zwraca zatem uwagę, że&nbsp;pomnik Bogini Wolności na&nbsp;placu Tiananmen</p> <blockquote>był wyrazem buntu tłumu traktowanego jak ludzka rzeźba wypełniająca plac. Przed artystami skłaniającymi się ku Beuysowskim koncepcjom staje problem, jak zachować komunitarne nadzieje i&nbsp;rewolucyjne implikacje metafory rzeźby społecznej, gdy w&nbsp;tak dominujący sposób spełniają się jej autorytarne możliwości<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>.</blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1037-1-pb-1920x-20c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1037-1-pb-330x-037.jpg 330w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1037-1-pb-660x-f3b.jpg 660w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1037-1-pb-768x-27a.jpg 768w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1037-1-pb-1320x-530.jpg 1320w" src="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1037-1-pb-660x-f3b.jpg" alt="" ></a>    <figcaption><p>il. 5 Anthony Gormley, <em>The Brick Man</em> (1987). źródło: <a href="http://www.antonygormley.com/" target="_blank" rel="noopener">strona artysty</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Żadne dzieło sztuki, samo z&nbsp;siebie, nie zdoła odpowiedzieć na&nbsp;to pytanie. Istnieje jednak kilka przykładów rozwiązania tego problemu, które mogą okazać się pomocne w&nbsp;przemyśleniu zagadnienia sztuki publicznej i&nbsp;zajmowania przestrzeni publicznej w&nbsp;naszych czasach, a&nbsp;zwłaszcza kwestii balansu w&nbsp;relacji jednostki i&nbsp;zbiorowości. Artystą stale rozważającym tę dialektykę jest Antony Gormley. Na&nbsp;przykład jego dzieło <em>The Brick Man</em> (Ceglany człowiek) jest udosłownieniem politycznej i&nbsp;religijnej metafory Lewiatana lub giganta, ucieleśniającego wielość w&nbsp;jednym ciele (il. 5). Jeśli ciało ludzkie jest świątynią, a&nbsp;wspólnota budynkiem, cóż bardziej odpowiedniego niż budynek-ciało, budynek na&nbsp;kształt ciała? Poszczególne cegły przypominają sześcienne kamienie, które emblematyka chrześcijańska przedstawiała jako budulec samego Kościoła. George Wither pisał:</p> <blockquote>Dozwól i&nbsp;spraw Panie, abyśmy w&nbsp;takie kamienie siebie przerobiwszy, <p></p> <p>miejsce wzięli w&nbsp;Świątyni Ducha</p> <p>a niczym gmach jeden zwarli się umocniwszy<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup></p> </blockquote> <p>Ilustracją tej prośby jest sześcienna forma, symbolizująca jednocześnie rolę Jezusa jako kamienia milowego i&nbsp;rolę każdego wiernego z&nbsp;osobna jako jednej cegły, która znajduje właściwe sobie miejsce w&nbsp;strukturze kościoła.</p> <p><em>The Brick Man</em> Gormleya działa więc na&nbsp;podobnej zasadzie, jak geometryczny układ kobiecych ciał opisywany przez Kracauera jako kino ornamentu z&nbsp;ludzkiej masy: <span class="rozstrzelony">uzasadnia</span> go jego nieuchronność i&nbsp;trafność jako wyrazu religijnego dyskursu o&nbsp;suwerenności i&nbsp;zbiorowej jedności. Zarazem Gormley tworzy prace w&nbsp;ciekawy sposób oddzielające jednostkę od zbiorowości – wytwarza figury strażników lub „świadków” odlane z&nbsp;modelu jego własnego ciała. Mogą one pojawić się gdziekolwiek: jako samotne figury na&nbsp;plaży, jako strażnicy usytuowani na&nbsp;szczytach biurowców, jako bezdomne i&nbsp;wysiedlone formy w&nbsp;nieokreślonych przestrzeniach miejskich, jako poniżone figury kłaniające się masywnym fasadom architektonicznych pomników. Mogą pojawić się niemal wszędzie – z&nbsp;<span class="rozstrzelony">wyjątkiem</span> miejsc właściwych pomnikom ustawianym na&nbsp;piedestale w&nbsp;przestrzeni publicznej. Innymi słowy, zajmują przestrzeń na&nbsp;sposób wprost przeciwny do pomników. Lub też, w&nbsp;przypadku dzieł takich jak <em>Quantum Cloud</em> (Chmura kwantowa) – rzeźba w&nbsp;przestrzeni publicznej Londynu – same się dekonstruują, sprawiając wrażenie eksplodujących całości rozpadających się na&nbsp;wiele niezależnych elementów. Tym samym dokonują dekonstrukcji zasadniczego w&nbsp;publicznym monumencie napięcia pomiędzy masami a&nbsp;jednostką, uosabiając <span class="rozstrzelony"> indywidualną anonimowoś</span>ć. Każdy posąg powstaje na&nbsp;wzór ciała artysty, ale następnie zostaje poddany nieskończonemu powieleniu w&nbsp;homogenicznej serii, niczym trójwymiarowe rzeźbiarskie fotografie lub <span class="rozstrzelony">korpografi</span>e. Dzieła takie jak <em>Another Place</em> (Inne miejsce), w&nbsp;którym posągi zdają się ginąć na&nbsp;terytorium przypływu morza, z&nbsp;jednej strony przywodzą na&nbsp;myśl odizolowanie i&nbsp;samotność znane z&nbsp;takich prac historycznych jak <em>Mnich nad morzem</em> Caspara Davida Friedricha, ale z&nbsp;drugiej wywołują wrażenie masowości identycznych figur zmierzających ku nieznanemu horyzontowi.</p> <p>Gdy Royal Society of the Arts zaprosiło Gormleya do zmierzenia się z&nbsp;tradycyjną pomnikową lokalizacją, jaką bez wątpienia jest Fourth Plinth – „czwarty [i pusty] cokół” na&nbsp;Trafalgar Square – nie postawił on w&nbsp;tym miejscu żadnego obiektu, ale zorganizował trwający sześć miesięcy performens, podczas którego każdy mógł zająć – siedząc, stojąc lub wykonując jakieś czynności – cokół na&nbsp;godzinę (w trybie 24/7)<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup>. Aktorzy, muzycy, aktywiści, striptizerzy, poeci, mistycy, żonglerzy, naukowcy, dziwacy i&nbsp;ekshibicjoniści szczelnie wypełnili grafik występami, zajmując miejsce posągu władcy, zaludniając je żywymi ciałami ze wszystkich krańców świata. (Cokół został pierwotnie wzniesiony jako podstawa nigdy niezrealizowanego konnego pomnika Williama IV).</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1040-1-pb-1920x-8ce.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1040-1-pb-330x-0a5.jpg 330w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1040-1-pb-660x-339.jpg 660w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1040-1-pb-768x-f13.jpg 768w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1040-1-pb-1320x-46a.jpg 1320w" src="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1040-1-pb-660x-339.jpg" alt="" ></a>    <figcaption><p>il. 6. Anthony Gormley, <em>Field</em> (2003). źródło: <a href="http://www.antonygormley.com/" target="_blank" rel="noopener">strona artysty</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Być może najbardziej przenikliwym rzeźbiarskim namysłem nad całym zespołem problemów związanych z&nbsp;zajmowaniem i&nbsp;okupowaniem przestrzeni publicznej, masowymi zgromadzeniami i&nbsp;ciałem jednostki jest jednak inna praca Gormleya, zatytułowana <em>Field</em> (Pole), pokaźny zbiór terakotowych figur, z&nbsp;których każda została stworzona przez kogoś innego. Dzieło, wyprodukowane już w&nbsp;kilku różnych miejscach na&nbsp;świecie, zakłada udział w&nbsp;jego tworzeniu lokalnych wspólnot (meksykańskich murarzy, chińskich robotników), których członkowie wytwarzają gliniane figurki na&nbsp;kształt „ornamentu z&nbsp;ludzkiej masy”. Zachowują się jak dzieci po&nbsp;raz pierwszy lepiące z&nbsp;plasteliny: ożywiają swoje figury, wydłubując im oczodoły. Następnie Gormley wypala glinę i&nbsp;gromadzi figurki w&nbsp;zamkniętej przestrzeni. W&nbsp;wersji zrealizowanej w&nbsp;Guangzhou ze 125 ton gliny wykonano dwieście tysięcy takich surogatów ludzkich ciał (il. 6). „Zajmują (<em>occupy</em>) całą przestrzeń, w&nbsp;której zostały ustawione”. Olbrzymi tłum miniaturowych humanoidalnych figur spoglądających na&nbsp;widza wywołuje wrażenie, które Gaston Bachelard nazwał „intymnym bezmiarem”<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup>. „Widz” – stwierdza Gormley – „mediuje pomiędzy zajętymi (<em>occupied</em>) i&nbsp;pustymi obszarami budynku”, tak że&nbsp;„zajmowany obszar fizyczny [...] pozostaje na&nbsp;usługach wyobrażeniowej przestrzeni świadka”<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup>.</p> <p><em>Field</em> pod&nbsp;względem politycznym i&nbsp;formalnym, który interesował nas w&nbsp;odniesieniu do rzeźby i&nbsp;zajmowania (<em>occupation</em>) przestrzeni publicznej, całkowicie odrzuca wszelkie struktury hierarchiczne, ukazując spektakl tysięcy różniących się w&nbsp;szczegółach figur, zebranych w&nbsp;grupie wyglądającej jak jednorodny tłum, morze ludzkości (jak Pola Marsowe). W&nbsp;efekcie dochodzi do odwrócenia relacji – widz staje się „tym, na&nbsp;którego się patrzy”, przedmiotem spojrzenia dzieła sztuki. Co czujesz w&nbsp;obliczu ćwierci miliona zwróconych ku tobie twarzy? Można odpowiedzieć, że&nbsp;czuje się onieśmielenie wobec wzniosłego ogromu masowego zgromadzenia, co przypomina sytuację mnicha nad morzem, doświadczającego swojej nikłości wobec nieskończenie pustej przestrzeni i&nbsp;potęgi wielości. Chwila refleksji jednak odwraca wszystko całkowicie – doświadczamy swojego ciała w&nbsp;guliwerowskiej skali, jako olbrzymiego w&nbsp;zestawieniu z&nbsp;miniaturowymi figurami. Odczuwamy też coś w&nbsp;rodzaju ekspansywności, jakbyśmy zajmowali pustą przestrzeń władzy w&nbsp;najważniejszym momencie ceremonii (inauguracji lub koronacji) i&nbsp;mieli za&nbsp;chwilę przemówić do zgromadzonych tłumów.</p> <p>Prowadzone przez Gormleya gry z&nbsp;odwracaniem charakteru przestrzeni publicznej, jej relacji z&nbsp;jednostkowym i&nbsp;zbiorowym ciałem nie odbywają się oczywiście w&nbsp;próżni. Jak zauważa North, w&nbsp;ostatnim ćwierćwieczu, w&nbsp;chwilach naznaczonych przez krytyczne lub przeciwpomnikowe dzieła sztuki publicznej, od Pomnika Weteranów Wojny w&nbsp;Wietnamie po&nbsp;Boginię Wolności i&nbsp;<em>Tilted Arc</em> (Zakrzywiony łuk) Richarda Serry, artyści eksperymentowali z&nbsp;nowymi sposobami zajmowania przestrzeni publicznej oraz uwalniania jej od obsesji monumentalnych reprezentacji władzy i&nbsp;wykorzystywania mas jako ornamentu władzy państwowej.</p> <p>Twórczość Gormleya rzadko wprost wykorzystuje polityczne taktyki okupacji przestrzeni publicznej jako elementy protestu. Poszukując istotnej refleksji nad bardziej bezpośrednim politycznym działaniem okupowania i&nbsp;zajmowania przestrzeni, powinniśmy zatem przyjrzeć się instalacji Marka Wallingera. Jego <em>State Britain</em>, zrealizowane w&nbsp;Tate Britain w&nbsp;2007 roku, składa się z&nbsp;zebranych przez artystę ręcznych reprodukcji wszystkich banerów protestacyjnych, jakie pojawiły się w&nbsp;antywojennym obozie okupującym plac Parlamentu od momentu brytyjskiego akcesu do sankcji ekonomicznych nałożonych na&nbsp;Irak. Protest został rozpoczęty przez aktywistę Briana Hawa, który ustawił swoje obozowisko na&nbsp;placu w&nbsp;czerwcu 2001 roku i&nbsp;pozostał tam, wspierany przez innych działaczy, przez następne dziesięć lat. Haw rozpoczął, o&nbsp;ile mi wiadomo, najdłużej trwający ruch Occupy w&nbsp;historii protestu politycznego. Jeśli istnieje rekord Guinnessa w&nbsp;dziedzinie pokojowej okupacji politycznej, z&nbsp;pewnością należy do niego.</p> <p>Nieustanna obecność Hawa irytowała parlament pod&nbsp;przywództwem Tony’ego Blaira. Gdy do Hawa dołączyli inni artyści i&nbsp;aktywiści, rozbudowując obóz i&nbsp;poszerzając przestrzennie panoramę plakatów protestacyjnych na&nbsp;całą jedną stronę placu, problem jeszcze urósł. Wówczas, w&nbsp;2005 roku parlament przegłosował ustawę Serious Organised Crime and Police Act (ustawa o&nbsp;poważnej przestępczości zorganizowanej i&nbsp;policji), zezwalającą policji na&nbsp;usunięcie wszelkich politycznych demonstracji prowadzonych bez jej zgody, a&nbsp;odbywających się w&nbsp;promieniu <span class="rozstrzelony">jednego kilometra</span> od siedziby parlamentu. Prawo to umożliwiało policji zapobieganie nie tylko masowym demonstracjom, ale także protestom „prowadzonym przez jedną osobę”. Innymi słowy, osoba, która chciałaby założyć koszulkę z&nbsp;antywojennym hasłem lub prześmiewczym napisem przeciwko „Tołdiemu” Blairowi lub jego sługusom z&nbsp;parlamentu, musiałaby zawiadomić o&nbsp;swoich zamiarach policję siedem dni wcześniej, by móc przeprowadzić taką demonstrację w&nbsp;„wyznaczonym terenie” w&nbsp;obrębie kilometra od parlamentu.</p> <p>Uzbrojona w&nbsp;to zarządzenie policja wpadła na&nbsp;plac Parlamentu w&nbsp;maju 2006 roku i&nbsp;usunęła większość obozowiska wraz z&nbsp;plakatami. Nie mogła jednak usunąć Hawa. Okupacja placu przez niego zaczęła się przed uchwaleniem prawa, toteż uznano ją za&nbsp;wyjątek – przynajmniej tak długo, jak długo podtrzyma ciągłość okupacji przestrzeni publicznej. Trwała ona (co znaczące) do arabskiej wiosny 2011 roku, gdy Lord Burmistrz Londynu Boris Johnson podjął prawne działania, by usunąć okupanta. Brytyjski Sąd Najwyższy orzekł, że&nbsp;„ogrody placu Parlamentu nie są odpowiednim miejscem do przedłużającego się biwakowania” i&nbsp;nakazał usunięcie Hawa przed ślubem królewskim, który bez wątpienia zostałby skompromitowany przez jego uporczywą obecność<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1044-1-pb-1920x-8ce.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1044-1-pb-330x-0a5.jpg 330w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1044-1-pb-660x-339.jpg 660w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1044-1-pb-768x-f13.jpg 768w,assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1044-1-pb-1320x-46a.jpg 1320w" src="assets/cache/images/issues/2013/03/obraz-przestrzen-rewolucja/102-1044-1-pb-660x-339.jpg" alt="" ></a>    <figcaption><p>il. 7. Mark Wallinger, <em>State Britain</em> (2007). źródło: <a href="http://www.tate.org.uk/whats-on/tate-britain/exhibition/mark-wallinger-state-britain" target="_blank" rel="noopener">Tate Britain</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Obrazy tej „okupacji” będą jednak obecne tak długo, jak długo istnieć będzie Anglia. Dokumentacja odtworzenia i&nbsp;ponownego ustawienia plakatów protestacyjnych dokonanego przez Marka Wallingera zachowa się w&nbsp;archiwach (il. 7). Ich wystawienie na&nbsp;nowo bez wątpienia uwzględni najważniejszą cechę związanej z&nbsp;miejscem, oryginalnej instalacji w&nbsp;Tate Britain. Okazało się bowiem, że&nbsp;przez wielką halę będącą centrum Tate, przebiega linia graniczna tego jednokilometrowego promienia, którego pomiar nakazuje nowe prawo uchwalone przez parlament. Instalacja Wallingera przekroczyła prawną granicę, wyznaczaną linią czarnej taśmy na&nbsp;podłodze holu muzeum. Był to zatem akt nieposłuszeństwa obywatelskiego, który jednak moim zdaniem wywołał raczej efekt melancholii. Sugerował on, że&nbsp;nawet najprostszy polityczny protest lub publiczna demonstracja, nie wyłączając agresywnej, ale pozbawionej przemocy okupacji przestrzeni publicznej, został dziś przeniesiony w&nbsp;bezpieczny i&nbsp;odizolowany obszar, do świątyni przestrzeni estetycznej. Sugerował, że&nbsp;prawo do wolności słowa i&nbsp;zgromadzeń – założycielska zasada brytyjskiej wolności i&nbsp;wszelkiej demokracji – zostało poddane znieczuleniu lub zamrożeniu, wprowadzając zasadnicze wolności w&nbsp;stan zawieszenia, przekształcając je w&nbsp;bezwładne relikty czasów, gdy słowo wolność rzeczywiście coś znaczyło.</p> <p><em>State Britain</em> Wallingera, jak pisał Adrian Searle, nie było jakimś odosobnionym przypadkiem. „Czterdziestometrowa ściana banerów, transparentów, chwiejnych, zbitych naprędce tablic informacyjnych, ręcznie wykonanych znaków i&nbsp;satyrycznych haseł” nie tylko zawierała dzieła artysty graffiti Banksy’ego, ale również „przypominała jedną z&nbsp;instalacji Mike’a Kelleya [oraz] transparenty, kawałki kserokopii i&nbsp;inne skrawki, wystawiane przez Thomasa Hirschorna”. Do tej listy można dodać również performance Tanii Bruguery, instalacje Hansa Haackego i&nbsp;tworzone zbiorowo dzieła Occupy Wall Street<sup><a href="#sdfootnote45sym" name="sdfootnote45anc">45</a></sup>. „Przede wszystkim” – relacjonuje Michael Taussig – „uderzała posągowość tłumu ludzi trzymających zrobione własnoręcznie afisze, niczym centaury zmieniających się w&nbsp;pół-osobę, pół-znak”<sup><a href="#sdfootnote46sym" name="sdfootnote46anc">46</a></sup>. Ruch Occupy roku 2011, od placu Tahrir po&nbsp;park Zuccotteigo i&nbsp;dalej, być może bezwiednie wykorzystał wszystkie warianty sztuki okupacji. Falangi plakatów, masowe zgromadzenia, samotne jednostki wobec masowych szeregów policji, chwilowe performanse i&nbsp;trwałe miasteczka namiotowe, parady i&nbsp;obozowiska, święta i&nbsp;konfrontacje – wszystkie te taktyki łączyła etyka nieherarchiczności i&nbsp;braku centralnej władzy, dekonstruująca zarówno niezależną władzę polityków, jak i&nbsp;władzę artystów.</p> <p>Ale musimy pamiętać również, że&nbsp;nawiedzający nas obraz z&nbsp;pism Micheleta – obraz pustej przestrzeni – jest najprawdziwszym pomnikiem rewolucji. Czy to dlatego, że&nbsp;tak wiele rewolucji nic po&nbsp;sobie nie pozostawia? Że&nbsp;w&nbsp;jakimś podstawowym sensie nie mogą się spełnić i&nbsp;często są potwornymi błędami, jak pokazuje długa arabska zima rewolucyjnych dyktatur wojskowych?<sup><a href="#sdfootnote47sym" name="sdfootnote47anc">47</a></sup> Zdaniem Arendt, wyraźnym sukcesem amerykańskiej rewolucji był jej pęd ku konstytutywnemu momentowi, ustanowieniu fundamentów, stworzeniu ram konstytucji, wytworzenia architektonicznej struktury i&nbsp;reprodukcji żywego dokumentu. Państwo – jak udowodnił Eric Slauter – miało być stworzone jako „dzieło sztuki”, zwłaszcza dzieło architektoniczne, nie rzeźbiarska figura dla „polityki ciał” suwerena<sup><a href="#sdfootnote48sym" name="sdfootnote48anc">48</a></sup>. Oczywiście falliczny obraz państwa szybko podążyłby za&nbsp;architekturą, zlewając się z&nbsp;nią. Dostrzegamy go w&nbsp;ciele wzniesionym na&nbsp;szczycie pustego cokołu, figurze władzy łączącej monarchię, święte ikony, archetyp Ojców Założycieli, którego najbardziej radykalną – co widzieliśmy – realizacją jest obelisk waszyngtoński. Nieprzypadkowo efekt działania tego pomnika jest nierozdzielny od jego dialogu z&nbsp;pustą przestrzenią, nie wyłączając wirtualnej przestrzeni lustrzanej tafli wody. Rzecz jasna, nieprzypadkowo również jest to podstawowe terytorium aktualizacji Pierwszej Poprawki, prawa do pokojowych zgromadzeń, a&nbsp;dziś prawa do okupowania. Być może pusta przestrzeń nie jest wyłącznie jedynym prawdziwym pomnikiem rewolucji, ale (na co nalegałby Jacques Derrida) także potencjalności demokracji i&nbsp;nadchodzącego nowego globalnego porządku.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Redakcja dziękuje autorowi oraz wydawnictwu University of Chicago Press za zgodę na publikację przekładu. Artykuł <em>Image, Space, Revolution. The Arts of Occupation </em>pierwotnie ukazał się piśmie „Critical Inquiry” 2012, nr 1 (vol. 39).</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Guy Fawkes był legendarnym przywódcą katolickiego ruchu oporu, który próbował wysadzić Pałac Westminsterski w 1605 roku. Fawkes został przekształcony w świeckiego bohatera pozytywnego w wydanej w latach 80. XX wieku powieści graficznej <em>V jak Vendetta</em> Alana Moore’a i Davida Lloyda (wydawca: DC Comics) oraz w filmie rodzeństwa Wachowskich z 2006 roku.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> H.A. Kelly wskazuje źródła tego tropu u Kwintyliana, który opisywał go jako „figurę retoryczną, za pomocą której wątpliwości przeciwnika zostają przewidziane i rozproszone”, oraz w greckiej figurze paralipsy – „ogólnego napomknienia o rzeczy w celu jej pominięcia”. H.A. Kelly, <em>'Occupatio' as Negative Narration. A Mistake for 'Occultatio'/'Praeteritio'</em>, „Modern Philology” 1977, nr 74, s. 311–315.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Kwestię miejsca przemocy w przestrzeni publicznej rozważam w artykule <em>The Violence of Public Art.</em><em>‘Do the Right Thing’</em>, w: <em>Art and the Public Sphere</em>, red. W.J.T. Mitchell, University of Chicago Press, Chicago 2012.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> William Wordsworth, <em>Wiersze napisane w górach, w odległości kilku mil od Opactwa Tintern...</em>, <a href="http://www.pbi.edu.pl/book_reader.php?p=11292" target="_blank" rel="noopener">http://www.pbi.edu.pl/book_reader.php?p=11292</a>; dostęp 30 października 2013.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Hannah Arendt, <em>Kondycja ludzka</em>, przeł. A. Łagodzka, Wydawnictwo Aletheia, Warszawa 2000, s. 218.</p>
+<p></p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Louis Althusser, <em>Ideologie i aparaty ideologiczne państwa</em>, przeł. A. Staroń, „Nowa Krytyka”, <a href="http://www.nowakrytyka.pl/spip.php?article374" target="_blank" rel="noopener">http://www.nowakrytyka.pl/spip.php?article374</a>; dostęp 12 października 2013 (przyp. tłum.).</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Zob. Hannah Arendt, <em>O rewolucji</em>, przeł. M. Godyń, Czytelnik, Warszawa 2003 (na temat rewolucji jako „nowego początku”).</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Zob. Ariella Azoulay, <em>The Language of Revolution. Tidings from the East</em>, przeł. T. Haran, <a href="http://criticalinquiry.uchicago.edu/the_language_of_revolution_azoulay/" target="_blank" rel="noopener">http://criticalinquiry.uchicago.edu/the_language_of_revolution_azoulay/</a>, dostęp 20 października 2013.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Hannah Arendt, <em>Kondycja ludzka</em>..., s. 218–219.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Zob. Harriet Sherwood, <em>Tel Aviv’s ‘Tent City’ Protests Dig in Demand Social Justice</em>, „The Guardian” 4 sierpnia 2011 roku, <a href="http://www.theguardian.com/world/2011/aug/04/tel-aviv-tent-city-protesters" target="_blank" rel="noopener">http://www.theguardian.com/world/2011/aug/04/tel-aviv-tent-city-protesters</a>, dostęp 30 października 2013. Zob. również Ariella Azoulay, <em>The Language of Revolution</em>...</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Zob. Michael Taussig, <em>I’m so Angry I Made a Sign</em>, „Critical Inquiry” 2012, nr 39 (etnograficzna relacja świadka/uczestnika nocnego biwaku w parku Zuccottiego). Zob. także Barry Schwabsky, Signs<em> of Protest. Occupy’s Guerilla Semiotics</em>, „Tha Nation” 14 grudnia 2011, <a href="http://www.thenation.com/article/165144/signs-protest-occupys-guerilla-semiotics" target="_blank" rel="noopener">http://www.thenation.com/article/165144/signs-protest-occupys-guerilla-semiotics</a>, dostęp 20 października 2013.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Podobno niebieskie staniki stały się najgorętszym towarem w butikach Kairu.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Jules Michelet, <em>History of the French Revolution</em>, przeł. Ch. Cocks, red. G. Wright, Chicago 1967, s. 4.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> William Hazlitt, <em>The Life of Napoleon</em>, w: idem<em>, The Complete Works</em>, red. P.P. Howe, London 1931; Thomas Carlyle, <em>Rewolucja francuska</em>, przeł. A. Strzelecki, Warszawa 1906.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Studium porównawcze sprowokowanego przez Benjamina Franklina wycieku zapalnych informacji z korespondencji pomiędzy Koroną a administracją amerykańskiej kolonii oraz działalności WikiLeaks przedstawia Russ Castronovo, <em>State Secrets. Ben Franklin and WikiLeaks</em>, „Critical Inquiry” 2013, nr 3 (vol. 39).</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Naomi Wolf, <em>The Shocking Truth about the Crackdown on Occupy</em>, „The Guardian” 25 listopada 2011, <a href="http://www.theguardian.com/commentisfree/cifamerica/2011/nov/25/shocking-truth-about-crackdown-occupy" target="_blank" rel="noopener">http://www.theguardian.com/commentisfree/cifamerica/2011/nov/25/shocking-truth-about-crackdown-occupy</a>, dostęp 22 października 2013.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Thegift37, <em>A New Obelisk Is Being Raised in Tahrir Square</em>, „Techfleece” 25 stycznia 2012, <a href="http://www.techfleece.com/2012/01/25/a-new-obelisk-is-being-raised-in-tahrir-square/" target="_blank" rel="noopener">http://www.techfleece.com/2012/01/25/a-new-obelisk-is-being-raised-in-tahrir-square/</a>, dostęp 22 października 2013.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Zob. Henri Lefebvre, <em>The Production of Space</em>, przeł. Donald Nicholson-Smith, Oxford University Press, Cambridge 1991.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Nassar Rabbat, <em>Circling the Square</em>, „Artforum” 2011, nr 49, s. 182.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Slavoj Žižek, cyt. za: Jodi Dean, <em>Žižek against Democracy</em>, „Law, Culture, and the Humanities” czerwiec 2005, s. 157. (Za pomoc w tłumaczeniu cytatów z książek Žižka dziękuję Kubie Mikurdzie – przyp. tłum.).</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Slavoj Žižek, <em>Przemoc. Sześć spojrzeń z ukosa</em>, przeł. A. Górny, Warszawskie Wydawnictwo Literackie MUZA SA, Warszawa 2010, s. 213. Rozwijając metaforę kastracji Žižek przeciwstawia sobie Hitlera i Stalina. Hitler jedynie pozornie ma jaja: „wszystkie jego działania były zasadniczo reakcjami: działał tak, by zmieniło się jak najmniej, chcąc przede wszystkim zapobiec groźbie komunizmu, który wywróciłby Niemcy do góry nogami” (s. 212). Z kolei Stalin był „prawdziwie śmiały”, faktycznie miał jaja. Oczywiście godne pożałowania było to, że jego bezlitosna przemoc spowodowała „nieogarnione cierpienia”, ale prawdziwym problemem było to, że stał za nią „ślepy gniew i panika” (w odróżnieniu od chłodnej, spokojnej kalkulacji), angażujące go w czystki „na szczytach władzy” (s. 213, 214).</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Cyt. za Jodi Dean, <em>Žižek against Democracy...</em>, s. 173.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a><em>Slavoj Žižek at Occupy Wall Street: ‘We Are Not Dreamers, We Are the Awakening from a Dream Which Is Turning into a Nightmare</em>’, 10 października 2011, <a href="http://www.versobooks.com/blogs/736/" target="_blank" rel="noopener">http://www.versobooks.com/blogs/736</a>, dostęp 22 października 2013.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Zob. bardzo ciekawy artykuł Marka Griefa, <em>Drumming in Circles</em>, w: <em>Occupy! Scenes from Occupied America</em>, red. C. Blumenkranz, K. Gessen, M. Greif, S. Leonard, S. Resnick, Verso Books, New York 2011.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Martin Heidegger, <em>Sztuka i przestrzeń</em>, przeł. C. Woźniak, „Principia. Pisma koncepcyjne z filozofii i socjologii teoretycznej” 1991, tom III, s. 123.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Rosalind E. Kraus, <em>Rzeźba w poszerzonym polu</em>, przeł. M. Szuba, słowo/obraz terytoria, Gdańsk 2011; James E. Young, <em>The Counter-Monument. Memory Against Itself in Germany Today</em>, „Critical Inquiry” 1992, nr 18.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Wdzięczny jestem za tę myśl mojemu przyjacielowi i sąsiadowi Billowi Ayersowi.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Ważną inspiracją dla tych refleksji jest zasadnicza reinterpretacja relacji sztuki i polityki w pracach Jacques’a Rancière’a. Zob. zwłaszcza: idem, <em>Estetyka jako polityka</em>, przeł. J. Kutyła, P. Mościcki, Wydawnictwo Krytyki Politycznej, Warszawa 2007.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Siegfried Kracauer, <em>Ornament z ludzkiej masy</em>, przeł. C. Jenne, w: <em>Wobec faszyzmu</em>, red. H. Orłowski, Państwowy Instytut Wydawniczy, Warszawa 1987, s. 13, 15. Zob. również. Elias Canetti, <em>Masa i władza</em>, przeł. E. Brog, M. Przybyłowska, Czytelnik, Warszawa 1996; Gustave Le Bon, <em>Psychologia tłumu</em>, przeł. B. Kaprocki, Antyk, Kęty 2004; oraz krytyka typowego ujęcia psychologii tłumu jako formy szaleństwa i nieracjonalności: Ernesto Laclau, <em>Rozum populistyczny</em>, przekład zbiorowy, Wydawnictwo Naukowe Dolnośląskiej Szkoły Wyższej, Wrocław 2009.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Michael North, <em>Sfera publiczna jako rzeźba. Od </em>civitas dei<em> do ornamentu z ludzkiej masy</em>, „Magazyn Sztuki” 1995, nr 2–3.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Zob. Barry Schwabsky, <em>Sign of Protest...</em> (na temat znaków wykorzystywanych podczas OWS) oraz Michael Taussig, <em>I’m so Angry I Made a Sign...</em> (o pomnikowości ludzi trzymających znaki).</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Rosalind E. Krauss, <em>Rzeźba w poszerzonym polu</em>..., s. 275.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Michael North, <em>Sfera publiczna jako rzeźba…</em>, s. 184.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Ibidem, s. 185.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> Ibidem, s. 183.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> Ibidem.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> Ibidem, s. 185.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a> Ibidem, s. 186.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a> Ibidem, s. 182. George Wither, <em>Emblem XX</em>:</p>
+<p>Lord, let us into such like stones be squar’d:</p>
+<p>Then place us in Thy spir’t’al temple, so,</p>
+<p>That into one firm structure, we may grow</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a> Dzieło Gormleya <em>One and Other</em> (2009) odwołuje się zarówno do jednostki, jak i anonimowej zbiorowości. Ciekawym dopełnieniem pracy artysty w serii dzieł z Trafalgar Square był wspaniały „statek w butelce” Yinka Shonibare, odtwarzający w pomniejszeniu model flagowego okrętu Lorda Nelsona ozdobionego masztami wykonanymi z tkanin Afryki Zachodniej. O ile celem Gormleya była demokratyzacja monumentalnego miejsca władzy, o tyle zamiarem Shonibare było sprowadzenie ikonografii brytyjskiego imperializmu na właściwego mu miejsce – Trafalgar Square, plac zawdzięczający nazwę największemu zwycięstwu Nelsona.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a>Gaston Bachelard<em>, The Poetics of Space</em>, przeł. M. Jolas, Beacon Press, Boston 1994, s. 193.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a>Anthony Gormley, <em>Field, 1989–2003</em>...</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a> Cyt. za: Mark Hughes, <em>Brian Haw Loses Battle against Parliament Square Eviction</em>, „The Telegraph” 17 marca 2011 roku, <a href="http://www.telegraph.co.uk/news/uknews/royal-wedding/8388000/Brian-Haw-loses-battle-against-Parliament-Square-eviction.html" target="_blank" rel="noopener">http://www.telegraph.co.uk/news/uknews/royal-wedding/8388000/Brian-Haw-loses-battle-against-Parliament-Square-eviction.html</a>, dostęp 30 października 2013.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a> Adrian Searle, <em>Bears against Bombs</em>, „The Guardian” 15 stycznia 2007 roku, <a href="http://www.theguardian.com/world/2007/jan/16/humanrights.politicsandthearts" target="_blank" rel="noopener">http://www.theguardian.com/world/2007/jan/16/humanrights.politicsandthearts</a>, dostęp 30 października 2013.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a> Michael Taussig, <em>I’m so Angry I Made a Sign...</em>, s. 75.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a> Zob. Hannah Arendt, <em>O rewolucji</em>...</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a> Eric Slauter, <em>The State as a Work of Art, The Cultural Origins of the Constitution</em>, University of Chicago Press, Chicago 2009, s. 9, 16.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/archiwa-stanow-wyjatkowych/obraz-przestrzen-rewolucja.-wszystkie-sztuki-okupacji" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

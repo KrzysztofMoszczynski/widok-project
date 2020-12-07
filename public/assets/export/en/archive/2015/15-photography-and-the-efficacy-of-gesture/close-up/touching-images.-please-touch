@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Touching Images. Please Touch | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/touching-images.-please-touch">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Touching Images. Please Touch | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Touching Images. Please Touch | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/touching-images.-please-touch">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Touching Images. Please Touch | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #c69 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #c69 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #c69 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #c69 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #c69 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #c69 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #c69 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #c69 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(204,102,153,0.8) !important; */
+			/* background-color:#c69 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(204,102,153,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#c69 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(204,102,153,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#c69; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(204,102,153,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(204,102,153,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#c69 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#c69 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#c69 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-915 parent-id-908">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="906" data-selected-issue-color="#c69" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2015/obraz-patos/touching-images.-prosze-dotykac">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2015/obraz-patos/touching-images.-prosze-dotykac">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/15-photography-and-the-efficacy-of-gesture#toc">12</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/touching-images.-please-touch?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Touching Images. Please Touch</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/touching-images.-please-touch?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=570">Kuba Mikurda</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Jan Szelągiewicz
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>1</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/touching-images/307-4936-1-pb-1920x-51a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/touching-images/307-4936-1-pb-330x-663.jpg 330w,assets/cache/images/issues/2015/12/touching-images/307-4936-1-pb-660x-ee1.jpg 660w,assets/cache/images/issues/2015/12/touching-images/307-4936-1-pb-768x-da8.jpg 768w,assets/cache/images/issues/2015/12/touching-images/307-4936-1-pb-1320x-acc.jpg 1320w" src="assets/cache/images/issues/2015/12/touching-images/307-4936-1-pb-660x-ee1.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <blockquote>“In the early days of cinema, the editing room resembled the workshop of a&nbsp;tailor or a&nbsp;handyman. The tables and floor strewn with&nbsp;black, rustling coils, long strips of film hanging by the window. The hands of the editor imitating a&nbsp;projector, lifting the film up against&nbsp;the light, moving it between&nbsp;their fingers. This&nbsp;will become the preferred pose which future pioneers of cinematography, including Sergei Eisenstein, Charlie Chaplin, and Leni Riefenstahl (wearing a&nbsp;pair of leather gloves), will often be photographed in. Back then there was no device that&nbsp;would allow an editor to preview their work in progress—if they wanted to see anything, they had to run the film manually. Fingertips rubbing the celluloid, the film scraping the epidermis, swiping off&nbsp;a&nbsp;layer of sweat and dust. The fingerprint smudged into&nbsp;a&nbsp;long, vertical line. The ribbon of film cold, stiff, and slick.”</blockquote> <p><br><br><br></p> <h2>2</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/touching-images/307-4938-1-pb-1920x-e2a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/touching-images/307-4938-1-pb-330x-485.jpg 330w,assets/cache/images/issues/2015/12/touching-images/307-4938-1-pb-660x-9ea.jpg 660w,assets/cache/images/issues/2015/12/touching-images/307-4938-1-pb-768x-030.jpg 768w,assets/cache/images/issues/2015/12/touching-images/307-4938-1-pb-1320x-780.jpg 1320w" src="assets/cache/images/issues/2015/12/touching-images/307-4938-1-pb-660x-9ea.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <blockquote>“After snapping the picture, take the print out of the Polaroid camera and make sure to dry it out thoroughly—don’t wave it in your hand, use a&nbsp;hair dryer or place on a&nbsp;radiator. Cut the frame away. When the print is completely dry, boil water in a&nbsp;kettle, pour it into&nbsp;a&nbsp;container and then immerse the picture in the water. Wait until&nbsp;the emulsion starts to peel away from&nbsp;its bed. Then, very carefully, pull the picture out of the water bath and transfer to a&nbsp;container filled with&nbsp;lukewarm water. Remember, at this&nbsp;stage the picture is incredibly delicate, prone to tearing and damage. Carefully grab a&nbsp;layer of emulsion with&nbsp;your fingers and pull. Slowly peel it away from&nbsp;its bed, working your way from&nbsp;the edges towards&nbsp;the middle. When your done, remove the paper from&nbsp;the container. In your hand, you’re holding a&nbsp;layer of emulsion—the semi-fluid, sticky epithelium of the image. It’s pliable, you can shape it any way you want, or transfer it onto&nbsp;any sort of base after&nbsp;taking it out of the water.”</blockquote> <p><br><br><br></p> <h2>3</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/touching-images/307-4940-1-pb-1920x-bad.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/touching-images/307-4940-1-pb-330x-00b.jpg 330w,assets/cache/images/issues/2015/12/touching-images/307-4940-1-pb-660x-811.jpg 660w,assets/cache/images/issues/2015/12/touching-images/307-4940-1-pb-768x-183.jpg 768w,assets/cache/images/issues/2015/12/touching-images/307-4940-1-pb-1320x-f0d.jpg 1320w" src="assets/cache/images/issues/2015/12/touching-images/307-4940-1-pb-660x-811.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <blockquote>“The girl turned the key and opened the door. A&nbsp;glare blinded her the moment after&nbsp;she did so—the chamber was filled with&nbsp;piles of gold and precious gems. She walked in. Carefully, one step after&nbsp;another, she walked deeper into&nbsp;the room. Her eyes trailed along&nbsp;the walls, along&nbsp;the steel-reinforced chests, bulging sacks dripping gleaming coins. She gazed at splendid chalices, gowns embroidered with&nbsp;pearl thread, plate armor adorned with&nbsp;exotic feathers. The words of the prince, hitherto sonorous and powerful, were slowly fading in her ears: “You can look, but&nbsp;you can’t touch.” Finally, they disappeared from&nbsp;her ears completely (…) The girl’s head began spinning—she looked at the wall, adorned with&nbsp;a&nbsp;sprawling, vibrantly colored tapestry. Women in patterned dresses danced, their gowns twirling, the men saddled their horses and sharpened their blades (…) She thought she could hear music, could feel the warmth emanating from&nbsp;their bodies. The girl held out her hand to feel the soft weave of the tapestry—suddenly, she felt as if a&nbsp;terrible wind started to blow, as if a&nbsp;flock of huge, black birds took flight and dispersed violently in all directions. Terrified, she looked around—the chamber was completely empty.”</blockquote> <p><br><br><br></p> <h2>4</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/touching-images/307-5374-1-pb-1920x-433.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/touching-images/307-5374-1-pb-330x-1ef.jpg 330w,assets/cache/images/issues/2015/12/touching-images/307-5374-1-pb-660x-ca4.jpg 660w,assets/cache/images/issues/2015/12/touching-images/307-5374-1-pb-768x-f0c.jpg 768w,assets/cache/images/issues/2015/12/touching-images/307-5374-1-pb-1320x-eb5.jpg 1320w" src="assets/cache/images/issues/2015/12/touching-images/307-5374-1-pb-660x-ca4.jpg" alt="" ></a>    <figcaption><p>Hans Holbein, <em>Ambasadorowie </em>, 1533 [detal]</p></figcaption>   </figure>  </section><section class="u-typo">   <blockquote>“Museums often include special accessibility features for&nbsp;the visually impaired. Next to selected paintings you can find their bas-relief versions made out of some sort of plastic, usually resin. Each bas-relief is a&nbsp;meticulous reproduction of the objects making up the original—their shapes, relationships, and composition. By touching the bas-relief, the visitor can “look” at the painting piecemeal, translating tactile sensation into&nbsp;a&nbsp;mental image of the painting.”</blockquote> <p><br><br><br><br><br></p> <h2>To Touch</h2> <p>“Please do not touch the exhibits”—this mantra that&nbsp;we’ve been hearing since&nbsp;childhood mostly implies that&nbsp;we shouldn’t be trying to touch an image. In a&nbsp;sense—the exhibit, the object “exhibited” in a&nbsp;gallery, museum, or a&nbsp;storefront window, is always some some sort of image, regardless of whether it’s—technically—a painting, a&nbsp;photograph, a&nbsp;sculpture, a&nbsp;performance, or a&nbsp;commodity. It is an image, and it is there to be seen; something we perceive with&nbsp;our eyes rather than&nbsp;our sense of touch, smell, taste, or hearing (we’ll explore the few exceptions a&nbsp;bit further on). Galleries, museums, exhibitions, as well as theaters and cinemas—they are apparatuses for&nbsp;looking, places designed to favor visual perception above&nbsp;all. In each of these places, the thing we’re supposed to look at is appropriately “exhibited”, that&nbsp;is isolated, separate, highlighted. The “frame” is another constituent element of an “apparatus for&nbsp;looking” defined in this&nbsp;way—not so much the physical frame enclosing the painting (wooden, gilded, metal), as all the elements—both material and immaterial— that&nbsp;distance the observer from&nbsp;the object they are observing (and thus turn any object into&nbsp;an image). The glass encasing a&nbsp;painting is a&nbsp;frame; so too are the “do not touch the exhibits” warnings; so is the velvet rope preventing entry and the angry glances the staff sends our way when we get too close to the canvas; the frame of the screen as well as the distance between&nbsp;the projection screen and the seats. Vision is the only one of the five senses which requires distance, however small, between&nbsp;the sensory organ and the sensed object—we can put our ears, noses, tongues, or fingers to an object and still hear, smell, taste, and touch it, but&nbsp;putting an object directly up to our eye and seeing it is physically impossible. Thus, the frame—defined here as distance, a&nbsp;more or less specific buffer between&nbsp;an object and the body of the observer—truly determines sight, which, in turn, determines that&nbsp;the image truly is an image.</p> <p>Thus, touching the image, physical, tactile contact with&nbsp;the image, implies violation of the frame—and in extreme cases, its complete obliteration (which, in turn, results in the destruction of the image as image, its transformation into&nbsp;a&nbsp;scrap of matter that&nbsp;can be touched, tasted, smelled, and heard—although the latter only rarely). Observing that&nbsp;each “apparatus for&nbsp;looking” devises its own frame in a&nbsp;different manner—according to more or less apparent assumptions, ideological, functional, etc.—is supremely important to our further considerations. Thereby, “touching images”, or “taking images up in one’s hand” is a&nbsp;critical gesture par excellence—since it is the violation of the frame that&nbsp;opens up the possibility of a&nbsp;genuine, critical reflection on images and the manner they’re presented in. Firstly—it reveals that&nbsp;the frame exists (which is not always obvious); secondly—it enables us to investigate its assumptions and its consequences for&nbsp;the perception of images by the observer; thirdly—in favorable conditions, it results in the renegotiation of the frame itself and presentation of the image according to new principles. However, as in the case of museums, galleries, and storefront windows, we can expect that&nbsp;when dealing with&nbsp;heavily guarded objects, violating the frame/taking the image up in one’s hand will have very violent results—including the sounding of alarms and the intervention of security personnel.</p> <p>Only a&nbsp;select few are legally allowed to tactilely commune with&nbsp;images, but&nbsp;even they have to make themselves scarce as soon as an intended audience appears. Art conservators make every effort not to disturb the original structure of a&nbsp;painting and put it back into&nbsp;its original frame. Service personnel have to remove every trace of the work they often have to put in to construct a&nbsp;frame the day before&nbsp;an exhibition opens to the general public. Editors, considered “essential yet invisible” since&nbsp;the dawn of cinema, work to arrange images in such a&nbsp;way that&nbsp;the audience is prevented from&nbsp;noticing the frame of the shot, the frame of the screen, or even the frame of the theater itself. The critic works the other way around—the critic is the de-conservator, de-serviceperson, de-editor, the touch of the critic is illegal and happens in full view of the audience, during&nbsp;opening hours.</p> <p>Psychoanalysis has provided us a&nbsp;concept of the frame with&nbsp;an energetic dimension. The frame acts as a&nbsp;mechanism that&nbsp;siphons off&nbsp;the psychic energy (libido) of the observer in order to “embed” it into&nbsp;the image. It’s a&nbsp;peculiar feeling that&nbsp;surely most of us have experienced, to a&nbsp;greater or lesser degree, in one of the “apparatuses for&nbsp;looking”. Because of the frame, the image seems to the observer the product of a&nbsp;different order, a&nbsp;different space; as if the distance separating them were not just physical distance; as if the image were out of reach although clearly within&nbsp;it. The observer usually decides that&nbsp;this peculiar feeling of non-physical (meta-physical?) distance is derivative of the image’s own unique characteristics; the mysterious “something” that&nbsp;separates it from&nbsp;everything else around&nbsp;it. But—and herein lies the “Copernican revolution” of psychoanalysis—that “something” is nothing more than&nbsp;our (the viewers’) psychic energy drawn and redirected by the frame and embedded in the image. In other words—that mysterious “something”, the “shine” emanating from&nbsp;the image, is always reflected light; the image never radiates any light, it only reflects our own fascinated gaze. In psychoanalysis, that&nbsp;process is called “sublimation”—the captivation and redirection of psychic energy towards&nbsp;an object/image causes the observer to see it differently, to notice in it “something more”. In Jacques Lacan’s categories, sublimation transforms any object/image into&nbsp;the Thing with&nbsp;w&nbsp;capital “T”.<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a> The stronger and more guarded the frame, the more powerful the sublimation, the more powerful the embedding of the object/image and, thereby, the more powerful the feeling that&nbsp;the image hails from&nbsp;elsewhere and that&nbsp;there is something special and unique about&nbsp;it. In cases of extreme sublimation, encountered in cult/religion-affiliated “apparatuses for&nbsp;looking”, the frame can completely overshadow the image and cut the observer’s access off&nbsp;completely. An image shielded in such a&nbsp;manner inspires intense, liminal emotions—sublimity, terror, elation (what Lacan termed “ecstasy”—jouissance).</p> <p>Therefore the frame always results in the sublimation of object/image, however minute, while the intensity of the sublimation is directly proportional to the power of the frame itself (the distance it introduces; the degree of its entrenchment in tradition; the powers that&nbsp;shield it, etc.) Touching images is a&nbsp;reverse process—it entails their desublimation, their “grounding”, relieving the psychic energy embedded in them. This&nbsp;sort of desublimation is what fables with&nbsp;a&nbsp;“look but&nbsp;don’t touch” moral are supposed to warn us against, they are to convince us that&nbsp;violating this&nbsp;proscription always results in catastrophe (as such, fables—as they are wont to do—protect the status quo as the only feasible order). Touching “breaks the spell” of images, it abolishes their mysterious je ne sais quoi which has hitherto made them so different, so appealing. Or—to invoke another, related category—touching images profanes them, and does so in the sense described by Agamben:</p> <blockquote>Profanation (…) neutralizes what it profanes. Once profaned, that&nbsp;which was unavailable and separate loses its aura and is returned to use. (…) [Profanation] deactivates the apparatuses of power and returns to common use the spaces that&nbsp;power had seized [here—images].<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a></blockquote> <p>Images taken in hand, pulled out of their frame — the glass casing in a&nbsp;museum, an editing sequence, or a&nbsp;storefront window — regain their potentiality, open up to new uses and new edit —from collages, through&nbsp;found footage films, to critical exhibitions and performative efforts; the “semi-fluid, sticky” image that&nbsp;you “shape any way you want, or transfer it onto&nbsp;any sort of base after&nbsp;taking it out of the water.” To touch an image is to throw it back onto&nbsp;the editing table, to play with&nbsp;it in all seriousness and in as involved a&nbsp;manner as possible; to open the image up to “a new dimension of use, which children and philosophers give to humanity.”<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a></p> <p></p> <h2>To Be Touched</h2> <p>Touching implies reciprocity to a&nbsp;degree that&nbsp;no other sense does—to touch is to be touched, to reveal oneself, to open oneself up to touch. Vision is asymmetrical, it requires no reciprocity and often avoids it—in most instances, to “look” is to “surveil”, that&nbsp;is to see without&nbsp;being seen. As such, looking always implies a&nbsp;relationship of power—those who look control what/who they are looking at. Only when the subject of the gaze raises their eyes to meet that&nbsp;gaze will the relationship be reciprocal. Games like&nbsp;“who blinks first” or “who looks away first” are always power plays. Power makes every effort to preserve its privilege of looking—“Don’t you fucking look at me!”, says Frank Booth in Blue Velvet (dir. David Lynch, 1986) and thus introduces his first prohibition. The moment in which the person who looks, convinced of their power, first realizes that&nbsp;they are being seen, is critical—they can either acquiesce to the reciprocity (and thus renounce their power), force the one looking at them to turn their eyes away, or—as a&nbsp;last resort—extricate themselves from&nbsp;the situation, as quickly as possible. That&nbsp;is why exchanging glances, “looking into&nbsp;another’s eyes”, is a&nbsp;visual relationship, and one that—because of its reciprocal nature—resembles touch to the greatest degree (and often, in erotic situations for&nbsp;example, functions as a&nbsp;prelude to it).</p> <p>But can an image and its observer be locked in “an exchange of gazes”—can we say that&nbsp;they “touch” each other? Lacan spoke in these categories—an exchange of gazes takes place when the person looking realizes that&nbsp;the image they are looking at is not neutral but&nbsp;rather assumes his presence from&nbsp;the very outset and more—it forces him to look at the image in a&nbsp;certain way and from&nbsp;a&nbsp;certain point. Like&nbsp;pornographic footage featuring the actors looking directly into&nbsp;the lens, directly into&nbsp;the eyes of their audience—“I know you’re there, I&nbsp;know you’re looking, I&nbsp;know what you want to see”; like&nbsp;one of the main characters in Michael Haneke’s Funny Games (1997), blinking knowingly towards&nbsp;the audience—“I know you’re there”; like&nbsp;the anamorphic skull in Hans Holbein’s The Ambassadors that&nbsp;forces the observer to shift perspective and look at the painting from&nbsp;a&nbsp;certain point. This&nbsp;“gaze” of the image is like&nbsp;a&nbsp;powerful beam of light emitted by the image/screen that&nbsp;falls on the audience—blinding the observer/voyeur, pulling them out of the darkness and putting them “on display”.</p> <p>Are we therefore inevitably forced to rely on metaphor and approximation in discussing “the touch of the image”? “It’s as if the image itself reached out”, etc. In his “tactile experiments”, the Czech surrealist artist Jan Švankmajer considered the tactile potential of the image (and, conversely, the visual potential of touch) much more literally, invoking the holistic nature of perception. He pointed out that&nbsp;vision and touch, like&nbsp;no other pair of senses, are intertwined so tightly that&nbsp;it “is possible to even speak of a&nbsp;doubled sense Touch –&nbsp;Sight.”<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a> Although, over&nbsp;the course of human development, touch—initially dominant—is eventually subordinated to sight, in our everyday lives “especially while performing a&nbsp;utilitarian action these two senses are merged.”<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a> This&nbsp;is why isolated tactile stimuli are often accompanied by powerful visual sensations, sometimes bordering on hallucinations, while visual stimuli are accompanied by tactile sensations. Memory, according to Švankmajer, intertwines visual and tactile stimuli so tightly that&nbsp;when we “only see” or “only touch”, our brains tend to simulate the missing sensations. Švankmajer then adds:</p> <blockquote>That is why in my films I&nbsp;work on emphasising the textures of the filmed objects through&nbsp;great detail, animation of a&nbsp;gesture imprinted into&nbsp;soft materials such as clay or plasticine, by 'torturing' of objects, destruction, emphasising of the state or the properties of matter.<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a></blockquote> <p>By depicting the act of touching from&nbsp;up close, the artist intends to elicit “tactile hallucinations” in the mind of the audience, to create a&nbsp;sort of “tactile composition” which would complement the traditional audiovisual composition. “Generally, I&nbsp;believe that&nbsp;sight can, to a&nbsp;greater or lesser extent and depending on the individual, transmit tactile stimuli in an indirect way. However, some degree of insufficiency is bound to remain.”<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a></p> <p>There may be, however, a&nbsp;way to do so in a&nbsp;more direct, violent manner—the image can touch the beholder by presenting particularly intense visual stimuli, intense enough to “make the eyes hurt”, to irritate the optic nerve and the muscles of the eye. Just as in Christophe Girardet and Matthias Müller’s <em>Contre-jour</em> (2009), or Peter Tscherkassky’s <em>Instructions for&nbsp;a&nbsp;Light &amp; Sound</em><em></em><em>Machine</em> (2005), both found footage films, in which stroboscopic editing, sudden transitions between&nbsp;light and darkness, white and black, and being in and out of focus, force the eyes to perform very intense labor. Watching these films can remind the viewer that&nbsp;the eye not only sees but&nbsp;“feels” too, that&nbsp;it is an organ just like&nbsp;any other, that&nbsp;it depends on an intricate network of muscles and nerves and that&nbsp;it can be physically exhausted.</p> <p>The territory between&nbsp;neurophysiological literalness and metaphor is explored by Laura U. Marks, the main driving force behind&nbsp;“haptic image” theory and the postulates of “haptic criticism”. Following&nbsp;in the footsteps of Alois Riegel, a&nbsp;late 19th century art historian from&nbsp;Vienna, Marks juxtaposes “haptic seeing” with&nbsp;“optic seeing”. To see “optically” is to see clearly, from&nbsp;a&nbsp;distance, in one perceptual batch; to distinguish one element from&nbsp;another, the figure from&nbsp;the background; to look and know what one is looking at. “Haptic” vision works the other way around—it entails looking from&nbsp;up close, moving one’s eyes aimlessly along&nbsp;the surface of the image, consuming it piecemeal, contemplating the form, texture, matter; haptic vision does away with&nbsp;outlines, it does not separate the figure from&nbsp;the background; in Marks own words, it’s like&nbsp;looking at the skin of our lover, from&nbsp;“an inch away [it] becomes its own absorbing world, its gleam and pores and tiny hairs playing a&nbsp;delicate game of bas-relief.”<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> The “optic” image usually has a&nbsp;purpose and a&nbsp;function—symbolic and/or narrative; it is, in a&nbsp;sense, virtual, transparent—it works only when it refers to something outside&nbsp;of itself, to some meaning it symbolizes or a&nbsp;narrative it’s conveying. The “haptic” image is, in Agamben’s words, “a means without&nbsp;an end” which reveals to the beholder its sensual quality, its material weight. Like&nbsp;Švankmajer’s, Marks’s haptic images depict matter, surfaces from&nbsp;up close; they are images of touch, images of contact between&nbsp;flesh and a&nbsp;variety of stimuli, elements, and objects; the rubbing of skin on skin, on fabrics, on metal, plastics, glass, wood, and stone; they are images that&nbsp;“aren’t all that&nbsp;clear”—they’re out of focus, over- or underexposed; they are images that&nbsp;expose their texture—the graininess of film, the static noise of the VHS tape, digital glitches.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/12/touching-images/307-5376-1-pb-1920x-745.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/12/touching-images/307-5376-1-pb-330x-e6f.jpg 330w,assets/cache/images/issues/2015/12/touching-images/307-5376-1-pb-660x-168.jpg 660w,assets/cache/images/issues/2015/12/touching-images/307-5376-1-pb-768x-50e.jpg 768w,assets/cache/images/issues/2015/12/touching-images/307-5376-1-pb-1320x-b38.jpg 1320w" src="assets/cache/images/issues/2015/12/touching-images/307-5376-1-pb-660x-168.jpg" alt="" ></a>    <figcaption><p>Marcel Duchamp, <em>Prière de toucher</em>, 1947</p></figcaption>   </figure>  </section><section class="u-typo">   <p>“Haptic criticism” postulated by Marks entails the suspension of optical vision in order to touch the image and be touched by it. It implies a&nbsp;“slow look” founded upon&nbsp;a&nbsp;specific give and take, a&nbsp;symbolic and narrative economy of image according to which the image is worth only as much as its meaning, or the next beat of the narrative. There is something deeply erotic in such a&nbsp;definition of touch/touch images—to quote Marks, “haptic images are erotic regardless of their content, because they construct a&nbsp;particular kind of intersubjective relationship between&nbsp;beholder and image. Eroticism arrives in the way a&nbsp;viewer engages with&nbsp;this surface and in a&nbsp;dialectical movement between&nbsp;the surface and the depth of the image.”<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a> This&nbsp;is anti-Oedipal (or maybe simply pre-Oedipal) eroticism, related to the “new eroticism” that&nbsp;Švankmajer postulated in Conspirators of Pleasure (1996). An eroticism that&nbsp;assumes a&nbsp;specific ethics of vision—a vision that&nbsp;renounces power (including the power to interpret) over&nbsp;the image, that&nbsp;does not aim to appropriate or exhaust it. “Eroticism is an enounter with&nbsp;an other that&nbsp;delights in the fact of its alterity, rather than&nbsp;an attempt to know it.”<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a>– writes Marks, making use of Levinas. “Visual erotics allows the thing seen to maintain its unknowability, delighting in playing at the boundary of that&nbsp;knowability. Visual erotics allows the object of vision to remain inscrutable.”<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a> Like&nbsp;the surface of the image that&nbsp;thickens, congeals, coagulates after&nbsp;being taken out of the frame.</p> <blockquote>“In your hand, you’re holding a&nbsp;layer of emulsion—the semi-fluid, sticky epithelium of the image.”</blockquote>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>“Sublimation (…) raises an object (…) to the dignity of the Thing.”, Jacques Lacan, The Ethics of Psychoanalysis 1959-1960. The Seminar of Jacques Lacan. Book VII, transl. D. Potter, (London: Routledge, 1992), 112.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Giorgio Agamben, Profanations, trans. Jeff Fort (New York: Zone Books, 2007), 77.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Ibid, 76.</p>
+<p><a name="_GoBack"></a><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Michael Brooke, “Free Radical”, Vertigo Magazine 5, no. 3 (2007), accessed February 2, 2016. <a href="https://www.closeupfilmcentre.com/vertigo_magazine/volume-3-issue-5-spring-2007/free-radical/" target="_blank" rel="noopener">https://www.closeupfilmcentre.com/vertigo_magazine/volume-3-issue-5-spring-2007/free-radical/</a></p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Ibid.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Ibid.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Ibid.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Laura U. Marks, “Haptic Visuality. Touching with the Eyes”, Framework. The Finnish Art Review 2 (2004): 80.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Laura U. Marks, Touch: Sensous Theory and Multisensory Media, (Minnesota: University of Minnesota Press, 2002), 13.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Ibid, 18.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>Ibid.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/touching-images.-please-touch" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

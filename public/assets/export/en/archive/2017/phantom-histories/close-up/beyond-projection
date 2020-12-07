@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title> Beyond Projection.  | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/beyond-projection">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content=" Beyond Projection.  | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content=" Beyond Projection.  | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/beyond-projection">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content=" Beyond Projection.  | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #9c9c53 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #9c9c53 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #9c9c53 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #9c9c53 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #9c9c53 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #9c9c53 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #9c9c53 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #9c9c53 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(156,156,83,0.8) !important; */
+			/* background-color:#9c9c53 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(156,156,83,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#9c9c53 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(156,156,83,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#9c9c53; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(156,156,83,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(156,156,83,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#9c9c53 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#9c9c53 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#9c9c53 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-614 parent-id-583">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="581" data-selected-issue-color="#9c9c53" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2017/historie-fantomowe/poza-projekcja">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2017/historie-fantomowe/poza-projekcja">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/phantom-histories#toc">18</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/beyond-projection?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span> Beyond Projection. History and Empathy in the films by Yervant Gianikian and Angela Ricci Lucchi</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/beyond-projection?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=308">Paweł Mościcki</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Jan Szelągiewicz
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote>We can no longer afford to take that&nbsp;which was good in the past&nbsp;and simply call it our heritage, to discard the bad and simply think of it as a&nbsp;dead load which by itself time will bury in oblivion. The subterranean stream of Western history has finally come to the surface and usurped the dignity of our tradition. This&nbsp;is the reality in which we live. And this&nbsp;is why all efforts to escape from&nbsp;the grimness of the present into&nbsp;nostalgia for&nbsp;a&nbsp;still intact past, or into&nbsp;the anticipated oblivion of a&nbsp;better future, are vain.</blockquote> <blockquote>—Hannah Arendt<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup></blockquote> <p></p> <p>What is the conformism of the present? How do we define the indolence of an era and its contribution to the curtailing of the vital forces inherent in historical processes? How do we organize time that&nbsp;lacks space for&nbsp;revolutionary change? We would probably begin by defining how a&nbsp;given moment in time determines the experience available within&nbsp;it, what language is used to describe it and what visuals are generated in its support, as well as what that&nbsp;moment excludes, marginalizes, and defines in a&nbsp;purely negative manner. In every such moment we can identify features that&nbsp;play key roles and features whose meanings have not yet been fully actualized. Establishing that&nbsp;hierarchy is far from&nbsp;natural — it is based on a&nbsp;series of decisions which, coincidentally, also contribute to the shaping of a&nbsp;very particular kind of power. Thus it follows that&nbsp;all qualities emerging in a&nbsp;given timeframe can be further divided into&nbsp;victorious and vanquished, dominant and subordinate.</p> <p>This, however, also implies a&nbsp;struggle for&nbsp;control over&nbsp;time, at least to such a&nbsp;degree that&nbsp;it allows one to manage and define its dynamic, availability, or value. Each present entails a&nbsp;struggle for&nbsp;domination, including domination in this&nbsp;particular area. Therefore, conformism of the present entails, first and foremost, the generation of a&nbsp;sense of continuity and positivity in what is experienced. On the one hand, current time seems the direct product of a&nbsp;discernible and assimilated past, while on the other it emerges as a&nbsp;wholly separate entity by cleaving itself away from&nbsp;that which has gone before. The past&nbsp;produces the boundary conditions for&nbsp;the present, but&nbsp;does not, however, interfere directly in its course. This, in turn, allows the present to be exactly that&nbsp;which it can say about&nbsp;itself — the other distinct characteristic of its conformism. As such, the present has at its disposal a&nbsp;complete language, one deeply rooted in history albeit unhaunted by its restless ghosts. Thus, that&nbsp;which is put front and center at a&nbsp;given moment is imbued with&nbsp;a&nbsp;measure of naturalness and obviousness. Third, the conformist present defines the conditions under&nbsp;which history can continue, thus conceiving a&nbsp;very specific relationship between&nbsp;itself and the coming future. Thus, this&nbsp;relationship is always one of continuation, one that&nbsp;aims to maintain and preserve the positive aura of experienced time.</p> <p>A present constructed thusly recasts historical experience itself as an instrument with&nbsp;which to neutralize that&nbsp;which is not incorporated into&nbsp;the smooth transition between&nbsp;separate temporal dimensions, thus reinforcing existing power structures. This&nbsp;does not mean that&nbsp;the experience of one’s time within&nbsp;that present is not particularly intense. On the contrary, the exultation it offers comes in a&nbsp;variety of forms; <em>de facto</em>, however, these forms serve only to preserve already existing frames and frameworks. This&nbsp;paradox of <span class="rozstrzelony">experience as neutralization</span> is a&nbsp;blindspot at the very center of every here and now.</p> <h2>***</h2> <p>“Every age must strive anew to wrest tradition away from&nbsp;the conformism that&nbsp;is working to overpower it,”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup> wrote Walter Benjamin in his final work, <em>On the Concept of History</em>. The passage comes from&nbsp;Benjamin’s meditation on the possibility of crafting a&nbsp;method of historical inquiry capable of questioning the integrity of history. It soon becomes apparent, however, that&nbsp;the first enemy of it is historicism, wherein historical inquiry is based on empathizing with&nbsp;the past. Who, ultimately, does the historian empathize with? “The answer is inevitable: with&nbsp;the victor. And all rulers are the heirs of prior conquerors. Hence, empathizing with&nbsp;the victor invariably benefits the current rulers.”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> Empathizing becomes a&nbsp;way to find one’s bearings in the past, acknowledging one’s own projection as the only genuine representation of past&nbsp;events. In Benjamin’s essay, empathy toward&nbsp;history turns out to be a&nbsp;symptom of conformism which, either masquerading as affect or within&nbsp;genuinely elicited emotion, binds the past&nbsp;to the present in a&nbsp;manner that&nbsp;further reinforces its inherent power structures. Thus, the era that&nbsp;wants to see itself reflected only in the more triumphant resources of tradition ignores the fact that&nbsp;the very act itself reproduces past&nbsp;injustices.</p> <p>The historical materialist who Benjamin sees as his alter ego does not empathize with&nbsp;the past; on the contrary, he tries to view it, and particularly its legacy, with&nbsp;cautious detachment.</p> <blockquote>For in every case these [cultural — transl. note] treasures have a&nbsp;lineage which he cannot contemplate without&nbsp;horror. They owe their existence not only to the efforts of the great geniuses who created them, but&nbsp;also to the anonymous toil of others who lived in the same period. There is no document of culture which is not at the same time a&nbsp;document of barbarism. And just as such a&nbsp;document is never free of barbarism, so barbarism taints the manner in which it was transmitted from&nbsp;hand to another.<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup></blockquote> <p>That detachment allows him to “brush history against&nbsp;the grain,”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> that&nbsp;is to say to extract from&nbsp;the agglomeration of tradition those excluded and nameless factors that&nbsp;have been a&nbsp;part of history and have contributed to it. Thus, every individual element of heritage and legacy becomes essentially ambiguous because, aside from&nbsp;testifying to the genius and excellence of past&nbsp;generations, it also documents the exploitation as well as their cruelty and blindness.</p> <p>A couple of decades ago, Guy Debord called the period we live in an era of “integrated spectacle,” a&nbsp;name that&nbsp;still applies and is still relevant in that&nbsp;context.<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> Under&nbsp;the rule of integrated spectacle, relationships of power become accumulated to the point they become image,<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> and it is chiefly by way of image or a&nbsp;multitude of images that&nbsp;they clandestinely transmit that&nbsp;particular form of experience that&nbsp;is required by the current structure of dominance. Trapped by images, more spectators than&nbsp;active participants, the inhabitants of the modern world become the more alienated the greater their empathy toward&nbsp;the transmissions they receive. Today, this&nbsp;alienation takes the guise of “genuine experience,” intense emotions elicited by images that&nbsp;enthral, captivate, frighten, and delight. Although we have witnessed a&nbsp;profound decentralization of communication since&nbsp;the release of <em>The Society of Spectacle</em>, in this&nbsp;particular area everything has remained pretty much the same. We may even argue that&nbsp;thanks to these new forms of visual transmission, spectacle has even penetrated into&nbsp;the smallest of gestures, glimpses, and reflexes that&nbsp;until now seemed separate or at least independent from&nbsp;it.<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup></p> <p>Debord argues that&nbsp;the society of spectacle is not only organized around&nbsp;the inexperience of reality, but&nbsp;that it also neutralizes the ability to experience time, and thus, negates the very essence of history itself. “The spectacle, being the reigning social organization of a&nbsp;paralyzed history, of a&nbsp;paralyzed memory, of an abandonment of any history founded in historical time, is in effect a&nbsp;false consciousness of time,”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> he wrote.</p> <p>If each revolution, each novelty appearing on the horizon, fundamentally serves to reinforce existing structures around&nbsp;which the life of a&nbsp;society is organized, then it is impossible for&nbsp;time to truly have any effect, or effect any change whatsoever. This&nbsp;is why life dominated by spectacle unfolds in the persistent present, the more devoid of content the more it is bombarded with&nbsp;breaking news about&nbsp;important events. That&nbsp;particular outlook, strikingly apocalyptic, seems to imply that&nbsp;the gradual suppression of experience has already been pre-programmed and that&nbsp;every day from&nbsp;that point onwards only reaffirms the sentence.</p> <blockquote>The manufacture of a&nbsp;present […] which wants to forget the past&nbsp;and no longer seems to believe in a&nbsp;future, is achieved by the ceaseless circularity of information, always returning to the same short list of trivialities, passionately proclaimed as major discoveries. Meanwhile news of what is genuinely important, of what is actually changing, comes rarely, and then in fits and starts. It always concerns this&nbsp;world’s apparent condemnation of its own existence, the stages in its programmed self-destruction<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup></blockquote> <p>Debord argues in distinctly fateful tones.</p> <p>As we contemplate the conformism of our era, we cannot explicitly reject the possibility that&nbsp;we live, as asserted by Cédric Lagandré, in “pure actuality,” which seems “devoid of the thousand of virtualities that&nbsp;distress reality.”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup> The era that&nbsp;stripped itself of all becoming, all incompleteness, all potentiality, becomes only a&nbsp;“comprehensive reproduction of the world in its pure and perfect form,”<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup> and, as such, exists as “pure catastrophe and pure usurpation.”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup> At the heart of the catastrophe inherent in this&nbsp;actuality is the notion that&nbsp;nothing may ever disintegrate and decay again. The currently operative form of the present is either so durable or so flexible that&nbsp;it is impossible to come up with&nbsp;a&nbsp;meaningful, fundamental reorganization of its entire structure. Thus, we have to ask ourselves whether such a&nbsp;world still allows an interpretation of imagery that&nbsp;cultivates a&nbsp;different form of catastrophe; one that&nbsp;Benjamin mentions in his meditation on historical materialism:</p> <blockquote>What are phenomena rescued from? Not only, and not in the main, from&nbsp;the discredit and neglect into&nbsp;which they have fallen, but&nbsp;from the catastrophe represented very often by a&nbsp;certain strain in their dissemination, their “enshrinement as heritage.” — They are saved through&nbsp;the exhibition of the fissure within&nbsp;them. — There is a&nbsp;tradition that&nbsp;is catastrophe.<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup></blockquote> <h2>***</h2> <p>For the past&nbsp;couple of decades, Yervant Gianikian and Angela Ricci Lucchi have been consistently and ambitiously developing their highly original notion of archive cinema.<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup> Their works run counter to the majority of contemporary visual culture: they are slow-paced, deliberate, meditative pictures, devoid of any overt, distinct dramaturgy or even any commentary. Ostentatiously self-centered, always on the lookout for&nbsp;appealing digressions. Nearly all of the duo’s works are based around&nbsp;carefully selected and meticulously processed bits of archival footage, usually from&nbsp;the World War I&nbsp;period or the interwar years.<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup> Even the color palette of the frames is a&nbsp;manifestation of their separate, distinct nature. The films are not exactly black-and-white, but&nbsp;rather yellowed, greenish, reddish. Thus, they rarely bring up associations with&nbsp;domesticated representations of the past&nbsp;in the form of a&nbsp;black-and-white newsreel, but&nbsp;instead seem to suggest that&nbsp;we are looking at an embodiment of the past&nbsp;perfect tense, something we could see as precursory to the past&nbsp;that we consider our heritage.</p> <p>At the same, the artists, deeply committed to the archives of 20th century history, continue to emphasize that&nbsp;they are chiefly interested in the present and it is in the pursuit of the present that&nbsp;they craft their narratives. Their approach is encapsulated in a&nbsp;watercolor painted by Lucchi in 1996. The picture features both filmmakers sitting in front of a&nbsp;huge white screen featuring a&nbsp;caption outlining the general direction of the duo’s cinematographic efforts: “un-political, un-aesthetic, un-educational, un-progressive, un-cooperative, un-ethical, in-coherent: contemporary.” That’s what cinema is supposed to be like. The formula, however, should not be read as simple binary opposition between&nbsp;the need to be contemporary and all the other duties of the artist. It is, rather, the negating particle preceding politics, ethics, and progress that&nbsp;can be ultimately relativized in light of contemporaneity and in the face of a&nbsp;present ceaselessly traced by moving pictures. The work of Gianikian and Ricci Lucchi is undoubtedly political, as are the ethical stakes of their artistic pursuits. It is also somewhat didactic, cooperative, coherent, and aesthetically sophisticated. All of these terms, however, acquire their full meaning only when viewed in the context of their relationship with&nbsp;history.</p> <p>For the filmmakers, to be contemporary means to be anachronistic, putting them in agreement with&nbsp;Giorgio Agamben, who asserted that&nbsp;“those who are truly contemporary, who truly belong to their time, are those who neither perfectly coincide with&nbsp;it nor adjust themselves to its demands. They are thus in this&nbsp;sense irrelevant.”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup> Someone in that&nbsp;particular position can cast a&nbsp;new light on their own time, a&nbsp;light that&nbsp;the epoch itself, constrained by its own categories, is unable to perceive. The light can also emanate from&nbsp;the archive, stacked with&nbsp;documents of the past, a&nbsp;past prefiguring the present. This&nbsp;is where Gianikian and Ricci Lucchi operate. “It is not our intention to use archives for&nbsp;their own sake. Uninterested in either archeology or nostalgia, we propose mining archives in service of the present. Today augmented by yesterday. ‘Ready-made’ manipulations for&nbsp;tomorrow,”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup> they wrote. This&nbsp;particular swerve toward&nbsp;the present does not exactly imply the incorporation of contemporary pictures and footage into&nbsp;archival collections nor seek correlations between&nbsp;the past&nbsp;and our current times. It is more about&nbsp;operating on the past&nbsp;itself, about&nbsp;cleaving it in order to reconfigure its relationship with&nbsp;the present. “That is why we consider ourselves witnesses, rather than&nbsp;historians. Or maybe even archeologists: we unearth the strata of history.”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup> But&nbsp;does being a&nbsp;witness to history and an archeologist thereof mean the same thing for&nbsp;the filmmakers? Do they see both positions as identical? At first glance, one may think that&nbsp;the two occupy opposite&nbsp;extremes of the history and memory spectrum, and are part of two very different perspectives: archeology is a&nbsp;science, a&nbsp;methodical reading of traces left behind&nbsp;by history, while testimony is a&nbsp;form of participation in history, offering an individual account of a&nbsp;given historical event. If Gianikian and Ricci Lucchi do not separate the two functions, or even go so far as to conflate them, it is because their work entails the crafting of a&nbsp;very specific vision, which is based on archival footage and is overflowing with&nbsp;affect, critical, and personal. To be witness to history and simultaneously serve as its archeologist, therefore, implies more than&nbsp;just an against-the-grain reading of history; such an approach grants contemporaries a&nbsp;new outlook on history, and, in consequence, a&nbsp;new look at their own time. It is the witness that&nbsp;provides a&nbsp;framework for&nbsp;understanding history (thus taking upon&nbsp;him/herself the role of the archeologist), whereas the archeologist establishes such a&nbsp;close and personal relationship with&nbsp;visions of the past&nbsp;that s/he almost becomes a&nbsp;witness to it.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/poza-projekcja/530-7103-1-pb-1920x-9d8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/poza-projekcja/530-7103-1-pb-330x-01a.jpg 330w,assets/cache/images/issues/2017/18/poza-projekcja/530-7103-1-pb-660x-f26.jpg 660w,assets/cache/images/issues/2017/18/poza-projekcja/530-7103-1-pb-768x-14d.jpg 768w,assets/cache/images/issues/2017/18/poza-projekcja/530-7103-1-pb-1320x-6f4.jpg 1320w" src="assets/cache/images/issues/2017/18/poza-projekcja/530-7103-1-pb-660x-f26.jpg" alt="" ></a>    <figcaption><p><em>Transparenze</em>, 1998</p></figcaption>   </figure>  </section><section class="u-typo">   <p>For their short film <em>Trasparenze</em> (<em>Transparences</em>, 1998), the artists filmed themselves at work, crafting the footage that&nbsp;they would use as a&nbsp;jumping-off point for&nbsp;their own narratives. On the screen, we see an old, damaged bit of film reel, its perforations torn, the frames streaked, flecked with&nbsp;discolorations, some ravaged beyond&nbsp;repair or legibility. It seems the reel is the wall of a&nbsp;cave which some ancient tribe covered with&nbsp;symbols that&nbsp;no one can truly translate anymore. Meanwhile, these materials, tangible traces of decay, are the product of time and its inevitably devastating impact. From&nbsp;the colorful flecks and streaks emerges, from&nbsp;time to time, a&nbsp;fragment of someone’s figure, whose presence is remarked upon&nbsp;by Yervant Gianikian as he utters the words “una figura.” There is nothing obvious, however, in the childlike effort to identify basic elements of the image (“here is a&nbsp;group of soldiers, they’re standing in the snow”) — their presence is the product of the <span class="rozstrzelony">work of acknowledgement</span> which stands against&nbsp;the friction of time. It comprises not only the careful observation of archival footage of a&nbsp;given historical event, but&nbsp;also the work of the imagination, similar to what Gianikian does when he compares a&nbsp;red streak on one of the frames to a&nbsp;bloodstain. It becomes apparent that&nbsp;man is not the sole figure [<em>figura</em>] in the narrative; the other is a&nbsp;splinter of matter whose shape pulls our gaze into&nbsp;a&nbsp;game of similarities and dissimilarities.<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup> History sees animate and inanimate objects as equally important, and the filmic narrative is supposed to oversee their encounter. Contrary to what the title might suggest, archival footage featured in the film is not transparent, because it is part and parcel of a&nbsp;history of violence, is forever tainted by cruelty and suffering, and one cannot imagine a&nbsp;contemporary reading of such footage that&nbsp;would not include a&nbsp;reference to those who were forced to suffer this&nbsp;violence.</p> <p>To tear down&nbsp;the integrity of that&nbsp;particular vision of the past, Gianikian and Ricci Lucci use a&nbsp;wide range of avant-garde filmmaking techniques — they color the frames, use double exposure, repeat specific sequences, crop the frames, and capture the viewer’s full attention by slowing down&nbsp;the projection rate. The slow-motion effect might just be the most distinctive feature of their films, as it undermines the naturalness of the projection of moving images itself as well as of all the ideological transmission that&nbsp;it may contain. According to the duo, such images are capable of “reflecting the sense of history, giving the viewer time to notice details, gestures. […] A&nbsp;celebration of languor, really. […] Here, languor being time over&nbsp;which history unfolds.”<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup> By slowing the frame rate, the filmmakers try to flesh out what the images conceal or what they contain, somewhat inadvertently,<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup> contrary to the sensibilities of their era. Here, the “optical unconscious,” which cinema, as Walter Benjamin argued, is capable of exploring precisely thanks to techniques like&nbsp;film editing, is essentially synonymous with&nbsp;the <span class="rozstrzelony">historical unconsciousness</span> that&nbsp;burdens the contents of archives. “Our work entails unearthing that&nbsp;which is secret, concealed in medical or nationalistic imagery, that&nbsp;which lays the groundwork of war. We see these nonexistent legs, arms, noses as our characters.”<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup> Thus, tearing down&nbsp;the main thrust of tradition means a&nbsp;return to a&nbsp;situation where individual elements of the image still lack meaning, still lack a&nbsp;specific place in the narrative, or composition, consistent with&nbsp;the spirit of the era. Simultaneously, the filmmakers are fully aware that&nbsp;the “process of resignifying”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup> in the course of editing takes place in a&nbsp;wholly different temporal perspective. These splintered shards of the past&nbsp;can no longer be reassembled, while the only meaning they can still acquire outside&nbsp;of the ideological framework assigned to them can come only from&nbsp;the present, thus giving rise to the inviolable anachronism of these movies.</p> <p>The opacity of archival footage driving the work of Gianikian and Ricci Lucchi has a&nbsp;very specific, tangible dimension. Most of the imagery they use has been crafted, either directly or indirectly, by exploiters intent on capturing proof of their power on film. Their most famous effort, <em>From the Pole to the Equator </em>(<em>Dal polo all’equatore</em>, 1986), based on the archives of Luca Comerio, Italy’s pioneering documentary filmmaker, is a&nbsp;study of colonial conquest at different latitudes, from&nbsp;hunting polar bears to instituting compulsory Catholic education for&nbsp;African schoolchildren. Most of the shots used in the film were originally a&nbsp;sort of trophy, a&nbsp;record of the white man’s dominion over&nbsp;the world, both human and non-human. It is only in slow motion that&nbsp;they reveal the monstrous cruelty that&nbsp;underpins them –&nbsp;they depict terrible injustice while still serving as instruments of its imposition. Any empathy in this&nbsp;context, therefore, must be rooted in “the unmasking of historic ideology inherent in archival footage”<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup> and an attempt “to separate the image from&nbsp;the power structure that&nbsp;stands behind&nbsp;its archiving.”<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup></p> <p>Hence, the need to open with&nbsp;a&nbsp;powerful censure –&nbsp;to sever the continuity between&nbsp;past and present, between&nbsp;the original usage of the archival footage and its belated reading. It is only after&nbsp;such a&nbsp;gesture is performed that&nbsp;the soldiers participating in grand maneuvers of World War I&nbsp;–&nbsp;portrayed in long sequences depicting them marching on in <em>On the Heights All Is Peace</em> (<em>Su tutte le vette è pace</em>, 1998), or motionless, confined to internment camps in <em>Prisoners of War</em> (<em>Prigionieri della guerra</em>, 1995) –&nbsp;could gain “the face of a&nbsp;man devoid of the martial bearing ingrained in him by the army he is part of.”<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup> If Gianikian and Ricci Lucchi see cleaving archival footage away from&nbsp;the power structure that&nbsp;drove its creation as a&nbsp;jumping-off point for&nbsp;their efforts, then the universalist vision of man tangled in the machinery of violence and injustice must be their objective. Such a&nbsp;general, indiscriminate perspective may seem problematic, particularly given its own ideological entanglements. We could, however, argue at the same time that&nbsp;the filmmakers arrived at that&nbsp;perspective in a&nbsp;manner that&nbsp;precludes rash, premature generalizations.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/poza-projekcja/530-7101-1-pb-1920x-9be.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/poza-projekcja/530-7101-1-pb-330x-8a2.jpg 330w,assets/cache/images/issues/2017/18/poza-projekcja/530-7101-1-pb-660x-9eb.jpg 660w,assets/cache/images/issues/2017/18/poza-projekcja/530-7101-1-pb-768x-f6e.jpg 768w,assets/cache/images/issues/2017/18/poza-projekcja/530-7101-1-pb-1320x-bbf.jpg 1320w" src="assets/cache/images/issues/2017/18/poza-projekcja/530-7101-1-pb-660x-9eb.jpg" alt="" ></a>    <figcaption><p><em>Images d'Orient</em>, 2001</p></figcaption>   </figure>  </section><section class="u-typo">   <p>“We try to give an identity to the nameless,”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup> we read in one of Gianikian and Ricci Lucchi’s essays. In this&nbsp;particular case, however, “identity” does not mean the individual identification that&nbsp;we find in passports or birth certificates. Their efforts head in the opposite&nbsp;direction — rather than&nbsp;piece together unambiguous definitions, their splicing and editing of archival footage is instead supposed to cleave figures away from&nbsp;the positions they were initially assigned. What, then, decides the identity of people in the frames if the visual <em>gestus</em> of the ruling classes, and specific visual regimes aimed at preserving and reinforcing the exploitation of the oppressed, no longer can? The answer is –&nbsp;the gaze, located on the very edge of the image itself, deciding its frame or responding to that&nbsp;image, and doing so from&nbsp;a&nbsp;different space and a&nbsp;different time.</p> <h2>***</h2> <p>“The grand history of images, rich in the promise of liberty, is the history of gestures, rather than&nbsp;objects,” asserted Marie-José Mondzain.<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup> This&nbsp;statement most definitely applies to cinema and its historical role, as well. Every film is a&nbsp;series of revelatory gestures, a&nbsp;litany of gazes looking out at the fictional setting and those that&nbsp;the viewers sweep across&nbsp;the already recorded images. Seen from&nbsp;this perspective, the filmic narrative resembles an undulating piece of fabric whose folds mark the sites of encounter between&nbsp;gazes that&nbsp;come together only to diverge again. Every gaze aimed at the cinematic image is a&nbsp;silent reaction –&nbsp;positive, negative, or neutral –&nbsp;to a&nbsp;specific gesture of portraying the world and combining diverse points of view. History –&nbsp;both as portrayed in the movie and outside&nbsp;the film frame –&nbsp;emerges from&nbsp;these gazes which, over&nbsp;time, become at first habitual, then customary, eventually establishing themselves as the social norm. The found footage genre, meanwhile, is unique in its ability to offer an external look at the process, the opportunity to observe as the historic event crystallizes inside&nbsp;the frame.</p> <p>In this&nbsp;context, we may define empathy as the viewers’ readiness to submit themselves to revelatory gestures they encounter in a&nbsp;given film. Empathy itself is also a&nbsp;gesture, one that&nbsp;binds together different images appearing in succession during&nbsp;projection. It is also responsible for&nbsp;embedding scenes from&nbsp;footage in the appropriate historical context, thus establishing arbitrary continuity between&nbsp;the picture and the world. Thus, the audience allows the picture to designate its own exteriority as the default complement. Empathy, therefore, is a&nbsp;sort of synthesis, both on the individual and supraindividual levels, that&nbsp;preserves the integrity of the individual act of seeing and places that&nbsp;act within&nbsp;the course of general history. This&nbsp;closure, however, has paradoxical effects: the history of man seems incomplete without&nbsp;the images produced by humankind, just as the movie image seems lacking, deficient, when stripped of the gaze of the individual entangled in the order of history.</p> <p>Film theory has tried to define this&nbsp;interpretation of empathy by adopting “suture”, a&nbsp;notion hailing from&nbsp;psychoanalytical discourse and describing a&nbsp;specific relationship between&nbsp;the subject and the sphere of the symbolic, namely language.<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup> Jean-Pierre Oudart, the author responsible for&nbsp;transplanting the notion into&nbsp;film studies, attempted to demonstrate how specifically the subject is situated by filmic narratives, “no longer as a&nbsp;fictive subject located in an illusory existential relationship with&nbsp;its surroundings, but&nbsp;as the actor in a&nbsp;representation whose symbolic dimension is revealed in the process of reading and viewing.”<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup> In order for&nbsp;the footage to work, it needs a&nbsp;subject to suture together individual images, meld the fragmented gazes into&nbsp;something like&nbsp;a&nbsp;narrative. The more necessary it is –&nbsp;meaning the less obvious the linkages between&nbsp;the images are –&nbsp;the more prominent its role becomes.</p> <p>The individual film frame functions as a&nbsp;window into&nbsp;the world and an indicator of a&nbsp;specific external point of view. Each shot is seen by the hypothetical subject, situated exactly where the lens is. This&nbsp;perspective grows meaningful when the film sequence is part of a&nbsp;fictive narrative. “Every filmic field is echoed by an absent field, the place of a&nbsp;character who is put there by the viewer’s imaginary, and which we shall call the Absent One. At a&nbsp;certain moment of the reading all the objects of the filmic field combine together to form the signifier of its absence.”<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup> Aside from&nbsp;the visible characters, the filmic narrative includes one anonymous figure, a&nbsp;character operating in the nonrepresentational sphere whom Oudart calls the Absent One. Here, the concept of “suture” is supposed to demonstrate how the Absent One enmeshes themself into&nbsp;this particular representational regime.</p> <p>The best illustration of the process can be found in the highly popular technique of shot/reverse-shot editing. When we watch a&nbsp;conversation between&nbsp;two people, the camera alternates between&nbsp;frontal shots of the two interlocutors, creating a&nbsp;consistent narrative from&nbsp;images representing reverse perspectives. Here’s how Oudart sees it:</p> <blockquote>Prior to any semantic “exchange” between&nbsp;two images […] and within&nbsp;the framework of a&nbsp;cinematic <em>énoncé</em> constructed on a&nbsp;shot/reverse-shot principle, the appearance of a&nbsp;lack perceived as Some One (the Absent One) is followed by its abolition by someone (or something) placed within&nbsp;the same field. […] As a&nbsp;result the field of Absence becomes the field of the Imaginary of the filmic space, formed by the two fields, the absent one and the present one.<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup></blockquote> <p>In other words, in the opening shot of such a&nbsp;sequence, the character in the frame is confronted with&nbsp;the viewer sitting outside&nbsp;of the film. However, soon thereafter their interlocutor appears, thus intertwining the external gaze into&nbsp;the succession of images. Thus, the viewer become a&nbsp;part of it, simultaneously occupying and vacating the position of the Absent One. Ceaselessly balancing between&nbsp;inside and outside.</p> <p>This structuralist model of empathy as synthesis of filmic images has its equivalent in the phenomenological description of the process of projection/identification as necessary for&nbsp;the cinematographic image to “work.”<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup> In his book <em>The Ordinary Man of Cinema</em>, Jean-Louis Schefer included a&nbsp;nearly personal account of the fundamental role that&nbsp;the experience of absence plays in film:</p> <blockquote>This remains, however: an unknown species, in who watches the film, in who in the movie recognize themselves in the new species; this&nbsp;nobody, this&nbsp;opening, these frozen innards […]. And thus, the annihilation of an entity as the driving force behind&nbsp;a&nbsp;tremor in the ground. Like&nbsp;the annihilation of humanity inside&nbsp;all of us, a&nbsp;humanity left without&nbsp;survivor after&nbsp;having confronted the white image. It’s as if the mosaic face, assembled of flecks, specks, and dust could simply and irrevocably overpower the person in the seat via&nbsp;an immeasurable extension of being, devoid of presence and yet linked with&nbsp;the mystery of Time, the horror of Time.<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup></blockquote> <p>Cinematic projection, therefore, implies a&nbsp;swarming invasion of beings of another species which –&nbsp;blown up and stretched out into&nbsp;the infinity of the fictive narrative space –&nbsp;pull the viewer into&nbsp;their thrall and pull reality out from&nbsp;under their feet. The experience of film is not wholly synonymous, however, with&nbsp;the absence of the looking subject, because as the Absent One s/he is absolutely necessary for&nbsp;the film to carry on. Therefore, Schefer’s mention of “seeing one’s reflection” in the alien species is key in this&nbsp;particular case. The passage, drawing directly on the lexicon of empathy, implies that&nbsp;the subject watching the movie becomes the “nobody,” anybody, a&nbsp;member of an unnameable, still emerging community. “I am the guarantor of the succession of images, thus I&nbsp;am more than&nbsp;a&nbsp;spectator; I&nbsp;am weakened within&nbsp;them,”<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup> Schefer wrote. The flickering existence of the beholder, their disintegration inside&nbsp;the images, is what breathes life into&nbsp;the images themselves, is what allows them to resonate more fully.</p> <p>There can be no doubt that&nbsp;the subject’s effort to suture the images together is not only structural or existential, but&nbsp;also political and historical in nature. Aside from&nbsp;raising the stakes in the game between&nbsp;presence and absence, each act of suturing exists as its symbolic complement. Each viewer thus intertwines him/herself in a&nbsp;sequence of images with&nbsp;very specific ethical and political overtones, enters into&nbsp;a&nbsp;dynamic that&nbsp;may very well decide their social and historical status. The weakening, the disintegration Schefer wrote about, can mean either inevitable bondage that&nbsp;we are forced into&nbsp;to by the power of the cinematographic image, or, precisely due to its ephemeral nature, can offer us an opportunity to elude definite ideological designations.</p> <h2>***</h2> <p>The efforts of Gianikian and Ricci Lucchi can be treated as a&nbsp;vision of a&nbsp;grand pilgrimage of peoples who have suffered the twists and turns of 20th century history. Two world wars, the Armenian genocide, colonial exploitation, totalitarian regimes –&nbsp;all of it leaving a&nbsp;mark on the frail bodies of the anonymous protagonists whose gestures we are exposed to over&nbsp;the course of the slowed-down, solemn, meditative compositions. For&nbsp;the filmmaking duo, grand history is, first and foremost, the history of gazes -&nbsp;two kinds. On the one hand, we have the gazes of the filmmakers, revealed, exposed to the public in the process of editing. These can be the gazes of chroniclers (like in their WWI movies), voyeurs (like in <em>Frammenti elettrici n. 3 Corpi</em>), or tourists exploring imperial colonies (<em>Images of the Orient: Vandal Tourism</em>). From&nbsp;their reframing emerges something in the shape of an anthropology of the gaze in the 20th century. On the other hand, however, there are dozens of individual gazes aimed by the anonymous protagonists at the camera lens, which the filmmakers single out and blow up with&nbsp;obsessive frequency. Thanks to the slow-motion effect, these furtive, shy glances become a&nbsp;genuine force of individualization, giving anonymous characters unique features, while simultaneously directing an unspoken question at the spectator. Seemingly everyone takes part in the confluence: aristocrats touring India, looking impatiently at someone capable of capturing their indisposition and the more emaciated children, looking desperately at the man filming them (<em>Images of the Orient</em>); crowds cheering Mussolini (<em>Barbaric Land</em>), Armenians fleeing genocide (<em>Men, Years, Life</em>). All of them gaze in a&nbsp;specific direction, towards&nbsp;a&nbsp;specific person capturing them on film for&nbsp;a&nbsp;specific purpose. Now, however, in the films reedited by Gianikian and Ricci Lucchi, their gaze is refashioned to be more intense, protracted, aimed at unknown subjects living in some remote era. In this&nbsp;seemingly impossible, anachronistic exchange of gazes there lies the essence of empathy, equipped with&nbsp;a&nbsp;political and historical consciousness but&nbsp;simultaneously overflowing with&nbsp;passions and capable of eliciting that&nbsp;“effect of humanity”<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup> that&nbsp;Bellour asserted in his writings on the two filmmakers. Its role seems no less important than&nbsp;that played by the “alienation effect” in the poetics of Bertolt Brecht.</p> <p>In a&nbsp;documentary short called <em>Diario africano </em>(<em>The African Diary</em>, 1994), the filmmakers make use of footage captured in Algeria between&nbsp;1927 and 1928 by an unnamed French traveler. The film’s epigraph stems from&nbsp;the work of Gustave Flaubert: “In the near&nbsp;future, the Orient will cease to exist. We are perhaps among&nbsp;its last observers.” The filmmakers spun this&nbsp;tale of a&nbsp;dying world, and a&nbsp;critique of Orientalist imaginaries, from&nbsp;a&nbsp;series of scenes/gazes. First, a&nbsp;young woman wearing decorative headdress looks into&nbsp;the camera with&nbsp;unconcealed interest which could also be read as irritation. Next, we see an older man, sitting by a&nbsp;stone wall and holding a&nbsp;human skull. A&nbsp;title card appears with&nbsp;the caption “The Oriental Hamlet,” and is then followed with&nbsp;a&nbsp;close-up on the skull, whose gloomy eye sockets are aimed straight at the viewer. As we traverse Algerian streets in a&nbsp;series of precisely framed shots, we encounter a&nbsp;succession of gazes: of a&nbsp;newborn held by a&nbsp;woman, a&nbsp;small child walking down&nbsp;the street, a&nbsp;festively dressed woman timidly clutching her breast, as if posing for&nbsp;her first picture ever. The shots follow one another in a&nbsp;slow, stuttering rhythm, sometimes seemingly coming to a&nbsp;halt. Each individual gaze has its own frame, each one leaves a&nbsp;riddle in its wake.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/poza-projekcja/530-7099-1-pb-1920x-9be.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/poza-projekcja/530-7099-1-pb-330x-8a2.jpg 330w,assets/cache/images/issues/2017/18/poza-projekcja/530-7099-1-pb-660x-9eb.jpg 660w,assets/cache/images/issues/2017/18/poza-projekcja/530-7099-1-pb-768x-f6e.jpg 768w,assets/cache/images/issues/2017/18/poza-projekcja/530-7099-1-pb-1320x-bbf.jpg 1320w" src="assets/cache/images/issues/2017/18/poza-projekcja/530-7099-1-pb-660x-9eb.jpg" alt="" ></a>    <figcaption><p><em>Diario africano</em>, 1994</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Only one sequence, featuring a&nbsp;naked black woman performing a&nbsp;seductive dance, seems to diverge from&nbsp;the precise, complicated performance staged according to the Orientalist sensibility playbook. We might say that&nbsp;the entanglement of the source material is consummated here in the erotic objectification of exotic flesh, combined with&nbsp;facile ethnographic content. That&nbsp;surely is the case. However, Gianikian and Ricci Lucchi simultaneously manage to transform the sequence into&nbsp;one of the most striking scenes in their entire body of work. Firstly, they move the girl from&nbsp;the center of the frame toward&nbsp;its edges. She seems to be dancing at the periphery of our vision and every time she turns her back to us she seems to elude the camera. At one point we focus and remain only on her face, the rest of her body slipping from&nbsp;our gaze. Secondly, the slowed-down rhythm of the film seems to function here as a&nbsp;separate composition, wherein motion and motionlessness correlate in a&nbsp;way that&nbsp;seems to transform the footage of a&nbsp;dancing girl into&nbsp;an image that&nbsp;is itself moving in some sort of strange, unfamiliar dance. And, in turn, seduces us, although the seduction itself eludes simple, Orientalist framings. Thirdly, the footage, probably due to film damage, seems to emit, time and again, repeated bursts of strange light, appearing in different spots in the frame. Combined with&nbsp;the specific framing and the frame rate, this&nbsp;produced a&nbsp;striking yet intangible effect, transforming every particle of the image into&nbsp;a&nbsp;figure. As if the individual gaze, fished out from&nbsp;the countless suffering masses populating the films of Gianikian and Ricci Lucchi, encountered the selfish and constrained camera lens and managed to not only illuminate the cruel darkness of the past, but&nbsp;give the people observing, studying that&nbsp;darkness today a&nbsp;chance to become different others to these others from&nbsp;ages past.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a><sup></sup> Hannah Arendt, <em>The Origins of Totalitarianism</em> (New York: Harcourt, Brace, Jovanovich, 1973), ix.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a><sup></sup> Walter Benjamin, “On the Concept of History” in <em>Selected Writings. Vol. 4, 1938-1940</em> (Cambridge: Belknap Press of Harvard University Press, 2006), 391.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a><sup></sup> Ibid., 391.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a><sup></sup> Ibid., 392.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a><sup></sup> Ibid., 392.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a><sup></sup> Guy Debord, <em>Comments on the Society of Spectacle</em>, trans. Malcolm Imrie (London: Verso Books, 1990), 8.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a><sup></sup> See: Guy Debord, <em>The Society of the Spectacle</em>, trans. Donald Nicholson-Smith (New York: Zone Books, 2012), 24: “The spectacle is capital accumulated to the point where it becomes image.”</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a><sup></sup> See: “Bernard Stiegler, The Carnival of the New Screen: From Hegemony to Isonomy” in <em>The YouTube Reader</em>, eds. Pelle Snickars and Patrick Vonderau (Stockholm: National Library of Sweden, 2009), 40.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a><sup></sup> Debord, <em>Society of the Spectacle</em>,<em></em>114.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a><sup></sup>Debord, <em>Comments on the Society</em>,<em></em>13.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a><sup></sup>Cédric Lagandré, <em>L’actualité pure. Essai sur le temps paralysé</em> (Paris: P.U.F., 2009), 15.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a><sup></sup>Ibid., 17.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a><sup></sup>Ibid., 77.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a><sup></sup>Walter Benjamin, <em>The Arcades Project</em>, trans. Howard Eiland and Kevin McLaughlin (Cambridge: The Belknap Press of Harvard University Press, 1999), 473.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a><sup></sup>The filmmakers vehemently oppose classifying their works as found footage movies, arguing that the changes they introduce to the source material are too deep to allow that. See: Robert Lumley, <em>Entering the Frame. Cinema and History in the Films of Yervant Gianikian and Angela Ricci Lucchi </em>(Bern: Peter Lang, 2011), 139.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a><sup></sup>On the evolution of Gianikian and Ricci Lucchi’s work and their method, see the only study that has ever been published in Poland on the subject of the two artists: Tomasz Szerszeń, “Filmowy pomnik i archiwum jako autobiografia. Notatki o Gianikianach,” <em>View. Theories and Practices of Visual Culture</em> 3 (2013), <a href="http://pismowidok.org/index.php/one/article/view/89/147">http://pismowidok.org/index.php/one/article/view/89/147</a>, accessed March 4, 2018.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a><sup></sup> Giorgio Agamben, “What Is the Contemporary?” in <em>“What Is an Apparatus?” and Other Essays</em>, trans. David Kishik and Stefan Pedatella (Stanford: Stanford University Press, 2009), 40.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a><sup></sup> Yervant Gianikian, Angela Ricci-Lucchi, “Autour des avant-gardes. Voyages en Russie, 1989-1990” in <em>Notre caméra analytique</em> (Paris: Post-éditions/Centre Pompidou, 2015), 111.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a><sup></sup> Yervant Gianikian, Angela Ricci-Lucchi, “Faire renaître les milliers de regards qui gisaient dans ces films. Entretien avec Antoine De Baecque” in<em> Notre caméra analytique</em>, 20.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a><sup></sup> On the dialectical approach to figuration in cinema, see: Georges Didi-Huberman, <em>Peuples exposés, peuples figurants. L’oeil de l’histoire, 4</em> (Paris: Minuit, 2012), 159-162.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a><sup></sup> Yervant Gianikian, Angela Ricci-Lucchi, “Faire renaître les milliers,” 19.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a><sup></sup> See: Paolo Mereghetti, “La morale della storia” in <em>Cinema anni vita. Yervant Gianikian e Angela Ricci Lucchi</em>, ed. Paolo Mereghetti and Enrico Nosei (Milano: Editrice Il Castoro, 2000), 61.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a><sup></sup> Yervant Gianikian, Angela Ricci-Lucchi, “Faire renaître les milliers,” 21-22.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a><sup></sup> Yervant Gianikian, Angela Ricci Lucchi, “La nostalgie n’existe pas, seul le présent existe. Entretien avec Daniele Dottorini,” in <em>Notre caméra analytique</em>, 39.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a><sup></sup> Ibid., 39.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a><sup></sup> Ibid., 40.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a><sup></sup> Ibid.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a><sup></sup> Yervant Gianikian, Angela Ricci-Lucchi, “Choses trouvées, choses pensées” in <em>Notre caméra analytique</em>, 122.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a><sup></sup> Marie-José Mondzain, <em>Images (à suivre) </em>(Paris: Bayard, 2011), 25.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a><sup></sup> See: Jacques-Alain Miller, “Suture (elements of the logic of the signifier),” trans. J. Rose, <em>Screen </em>18, no. 4 (1977): 24.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a><sup></sup> Jean-Pierre Oudart, “Cinema and Suture,”<em> Screen </em>18, no. 4 (1977): 35.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a><sup></sup> Ibid., 36.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a><sup></sup> Ibid., 37.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a><sup></sup> See: Edgar Morin, <em>The Cinema, or The Imaginary Man</em>, trans. L. Mortiner (Minneapolis &amp; London: University of Minnesota Press, 1975), 116-154.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a><sup></sup> Jean-Louis Schefer, <em>L’Homme ordinaire du cinéma</em> (Paris: Cahiers du cinéma-Gallimard, 1997), 84-85.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a><sup></sup> Ibid., 100.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a><sup></sup> Raymond Bellour, “Chosen Moments of the Human Race” in <em>Yervant Gianikian Angela Ricci Lucchi: Non Non Non </em>(Milan: HangarBicocca, 2012), 36.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/beyond-projection" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

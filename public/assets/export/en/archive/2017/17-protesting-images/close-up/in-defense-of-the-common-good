@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title> In Defense of the Common Good | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/in-defense-of-the-common-good">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content=" In Defense of the Common Good | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content=" In Defense of the Common Good | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/in-defense-of-the-common-good">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content=" In Defense of the Common Good | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #e8733d !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #e8733d !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #e8733d !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #e8733d !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #e8733d !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #e8733d !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #e8733d !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #e8733d !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(232,115,61,0.8) !important; */
+			/* background-color:#e8733d !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(232,115,61,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#e8733d !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(232,115,61,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#e8733d; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(232,115,61,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(232,115,61,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#e8733d !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#e8733d !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#e8733d !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-687 parent-id-672">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="668" data-selected-issue-color="#e8733d" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2017/protest-obrazow/w-obronie-dobra-wspolnego">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2017/protest-obrazow/w-obronie-dobra-wspolnego">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/17-protesting-images#toc">17</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/in-defense-of-the-common-good?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span> In Defense of the Common Good</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/in-defense-of-the-common-good?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=646">Katarzyna Warmuz</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Łukasz Mojsak
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;">Murals are the people's blackboard.</p> <p style="text-align: right;">– Pablo Neruda</p> </blockquote> <p></p> <p>The culture of protest in urban space, which is itself a&nbsp;common good and a&nbsp;zone of collective acts of participation, can be observed in many places across&nbsp;the globe. It is difficult to think of Athens today without&nbsp;immediately mentioning countless visual activities in connection with&nbsp;the 2015 referendum in Greece or this&nbsp;year's Documenta 14. London brings to mind Banksy's work –&nbsp;although the artist leaves his traces in different corners of the world, the British capital is still his enclave. Belfast is strongly marked by muralist campaigns waged by the supporters of different political groups and members of their paramilitary wings. Adversaries in the visual battles fought in the capital of Northern Ireland include socialist-Marxist group the INLA, the partisans of the IRA,<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> and the loyalists: members of organizations that&nbsp;wish to preserve British influences. There are, of course, also murals whose visual or textual content responds to the migrant crisis.</p> <p>Urban art has never shown indifference to political events: it has always formed an integral part of them, influenced the visual side of political struggles, and reacted to the latest happenings. This&nbsp;does not mean though that&nbsp;politics and the arts have become inextricably entwined to form a&nbsp;coherent whole. Art "is always <em>aestheticized</em>, which means that&nbsp;it is always posited as a&nbsp;<em>form of life</em>."<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>Art oscillates between&nbsp;two poles: autonomy and heteronomy, which causes it "to separate [itself] from&nbsp;politics as an autonomous form of the organization and experience of the sensual, and it is inseparable from&nbsp;politics as a&nbsp;promise of the advent of a&nbsp;new collective world."<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>The tension between&nbsp;art and politics can bring about&nbsp;the establishment of a&nbsp;new social reality and the production of subjectivity and knowledge.<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>The reason is that&nbsp;politics –&nbsp;according to Jacques Rancière –&nbsp;"is not the exercise of, or struggle for, power,"<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> but&nbsp;a&nbsp;reconfiguration of common space, the admission of excluded individuals and groups to the community, which consists of the inclusion of "new subjects and objects, to render visible what had not been."<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> As for&nbsp;urban art, the fusion of aesthetics and politics offers particularly manifest and direct visibility to groups and individuals deprived of their own place in public space. The theory formulated by the author of <em>The Politics of Aesthetics: The Distribution of the Sensible</em> serves here as a&nbsp;starting point and a&nbsp;conceptual framework to present leftist Chilean art movements active in public space in order to "lend visibility" to particular groups (social classes) and thus reclaim their political agency. Rancière's thought provides the background to discuss the muralist movement in Chile in the 1960s and 1970s, which was the period of the most dynamic "visual battle" waged between&nbsp;leftist brigades and conservative formations. I&nbsp;shall then address that&nbsp;conflict through&nbsp;the prism of the theories of W.J.T. Mitchell and Karl Marx in order to conclude with&nbsp;a&nbsp;return to Rancière's reflections.</p> <p>The strong ties between&nbsp;political life and urban art in Latin America were first formed in Mexico in the early decades of the 20th century. In 1922, after&nbsp;the Mexican Revolution and with&nbsp;the National Revolutionary Party in power, José Vasconcelos, then Secretary of Public Education, formed, together with&nbsp;leading artists, the Mexican muralist movement.<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> Members of the group included figures such as Diego Rivera, Dr. Atl (Gerardo Murillo), José Clemente Orozco, and David Alfaro Siqueiros. This&nbsp;formation is important for&nbsp;Chilean art because, in 1940, one of the members of the Mexican movement, Siqueiros, travelled to the town of Chillán in Chile, and the visit led to his collaboration with&nbsp;Xavier Guerrero, Camilo Mori, Gregorio de la Fuente, and Fernando Marcos at the Mexican School, which in the later period of its activity became extremely influential in terms of the whole of South American art.<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup> The experiences of Mori and de la Fuente, who transferred them to the Academy of Fine Arts in Chile, helped to develop urban street art in the country –&nbsp;in 1945 the Group of Mural Painters of the Ministry of Education [<em>Grupo de Pinturas Muralistas del Ministerio de Educacion</em>]<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> was established at the academy by Fernando Marcos, Carmen Cereceda, and Osvaldo Reyes.</p> <p>The links between&nbsp;artists and the FRAP (<em>Frente de Acción Popular</em>), a&nbsp;coalition of center-left, liberal, and radical leftist parties, brought to life several important initiatives for&nbsp;common space. The goal of one of them consisted of pursuing artistic education at the primary and secondary levels, as well as creating murals in every school.<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>The activities of the new movement largely corresponded with&nbsp;the <em>Manifesto of Plastic Integration </em>[<em>Manifiesto de Integración Plástica</em>], which postulated that&nbsp;folk art, with&nbsp;its social aspects (including class), should form part of the nascent new art.<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>The artists wanted to heavily emphasize social art, establish its close ties with&nbsp;the proletariat, and abandon the circle of Latin American "artificial" art, which was incompatible with&nbsp;Chilean aesthetics as an apparent import from&nbsp;the United States and Europe. They also sought to build closer relations with&nbsp;other Latin American countries; the exchange of theories, inspirations, and ideas was strongly encouraged.<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6488-1-pb-1920x-230.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6488-1-pb-330x-f97.jpg 330w,assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6488-1-pb-660x-99e.jpg 660w,assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6488-1-pb-768x-2ed.jpg 768w,assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6488-1-pb-1320x-f6c.jpg 1320w" src="assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6488-1-pb-660x-99e.jpg" alt="" ></a>    <figcaption><p>Ramona Parra Brigade, untitled, 2012. Mural. She Paused 4 Thought (Street Art Around&nbsp;Santiago), CC BY 2.0, Wikimedia Commons.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The favorable approach of the authorities and the community allowed the artists to develop their urban art practices, yet the same strategy –&nbsp;a&nbsp;marriage between&nbsp;politics and the muralist-artistic movement –&nbsp;was used in the presidential campaign of the Christian Democratic Party (PDC) pursued by conservative candidate Eduardo Nicanor Frei Montalva against&nbsp;Salvador Allende. Archival documents<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup> reveal that&nbsp;the CIA sponsored Frei Montalva's campaign from&nbsp;the outset, and the PDC candidate could therefore count on the support of highly qualified sociologists, journalists, specialists in communication, and psychologists. He was featured by the propagandistic television and press, while the March of the Young Fatherland served to promulgate his own vision of history.<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>Part of the money from&nbsp;the American government was probably used to hire the advertising agency that&nbsp;in May 1963 began a&nbsp;muralist action in order to paint stars –&nbsp;the symbol of the PDC –&nbsp;on the walls of Chilean cities. It did not take long for&nbsp;a&nbsp;response to the propaganda provocations of the conservatives to come from&nbsp;the leftist art collectives that&nbsp;were founded by July 1963.<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup> One of them, headed by Jorge Osorio, an architecture student, was first to react to the practices of activists sponsored by the PDC. Patricio Cleary, a&nbsp;witness of the emergence of the urban art movement and an active muralist, stated that&nbsp;the appearance of the conservative party stars on the walls of Chilean cities was an act of intrusion into&nbsp;the territory of artistic freedom and improvisation.<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>This became the outbreak of a&nbsp;muralist and artistic war between&nbsp;the partisans of the coalition of leftist parties known as the Popular Action Front (FRAP) and the conservatives, which came to be known as the "Batalla de propaganda de la Avenida <em>España</em>." The first murals by <em>allendistas</em><sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup> appeared between&nbsp;the cities of Valparaiso and Viña del Mar –&nbsp;at the site where artists waged their greatest battles; one of the first such murals was an allegory of the struggle and hope of the Chilean nation. The conservatives responded with&nbsp;a&nbsp;star that&nbsp;bore the inscription "50,000 donated to poor children." The leftist muralists reacted with&nbsp;the famous FRAP emblem<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup> and the inscription "No poor children under&nbsp;the popular government."<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup> One of the important murals of the presidential campaign was created on the Capuchins Bridge in Viña, depicting three key figures of the political left: workers, peasants, and a&nbsp;child that&nbsp;stood as a&nbsp;symbol of hope for&nbsp;Chile. One of the workers held the Earth, while the others –&nbsp;alongside the peasants –&nbsp;displayed banners with&nbsp;slogans praising Allende.<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup> That&nbsp;move prompted no response from&nbsp;the conservatives, but&nbsp;in 1964, during&nbsp;the most heated period of activity prior to the presidential election, <em>freistas</em><sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup><em></em>painted over&nbsp;a&nbsp;mural created by <em>allendistas</em>. At that&nbsp;time Pablo Neruda joined the debate between&nbsp;the two camps by severely criticizing the actions of PDC supporters during&nbsp;a&nbsp;radio broadcast. The transcript of the recording reveals that&nbsp;the poet praised the murals for&nbsp;their colors, vitality, and respect for&nbsp;human creativity, which made Latin American art stand out among&nbsp;the continents.<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup> Neruda openly demonstrated his anger at the destruction of the <em>allendistas'</em> mural and called the <em>freistas</em> group fascists, enemies of culture and progress, as well as opponents of "light and life."<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup> At the same time, the poet promoted the ongoing action of "filling" public space, creating literature, music, and indeed murals.</p> <p>Vandalism on the part of PDC supporters compelled the leftist collectives to begin their greatest urban action on the banks of the Mopocho River. During&nbsp;the following&nbsp;years of the urban movements' operation, flood embankments served as the site where the most interesting examples of graffiti art came into&nbsp;being. The murals created during&nbsp;the "Batalla de propaganda de la Avenida <em>España</em>" referred, to a&nbsp;considerable degree, to the Mexican movement, especially the work of Diego Rivera, David Alfaro Siqueiros, and José Clemente Orozco.</p> <p>After Allende's defeat in 1964, the group of muralists brought their activities to an end, but&nbsp;a&nbsp;few years later they resumed the action of propagating the Popular Party –&nbsp;not only in Valparaiso and Viña del Mar, but&nbsp;also in Santiago, which had already been reached by the muralist artistic movement. The painters returned to their work in 1969, when the congress of the Communist Party saw the establishment of the Ramona Parra Brigade (BRP).<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup> The name referred to the communist activist murdered during&nbsp;the Bulnes Square massacre in Santiago in 1946. During&nbsp;that period, communist groups protested against&nbsp;the outlawing of some of the trade unions, their absence in rural areas, the lack of uniform trade union policy,<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup> and the rise in food prices under&nbsp;provisional president Alfredo Duhalde Vásquez. Organized by the Confederation of Chilean Workers (CTCH; <em>La Confederación de Trabajadores de Chile</em>), the campaign for&nbsp;the workers' cause was also joined by Elías Lafferte and Pablo Neruda. After&nbsp;her death, Ramona Parra was named "the first martyr of Communist Youth."<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup> Unfortunately, despite&nbsp;her enormous impact on the urban artistic movement, information about&nbsp;Parra is scarce. We can infer from&nbsp;a&nbsp;preserved communist leaflet that&nbsp;the woman held anti-communist views during&nbsp;her education under&nbsp;Carmelite nuns. In subsequent years, under&nbsp;the influence of her father and militia fighters, Ramona and her sister began to participate in the activities of syndicalists and communists.<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6490-1-pb-1920x-230.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6490-1-pb-330x-f97.jpg 330w,assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6490-1-pb-660x-99e.jpg 660w,assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6490-1-pb-768x-2ed.jpg 768w,assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6490-1-pb-1320x-f6c.jpg 1320w" src="assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6490-1-pb-660x-99e.jpg" alt="" ></a>    <figcaption><p>Ramona Parra Barigade, untitled, 2012. Mural. She Paused 4 Thought (Street Art Around&nbsp;Santiago), CC BY 2.0 Wikimedia Commons.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The Ramona Parra Brigade primarily gained renown for&nbsp;their immense murals, mostly created by dozens of people (from 25-30),<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup> each of whom had a&nbsp;precisely defined task: <em>trazadores</em> were responsible for&nbsp;the design and often took up the role of <em>fileteadores</em> –&nbsp;responsible for&nbsp;the final contour; <em>fondeadores</em> filled in the background; <em>rellenadores</em> colored the figures/characters; and <em>quardias</em> kept watch to prevent the entire group from&nbsp;being caught by the police.<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup> The BRP style was characterized by very intense colors, thick black outlines, and frequently repeated symbols (a dove, a&nbsp;clenched fist, miners,<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup> a&nbsp;hammer and sickle, mothers and children, red flags). At the same time, the BRP concentrated on the harmonious coexistence of public space and the images –&nbsp;on the walls near&nbsp;the airport the figures and flags became lighter, while the highlight of the promenade by the Mopocho River were inscriptions (mainly poems by Neruda) combined with&nbsp;the brigade's paintings.<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup> The muralist group not only depicted the Chilean population in the company of Salvador Allende or in scenes that&nbsp;envisioned wealth after&nbsp;the Popular Party's successful ascent to power, but&nbsp;also focused on portraying individual social groups and current events. Prior to creating a&nbsp;design, all BRP muralists discussed its content and the political issues to be tackled. The group mostly concentrated on questions of education, the nationalization of natural resources, agricultural reform, solidarity with&nbsp;other nations, and the struggle for&nbsp;the means of production.<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup> Chilean muralists believed it was important to make their works legible to every passer-by and thus get their message across&nbsp;to potential Popular Party voters.<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup> That&nbsp;is why the brigade chose to resign from&nbsp;abstract forms and elaborate, often symbolic content. Recognized among&nbsp;the most popular murals are those that&nbsp;depicted miners, cheering crowds with&nbsp;Allende, or panels with&nbsp;the proposals of the Popular Party<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup> presented in comics-like form. The BRP did not abandon its activity after&nbsp;Allende's victory, but&nbsp;developed it further, which led to the creation of one of the group's most important paintings, made under&nbsp;the supervision of Roberto Matta in 1971 –&nbsp;<em>The First Goal of the Chilean People</em>, which revealed his knowledge of European Surrealist art. Matta was familiar with&nbsp;contemporary European and North American culture as he had been forced to emigrate in the 1930s due to the complex politico-economic situation in Chile.<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup> When conditions in the country regained stability, the artist returned and rejoined the ranks of the Ramona Parra Brigade for&nbsp;the time needed to complete another project, in which he proposed a&nbsp;completely different visual convention to the group. Matta abandoned thick black contours, references to the folk art of the Mapuche people, and instead tapped into&nbsp;a&nbsp;full-color palette and the most important symbols of the BRP: red and national flags. An important aspect of the mural consisted of the portrayal of uninhibited naked<b></b>people shouting: "We want to change our life" and "We need to create in order to believe,"<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup> among&nbsp;other slogans. It is clear that&nbsp;the initiation of Matta into&nbsp;the brigade's life did not entail radical modification of the muralists' artistic program, as the group continued to operate on its previously delineated politico-aesthetic territory.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6492-1-pb-1920x-189.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6492-1-pb-330x-049.jpg 330w,assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6492-1-pb-660x-433.jpg 660w,assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6492-1-pb-768x-a33.jpg 768w,assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6492-1-pb-1320x-83a.jpg 1320w" src="assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6492-1-pb-660x-433.jpg" alt="" ></a>    <figcaption><p>Roberto Matta, Ramona Parra Brigade, <em>El Primer Gol del Pueblo Chileno</em>, 1971. Mural. Centro Cultural Espacio Matta, Santiago.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Another artistic collective active during&nbsp;the period of the BRP's existence was a&nbsp;group of socialists who initially –&nbsp;until&nbsp;the establishment of a&nbsp;coalition of leftist parties –&nbsp;competed against&nbsp;the communists. This&nbsp;socialist group changed its name a&nbsp;number of times: at the beginning of its activity, the name Venceremos [We shall win] was inspired by the famous call from&nbsp;the time of the Cuban Revolution –&nbsp;"¡<em>Hasta la victoria</em> siempre!" Subsequently, modeled on the Ramona Parra Brigade, the group borrowed its name from&nbsp;Pedro Lenin Valenzuela,<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup> who had been fascinated by the Cuban Revolution and died at the hands of the police in Santiago in 1970. The first murals by the Lenin Valenzuela Brigade appeared in the universities and on the streets of Santiago. The group of socialist muralists later renamed itself once more as the Elmo Catalán Brigade (BEC), a&nbsp;reference to the Chilean journalist who had become one of Che's guerillas.<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup> Another reason for&nbsp;the further change of name was the fact that&nbsp;Pedro Lenin Valenzuela had been portrayed as a&nbsp;terrorist by the Chilean press.<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup> As previously mentioned, the BRP and BEC initially rivalled one another, yet they later established collaboration within&nbsp;the coalition of left-wing parties. Both brigades are said to have painted the inscription "With Allende we will win. Popular Party!" on the walls of Santiago as many as 15,000 times during&nbsp;a&nbsp;single night.<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup> Allende's victory in 1970, as previously stated, did not put an end to the muralists' activity: Matta's work later came into&nbsp;being; a&nbsp;range of artistic initiatives in public space were organized in connection with&nbsp;the arrest of Angela Davis; a&nbsp;collective was formed that&nbsp;referred to the art of Pedro Lobos; emphasis began to be placed on events in Spain;<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup> and the symbols of the BRP continued to be used to embellish city walls. Some murals, older and connected with&nbsp;the presidential campaign, were painted over; however, as José Balmes stated in an interview, it was a&nbsp;natural stage in the artistic life of murals in Chile.<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6494-1-pb-1920x-0e0.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6494-1-pb-330x-cdc.jpg 330w,assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6494-1-pb-660x-380.jpg 660w,assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6494-1-pb-768x-adb.jpg 768w,assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6494-1-pb-1320x-0de.jpg 1320w" src="assets/cache/images/issues/2017/17/w-obronie-dobra-wspolnego/442-6494-1-pb-660x-380.jpg" alt="" ></a>    <figcaption><p>Elmo Catalán Brigade, Callejeras, Barra Vergara ex BRM, Negotrópica, Laura Moya, Ariaca, Nebs Pereira, La Matraca, Muralistas Pablo Vergara, <em>A 41 años del golpe no tranzamos</em> (detail), 2014. Mural, photo: Rodrigo Fernández, CC BY-SA 4.0, Wikimedia Commons.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The period of the unrestrained activity of leftist brigades in urban space came to an end with&nbsp;the 1973 Chilean coup d'état. At that&nbsp;time, Matta's famous mural was painted over&nbsp;with several layers, which rendered its restoration in 2006 problematic and prevented it from&nbsp;being a&nbsp;complete success.<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup> During&nbsp;the period under&nbsp;the <em>junta</em>, every element of public space that&nbsp;brought to mind communism and socialism –&nbsp;including, of course, the works of the muralist brigades formed in the 1960s and 1970s –&nbsp;was overpainted and destroyed. The cultural purge encompassed more than&nbsp;just murals, as Pinochet's rule saw the burning of books that&nbsp;referred even remotely to Marxism, films (and recordings by leftist musicians) were destroyed, problematic students were expelled from&nbsp;universities, the Faculty of Fine Arts of the Chilean University and the Museum of Contemporary Art were both closed, and the artists themselves were murdered or exiled from&nbsp;the country.<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a><br></sup></p> <h2 style="text-align: center;">***</h2> <p>It is worth situating reflection on the visuality of paintings created by the Chilean radical left in the context of the term "pictorial turn," which for&nbsp;W. J .T. Mitchell means:</p> <blockquote>a postlinguistic, postsemiotic rediscovery of the picture as a&nbsp;complex interplay between&nbsp;visuality, apparatus, institutions, discourse, bodies, and figurality. It is the realization that&nbsp;<em>spectatorship</em> (the look, the gaze, the glance, the practices of observation, surveillance, and visual pleasure) may be as deep a&nbsp;problem as various forms of <em>reading </em>(decipherment, decoding, interpretation, etc.) and that&nbsp;visual experience or "visual literacy" might not be fully explicable on the model of textuality.<sup><a href="http://pismowidok.org/index.php/one/article/view/442/970#sdfootnote45sym" name="sdfootnote45anc">45</a></sup></blockquote> <p>According to the author of <em>Picture Theory</em>, images are not only representations, but&nbsp;they form objects that&nbsp;include various aspects within&nbsp;their visuality, including the embrace of social factors. Mitchell also finds it important to underscore that&nbsp;image and text are objects that&nbsp;do not compete with&nbsp;one another or negate one another, but&nbsp;whose perspectives are intertwined: image can be read and text can be looked at. Within&nbsp;such a&nbsp;perspective of dialogue between&nbsp;the two media, Gottfried Boehm, with&nbsp;whom Mitchell corresponded, stated in one of his letters that&nbsp;turning to images is not a&nbsp;gesture that&nbsp;negates language, since&nbsp;when attention is turned to images, "a <em>difference</em> vis à vis language comes into&nbsp;play."<sup><a href="http://pismowidok.org/index.php/one/article/view/442/970#sdfootnote46sym" name="sdfootnote46anc">46</a></sup> Yet, the problem with&nbsp;this argument is that&nbsp;it emphasizes the exploration of the difference between&nbsp;text and language, and presupposes that&nbsp;"images are themselves linguistic occurrences, or that&nbsp;they participate in a&nbsp;universal system of signs,"<sup><a href="http://pismowidok.org/index.php/one/article/view/442/970#sdfootnote47sym" name="sdfootnote47anc">47</a></sup> which would prevent us from&nbsp;grasping the essence of the visuality of Chilean images as it would remove the possibility of tracing connections between&nbsp;the form, texture, symbols, social relations, etc. A&nbsp;theory that&nbsp;bears more relevance to the context of the Chilean muralists –&nbsp;since&nbsp;it takes into&nbsp;account the social dimension –&nbsp;was formulated by Mitchell, who drew on the juxtaposition of images and living creatures that&nbsp;have desires, needs, intents, drives, etc. In order to depict the vitality of images, the author evokes the term "commodity fetishism," as coined by Karl Marx in the first volume of <em>Capital</em>. This&nbsp;notion refers to an illusionary understanding of commodities: "To the latter [producers], the relations connecting the labour of one individual with&nbsp;that of the rest appear, not as direct social relations between&nbsp;individuals at work, but&nbsp;as what they really are, material relations between&nbsp;persons and social relations between&nbsp;things."<sup><a href="http://pismowidok.org/index.php/one/article/view/442/970#sdfootnote48sym" name="sdfootnote48anc">48</a></sup> Mitchell uses Marx's term in order to depict the production of images-commodities and their value, which is a&nbsp;social relation that&nbsp;exists due to fetishization disguised as a&nbsp;material relation. Images subjected to fetishism are subject to the same mechanisms as other products. The value of commodities is defined by Marx as sensual and supersensual, and it is generated during&nbsp;their exchange. Producers bestow value on commodities in an unconscious way –&nbsp;precisely speaking, they do not know that&nbsp;what they add to commodities is the hieroglyphic, as it was called by Marx. Having added this&nbsp;mysterious element, people "try to decipher the hieroglyphic, to get behind&nbsp;the secret of our own social products; for&nbsp;to stamp an object of utility as a&nbsp;value is just as much a&nbsp;social product as language."<sup><a href="http://pismowidok.org/index.php/one/article/view/442/970#sdfootnote49sym" name="sdfootnote49anc">49</a></sup> The above&nbsp;quote from&nbsp;<em>Capital</em> can be read in the following&nbsp;way: the image-commodity is a&nbsp;fetish, and the recipient is supposed to decipher it, but&nbsp;at the same time they are condemned to eternal reference of the image-commodity to the sphere of illusion. In order to detach itself from&nbsp;fetishism, the liveliness of the image needs to be embraced in the social context, since&nbsp;images introduce to social life "new forms of value [...], contesting our criteria, forcing us to change our minds."<sup><a href="http://pismowidok.org/index.php/one/article/view/442/970#sdfootnote50sym" name="sdfootnote50anc">50</a></sup> Images influence memories, the imagination, desires, drives, etc.; they are able to migrate, to travel between&nbsp;cultures, and their value (i.e. the social relation that&nbsp;stands behind&nbsp;them) is historically changeable.<sup><a href="http://pismowidok.org/index.php/one/article/view/442/970#sdfootnote51sym" name="sdfootnote51anc">51</a></sup> In order to understand commodities, according to Marx, one needs "recourse to the mist-enveloped regions of the religious world."<sup><a href="http://pismowidok.org/index.php/one/article/view/442/970#sdfootnote52sym" name="sdfootnote52anc">52</a></sup> Human-imagined visions, drives, and desires become situated in commodities which, having acquired a&nbsp;surplus, i.e. ideology, are constantly subject to multiplication, and also modification, in order to prevent their illusory irrational value from&nbsp;ever being destabilized.</p> <p>By revealing the means of production and the manner of work (which utilized voluntary non-hired labor), the leftist muralist brigades developed images that&nbsp;were not fetishes. This&nbsp;was possible primarily because of a&nbsp;specifically materialistic, collective method of work, deprived of a&nbsp;mystical aura. Criticism directed at <em>freistas</em> by Pablo Neruda, who stated that&nbsp;they had attacked the "light and life" present in murals by the Ramona Parra Brigade, largely concerned the destruction of the social relations that&nbsp;stood behind&nbsp;the murals. The muralists realized that&nbsp;urban space, which is common and belongs to society, should not be seized by a&nbsp;specific group and must express the views of the people. The brigades created images collectively, but&nbsp;at the same time –&nbsp;more importantly –&nbsp;they rejected the capitalist form of production that&nbsp;consisted of hired labor. The leftist artists voluntarily decided to begin creating murals that&nbsp;introduced communist and socialist viewpoints into&nbsp;public space. The differentiation in terms of production by collective labor –&nbsp;voluntary, serving the common good –&nbsp;and hired labor, commissioned by the conservative party, is one of the most important points for&nbsp;our present considerations. What Frei's supporters undertook was not merely the destruction of the image, but&nbsp;also an attempted assassination of the social relations behind&nbsp;it and the hopes related to the liberation of society from&nbsp;the dictatorship of the ruling class. This&nbsp;fascist act reveals how <em>freistas</em> understood urban space: as a&nbsp;sphere that&nbsp;belonged to a&nbsp;specific social class in which there was no room for&nbsp;the expression of the views of the people; as a&nbsp;commodified territory in which there was no room for&nbsp;any production other than&nbsp;capitalist. Activities that&nbsp;destroyed collective labor and the common good were implemented most acutely by Pinochet's <em>junta</em> in 1973. At that&nbsp;time, not only were communism and socialism ousted from&nbsp;common space by the destruction of specific social groups, but&nbsp;Milton Friedman's concepts also began to be put into&nbsp;practice.</p> <p>We can juxtapose the practices of <em>freistas </em>and <em>allendistas</em> through&nbsp;the prism of Rancière's concepts of democracy, politics, and the police. In the essay <em>Ten Theses on Politics</em>, the philosopher indicates that&nbsp;democracy "is a&nbsp;term invented by its opponents, by all those who were 'qualified' to govern because of seniority, birth, wealth, virtue and knowledge [<em>savoir</em>]. Using it as a&nbsp;term of derision, they articulated an unprecedented reversal of the order of things."<sup><a href="http://pismowidok.org/index.php/one/article/view/442/970#sdfootnote53sym" name="sdfootnote53anc">53</a></sup> For&nbsp;Rancière, such an "order of things" means the rule of the people, the excluded, and those without&nbsp;entitlement to hold power. Democratic power is seized by individuals who claim the right to rule by virtue of their privileged position. In such a&nbsp;distribution of power Rancière sees not only the exclusion of the people (<em>demos</em>), but&nbsp;also the process of the distribution of the sensible,<sup><a href="http://pismowidok.org/index.php/one/article/view/442/970#sdfootnote54sym" name="sdfootnote54anc">54</a></sup> which is the basic practice of the police. Rancière describes the police as a&nbsp;system that&nbsp;divides society into&nbsp;groups "defined by differences in birth, by different functions, locations, and interests that&nbsp;constitute the social body."<sup><a href="http://pismowidok.org/index.php/one/article/view/442/970#sdfootnote55sym" name="sdfootnote55anc">55</a></sup> The "supplement" removed from&nbsp;the social body contains people who are excluded, deprived of their voice, and who do not fit within&nbsp;the socio-economic groups defined by the police. The practice owing to which the <em>demos</em> is able to speak, to make its existence visible, is referred to by Rancière as politics. Its effect consists of disturbing the distribution of the sensible. Through&nbsp;the activity of politics, excluded groups can be included in the creation of the community. Looking through&nbsp;the prism of Rancière's philosophy allows us to see that&nbsp;the <em>allendistas</em> wanted to lend visibility to the proposals formulated by the people, but&nbsp;also to make themselves visible. The process of creating murals on the basis of the examples of the proposals of workers, rural communities, and women was nothing other than&nbsp;a&nbsp;political activity: the reclamation of space –&nbsp;seized by the practices of the police state –&nbsp;by the "mute" people. "Politicized" space became enriched with&nbsp;what had previously been erased due to police practices. Above&nbsp;all, what became visible were the claims of the people towards&nbsp;the state, whose task was to side with&nbsp;the whole of society, not merely with&nbsp;privileged groups. It was due to the leftist muralist groups that&nbsp;the people became manifest and distinguished from&nbsp;the conservative division of society.</p> <p>Combining reflection on ideology with&nbsp;the concepts of the police and politics allows us to notice that&nbsp;the leftist muralist movement –&nbsp;by means of de-fetishization –wanted from&nbsp;the very beginning to abolish the apparatus of the ruling class, which did not pursue questions of importance for&nbsp;the Chilean population. Urban artistic groups revealed the materialistic character of an ideology that&nbsp;produced subjectivities and worldviews –&nbsp;they thus implemented Rancière's concept of politics. At the same time, the muralist brigades rejected the idealism hidden behind&nbsp;false premises imposed by "heavens" or other "higher" instances of policing. The muralist brigades dismantled the ideology of the ruling class and attempted to locate a&nbsp;place for&nbsp;their history within&nbsp;History. In the 1960s and 1970s, those practices were pursued by the means of images which not only bore reference to the style of Mapuche culture, but&nbsp;also implemented a&nbsp;communist vision of the world and introduced the Chilean people into&nbsp;the public sphere. The leftist brigades stood in opposition to the hired right-wing muralists –&nbsp;what was particularly important here was their attitude to the created images, because although they represented communist and socialist ideas (people marching with&nbsp;Allende, red flags), the "representation" had a&nbsp;completely different character than&nbsp;in the case of images created by the workers hired by the Christian Democratic Party. Making the people visible in public space and elevating their proposals (universal education, the amendment of housing and agricultural policies, changes in employment legislation) were not treated by the brigades as purely symbolic gestures, but&nbsp;as practices that&nbsp;were heavily embedded in material space and had a&nbsp;direct impact on the conditions of social life. One may even go so far as to say that&nbsp;the artists, who identified themselves with&nbsp;the subordinated classes, overcame the orthodox Marxist division into&nbsp;base and superstructure with&nbsp;the realization that&nbsp;the two spheres influence one another in equal measure –&nbsp;the production process in symbolic space turned out to be something that&nbsp;could be organized in both a&nbsp;capitalist and communist manner. The muralists did not speak on behalf of an idealized people –&nbsp;in the way that&nbsp;the hired artists spoke on behalf of the conservative right-wing who commissioned them –&nbsp;but&nbsp;they themselves immanently belonged to the people. Therefore, they necessarily needed to treat the representational layer of their works (figures of mothers, children, miners, farmers) as something that&nbsp;operated dynamically in public space, shaped the identity of the recipients, and reinforced their subjectivity and sense of agency –&nbsp;after&nbsp;all, they, as the people, gave proof of their agency and power by painting the walls of Chilean cities. It is also noteworthy that&nbsp;the aesthetics of leftist murals, which referred to traditional South American art, carried immense political potential by activating the people's codes associated with&nbsp;primary communism.</p> <p>Therefore, although both factions operated by means of "representation," we need to remark that&nbsp;the murals promoting the Christian Democratic Party were obviously subject to alienation and became fetishes, which was not the case with&nbsp;those created by the leftist brigades. Although the PDC stars that&nbsp;appeared on walls in visible and publicly accessible places were supposed to speak to the people –&nbsp;positioned here simply as the electorate –&nbsp;they were neither a&nbsp;product of the people (they were commissioned by the ruling classes), nor did they serve the goal of making the people visible (what was made visible were abstract conservative ideas: religion, nation, and the sacred right to property), nor did they express the people's proposals. Such representations were obviously supposed to function in a&nbsp;dynamic way as they formed part of the apparatus of the ruling classes –&nbsp;yet, it is a&nbsp;fact that&nbsp;their dynamics had a&nbsp;facade and a&nbsp;unilateral character: Chileans looking at right-wing murals were supposed to be adaptably shaped by conservative propaganda, but&nbsp;the actual manner of creating the PDC stars was supposed to remain a&nbsp;mystery. Without&nbsp;that alienation, without&nbsp;hiding the sources of funding for&nbsp;the PDC campaign, the right-wing indoctrination of the people would not be effective.</p> <p>In an interview with&nbsp;Filippo Del Lucchese and Jason E. Smith, Antonio Negri stated that&nbsp;"being a&nbsp;communist means waging a&nbsp;war on private property and, ultimately, the pursuit of destroying it accompanied by an attempt to build institutions of the common good."<sup><a href="http://pismowidok.org/index.php/one/article/view/442/970#sdfootnote56sym" name="sdfootnote56anc">56</a></sup> By organizing social space and the conditions of artistic work according to the principles of cooperation and the common good, the leftist muralists clearly opposed the naturalization of the category of private property without&nbsp;falling into&nbsp;the trap of paternalism and social avant-gardism: as artists from&nbsp;the people, they spoke in their own interest, thus excluding&nbsp;the alienating mediation typical of artists who observe the masses from&nbsp;a&nbsp;safe distance. The uniqueness of the muralist practices described in this&nbsp;article can be seen only in their socio-historical context: it was not the manner of representation that&nbsp;allowed the muralists to overcome the fetishism of the image, but&nbsp;the collective and grassroots organization of the production of art. Although muralism currently seems extremely attractive and popular, such a&nbsp;relational perspective of analysis is rare nowadays –&nbsp;and yet, solid conclusions concerning&nbsp;urban art are difficult to arrive at without&nbsp;it.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> INLA – Irish National Liberation Army, IRA – Irish Republican Army.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Piotr Juskowiak, <em>Przestrzenie wspólnoty. Filozofia wspólnotowości w perspektywie badań nad miastem postindustrialnym</em> (Poznań: Wydawnictwo Naukowe Wydziału Nauk Społecznych Uniwersytetu im. Adama Mickiewicza, 2015), 215.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Ibid., 216.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Ibid.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Jacques Rancière, "Aesthetics as Politics," in <em>Aesthetics and Its Discontents</em>, trans. Steven Corcoran (Cambridge: Polity Press, 2009), 24.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Ibid., 25.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Edward Lucie-Smith, <em>Latin American Art of the 20th Century</em> (London: Thames &amp; Hudson, 1993), 50.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Rodney Palmer, <em>Street Art Chile</em> (London: Eight Books, 2008), 8.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Ibid.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Ibid.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>Eduardo Castillo Espinoza, <em>Puño y letra. Movimiento social y comunicación gráfica en Chile</em> (Santiago: Ocho Libros Editores, 2006), 63.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Ibid.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Information concerning the funding can be found on the website of the U.S. Department of State. See: <em>A "Noisy Democracy": The Decline of Eduardo Frei, January–December 1969</em>,<em></em>in <em>Foreign Relations of The United States, 1969–1976, Volume XXI, Chile, 1969–1973</em>, Office of the Historian, <a href="http://history.state.gov/historicaldocuments/frus1969-76v21/ch1" target="_blank" rel="noopener">http://history.state.gov/historicaldocuments/frus1969-76v21/ch1</a> (accessed April 20, 2017) (accessed April 20, 2017). Another source of information is the website of the U.S. National Security Archive. See: Peter Kornbluh, <em>Chile 1964: CIA Covert Support in Frei Election Detailed; Operational and Policy Records Released for First Time</em>, National Security Archive as of 27 September 2004, <a href="http://nsarchive.gwu.edu/news/20040925/index.htm" target="_blank" rel="noopener">http://nsarchive.gwu.edu/news/20040925/index.htm</a> (accessed April 20, 2017).</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Patricio Cleary, "Cómo nació la pintura mural política en Chile," <em>Chile: Breve Imaginería política - 1970 - 1973</em>, <a href="http://www.abacq.net/imagineria/nacimi1.htm" target="_blank" rel="noopener">http://www.abacq.net/imagineria/nacimi1.htm</a> (accessed April 21, 2017).</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>The majority of artists were students or graduates of the Federico Santa María University in Valparaíso, painters affiliated with Jorge Osorio, Nemesio Riviera, or Gastón Vilavecchia. See: Espinoza, <em>Puño y letra</em>, 64.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>Cleary, "Cómo nació la pintura mural política en Chile."</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a><em>Allendistas</em> – a term denoting the supporters of Salvador Allende.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>The symbol of the FRAP was a cross with the letter "A" on the bottom. The FRAP cross was later modified for the needs of the UP (<em>Unidad Popular</em>, Eng. <em>Popular Unity</em>), a party established in 1969.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>Spanish: "En el Gobierno Popular no habrá niňos pobres." The word <em>popular</em> refers to the name of FRAP and was often used. Espinoza's book <em>Puño y letra </em>features a photograph of a mural with the inscription "Mantendremos la unidad de la familia en el gobierno popular con mejores," which can be translated as: "It is better to provide for the family with the popular government." See: Espinoza, <em>Puño y letra</em>, 69.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>Palmer, <em>Street Art Chile</em>, 8.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a><em>Freistas</em> – a term denoting the supporters of Eduardo Nicanor Frei Montalva.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>Pablo Neruda, "El mural del puente Capuchinos ha sido destruído," <em>Chile: Breve Imaginería política - 1970 - 1973</em>, <a href="http://www.abacq.net/imagineria/puente.htm" target="_blank" rel="noopener">http://www.abacq.net/imagineria/puente.htm</a> (accessed April 21, 2017).</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a>Ibid.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Palmer, <em>Street Art Chile</em>, 9.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Anti-union sentiments that began to appear on the political scene in Chile in 1945 had a significant impact on the condition of trade unions; some of them remained illegal. The period between 1940 and 1945 was also turbulent due to relations between the communists and socialists. Both groups demanded higher wages and amended workers' rights, but socialists accused communists of following an archaic way of thinking about the modernization of industry. As a result of those conflicts, in the 1940s socialists marched against communists and joined forces with the Radical Party headed by Gabriel González Videla. In 1947 they were used to break the strike in the coal industry organized by the communists. See: Jean Carrière, Nigel Haworth, Jacqueline Roddick, <em>The State, Industrial Relations and the Labour Movement in Latin America. Volume 1</em> (Basingstoke and London: The Macmillan Press, 1989), 214-215.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Anonymous author, "Por primera vez. La familia de Ramona Parra habla sobre ella documentos exclusivos," <em>Ramona</em> no. 18, <a href="http://www.memoriachilena.cl/archivos2/pdfs/MC0056769.pdf" target="_blank" rel="noopener">http://www.memoriachilena.cl/archivos2/pdfs/MC0056769.pdf</a> (accessed April 22, 2017).</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Ibid.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> The BRP comprised students of architecture and art, and painters. See: José Balmes, Catherine Humblot, La historia de un pueblo en los muros de Chile," in <em>Chile: Breve Imaginería política - 1970 - 1973</em>, <a href="http://www.abacq.net/imagineria/004.htm" target="_blank" rel="noopener">http://www.abacq.net/imagineria/004.htm</a> (accessed April 21, 2017).</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Palmer, <em>Street Art Chile</em>, 10.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Mining played a major role in the Chilean economy. It should therefore be concluded that miners in murals represented workers in general, hence the lack of literal depictions of other professions.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Balmes, Humblot<em>, La historia de un pueblo en los muros de Chile</em>.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Ibid.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Ernesto Saúl, "Brigadas Ramona Parra. Arte de la ciudad," <em>Chile: Breve Imaginería política - 1970 - 1973</em>, <a href="http://www.abacq.net/imagineria/arte.htm" target="_blank" rel="noopener">http://www.abacq.net/imagineria/arte.htm</a> (accessed April 21, 2017).</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Documentation of the BRP murals can be found on the website <em>Chile: Breve Imaginería política - 1970 - 1973</em>, <a href="http://www.abacq.net/imagineria/sumario.htm" target="_blank" rel="noopener">http://www.abacq.net/imagineria/sumario.htm</a> (accessed April 21, 2017).</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Within 18 months the government changed as often as 10 times. See: Lucie-Smith, <em>Latin American Art</em>, 89.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> The mural appears in a short documentary film created by the National Monuments Council. See: Andrés Daly, Diego Breit, <em>Arte y Patrimonio – El primer gol del pueblo chileno</em>, Consejo de Monumentos Nacionales, <a href="https://vimeo.com/146045185" target="_blank" rel="noopener">https://vimeo.com/146045185</a> (accessed April 21, 2017).</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> Anonymous author, "Hijacker Killed in Fight Aboard Chilean Airliner," <em>The New York Times</em>, 7 February 1970, <a href="http://www.nytimes.com/1970/02/07/archives/hijacker-killed-in-fight-aboard-chilean-airliner.html?_r=0" target="_blank" rel="noopener">www.nytimes.com/1970/02/07/archives/hijacker-killed-in-fight-aboard-chilean-airliner.html?_r=0</a> (accessed April 22, 2017).</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> Palmer, <em>Street Art Chile</em>, 10. Relations between Chile and revolutionary Cuba were extremely close from the very beginning. The Chilean government, alongside Argentina, Brazil, Mexico, Bolivia, and Ecuador, opposed the decision to expel Cuba from the Organization of American States. After the Cuban Revolution, the socialist parties of Chile began to apply more aggressive policies with regard to issues such as rural trade unions, redirecting privatized companies, and enterprises towards nationalization. See: Thomas C. Wright, <em>Latin America in the Era of the Cuban Revolution. Revised Edition</em> (London: Praeger Publishers, 2001), 131. Salvador Allende himself stated in the 1960s that the Cuban Revolution was a national revolution, but it also embraced the whole of Latin America. See: Geraldine Lievesley, <em>The Cuban Revolution. Past, Present and Future Perspectives</em> (New York: Palgrave Macmillan, 2004), 88.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a> Palmer, <em>Street Art Chile</em>, 10.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a> Ibid., 11.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a> In 1972 a mural was created that read "España = facismo - Facismo = muerte." Under the dictatorship of General Franco, the Radical Party, headed by Juan Antonio <em>Ríos</em>, decided to sever its ties with fascist Spain. See: Simon Collier, William F. Sater, <em>A History of Chile. 1808–2002</em> (Cambridge: Cambridge University Press, 2004), 244. The attitude of the government towards the Spanish dictatorship certainly had an effect on society, and more so on communist and socialist groups.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a> Balmes, Humblot, <em>La historia de un pueblo en los muros de Chile</em>.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a> Information concerning Matta's mural can be found on the website of the National Archive. See: <em>Mural "El primer gol del pueblo chileno" de Roberto Matta</em>, Consejo de Monumentos Nacionales, <a href="http://www.monumentos.cl/catalogo/625/w3-article-56882.html" target="_blank" rel="noopener">http://www.monumentos.cl/catalogo/625/w3-article-56882.html</a> (accessed April 22, 2017).</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a> Balmes, Humblot, <em>La historia de un pueblo en los muros de Chile</em>.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a> W. J. T. Mitchell, "The Pictorial Turn," in <em>Picture Theory: Essays on Verbal and Visual Representation</em> (Chicago: University of Chicago Press, 1994), 16.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a> Gottfried Boehm, W. J. T. Mitchell, "Pictorial versus Iconic Turn: Two Letters," in <em>Culture, Theory and Critique</em>, 2009, 50 (2-3), 107.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a> Ibid., 105.</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a> Karl Marx, <em>Capital: A Critique of Political Economy. Vol. 1. Book 1. The Process of Production of Capital</em>, trans. by Samuel Moore, Edward Aveling (New York: International Publishers, 1967), 73.</p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a> Ibid., 74.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a> W. J. T. Mitchell, <em>What Do Pictures Want? The Lives and Loves of Images </em>(Chicago: University of Chicago Press, 2005), 92.</p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a> Capitalism is understood by Marx as a historical system, and not a natural system, as economists would argue. In <em>Capital</em>, the naturalization of bourgeois practices is presented through the prism of the literary character Robinson Crusoe, who was left stranded on an island and began keeping inventory books of his farmstead. In <em>A Companion to Marx's </em>Capital, David Harvey provides other examples, such as serfs and rural farmsteads, in order to show that value is not natural but social. "The categories of bourgeois economics" are merely "forms of thought which are socially valid, and therefore objective, for the relations of production belonging to this historically determined mode of social production." See: David Harvey, <em>A Companion to Marx's </em>Capital (London: Verso, 2010), 44.</p>
+<p><a href="#sdfootnote52anc" name="sdfootnote52sym">52</a> Marx, <em>Capital</em>, 72.</p>
+<p><a href="#sdfootnote53anc" name="sdfootnote53sym">53</a> Jacques Rancière, "Ten Theses on Politics," <em>Theory and Event</em>, vol. 5, issue. 3, 2001, Thesis 3.</p>
+<p><a href="#sdfootnote54anc" name="sdfootnote54sym">54</a> "Distribution of the sensible" – a term that refers to the practice of the police. Its activity is based on making it impossible to notice people who do not fit within groups established by the police practices of the state. The distribution of the sensible indicates sites where social divisions have been formed, and delineates potential space where the creation of new political subjectivities becomes possible. See: Jacques Rancière, <em>The Politics of Aesthetics: The Distribution of the Sensible</em>, trans. by Gabriel Rockhill (London: Continuum, 2004).</p>
+<p><a href="#sdfootnote55anc" name="sdfootnote55sym">55</a> Rancière, "Ten Theses on Politics," Thesis 6.</p>
+<p><a href="#sdfootnote56anc" name="sdfootnote56sym">56</a> Filippo Del Lucchese, Antonio Negri, Jason E. Smith, "Wokół dobra wspólnego," trans. by Praktyka Teoretyczna, <em>Praktyka Teoretyczna</em> no. 4 (2011), 51.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/in-defense-of-the-common-good" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

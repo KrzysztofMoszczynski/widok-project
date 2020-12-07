@@ -1,0 +1,47 @@
+.c-team {
+  position: relative;
+  margin-bottom: 36px;
+  
+  @media (min-width: $breakpoint_sm) {
+    padding-left: 165px;
+  }
+  
+  &__image {
+    margin-bottom: 20px;
+    @media (min-width: $breakpoint_sm) {
+      position: absolute;
+      top: 7px;
+      left: 0;
+    }
+    img {
+      width: 100%;
+      @media (min-width: $breakpoint_sm) {
+        width: 125px;
+      }
+    }
+  }
+  
+  &__title {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  &__meta {
+    margin-bottom: 0;
+    span {
+      display: block;
+    }
+    a {
+      color: $color_primary;
+    }
+  }
+  
+}
+
+.c-team--basic {
+
+  @media (min-width: $breakpoint_sm) {
+    padding-left: 0;
+  }
+
+}

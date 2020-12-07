@@ -1,0 +1,92 @@
+/* 
+ * css
+ */
+
+/* styled example
+
+.pagination {
+  margin-top: 50px;
+}
+
+.pagination > li > a,
+.pagination > li > span {
+  position: relative;
+  float: left;
+  padding: 6px 12px;
+  margin-left: -1px;
+  font-size: 14px;
+  line-height: 1.42857;
+  color: $color_blue;
+  text-decoration: none;
+  background-color: transparent;
+  border: 1px solid $color_blue;
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:active,
+.pagination > li > span:active,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+  color: #fff;
+  background-color: $color_blue;
+  border: 1px solid $color_blue;
+}
+
+.pagination-lg > li > a,
+.pagination-lg > li > span {
+  padding: 17px 23px;
+  font-size: 18px;
+  line-height: 1.33333;
+}
+
+.pagination > .active > a,
+.pagination > .active > a:focus,
+.pagination > .active > a:hover,
+.pagination > .active > span,
+.pagination > .active > span:focus,
+.pagination > .active > span:hover {
+  z-index: 2;
+  color: #fff;
+  cursor: default;
+  background-color: $color_blue;
+  border-color: $color_blue;
+}
+.pagination > .disabled > a,
+.pagination > .disabled > span,
+.pagination > .disabled > a:hover,
+.pagination > .disabled > span:hover {
+  color: $color_blue;
+  background-color: transparent;
+  border: 1px solid $color_blue;
+}
+
+*/
+
+.pagination > li:first-child > a,
+.pagination > li:first-child > span {
+  border-top-left-radius: $border_radius_base;
+  border-bottom-left-radius: $border_radius_base;
+}
+
+.pagination > li:last-child > a,
+.pagination > li:last-child > span {
+  border-top-right-radius: $border_radius_base;
+  border-bottom-right-radius: $border_radius_base;
+}
+
+// pager
+.pager {
+  margin-top: 50px;
+}
+.pager li > a, 
+.pager li > span {
+  border-radius: $border_radius_base;
+  background-color: #fff;
+  border: 1px solid $color_blue;
+  color: $color_blue;
+  &:hover {
+    background-color: $color_blue;
+    color: #fff;
+  }
+}

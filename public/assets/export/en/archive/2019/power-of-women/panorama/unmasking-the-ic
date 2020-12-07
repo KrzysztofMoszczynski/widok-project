@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Unmasking the Icon | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/power-of-women/unmasking-the-ic">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Unmasking the Icon | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Unmasking the Icon | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/power-of-women/unmasking-the-ic">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Unmasking the Icon | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #715c56 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #715c56 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #715c56 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #715c56 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #715c56 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #715c56 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #715c56 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #715c56 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(113,92,86,0.8) !important; */
+			/* background-color:#715c56 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(113,92,86,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#715c56 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(113,92,86,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#715c56; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(113,92,86,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(113,92,86,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#715c56 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#715c56 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#715c56 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1874 parent-id-1839">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1835" data-selected-issue-color="#715c56" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2019/23-sila-kobiet#toc">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2019/23-sila-kobiet/unmasking-the-icon">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/power-of-women#toc">23</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/power-of-women/unmasking-the-ic?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Unmasking the Icon: Marlene Dumas’ Liminal Portraits</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/power-of-women/unmasking-the-ic?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=1875">Timea Andrea Lelik</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Introduction</h2> <p>Many of Marlene Dumas’ works which depict human figures can be categorized as portraits. Moreover, most of these works are either facial, bust, or full-length representations of well-known individuals. The fact that&nbsp;the compositions are also titled <em>Magdalena</em>, <em>Marilyn</em>, or <em>Phil Spector</em>, can be interpreted as a&nbsp;promise to transform these canvases into&nbsp;authentic portraits of the named individuals. Originally, a&nbsp;traditional painted portrait set out to deliver a&nbsp;faithful representation of the unique identity of the subject portrayed. Nevertheless, Marlene Dumas' works depicting iconic figures such as Marilyn Monroe, Naomi Campbell, Phil Spector, or Mary Magdalene often appear unrecognizable. By depicting cultural and religious icons in unusual and unexpected manners, Dumas actively comments on the role and function of cultural icons in contemporary culture.</p> <p>In my essay <em>To Model or Not to Model: Transgressive Portraits of Mary Magdalene by Marlene Dumas<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a></em> I&nbsp;analyzed the role of portraiture in Dumas’ work and the manner in which her works transgress conventional notions of representation in order to deconstruct and replace stereotypical depictions of female subjectivity. For&nbsp;this purpose I&nbsp;looked at two works from&nbsp;the <em>Magdalene</em> (1995) series –&nbsp;<em>Magdalene (Newman’s Zip) </em>(1995) and <em>Magdalene (Manet’s Queen / Queen of Spades) </em>(1995) –&nbsp;arguing that&nbsp;these portraits transgress art historical canons of representation in order to challenge stereotypes of depicting female subjects and predefined racial identities, at the same time dismantling the concept of the female as a&nbsp;passive body.</p> <p>In this&nbsp;paper I&nbsp;propose to consider these portraits of Mary Magdalene in a&nbsp;new light, scrutinizing the iconic status of the subjects depicted. In addition to the <em>Magdalene</em> series, I&nbsp;will also close-read a&nbsp;portrait depicting an unrecognizable version of Marilyn Monroe. Analyzing the origins of the term “icon” and how it functioned and still functions as a&nbsp;cultural model, I&nbsp;will interpret the meaning of “iconic portraits” in works that&nbsp;represent religious figures such as Mary Magdalene and glamor icons such as Marilyn Monroe, evidencing the manner in which Dumas exposes the fact that&nbsp;cultural images represent collectively-created stereotypical identities, voided of their subjectivity and identity. I&nbsp;will further refer to and discuss the anthropological concept of “liminality” and how it functions in painting, arguing that&nbsp;Dumas depicts these iconic subjects in states of transition and “in-betweenness,” which allows her to rewrite and reclaim the subjectivity of the characters.</p> <h2>The Origins of the Icon</h2> <p>As the traditional notion of portraiture derives from&nbsp;the concept of the “icon,” it is helpful to first analyze the origins of this&nbsp;term. The word “icon” originates from&nbsp;the Greek “eikon,” denoting a&nbsp;likeness or image, and traditionally refers to representations of divinity and saints. Traditional Byzantine icons did not bear a&nbsp;resemblance to any naturalistic likeness, they were simply standardized images of Christ and the saints. Nevertheless, as authenticity was a&nbsp;prerequisite for&nbsp;such images, only icons that&nbsp;were allegedly painted from&nbsp;real life were considered true to life and truly authentic. One such example is the icon of the Virgin Mary in Venice (though originally from&nbsp;Byzantium), supposedly painted by Saint Luke at the Nativity.<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> The issue of precise likenesses was further strengthened by Veronica's Veil, considered the image of images –&nbsp;the "vera iconia"– an authentic image of Christ that&nbsp;had not been made by human hands. Legend has it that&nbsp;Christ left a&nbsp;visual impression of his face on a&nbsp;cloth handed to him by Saint Veronica on his way to the Cross. As the imprinted image was considered the true and indisputable likeness of Christ, it paved the way for&nbsp;artists to transform this&nbsp;image into&nbsp;a&nbsp;portrait of the Savior. A&nbsp;transition therefore took place from&nbsp;the tradition of the sacred (icon) portrait to the subject portrait, both of these principally based on the claim to being a&nbsp;faithful likeness.</p> <p>What made a&nbsp;religious person “iconic” was determined by their degree of recognizability, as certain representations of saints became immediately recognizable through&nbsp;repetition of specific poses and/or attributes. Should they not be recognizable, they would not accomplish the function bestowed upon&nbsp;them of educating and communicating with&nbsp;worshippers. The irreconcilability between&nbsp;the Eastern and Western Churches was partly also based on their iconographic misunderstandings, with&nbsp;both sides declaring that&nbsp;they were not able to pray at the other's icons as the saints depicted were unrecognizable.<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/lelik/jan_van_eyck_vera_icon-1920x-975.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/lelik/jan_van_eyck_vera_icon-330x-8fe.jpg 330w,assets/cache/images/issues/2019/23/lelik/jan_van_eyck_vera_icon-660x-a7e.jpg 660w,assets/cache/images/issues/2019/23/lelik/jan_van_eyck_vera_icon-768x-4ba.jpg 768w,assets/cache/images/issues/2019/23/lelik/jan_van_eyck_vera_icon-1320x-8db.jpg 1320w" src="assets/cache/images/issues/2019/23/lelik/jan_van_eyck_vera_icon-660x-a7e.jpg" alt="" ></a>    <figcaption><p>Copy after&nbsp;Jan van Eyck, <em>Vera Icon</em>, 1439, Alte Pinakothek, Munich</p></figcaption>   </figure>  </section><section class="u-typo">   <p>While icons were religious products, they exceeded mere religious functionality, as “holy images were never the affair of religion alone, but&nbsp;also always of society, which expressed itself in and through&nbsp;religion. Religion was far too central a&nbsp;reality to be, as in our day, merely a&nbsp;personal matter or an affair of the churches.”<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a> Their representation functioned equally as a&nbsp;cultural model, where saints led pious lives that&nbsp;believers were supposed to model their lives on. The representation of saints was thus meant to educate worshippers in the manner desired by the church. In order to convey a&nbsp;particular message, saints were depicted in characteristic poses and events from&nbsp;their lives, ones recognizable to all. This&nbsp;created an image with&nbsp;specific features which lead to the creation of the iconic (recognizable) representation of the saint.</p> <p>Up until&nbsp;the Middle ages it was only saints who could receive iconic representations, nevertheless the Renaissance brought a&nbsp;renewed interest in the man and with&nbsp;it –&nbsp;the transition from&nbsp;the religious icon to the person as subject. According to Hans Belting, the transition began when Veronica's Veil appeared in several works by Flemish masters, where the modern portrait had come into&nbsp;existence.<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a> Christ's face isolated on a&nbsp;veil had been depicted in several works by Jan van Eyck and Rogier van der Weyden. As this&nbsp;icon had achieved the status of authenticity (of the represented character), Van Eyck also had the right to reproduce this&nbsp;likeness and create a&nbsp;portrait based on this&nbsp;resemblance. Simultaneously, portraits of non-divine subjects were created on the same principal of likeness as in the case of divine subjects, where the subjects would be attentively scrutinized by the artist and represented in their true likeness. As the representation of saints and ordinary people went hand in hand, the distinguishing characteristic of the two types of portraits became the gaze.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/lelik/antonello_da_messina-1920x-549.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/lelik/antonello_da_messina-330x-a4e.jpg 330w,assets/cache/images/issues/2019/23/lelik/antonello_da_messina-660x-d8d.jpg 660w,assets/cache/images/issues/2019/23/lelik/antonello_da_messina-768x-d04.jpg 768w,assets/cache/images/issues/2019/23/lelik/antonello_da_messina-1320x-eab.jpg 1320w" src="assets/cache/images/issues/2019/23/lelik/antonello_da_messina-660x-d8d.jpg" alt="" ></a>    <figcaption><p>Antonello da Messina,<em>Salvator Mundi</em>, ca. 1465 -&nbsp;1475, National Gallery, London</p></figcaption>   </figure>  </section><section class="u-typo">   <p>At first, religious portraits maintained their distant gaze (“regard absolu”), while human subjects gazed in a&nbsp;manner that&nbsp;would directly level and interact with&nbsp;the viewer (“regard limite”). The gaze, an original attribute of the religious icon, helped manifest the essence of the subject, who –&nbsp;through&nbsp;the act of gazing –&nbsp;shed the portrait of its objectual character and became an annex of the real face of the portrayed. Through&nbsp;the gaze, a&nbsp;fundamental analogy formed between&nbsp;the subject of the portrait and the viewer. Belting remarks that&nbsp;the gap between&nbsp;the religious icon and the human subject came close to its end with&nbsp;Antonello de Messine's <em>Salvator Mundi</em> (1465) where Christ had not been represented with&nbsp;a&nbsp;cold and distant look, but&nbsp;was instead blessing the viewer while warmly looking at them. Furthermore, Christ's features also bare confirmation of the fact that&nbsp;he had been painted on the basis of a&nbsp;real studio model. Religious icons thus transited to society portraits, both fashioned around&nbsp;the concept of likeness and recognizability.</p> <p>The creation of popular icons functions in a&nbsp;similar way to creating religious ones, by generating a&nbsp;cult around&nbsp;an individual who boasts a&nbsp;desirable characteristic that&nbsp;should be emulated by other people. In order to create an iconic representation of a&nbsp;subject, a&nbsp;recognizable image of the person depicted must be proliferated until&nbsp;the person becomes instantly recognizable to the public. An iconic portrait thus becomes the most recognizable representation of the represented person. Nevertheless, the potential for&nbsp;iconic portraits exists in the representation of “iconic” subjects, i.e. of subjects who have risen to international recognition (“stardom”).</p> <p>As some of Marlene Dumas’ subjects are inspired by internationally known characters, many of her works have the potential to further feed their iconic representation. Nevertheless, such subjects in Dumas’ work undergo radical transformations to the point that&nbsp;they become unrecognizable. While it could be argued that&nbsp;certain works by Marlene Dumas are iconic creations of her own (recognizably made by her hand), her representations of iconic characters do not actually depict them in iconic instances. Dumas' uniqueness of representation comes from&nbsp;the fact that&nbsp;she radically re-works her original photographic sources into&nbsp;new images. She argues that&nbsp;“there is the image (source photography) you start with&nbsp;and the image (the painted image) you end up with, and they are not the same. I&nbsp;wanted to give more attention to what the painting does to the image, not only to what the image does to the painting.”<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a></p> <p>Dumas' representations of Mary Magdalene are relevant examples in this&nbsp;sense. Traditional representations of Mary Magdalene show her as a&nbsp;beautiful sensual woman, with&nbsp;light skin and fair hair, most commonly depicted in repentance, shying away from&nbsp;the viewer's gaze. Dumas' series of Magdalenes, however, depict dark skinned, at times short-haired, confident women, who stand up straight and confront the onlooker. Without&nbsp;knowing the titles of the works, viewers would not be able to identify the subject. The same goes for&nbsp;her representations of Marilyn Monroe. While Andy Warhol famously repeated the same image of Monroe, recognizable in an instance to all, Dumas chooses to depict her as cold, dead, blue flesh on a&nbsp;coroner’s slab.</p> <h2>Dumas’ Mary Magdalene</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/lelik/md1995_17-1920x-b4b.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/lelik/md1995_17-330x-306.jpg 330w,assets/cache/images/issues/2019/23/lelik/md1995_17-660x-7d3.jpg 660w,assets/cache/images/issues/2019/23/lelik/md1995_17-768x-190.jpg 768w,assets/cache/images/issues/2019/23/lelik/md1995_17-1320x-cde.jpg 1320w" src="assets/cache/images/issues/2019/23/lelik/md1995_17-660x-7d3.jpg" alt="" ></a>    <figcaption><p>Marlene Dumas, <em>Magdalena (Manet’s Queen / Queen of Spades), </em>1995 © Marlene Dumas</p></figcaption>   </figure>  </section><section class="u-typo">   <p>As I&nbsp;have argued previously, even though there is no specific biblical reference for&nbsp;Mary Magdalene being a&nbsp;prostitute or of her having led a&nbsp;sinful life, she is generally known in Western culture as a&nbsp;female sinner who became a&nbsp;saint. One of the reasons for&nbsp;such misconceptions is the fact that&nbsp;the Gospels do not clearly explain Mary Magdalene’s origins, but&nbsp;it is also a&nbsp;consequence of the common use of the name Mary in early Christian scriptures, making distinguishing between&nbsp;characters at times impossible. Further interpretations could also be related to the name of the city of Magdala, which during&nbsp;Christ’s life was destroyed due to the citizens’ moral depravity.<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a> Over&nbsp;time the confusion between&nbsp;the town’s inhabitants’ sins and the Magdalene herself could have been the source of her image as an adulterous sinner. While scriptural questions over&nbsp;Mary Magdalene’s identity were the basis of an ongoing debate throughout the first centuries, it is only due to Gregory the Great’s proclamation (c. 590-604) that&nbsp;Western Christian tradition acknowledged Magdalene as being both a&nbsp;sinner and penitent.<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a></p> <p>While this&nbsp;image of Mary Magdalene is not based on historical sources, it was an image promulgated by the Church to inform believers that&nbsp;no matter how much they had sinned, there would always be a&nbsp;chance for&nbsp;redemption. As a&nbsp;result, art historical imagery promoted depictions of a&nbsp;beautiful sensual woman, reminiscent of her sinful past&nbsp;life. Her beauty and long hair, as well as subtle religious references such as the ointment jar, made images of her easily recognizable throughout the centuries.<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a></p> <p>Dumas' paintings go against&nbsp;this grain. The artist breaks with&nbsp;the stereotypical representation. Dumas’ figures are not light-haired or fair-skinned; some of them do not even have long hair. These women are not depicted repenting or shying away from&nbsp;the viewer’s look, instead she is confronting the onlooker. Ernst van Alphen argues that, by returning the gaze of the viewer, these works continue Edouard Manet’s tradition of Olympia (a painting that&nbsp;also inspired the title of one of Dumas’ works) that&nbsp;scandalized the public in 1863 because it depicted a&nbsp;naked prostitute, whose unclothed body not only challenged nude ideals of the time, but&nbsp;also directly confronted the intrusive gaze of onlookers.<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a> In addition to the gaze, Dumas’ Magdalenes also stand, and do not recline, “adopting a&nbsp;pose as well as a&nbsp;gaze that&nbsp;inscribe their dignity and authority.”<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a> While Dumas’ Magdalenes are inspired by supermodels such as Naomi Campbell and Claudia Schiffer, it is not only their seductive bodies that&nbsp;are at stake in these paintings. Instead, such images confront the viewer with&nbsp;“self-aware, complex presentations of the female, in which there is a&nbsp;totally new configuration of the figure depicted, viewer and author.”<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/lelik/md1995_13-1920x-fa8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/lelik/md1995_13-330x-109.jpg 330w,assets/cache/images/issues/2019/23/lelik/md1995_13-660x-529.jpg 660w,assets/cache/images/issues/2019/23/lelik/md1995_13-768x-132.jpg 768w,assets/cache/images/issues/2019/23/lelik/md1995_13-1320x-fb3.jpg 1320w" src="assets/cache/images/issues/2019/23/lelik/md1995_13-660x-529.jpg" alt="" ></a>    <figcaption><p>Marlene Dumas, <em></em><em>Magdalena (Newman’s Zip), </em>1995, © Marlene Dumas</p></figcaption>   </figure>  </section><section class="u-typo">   <p>By creating unrecognizable versions of Mary Magdalene, Dumas therefore goes beyond&nbsp;the stereotypical image of the religious model and unmasks the fact that&nbsp;such depictions do not represent factual personas, but&nbsp;are actually culturally created identities, programmed to represent ideals, and not real humans. Taking the process one step further, besides&nbsp;unmasking the stereotype, she also breaks the underlying codes of the construction of Mary Magdalene's cultural image. Stripped of her religious connotation, Mary Magdalene appears as a&nbsp;threatening woman, ready to overturn the spectators’ voyeuristic gaze in an overt act of upheaval. By rendering a&nbsp;confrontational and threatening body, she further creates a&nbsp;new image for&nbsp;female subjectivity that&nbsp;further questions the cultural representation of the female body and nude.<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a></p> <h2>Dumas’ Marilyn Monroe</h2> <p>Marilyn Monroe shares a&nbsp;similar fate to that&nbsp;of Mary Magdalene. After&nbsp;a&nbsp;mere fourteen year professional career and an early death at just thirty-six, Monroe's life has been told and retold in countless illustrated magazines, newspapers, and books, continuously interpreting and embellishing the myths surrounding her life. Marilyn Monroe's name, just like&nbsp;Mary Magdalene's, is a&nbsp;social fabrication. In addition to minor cosmetic surgery, the heightening of her hairline and the bleaching of her hair, Norma Jeane Baker took on the name of Marilyn Monroe on 24<sup>th</sup> of August 1946 to reflect her newly created femme fatale persona. “She was getting acquainted with&nbsp;her new identity, saying "Marilyn Monroe" as if tasting a&nbsp;piece of candy.”<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a> Her whole newly created identity revolved around&nbsp;sexuality, transforming her into&nbsp;the number one sex symbol of her time. While she had already became a&nbsp;glamour icon during&nbsp;her lifetime, her untimely death was the key factor that&nbsp;immortalized her iconic persona.</p> <p>Just as in the case of Mary Magdalene, there was no directly comparable personality to that&nbsp;of Marilyn Monroe's during&nbsp;her time. There were other famous Hollywood actresses, but&nbsp;none of them had Monroe's sex appeal, which she seemed to have been able to manipulate in her own favor at all times. While penniless and struggling for&nbsp;recognition, she accepted a&nbsp;$50 nude shooting session offered by a&nbsp;glamour photographer. One of these nude pictures ended up in a&nbsp;calendar, and even though no names were given, her identity came under&nbsp;scrutiny. Under&nbsp;the pressure of her production studio, Monroe bit the bullet by confirming her identity as the model, presenting herself as "an impoverished and blameless victim with&nbsp;nothing to be ashamed of"<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a> which turned public opinion in her favor. Rather than&nbsp;ruining her career, this&nbsp;incident further established her as “Hollywood's hottest property,” selling eight million copies of the calendar by 1963.<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a> Marilyn Monroe had therefore been pardoned for&nbsp;her early mistake and, through&nbsp;admitting her fault, she became a&nbsp;model to look up to.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/lelik/md2008_01-1920x-776.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/lelik/md2008_01-330x-066.jpg 330w,assets/cache/images/issues/2019/23/lelik/md2008_01-660x-5d9.jpg 660w,assets/cache/images/issues/2019/23/lelik/md2008_01-768x-78d.jpg 768w,assets/cache/images/issues/2019/23/lelik/md2008_01-1320x-c60.jpg 1320w" src="assets/cache/images/issues/2019/23/lelik/md2008_01-660x-5d9.jpg" alt="" ></a>    <figcaption><p>Marlene Dumas, <em>Dead Marilyn</em>, 2008, photo: Peter Cox, Eindhoven © Marlene Dumas</p> <p></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Given her untimely death, there was not enough time for&nbsp;the public to fully exhaust the concept of Marilyn Monroe. A&nbsp;frenzy surrounded her public image at the time of her death, and this&nbsp;event only provided the chance to further develop her concept, now without&nbsp;any consent needed from&nbsp;the original creator. The iconic images of Marilyn Monroe that&nbsp;have been, and are still, proliferated to this&nbsp;day are the image the public wanted of this&nbsp;icon, namely that&nbsp;of the ultimate sex symbol, for&nbsp;men and women alike. What constitutes Monroe as a&nbsp;cultural model is thus a&nbsp;generalized and romanticized amalgam of shared thoughts and opinions that&nbsp;coagulate into&nbsp;an idealized version of her persona. Never before&nbsp;had the icon Marilyn Monroe been further apart from&nbsp;the original Norma Jeane Baker, the icon from&nbsp;the factual person.</p> <p>However, in Dumas' representation of Monroe the viewers find nothing of the iconic star known to them. Just as in her portraits of Mary Magdalene, the depicted figure is unrecognizable without&nbsp;reading the title of the work (<em>Dead Marilyn</em>, 2008). Yet even the title does not make one identify the image with&nbsp;what one knows as Marilyn's “true” appearance. What Dumas does again is to demystify the myth around&nbsp;the glamourous icon. Painting her dead and bruised on the coroner's slab, Dumas writes a&nbsp;new story; she brings Monroe back to the flesh, and to humanity. By regaining her mortality she transgresses the immortal iconic aura, becoming the ordinary woman that&nbsp;she was beyond&nbsp;the invented and popularized media persona.</p> <p>When it comes to portraiture, Dumas’ representation of Marilyn Monroe transgresses traditional notions of the genre by failing to deliver a&nbsp;coherent and unified picture of the inside&nbsp;and outside&nbsp;of the subject. It fails to deliver the expected and identifiable glamorous image, and it refuses to further sediment the public persona. Instead, within&nbsp;the genre of portraiture, Dumas creates a&nbsp;new image of Monroe, one that&nbsp;does nothing less than&nbsp;become an alternative to an icon: a&nbsp;stereotypically fabricated persona.</p> <h2>Dumas’ “Liminality”</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/lelik/md2002_13-1920x-9c8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/lelik/md2002_13-330x-070.jpg 330w,assets/cache/images/issues/2019/23/lelik/md2002_13-660x-c31.jpg 660w,assets/cache/images/issues/2019/23/lelik/md2002_13-768x-58a.jpg 768w,assets/cache/images/issues/2019/23/lelik/md2002_13-1320x-cb9.jpg 1320w" src="assets/cache/images/issues/2019/23/lelik/md2002_13-660x-c31.jpg" alt="" ></a>    <figcaption><p>Marlene Dumas, <em>The Deceased</em>, 2002, photo: Peter Cox, Eindhoven, © Marlene Dumas</p> <p></p></figcaption>   </figure>  </section><section class="u-typo">   <p>By looking at Dumas’ own state of “in-betweenness” voiced in statements such as “I’m always ‘not from&nbsp;here,’” Marlene van Niekerk argues that&nbsp;several of Dumas’ works can be read as liminal modulations imagined as states on the threshold of passing from&nbsp;one form to another.<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a> Dumas’ “not being from&nbsp;here”, her not belonging, parallels the liminality depicted in her work. She empathizes with&nbsp;her protagonists whom she depicts “in between” states, lives or emotions. Liminality entails mutability, where certainties are removed, and change can freely occur. In the light of the above, I&nbsp;will argue that&nbsp;Marlene Dumas unmasks the stereotyping power of iconicity by placing the subjects in an intentional state of transition, where new ideas and forms can emerge from.</p> <p>The term “liminality” –&nbsp;from&nbsp;the Latin “limen” meaning threshold –&nbsp;was first coined by Arnold van Gennep in his 1909 book <em>Rites de Passage</em>, exploring the concept of liminality in the rites of small-scale societies. When Victor Turner rediscovered this&nbsp;work half a&nbsp;century later, he further extended the concept to non-tribal and modern societies, eventually realizing that&nbsp;“liminality served not only to identify the importance of in-between periods, but&nbsp;also to understand the human reactions to liminal experiences: the way in which personality was shaped by liminality, the sudden foregrounding of agency, and the sometimes dramatic tying together of thought and experience.”<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a> At a&nbsp;practical level, Turner further suggested that&nbsp;liminal experiences in modern societies are replaced by “liminoid” experiences –&nbsp;a&nbsp;term coined by Turner himself<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a> –&nbsp;where creativity unfolds in art and leisure activities. For&nbsp;my argument I&nbsp;shall consider Turner’s notion of “liminoid” experiences in art, and in Dumas’ case, specifically in her paintings, where this&nbsp;state presents human subjects in transitional phases by being rendered in an indeterminate space of “in-betweeness” that&nbsp;opens up the possibilities of re-writing the life story of the “sitters”.</p> <p>Van Niekerk explains that&nbsp;in modern post-industrial societies the products of ritual passages transmute into&nbsp;secular artistic forms, where individuals have the freedom to experiment and play with&nbsp;radically new ideas, images and words. She argues that&nbsp;“liminoid activity can be subversive in the way that&nbsp;it proposes metalanguages with&nbsp;which to reflect on everyday language or images with&nbsp;which conventional attitudes, values and symbols can be invested with&nbsp;modified or surprising content.”<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a> While referring to Dumas’ works as introducing the liminal dimension in portraiture, she interprets paintings such as <em>The Deceased</em> (2002) as a&nbsp;portrait that&nbsp;represents a&nbsp;liminal state, on the threshold between&nbsp;death and decomposition. She argues that&nbsp;such compositions act as stimulators that&nbsp;open up a&nbsp;space for&nbsp;intense emotions to be investigated rather than&nbsp;literally suffered by the viewer.<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a> While <em>Dead Marilyn</em> similarly depicts a&nbsp;corpse in a&nbsp;liminal state, I&nbsp;would argue that&nbsp;the transitory state is dual: that&nbsp;of the subject depicted and that&nbsp;of the image. Dumas’ painting triggers reflection both on mortality and on its absence from&nbsp;popular visual culture, which is permeated with&nbsp;female beauty icons. Here, Monroe gains a&nbsp;new, self-referential identity.</p> <p>Ulrich Loock has argued that&nbsp;while Dumas’ works are based on photographs, their purpose is not to continue the endless proliferation of the images, but&nbsp;rather to interrupt and stop that&nbsp;which Loock argues to be the flatness of photography. He states that&nbsp;in exchange for&nbsp;the promise of extending the realm of the visible, photography had to renounce its corporeality. He further argues that&nbsp;Dumas, through&nbsp;painting and her painterly gestures and methods, manages to bring back this&nbsp;lost corporeality. He quotes Dumas, who goes as far as to say that&nbsp;the painting of a&nbsp;dead woman appears “less dead” on canvas.<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a> “Depending on the painter’s physical movement, her manual labor, the placing of the hand, the trail of paint traces the picture, follows the anatomy of shapes and forms to assure that&nbsp;the paint is nestled up against&nbsp;the object in an analogous way. All of this&nbsp;underlines the involvement of the painter’s body and a&nbsp;claim to the corporeality of the pictured object –&nbsp;painting aims at the embodiment of an image, it does not content itself with&nbsp;signifying its referent.”<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a> As a&nbsp;result, the image that&nbsp;Dumas creates not only breaks with&nbsp;its original source and referent, but&nbsp;brings a&nbsp;new corporeal dimension to the person portrayed. When discussing <em>Dead Marylin</em>, Griselda Pollock has argued that&nbsp;Dumas’ re-translation of the subject depicted by means of powerful painterly gestures, that&nbsp;are registered on canvas, confers energy to the work which eventually translates into&nbsp;intimacy.<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a> This&nbsp;intimacy achieved through&nbsp;painterly motion therefore further strengthens the work’s ability to gain presence.</p> <p>The “liminoid” experience depicted in such works as <em>Dead Marylin</em> is nevertheless an element that&nbsp;further opens up the possibilities of radical change. Not only does Monroe escape a&nbsp;flat representation (that through&nbsp;painterly gestures make her already “less dead”), but&nbsp;through the state of transition she finds herself in –&nbsp;from&nbsp;life to death and death to life, i.e. from&nbsp;an empty icon to a&nbsp;real female presence, and then from&nbsp;a&nbsp;flat image of a&nbsp;corpse to a&nbsp;presence that&nbsp;reverses the proliferation of empty imagery –&nbsp;she fights the stereotypical image people have of her by replacing it with&nbsp;a&nbsp;newly created self-referential existence.</p> <p>Returning to Turner’s argument about&nbsp;“initiatory passage rites [that] tend to ‘put people down’ while some seasonal rites tend to ‘set people up’; that&nbsp;is, initiations humble people before&nbsp;permanently elevating them, while some seasonal rites (whose residues are carnivals and festivals) elevate those of low status transiently before&nbsp;returning them to their permanent humbleness”<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a>, we see that&nbsp;in Dumas’ painting of Monroe there is a&nbsp;clear representation of the former, visible in the handling of the flesh as bruised patches of bluish, murky surface. While Monroe’s character is literally and metaphorically “put down” by showing her lying dead on the coroner’s slab and through&nbsp;the brutality of the depiction, this&nbsp;transitory state in fact helps her escape her previously empty, stereotypically constructed identity as a&nbsp;popular icon, and by confirming her mortality, elevates her/restores her status as a&nbsp;human being, as a&nbsp;being behind&nbsp;an image. The materiality of these bruises and greyish skin are what Loock would refer to as making the subject “less dead,” but&nbsp;this transitional state between&nbsp;status quos is what actually brings her presence back to life. Even though she is depicted on her deathbed, she is now in fact more alive than&nbsp;she used to be, as she is depicted with&nbsp;humanizing characteristics rather than&nbsp;through empty imagery.</p> <p>Dumas’ Mary Magdalene series of paintings can also be read in the light of Turner’s concept of liminal societies, where “liminal initiands are often considered to be dark, invisible, like&nbsp;a&nbsp;planet in eclipse or the moon between&nbsp;phases; they are stripped of names and clothing, smeared with&nbsp;the common earth, rendered indistinguishable from&nbsp;animals. […] Sharp symbolic inversion of social attributes may characterize separation; blurring and merging of distinctions may characterize liminality.”<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a> Just as with&nbsp;<em>Dead Marilyn</em>, the Mary Magdalene series also plays on the threshold of such characteristics: the Magdalenes are both black and white, at times with&nbsp;blurred skin colors. <em>Magdalena (Manet’s Queen</em> / <em>Queen of Spades)</em> depicts a&nbsp;dark-skinned woman; nevertheless her feet change color, becoming considerably lighter than&nbsp;the rest of her body. <em>Magdalene (Newman’s Zipp)</em> depicts a&nbsp;white woman, but&nbsp;the middle part of her body is murkier than&nbsp;her head and legs below&nbsp;the knees. The darker Magdalene’s face, through&nbsp;its rigidity, resembles a&nbsp;mask. Masks used in rituals often enable passage. The blurring and merging of facial characteristics are evident in Monroe’s portrait on her deathbed, where the bruises seems to take over&nbsp;her face, a&nbsp;face that&nbsp;corresponds to her white hair rendered in the same bleached shades as her forehead, eyelids, cheeks, and lips. Through&nbsp;these visual changes, Dumas’ subjects –&nbsp;just like&nbsp;the subject in rites –&nbsp;“undergo a&nbsp;‘leveling’ process, in which signs of their pre-liminal status are destroyed and signs of their liminal non-status are applied.”<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a></p> <p>At first glance the term limen “appears to be negative in connotation, since&nbsp;it is no longer the positive past&nbsp;condition nor yet the positive articulated future condition. It seems, too, to be passive since&nbsp;it is dependent on the articulated, positive conditions it mediates. Yet on probing, one finds in liminality both positive and active qualities, especially where that&nbsp;"threshold" is protracted and becomes a&nbsp;‘tunnel,’ when the ‘liminal’ becomes the ‘cunicular’.”<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a> When thinking about&nbsp;Dumas’ representations of Mary Magdalene, the liminal situation is, just as Turner argued, indeed positive and active. Dumas deconstructs the stereotypical representation of Mary Magdalene, thus abolishing the past&nbsp;stereotypical understand of this&nbsp;character. Through&nbsp;the manner in which she depicts Magdalene –&nbsp;as a&nbsp;confrontational and threatening woman –&nbsp;she depicts her body as being active rather than&nbsp;passive, battling Western canons of female nude representation. What further transforms these works into&nbsp;“liminoid” experiences is that, while there are still visible remnants of her old fabricated identity –&nbsp;such as the long hair, sexuality, sensuality, and beauty –&nbsp;she reuses this&nbsp;in a&nbsp;new configuration; we see change in progress. Long hair gradually becomes short hair, fair skin becomes dark skin, shyness becomes confrontation, etc. These elements have not yet reached the final stages of the new status quo, but&nbsp;it is exactly this&nbsp;“in-between” state they are caught in that&nbsp;opens up the realm of endless rewriting possibilities. Mary Magdalene can become a&nbsp;mixed-raced woman, a&nbsp;threatening woman, a&nbsp;confrontational woman, or simply a&nbsp;woman who does not want to engage with&nbsp;the viewer looking at her.<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a></p> <p>Turner borrowed Brian Sutton-Smith’s term “anti-structure” –&nbsp;referring to the dissolution of normative social structure with&nbsp;its statuses –&nbsp;which he then applied to liminality. He quotes Sutton-Smith saying that&nbsp;when “the normative structure represents the working equilibrium, the anti-structure represents the latent system of potential alternatives from&nbsp;which novelty will arise when contingencies in the normative system require it.”<a href="#sdfootnote30sym" name="sdfootnote30anc"><sup>30</sup></a><em> </em>Turner therefore adopts the notion of a&nbsp;paradigm shift in the liminal and liminoid situation, where through&nbsp;a&nbsp;“revolt” against&nbsp;the normative structure one encounters cultural potential that&nbsp;feeds new symbols, goals, aspirations, and structural models. In Dumas’ works, by depicting these subjects in liminoid situations, as I&nbsp;have already argued, the artist breaks away from&nbsp;normative structures concerning&nbsp;the representation of iconic characters, as well as of the female nude and subjectivity in general. Rejecting iconicity, she revolts against&nbsp;predetermined social constructions by creating new, self-referential subjectivities devoid of empty stereotyping fabrications. What Turner describes as happening in liminal situations as a&nbsp;change of structure, namely the “anti-stucture”, can be transposed to liminoid activity in painting, as this&nbsp;means deconstructing the past&nbsp;status quo –&nbsp;namely predetermined identities –&nbsp;and depicting the subjects in states of transition where the elements can be reused to construct a&nbsp;new structure, to establish a&nbsp;new status quo. The importance of the “in-betweenness” therefore lies in the fact that&nbsp;not only does it fight against&nbsp;old dominant structures, but&nbsp;that it offers myriad possibilities for&nbsp;new constructions that&nbsp;do not have predetermined characteristics, while at the same time not necessarily excluding&nbsp;past elements either. These elements can be used and reused with&nbsp;absolute freedom, and in the case of a&nbsp;painter like&nbsp;Dumas, whose medium’s immediacy does not always allow for&nbsp;precise predetermined compositions (given her wet on wet painterly methods), they open up endless possibilities for&nbsp;creating subjectivities. For&nbsp;this reason, in larger series of works such as those like&nbsp;“Magdalene”, we see works that&nbsp;sometimes depict a&nbsp;wary female figure, at times white and at other times black, a&nbsp;seductive female body, a&nbsp;threatening female presence, etc., some still bearing a&nbsp;resemblance to the iconic notion of Mary Magdalene, while others embody the exact opposite&nbsp;characteristics to those this&nbsp;subject was historically known for.</p> <h2>Conclusion</h2> <p>Taking as a&nbsp;point of departure religious and glamor models, Marlene Dumas creates unrecognizable portraits which thus deconstruct cultural types through&nbsp;transformation, battling the power of existing stereotypes. By taking away Mary Magdalene and Marilyn Monroe’s iconic characteristics –&nbsp;such as the long hair, fair skin, the ointment jar, and the gaze that&nbsp;shies away from&nbsp;the viewer in Mary Magdalene’s case, and depicting Monroe as bruised and battered dead flesh –&nbsp;Dumas revolts against&nbsp;the oppressive norms of female beauty, nudity and the patriarchal narratives of subjugation. She offers interpretations of female subjectivity that&nbsp;transgress stereotypical representation of gender and sexuality. By depicting these characters in “liminoid” states, that&nbsp;is in states of transition and passage –&nbsp;where Mary Magdalene moves away from&nbsp;her sexualized and repenting aura to a&nbsp;self-assured, confrontational, and active female subject, and where Marilyn Monroe leaves behind&nbsp;her image as the ultimate sex symbol to become dead flesh –&nbsp;she abolishes their past&nbsp;conditions and opens up a&nbsp;space for&nbsp;the creation of a&nbsp;new, self-referential identity that&nbsp;departs from&nbsp;violent and stereotyping fabrications.<em> </em></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p></p>
+<p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Timea Andrea Lelik, “To Model or Not To Model: Transgressive Portraits of Mary Magdalene by Marlene Dumas” in <em>Breaking the Rules: Artistic Expressions of Transgressions</em>, Journal of the LUCAS Graduate Conference, Leiden University, Issue 5, (February 2017): 63-85, https://openaccess.leidenuniv.nl/bitstream/handle/1887/45210/JLGC5-04_ToModelOrNot.pdf?sequence=1.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Cynthia A. Freeland, <em>Portraits and Persons: a Philosophical Inquiry</em> (Oxford: Oxford University Press, 2010), 54.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Hans Belting, <em>Likeness and Presence: a History of the Image Before the Era of Art</em>, (Chicago: University Chicago Press, 1994), 1.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Ibid., 3.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Hans Belting, <em>Faces: une histoire du visage</em>, (Paris: Gallimard, 2017), 181.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Kit Messham-Muir, “You Start With the Image: Marlene Dumas at Tate Modern<em>,</em>” <em>The Conversation</em>, February 20, 2015, <a href="http://theconversation.com/you-start-with-the-image-marlene-dumas-at-the-tate-modern-37461" target="_blank" rel="noopener">http://theconversation.com/you-start-with-the-image-marlene-dumas-at-the-tate-modern-37461</a>.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Diane Apostolos-Cappadona, <em>In Search of Mary Magdalene: Images and Traditions</em>, (New York: The American Bible Society, 2002), 11.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Ibid.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Lelik, “To Model,” 68-71.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Ernst van Alphen, <em>Art in Mind: How Contemporary Images Shape Thought</em>, (Chicago: The University of Chicago Press, 2005), 160.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Ibid.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Matthias Winzen, “A Portrait of the Artist as a Young Woman,” in <em>Marlene Dumas - Female</em>, ed. Matthias Winzen (Cologne: Snoek, 2005), 35.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> For a detailed analysis on the manner in which these portraits challenge the stereotypical representation of the passive female nude, see my “To Model,” 71-75.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Robin Muir, <em>The World's Most Photographed</em> (London: National Portrait Gallery Publication, 2005), 117.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Ibid.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Ibid.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Marlene van Niekerk, <em>Seven M-blems for Marlene Dumas</em> (New York: Zwirner &amp; Wirth, 2005), 20-21.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Bjørn Thomassen, “The Uses and Meanings of Liminality” in <em>International Political Anthropology</em> Vol. 2, No. 1, (2009): 14.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Victor Turner, “Liminal to Liminoid, in Play, Flow, and Ritual: An Essay in Comparative Symbology" in <em>Rice Institute Pamphlet - Rice University Studies</em>, 60, no. 3, (1974).</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Van Niekerk, <em>Seven</em>, 19.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Ibid., 20.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Ulrich Loock, “A Sense of Touching: Marlene Dumas” in <em>Cura</em>, no. 9 (2011): 74.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Ibid., 73-74.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Griselda Pollock, “The Missing Wit(h)ness: Monroe, Fascinance and the Unguarded Intimacy of Being Dead” in <em>Journal of Visual Art Practice</em>, 16 (3), (2017): 265-296.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Turner, <em>Liminal</em>, 57.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Ibid., 58-59.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Ibid., 59.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Ibid., 72.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> In the Mary Magdalene series Dumas also created a version of the subject that turns her back on the viewer – for further reference see Marlene Dumas, <em>Mary Magdalene 3</em>, 1996, in the collection of Tate Modern, London.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Turner, <em>Liminal</em>, 60.</p></div>
+
+				
+
+				
+	<div class="m-bibliography" style="margin-bottom: 2em;">
+		<a class="c-issue-toc__article-collapse-btn" role="button" data-toggle="collapse" href="#collapseSummary1874" aria-expanded="false" aria-controls="collapseSummary1874" data-lexicon-show="" data-lexicon-hide="">
+			Bibliography
+		</a>
+		<div class="c-issue-toc__article-collapse collapse" id="collapseSummary1874">
+			<div class="c-issue-toc__article-collapse-inner">
+				<div class="m-bibliography__content u-typo">
+	<p>Alphen, Ernst van. <em>Art in Mind: How Contemporary Images Shape Thought</em>, Chicago: The University of Chicago Press, 2005.</p>
+<p>Apostolos-Cappadona, Diane. <em>In Search of Mary Magdalene: Images and Traditions</em>, New York: The American Bible Society, 2002.</p>
+<p>Belting, Hans. <em>Likeness and Presence: a History of the Image Before the Era of Art</em>, Chicago: University Chicago Press, 1994.</p>
+<p>Belting, Hans. <em>Faces: une histoire du visage</em>, Paris: Gallimard, 2017.</p>
+<p>Freeland, Cynthia A. <em>Portraits and Persons: a Philosophical Inquiry,</em> Oxford: Oxford University Press, 2010.</p>
+<p>Lelik, Timea Andrea. “To Model or Not To Model: Transgressive Portraits of Mary Magdalene by Marlene Dumas” in <em>Breaking the Rules: Artistic Expressions of Transgressions</em>, Journal of the LUCAS Graduate Conference, Leiden University, Issue 5, February 2017, <a href="https://openaccess.leidenuniv.nl/bitstream/handle/1887/45210/JLGC5-04_ToModelOrNot.pdf?sequence=1">https://openaccess.leidenuniv.nl/bitstream/handle/1887/45210/JLGC5-04_ToModelOrNot.pdf?sequence=1</a>.</p>
+<p>Loock, Ulrich. “A Sense of Touching: Marlene Dumas” in <em>Cura</em>, no. 9, 2011.</p>
+<p>Messham-Muir, Kit. “You Start With the Image: Marlene Dumas at Tate Modern<em>,</em>” <em>The Conversation</em>, February 20, 2015, <a href="http://theconversation.com/you-start-with-the-image-marlene-dumas-at-the-tate-modern-37461">http://theconversation.com/you-start-with-the-image-marlene-dumas-at-the-tate-modern-37461</a>.</p>
+<p>Muir, Robin. <em>The World's Most Photographed</em>, London: National Portrait Gallery Publication, 2005.</p>
+<p>Niekerk, Marlene van. <em>Seven M-blems for Marlene Dumas</em>, New York: Zwirner &amp; Wirth, 2005.</p>
+<p>Pollock, Griselda. “The Missing Wit(h)ness: Monroe, Fascinance and the Unguarded Intimacy of Being Dead” in <em>Journal of Visual Art Practice</em>, 16 (3), 2017.</p>
+<p>Thomassen, Bjørn. “The Uses and Meanings of Liminality” in <em>International Political Anthropology</em> Vol. 2, No. 1, 2009.</p>
+<p>Turner, Victor. “Liminal to Liminoid, in Play, Flow, and Ritual: An Essay in Comparative Symbology" in <em>Rice Institute Pamphlet - Rice University Studies</em>, 60, no. 3, 1974.</p>
+<p>Winzen, Matthias. “A Portrait of the Artist as a Young Woman,” in <em>Marlene Dumas - Female</em>, ed. Matthias Winzen, Cologne: Snoek, 2005.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/power-of-women/unmasking-the-ic" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

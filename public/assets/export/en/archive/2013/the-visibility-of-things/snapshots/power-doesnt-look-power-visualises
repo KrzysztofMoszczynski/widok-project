@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Władza nie patrzy, władza wizualizuje | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/wladza-nie-patrzy-wladza-wizualizuje">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Władza nie patrzy, władza wizualizuje | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Władza nie patrzy, władza wizualizuje | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/wladza-nie-patrzy-wladza-wizualizuje">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Władza nie patrzy, władza wizualizuje | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ff5239 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ff5239 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ff5239 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ff5239 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ff5239 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ff5239 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+			/* background-color:#ff5239 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,82,57,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ff5239 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ff5239; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ff5239 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ff5239 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ff5239 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1352 parent-id-1335">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="419" data-selected-issue-color="#ff5239" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/the-visibility-of-things#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/the-visibility-of-things/power-doesnt-look-power-visualises">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/widzialnosc-rzeczy#toc">1</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/wladza-nie-patrzy-wladza-wizualizuje?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Władza nie patrzy, władza wizualizuje</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/wladza-nie-patrzy-wladza-wizualizuje?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=318">Łukasz Zaremba</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Nicholas Mirzoeff, <em>The Right to Look. A&nbsp;Counterhistory of Visuality</em>, Duke University Press, Durham-London 2011.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/01/migawki/15-117-1-pb-1920x-3c5.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/01/migawki/15-117-1-pb-330x-5f0.jpg 330w,assets/cache/images/issues/2013/01/migawki/15-117-1-pb-660x-7bf.jpg 660w,assets/cache/images/issues/2013/01/migawki/15-117-1-pb-768x-593.jpg 768w,assets/cache/images/issues/2013/01/migawki/15-117-1-pb-1320x-8fb.jpg 1320w" src="assets/cache/images/issues/2013/01/migawki/15-117-1-pb-660x-7bf.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>„Ciąg dalszy nastąpi za&nbsp;sprawą Czytelnika...”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. Takie zdanie zamknęło równo czterdzieści lat temu multimedialny projekt zakończony wydaniem książki Johna Bergera <em>Sposoby widzenia</em>. „Od tego momentu widzenie nie było już takie samo”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Od tego momentu nie było już także jednego widzenia. Krytykując męskie, klasowe, zdystansowane, zachodnie spojrzenie, Berger domagał się spojrzeń innych, opozycyjnych – spojrzeń zmarginalizowanych, niemożliwych do pogodzenia z&nbsp;dominującym sposobem widzenia<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Niewielką przesadą będzie stwierdzenie, że&nbsp;wzywał do rewolucji, której początek miał rozegrać się w&nbsp;sferze wizualności – jej pierwszy krok to przejrzenie na&nbsp;oczy, a&nbsp;więc dostrzeżenie, że&nbsp;w&nbsp;tym, jak patrzymy, co widzimy i&nbsp;jak jesteśmy poddawani cudzemu spojrzeniu, realizuje się określona ideologia (u Bergera przede wszystkim klasowa i&nbsp;genderowa), i&nbsp;że to właśnie w&nbsp;negocjacjach sposobów widzenia może rozpocząć się zmiana społeczna. Wezwanie to Berger kierował do całego brytyjskiego społeczeństwa, a&nbsp;celem programów telewizyjnych stacji BBC i&nbsp;samej książki nie było zdjęcie bielma z&nbsp;oczu historyków sztuki, lecz wywołanie szerszych przemian społecznych, przekształcenie praktyk oka jako ważnych – co najmniej w&nbsp;tym samym stopniu, co praktyki słowa – praktyk kultury zachodniej.</p> <p>Oczywiście oddziaływanie <em>Sposobów widzenia</em> trudno zmierzyć. Nie można jednak zaprzeczyć, że&nbsp;była to jedna z&nbsp;ważnych lektur wielu uznanych dziś badaczy wizualności, którą wciąż znaleźć można w&nbsp;sylabusach podstawowych kursów historii sztuki i&nbsp;kultury wizualnej<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Jednak pomimo inspiracji Bergerem, do której przyznaje się tak wielu autorów<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>, w&nbsp;dziedzinie badań kultury wizualnej nie znajdziemy dziś równie ogólnego projektu krytyki kultury, przeprowadzonego na&nbsp;podstawie analizy sfery wizualnej. Skutkiem wspomnianego rozmnożenia spojrzeń (sposoby widzenia) – wynikającego z&nbsp;dążenia do rozbicia monopolu rzekomo uniwersalnego sposobu widzenia – było raczej skupienie na&nbsp;wybranych, uprzednio zmarginalizowanych punktach widzenia (kobiecym, czarnym, obcym, queerowym, dekolonialnym i&nbsp;postkolonialnym itd.) niż wizja ogólna, ujmująca w&nbsp;jakiś sposób tę różnorodność.</p> <p>Wyjątkiem na&nbsp;tym tle może być twórczość innego poddanego królowej brytyjskiej (kwestii poddaństwa nie należy lekceważyć), Nicholasa Mirzoeffa, pracującego obecnie na&nbsp;Wydziale Mediów, Kultury i&nbsp;Komunikacji New York University. Wyjątek ten staje się jednak wyraźny dopiero dziś, za&nbsp;sprawą wydanej właśnie książki‑manifestu <em>The Right to Look</em><sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>.<em></em>Wcześniejsze, nierzadko kontrowersyjne i&nbsp;dyskusyjne tezy Mirzoeffa wydają się z&nbsp;dzisiejszej perspektywy zapowiedzią tego politycznego wezwania. Postawa autora jest przykładem wykraczania działalności naukowej poza mury akademii i&nbsp;muzeum. <em>Right to Look</em> pokazuje, że&nbsp;wcześniejsze zaangażowanie Mirzoeffa w&nbsp;rolę uczestnika, komentatora, teoretyka i&nbsp;dokumentalisty nowojorskiego i&nbsp;światowego ruchu Occupy<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> wynika bezpośrednio z&nbsp;założeń dotyczących roli badacza kultury wizualnej, lecz przede wszystkim z&nbsp;przekonania o&nbsp;politycznym i&nbsp;etycznym wymiarze samej wizualności.</p> <h2>Błąd ekranów</h2> <p>„Życie współczesne toczy się na&nbsp;ekranie”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. To stwierdzenie, niezbyt szczęśliwe, czy też po&nbsp;prostu „nonsensowne”, jak w&nbsp;burzliwej polemice z&nbsp;autorem napisała Mieke Bal, otworzyło pierwszą ważną publikację Nicholasa Mirzoeffa <em>An</em><em>Introduction to Visual Culture</em> (1999). Autor został wówczas oskarżony – między innymi właśnie przez Bal, wciąż dogmatycznie trzymającą się przykazań poststrukturalnej semiotyki – nie tylko o&nbsp;„wizualny esencjalizm”, ale także o&nbsp;bezrefleksyjne afirmowanie wizualności oraz faworyzowanie wzroku, a&nbsp;tym samym o&nbsp;ignorowanie pozostałych wymiarów zmysłowego doświadczenia<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>. Sprzeciw budziły wyłożone w&nbsp;<em>An Introduction... </em>ogólne tezy Mirzoeffa o&nbsp;tym, że&nbsp;kultura ponowoczesna jest kulturą z&nbsp;istoty wizualną, najpełniej realizuje się w&nbsp;wizualności, a&nbsp;nasze doświadczenie ma dziś charakter wizualny w&nbsp;stopniu większym niż kiedykolwiek w&nbsp;historii. Opinia Martina Jaya jest tu jedną z&nbsp;łagodniejszych: „Nie jestem pewien, czy ponowoczesność należy definiować właśnie w&nbsp;kategoriach wizualności. Równie dobrze można dowodzić, że&nbsp;wyrosła z&nbsp;szerokiej refleksji nad tekstowym i&nbsp;retorycznym wymiarem języka”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>.</p> <p>Ulegając wizji współczesności jako wyjątkowego kryzysu, związanego z&nbsp;rzekomym nadmiarem nie tyle obrazów, ile wizualizacji, Mirzoeff powtarza narracyjną kliszę o&nbsp;wyjątkowej epoce – kliszę (ściśle związaną także z&nbsp;powszechnym przekonaniem o&nbsp;kryzysie), której powroty w&nbsp;historii inny teoretyk kultury wizualnej, W.J.T. Mitchell, śledzi aż&nbsp;od „czasów” Izraelitów czczących złotego cielca pod&nbsp;Górą Synaj. Ukute przez Mitchella określenie „zwrot obrazowy”, pozornie odpowiadające twierdzeniom Mirzoeffa, oznacza przecież nie nadmierne nasycenie świata obrazami, lecz kryzys rozumienia, w&nbsp;którego centrum znajdują się obrazy i&nbsp;sfera wizualna, konflikt, <em>iconoclash</em>, moment w&nbsp;historii, gdy obraz znajduje się w&nbsp;centrum debaty jako coś burzącego porządek, problematycznego<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. W&nbsp;tym sensie tezy Mirzoeffa można uznać raczej za&nbsp;przejaw zwrotu obrazowego niż za&nbsp;jego diagnozę<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>.</p> <p>Innego typu oskarżenie można skierować wobec Mirzoeffa wówczas, gdy w&nbsp;centrum kultury wizualnej stawia „zdarzenie wizualne” rozumiane jako „interakcja pomiędzy znakiem wizualnym, technologią, która uaktywnia i&nbsp;podtrzymuje ten znak, oraz oglądającym”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Choć unika technologicznego determinizmu, pisząc, że&nbsp;„widzieć nie znaczy wierzyć, lecz interpretować”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>, znacznie upraszcza schemat doświadczenia wizualnego, sprowadzając go do relacji widza z&nbsp;urządzeniem technicznym, a&nbsp;więc owym ekranem, na&nbsp;którym rzekomo toczyć ma się współczesne życie.</p> <p>Wszystkie te oskarżenia są, jak sądzę, nazbyt surowe. Po&nbsp;pierwsze, z&nbsp;całą pewnością nie ma racji Mieke Bal, gdy oskarża autora <em>An</em><em>Introduction to Visual Culture</em> o&nbsp;afirmowanie wizualności. Mirzoeff bowiem, upraszczając w&nbsp;swoich wczesnych tekstach doświadczenie wizualne, od samego początku dostrzegał związane z&nbsp;wizualnością niebezpieczeństwa – tym bardziej, że&nbsp;uważał ją w&nbsp;końcu za&nbsp;sedno współczesnej kultury. Od początku poszukiwał więc „szwów i&nbsp;miejsc oporu”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>, poszukiwał możliwych pozycji pozwalających działać i&nbsp;patrzeć wbrew dominującym sposobom widzenia.</p> <p>Po drugie, „kultura wizualna posiada genealogię, która wymaga zgłębiania i&nbsp;definiowania [...] w&nbsp;okresie nowoczesnym i&nbsp;ponowoczesnym”<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. Jeśli współczesna wizualność wynikać ma z&nbsp;załamania się pewnych strategii wizualizowania właściwych nowoczesności, to rozpoznanie kryzysu wymaga poznania tych strategii. Być może tak właśnie należy określić zadanie najnowszego projektu Mirzoeffa, przedstawionego w&nbsp;książce <em>Prawo do patrzenia </em>– jest to rekonstrukcja wybranych nowożytnych i&nbsp;nowoczesnych „kompleksów wizualnych”, nawiedzających naszą współczesność i&nbsp;stanowiących jej chwiejne podstawy.</p> <p>Po trzecie, jeśli wyjątkowa rola wizualności w&nbsp;czasach współczesnych oznacza, jak chce Mirzoeff, nie tyle wielość obrazów, ile wszechobecność wizualizacji, wówczas nie sposób zaprzeczyć, że&nbsp;urządzenia i&nbsp;technologie „epoki reprodukcji technicznej” odgrywają w&nbsp;tych procesach ważną rolę. Nie są to jednak przyczyny, lecz jedynie narzędzia obrazowania. Nie same obrazy bowiem, lecz wizualizowanie jako praktyka – wizualizowanie egzystencji – ma być wyjątkową, strukturalną właściwością ponowoczesności. Nie zastępuje ono dyskursu, lecz strukturyzuje go na&nbsp;nowo zgodnie z&nbsp;zasadami czy raczej potrzebami globalnego kapitalizmu: „czyni go bardziej zrozumiałym, szybszym i&nbsp;efektywniejszym”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>.</p> <p>Słabością tego krytycznego argumentu – z&nbsp;czego Mirzoeff zdał sobie później sprawę – jest wspomniana, zbyt upraszczająca, linearna i&nbsp;płaska wizja zdarzenia wizualnego (obraz+medium+widz), przyczyniająca się również do spłaszczenia i&nbsp;ujednolicenia wizji podmiotu. Można dodać, że&nbsp;jej konsekwencją jest także założenie istnienia jednolitej współczesnej globalnej kultury wizualnej (niezależnie od rozpoznania, że&nbsp;jest to imperialna wizja zachodnia). Słabością całego wczesnego projektu Mirzoeffa – szczególnie irytującą wielu badaczy, których twórczość wyrasta z&nbsp;historii sztuki – był także techno-żargon lat 90. (wszystko: cyber, cyfrowe i&nbsp;hiper). Paradoksalnie jednak, niektóre tropione przez niego samego objawy „lewicowego konserwatyzmu”, czy też elitarystycznego zamknięcia badań kultury wizualnej na&nbsp;polityczność, wyjątkowo wyraźnie ujawniały się w&nbsp;krytycznych komentarzach do jego własnych prac, pełnych irytacji na&nbsp;język obcy literaturoznawcom i&nbsp;historykom sztuki.</p> <h2>Podmioty codziennego oporu</h2> <p>W poświęconym kulturze wizualnej kwestionariuszu pisma „October” z&nbsp;1996 roku pada niesławny zarzut: „Sugeruje się, że&nbsp;badania kultury wizualnej wspomagają, na&nbsp;swój własny, skromny, akademicki sposób, produkcję podmiotów na&nbsp;potrzeby kolejnego etapu [rozwoju] globalnego kapitału”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. Bezosobowa forma pytań, za&nbsp;którą kryła się między innymi krytyczna wobec kultury wizualnej Rosalind Krauss, sprawia, że&nbsp;te mity dotyczące ledwie zarysowującej się wówczas dyscypliny jeszcze silniej wybrzmiewają jak bajki o&nbsp;złym wilku. Powiada się więc, że&nbsp;kultura wizualna jako dyscyplina badawcza uczy sprawnego poruszania się w&nbsp;świecie ekranów, w&nbsp;społeczeństwie ikon, spektaklu, autoreprezentacji, designu i&nbsp;podglądactwa<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. W&nbsp;pewnym sensie całą twórczość Mirzoeffa można uznać za&nbsp;próbę odpowiedzi na&nbsp;ten jeden zarzut – próbę o&nbsp;wiele bardziej zniuansowaną niż mocne, dość ogólne i&nbsp;bezpośrednie oskarżenie (w 1996 roku nie mogło być jeszcze kierowane do niego).</p> <p>Początkowo odpowiedź wydawała mu się dość łatwa. Mirzoeff powoływał się na&nbsp;rozróżnienie Michela de Certeau na&nbsp;strategie i&nbsp;taktyki, nazywając kulturę wizualną taktyką konsumenta. Po&nbsp;kilku latach tłumaczył takie ograniczenie perspektywy – również ograniczenie ludzkiej aktywności do konsumpcji<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup> – chęcią dowartościowania tej pozycji, przez lata nieobecnej w&nbsp;badaniach wizualności<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. Zauważał zbyt uogólniający, projektujący, a&nbsp;nie empiryczny charakter tak definiowanego podmiotu. Wreszcie, dostrzegał możliwość przechwytywania tego punktu widzenia i&nbsp;związanych z&nbsp;nim taktyk przez reprezentantów władzy, a&nbsp;więc strategiczne wykorzystanie technik i&nbsp;narzędzi „antysystemowego oporu”, zwracając jednocześnie uwagę na&nbsp;niebezpieczną strukturalną bliskość swojego projektu i&nbsp;tego, czemu miał on się przeciwstawiać<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>. Tej autokrytyce towarzyszy również odrzucenie wizualizowania rozumianego jako zapośredniczanie (upraszczanie, schematyzowanie, przyspieszanie) i&nbsp;zwrócenie się ku podmiotowi oraz – nieśmiało – wizualności, które pełną realizację znajdzie dopiero w&nbsp;<em>Prawie do patrzenia</em>.</p> <p>Trzeba jednak podkreślić, że&nbsp;Mirzoeff od samego początku dostrzegał codzienną obecność władzy w&nbsp;doświadczeniu wizualnym. Jej konsekwencją jest wizja codzienności politycznej – nieustannego konstytuowania (się) podmiotu w&nbsp;praktykach wizualnych za&nbsp;sprawą i&nbsp;dyskursów, i&nbsp;kategorii wizualnej podmiotowości<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>. Pod&nbsp;tym względem wizja Mirzoeffa zdecydowanie różni się od teorii wielu badaczy kultury wizualnej, poszukujących momentów szczególnego nasycenia i&nbsp;zagęszczenia doświadczenia wizualnego, momentów i&nbsp;przestrzeni wizualnego spełnienia, takich jak choćby doświadczenie muzealne czy kinowe.</p> <blockquote>Kultura wizualna stanowi taktykę negocjowania hiperwizualności codziennego życia w&nbsp;zdigitalizowanej kulturze przez wszystkich tych, którzy nie kontrolują dominujących środków produkcji wizualnej. [...] Zdarzenie [wizualne] jest efektem sieci, w&nbsp;której podmioty operują, i&nbsp;która [...] warunkuje ich wolność działania<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>.</blockquote> <p>W tej definicji – choć ciężar nowych mediów i&nbsp;przebrzmiałego już nieco języka „rewolucji cyfrowej” jest wciąż znaczny – akcenty przesuwają się właśnie w&nbsp;stronę pozycji podmiotu, jego możliwości i&nbsp;środków działania. (Autor zastrzega również, że&nbsp;„rola osoby jako podmiotu wizualnego to nie wszystko, czym jednostka może lub powinna być”<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>). Zadaniem kultury wizualnej staje się wypracowywanie miejsca podmiotu innego niż oferowane przez „transnarodowy kapitał”<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>. W&nbsp;tym celu Mirzoeff nie tylko zwraca się ku zwykłemu widzeniu, lecz także poszukuje w&nbsp;codzienności sposobów patrzenia wbrew, w&nbsp;poprzek. Skoro to tam/wówczas konstruowany jest podmiot wizualny, tam też szukać należy „przestrzeni innego” spojrzenia, spojrzenia „odwróconego” lub „wernakularnego”.</p> <p>„Wernakularne oglądanie” to oglądanie w&nbsp;poczekalni, na&nbsp;siłowni, na&nbsp;dworcu, oglądanie na&nbsp;jednym z&nbsp;tysięcy nieszczęsnych ekranów, na&nbsp;których miało rzekomo toczyć się nasze życie. Oznacza ono ten typ doświadczenia wizualnego, w&nbsp;którym nasza uwaga zostaje rozproszona, podzielona pomiędzy wykonywane czynności. To oglądanie, można powiedzieć, jednym okiem, zerkanie, spoglądanie. Mirzoeff nie proponuje jednak wyłącznie krytyki tego rodzaju spojrzenia (na przykład jako nieświadomego chłonięcia szkodliwych treści), ale w&nbsp;nim właśnie poszukuje potencjału oporu – w&nbsp;kąciku oka, w&nbsp;zerknięciu, wreszcie w&nbsp;rzuceniu okiem, patrzeniu-niepatrzeniu. Wiąże te sytuacje z&nbsp;zakłóceniem ekonomii uwagi, co bardzo silnie łączy jego teorię z&nbsp;tropieniem sprzeczności ekonomii uwagi produkowanej na&nbsp;potrzeby różnych stadiów kapitalizmu<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>. Wernakularne, ukośne zerknięcie staje się świadomym wysiłkiem manipulowania percepcją, a&nbsp;zarazem szansą na&nbsp;spotkanie „w kąciku oka”. Uwaga i&nbsp;percepcja zostają rozdzielone („widzenie nie kieruje spojrzenia ku przedmiotowi, ale kieruje ku niemu uwagę”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>). Już w&nbsp;tym istnieje potencjał oporu wobec dominujących ekonomii uważności. Ale najważniejsze w&nbsp;tej definicji jest co innego: wskazanie w&nbsp;tym, co codzienne, miejsc czy momentów widzenia świadomego – świadomego siebie i&nbsp;tego, że&nbsp;może zostać zobaczone (przyłapane) określonym, odgórnym wzrokiem<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>. Dodatkowo przymiotnik „wernakularny” konotuje w&nbsp;tym przypadku niższość, słabość, podporządkowanie. Chodzi więc o&nbsp;rodzaj widzenia slangowego, dialektu widzenia, widzenia świadomego swojej słabości, a&nbsp;jednocześnie potocznego, zwyczajnego. Jak wówczas, gdy zerkamy na&nbsp;to, na&nbsp;co rzekomo patrzeć nie powinniśmy, nie na&nbsp;tyle wyraźnie jednak, by dać się jednoznacznie przyłapać na&nbsp;patrzeniu.</p> <h2>Reżimy wizualności</h2> <p>„[Podmioty wizualne to] ludzie określeni jako agenci wzroku (niezależnie od ich fizjologicznej zdolności widzenia) i&nbsp;obiekty określonych dyskursów wizualności”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>. Powyższe rozróżnienie – na&nbsp;widzenie (ewentualnie wzrok) i&nbsp;wizualność – odpowiada zwykle tradycyjnemu, niemożliwemu do utrzymania podziałowi na&nbsp;to, co naturalne, i&nbsp;to, co kulturowe. Ważnym źródłem tej figury pozornej opozycji widzenie - wizualność jest jedno z&nbsp;założycielskich dla badań kultury wizualnej wydarzeń – drugie (1988) spośród serii słynnych seminariów organizowanych przez Dia Art Foundation i&nbsp;wieńcząca je publikacja <em>Vision and Visuality</em>, pod&nbsp;redakcją Hala Fostera<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>. Książkę tę otwiera właśnie rozpoznanie dwóch sposobów ujmowania wzroku: jako działania cielesnego („widzenie”) i&nbsp;jako faktu społecznego („wizualność”). Jednocześnie Foster podkreśla pozorność tego przeciwstawienia, w&nbsp;tym samym zdaniu dodając, że&nbsp;„widzenie jest także społeczne i&nbsp;historyczne, a&nbsp;wizualność wymaga ciała i&nbsp;psychiki”<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>. Od tej pory „przenikalność”<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup> granic pomiędzy tymi polami stanie się stałym motywem poetyki badaczy kultury wizualnej. Rzeczywiste uwzględnienie natury widzenia pozostanie jednak w&nbsp;kulturze wizualnej na&nbsp;etapie deklaracji. Zdominuje ją zaś model „antropologiczny”, który zresztą kryje się za&nbsp;hasłem „kultura wizualna”<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>, kojącym niepokoje badaczy zajmujących się dyscypliną o&nbsp;tak niejasno wykrojonym przedmiocie badań i&nbsp;tak „przenikalnych” granicach.</p> <p>Wobec takiej właśnie tradycji podejście Mirzoeffa (powtarzany nieustannie zwrot: „niezależnie od ich fizjologicznej zdolności widzenia”), który <em>nota bene</em> poświęcił kilka tekstów zjawisku ślepoty, jest nie tylko uczciwe, ale również ujawnia sprzeczności w&nbsp;podejściu innych, bardziej uznanych badaczy – z&nbsp;Mitchellem na&nbsp;czele, który z&nbsp;jednej strony wyraża chęć eksplorowania natury, z&nbsp;drugiej - swój projekt określa często jako badanie dyskursów dotyczących wizualności i&nbsp;dyskursów właściwych wizualności.</p> <p>Jednak, co ważniejsze, przez ostatnie lata Mirzoeff powtarza, że&nbsp;nie do końca zdajemy sobie sprawę z&nbsp;tego, co mówimy, gdy używamy terminu „wizualność”. Jego cel można by – powołując się na&nbsp;wskrzeszony niedawno (i wspomniany wyżej) projekt Mitchella<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup> – nazwać ikonologicznym, jeśli rozumieć go będziemy jako badanie tego, co, jak i&nbsp;jakim językiem mówi się (<em>logos</em>) o&nbsp;obrazach (<em>eikones</em>) i&nbsp;wizualności, a&nbsp;następnie jako budowanie teorii oparte na&nbsp;często nieuświadomionym potencjale tego dyskursu.</p> <p>Mirzoeff odchodzi więc od rozumienia wizualności jako mglistego określenia wszystkich wymiarów doświadczenia wizualnego współczesności, przypominając, że&nbsp;samo słowo nie ma rodowodu ponowoczesnego i&nbsp;nie wiąże się z&nbsp;retoryką przesycenia obrazami i&nbsp;mediami wizualnymi (choć trzeba przyznać, że&nbsp;założenie to Mirzoeff dopisuje projektowi <em>Vision and Visuality</em>). Wiąże się ono w&nbsp;zamian bezpośrednio z&nbsp;nowoczesnością i&nbsp;jej schematami obrazowania. „Wizualność” pojawia się bowiem po&nbsp;raz pierwszy w&nbsp;języku angielskim w&nbsp;połowie XIX wieku. Pojawia się wówczas w&nbsp;kontekście władzy i&nbsp;reżimów nowoczesności. Tylko pod&nbsp;pewnym względem przypominają one jednak reżimy w&nbsp;rozumieniu, które kultura wizualna zna od końca lat 80. XX wieku, za&nbsp;sprawą pism Martina Jaya<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>.</p> <p>Wprowadzenie pojęcia reżimu skopicznego (a właściwie reżimów – bo&nbsp;liczba mnoga jest tu podobnie ważna jak w&nbsp;przypadku Bergerowskich sposobów widzenia) było próbą zniuansowania rozumienia wizualności, pokazania jej złożoności i&nbsp;procesualności. Martin Jay zapożyczył się w&nbsp;tym przypadku u&nbsp;Christiana Metza, który przy pomocy kategorii „reżimów skopicznych” próbował wyjaśnić różnicę pomiędzy doświadczeniem kina a&nbsp;doświadczeniem teatru, a&nbsp;także innymi trybami doświadczenia voyeurystycznego<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>. Punktem wyjścia jest więc – by odwołać się do języka Mirzoeffa – zdarzenie wizualne, uzupełnione przeświadczeniami na&nbsp;temat widzenia i&nbsp;wyprowadzaną z&nbsp;tego układu całościową wizją podmiotu patrzącego.</p> <p>Najbardziej znanym przykładem reżimu skopicznego, uznawanego za&nbsp;„hegemoniczny”, jest rzecz jasna kartezjański perspektywizm. Jednak w&nbsp;ujęciu Jaya „reżimowość” tego kartezjańskiego perspektywizmu – z&nbsp;którą konkurować próbują subkultury, jak opisowy model niderlandzki i&nbsp;barokowy model wielu punktów widzenia – zasadza się na&nbsp;czymś (i ogranicza się do tego), co można określić jako jej wymiar retoryczny<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup> lub estetyczny: jej zdolność do podawania się za&nbsp;naturalną, jedyną i&nbsp;właściwą wizję widzenia i&nbsp;podmiotu<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>. Takie rozumienie reżimu nie wystarczy – należy pytać o&nbsp;inny rodzaj władzy i&nbsp;inaczej rozumianą polityczność<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup>. Za&nbsp;każdym reżimem skopicznym (jak i&nbsp;opozycją wobec niego) nieuchronnie stać musi również określony podział społeczny, a&nbsp;przemiany społeczne tak znajdują swoje odzwierciedlenie w&nbsp;przemianach tych reżimów, jak w&nbsp;nich i&nbsp;poprzez nie się dokonują (choćby za&nbsp;sprawą negocjacji widzialności).</p> <h2>Wizualność 1840–2012</h2> <p>Różnica między Martinem Jayem czy Jonathanem Crarym – śledzącymi źródła współczesnej wizualności w&nbsp;różnych społecznych i&nbsp;kulturowych przemianach XIX wieku – a&nbsp;Mirzoeffem, który w&nbsp;swojej najnowszej książce wreszcie robi to samo, czyli uhistorycznia wizualność, jest różnicą polityczną lub też podmiotową. Tworząc modele historycznych podmiotów wizualnych, typy idealne, ignorują oni bowiem cały zestaw odmienności, symbolicznie wyznaczanych przez tercet „rasa, klasa, płeć”. Ignorują więc zarazem, jak sądzę, możliwość (konieczność!) wystąpienia w&nbsp;obowiązującym reżimie skopicznym różnych jakościowo pozycji – choćby między podmiotem dysponującym spojrzeniem i&nbsp;podmiotem temu spojrzeniu podlegającym!<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup> Wizualność bardzo silnie wiąże się z&nbsp;obrazowaniem i&nbsp;wcale z&nbsp;widzeniem, jeśli widzenie rozumieć będziemy jako sposób rejestrowania przez daną osobę wizualnych wrażeń zmysłowych<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup>.</p> <p>Wizualność nie jest bowiem pierwotnie domeną oczu, lecz wyobraźni. Jest również domeną jednostek wybranych. Mirzoeff przywołuje postać konserwatywnego myśliciela Johna Carlyle’a i&nbsp;jego, uznawane za&nbsp;prenietzscheańskie, odczyty <em>Bohaterowie </em>(1840), poświęcone wybitnym postaciom w&nbsp;historii. To tu po&nbsp;raz pierwszy pojawia się kategoria wizualności – pojawia się jako zdolność właściwa bohaterowi prowadzącemu masy i&nbsp;będącemu dla nich źródłem światła („żywe źródło światła, obok którego dobrze i&nbsp;miło się znajdować [...] coś światłodajnego z&nbsp;łaski nieba”<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup>). Wskazuje również pierwotną przestrzeń wizualizowania. Jest nią osiemnastowieczne pole walki, a&nbsp;wizualizacja to narzędzie, taktyka wojskowa, a&nbsp;także umiejętność – czy raczej dar. Nie jest więc wizualizowanie, jak niegdyś sądził Mirzoeff, rodzajem katalizatora czy kondensatora informacji, lecz zdolnością do tworzenia w&nbsp;wyobraźni obrazu całości. (Na marginesie należy zauważyć, że&nbsp;zaczerpnięte niegdyś od de Certeau taktyki i&nbsp;strategie wróciły w&nbsp;twórczości Mirzoeffa do swojego pierwotnego wojskowego kontekstu). Pola walki przełomu XVIII i&nbsp;XIX wieku rozrosły się do tego stopnia, że&nbsp;stworzono specjalny stopień oficerski, którego zadaniem było dostarczanie dowódcy informacji o&nbsp;układzie wojsk i&nbsp;przebiegu działań. Wódz następnie łączył je z&nbsp;innymi danymi, by uzyskać pełny obraz sytuacji. Nie chodziło więc już o&nbsp;najlepszy punkt widzenia, o&nbsp;panoptyczną lub boską pozycję obserwacyjną, ulokowaną ponad polem bitwy, ale o&nbsp;pracę wyobraźni. Carlyle rozszerzał tę wizję, twierdząc, że&nbsp;wybitne jednostki mają podobny obraz procesów historycznych – przywódcy widzą je jasno w&nbsp;ich stawaniu się, historycy zaś retrospektywnie.</p> <blockquote>Wizualizowanie to wytwarzanie wizualności, co oznacza przetworzenie procesów „historii” w&nbsp;to, co postrzegalne przez władzę. Wizualność dążyła do przedstawienia władzy jako oczywistej, jako „podziału zmysłowości, poprzez który dominacja narzuca odczuwalne dowody swojej legitymacji”, jak określa to Jacques Rancière. Wbrew nazwie proces ten nie dokonuje się po&nbsp;prostu za&nbsp;sprawą wizualnych postrzeżeń w&nbsp;sensie fizycznym, lecz poprzez układ relacji łączących informacje, wyobrażenia i&nbsp;wiedzę w&nbsp;pewną interpretację przestrzeni fizycznej i&nbsp;psychicznej<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup>.</blockquote> <h2>Czyste spojrzenie Foucaulta i&nbsp;wizje Carlyle’a</h2> <p>Podsumowując tegoroczną nowojorską konferencję Międzynarodowego Stowarzyszenia Kultury Wizualnej <em>Now! Visual Culture</em>, której gospodarzem był właśnie Nicholas Mirzoeff, W.J.T. Mitchell pozwolił sobie na&nbsp;„wodzowski” gest wizualizacji historii dyscypliny. Zauważył na&nbsp;przykład, że&nbsp;wśród kilku możliwych ścieżek, którymi mogła ona pójść, ślepą uliczką okazała się droga „spektaklu”, podczas gdy w&nbsp;główny szlak zmieniła się z&nbsp;czasem droga „nadzoru”. Próbując, bez rozważania w&nbsp;tej chwili trafności rozpoznań Mitchella, objąć tę historię jeszcze szerszym spojrzeniem, należałoby zauważyć, że&nbsp;Foucaultowski model spojrzenia, wyprowadzony z&nbsp;panoptykonu Benthama, nie został w&nbsp;niej zasadniczo zakwestionowany.</p> <p>Wydaje się, że&nbsp;pierwszym celem Mirzoeffa w&nbsp;<em>Prawie do patrzenia</em> jest właśnie podważenie hegemonii panoptyzmu jako teorii nowoczesnego spojrzenia. Nie atakuje on przy tym Foucaulta bezpośrednio za&nbsp;to, za&nbsp;co wielokrotnie był już on atakowany – za&nbsp;ignorowanie „różnicy podmiotowej”, uniwersalizowanie podmiotu nowoczesnego, nieuwzględnianie „rasy, klasy i&nbsp;płci”, a&nbsp;także geopolitycznej pozycji projektów nowoczesności. Już od lat powtarzany przez autora <em>Prawa do patrzenia</em> zarzut stawiany Foucaultowi opiera się przede wszystkim na&nbsp;wymiarze wizualnym – diagnozując przemiany społeczne, filozof nie pisał w&nbsp;istocie o&nbsp;patrzeniu, za&nbsp;Benthamem zakładając, że&nbsp;nie stanowi ono problemu. Wyobrażał sobie praktykę widzenia jako liniowe, czyste, bezproblemowe działanie oka<sup><a href="#sdfootnote45sym" name="sdfootnote45anc">45</a></sup>. Wyobrażenie to dalekie jest od idei rozwarstwiających się i&nbsp;tracących przejrzystość spojrzeń XIX wieku. Nieuchronnie zaś wraz z&nbsp;komplikacją koncepcji widzenia skomplikować się musi ściśle z&nbsp;nią powiązana wizja władzy. Mirzoeff powraca więc do historycznych realiów modelu panoptycznego, zwracając uwagę na&nbsp;banalne problemy z&nbsp;widocznością, jakie pojawiły się w&nbsp;toku realizacji projektu Benthama. W&nbsp;praktyce bardzo trudno było osiągnąć pełną widoczność. Jeremy Bentham proponował konstruktorom zastosowanie lamp gazowych<sup><a href="#sdfootnote46sym" name="sdfootnote46anc">46</a></sup>, a&nbsp;nawet budowę więzień jedynie ze szkła i&nbsp;stali, na&nbsp;kształt szklarni Paxtona, które z&nbsp;czasem przerodziły się w&nbsp;Pałac Kryształowy londyńskiej wystawy światowej. Tymczasem społeczeństwo brytyjskie, wbrew diagnozie Foucaulta, wybrało inną drogę, czyniąc model dominujący z&nbsp;izolatki, czyli suplementu więzienia panoptycznego. Sam Bentham protestował zarówno przeciw więzieniom znajdującym się poza granicami kraju, jak i&nbsp;przeciwko wprowadzaniu nakazu zachowania ciszy w&nbsp;więzieniach.</p> <p>Ten konkurencyjny model więziennictwa, kary, ale również widzialności, reprezentować może właśnie Carlyle, skrajny przeciwnik wszelkich „fantasmagorii emancypacji”, „okrzyków: demokracja, wolność, równość i&nbsp;sam wreszcie nie wiem, co jeszcze”, zwolennik niewolnictwa<sup><a href="#sdfootnote47sym" name="sdfootnote47anc">47</a></sup>. Carlyle – opowiadający się, rzecz jasna, za&nbsp;radykalnie odmienną wizją społeczeństwa, obywatela, jego miejsca, prawa i&nbsp;obowiązków, nie tylko więźniów, ale również robotników wysyłający na&nbsp;wyspy odległe od ojczyzny – potrzebny jest Mirzoeffowi, jak sądzę, również po&nbsp;to, by pokazać o&nbsp;wiele bardziej podzieloną, mniej demokratyczną i&nbsp;imperialną wizję zachodniego społeczeństwa, będącą podstawą współczesności.</p> <p>Wizja ta działa w&nbsp;obszarze widzialności i&nbsp;estetyki – wyklucza z&nbsp;pola widzenia i&nbsp;przedstawia to wykluczenie jako naturalne. Reprezentacja i&nbsp;wizualność są więc domeną władzy (która uważa, że&nbsp;dostrzega wszystko, która porządkuje i&nbsp;wizualizuje).</p> <p>Po pierwsze, wizualność porządkuje za&nbsp;pomocą nazywania, klasyfikowania, definiowania – proces określony przez Michela Foucaulta jako „nazywanie tego, co widzialne”. Jego początki sięgają praktyk na&nbsp;plantacji: od tworzenia map plantacji, po&nbsp;rozpoznanie technik komercyjnej uprawy i&nbsp;precyzyjny podział pracy konieczny do ich podtrzymania. Po&nbsp;drugie, wizualność rozdziela sklasyfikowane w&nbsp;efekcie grupy jako elementy organizacji społecznej. Wizualność taka oddziela i&nbsp;segreguje tych, których wizualizuje, zapobiegając ich łączeniu się w&nbsp;podmioty polityczne, takie jak robotnicy, lud czy (zdekolonizowany) naród. Po&nbsp;trzecie, sprawia, że&nbsp;ta oparta na&nbsp;podziale klasyfikacja wydaje się właściwa, a&nbsp;zatem estetyczna. Jak ujął to krytyk czasów dekolonizacji, Frantz Fanon, takie powtarzające się doświadczenie wytwarza „formę szacunku dla ustalonego porządku”, estetykę tego, co właściwe, co jest obowiązkiem, co wydaje się słuszne i&nbsp;dlatego przyjemne, a&nbsp;nawet piękne<sup><a href="#sdfootnote48sym" name="sdfootnote48anc">48</a></sup>.</p> <h2>Wizualna interpelacja</h2> <p>Gdyby szukać odpowiednika Althusserowskiej interpelacji w&nbsp;badaniach nad obrazem i&nbsp;wizualnością, trzeba by pewnie wskazać bezgłośne uchylenie kapelusza przez znajomego Panofsky’ego, otwierające opis metody ikonologicznej. Możemy się tylko domyślać, że&nbsp;jako człowiek kulturalny Panofsky zmuszony był, za&nbsp;sprawą odpowiednich kompetencji kulturowych i&nbsp;cech charakteru, odpowiedzieć na&nbsp;ten gest – wezwanie. Gdy zatem analityk Panofsky przetwarza znajomego w&nbsp;obiekt, mężczyznę, określonego mężczyznę, w&nbsp;zdarzenie, a&nbsp;ostatecznie w&nbsp;całe źródło wiedzy o&nbsp;kulturze, sam Panofsky jawi się jako społecznie, również wizualnie, wytwarzany podmiot (zapewne z&nbsp;klasy wyższej). Na&nbsp;podstawie tej historii można odtworzyć modele, które już dobrze znamy – władza ujarzmionego ciała, władza dyskursu lub władza społecznych konwenansów, czy też dystynkcji i&nbsp;kapitałów kulturowych, realizuje się tu w&nbsp;performatywnym akcie potwierdzania i&nbsp;wzajemnego kształtowania podmiotów, opartego na&nbsp;spojrzeniu i&nbsp;rozpoznaniu.</p> <p>Mirzoeff wybiera jednak zupełnie inną sytuację i&nbsp;– świadomy lub nie nieuchronnej analogii z&nbsp;Althusserem – powraca do aktora znanego z&nbsp;<em>Ideologii i&nbsp;ideologicznych aparatów państwa</em>, czyli do policjanta. Wybór ten nie jest przypadkowy, gdyż rekonstruowana w&nbsp;<em>Prawie do patrzenia</em> władza jest dużo bardziej hierarchiczna i&nbsp;bezpośrednia: dysponuje i&nbsp;„zarządza” wizualnością poprzez swoich przedstawicieli i&nbsp;zakazy/nakazy patrzenia. Podczas gdy w&nbsp;„scence teoretycznej” Althussera policjant wołał „Hej, ty tam”<sup><a href="#sdfootnote49sym" name="sdfootnote49anc">49</a></sup>, u&nbsp;Mirzoeffa</p> <blockquote>[Policjant mówi] „Proszę się rozejść, tu nie ma nic do zobaczenia”. Tyle że&nbsp;jest – i&nbsp;my to wiemy tak samo jak oni. Przeciwieństwem prawa do patrzenia nie jest więc cenzura, lecz „wizualność”: ta władza, która każe nam się rozejść, ta ekskluzywność możliwości patrzenia<sup><a href="#sdfootnote50sym" name="sdfootnote50anc">50</a></sup>.</blockquote> <p>Władza realizuje się w&nbsp;codzienności, ale jest to nie (tylko) rozproszona władza Foucaulta czy władza dyskursu, lecz (również) władza Carlyle’a – władza policjanta, władza dyktatora, władza wojska, władza stanu wyjątkowego, władza hierarchiczna, dzieląca widzialność i&nbsp;ograniczająca prawo do patrzenia, a&nbsp;zarazem estetyzująca swoje wizje, a&nbsp;więc naturalizująca je tak, by uchodziły za&nbsp;obraz właściwy. Odwołując się do pism dziewiętnastowiecznego konserwatysty Carlyle’a, Mirzoeff pyta oczywiście o&nbsp;dzisiejszych dysponentów wizualności, sugerując, że&nbsp;bardzo często są oni zarządcami dostępu do widzialności, świadomie posługującymi się narzędziami wizualizowania i&nbsp;ograniczającymi dostęp do pełnego obrazu. Pokazuje, że&nbsp;wizualność wciąż jest strategią imperialną, współcześnie bardzo często realizowaną w&nbsp;skali globalnej.</p> <p><em>W Prawie do patrzenia</em> rekonstruuje więc historyczne „kompleksy wizualne” – „kompleks plantacji”, „kompleks imperialny”, „kompleks wojskowo‑przemysłowy”. Pojęcie kompleksu w&nbsp;mniemaniu Mirzoeffa pozwala połączyć wymiar przestrzenno-wizualny, „czyli” układ, rozmieszczenie pozycji ciał, z&nbsp;wymiarem psychicznym, czyli „organizacją” umysłową, podporządkowaniem i&nbsp;znaturalizowaniem zmysłowych podziałów i&nbsp;realizujących się w&nbsp;nich relacji władzy. Opisane przez niego kompleksy ściśle zależą od przyjętego punktu widzenia – nie do końca wyraźnie zadeklarowanego – łączącego perspektywę dekolonialną z&nbsp;perspektywą współczesnej Ameryki. Choć więc Mirzoeff sugeruje, że&nbsp;w&nbsp;globalnym świecie wszystkie te kompleksy ujawniają się w&nbsp;różnych postaciach, w&nbsp;nieraz zaskakujących kontekstach, należy zachować czujność przy przepisywaniu tych diagnoz na&nbsp;przykład na&nbsp;sytuację Europy Środkowo‑Wschodniej, gdzie „kompleks imperialny” czy „wojskowo‑przemysłowy” nie tylko może przybierać odmienne formy, ale także może okazać się wcale nie swoisty dla tej części świata.</p> <p>Mimo że&nbsp;Mirzoeff podkreśla, że&nbsp;czasowy porządek opisywanych przez niego kompleksów nie jest linearny, a&nbsp;współczesność jest okresem ich jednoczesnej kumulacji, przedstawia wyraźny schemat następstwa, a&nbsp;nawet wynikania. Kryzys opartego na&nbsp;nadzorze i&nbsp;zakazie patrzenia (obowiązującym niewolników) kompleksu niewolniczych plantacji XVII i&nbsp;XVIII wieku staje się jednym ze źródeł kompleksu imperialnego – ewolucjonistycznej narracji o&nbsp;wyższości cywilizacji nad „prymitywnym umysłem”, znajdującej swoją realizację w&nbsp;linearnym schemacie ewolucji, figurze misjonarza, egzotycznym pejzażu, panoramie oraz postaci Carlyle’owskiego wodza, prowadzącego imperium do podboju całego świata. Z&nbsp;kolei zimnowojenny podział świata na&nbsp;zwalczające się imperia stanowi oś kompleksu wojskowo-przemysłowego, którego dzisiejsza późna postać ma według Mirzoeffa objawiać się między innymi niewidzialną kontrolą społeczeństw, niewidzialnością (i uwidacznianiem odpowiednio dobranego) wroga, uwidacznianiem i&nbsp;rozdzielaniem terytorium obcego i&nbsp;własnego w&nbsp;świecie polityki prowadzonej w&nbsp;dużej mierze na&nbsp;rozmaitego typu „ekranach” (tu przedmiotem analizy są zwłaszcza kolejne wojny na&nbsp;Bliskim Wschodzie na&nbsp;przełomie XX i&nbsp;XXI wieku – od lat obsesja Mirzoeffa).</p> <p>W obrębie kompleksów istnieją również inne od dominujących relacje wizualne. Na&nbsp;przykład, w&nbsp;przypadku kompleksu plantacji wiązać się one mogą z&nbsp;wiedzą lokalnej ludności na&nbsp;temat otoczenia (znajomością geografii czy nierozpoznanych przez białych właściwości miejscowej przyrody) lub z&nbsp;odmiennymi wierzeniami i&nbsp;praktykami religijnymi. Nie mają one charakteru dialektycznego wobec panującego kompleksu wizualności. Nie uzupełniają go, lecz zakłócają. Nie muszą jednak oznaczać postępu, zwiększenia sfery wolności czy emancypacji, lecz mogą wręcz być konserwatywne lub eskapistyczne (na przykład praktyki awangardy, choć niezgodne z&nbsp;dominującą wizualnością, nie zagrażały jej jednak). Niekiedy jednak mają szansę stać się tym, co Derrida nazywał „niebezpiecznym suplementem” – wówczas jako kontrwizualność podważają, dekonstruują dominujący kompleks wizualny, aktywnie się mu sprzeciwiają, burzą jego porządek. Takie historyczne taktyki Mirzoeff łączy z&nbsp;lokalnością, rdzennością, oddolnością, tym, co „wernakularne”, bricoleurskie. Najczęściej wiaże je również z&nbsp;wytwarzaniem nowych, konkurencyjnych typów przedstawień, przechwytywaniem gatunków i&nbsp;wyobrażeń, przekształcaniem ich na&nbsp;własne potrzeby. Najbardziej wyraziście opisanym w&nbsp;<em>The Right to Look</em> przykładem kontrwizualności jest rewolucja haitańska przełomu XVIII i&nbsp;XIX wieku. Jej przywódca – zbuntowany żołnierz kolonii Saint‑Dominique, jednego z&nbsp;najważniejszych ośrodków niewolniczych – Jean‑Jacques Dessalines znalazł się w&nbsp;miejscu niemożliwym. Został bohaterem i&nbsp;przywódcą rewolucyjnym, wodzem, a&nbsp;wreszcie cesarzem. Wodza ujrzeli w&nbsp;nim ci, którzy mieli nie patrzeć i&nbsp;których spojrzenie nie miało nieść żadnej mocy sprawczej. Zobaczyli oni również siebie jako podmioty sprawcze i&nbsp;podjęli się kształtowania nowych wizji Haiti (które akurat dla Dessalines’a skończyły się rychłą śmiercią).</p> <p>Przytoczony przykład pokazuje pewną istotną właściwość <em>Prawa do patrzenia</em> – odmieniana przez wszystkie przypadki wizualność nie zawsze wiąże się w&nbsp;tej książce z&nbsp;tym, co intuicyjnie rozumiemy jako widzenie, pokazywanie, wytwarzanie obrazów. Momentami zostaje zrównana – zgodnie ze swoim źródłem w&nbsp;pismach Carlyle’a – z&nbsp;psychofizycznym obliczem władzy, władzą jako praktyką estetyczną. Ten krok sprawia, że&nbsp;Mirzoeff, dowartościowując pomijaną do jakiegoś czasu w&nbsp;pisaniu globalnej historii sferę wizualną, momentami rozmywa ją i&nbsp;nieraz traci z&nbsp;oczu. Konkretne praktyki wizualne – z&nbsp;użyciem mediów lub spojrzeń – mieszają się tu z&nbsp;ustępami, których własności wizualne są raczej pośrednie lub metaforyczne.</p> <p>Analizy Mirzoeffa są niezwykle szczegółowe i&nbsp;opierają się na&nbsp;skrupulatnym rekonstruowaniu wybranych historycznych obszarów kształtowania się i&nbsp;realizacji poszczególnych kompleksów. Książka obejmuje okres kilku stuleci oraz mniej więcej pół kuli ziemskiej, lecz skonstruowana jest w&nbsp;oparciu o&nbsp;analizy historycznych, lokalnych przypadków: poczynając od wyobrażenia latarni jako ludowego symbolu sprawiedliwości w&nbsp;czasie rewolucji francuskiej, przez obrazy pierwszego wyzwolonego z&nbsp;niewolnictwa „artysty” portorykańskiego José Campeche Y Jordána, po&nbsp;niezależne kino algierskiej rewolucji dekolonizacyjnej czy... <em>Labirynt Fauna</em> Guillerma del Toro.</p> <p>Analizy te służą ostatecznie – po&nbsp;raz kolejny – stworzeniu, tym razem uhistorycznionej, wizji współczesności jako kryzysu. Według Mirzoeffa wizualność stała się właśnie widoczna, a&nbsp;więc przestała być oczywista, a&nbsp;to oznacza jej porażkę, porażkę tych, którzy mieli prowadzić pozostałe 99 proc. Objawami tego procesu są jego zdaniem takie wydarzenia, jak „arabska wiosna” czy ruch Occupy. W&nbsp;gruncie rzeczy projekt Mirzoeffa jest więc optymistyczny – zapowiada zmianę, której obszarem ma być wizualność. Opiera się jednak po&nbsp;raz kolejny na&nbsp;wyobrażeniu „przełomowości”, „kryzysu” i&nbsp;„wyczerpania” współczesności.</p> <p>Na zeszłorocznych Documenta 13 w&nbsp;Kassel libański artysta Rabih Mroué pokazał pracę wideo <em>The Pixelated Revolution</em>, złożoną ze znalezionych w&nbsp;internecie fragmentów filmów kręconych komórką przez Syryjczyków przeciwnych reżimowi. Dokumentują one przemoc i&nbsp;działania wojskowe władz syryjskich – niewidoczne w&nbsp;skali globalnej, ponieważ w&nbsp;Syrii od wielu miesięcy nie ma żadnych zewnętrznych kamer i&nbsp;dziennikarzy. Demonstrowane w&nbsp;ten sposób praktyki syryjskiej armii są wyjątkowo brutalne i&nbsp;bezwzględne. Wybrane i&nbsp;komentowane przez Mrouégo filmy pokazują również moment, gdy filmowani nagle dostrzegają nielegalnie filmującego, zwracają ku niemu wzrok i&nbsp;jednocześnie – broń (w ten sposób zginął kuzyn artysty). Filmujący często jednak nie przerywają swojej pracy, nie uciekają, jakby czuli się skryci za&nbsp;aparatem komórki. Nagle pada strzał, telefon, kamera lub aparat ląduje na&nbsp;ziemi. Nie wiemy, czy filmujący przeżył i&nbsp;czy to on/ona umieścił filmik w&nbsp;sieci. Stawka walki przeciw wizualności w&nbsp;obrębie reżimu wizualności może więc wciąż okazać się najwyższa. Podobne filmy wywołują jednak pytanie – nieustannie towarzyszące choćby bliskiej Mirzoeffowi myśli Rancière’a – czy wprowadzenie w&nbsp;pole widzialności rzeczywiście posiada moc przedefiniowywania tego pola? Czy wizualność nie stwarza jedynie złudnej nadziei na&nbsp;to, że&nbsp;zobaczywszy coś, przejrzymy na&nbsp;oczy, zaczniemy działać?</p> <p>Na czym jednak miałyby polegać praktyki wizualne, gdyby doszło do globalnego odczarowania, odsłonięcia nienaturalności kapitalistycznego systemu utrzymywanego przez kompleks wojskowo‑przemysłowy?</p> <blockquote>Właściwa kontrwizualność jest żądaniem prawa do patrzenia. Oznacza niezgodę z&nbsp;wizualnością, „konflikt o&nbsp;to, co jest widoczne jako element sytuacji; o&nbsp;to, które widoczne elementy należą do tego, co wspólne; o&nbsp;zdolność podmiotów do wyznaczania tego, co wspólne, i&nbsp;świadczenia na&nbsp;jego rzecz”, jak pisał Rancière. [...] Wynalazek ten jest powszechny, może być tym, co wspólne, a&nbsp;nawet komunistyczne<sup><a href="#sdfootnote51sym" name="sdfootnote51anc">51</a></sup>.</blockquote> <p>W tym miejscu (a nie w&nbsp;analizach wizualnej niedoskonałości więzienia Benthama) następuje tak naprawdę przekroczenie Foucaulta przez Mirzoeffa. Jednostka bowiem, by wyjść poza dominujące relacje władzy, musi, jego zdaniem, nie tyle budować jakiś rodzaj autonomii, ile właśnie we wspólnocie poszukiwać szansy na&nbsp;przełamanie wizualności, odnajdować ją w&nbsp;kontakcie (wzrokowym) z&nbsp;drugim człowiekiem, w&nbsp;wymianie, która nie wytworzy nadwyżki. Dopiero ta podstawa – wspólne wydarzenie, które jednak odmawia poddania się reprezentacji, dzielenia stron – stać się może podstawą oddolnego przedefiniowywania wizualności: odrzucenia modelu nadzoru, modelu wykluczania z&nbsp;pola widzenia, modelu, w&nbsp;którym relacja patrzenia nieuchronnie wprowadza hierarchię.</p> <p></p> <p><em>Artykuł powstał w&nbsp;wyniku prac w&nbsp;projekcie Kultura wizualna w&nbsp;Polsce: języki, pojęcia, metaobrazy finansowanym ze środków Narodowego Centrum Nauki przyznanych na&nbsp;podstawie decyzji numer DEC-2012/05/B/HS2/03985.</em></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> John Berger, <em>Sposoby widzenia</em>, przeł. M. Bryl, Fundacja Aletheia, Warszawa 2008, s. 165.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a><sup></sup>Mieke Bal, <em>S-word</em>, „Journal of Visual Culture” 2012, nr 11, s. 145.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Na temat wpływu Bergera na rozwój krytyki feministycznej zob. Griselda Pollock, <em>Mascular Defences</em>, „Journal of Visual Culture” 2012, nr 11.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Dowodem na to niech będzie cała seria tekstów w poświęconym Bergerowi numerze specjalnym „Journal of Visual Culture” 2012, nr 11.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Jeden z najważniejszych podręczników do kultury wizualnej, <em>Practices of Looking</em> Lisy Cartwright i Marity Sturken, odwołuje się w swoim tytule do <em>Sposobów widzenia</em>, przesuwając nieco akcenty ku analizie kulturowej (ku „praktykom patrzenia”), zob. Lisa Cartwright, Marita Sturken, <em>Practices of Looking. An Introduction to Visual Culture</em>, Oxford University Press, Oxford–New York 2001.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a><sup></sup>Fragment książki (tłum. M. Szcześniak, Ł. Zaremba), zatytułowany <em>Prawo do patrzenia</em>, został opublikowany w tomie <em>Antropologia kultury wizualnej. Zagadnienia i wybór tekstów</em>, red. I. Kurz, P. Kwiatkowska, Ł. Zaremba, Wydawnictwa Uniwersytetu Warszawskiego, Warszawa 2012.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a><sup></sup>Por. <a href="http://www.nicholasmirzoeff.com/O2012/" target="_blank" rel="noopener">http://www.nicholasmirzoeff.com/O2012/</a>.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a><sup></sup>Nicholas Mirzoeff, <em>Czym jest kultura wizualna?</em>, w: <em>Fotospołeczeństwo. Antologia tekstów z socjologii wizualnej</em>, red. M. Bogunia-Borowska, P. Sztompka, Znak, Kraków 2012, s. 158 (artykuł został przetłumaczony na podstawie pierwszego wydania <em>An Introduction to Visual Culture</em> z 1999 roku; drugie, zmienione ukazało się dziesięć lat później).</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a><sup></sup>Mieke Bal, <em>Wizualny esencjalizm i przedmiot kultury wizualnej</em>, przeł. M. Bryl, w: <em>Perspektywy współczesnej historii sztuki</em>, red. M. Bryl, P. Juszkiewicz, P. Piotrowski, W. Suchocki, Wydawnictwo Naukowe UAM, Poznań 2009.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Martin Jay, <em>Interview</em>, w: Margaret Dikovitskaya, <em>Visual Culture. The Study of the Visual after the Cultural Turn</em>, MIT Press, Cambridge 2005, s. 205.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a><sup></sup>W.J.T. Mitchell, <em>Pictorial turn</em>, w: idem, <em>Picture Theory. Essays on Verbal and Visual Representation</em>, The University of Chicago Press, Chicago 1994 (por. W.J.T. Mitchell, <em>Zwrot piktorialny</em>, przeł. M. Drabek, „Kultura Popularna” 2009, nr 1 – z niezręcznym jednak tłumaczeniem tytułowego określenia).</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Mitchell charakteryzuje takie zachowanie jako uleganie błędom czy też mitom – „błędowi zwrotu obrazowego” i „błędowi technicznej nowoczesności”. Por. W.J.T. Mitchell, <em>Pokazać widzenie</em>, przeł. Ł. Zaremba (przekład książki <em>What Do Pictures Want?</em> ukaże się w 2013 roku nakładem Narodowego Centrum Kultury).</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a><sup></sup>Nicholas Mirzoeff, <em>Czym jest kultura wizualna</em>?..., s. 171.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a><sup></sup>Ibidem.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Zob. Nicholas Mirzoeff, <em>An Introduction to Visual Culture</em>, Routledge, London 1999.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Nicholas Mirzoeff, <em>Czym jest kultura wizualna</em>?..., s. 160.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ibidem, s. 163.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a><sup></sup><em>Visual Culture Questionnaire</em>, „October” 1996, nr 77, s. 25.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Katalog tych językowych kalk i obiegowych opinii zaczerpnąłem z artykułu <em>Wyobraźnia wizualna i socjologiczna</em> Piotra Sztompki, gdzie niestety zostają one automatycznie powtórzone jako diagnoza naszych strasznych wizualnych czasów (por. <em>Fotospołeczeństwo. Antologia tekstów z socjologii wizualnej</em>…).</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a><sup></sup>Martin Jay, <em>Interview</em>…, s. 205.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a><sup></sup>Nicholas Mirzoeff, <em>Podmiot kultury wizualnej</em>, przeł. M. Bryl, w: <em>Perspektywy</em>..., s. 802.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a><sup></sup>Ibidem, s. 803.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a><sup></sup>Nicholas Mirzoeff, <em>Ghostwriting. Working out visual culture</em>, „Journal of Visual Culture” 2002, nr 1, s. 240.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a><sup></sup>Nicholas Mirzoeff, <em>Podmiot</em>..., s. 797, 799.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a><sup></sup>Nicholas Mirzoeff, <em>Wszystko to bez sensu</em>, przeł. M. Bryl, w: <em>Perspektywy</em>..., s. 359.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a><sup></sup>„[Kultura wizualna jako dyscyplina] wniesie najlepszy wkład do ukształtowanie się nowej podmiotowości, jeśli będzie działać w taki sposób, by nie tworzyć wartości dodatkowej dla transnarodowego kapitału”.<sup></sup> Nicholas Mirzoeff, <em>Podmiot</em>..., s. 814.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Zob. Jonathan Crary, <em>Zawieszenia percepcji. Uwaga, spektakl i kultura nowoczesna</em>, przeł. Ł. Zaremba, I. Kurz, Wydawnictwa Uniwersytetu Warszawskiego, Warszawa 2009.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a><sup></sup>Nicholas Mirzoeff, <em>Watching Babylon. The War in Iraq and Global Visual Culture</em>, Routledge, New York–London 2005, s. 30–31.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Zob. propozycję ujęcia mrugania jako taktyki komunikowania nienormatywności w polu wizualnym: Magda Szcześniak, <em>Paranoiczne interpretacje i porozumiewawcze mrugnięcia</em>, w: <em>Artysta-kurator-instytucja-odbiorca. Przestrzenie autonomii i modele krytyki</em>, red. M. Kosińska, K. Sikorska, A. Skórzyńska, Galeria Miejska Arsenał, Poznań 2012.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a><sup></sup>Nicholas Mirzoeff, <em>Watching Babylon...</em>, s. 3.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a><em>Vision and Visuality</em>, red. H. Foster, The New Press, New York 1988.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Hal Foster, <em>Introduction</em>, w: <em>Vision and Visuality</em>…, s. IX.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Martin Jay, <em>Downcast Eyes. The Denigration of Vision in Twentieth-Century French Thought</em>, University of California Press, Berkeley–Los Angeles–London 1994, s. 9.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Martin Jay, <em>Visual Culture Questionnaire</em>…</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a><sup></sup>Wskrzeszenie to ma dwa etapy: Mitchell w 1986 roku powraca do ikonologii Panofsky’ego, by ikonologiczną analizę kultury współczesnej zaproponować dopiero w 2011 roku w książce na temat tzw. wojny z terroryzmem. W.J.T. Mitchell, <em>Iconology. Image, Text, Ideology</em>, The University of Chicago Press, Chicago 1986; idem, <em>Clonning Terror. The War of Images, 9/11 to the Present</em>, The University of Chicago Press, Chicago 2011.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> Zob. Martin Jay, <em>Scopic Regimes of Modernity</em>, w: <em>Vision and Visuality</em>…</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a><sup></sup>„Tym, co definiuje specyficznie kinowy reżim skopiczny, nie jest utrzymywany dystans [...], ale sam brak widzianego przedmiotu”. Por. Christian Metz, <em>The Imaginary Signifier. Psychoanalysis and the Cinema</em>, przekład zbiorowy, Indiana University Press, Bloomington-Indiana 1986, s. 61, podkr. oryg.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> Zob. Hanneke Grootenboer, <em>The Rhetoric of Perspective. Realism and Illusionism in Seventeenth-Century Dutch Still Live Painting</em>, The University of Chicago Press, Chicago–London 2005.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a> „Każdy reżim skopiczny dąży do wyeliminowania [...] różnic – do uczynienia z wielu społecznych wizualności jednego właściwego widzenia, lub do ustanowienia ich hierarchii”. Hal Foster, <em>Vision and Visuality</em>…, s. IX.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a><sup></sup>Jacqueline Rose pyta właśnie o „«wielość reżimów skopicznych». Rozumiem twój argument, że taka [...] wielość może być wykorzystana jako narzędzie opresyjne. Jednak krytyka kartezjańskiego perspektywizmu zawsze wiązała się z określoną koncepcją polityczną, a do pewnego stopnia z podmiotem burżuazyjnym”. Jacqueline Rose, pytania po referacie w: <em>Vision and Visuality</em>…, s. 20.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a> Należy oczywiście pamiętać, że bycie obiektem spojrzenia nie jest integralnie związane z podleganiem władzy. Równie dobrze relacja władzy, co w <em>Nadzorować i karać</em> pokazał Michel Foucault, może być odwrotna (nowożytny przypadek króla i poddanych).</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a> Nicholas Mirzoeff, <em>On Visuality</em>, „Journal of Visual Culture” 2006, nr 5, s. 67.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a>Thomas Carlyle, <em>Bohaterowie. Cześć dla Bohaterów i pierwiastek bohaterstwa w historii</em>, [br. tł.], Wydawnictwo Zielona Sowa, Kraków 2006, s. 6.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a><sup></sup>Nicholas Mirzoeff, <em>Prawo do patrzenia</em>…, s. 739.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a><sup></sup>Nicholas Mirzoeff, <em>Ghostwriting</em>..., s. 240.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a><sup></sup>Nicholas Mirzoeff, <em>Watching Babylon</em>..., s. 126.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a><sup></sup>Thomas Carlyle, <em>Bohaterowie</em>...</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a> Nicholas Mirzoeff, <em>Prawo do patrzenia</em>…, s. 740.</p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a> Louis Althusser, <em>Ideologie i aparaty ideologiczne państwa</em>, przeł. A. Staroń, „Nowa Krytyka”, <a href="http://www.nowakrytyka.pl/spip.php?article374" target="_blank" rel="noopener">http://www.nowakrytyka.pl/spip.php?article374</a>, dostęp 5 grudnia 2012.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a> Nicholas Mirzoeff, <em>Prawo do patrzenia</em>…, s. 738.</p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a> Ibidem, s. 745.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/wladza-nie-patrzy-wladza-wizualizuje" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

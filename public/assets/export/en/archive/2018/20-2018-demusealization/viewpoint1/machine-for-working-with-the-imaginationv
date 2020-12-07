@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Maszyna do pracy z wyobraźnią | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/20-2018-odmuzealnienie/maszyna-do-pracy-z-wyobraznia">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Maszyna do pracy z wyobraźnią | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Maszyna do pracy z wyobraźnią | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/20-2018-odmuzealnienie/maszyna-do-pracy-z-wyobraznia">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Maszyna do pracy z wyobraźnią | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ce0058 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ce0058 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ce0058 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ce0058 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ce0058 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ce0058 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+			/* background-color:#ce0058 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(206,0,88,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ce0058 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ce0058; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ce0058 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ce0058 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ce0058 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-397 parent-id-359">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="333" data-selected-issue-color="#ce0058" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/en">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/en">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/20-2018-odmuzealnienie#toc">20</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-20/20-sokolowska.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Maszyna do pracy z wyobraźnią</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-20/20-sokolowska.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=396">Joanna Sokołowska</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p><a href="https://msl.org.pl/wydarzeniams/wystawy-archiwalne/wszyscy-ludzie-beda-siostrami,1784.html" target="_blank" rel="noopener"><em><b>Wszyscy ludzie będą siostrami</b></em></a><b>, kuratorka Joanna Sokołowska, Muzeum Sztuki w&nbsp;Łodzi, 23 października 2015 – 17 stycznia 2016<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a></b></p> <blockquote> <p>Chcemy i&nbsp;musimy powiedzieć, że&nbsp;wszystkie jesteśmy gospodyniami domowymi, wszystkie jesteśmy prostytutkami i&nbsp;wszystkie jesteśmy homoseksualne, ponieważ dopóki nie rozpoznamy naszego niewolnictwa, dopóty nie rozpoznamy konieczności podjęcia z&nbsp;nim walki; ponieważ jak długo uznajemy się za&nbsp;lepsze, inne niż gospodynie domowe, tak długo akceptujemy logikę pana, która jest logiką podziału, a&nbsp;więc niewolnictwa.</p> <p style="text-align: right;">Silvia Federici, <em>Wages Against Housework</em><a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a>(1975)</p> </blockquote> <p></p> <blockquote> <p>Rozpoznajemy w&nbsp;sobie zdolność do dokonania całkowitej transformacji życia. Wyzwoliwszy się z&nbsp;pułapki dialektyki pana i&nbsp;niewolnika, stajemy się samoświadome; jesteśmy Nieoczekiwanym Podmiotem. […] Ruch kobiecy jest nie międzynarodowy, ale planetarny.</p> <p style="text-align: right;">Carla Lonzi, <em>Let's Spit on Hegel</em><sup><a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a></sup> (1970)</p> </blockquote> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/vardad-1920x-c93.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/vardad-330x-2ea.jpg 330w,assets/cache/images/issues/2018/20/sokolowska/vardad-660x-d47.jpg 660w,assets/cache/images/issues/2018/20/sokolowska/vardad-768x-108.jpg 768w,assets/cache/images/issues/2018/20/sokolowska/vardad-1320x-f42.jpg 1320w" src="assets/cache/images/issues/2018/20/sokolowska/vardad-660x-d47.jpg" alt="" ></a>    <figcaption><p>Agnès Varda, <em>Kobiety odpowiadają: nasze ciała – nasza płeć </em> [<em>Réponse de femmes. Notre  corps,  notre  sexe</em>],  1975. Fot. Piotr Tomczyk. Dzięki uprzejmości Muzeum Sztuki w&nbsp;Łodzi</p></figcaption>   </figure>  </section><section class="u-typo">   <p>„Teraz wszystko się zmieni!”. Tak koniec patriarchatu i&nbsp;stawanie się siostrzeństwa zapowiada dziewczynka w&nbsp;jednym z&nbsp;kadrów krótkiego filmu Agnès Vardy <em>Kobiety odpowiadają: nasze ciało, nasza płeć</em>, feministycznej kampanii dla publicznej telewizji francuskiej Antenne 2 z&nbsp;1975 roku. Odpowiedź została wypracowana przez grupę kobiet, które wychodząc od krytyki seksizmu medialnych przekazów, domagały się samostanowienia we wszystkich przejawach życia, od reguł reprezentacji własnych ciał, przez seksualność i&nbsp;reprodukcję, po&nbsp;edukację, pracę i&nbsp;miłość, a&nbsp;w konsekwencji – żądały całościowej rewolucji stosunków społecznych. Odwołując się do wywrotowych ambicji drugofalowego feminizmu, wystawa <em>Wszyscy ludzie będą siostrami</em> była propozycją genealogii, a&nbsp;zarazem manifestacją siostrzeństwa w&nbsp;sztuce od końca lat 60. XX wieku do dziś. Siostrzeństwo zaczyna się od krytyki wyzysku kobiet w&nbsp;patriarchacie, zarówno w&nbsp;jego kapitalistycznych, jak i&nbsp;socjalistycznych formach, ale stawia pytania także o&nbsp;przyszłe relacje społeczne i&nbsp;gospodarcze w&nbsp;perspektywie ekologii planetarnej. Siostrzeństwo jest maszyną do pracy z&nbsp;wyobraźnią, pluje na&nbsp;Hegla, dialektykę, wiarę w&nbsp;postęp, braterstwo, patriarchalną kulturę dominacji i&nbsp;walkę o&nbsp;uznanie pana.</p> <h2>Rezonans<b></b></h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/wd-1920x-0ac.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/wd-333x-b0d.jpg 333w,assets/cache/images/issues/2018/20/sokolowska/wd-666x-475.jpg 666w,assets/cache/images/issues/2018/20/sokolowska/wd-1332x-ed0.jpg 1332w" src="assets/cache/images/issues/2018/20/sokolowska/wd-666x-475.jpg" alt="" ></a>    <figcaption><p>Widok wystawy, architektura: Krzysztof Skoczylas. Fot. Piotr Tomczyk. Dzięki uprzejmości Muzeum Sztuki w&nbsp;Łodzi</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Przewodniczką w&nbsp;tworzeniu wystawy była sztuka rezonująca z&nbsp;feministycznymi ujęciami pracy, produkcji i&nbsp;reprodukcji. Jej herstoryczną tradycję stanowiła druga fala ruchów feministycznych i&nbsp;korespondująca z&nbsp;nimi feministyczna awangarda „byłego Zachodu” z&nbsp;lat 70. XX wieku.<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> Współczesność, która wchodzi w&nbsp;relację z&nbsp;tą tradycją, przedstawiała twórczość problematyzująca strukturalny związek zglobalizowanego wyzysku sfeminizowanej pracy z&nbsp;innymi formami zarówno opresji, jak i&nbsp;solidarności. Postawy artystyczne oraz obecne w&nbsp;dziełach sztuki odniesienia do wydarzeń herstorycznych zestawiłam na&nbsp;wystawie w&nbsp;sposób, który metaforycznie można nazwać rezonansem. Podejście to polega na&nbsp;aranżowaniu spotkań, do których nigdy nie doszło – spotkań między różnymi, międzypokoleniowymi i&nbsp;odległymi geopolitycznie praktykami artystycznymi i&nbsp;teoretycznymi. To tworzenie relacji, które mogą uaktywnić ruchy, drgania, wstrząsy i&nbsp;współbrzmienia poszczególnych elementów. Ta metoda wynika z&nbsp;przekonania o&nbsp;konieczności wytwarzania innych, niepatriachalnych herstorii i&nbsp;perspektyw, co wymaga poszukiwania twórczych połączeń, powtórzeń i&nbsp;przepływów, wzmocnienia wspólnych głosów, a&nbsp;także dokonywania cięć i&nbsp;tworzenia rozgałęzień tam, gdzie wywrotowe pragnienie siostrzeństwa zostaje zablokowane przez większościowe patriarchalne maszyny społeczne, w&nbsp;tym historię i&nbsp;instytucje sztuki<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Siostrzeństwo odrzuca linearne ujęcie czasu jako narzędzie patriarchalnego dyscyplinowania wyobraźni na&nbsp;potrzeby dominującej ideologii wzrostu. Jest maszyną historii mniejszej, której drgania rozsadzają większościowy, mistrzowski kanon kultury<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a>. Pielęgnując pojedyncze świadectwa, osobliwości, różnice postaw i&nbsp;dzieł artystycznych, siostrzeństwo otwiera przed nimi współczesny horyzont polityczny i&nbsp;zbiorowy.</p> <p>Metafora rezonansu<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> jest też roboczą nazwą jednego z&nbsp;wariantów metody pracy zespołu Muzeum Sztuki w&nbsp;Łodzi nad aktualizacją wybranych zjawisk z&nbsp;przeszłości zapośredniczonych przez dzieła sztuki. Metoda ta testowana była w&nbsp;postaci niewerbalizowanych, intuicyjnych zestawień i&nbsp;nazywana atlasem, montażem lub konstelacjami w&nbsp;stałej ekspozycji kolekcji <em>Atlas nowoczesności</em> oraz w&nbsp;projektach czasowych, między innymi <em>Oczy szukają głowy do zamieszkania </em>(2011), <em>Muzeum Rytmu</em> (2017), <em>Poruszone ciała. Choreografie nowoczesności </em>(2017), <em>Katarzyna Kobro / Lygia Clark </em>(2009), <em>Powidoki życia. Władysław Strzemiński i&nbsp;prawa dla sztuki</em> (2010/2011), <em>Korespondencje. Sztuka nowoczesna i&nbsp;uniwersalizm</em> (2013)<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Wspólną cechą tych poszukiwań są anachroniczne połączenia prac artystycznych w&nbsp;przestrzeniach wystawienniczych i&nbsp;publikacjach, dokonywane w&nbsp;celu wywołania subiektywnego, usytuowanego odczucia „teraz”, pozwalającego rozpoznać znaczenia wydarzeń z&nbsp;przeszłości. W&nbsp;przypadku wystawy <em>Wszyscy ludzie będą siostrami</em> w&nbsp;radykalnej tradycji feministycznej sztuki dostrzegłam całościowe, złożone myślenie, w&nbsp;którym niezgoda na&nbsp;wyzysk kobiet łączy się z&nbsp;niezgodą na&nbsp;inne rodzaje wyzysku. Celem tematycznego montażu wybranych przykładów tej tradycji i&nbsp;współczesnej twórczości było wydobycie siły oraz wyobrażenie sobie możliwych konsekwencji tych aktów oporu. Na&nbsp;tej kanwie powstała wielogłosowa herstoria globalnych przekształceń pracy i&nbsp;jej przyszłości w&nbsp;perspektywie ekologicznej.</p> <h2>Siostrzeństwo</h2> <p>Problem niewidocznej pracy kobiet i&nbsp;naszych funkcji w&nbsp;reprodukcji społecznej został wykorzystany w&nbsp;wystawie do rozsadzenia – maskujących konkretny wyzysk podporządkowanych – przemocowych abstrakcji i&nbsp;uniwersalistycznych roszczeń grup dominujących. Tytuł wystawy pochodzi z&nbsp;plakatu Allana Sekuli <em>Alle Menschen Werden Schwestern</em> (2007), wspierającego wizualnie alterglobalistyczne protesty przeciw szczytowi G8 w&nbsp;Heiligendamm. Plakat przedstawia meksykańskiego robotnika w&nbsp;dokach, a&nbsp;hasło odwołuje się do feministycznych interwencji pod&nbsp;hasłem „Wszyscy ludzie będą braćmi”. Pochodzi ono z&nbsp;<em>Ody do radości</em> (1785) Friedricha Schillera i&nbsp;wielokrotnie powracało w&nbsp;zachodnich narracjach o&nbsp;wyzwoleniu uciskanych, a&nbsp;w końcu wygodnie osiadłe w&nbsp;hymnie Unii Europejskiej<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>. Plakat zapowiada, że&nbsp;siostrzeństwo poszukuje sojuszy przekraczających płeć biologiczną. Perspektywy feministyczne i&nbsp;postkolonialne przypominają, że&nbsp;rewersem ideałów braterstwa, równości i&nbsp;wolności, będących dziedzictwem Oświecenia, była niewidoczna niewolnicza praca. To praca świadczona w&nbsp;europejskich koloniach i&nbsp;w dzisiejszych przestrzeniach wyzysku neokolonialnej gospodarki, ale także nieodpłatna praca wykonywana w&nbsp;gospodarstwach domowych przez kobiety, wykluczone z&nbsp;dominujących koncepcji oraz praktyk sfery publicznej i&nbsp;ekonomii klasycznej<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. Siostrzeństwo nie rezygnuje jednak z&nbsp;prób myślenia o&nbsp;tym, co wspólne. Sytuuje się tymczasowo blisko zrewoltowanej uniwersalności (<em>insurgent universality</em>). Cinzia Arruzza określa politykę feministyczną, która nierówne relacje płci postrzega jako zależne od historycznego procesu uniwersalizacji wytworzonego przez kapitalizm<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Krytyce patriarchatu powinien więc towarzyszyć projekt zmiany dominującego systemu gospodarczego. Siostrzeństwo nie jest zatem skupione na&nbsp;emancypacji esencjalistycznie pojmowanych kobiet, ale postrzega walkę z&nbsp;patriarchatem jako kształtowanie środowiska do bardziej znośnego życia dla wielu podmiotów umiejscowionych w&nbsp;politycznym horyzoncie postkapitalizmu. Poszukuje jednak wspólnoty plastycznej, empatycznej, stale weryfikowanej i&nbsp;negocjowanej przez ucieleśnione, konkretne doświadczanie różnicy<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Jako takie musi uwzględniać również świadectwa opresji kobiet w&nbsp;dawnych systemach socjalistycznych oraz świadectwa zmian wynikających z&nbsp;globalnego podziału pracy, w&nbsp;szczególności w&nbsp;ekonomii opieki.</p> <h2>Płace za&nbsp;pracę domową<b></b></h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/spene2d-1920x-2d8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/spene2d-330x-214.jpg 330w,assets/cache/images/issues/2018/20/sokolowska/spene2d-660x-cc0.jpg 660w,assets/cache/images/issues/2018/20/sokolowska/spene2d-768x-27a.jpg 768w,assets/cache/images/issues/2018/20/sokolowska/spene2d-1320x-fda.jpg 1320w" src="assets/cache/images/issues/2018/20/sokolowska/spene2d-660x-cc0.jpg" alt="" ></a>    <figcaption><p>Jo Spence, praca z&nbsp;cyklu <em>Przemodelowując historię fotografii</em> [<em>Remodelling Photo History</em>], 1981–1982, współpraca: Terry Dennett. Fotografia na&nbsp;papierze. Dzięki uprzejmości Richard Saltoun Gallery, Londyn, prawa autorskie: Estate Jo Spence</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Dokonane przez aktywistki, teoretyczki i&nbsp;artystki związane z&nbsp;feminizmem drugiej fali zakwestionowanie naturalizowanego w&nbsp;patriarchacie płciowego podziału pracy i&nbsp;wyzysku ze względu na&nbsp;płeć okazało się, jak sygnalizuje wystawa, wywrotowe w&nbsp;perspektywie czasowej wykraczającej poza historyczny moment ich działań. Jedną z&nbsp;najważniejszych konsekwencji tego procesu było uwidocznienie i&nbsp;upolitycznienie ogromu niewidocznej pracy kobiet w&nbsp;rzekomo prywatnej sferze rodziny czy gospodarstwa domowego. W&nbsp;latach 70. we Włoszech Silvia Federici, Selma James, Brigitte Galtier i&nbsp;Mariarosa Dalla Costa w&nbsp;ruchu <em>Płace za&nbsp;pracę domową </em>postulowały włączenie do agendy walki przeciw kapitalistycznemu wyzyskowi nieodpłatnej pracy, wykonywanej głównie przez kobiety w&nbsp;gospodarstwie domowym: ich usług emocjonalnych, fizycznych i&nbsp;seksualnych. Żądanie pensji za&nbsp;prace domowe było nie tyle krokiem do utowarowienia tych usług oraz pozbawienia ich potencjału radości i&nbsp;osobistej satysfakcji, ile gestem uświadomienia, że&nbsp;już są one niewidzialną częścią gospodarki, środkiem odtwarzania siły roboczej, a&nbsp;więc kapitalistycznych relacji społecznych. Aktywistki tego ruchu, podobnie jak inne działaczki związane z&nbsp;feminizmem marksistowskim, zauważały także, że&nbsp;praca najemna podejmowana przez kobiety wzmacniała ich podporządkowanie i&nbsp;wyzysk jako dewaluująca kontynuacja znaturalizowanych funkcji usługowych i&nbsp;opiekuńczych pełnionych przez nie w&nbsp;patriarchalnej rodzinie. Feminizm marksistowski i&nbsp;rozwijane w&nbsp;latach 70. i&nbsp;80. teorie reprodukcji społecznej<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup> poszerzały zarazem rozumienie kapitalizmu o&nbsp;podmioty i&nbsp;procesy postrzegane jako „pozaekonomiczne”, a&nbsp;konieczne dla jego funkcjonowania<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Ich niewidoczność, jak wykazały feministki, przekładała się na&nbsp;taniość lub niewolniczy charakter sfeminizowanej pracy. Na&nbsp;wystawie refleksja feministyczna wchodzi w&nbsp;rezonans z&nbsp;siłami kwestionującymi ekonomię wartościującą całość procesów życiowych w&nbsp;kategoriach pozyskiwania wartości dodatkowej towaru. Niektóre prace wprost ilustrują przywołane dyskusje i&nbsp;strategie lub bezpośrednio się w&nbsp;nie angażują; inne rezonują z&nbsp;nimi za&nbsp;pomocą środków artystycznych, które stawiają opór ówczesnym dyskursom, poszerzają je, ukazują ich ograniczenia lub przemieszczają je w&nbsp;nowe konteksty czasoprzestrzenne. Zestawiłam je tak, żeby wyeksponować przecięcia i&nbsp;współzależność różnych skali widzenia, splatając perspektywy intymne i&nbsp;osobliwości z&nbsp;panoramami, manifestacjami grupowymi, intencjonalnie politycznymi, a&nbsp;historie związane z&nbsp;Łodzią, w&nbsp;której odbywała się wystawa, z&nbsp;ujęciami naświetlającymi globalne sprzężenia.</p> <h2>Spojrzenie na&nbsp;ciało<b></b></h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/spened-1920x-c93.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/spened-330x-2ea.jpg 330w,assets/cache/images/issues/2018/20/sokolowska/spened-660x-d47.jpg 660w,assets/cache/images/issues/2018/20/sokolowska/spened-768x-108.jpg 768w,assets/cache/images/issues/2018/20/sokolowska/spened-1320x-f42.jpg 1320w" src="assets/cache/images/issues/2018/20/sokolowska/spened-660x-d47.jpg" alt="" ></a>    <figcaption><p>Jo Spence, praca z&nbsp;cyklu <em>Przemodelowując historię fotografii</em> [<em>Remodelling Photo History</em>], 1981–1982, współpraca: Terry Dennett. Fotografia na&nbsp;papierze. Dzięki uprzejmości Richard Saltoun Gallery, Londyn, prawa autorskie: Estate Jo Spence</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Jednym z&nbsp;węzłowych tematów wystawy było ciało – ukazywane jako medium artystyczne, jako zawłaszczone przez kapitał i&nbsp;państwo narzędzie produkcji i&nbsp;reprodukcji, uprzedmiotowione seksistowskim spojrzeniem, ale też jako ciało intymne, zrewoltowany kolektyw, podmiot, pole walki, sekspozytywna maszyna pragnienia i&nbsp;przyjemności. Prace Agnès Vardy, Jo Spence, Birgit Jürgenssen, Letícii Parente i&nbsp;Şükran Moral eksponują ciała zbuntowane, uzyskujące świadomość wyzysku i&nbsp;poszukujące autonomii w&nbsp;feministycznym przechwyceniu uprzedmiotowiającej, heterosekistowskiej ekonomii reprezentacji kobiet. Dążąc do ujawnienia i&nbsp;zaburzenia ideologii kształtujących konwencje kultury wizualnej, artystki te podejmowały eksperymenty medialne, analizowały i&nbsp;parodiowały normy widzialności, wykorzystując własne, konkretne ciała i&nbsp;ustanawiając autonomiczne zasady ich przedstawiania. Jedną ze wspólnych strategii było uwidocznienie w&nbsp;obrazie filmowym lub fotograficznym obecności i&nbsp;pracy rzekomo transparentnej kamery lub aparatu jako narzędzi odtwarzania dominujących relacji społecznych. W&nbsp;pracach takich jak <em>Najdoskonalszy produkt kapitalizmu</em> (1979) czy <em>Przemodelowanie – historia fotoreportażu</em> (1981–1982) Jo Spence użyła swojego autorskiego nienormatywnego wizerunku do zakłócenia popularnych gatunków obrazowania, takich jak portret, pejzaż, akt czy martwa natura, parodystycznie odnosząc się do kształtujących je relacji władzy. Nienormatywność polegała na&nbsp;samoświadomej inscenizacji ciała stawiającego opór konwencjonalnej heteroseksistowskiej konsumpcji – ciała naznaczonego wiekiem, pochodzeniem, pracą albo, w&nbsp;innych ujęciach, zmaganiem ze śmiertelną chorobą<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>.<b></b></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/jurgd-1920x-fd5.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/jurgd-333x-3c4.jpg 333w,assets/cache/images/issues/2018/20/sokolowska/jurgd-666x-de8.jpg 666w,assets/cache/images/issues/2018/20/sokolowska/jurgd-1332x-7de.jpg 1332w" src="assets/cache/images/issues/2018/20/sokolowska/jurgd-666x-de8.jpg" alt="" ></a>    <figcaption><p>Birgit Jürgenssen, <em>Gniazdo</em> [<em>Nest</em>], 1979. Fotografia dzięki uprzejmości Estate Birgit Jürgenssen, Wiedeń. Kolekcja Muzeum Sztuki w&nbsp;Łodzi</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Dekolonizacja upłciowionego ciała w&nbsp;kontekście orientalistycznej kultury wizualnej i&nbsp;splotu religijnych, nacjonalistycznych i&nbsp;mizoginicznych tabu to z&nbsp;kolei wątki, wokół których od lat 90. rozwija się twórczość Şükran Moral. W&nbsp;jednym ze swoich partyzanckich performansów (<em>Hamam</em>, 1997), którego dokumentację pokazywano na&nbsp;wystawie, artystka wtargnęła w&nbsp;towarzystwie kolegów do męskiej części łaźni w&nbsp;Stambule, gdzie ucztowała, piła alkohol, a&nbsp;mężczyźni obmywali i&nbsp;masowali jej ciało. To działanie było interwencją w&nbsp;długą tradycję przedstawień kobiet w&nbsp;łaźniach tureckich jako biernych, egzotycznych, seksualnych przedmiotów kolonialnego, męskiego spojrzenia. Natomiast prace Birgit Jürgenssen czy Letícii Parente z&nbsp;lat 70. eksplorują przede wszystkim alienację kobiet w&nbsp;patriarchacie, psychiczne koszty podporządkowania i&nbsp;formy ucieleśnienia tej opresji. Używając własnych ciał w&nbsp;medium fotografii (Jürgenssen) i&nbsp;performansów dokamerowych (Parente), artystki denaturalizowały usługowe, opiekuńcze funkcje kobiet oraz prywatność przestrzeni domowej. Jürgenssen inscenizowała swoje ciało jako zdegradowaną maszynę do gotowania, seksu, rozrodu i&nbsp;podtrzymywania nowego życia (<em>Gniazdo</em>, 1979; <em>Fartuch kuchenny gospodyni domowej</em>, 1974), a&nbsp;Parente wykonała absurdalny gest powieszenia się na&nbsp;wieszaku w&nbsp;garderobie (<em>W</em>, 1978), przywołując częsty w&nbsp;sztuce feministycznej tego czasu motyw depresji i&nbsp;zamknięcia w&nbsp;domu niczym w&nbsp;więzieniu, z&nbsp;którego nie ma ucieczki<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>.</p> <h2>Nowe formy / świadomość medium<b></b></h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/hd-1920x-750.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/hd-330x-787.jpg 330w,assets/cache/images/issues/2018/20/sokolowska/hd-660x-260.jpg 660w,assets/cache/images/issues/2018/20/sokolowska/hd-768x-0b5.jpg 768w,assets/cache/images/issues/2018/20/sokolowska/hd-1320x-e2a.jpg 1320w" src="assets/cache/images/issues/2018/20/sokolowska/hd-660x-260.jpg" alt="" ></a>    <figcaption><p>Hackney Flashers, <em>Praca niewidoczna</em> (z cyklu <em>Kobiety i&nbsp;praca</em>), [<em>Invisible Labour </em>, 1977. Fotografia dzięki uprzejmości Richard Saltoun Gallery, Londyn. Prawa autorskie: Hackney Flashers</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Przykładami poszukiwania estetycznych i&nbsp;politycznych sposobów artykułowania płci wobec sfer produkcji i&nbsp;reprodukcji były na&nbsp;wystawie między innymi wybrane dokumenty z&nbsp;archiwum Hackney Flashers, kampania na&nbsp;rzecz pracownic chałupniczych Margaret Harrison oraz filmy Berwick Street Film Collective i&nbsp;Agnès Vardy. Prace te są jednocześnie świadectwem testowania nowych kanałów upowszechniania feministycznej sztuki i&nbsp;aktywizmu. W&nbsp;londyńskim kolektywie Hackney Flashers, czynnym w&nbsp;latach 70. i&nbsp;80., działały kobiety z&nbsp;różnych środowisk zawodowych i&nbsp;aktywistycznych, połączone ideami feminizmu socjalistycznego (An Dekker, Sally Greenhill, Liz Heron, Michael Ann Mullen, Maggie Murray, Christine Roche, Jo Spence, Julia Vellacott). W&nbsp;warsztatowej formule tworzyły one wspólnie materiały agitacyjne i&nbsp;edukacyjne – ulotki, fotomontaże, plakaty, wystawy oraz kampanie poświęcone reprezentacji pracy, jej warunkom i&nbsp;prawom reprodukcyjnym kobiet. Ich działania upubliczniały jednocześnie strukturalny wymiar niewidoczności pracy domowej i&nbsp;feminizacji niskopłatnych prac najemnych w&nbsp;klasie robotniczej. Członkinie kolektywu angażowały się także w&nbsp;akcje na&nbsp;rzecz zwiększenia dostępu do żłobków, środków antykoncepcyjnych czy bezpiecznej aborcji. Materiały agitacyjne Hackney Flashers były łatwe do wykonania i&nbsp;tanie w&nbsp;transporcie oraz montażu. Krążyły zarówno w&nbsp;dzielnicowych bibliotekach, urzędach, uczelniach, na&nbsp;spotkaniach związków zawodowych czy feministycznych zgromadzeniach, jak i&nbsp;okazyjnie w&nbsp;centrach sztuki.</p> <p>Do niezwiązanej z&nbsp;polem sztuki publiczności telewizyjnej skierowany był także wspomniany już krótki film Agnès Vardy <em>Kobiety odpowiadają...</em>. Artystka posłużyła się w&nbsp;nim estetyką bliską <em>ciné tract</em>, stosowaną w&nbsp;czasach paryskiego Maja’ 68 przez filmowców bezpośrednio zaangażowanych w&nbsp;rewolucyjne wydarzenia, tworzących kanały informacji alternatywne wobec przekazów rządowych i&nbsp;komercyjnych. Reżyserka zastosowała między innymi dialektyczny montaż i&nbsp;ujawniła pracę kamery w&nbsp;filmie w&nbsp;celu wyeksponowania cech samego medium oraz pracy odbiorczyń jako możliwego narzędzia walki.<b></b></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/had-1920x-e97.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/had-330x-9c2.jpg 330w,assets/cache/images/issues/2018/20/sokolowska/had-660x-e66.jpg 660w,assets/cache/images/issues/2018/20/sokolowska/had-768x-7f0.jpg 768w,assets/cache/images/issues/2018/20/sokolowska/had-1320x-132.jpg 1320w" src="assets/cache/images/issues/2018/20/sokolowska/had-660x-e66.jpg" alt="" ></a>    <figcaption><p>Hackney Flashers, <em>Kto nadal trzyma dziecko? </em>[<em>Who’s Still Holding the Baby?</em>], 1978. Dzięki uprzejmości Richard Saltoun Gallery, Londyn. Prawa autorskie: Hackney Flashers</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Jednym z&nbsp;najbardziej złożonych dzieł na&nbsp;wystawie było wiedo <em>Sprzątające nocą</em> (1972–1975) Berwick Street Film Collective (Humphry Trevelyan, Mary Kelly, James Scott, Marc Karlin, Richard Mordaunt). Na&nbsp;początku produkcji miało ono służyć agitacji na&nbsp;rzecz uzwiązkowienia kobiet sprzątających nocami londyńskie biura, ale w&nbsp;trakcie realizacji zostało przekształcone w&nbsp;duchu awangardowego kina lat 70., by ukazać sprzeczności związane z&nbsp;próbą mówienia w&nbsp;czyimś imieniu, zarówno w&nbsp;medium filmowym, jak i&nbsp;w polityce. Wideo problematyzuje między innymi nieadekwatność prób reprezentacji pracownic przez wykształcone aktywistki. Uwidacznia także – znów – brak w&nbsp;tradycyjnym zmaskulinizowanym ruchu związkowym i&nbsp;w lewicowym imaginarium walki klas „pozaekonomicznego”, nieodpłatnego czynnika pracy domowej, jaką poza pracą najemną obciążone były kobiety. Utrudnieniu konsumpcji obrazów sfeminizowanej pracy służył montaż uwypuklający nieciągłość narracji, wprowadzający asynchroniczne zestawienia obrazu i&nbsp;dźwięku, spowolnienia, wyciszenia, deformacje i&nbsp;rytmiczne wtrącenia czarnego ekranu czy eksponujący obecność filmowców. Podkreślając, w&nbsp;duchu brechtowskiej tradycji teatralnej przetworzonej w&nbsp;eksperymentalnym kinie lat 60. i&nbsp;70., efekt obcości i&nbsp;konflikty ideologiczne w&nbsp;opozycji do jedności, Berwick Street Film Collective włączył sprzeczności w&nbsp;obręb własnego środka produkcji – filmu jako technologii społecznej. Stawką było uaktywnienie krytycznego myślenia odbiorczyń, recepcji jako aktywności, pracy<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. <em>Sprzątające nocą</em>, podobnie jak twórczość Hackney Flashers, Margaret Harrison, Jo Spence, Birgit Jürgenssen, Letícii Parente czy Agnès Vardy, pokazuje, że&nbsp;zaangażowanie sztuki w&nbsp;problemy produkcji i&nbsp;reprodukcji w&nbsp;latach 60. i&nbsp;70. nie było wyłącznie tematem dzieł. Była to raczej postawa, która wymagała adekwatnych środków wyrazu, produkcji, edukacji i&nbsp;upowszechniania, kwestionujących reguły przemysłu filmowego i&nbsp;autonomię patriarchalnego pola sztuki. Ponadto, upubliczniając ogrom niewidocznej pracy, wyzysku i&nbsp;konfliktów społecznych, twórczość feministyczna „zanieczyszczała” jego suwerenność i&nbsp;rzekomą bezpłciowość oraz bezklasowość. Kult indywidualnego, transcendentnego geniuszu artysty (mężczyzny) oraz dzieła sztuki wydzielonego z&nbsp;sieci życiowych współzależności został podważony przez kolektywne i&nbsp;społecznie zaangażowane wystąpienia. Nowe formy edukacji, działanie w&nbsp;kolektywach i&nbsp;egalitarne media filmu, fotografii czy performansu ułatwiały zdobywanie wiedzy paralelnie do struktur akademii sztuk pięknych lub niezależnie od nich, co pokazuje przykład Hackney Flashers. Alternatywna feministyczna edukacja oraz poszerzanie świadomości dzięki relacji z&nbsp;innymi kobietami w&nbsp;grupie pozwalały na&nbsp;uzyskiwanie niezależności od patriarchalnych instytucji „czystej” sztuki.</p> <h2>Dokument socjalistyczny</h2> <p>Doświadczenia opresji kobiet w&nbsp;procesach produkcji i&nbsp;nieekonomicznej reprodukcji przywołane zostały na&nbsp;wystawie za&nbsp;pośrednictwem filmów dokumentalnych powstałych w&nbsp;ustroju socjalistycznym, w&nbsp;Polskiej Rzeczpospolitej Ludowej, poza kontekstem politycznych i&nbsp;estetycznych artykulacji feminizmu. Filmy Krystyny Gryczełowskiej i&nbsp;Ireny Kamieńskiej zrealizowane zostały w&nbsp;orbicie nieformalnej polskiej szkoły dokumentu Kazimierza Karabasza, poszukującej nowych sposobów opisu rzeczywistości po&nbsp;okresie dyktatu jednoznacznej państwowej propagandy. Podążając za&nbsp;łódzką robotnicą zarówno w&nbsp;fabryce, jak i&nbsp;podczas zakupów, odbierania dziecka z&nbsp;przedszkola czy wreszcie w&nbsp;mieszkaniu, Krystyna Gryczełowska pokazuje w&nbsp;filmie <em>24 godziny z&nbsp;życia Jadwigi L</em>. (1967) pracę, jaką kobieta świadczy samotnie dla kilkuosobowej rodziny – od zaopatrzenia, po&nbsp;sprzątanie, organizowanie przestrzeni, gotowanie i&nbsp;opiekę. W&nbsp;życiu bohaterki, skumulowanym w&nbsp;filmie do jednej doby, nie ma w&nbsp;ogóle osobistego, własnego czasu wolnego. Tym bardziej staje się jasne, że&nbsp;nie ma w&nbsp;nim, podobnie jak w&nbsp;życiu protagonistek filmu Berwick Street Film Collective, miejsca i&nbsp;energii na&nbsp;jakąkolwiek niezarobkową i&nbsp;pozarodzinną aktywność społeczną. Z&nbsp;kolei dokument Ireny Kamieńskiej <em>Robotnice</em> (1980) koncentruje się na&nbsp;skargach pracownic krośnieńskich Zakładów Przemysłu Lniarskiego na&nbsp;tragiczne warunki pracy: zawyżone normy wykonawcze narzucone przez centralny plan, zagrożenie zdrowia, brak odpowiedniej odzieży czy dogodnego transportu ze wsi do fabryki. Wśród skarg przebija złość na&nbsp;całkowicie zmaskulinizowaną władzę, majstrów, kierowników, dyrekcję i&nbsp;socjalistyczne państwo, które miało znieść wyzysk kobiet.<b></b></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/wid-1920x-a92.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/wid-333x-f20.jpg 333w,assets/cache/images/issues/2018/20/sokolowska/wid-666x-1e0.jpg 666w,assets/cache/images/issues/2018/20/sokolowska/wid-1332x-59d.jpg 1332w" src="assets/cache/images/issues/2018/20/sokolowska/wid-666x-1e0.jpg" alt="" ></a>    <figcaption><p><a href="WID.jpg"><img></a>Widok wystawy, architektura: Krzysztof Skoczylas. Na&nbsp;pierwszym planie: Allan Sekula, <em>Linia montażowa z&nbsp;zamkniętymi oczami </em> [<em>Eyes Closed Assembly Line</em>], 2010. Lightbox, kadr produkcyjny filmu <em>Zapomniana przestrzeń </em>[<em>The Forgotten Space</em>], reż. Allan Sekula i&nbsp;Noël Burch. Dzięki uprzejmości Allan Sekula Studio LLC, Los Angeles. Fot. Piotr Tomczyk. Dzięki uprzejmości Muzeum Sztuki w&nbsp;Łodzi</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Oba dokumenty nie rejestrują jednak żadnego potencjału rewolty ani w&nbsp;zakładzie pracy, ani w&nbsp;rodzinie. Tytułowym robotnicom czasu brakuje, w&nbsp;ich własnych słowach, jedynie dla dzieci. Filmy te zostały zestawione na&nbsp;wystawie z&nbsp;fotografiami dokumentującymi największy w&nbsp;Polsce strajk głodowy, który odbył się w&nbsp;Łodzi 1981 roku w&nbsp;związku z&nbsp;ogólnokrajowym kryzysem gospodarczym, a&nbsp;bezpośrednio w&nbsp;reakcji na&nbsp;pogorszenie się zaopatrzenia sklepów spożywczych i&nbsp;wzrost cen podstawowych produktów. Strajki były organizowane w&nbsp;całej Polsce przez „Solidarność”, a&nbsp;w Łodzi wzięły w&nbsp;nich udział głównie kobiety, pracownice potężnego wówczas lokalnego przemysłu włókienniczego. Wielu z&nbsp;nich towarzyszyły dzieci. Wybrane fotografie koncentrują się na&nbsp;sloganach z&nbsp;transparentów włókniarek: „Dzieci przyszłość narodu, umrą z&nbsp;głodu”, „Czy głodne dzieci to cel socjalizmu?”, przechwycony cytat z&nbsp;Marksa: „Byt kształtuje świadomość”, „Brud”, „Ubóstwo”, „Chcemy chleba od władzy ludowej”, „3 zmiany – jeden głód” albo „Czym nakarmimy nasze dzieci?”. Uczestniczki największego protestu kobiet w&nbsp;PRL odwoływały się do tradycyjnych ról matek, opiekunek i&nbsp;żywicielek w&nbsp;celu poprawy dobrostanu swoich rodzin oraz warunków wypełniania swoich ról – przeciw którym się nie buntowały<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>.</p> <h2>Ekologia – świat</h2> <p>Podążając ścieżkami sztuki tworzonej w&nbsp;środowisku ruchów feministycznych i&nbsp;kobiecych z&nbsp;lat (mniej więcej) 70. Xx wieku, wystawa <em>Wszyscy ludzie będą siostrami</em> rozgałęziała je, poszukując nowych połączeń i&nbsp;uruchamianych przez nie drgań rezonansowych. Dokumenty z&nbsp;peryferyjnego, katolickiego w&nbsp;perspektywie długiego trwania, a&nbsp;ustrojowo socjalistycznego wówczas kraju miały poszerzyć spektrum siostrzeństwa o&nbsp;lokalną narrację niewpisującą się w&nbsp;kolektywne polityczne i&nbsp;estetyczne artykulacje silnego nurtu zachodniego feminizmu drugofalowego. Są to głosy współbrzmiące w&nbsp;herstorii kobiecości – zróżnicowanej, ale połączonej herstorii klasowej, w&nbsp;której płeć, obok innych uwarunkowań, zostaje uspołeczniona i&nbsp;zyskuje formy klasowe<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>.<b></b></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/vatd-1920x-0ac.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/vatd-330x-5b2.jpg 330w,assets/cache/images/issues/2018/20/sokolowska/vatd-660x-9bb.jpg 660w,assets/cache/images/issues/2018/20/sokolowska/vatd-768x-cda.jpg 768w,assets/cache/images/issues/2018/20/sokolowska/vatd-1320x-a50.jpg 1320w" src="assets/cache/images/issues/2018/20/sokolowska/vatd-660x-9bb.jpg" alt="" ></a>    <figcaption><p>Widok wystawy, fot. Piotr Tomczyk, dzięki uprzejmości Muzeum Sztuki w&nbsp;Łodzi, po&nbsp;lewej stronie: Mona Vǎtǎmanu &amp; Florin Tudor, <em>Świat i&nbsp;rzeczy</em> [<em>Le monde et les choses</em>], 2014, tkanina; po&nbsp;prawej stronie: Agnieszka Brzeżańska, <em>Radiating Glory</em>, 2002, olej na&nbsp;płótnie, prace dzięki uprzejmości artystów</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Prace rezonujące z&nbsp;kondycją, którą roboczo nazwę za&nbsp;Jasonem W. Moore’em kapitalistyczną ekologią-światem, stawiały pytania o&nbsp;siostrzeństwo, solidarność i&nbsp;płeć wobec wyzysku w&nbsp;wymiarze globalnym – czy właśnie ekologiczno-światowym<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>. W&nbsp;ujęciu Moore’a mechanizm akumulacji kapitału wymaga wytwarzania i&nbsp;zawłaszczania zewnętrza systemu, które traktowane jest jako źródło tanich zasobów. To obszar życia wydzielonego jako pozaspołeczne i&nbsp;pozaekonomiczne, obejmujący zjawiska takie jak praca niewolnicza w&nbsp;europejskich koloniach, przemysłowy wyzysk zwierząt, nieodpłatna lub tania praca kobiet, migrantów i&nbsp;migrantek oraz eksploatacja całych ekosystemów. Moore roboczo kategoryzuje ten mechanizm jako wytwarzanie „taniej natury”, czyli taniego zasobu, na&nbsp;który składają się między innymi surowce, praca, energia, i&nbsp;żywność. Wytwarzając uniwersalny podmiot (męski, biały, heteroseksistowski), transcendentny wobec świata rzeczy, nieludzkich zwierząt i&nbsp;ludzkich „innych” (kobiet, osób niebiałych, nieheteronormatywnych czy niebinarnych) oraz „reszty” przyrody, nowoczesna nauka – zgodnie z&nbsp;tezami Moore’a i&nbsp;współczesnych autorek nurtów krytyki feministycznej, postkolonialnej, ekologicznej i&nbsp;nowomaterialistycznej<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup> – działa jako potężne narzędzie legitymizacji zawłaszczania sieci życia do produkcji tanich zasobów i&nbsp;podtrzymania ciągłości akumulacji kapitału. Twórczość kontekstualizująca wyzysk kobiet jako jeden z&nbsp;takich tanich zasobów była „oczami, które dostrzegają łączność między szybem kopalni po&nbsp;drugiej stronie równika i&nbsp;więzieniem w&nbsp;sercu miasta”, by sparafrazować zdanie z&nbsp;poświęconego Róży Luksemburg eseju filmowego <em>Kapitał akumulacji</em> (2010) Raqs Media Collective<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>.<b></b></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/doujakd-1920x-8bf.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/doujakd-330x-994.jpg 330w,assets/cache/images/issues/2018/20/sokolowska/doujakd-660x-1de.jpg 660w,assets/cache/images/issues/2018/20/sokolowska/doujakd-768x-61c.jpg 768w,assets/cache/images/issues/2018/20/sokolowska/doujakd-1320x-0cf.jpg 1320w" src="assets/cache/images/issues/2018/20/sokolowska/doujakd-660x-1de.jpg" alt="" ></a>    <figcaption><p>Ines Doujak we współpracy z&nbsp;Johnem Barkerem, <em>Czółenka krosna / Wojenne ścieżki, NIEUBRANE DO ZDOBYWANIA: 01: POŻARY</em> [<em>Loomshuttles / Warpaths, NOT DRESSED FOR CONQUERING 01 FIRES</em>], 2012/2015. Instalacja, dzięki uprzejmości artystów. Fot. Piotr Tomczyk. Dzięki uprzejmości Muzeum Sztuki w&nbsp;Łodzi</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Jak pokazuje twórczość uczestniczek wystawy, tak szeroka perspektywa wymaga poruszania się po&nbsp;różnych rejestrach wiedzy, skalach pomiaru oraz jednoczesnego przekładu pojedynczości na&nbsp;abstrakcje i&nbsp;ukonkretniania abstrakcji. Najistotniejsza jest wrażliwość na&nbsp;to, co w&nbsp;napotkanych źródłach marginalne lub niewidoczne. To dlatego zielnik i&nbsp;osobiste notatki Róży Luksemburg, raczej niż jej teoria, posłużyły Raqs Media Collective za&nbsp;inspirację do eseju filmowego o&nbsp;międzygatunkowych ruchach ciał, przemianie materii, przepływach energii, krwi, afektów i&nbsp;pamięci w&nbsp;relacji do globalnego obiegu kapitału.</p> <p>W znalezionych w&nbsp;internecie statystykach CIA dzielących Ziemię na&nbsp;tanie zasoby i&nbsp;najważniejsze gospodarki  Mona Vǎtǎmanu i&nbsp;Florin Tudor dostrzegli problem niewidoczności materialnej pracy rąk przetwarzającej surowce i&nbsp;wytwarzającej towary, w&nbsp;tym narzędzia do rzekomo niematerialnej cyfrowej kartografii i&nbsp;pomiaru świata. Przypomnieli o&nbsp;tej materialności w&nbsp;dziele <em>Le monde et les choses </em>(<em>Świat i&nbsp;rzeczy</em>, 2014), w&nbsp;którym ręcznie wyszyli mapę gospodarczą Ziemi, pozostawiając widoczne szwy na&nbsp;granicach jednostek terytorialnych. Z&nbsp;kolei historie pożarów w&nbsp;fabrykach tekstylnych w&nbsp;dawnych europejskich koloniach i&nbsp;na współczesnym globalnym Południu były punktem wyjścia dla Ines Doujak i&nbsp;Johna Barkera do multimedialnego cyklu <em>Czółenka krosna / Wojenne ścieżki </em>(2012–2015)<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>. Konkretna przestrzeń – materialna i&nbsp;audialna tkanka nieczynnych Zakładów Przemysłu Dziewiarskiego Lido – została z&nbsp;kolei użyta przez Zorkę Wollny do zrealizowania serii instalacji muzyczno-choreograficznych (<em>Kompozycja na&nbsp;12 aktorów i&nbsp;budynek Lido</em>) rezonujących z&nbsp;różnymi fazami produkcji w&nbsp;kontekście przeszłego i&nbsp;obecnego, niepewnego statusu budynku.<b></b></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/monkod-1920x-6bc.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/monkod-330x-b61.jpg 330w,assets/cache/images/issues/2018/20/sokolowska/monkod-660x-578.jpg 660w,assets/cache/images/issues/2018/20/sokolowska/monkod-768x-d82.jpg 768w,assets/cache/images/issues/2018/20/sokolowska/monkod-1320x-e7d.jpg 1320w" src="assets/cache/images/issues/2018/20/sokolowska/monkod-660x-578.jpg" alt="" ></a>    <figcaption><p>Widok wystawy, fot. Piotr Tomczyk. Dzięki uprzejmości Muzeum Sztuki w&nbsp;Łodzi. Po&nbsp;lewej stronie: Marge Monko, <em>Forum</em> (<em>Forum I, Forum II</em>), 2009. Dwukanałowa instalacja wideo, kolekcja Muzeum Sztuki. Po&nbsp;prawej: Alicja Rogalska, <em>Rozwój (nie)osobisty</em>, 2015, wideo</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Konfrontując się z&nbsp;wielowymiarowością powiązanych globalnie warunków pracy, wystawione dzieła podkreślały współistnienie rozpoznanych i&nbsp;dopiero powstających form wyzysku kobiet i&nbsp;sfeminizowanych usług. Marge Monko, Jadwiga Sawicka, Aleksandra Polisiewicz, Elżbieta Jabłońska i&nbsp;Alicja Rogalska podjęły wątki transformacji ustrojowej w&nbsp;Europie Wschodniej oraz różnych sposobów, na&nbsp;jakie dotknęła ona kobiety. W&nbsp;wideo <em>Forum</em> (2009) Marge Monko analizuje na&nbsp;przykład wykluczający na&nbsp;nowym rynku pracy splot płci, dojrzałego wieku, przynależności do rosyjskiej mniejszości i&nbsp;pochodzenia z&nbsp;klasy robotniczej w&nbsp;Estonii. Jednocześnie wspólnie z&nbsp;bohaterkami dzieła – bezrobotnymi Rosjankami, przez większą część życia związanymi z&nbsp;zakładami przemysłowymi – artystka zainscenizowała telewizyjny program publicystyczny oparty na&nbsp;wymazywanym doświadczeniu i&nbsp;wiedzy kobiet. Stworzyła alternatywną, bardziej solidarną herstorię postkomunistycznej transformacji.<a href="AlicjaD.jpg"></a><b></b></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/alicjad-1920x-f53.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/alicjad-330x-5df.jpg 330w,assets/cache/images/issues/2018/20/sokolowska/alicjad-660x-06a.jpg 660w,assets/cache/images/issues/2018/20/sokolowska/alicjad-768x-6db.jpg 768w,assets/cache/images/issues/2018/20/sokolowska/alicjad-1320x-19e.jpg 1320w" src="assets/cache/images/issues/2018/20/sokolowska/alicjad-660x-06a.jpg" alt="" ></a>    <figcaption><p>Alicja Rogalska, <em>Rozwój (nie)osobisty</em>, 2015, kadry wideo, dzięki uprzejmości artystki</p></figcaption>   </figure>  </section><section class="u-typo">   <p><a href="AlicjaD.jpg"></a>Herstorie wzmacniały też głosy kobiet, których losy były związane z&nbsp;przemysłem włókienniczym w&nbsp;Łodzi, wybrzmiewające między innymi w&nbsp;pracy <em>Krajobraz przedrewolucyjny</em> (2015)<em> </em>Aleksandry Polisiewicz. Natomiast prekarną tożsamość współczesnych łodzianek przywołała Alicja Rogalska podczas warsztatów <em>Rozwój (nie)osobisty </em>(2015). Ich celem było uchwycenie wspólnych, strukturalnych (siostrzanych?) doświadczeń kobiet w&nbsp;zmiennych i&nbsp;uelastycznionych warunkach zawodowych, które uczestniczki postrzegają często przez pryzmat osobistych losów. Zapis tego budującego siłę warsztatu daje także wgląd w&nbsp;procesy socjalizacji kobiet do prywatnego ponoszenia systemowych kosztów patriarchatu i&nbsp;demontażu solidarności społecznej.</p> <h2>Troska<b></b></h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/ergund-1920x-afb.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/ergund-333x-c1d.jpg 333w,assets/cache/images/issues/2018/20/sokolowska/ergund-666x-6ac.jpg 666w,assets/cache/images/issues/2018/20/sokolowska/ergund-1332x-b02.jpg 1332w" src="assets/cache/images/issues/2018/20/sokolowska/ergund-666x-6ac.jpg" alt="" ></a>    <figcaption><p>Widok wystawy. Fot. Piotr Tomczyk. Dzięki uprzejmości Muzeum Sztuki w&nbsp;Łodzi, na&nbsp;pierwszym planie Köken Ergun, <em>Binibining (Miss) Ziemi Obiecanej</em> [<em>Binibining Promised Land</em>], 2010. Instalacja wideo. W&nbsp;tle po&nbsp;prawej stronie Jadwiga Sawicka, <em>Ból nie minie</em>, 2013. Dzięki uprzejmości artystów</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Horyzont siostrzeństwa na&nbsp;wystawie <em>Wszyscy ludzie będą siostrami</em> wyznacza praca opieki i&nbsp;troski. Jak pisze Zofia Łapniewska, zdegradowana i&nbsp;wyzyskiwana w&nbsp;globalnym podziale pracy, jest ona podstawą dobrostanu społeczeństw<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>.<em> </em>Przyjmując perspektywę feministycznej etyki troski, autorka przypomina, że&nbsp;o&nbsp;jakości życia społecznego decydują relacje między jego uczestniczkami i&nbsp;uczestnikami, a&nbsp;te budowane są między innymi dzięki wzajemnym zaufaniu, solidarności i&nbsp;równym warunkom rozwoju. Dlatego prestiżowo traktowana i&nbsp;wynagradzana, uspołeczniona opieka dobrej jakości musi się stać prawem i&nbsp;obowiązkiem obywatelskim niezależnie od płci. Zmiana ta będzie możliwa tylko za&nbsp;sprawą kompleksowych programów i&nbsp;decyzji politycznych. Podstawowe pomysły, które analizuje Łapniewska, pochodzą z&nbsp;dyskusji i&nbsp;praktyk realizowanych w&nbsp;zamożnych, zachodnich, rozwiniętych technologicznie krajach o&nbsp;tradycjach demokratycznych. Są to między innymi wprowadzenie dochodu podstawowego oraz wysokich progresywnych podatków, wyrównanie płciowego podziału pracy opiekuńczej we wspólnotach rodzinnych i&nbsp;w usługach najemnych, wzrost wynagrodzeń w&nbsp;tym obszarze, a&nbsp;także antydyskryminacyjna edukacja. Natomiast nowe technologie gospodarki 4.0.<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>, przechwycone jako narzędzie solidarnej redystrybucji bogactwa, stwarzają możliwość redukcji ciężkich prac i&nbsp;wyzysku, a&nbsp;w konsekwencji uwolnienie większej ilości czasu i&nbsp;finansów z&nbsp;przeznaczeniem na&nbsp;opiekę. O&nbsp;współczesnej degradacji opieki w&nbsp;gospodarkach opartych na&nbsp;nierównościach i&nbsp;w globalnym łańcuchu, który kierujące kobiety z&nbsp;krajów biedniejszych do krajów bogatszych oraz umożliwia emancypację jednych kobiet wyłącznie kosztem innych, przypominają prace Kökena Erguna i&nbsp;kolektywu R.E.P. W&nbsp;dokumencie <em>Binibining (Miss) Ziemi Obiecanej</em> (2010) Ergun podejmuje temat migracji zarobkowej Filipinek do Izraela, gdzie specjalizują się w&nbsp;one usługach opiekuńczych, a&nbsp;krótki film <em>Super propozycja</em> (2008), zrealizowany przez ukraińską grupę R.E.P. w&nbsp;formie reklamy, zachwala w&nbsp;języku polskim nielegalną i&nbsp;tanią siłę roboczą z&nbsp;Ukrainy: elastyczną „pomoc” domową i&nbsp;robotników budowlanych.<b></b></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/rumiancewd-1920x-018.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/rumiancewd-330x-523.jpg 330w,assets/cache/images/issues/2018/20/sokolowska/rumiancewd-660x-eca.jpg 660w,assets/cache/images/issues/2018/20/sokolowska/rumiancewd-768x-ac4.jpg 768w,assets/cache/images/issues/2018/20/sokolowska/rumiancewd-1320x-7f9.jpg 1320w" src="assets/cache/images/issues/2018/20/sokolowska/rumiancewd-660x-eca.jpg" alt="" ></a>    <figcaption><p>Daniel Rumiancew, <em>Prototypy banknotów</em>, 2015. Wydruki atramentowe. Dzięki uprzejmości artysty</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Prace na&nbsp;wystawie nie proponują spójnego programu oryginalnych i&nbsp;kompleksowych rozwiązań dla ekonomii opieki. Łączy je jednak przekonanie o&nbsp;konieczności zerwania z&nbsp;reprodukcją więzi społecznych za&nbsp;pomocą „taniej natury”. Część artystek podejmuje na&nbsp;nowo kwestię współczesnej opieki jako pracy wymagającej dowartościowania w&nbsp;kontekście ekonomii monetarnej, niektórym natomiast bliższe są poszukiwania zmiany społecznej za&nbsp;sprawą troski o&nbsp;relacje międzyludzkie i&nbsp;międzygatunkowe na&nbsp;wspólnej Ziemi; o&nbsp;relacje, które przekraczają paradygmat zachodnich tradycji materializmu. Na&nbsp;wystawie starałam się zasygnalizować, że&nbsp;są to postawy niewykluczające się, tak jak podział na&nbsp;to, co materialne, i&nbsp;to, co duchowe<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>.</p> <p>Niewidocznym, wykluczonym ekonomicznie i&nbsp;społecznie bohaterkom życia codziennego Daniel Rumiancew poświęcił <em>Prototypy banknotów</em>. Przedstawiają one osoby (cztery kobiety i&nbsp;jednego mężczyznę), które zrezygnowały z&nbsp;pracy najemnej lub nieodpłatnie poświęcają swój czas na&nbsp;emeryturze, żeby opiekować się zależnymi bliskimi niezdolnymi do samodzielnego funkcjonowania z&nbsp;powodu choroby, niepełnosprawności lub wieku. <em>Prototypy</em>, podobnie jak <em>Feministyczny manifest</em>, zakładają, że&nbsp;troska i&nbsp;opieka to fundamenty dobrego społeczeństwa i&nbsp;dlatego powinny być odpowiednio wynagradzane, a&nbsp;co za&nbsp;tym idzie społecznie szanowane, na&nbsp;co wskazują opisy i&nbsp;wyceny prac umieszczone na&nbsp;banknotach. Tytuł pracy Rumiancewa wyraża nadzieję, że&nbsp;to rozwiązania realne, czekające tylko na&nbsp;wprowadzenie wbrew obecnej deprecjacji tej pracy w&nbsp;Polsce i&nbsp;tradycji sadystycznego wymuszania, głównie na&nbsp;kobietach, samotnego, katolickiego w&nbsp;duchu poświęcenia dla rodziny. Nowy wydźwięk nadają pracy aktualne wydarzenia polityczne, czyli pogarda polskiego rządu wobec strajku opiekunek i&nbsp;opiekunów osób niepełnosprawnych walczących o&nbsp;wynagrodzenia i&nbsp;świadczenia na&nbsp;znośniejsze życie poza domowym odosobnieniem (główne postulaty to zwiększenie renty socjalnej i&nbsp;przyznanie dodatku rehabilitacyjnego dla osób ze znacznym stopniem niepełnosprawności)<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>. <a href="BoudryD.jpg"></a><b></b></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/boudryd-1920x-7d3.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/boudryd-330x-172.jpg 330w,assets/cache/images/issues/2018/20/sokolowska/boudryd-660x-317.jpg 660w,assets/cache/images/issues/2018/20/sokolowska/boudryd-768x-97a.jpg 768w,assets/cache/images/issues/2018/20/sokolowska/boudryd-1320x-c69.jpg 1320w" src="assets/cache/images/issues/2018/20/sokolowska/boudryd-660x-317.jpg" alt="" ></a>    <figcaption><p>Pauline Boudry / Renate Lorenz, <em>Urocza dla rewolucji</em> [<em>Charming for the Revolution</em>], 2009. Kadr filmu 16 mm przeniesionego na&nbsp;DVD. Kolekcja Muzeum Sztuki w&nbsp;Łodzi</p></figcaption>   </figure>  </section><section class="u-typo">   <p><a href="BoudryD.jpg"></a>W odpowiedzi na&nbsp;strukturalny wyzysk współczesnej pracy Pauline Boudry i&nbsp;Renate Lorenz podejmują niektóre postulaty ruchu <em>Płace za&nbsp;pracę domową</em>, proponując w&nbsp;filmie <em>Urocza dla rewolucji</em> (2009) mobilizację „armii gospodyń domowych” do odmowy świadczenia pracy i&nbsp;jakichkolwiek usług reprodukcyjnych. Ich manifest w&nbsp;kłirowej i&nbsp;kampowej konwencji wykonuje znany na&nbsp;berlińskiej scenie drag performer Werner Hirsch. Nawołuje on do uniwersalizacji mniejszościowej solidarności, wynikającej z&nbsp;rozpoznania, że&nbsp;wszystkie jesteśmy marginalizowanymi, zdegradowanymi żonami i&nbsp;gospodyniami domowymi wobec „białego heteroseksualnego mężczyzny zwanego «rynkiem»”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>.</p> <p>Kierunek (upragnionej) przemiany wartości społecznych w&nbsp;oparciu o&nbsp;troskę w&nbsp;wymiarze ekologicznym sygnalizowały na&nbsp;wystawie prace Teresy Murak i&nbsp;Agnieszki Brzeżańskiej. W&nbsp;cyklu performansów <em>Ścierki wizytek </em>z końca lat 80. i&nbsp;początku 90. Teresa Murak używała starych ścierek z&nbsp;warszawskiego zakonu wizytek do odtwarzania pracy czyszczenia podłóg w&nbsp;różnych przestrzeniach publicznych. W&nbsp;skrawkach ścierek siała rzeżuchę – chrześcijański symbol nowego życia, którego znaczenie poszerzała o&nbsp;pierwiastek kultywacji wszelkich jego przejawów w&nbsp;przyrodzie.<b></b></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/mud-1920x-6bc.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/mud-330x-b61.jpg 330w,assets/cache/images/issues/2018/20/sokolowska/mud-660x-578.jpg 660w,assets/cache/images/issues/2018/20/sokolowska/mud-768x-d82.jpg 768w,assets/cache/images/issues/2018/20/sokolowska/mud-1320x-e7d.jpg 1320w" src="assets/cache/images/issues/2018/20/sokolowska/mud-660x-578.jpg" alt="" ></a>    <figcaption><p>Teresa Murak, <em>Ścierki wizytek</em>, 1990. Dokumentacja performansu, Hotel Sztuki, 1990. Dzięki uprzejmości artystki</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Ze zmianą paradygmatu patriarchalnego podboju Ziemi i&nbsp;służącego mu linearnego ujęcia czasu współbrzmi także twórczość Agnieszki Brzeżańskiej. Jej cykle <em>Jawia</em> i&nbsp;<em>Honomeia</em> (2014) są wyrazem poszukiwań formy dla złożoności, plastyczności i&nbsp;przepływów procesów zachodzących w&nbsp;materii ujętej w&nbsp;różnych stanach oraz cyklach życia i&nbsp;rozkładu. Brzeżańska odnosi się także do matriarchalnych spekulacji o&nbsp;przeszłości i&nbsp;horyzontach ludzkich cywilizacji, w&nbsp;których zjawiska z&nbsp;dalekiej przeszłości powracają jako doświadczenie teraźniejszości. Praca z&nbsp;wyobraźnią i&nbsp;wrażliwością ekologiczną, do której zaprasza twórczość Agnieszki Brzeżańskiej i&nbsp;Teresy Murak, prowokuje pytania o&nbsp;odczuwanie Ziemi jako poszerzonego gospodarstwa domowego. Współbrzmią one z&nbsp;przywróceniem ekonomii jej greckiego członu <em>oikos</em>,<em> </em>czyli „domu” dzielonego ze słowem „ekologia”. W&nbsp;takim ujęciu Ziemia wraz ze współistniejącymi z&nbsp;nią mieszkankami nie jest niewyczerpanym, tanim zasobem, a&nbsp;dom przestaje być miejscem patriarchalnej władzy. I&nbsp;choć nie wiemy jeszcze, gdzie i&nbsp;jak w&nbsp;tej historii objawi się przemoc, to istnieje szansa, że&nbsp;w&nbsp;miejsce ideologii wąsko pojmowanego wzrostu rozkwitnie zintegrowana kultywacja i&nbsp;troska o&nbsp;relacje między różnymi formami i&nbsp;stanami życia.<b></b></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/sokolowska/brzezd-1920x-d89.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/sokolowska/brzezd-333x-864.jpg 333w,assets/cache/images/issues/2018/20/sokolowska/brzezd-666x-e70.jpg 666w,assets/cache/images/issues/2018/20/sokolowska/brzezd-1332x-9f4.jpg 1332w" src="assets/cache/images/issues/2018/20/sokolowska/brzezd-666x-e70.jpg" alt="" ></a>    <figcaption><p>Agnieszka Brzeżańska, praca z&nbsp;cyklu <em>Honomeia</em>, 2014. Druk na&nbsp;papierze bawełnianym. Dzięki uprzejmości artystki</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b> Artykuł jest nieco zmienioną polskojęzyczną wersją wstępu do komentującej wystawę książki <em>Wszyscy ludzie będą siostrami</em> (<em>All Men Become Sisters</em>), która ukaże się pod&nbsp;redakcją Joanny Sokołowskiej (Muzeum Sztuki, Łódź–Sternberg Press, Berlin 2018).</b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><h2></h2>
+<p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Zob. omówienia wystawy: Monika Borys, <em>Tkaczki siostrzeństwa</em>, „Widok. Teorie i Praktyki Kultury Wizualnej” 2015, nr 10, <a href="http://pismowidok.org/index.php/one/article/view/297/569" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/article/view/297/569</a>, dostęp 15 września 2018; Joanna Bednarek, <em>Wynaleźć feminizm na nowo</em>, „Praktyka Teoretyczna” z 29 lutego 2016, <a href="http://www.praktykateoretyczna.pl/joanna-bednarek-wynalezc-feminizm-na-nowo/" target="_blank" rel="noopener">http://www.praktykateoretyczna.pl/joanna-bednarek-wynalezc-feminizm-na-nowo/</a>, dostęp 15 września 2018.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Silvia Federici, <em>Wages against Housework</em> [Płace przeciw pracy domowej], druk ulotny, Power of Women Collective – The Falling Wall Press, Bristol 1975, s. 8. Cyt. za: „Caring Labor. An Archive” z 15 września 2010, <a href="https://caringlabor.wordpress.com/2010/09/15/silvia-federici-wages-against-housework/" target="_blank" rel="noopener">https://caringlabor.wordpress.com/2010/09/15/silvia-federici-wages-against-housework/</a>, dostęp 3 lutego 2018.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Carla Lonzi, <em>Let’s Spit on Hegel</em> [Naplujmy na Hegla], przeł. V. Newman, w: <em>Italian Feminist Thought. A Reader</em>, red. P. Bono, S. Kemp, Blackwell Publishing, Oxford 1991, s. 36–61. Cyt. za: <a href="http://blogue.nt2.uqam.ca/hit/files/2012/12/Lets-Spit-on-Hegel-Carla-Lonzi.pdf" target="_blank" rel="noopener">http://blogue.nt2.uqam.ca/hit/files/2012/12/Lets-Spit-on-Hegel-Carla-Lonzi.pdf</a>, dostęp 10 marca 2018.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Zob. <em>The Feminist Avant-Garde of the 1970s. Works from the Sammlung Verbund</em>, katalog wystawy, red. G. Schor, Prestel, Munich 2016.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Więcej o twórczości jako maszynie zob. Gilles Deleuze, Félix Guattari, <em>Kafka. </em><em>Ku literaturze mniejszej</em>, przeł. A.Z. Jaksender, K.M. Jaksender, Znak, Kraków 2016; Simon O’Sullivan, <em>Art Encounters. Deleuze and Guattari. Thought Beyond Representation</em>, Palgrave MacMillan, London 2006.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> O literaturze mniejszej zob. Gilles Deleuze, Félix Guattari, <em>Kafka...</em>; o liniach kobiecości jako jednej z sił minoryzujących dwudziestowieczną literaturę i filozofię zob. Joanna Bednarek<em>, Linie kobiecości. Jak różnica płciowa przekształciła literaturę i filozofię?</em>, Fundacja na rzecz myślenia im. Barbary Skargi, Warszawa 2015.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Metafora ta była bliska także twórczości Carli Lonzi. Zob. Giovanna Zapperi w rozmowie z Federicą Bueti <em>Finding Resonances with Carla Lonzi</em>, „Makhzin” 2015, nr 2, <a href="http://www.makhzin.org/issues/feminisms/finding-resonances-with-carla-lonzi" target="_blank" rel="noopener">http://www.makhzin.org/issues/feminisms/finding-resonances-with-carla-lonzi</a>, dostęp 4 maja 2018.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Więcej na ten temat zob. Daniel Muzyczuk<em>, Między aktualnością a anachronizmem</em>, „Szum” z 26 stycznia 2018, <a href="https://magazynszum.pl/awangarda/" target="_blank" rel="noopener">https://magazynszum.pl/awangarda/</a>, dostęp 27 czerwca 2018; Joanna Sokołowska, <em>Bezpowrotna przeszłość. O aktualizacji awangardy</em>, w: <em>Muzeum Sztuki w Łodzi. Monografia</em>, tom II, red. D. Muzyczuk, M. Ziółkowska, Muzeum Sztuki w Łodzi, Łódź 2015, s. 242–275.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Zob. Luise F. Pusch, <em>Alle Menschen werden Schwestern</em><em>. </em><em>Feministische</em><em> Sprachkritik</em>, Suhrkamp Verlag, Berlin 1990.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Spośród licznych źródeł inspirujące dla mnie były przede wszystkim: film Görana Olssona poświęcony Franzowi Fanonowi <em> Concerning Violence</em> (2014), wystawa <em>Animism</em> kuratorowana przez Anselma Franke w Haus der Kulturen der Welt w Berlinie (2012); książki: Silvia Federici, <em>Caliban and the Witch. Women, the Body and Primitive Accumulation</em>, Autonomedia, New York 2004; Susan Buck-Morss, <em>Hegel, Haiti i historia uniwersalna</em>, przeł. K. Bojarska, Wydawnictwo Krytyki Politycznej, Warszawa 2014. </p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Cincia Arruzza, <em>Capitalism and the Conflict over Universality. A Feminist Perspective</em>, „Philosophy Today” 2017, nr 4. Moje odniesienie do tego tekstu wynika z lektury Mariny Vishmidt, zob. eadem, <em>Marna imitacja produkcji. Feministyczne dzieło sztuki na taśmie reprodukcji społecznej</em>, przeł. Ł. Mojsak, w: <em>Wszyscy ludzie będą siostrami</em>, red. J. Sokołowska, Muzeum Sztuki w Łódzi – Sternberg Press, Berlin 2018. Podobną perspektywę przyjmuje Joanna Bednarek, <em>Opowieści o początku. Źródła płciowego podziału pracy a polityka feministyczna</em>, w: <em>Wszyscy ludzie będą siostrami</em>...</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Zob. m.in. bell hooks, <em>Teoria feministyczna. Od marginesu do centrum</em>, przeł. E. Majewska, Wydawnictwo Krytyki Politycznej, Warszawa 2013.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Teorie te dokładnie analizuje Marina Vishmidt, <em>The Two Reproductions in (Feminist) Art and Theory since the 1970s</em>, „Third Text” 2017, t. 31, nr 1, s. 49–66. </p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Zob. więcej: Joanna Bednarek, <em>Opowieści o początku</em>...</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Zob. m.in. niepokazywany na wystawie <em>The Final Project</em>, 1991–1992, strona Jo Spence, <a href="http://www.jospence.org/final_project/final_project_thumbs.html" target="_blank" rel="noopener">http://www.jospence.org/final_project/final_project_thumbs.html</a>, dostęp 15 września 2018.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>O praktykach i teorii denaturalizacji płci, mistyki macierzyństwa i opieki zob. artykuł Mariny Vishmidt, <em>The Two Reproductions in (Feminist) Art and Theory...</em></p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Film ten jest podstawowym dziełem do analizy estetycznych strategii zaangażowania sztuki feministycznej lat 70. w kwestie reprodukcji społecznej. Zob. Siona Wilson, <em>Feministyczna economimesis. Estetyczne strategie reprodukcji społecznej w latach 70.</em>, przeł. Ł. Mojsak, w:<em> Wszyscy ludzie będą siostrami... </em></p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Wcześniejsze strajki głodowe w Łodzi odbyły się w lutym 1971 roku. Zgromadziły w sumie około 55 tysięcy osób. Strajk głodowy 30 lipca 1981 roku przeszedł ulicą Piotrkowską, maszerowały w nim głównie kobiety z dziećmi. Według różnych szacunków zgromadził od 20 do 100 tysięcy osób. Zob. Anna Gronczewska, <em>Marsz głodowy Piotrkowską</em>, „Dziennik Łódzki” z 20 sierpnia 2010, <a href="http://www.dzienniklodzki.pl/artykul/296928,marsz-glodowy-piotrkowska,id,t.html" target="_blank" rel="noopener">http://www.dzienniklodzki.pl/artykul/296928,marsz-glodowy-piotrkowska,id,t.html</a>, dostęp 15 września 2018.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Chciałabym zaznaczyć, że w pracy nad wystawą nie dysponowałam ani środkami finansowymi, ani innymi strukturalnymi narzędziami umożliwiającymi zaproponowanie gruntownej narracji o bardziej zdekolonizowanym geopolitycznie zasięgu. Ten wymiar markowały jedynie prace problematyzujące przemieszczenie kwestii płci w globalnym podziale pracy. Wystawa nie zdążyła również uchwycić rosnącego w siłę siostrzeństwa i oddolnego, masowego ruchu feministycznego przeciw próbom zaostrzenia ustawy antyaborcyjnej przez rządy PiS, kształtującego się w Polsce wokół Czarnych Protestów. Celowo natomiast nie miała totalnych ambicji stworzenia opowieści o sztuce feministycznej ani w Polsce, ani globalnie.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Jason W. Moore, <em>Capitalism in the Web of Life. </em><em>Ecology and the Accumulation of Capital</em>, Verso, London 2015. Polskie tłumaczenie terminów Moore’a i omówienie książki – zob. Andrzej W. Nowak, <em>Ontologia oikeos – w stronę globalnej ekologii i ekonomii politycznej</em>, „Praktyka Teoretyczna” z 30 grudnia 2015, <a href="http://www.praktykateoretyczna.pl/andrzej-w-nowak-ontologia-oikeios-w-strone-globalnej-ekologii-i-ekonomii-politycznej/" target="_blank" rel="noopener">http://www.praktykateoretyczna.pl/andrzej-w-nowak-ontologia-oikeios-w-strone-globalnej-ekologii-i-ekonomii-politycznej/</a>, dostęp 19 września 2018.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Zob. m.in. Rosi Braidotti, <em>Po człowieku</em>, przeł. J. Bednarek, A. Kowalczyk, Wydawnictwo Naukowe PWN, Warszawa 2014; Naomi Oreskes, Erik Conway, <a href="http://cup.columbia.edu/book/the-collapse-of-western-civilization/9780231169547"><em>The Collapse of Western Civilization: A View from the Future</em></a>, Columbia University Press, New York 2014; Donna Haraway, <em>Tentacular Thinking: Anthropocene, Capitalocene, Chthulucene</em>, „e-flux” 2016, nr 75, <a href="https://www.e-flux.com/journal/75/67125/tentacular-thinking-anthropocene-capitalocene-chthulucene/">https://www.e-flux.com/journal/75/67125/tentacular-thinking-anthropocene-capitalocene-chthulucene/</a>, dostęp 20 września 2018.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Cytat ze scenariusza filmu Raqs Media Collective, <em>Kapitał akumulacji</em> (2010), przeł. Ł. Mojsak.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Zob. też tekst tych autorów o niewidocznych ogniwach łańcucha produkcji ubrań i protestach sfeminizowanej siły roboczej<em> Nieubrani do zdobywania: 01: Pożary</em>, w: <em>Wszyscy ludzie będą siostrami... </em></p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Zofia Łapniewska, <em>Troska, praca i roboty. Feministyczny manifest gospodarki przyszłości</em>, w: <em>Wszyscy ludzie będą siostrami...</em></p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Industrie 4.0. to wdrażany w Niemczech rządowo-korporacyjny program czwartej rewolucji przemysłowej polegający na radykalnej komputeryzacji produkcji przemysłowej, usług i organizacji pracy. Zob. <a href="https://www.plattform-i40.de/I40/Navigation/EN/Home/home.html." target="_blank" rel="noopener">https://www.plattform-i40.de/I40/Navigation/EN/Home/home.html, dostęp 15 września 2018.</a></p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> O współczesnym holistycznym, systemowym paradygmacie naukowym zob. m.in. Fritjof Capra, <em>The Web of Life: A New Scientific Understanding of Living Systems</em>, Anchor, New York 1996.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a>Protest rodziców osób niepełnosprawnych rozpoczął się w holu Sejmu 18 kwietnia i zakończył 27 maja 2018 roku. Więcej zob. Katarzyna Bierzanowska, <em>Na pogardliwy język, manipulacje i skłócanie ludzi odpowiedziano solidarnością. To nie był protest najsłabszych</em>, „OKO.press” z 2 lipca 2018, <a href="https://oko.press/na-pogardliwy-jezyk-manipulacje-i-sklocanie-ludzi-odpowiedziano-solidarnoscia-to-nie-byl-protest-najslabszych/" target="_blank" rel="noopener">https://oko.press/na-pogardliwy-jezyk-manipulacje-i-sklocanie-ludzi-odpowiedziano-solidarnoscia-to-nie-byl-protest-najslabszych/</a>, dostęp 20 września 2018.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>Pauline Boudry, Renate Lorenz, <em>Urocza dla rewolucji</em> (2009), przeł. Ł. Mojsak, w: <em>Wszyscy ludzie będą siostrami...</em></p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/20-2018-odmuzealnienie/maszyna-do-pracy-z-wyobraznia" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

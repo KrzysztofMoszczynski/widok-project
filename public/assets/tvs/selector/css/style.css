@@ -1,0 +1,22 @@
+div.Tokenize {
+    display: block;
+}
+div.Tokenize li:before { /* @FIX: MODX.Evo.Custom 1.2.1-d9.1.4 MODxRE2 DropdownMenu theme CSS */
+	content: '';
+}
+div.Tokenize ul.TokensContainer {
+    height:auto;
+    width:100%;
+}
+div.Tokenize ul.Dropdown {
+    width:auto;
+}
+div.Tokenize ul.TokensContainer li {
+    list-style: none!important;
+}
+div.Tokenize ul.TokensContainer li a {
+    text-decoration: none!important;
+}
+div.Tokenize ul.TokensContainer li.Token, div.Tokenize ul.TokensContainer li.TokenSearch {
+    margin-bottom:5px;
+}

@@ -1,0 +1,581 @@
+O:9:"MagpieRSS":24:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:10:{i:0;a:8:{s:5:"title";s:20:"Evolution CMS 3.0RC2";s:4:"link";s:62:"https://github.com/evolution-cms/evolution/releases/tag/3.0RC2";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Sat, 31 Oct 2020 08:36:38 PDT";s:4:"guid";s:46:"tag:github.com,2008:Repository/12320050/3.0RC2";s:11:"description";s:2614:"<p>Evolution CMS 3.0 RC2</p>
+<h2>More and more new features for Evo 3</h2>
+<ul>
+<li>Laravel routing for ajax or custom routing with Validator, Request, Response</li>
+<li>Merge Webusers and Managers to Users</li>
+<li>Full refactor work with Users and Roles</li>
+<li>Rewrite langs on Laravel Style</li>
+<li>Optimization of speed</li>
+<li>Add console Extras</li>
+<li>Add console command for full cache clear</li>
+</ul>
+<h2>Users !!!</h2>
+<p>After merge users, all old solutions for work with WebUsers need fix for work with new logic.<br>
+how work with users you can read here:<br>
+<a href="https://github.com/evolution-cms/docs/blob/master/ru/03_%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D1%83/06_DI_%D0%B2_Evolution_CMS/05_UserManager.md">https://github.com/evolution-cms/docs/blob/master/ru/03_Разработчику/06_DI_в_Evolution_CMS/05_UserManager.md</a></p>
+<h2>Laravel Routing</h2>
+<p><a href="https://gist.github.com/Dmi3yy/10e5a004bb77a72a4446ac1ad4c2d9ad">https://gist.github.com/Dmi3yy/10e5a004bb77a72a4446ac1ad4c2d9ad</a> (ru)<br>
+En will be in release version<br>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/669491/97441545-85929480-1931-11eb-9773-a5495f299e77.gif"><img src="https://user-images.githubusercontent.com/669491/97441545-85929480-1931-11eb-9773-a5495f299e77.gif" alt="evo3routes" style="max-width:100%;"></a></p>
+<h2>Console Extras</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/669491/97783096-1a012f00-1b9e-11eb-8264-d315cbdca75f.gif"><img src="https://user-images.githubusercontent.com/669491/97783096-1a012f00-1b9e-11eb-8264-d315cbdca75f.gif" alt="IMG_9843" style="max-width:100%;"></a></p>
+<h2>Evolution CMS Speed</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/669491/97783107-27b6b480-1b9e-11eb-82c8-5ec73de1a4b0.png"><img width="337" alt="evo2_vs_evo3" src="https://user-images.githubusercontent.com/669491/97783107-27b6b480-1b9e-11eb-82c8-5ec73de1a4b0.png" style="max-width:100%;"></a></p>
+<h2>Upgrade from older versions</h2>
+<ol>
+<li>You need upgrade to 2.0.3 version</li>
+<li>Get script <strong>prepareToUpdateFrom2To3Evo</strong><br>
+Link: <a href="https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo">https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo</a>, or in Extras</li>
+<li>Run script on your site by url <strong>sitename</strong> /assets/updater.php</li>
+</ol>
+<p>The release version will contain a full description of the changes with examples of how to use it.</p>";s:7:"summary";s:2614:"<p>Evolution CMS 3.0 RC2</p>
+<h2>More and more new features for Evo 3</h2>
+<ul>
+<li>Laravel routing for ajax or custom routing with Validator, Request, Response</li>
+<li>Merge Webusers and Managers to Users</li>
+<li>Full refactor work with Users and Roles</li>
+<li>Rewrite langs on Laravel Style</li>
+<li>Optimization of speed</li>
+<li>Add console Extras</li>
+<li>Add console command for full cache clear</li>
+</ul>
+<h2>Users !!!</h2>
+<p>After merge users, all old solutions for work with WebUsers need fix for work with new logic.<br>
+how work with users you can read here:<br>
+<a href="https://github.com/evolution-cms/docs/blob/master/ru/03_%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D1%83/06_DI_%D0%B2_Evolution_CMS/05_UserManager.md">https://github.com/evolution-cms/docs/blob/master/ru/03_Разработчику/06_DI_в_Evolution_CMS/05_UserManager.md</a></p>
+<h2>Laravel Routing</h2>
+<p><a href="https://gist.github.com/Dmi3yy/10e5a004bb77a72a4446ac1ad4c2d9ad">https://gist.github.com/Dmi3yy/10e5a004bb77a72a4446ac1ad4c2d9ad</a> (ru)<br>
+En will be in release version<br>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/669491/97441545-85929480-1931-11eb-9773-a5495f299e77.gif"><img src="https://user-images.githubusercontent.com/669491/97441545-85929480-1931-11eb-9773-a5495f299e77.gif" alt="evo3routes" style="max-width:100%;"></a></p>
+<h2>Console Extras</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/669491/97783096-1a012f00-1b9e-11eb-8264-d315cbdca75f.gif"><img src="https://user-images.githubusercontent.com/669491/97783096-1a012f00-1b9e-11eb-8264-d315cbdca75f.gif" alt="IMG_9843" style="max-width:100%;"></a></p>
+<h2>Evolution CMS Speed</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/669491/97783107-27b6b480-1b9e-11eb-82c8-5ec73de1a4b0.png"><img width="337" alt="evo2_vs_evo3" src="https://user-images.githubusercontent.com/669491/97783107-27b6b480-1b9e-11eb-82c8-5ec73de1a4b0.png" style="max-width:100%;"></a></p>
+<h2>Upgrade from older versions</h2>
+<ol>
+<li>You need upgrade to 2.0.3 version</li>
+<li>Get script <strong>prepareToUpdateFrom2To3Evo</strong><br>
+Link: <a href="https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo">https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo</a>, or in Extras</li>
+<li>Run script on your site by url <strong>sitename</strong> /assets/updater.php</li>
+</ol>
+<p>The release version will contain a full description of the changes with examples of how to use it.</p>";s:14:"date_timestamp";i:1604158598;}i:1;a:8:{s:5:"title";s:20:"Evolution CMS 3.0 RC";s:4:"link";s:61:"https://github.com/evolution-cms/evolution/releases/tag/3.0RC";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Thu, 01 Oct 2020 08:54:38 PDT";s:4:"guid";s:45:"tag:github.com,2008:Repository/12320050/3.0RC";s:11:"description";s:1633:"<p>Evolution CMS 3.0 RC</p>
+<p>We continue developing and implementing new ideas in Evolution CMS, started in the 2.0 branch to reach even greater possibilities and convenience in working with CMS.</p>
+<h2>What's new?</h2>
+<ul>
+<li>PostgreSQL support</li>
+<li>Redis sessions support</li>
+<li>Install/Update by migrations</li>
+<li>Install/Update by CLI</li>
+<li>Docker support</li>
+<li>Controllers support in core</li>
+<li>Closure Table</li>
+<li>DLSiteContent</li>
+<li>Remove from core unused elements (Messages, Import, Export)</li>
+<li>Move to Extras (DocLister, DocInfo, Summary, Phpthumb, DLCrumb, DLMenu, DLSitemap, FormLister, If, Doc Manager, ElementInTree, FileSource, Quick Manager+)</li>
+<li>Remove Demo site</li>
+<li>Add new fields to WebUsers (last_name, middle_name)</li>
+<li>Create \helpers::phpthumb ({{\Helper::phpThumb('assets/images/evo-logo.png', 'w=150,h=76,far=C,bg=FFFFFF')}})</li>
+<li>Tracy add new type (manager/admin/adminfrontonly/managerfrontonly)</li>
+<li>Refactor Tracy dump and bdump functions for show all depth of data</li>
+<li>Add cache to get documentObject</li>
+</ul>
+<h2>Upgrade from older versions</h2>
+<ol>
+<li>
+<p>You need upgrade to 2.0.3 version</p>
+</li>
+<li>
+<p>Get script <strong>prepareToUpdateFrom2To3Evo</strong><br>
+Link: <a href="https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo">https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo</a>, or in Extras</p>
+</li>
+<li>
+<p>Run script on your site by url <strong>sitename</strong> /assets/updater.php</p>
+</li>
+</ol>
+<p>The release version will contain a full description of the changes with examples of how to use it.</p>";s:7:"summary";s:1633:"<p>Evolution CMS 3.0 RC</p>
+<p>We continue developing and implementing new ideas in Evolution CMS, started in the 2.0 branch to reach even greater possibilities and convenience in working with CMS.</p>
+<h2>What's new?</h2>
+<ul>
+<li>PostgreSQL support</li>
+<li>Redis sessions support</li>
+<li>Install/Update by migrations</li>
+<li>Install/Update by CLI</li>
+<li>Docker support</li>
+<li>Controllers support in core</li>
+<li>Closure Table</li>
+<li>DLSiteContent</li>
+<li>Remove from core unused elements (Messages, Import, Export)</li>
+<li>Move to Extras (DocLister, DocInfo, Summary, Phpthumb, DLCrumb, DLMenu, DLSitemap, FormLister, If, Doc Manager, ElementInTree, FileSource, Quick Manager+)</li>
+<li>Remove Demo site</li>
+<li>Add new fields to WebUsers (last_name, middle_name)</li>
+<li>Create \helpers::phpthumb ({{\Helper::phpThumb('assets/images/evo-logo.png', 'w=150,h=76,far=C,bg=FFFFFF')}})</li>
+<li>Tracy add new type (manager/admin/adminfrontonly/managerfrontonly)</li>
+<li>Refactor Tracy dump and bdump functions for show all depth of data</li>
+<li>Add cache to get documentObject</li>
+</ul>
+<h2>Upgrade from older versions</h2>
+<ol>
+<li>
+<p>You need upgrade to 2.0.3 version</p>
+</li>
+<li>
+<p>Get script <strong>prepareToUpdateFrom2To3Evo</strong><br>
+Link: <a href="https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo">https://github.com/evolution-cms/prepareToUpdateFrom2To3Evo</a>, or in Extras</p>
+</li>
+<li>
+<p>Run script on your site by url <strong>sitename</strong> /assets/updater.php</p>
+</li>
+</ol>
+<p>The release version will contain a full description of the changes with examples of how to use it.</p>";s:14:"date_timestamp";i:1601567678;}i:2;a:8:{s:5:"title";s:19:"Evolution CMS 2.0.3";s:4:"link";s:61:"https://github.com/evolution-cms/evolution/releases/tag/2.0.3";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Sun, 09 Aug 2020 14:25:50 PDT";s:4:"guid";s:45:"tag:github.com,2008:Repository/12320050/2.0.3";s:11:"description";s:680:"<p>Most Important changes:</p>
+<ul>
+<li>Update DocLister (Dmi3yy)</li>
+<li>Update Formlister to 1.12.1 (Pathologic)</li>
+<li>Add ukrainian lang (Dmi3yy)</li>
+<li>fix webp rules for phpthumb (bug in chrome on mac and ios) (Dmi3yy)</li>
+<li>Up phpmailer version (Dmi3yy)</li>
+<li>Update PhpCompat.php (zatomant)</li>
+<li>Fix getConfig in manager (Dzhuryn Volodymyr)</li>
+<li>Fix Syntax error in mysql 8 (Kamil)</li>
+<li>Fix bug with empty snippet (Dzhuryn Volodymyr)</li>
+<li>Optimize backup manager evo 2.0 (Dzhuryn Volodymyr)</li>
+<li>Fix lost plugin events on install (Pathologic)</li>
+<li>Fix composer conflict version (Ser1ous)</li>
+<li>Add OnLogEvent event (Dmi3yy)</li>
+</ul>";s:7:"summary";s:680:"<p>Most Important changes:</p>
+<ul>
+<li>Update DocLister (Dmi3yy)</li>
+<li>Update Formlister to 1.12.1 (Pathologic)</li>
+<li>Add ukrainian lang (Dmi3yy)</li>
+<li>fix webp rules for phpthumb (bug in chrome on mac and ios) (Dmi3yy)</li>
+<li>Up phpmailer version (Dmi3yy)</li>
+<li>Update PhpCompat.php (zatomant)</li>
+<li>Fix getConfig in manager (Dzhuryn Volodymyr)</li>
+<li>Fix Syntax error in mysql 8 (Kamil)</li>
+<li>Fix bug with empty snippet (Dzhuryn Volodymyr)</li>
+<li>Optimize backup manager evo 2.0 (Dzhuryn Volodymyr)</li>
+<li>Fix lost plugin events on install (Pathologic)</li>
+<li>Fix composer conflict version (Ser1ous)</li>
+<li>Add OnLogEvent event (Dmi3yy)</li>
+</ul>";s:14:"date_timestamp";i:1597008350;}i:3;a:8:{s:5:"title";s:19:"Evolution CMS 2.0.2";s:4:"link";s:61:"https://github.com/evolution-cms/evolution/releases/tag/2.0.2";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Fri, 13 Mar 2020 07:07:13 PDT";s:4:"guid";s:45:"tag:github.com,2008:Repository/12320050/2.0.2";s:11:"description";s:2179:"<p>Changelog:</p>
+<ul>
+<li>[GitHub:#c2ba16eaf] - update core vendor (Dmi3yy)</li>
+<li>[GitHub:#f6d0b38e9] - update DocLister to 2.5.2 (Dmi3yy)</li>
+<li>[GitHub:#5ef199e39] - update FormLister to 1.10.3 (Dmi3yy)</li>
+<li>[GitHub:#55455f34e] - Fix "New Folder" icon (Sasha Beep)</li>
+<li>[GitHub:#d195ec024] - [F] init some properties (Pathologic)</li>
+<li>[GitHub:#2498b78a6] - core (fix) Send new manager pass by mail. (Ser1ous)</li>
+<li>[GitHub:#44da6253f] - fixing icons (Sasha Beep)</li>
+<li>[GitHub:#94325e240] - core (fix) add limit for search path (Ser1ous)</li>
+<li>[GitHub:#076261f7e] - turn off check connect to server, need rewrite (Dmi3yy)</li>
+<li>[GitHub:#3afdc6398] - fix wrong config path (mnoskov)</li>
+<li>[GitHub:#0641c0377] - fix getting installed pluing (mnoskov)</li>
+<li>[GitHub:#616dff82b] - keep plugin events priority on cms update (mnoskov)</li>
+<li>[GitHub:#ee4112953] - keep priority on pluing update (mnoskov)</li>
+<li>[GitHub:#d5cbaf115] - keep priority on pluing update (mnoskov)</li>
+<li>[GitHub:#4be2e330d] - fix mistake in getChildIds core function (ashmatko)</li>
+<li>[GitHub:#96d56e82c] - core (add) add SMTPAutoTLS options (Ser1ous)</li>
+<li>[GitHub:#bdb9945fc] - Fixed missing translation (luigif)</li>
+<li>[GitHub:#e2d6b02f5] - Allow empty namespace for snippets and chunks (mnoskov)</li>
+<li>[GitHub:#b456edc93] - Remove check child directory (Ser1ous)</li>
+<li>[GitHub:#b96ca08e6] - Update Parser.php (mnoskov)</li>
+<li>[GitHub:#418aa4f0a] - Update Core.php (mnoskov)</li>
+<li>[GitHub:#753742fd4] - [F] check this-&gt;placeholder on empty (mnoskov)</li>
+<li>[GitHub:#04dc7f2c5] - FIX php notice (milkamil93)</li>
+<li>[GitHub:#1b5f3f81b] - Fix enable_cache (Kamil)</li>
+<li>[GitHub:#ad23c0acd] - add Redis support (Pathologic)</li>
+<li>[GitHub:#566dd1e25] - by default auto_template_logic == sibling (Dmi3yy)</li>
+<li>[GitHub:#3f4dacec3] - fix for nested snippet work with PHx (Dmi3yy)</li>
+<li>[GitHub:#e28aefa9f] - core (fix) Fix composer.json version dotenv (Ser1ous)</li>
+<li>[GitHub:#58c90bf96] - core (fix) Fix composer.json version doting (Ser1ous)</li>
+<li>[GitHub:#beb0df101] - manager (fix) fix params plugin (Serious)</li>
+</ul>";s:7:"summary";s:2179:"<p>Changelog:</p>
+<ul>
+<li>[GitHub:#c2ba16eaf] - update core vendor (Dmi3yy)</li>
+<li>[GitHub:#f6d0b38e9] - update DocLister to 2.5.2 (Dmi3yy)</li>
+<li>[GitHub:#5ef199e39] - update FormLister to 1.10.3 (Dmi3yy)</li>
+<li>[GitHub:#55455f34e] - Fix "New Folder" icon (Sasha Beep)</li>
+<li>[GitHub:#d195ec024] - [F] init some properties (Pathologic)</li>
+<li>[GitHub:#2498b78a6] - core (fix) Send new manager pass by mail. (Ser1ous)</li>
+<li>[GitHub:#44da6253f] - fixing icons (Sasha Beep)</li>
+<li>[GitHub:#94325e240] - core (fix) add limit for search path (Ser1ous)</li>
+<li>[GitHub:#076261f7e] - turn off check connect to server, need rewrite (Dmi3yy)</li>
+<li>[GitHub:#3afdc6398] - fix wrong config path (mnoskov)</li>
+<li>[GitHub:#0641c0377] - fix getting installed pluing (mnoskov)</li>
+<li>[GitHub:#616dff82b] - keep plugin events priority on cms update (mnoskov)</li>
+<li>[GitHub:#ee4112953] - keep priority on pluing update (mnoskov)</li>
+<li>[GitHub:#d5cbaf115] - keep priority on pluing update (mnoskov)</li>
+<li>[GitHub:#4be2e330d] - fix mistake in getChildIds core function (ashmatko)</li>
+<li>[GitHub:#96d56e82c] - core (add) add SMTPAutoTLS options (Ser1ous)</li>
+<li>[GitHub:#bdb9945fc] - Fixed missing translation (luigif)</li>
+<li>[GitHub:#e2d6b02f5] - Allow empty namespace for snippets and chunks (mnoskov)</li>
+<li>[GitHub:#b456edc93] - Remove check child directory (Ser1ous)</li>
+<li>[GitHub:#b96ca08e6] - Update Parser.php (mnoskov)</li>
+<li>[GitHub:#418aa4f0a] - Update Core.php (mnoskov)</li>
+<li>[GitHub:#753742fd4] - [F] check this-&gt;placeholder on empty (mnoskov)</li>
+<li>[GitHub:#04dc7f2c5] - FIX php notice (milkamil93)</li>
+<li>[GitHub:#1b5f3f81b] - Fix enable_cache (Kamil)</li>
+<li>[GitHub:#ad23c0acd] - add Redis support (Pathologic)</li>
+<li>[GitHub:#566dd1e25] - by default auto_template_logic == sibling (Dmi3yy)</li>
+<li>[GitHub:#3f4dacec3] - fix for nested snippet work with PHx (Dmi3yy)</li>
+<li>[GitHub:#e28aefa9f] - core (fix) Fix composer.json version dotenv (Ser1ous)</li>
+<li>[GitHub:#58c90bf96] - core (fix) Fix composer.json version doting (Ser1ous)</li>
+<li>[GitHub:#beb0df101] - manager (fix) fix params plugin (Serious)</li>
+</ul>";s:14:"date_timestamp";i:1584108433;}i:4;a:8:{s:5:"title";s:20:"Evolution CMS 1.4.11";s:4:"link";s:62:"https://github.com/evolution-cms/evolution/releases/tag/1.4.11";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Fri, 13 Mar 2020 06:04:45 PDT";s:4:"guid";s:46:"tag:github.com,2008:Repository/12320050/1.4.11";s:11:"description";s:3094:"<p>From the most interesting:</p>
+<ul>
+<li>update backup manager,  work faster and can backup bigest db</li>
+<li>fix duplication of events that appeared in 1.4.10</li>
+</ul>
+<p>Changelog:</p>
+<ul>
+<li>[GitHub:#6f67301ba] - Update DocLister to 2.5.2 (Dmi3yy)</li>
+<li>[GitHub:#8d5b31b1f] - Update FormLister to 1.10.3 (Dmi3yy)</li>
+<li>[GitHub:#6e491904a] - fix keep plugins priority (mnoskov)</li>
+<li>[GitHub:#0859d1062] - fix getting installed plugin (mnoskov)</li>
+<li>[GitHub:#376d7f57c] - fix getting previous events (mnoskov)</li>
+<li>[GitHub:#449e8160e] - update instprocessor.php (mnoskov)</li>
+<li>[GitHub:#1883666e4] - update bk manager (dzhuryn)</li>
+<li>[GitHub:#acc871ecb] - fix nested snippet 100-&gt;200 (Dmytro Lukianenko)</li>
+<li>[GitHub:#6f7ad2534] - fix Update russian.php (projkin)</li>
+<li>[GitHub:#e4c47375d] - fix remove event name duplicates (Pathologic)</li>
+<li>[GitHub:#425b623f8] - fix for nested snippet work with PHx (Dmi3yy)</li>
+<li>[GitHub:#21ae71665] - fix(forms.css): fixed height input (Serg)</li>
+<li>[GitHub:#7c44e274c] - fix(forms.css) changed height inputs (Serg)</li>
+<li>[GitHub:#f3be07dd7] - Fix missing panel toggle arrows (Mr B)</li>
+<li>[GitHub:#29f80ce9a] - Fix tree icon for private resource (Mr B)</li>
+<li>[GitHub:#6c5f69caa] - fix(modx.js): remove loader with locked resource (Serg)</li>
+<li>[GitHub:#787bf71c4] - fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="522757815" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1261" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1261/hovercard" href="https://github.com/evolution-cms/evolution/issues/1261">#1261</a> mcpuk browser missing icons (Nicola)</li>
+<li>[GitHub:#53ec9444f] - Fix right arrow icon before element description (Sasha Beep)</li>
+<li>[GitHub:#d1a4f2e83] - fix demo site install (Pathologic)</li>
+<li>[GitHub:#22713e57e] - fix(modx.js): remove jQuery variable (Serg)</li>
+<li>[GitHub:#f5079d97f] - feat(modx.js): remove jQuery methods (Serg)</li>
+<li>[GitHub:#0fbd46f2a] - feat(modx.js): remove jQuery animate (Serg)</li>
+<li>[GitHub:#3a864cbc9] - fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="519253267" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1246" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1246/hovercard" href="https://github.com/evolution-cms/evolution/issues/1246">#1246</a> (kivamp)</li>
+<li>[GitHub:#e08a7f971] - Fix fullscreen tinymce hiding buttons (Mr B)</li>
+<li>[GitHub:#8bcf79aa7] - fix icon in tree when move <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="483762789" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1167" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1167/hovercard" href="https://github.com/evolution-cms/evolution/issues/1167">#1167</a> (Dmi3yy)</li>
+</ul>";s:7:"summary";s:3094:"<p>From the most interesting:</p>
+<ul>
+<li>update backup manager,  work faster and can backup bigest db</li>
+<li>fix duplication of events that appeared in 1.4.10</li>
+</ul>
+<p>Changelog:</p>
+<ul>
+<li>[GitHub:#6f67301ba] - Update DocLister to 2.5.2 (Dmi3yy)</li>
+<li>[GitHub:#8d5b31b1f] - Update FormLister to 1.10.3 (Dmi3yy)</li>
+<li>[GitHub:#6e491904a] - fix keep plugins priority (mnoskov)</li>
+<li>[GitHub:#0859d1062] - fix getting installed plugin (mnoskov)</li>
+<li>[GitHub:#376d7f57c] - fix getting previous events (mnoskov)</li>
+<li>[GitHub:#449e8160e] - update instprocessor.php (mnoskov)</li>
+<li>[GitHub:#1883666e4] - update bk manager (dzhuryn)</li>
+<li>[GitHub:#acc871ecb] - fix nested snippet 100-&gt;200 (Dmytro Lukianenko)</li>
+<li>[GitHub:#6f7ad2534] - fix Update russian.php (projkin)</li>
+<li>[GitHub:#e4c47375d] - fix remove event name duplicates (Pathologic)</li>
+<li>[GitHub:#425b623f8] - fix for nested snippet work with PHx (Dmi3yy)</li>
+<li>[GitHub:#21ae71665] - fix(forms.css): fixed height input (Serg)</li>
+<li>[GitHub:#7c44e274c] - fix(forms.css) changed height inputs (Serg)</li>
+<li>[GitHub:#f3be07dd7] - Fix missing panel toggle arrows (Mr B)</li>
+<li>[GitHub:#29f80ce9a] - Fix tree icon for private resource (Mr B)</li>
+<li>[GitHub:#6c5f69caa] - fix(modx.js): remove loader with locked resource (Serg)</li>
+<li>[GitHub:#787bf71c4] - fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="522757815" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1261" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1261/hovercard" href="https://github.com/evolution-cms/evolution/issues/1261">#1261</a> mcpuk browser missing icons (Nicola)</li>
+<li>[GitHub:#53ec9444f] - Fix right arrow icon before element description (Sasha Beep)</li>
+<li>[GitHub:#d1a4f2e83] - fix demo site install (Pathologic)</li>
+<li>[GitHub:#22713e57e] - fix(modx.js): remove jQuery variable (Serg)</li>
+<li>[GitHub:#f5079d97f] - feat(modx.js): remove jQuery methods (Serg)</li>
+<li>[GitHub:#0fbd46f2a] - feat(modx.js): remove jQuery animate (Serg)</li>
+<li>[GitHub:#3a864cbc9] - fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="519253267" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1246" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1246/hovercard" href="https://github.com/evolution-cms/evolution/issues/1246">#1246</a> (kivamp)</li>
+<li>[GitHub:#e08a7f971] - Fix fullscreen tinymce hiding buttons (Mr B)</li>
+<li>[GitHub:#8bcf79aa7] - fix icon in tree when move <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="483762789" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1167" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1167/hovercard" href="https://github.com/evolution-cms/evolution/issues/1167">#1167</a> (Dmi3yy)</li>
+</ul>";s:14:"date_timestamp";i:1584104685;}i:5;a:8:{s:5:"title";s:19:"Evolution CMS 2.0.1";s:4:"link";s:61:"https://github.com/evolution-cms/evolution/releases/tag/2.0.1";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Mon, 25 Nov 2019 11:30:39 PST";s:4:"guid";s:45:"tag:github.com,2008:Repository/12320050/2.0.1";s:11:"description";s:4324:"<h3>New feature:</h3>
+<p>Now we can use DynamicRelation:</p>
+<pre><code>SiteContent::addDynamicRelation('comments', function (SiteContent $myModel) {
+     return $myModel-&gt;hasMany(Comments::class);
+});
+</code></pre>
+<p>Example: <a href="https://github.com/Ser1ous/evocms-comments">https://github.com/Ser1ous/evocms-comments</a><br>
+Video(ru): <a href="https://www.youtube.com/watch?v=gJj05HwOm0A" rel="nofollow">https://www.youtube.com/watch?v=gJj05HwOm0A</a><br>
+Lib: <a href="https://github.com/i-rocky/eloquent-dynamic-relation">https://github.com/i-rocky/eloquent-dynamic-relation</a></p>
+<h3>Change log:</h3>
+<ul>
+<li>Update DocLister</li>
+<li>fix: manager fix change theme (Serious)</li>
+<li>fix: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="523786768" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1271" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1271/hovercard" href="https://github.com/evolution-cms/evolution/issues/1271">#1271</a> childrens should be children (Dmi3yy)</li>
+<li>fix: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="525946368" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1294" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1294/hovercard" href="https://github.com/evolution-cms/evolution/issues/1294">#1294</a> Bad layout on page template-bound resources (Dmi3yy)</li>
+<li>fix: Lang issue &amp; <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="523834539" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1272" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1272/hovercard" href="https://github.com/evolution-cms/evolution/issues/1272">#1272</a> (Dmi3yy)</li>
+<li>fix: forgot -&gt;db-&gt; <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="523191934" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1265" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1265/hovercard" href="https://github.com/evolution-cms/evolution/issues/1265">#1265</a> (Dmi3yy)</li>
+<li>fix: issets are need in codemirror plugin <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="523189062" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1264" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1264/hovercard" href="https://github.com/evolution-cms/evolution/issues/1264">#1264</a> (Dmi3yy)</li>
+<li>fix: needs isset <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="523178505" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1263" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1263/hovercard" href="https://github.com/evolution-cms/evolution/issues/1263">#1263</a> (Dmi3yy)</li>
+<li>fix: getDocumentObject method (Pathologic)</li>
+<li>fix: need use correct cachekey with event and GET (Dmi3yy)</li>
+<li>fix: manager theme bug (Dmi3yy)</li>
+<li>fix: styles anв icons (Ruslan Aleev)</li>
+<li>fix: tree icon for private resource (Mr B)</li>
+<li>fix: No hint path defined for [cache] (Pathologic)</li>
+<li>fix: Corrected lexicons, Corrected output of lexicons in template (Ruslan Aleev)</li>
+<li>fix: send mail to manager e-mail. (Yevhen Lebediev)</li>
+<li>fix: demo site install (Pathologic)</li>
+<li>fix: fullscreen tinymce hiding buttons (Mr B)</li>
+<li>fix: parse plugin params (dzhuryn.volodymyr)</li>
+<li>refactor: htaccess add rules for remove // <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="516062606" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1239" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1239/hovercard" href="https://github.com/evolution-cms/evolution/issues/1239">#1239</a> fix (Dmi3yy)</li>
+<li>new: (core) Add Dynamic Relation (Ser1ous)</li>
+</ul>";s:7:"summary";s:4324:"<h3>New feature:</h3>
+<p>Now we can use DynamicRelation:</p>
+<pre><code>SiteContent::addDynamicRelation('comments', function (SiteContent $myModel) {
+     return $myModel-&gt;hasMany(Comments::class);
+});
+</code></pre>
+<p>Example: <a href="https://github.com/Ser1ous/evocms-comments">https://github.com/Ser1ous/evocms-comments</a><br>
+Video(ru): <a href="https://www.youtube.com/watch?v=gJj05HwOm0A" rel="nofollow">https://www.youtube.com/watch?v=gJj05HwOm0A</a><br>
+Lib: <a href="https://github.com/i-rocky/eloquent-dynamic-relation">https://github.com/i-rocky/eloquent-dynamic-relation</a></p>
+<h3>Change log:</h3>
+<ul>
+<li>Update DocLister</li>
+<li>fix: manager fix change theme (Serious)</li>
+<li>fix: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="523786768" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1271" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1271/hovercard" href="https://github.com/evolution-cms/evolution/issues/1271">#1271</a> childrens should be children (Dmi3yy)</li>
+<li>fix: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="525946368" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1294" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1294/hovercard" href="https://github.com/evolution-cms/evolution/issues/1294">#1294</a> Bad layout on page template-bound resources (Dmi3yy)</li>
+<li>fix: Lang issue &amp; <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="523834539" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1272" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1272/hovercard" href="https://github.com/evolution-cms/evolution/issues/1272">#1272</a> (Dmi3yy)</li>
+<li>fix: forgot -&gt;db-&gt; <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="523191934" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1265" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1265/hovercard" href="https://github.com/evolution-cms/evolution/issues/1265">#1265</a> (Dmi3yy)</li>
+<li>fix: issets are need in codemirror plugin <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="523189062" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1264" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1264/hovercard" href="https://github.com/evolution-cms/evolution/issues/1264">#1264</a> (Dmi3yy)</li>
+<li>fix: needs isset <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="523178505" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1263" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1263/hovercard" href="https://github.com/evolution-cms/evolution/issues/1263">#1263</a> (Dmi3yy)</li>
+<li>fix: getDocumentObject method (Pathologic)</li>
+<li>fix: need use correct cachekey with event and GET (Dmi3yy)</li>
+<li>fix: manager theme bug (Dmi3yy)</li>
+<li>fix: styles anв icons (Ruslan Aleev)</li>
+<li>fix: tree icon for private resource (Mr B)</li>
+<li>fix: No hint path defined for [cache] (Pathologic)</li>
+<li>fix: Corrected lexicons, Corrected output of lexicons in template (Ruslan Aleev)</li>
+<li>fix: send mail to manager e-mail. (Yevhen Lebediev)</li>
+<li>fix: demo site install (Pathologic)</li>
+<li>fix: fullscreen tinymce hiding buttons (Mr B)</li>
+<li>fix: parse plugin params (dzhuryn.volodymyr)</li>
+<li>refactor: htaccess add rules for remove // <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="516062606" data-permission-text="Title is private" data-url="https://github.com/evolution-cms/evolution/issues/1239" data-hovercard-type="issue" data-hovercard-url="/evolution-cms/evolution/issues/1239/hovercard" href="https://github.com/evolution-cms/evolution/issues/1239">#1239</a> fix (Dmi3yy)</li>
+<li>new: (core) Add Dynamic Relation (Ser1ous)</li>
+</ul>";s:14:"date_timestamp";i:1574710239;}i:6;a:8:{s:5:"title";s:17:"Evolution CMS 2.0";s:4:"link";s:59:"https://github.com/evolution-cms/evolution/releases/tag/2.0";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Tue, 05 Nov 2019 06:52:35 PST";s:4:"guid";s:43:"tag:github.com,2008:Repository/12320050/2.0";s:11:"description";s:2231:"<h1>Evolution CMS 2.0 is fully compatible with earlier versions</h1>
+<h2>To understand what is Evolution CMS 2.0 and how to work with Evolution 2.0, I recommend reading the content from the links below:</h2>
+<p><a href="https://github.com/evolution-cms/evolution/releases/tag/2.0.0-alpha">https://github.com/evolution-cms/evolution/releases/tag/2.0.0-alpha</a><br>
+<a href="https://github.com/evolution-cms/evolution/releases/tag/2.0.0-RC">https://github.com/evolution-cms/evolution/releases/tag/2.0.0-RC</a></p>
+<h3>Important change:</h3>
+<p>In the runSnippet method, 2 parameters were added to cache snippet results</p>
+<pre><code>string runSnippet (string $ snippetName [, array $ params, int $ cacheTime, string $ cacheKey]);
+</code></pre>
+<p>Actual for use in BLADE templates. Since by default all snippets are not cached and there are no [[]] and [!!] snippet execution options, this also makes it possible to cache snippets not forever before resetting the cache as it was before, but for some certain period of time + cacheKey which makes it possible to cache the same snippet for many pages at once.</p>
+<h3>To upgrade from 1.4.9 and below:</h3>
+<ol>
+<li>Update to the latest version 1.4 (1.4.10) If there are problems with the display of icons: (Delete /manager/media/style/default/css/styles.min.css)</li>
+<li>Check that php version 7.2+</li>
+<li>Create a file core / config / database / connections / default.php with the contents:<br>
+<a href="https://github.com/evolution-cms/evolution/blob/2.0.x/install/stubs/files/config/database/connections/default.tpl">https://github.com/evolution-cms/evolution/blob/2.0.x/install/stubs/files/config/database/connections/default.tpl</a><br>
+in which placeholders are replaced by their data.</li>
+<li>Delete the manager folder</li>
+<li>Pour over all the files from the archive 2.0</li>
+<li>create an empty '.install' file in the core folder</li>
+</ol>
+<h3>For upgrades from 2.0.0-alpha and 2.0.0-RC</h3>
+<ol>
+<li>Delete /manager/media/style/default/css/styles.min.css</li>
+<li>remove from /core/custom/composer.json: "vlucas / phpdotenv": "~ 2.2"</li>
+<li>upload all files on top</li>
+<li>run composer upd from the core folder (if you used new features using composer)</li>
+</ol>";s:7:"summary";s:2231:"<h1>Evolution CMS 2.0 is fully compatible with earlier versions</h1>
+<h2>To understand what is Evolution CMS 2.0 and how to work with Evolution 2.0, I recommend reading the content from the links below:</h2>
+<p><a href="https://github.com/evolution-cms/evolution/releases/tag/2.0.0-alpha">https://github.com/evolution-cms/evolution/releases/tag/2.0.0-alpha</a><br>
+<a href="https://github.com/evolution-cms/evolution/releases/tag/2.0.0-RC">https://github.com/evolution-cms/evolution/releases/tag/2.0.0-RC</a></p>
+<h3>Important change:</h3>
+<p>In the runSnippet method, 2 parameters were added to cache snippet results</p>
+<pre><code>string runSnippet (string $ snippetName [, array $ params, int $ cacheTime, string $ cacheKey]);
+</code></pre>
+<p>Actual for use in BLADE templates. Since by default all snippets are not cached and there are no [[]] and [!!] snippet execution options, this also makes it possible to cache snippets not forever before resetting the cache as it was before, but for some certain period of time + cacheKey which makes it possible to cache the same snippet for many pages at once.</p>
+<h3>To upgrade from 1.4.9 and below:</h3>
+<ol>
+<li>Update to the latest version 1.4 (1.4.10) If there are problems with the display of icons: (Delete /manager/media/style/default/css/styles.min.css)</li>
+<li>Check that php version 7.2+</li>
+<li>Create a file core / config / database / connections / default.php with the contents:<br>
+<a href="https://github.com/evolution-cms/evolution/blob/2.0.x/install/stubs/files/config/database/connections/default.tpl">https://github.com/evolution-cms/evolution/blob/2.0.x/install/stubs/files/config/database/connections/default.tpl</a><br>
+in which placeholders are replaced by their data.</li>
+<li>Delete the manager folder</li>
+<li>Pour over all the files from the archive 2.0</li>
+<li>create an empty '.install' file in the core folder</li>
+</ol>
+<h3>For upgrades from 2.0.0-alpha and 2.0.0-RC</h3>
+<ol>
+<li>Delete /manager/media/style/default/css/styles.min.css</li>
+<li>remove from /core/custom/composer.json: "vlucas / phpdotenv": "~ 2.2"</li>
+<li>upload all files on top</li>
+<li>run composer upd from the core folder (if you used new features using composer)</li>
+</ol>";s:14:"date_timestamp";i:1572965555;}i:7;a:8:{s:5:"title";s:20:"Evolution CMS 1.4.10";s:4:"link";s:62:"https://github.com/evolution-cms/evolution/releases/tag/1.4.10";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Tue, 05 Nov 2019 06:09:39 PST";s:4:"guid";s:46:"tag:github.com,2008:Repository/12320050/1.4.10";s:11:"description";s:920:"<p>If you have problem with icons  delete 'manager/media/style/default/css/styles.min.css' and re-save settings in manager panel</p>
+<ul>
+<li>Update DocLister and FormLister</li>
+<li>Update Bootstrap to 4.3.1</li>
+<li>Update Font Awesome to 5.7</li>
+<li>Update phpthumb snippet</li>
+<li>SQL syntax for mysql 8</li>
+<li>fix manager login lang override</li>
+<li>fix Error : Undefined index: enable_filter</li>
+<li>remove fixed id from system event names</li>
+<li>add Mysql transactions support</li>
+<li>set priority on install</li>
+<li>Call to undefined function evolutionCMS() fixed</li>
+<li>escape plugin,snippet, modules params</li>
+<li>fix for empty tabs</li>
+<li>added method for removing tabs</li>
+</ul>
+<p>Full list you can see here:<br>
+<a href="https://github.com/evolution-cms/evolution/blob/1.4.x/assets/docs/changelog.txt">https://github.com/evolution-cms/evolution/blob/1.4.x/assets/docs/changelog.txt</a></p>";s:7:"summary";s:920:"<p>If you have problem with icons  delete 'manager/media/style/default/css/styles.min.css' and re-save settings in manager panel</p>
+<ul>
+<li>Update DocLister and FormLister</li>
+<li>Update Bootstrap to 4.3.1</li>
+<li>Update Font Awesome to 5.7</li>
+<li>Update phpthumb snippet</li>
+<li>SQL syntax for mysql 8</li>
+<li>fix manager login lang override</li>
+<li>fix Error : Undefined index: enable_filter</li>
+<li>remove fixed id from system event names</li>
+<li>add Mysql transactions support</li>
+<li>set priority on install</li>
+<li>Call to undefined function evolutionCMS() fixed</li>
+<li>escape plugin,snippet, modules params</li>
+<li>fix for empty tabs</li>
+<li>added method for removing tabs</li>
+</ul>
+<p>Full list you can see here:<br>
+<a href="https://github.com/evolution-cms/evolution/blob/1.4.x/assets/docs/changelog.txt">https://github.com/evolution-cms/evolution/blob/1.4.x/assets/docs/changelog.txt</a></p>";s:14:"date_timestamp";i:1572962979;}i:8;a:8:{s:5:"title";s:20:"Evolution CMS 2.0 RC";s:4:"link";s:64:"https://github.com/evolution-cms/evolution/releases/tag/2.0.0-RC";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Fri, 20 Sep 2019 07:54:40 PDT";s:4:"guid";s:48:"tag:github.com,2008:Repository/12320050/2.0.0-RC";s:11:"description";s:7806:"<p>it's release time of Evolution CMS 2.0 RC based on Laravel components, but as the previous release and subsequent discussions showed, there are a lot of questions and myths related to the 2.0 branch.</p>
+<h2>The most popular myth is that everything has changed in the new branch and will no longer be in the old way.</h2>
+<p>Everything will work as before. We expanded the new functionality without affecting the capabilities of previous features. The entry level has not changed, but more skilled developers will receive many ready-made solutions and features. Those who have enough existing components to work will be able to work as before, nobody will deprive them of usual things. Those users who are satisfied with existing components will be able to work as before, no one will deprive them of familiar things.</p>
+<p>The level of compatibility is more than good - even from version 0.9 you can upgrade to 1.4, and then from it to 2.0 without changing the functionality. Although it is necessary to consider possible issues, which may arise using "deprecated methods", due to the fact that you need to update the PHP version to 7.2. I'll respond quickly to bugs, bringing the stable release period closer. The speed of work is worth it.</p>
+<p>Especially for doubters, I recorded a video in which the system was updated from 1.0.8 to 1.4 (I could upgrade from an older version but did not find such an outdated hosting)<br>
+<a href="https://www.youtube.com/watch?v=E_0PluuMWT0&amp;t=1s" rel="nofollow">https://www.youtube.com/watch?v=E_0PluuMWT0&amp;t=1s</a>.<br>
+In this video already tells how to upgrade from version 1.4. * to 2.0<br>
+<a href="https://www.youtube.com/watch?v=xR9filu4A8o&amp;t=1s" rel="nofollow">https://www.youtube.com/watch?v=xR9filu4A8o&amp;t=1s</a><br>
+As a result, on version 2.0 you can work in exactly the same way as on 1.4 and below.</p>
+<h2>Where is everything going and what is the purpose of all these changes?</h2>
+<h3>Preserving Backward Compatibility.</h3>
+<p>Evolution CMS grow up from MODX Evolution, which appeared in 2004 and I can confidently say that even the oldest site can be updated without any problems to the latest version!<br>
+It's could be done in two steps:<br>
+0.9 -&gt; 1.4.*<br>
+1.4.* -&gt; 2.0</p>
+<p>I do not know any system that could boast of such a result, considering the 15-year history and where everything would be compatible. We also have moments that became deprecated, considering of the obsolescence of some functions of PHP, so your update may not go smoothly enough. But all issues are often resolved quickly and simply, it is enough to be able to use Google, copy-paste, etc. Just copy the error into Google and read the first couple of articles from the results, in 95% of cases you'll find a solution to the problem.</p>
+<h3>Modern technologies:</h3>
+<p>Modern technologies are developing rapidly and if we stand still, in the very near future we will become developers of a good, but the already outdated system. Who will need such sites when a lot of “new, relevant, trendy” systems of competitors will appear on the market, and they do not standstill.<br>
+An additional plus - if someone suddenly has a desire to explore new opportunities, dare I say that this may even become a discovery for those who have not used anything other than standard components in life. New knowledge and opportunities are the main factors in the cost of the developer’s work, we give them to you and it is up to you to use them or not.</p>
+<p>A real example of the benefits of change - I think many people remember how a couple of years ago I was not a supporter of working in the IDE, but now I understand how much I was wrong and that it made life difficult for myself.</p>
+<h3>Framework or CMS?</h3>
+<h4>CMS:</h4>
+<p>When it was decided to build Evo on Laravel components, one of the first questions was: Did someone does something similar and maybe it makes no sense to reinvent the wheel?</p>
+<p>As a result, I reviewed more than 10 different admin areas for Laravel, and a couple of CMS based on it, and came to the conclusion that almost everything was done not for content managers who spend a lot of time in the admin area, but for developers. As a result, it’s convenient to assemble and make sites on this site, but not very helpful.</p>
+<p>I believe that the ideology of the Evolution CMS admin panel, which came from MODX, is very cool and understandable for the average user. It takes a minimum of time for anyone to explain how to work with her. So developers can simply and quickly implement all the wishes of the client on the organization of the admin panel.</p>
+<p>As a real example, the Collection solution: <a href="http://modx.im/blog/addons/5994.html" rel="nofollow">http://modx.im/blog/addons/5994.html</a> which allows you to display child documents in the form of a table with a filter, sorting and inline editing, while you can independently configure which fields will be displayed in the table.</p>
+<h4>Framework:</h4>
+<p>Currently, Laravel is one of the most popular frameworks, which means that it has many developers, a large community that has already resolved certain issues, as well as a large information base for working with it. We are expanding the capabilities of the system, by implementing Laravel 6.0 components in Evolution CMS, as well as simplifying the life of developers and stimulating the creation of new solutions and add-ons. Those who work with Evolution for a long time and do not use other tools should monitor global trends and what new tools have appeared that simplify and speed up development: Composer, Artisan, Blade, MVC, Migration, Models, Eloquent, Git, etc. For those who are just starting to get acquainted with Evolution, but already have experience working with other systems or with Laravel, the system will have familiar and favorite tools. Thus, the Laravel components in the Evolution CMS lower the entry threshold for beginners in working with the system and provide an opportunity to upgrade their skills for those who were familiar with the Evolution CMS for the long term.</p>
+<h2>So, what's new</h2>
+<ul>
+<li><a href="https://github.com/evolution-cms/example-package#templates">Templates in files</a> and <a href="https://laravel.com/docs/6.0/blade" rel="nofollow">Blade</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#controllers-and-mvc">Controllers and MVC</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#controllers-and-mvc">Models</a> and <a href="https://laravel.com/docs/6.0/eloquent" rel="nofollow">Eloquent</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#packages">Packages</a> (Chunks, Snippets, Plugins, Modules, e.t.c)</li>
+<li><a href="https://github.com/evolution-cms/example-package#migration">Migration and development on DEV or PROD environment</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#laravel-cache">Laravel Cache</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#custom-routing-on-fastroute">Custom routing on FastRoute</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#use-env">use .ENV</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#artisan">Artisan</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#ide-helper">IDE-Helper</a></li>
+</ul>
+<h2>The near future plans</h2>
+<p>The release of Evolution CMS 2.0 coming to November 2, 2019. An offline event will be organized in Moscow in the private cinema 'Kinoleto' by address: 2nd Kozhuhovsky passage 29, building 2, building 18. Pre-registration entry, registration form and more details will be here: <a href="https://evo.im/evoevent-2019.html" rel="nofollow">https://evo.im/evoevent-2019.html</a></p>";s:7:"summary";s:7806:"<p>it's release time of Evolution CMS 2.0 RC based on Laravel components, but as the previous release and subsequent discussions showed, there are a lot of questions and myths related to the 2.0 branch.</p>
+<h2>The most popular myth is that everything has changed in the new branch and will no longer be in the old way.</h2>
+<p>Everything will work as before. We expanded the new functionality without affecting the capabilities of previous features. The entry level has not changed, but more skilled developers will receive many ready-made solutions and features. Those who have enough existing components to work will be able to work as before, nobody will deprive them of usual things. Those users who are satisfied with existing components will be able to work as before, no one will deprive them of familiar things.</p>
+<p>The level of compatibility is more than good - even from version 0.9 you can upgrade to 1.4, and then from it to 2.0 without changing the functionality. Although it is necessary to consider possible issues, which may arise using "deprecated methods", due to the fact that you need to update the PHP version to 7.2. I'll respond quickly to bugs, bringing the stable release period closer. The speed of work is worth it.</p>
+<p>Especially for doubters, I recorded a video in which the system was updated from 1.0.8 to 1.4 (I could upgrade from an older version but did not find such an outdated hosting)<br>
+<a href="https://www.youtube.com/watch?v=E_0PluuMWT0&amp;t=1s" rel="nofollow">https://www.youtube.com/watch?v=E_0PluuMWT0&amp;t=1s</a>.<br>
+In this video already tells how to upgrade from version 1.4. * to 2.0<br>
+<a href="https://www.youtube.com/watch?v=xR9filu4A8o&amp;t=1s" rel="nofollow">https://www.youtube.com/watch?v=xR9filu4A8o&amp;t=1s</a><br>
+As a result, on version 2.0 you can work in exactly the same way as on 1.4 and below.</p>
+<h2>Where is everything going and what is the purpose of all these changes?</h2>
+<h3>Preserving Backward Compatibility.</h3>
+<p>Evolution CMS grow up from MODX Evolution, which appeared in 2004 and I can confidently say that even the oldest site can be updated without any problems to the latest version!<br>
+It's could be done in two steps:<br>
+0.9 -&gt; 1.4.*<br>
+1.4.* -&gt; 2.0</p>
+<p>I do not know any system that could boast of such a result, considering the 15-year history and where everything would be compatible. We also have moments that became deprecated, considering of the obsolescence of some functions of PHP, so your update may not go smoothly enough. But all issues are often resolved quickly and simply, it is enough to be able to use Google, copy-paste, etc. Just copy the error into Google and read the first couple of articles from the results, in 95% of cases you'll find a solution to the problem.</p>
+<h3>Modern technologies:</h3>
+<p>Modern technologies are developing rapidly and if we stand still, in the very near future we will become developers of a good, but the already outdated system. Who will need such sites when a lot of “new, relevant, trendy” systems of competitors will appear on the market, and they do not standstill.<br>
+An additional plus - if someone suddenly has a desire to explore new opportunities, dare I say that this may even become a discovery for those who have not used anything other than standard components in life. New knowledge and opportunities are the main factors in the cost of the developer’s work, we give them to you and it is up to you to use them or not.</p>
+<p>A real example of the benefits of change - I think many people remember how a couple of years ago I was not a supporter of working in the IDE, but now I understand how much I was wrong and that it made life difficult for myself.</p>
+<h3>Framework or CMS?</h3>
+<h4>CMS:</h4>
+<p>When it was decided to build Evo on Laravel components, one of the first questions was: Did someone does something similar and maybe it makes no sense to reinvent the wheel?</p>
+<p>As a result, I reviewed more than 10 different admin areas for Laravel, and a couple of CMS based on it, and came to the conclusion that almost everything was done not for content managers who spend a lot of time in the admin area, but for developers. As a result, it’s convenient to assemble and make sites on this site, but not very helpful.</p>
+<p>I believe that the ideology of the Evolution CMS admin panel, which came from MODX, is very cool and understandable for the average user. It takes a minimum of time for anyone to explain how to work with her. So developers can simply and quickly implement all the wishes of the client on the organization of the admin panel.</p>
+<p>As a real example, the Collection solution: <a href="http://modx.im/blog/addons/5994.html" rel="nofollow">http://modx.im/blog/addons/5994.html</a> which allows you to display child documents in the form of a table with a filter, sorting and inline editing, while you can independently configure which fields will be displayed in the table.</p>
+<h4>Framework:</h4>
+<p>Currently, Laravel is one of the most popular frameworks, which means that it has many developers, a large community that has already resolved certain issues, as well as a large information base for working with it. We are expanding the capabilities of the system, by implementing Laravel 6.0 components in Evolution CMS, as well as simplifying the life of developers and stimulating the creation of new solutions and add-ons. Those who work with Evolution for a long time and do not use other tools should monitor global trends and what new tools have appeared that simplify and speed up development: Composer, Artisan, Blade, MVC, Migration, Models, Eloquent, Git, etc. For those who are just starting to get acquainted with Evolution, but already have experience working with other systems or with Laravel, the system will have familiar and favorite tools. Thus, the Laravel components in the Evolution CMS lower the entry threshold for beginners in working with the system and provide an opportunity to upgrade their skills for those who were familiar with the Evolution CMS for the long term.</p>
+<h2>So, what's new</h2>
+<ul>
+<li><a href="https://github.com/evolution-cms/example-package#templates">Templates in files</a> and <a href="https://laravel.com/docs/6.0/blade" rel="nofollow">Blade</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#controllers-and-mvc">Controllers and MVC</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#controllers-and-mvc">Models</a> and <a href="https://laravel.com/docs/6.0/eloquent" rel="nofollow">Eloquent</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#packages">Packages</a> (Chunks, Snippets, Plugins, Modules, e.t.c)</li>
+<li><a href="https://github.com/evolution-cms/example-package#migration">Migration and development on DEV or PROD environment</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#laravel-cache">Laravel Cache</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#custom-routing-on-fastroute">Custom routing on FastRoute</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#use-env">use .ENV</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#artisan">Artisan</a></li>
+<li><a href="https://github.com/evolution-cms/example-package#ide-helper">IDE-Helper</a></li>
+</ul>
+<h2>The near future plans</h2>
+<p>The release of Evolution CMS 2.0 coming to November 2, 2019. An offline event will be organized in Moscow in the private cinema 'Kinoleto' by address: 2nd Kozhuhovsky passage 29, building 2, building 18. Pre-registration entry, registration form and more details will be here: <a href="https://evo.im/evoevent-2019.html" rel="nofollow">https://evo.im/evoevent-2019.html</a></p>";s:14:"date_timestamp";i:1568991280;}i:9;a:8:{s:5:"title";s:19:"Evolution CMS 1.4.9";s:4:"link";s:61:"https://github.com/evolution-cms/evolution/releases/tag/1.4.9";s:2:"dc";a:1:{s:7:"creator";s:6:"Dmi3yy";}s:7:"pubdate";s:29:"Sun, 26 May 2019 05:52:34 PDT";s:4:"guid";s:45:"tag:github.com,2008:Repository/12320050/1.4.9";s:11:"description";s:1346:"<h2>EVO 1.4.9 includes various fixes and improvements for stability and backward compatibility.</h2>
+<p>Evolution 1.4 LTS version:</p>
+<ul>
+<li>support bugfix, compatible with 2.x branch, stability until 02.02.2020</li>
+<li>support for critical security issues until 12.02.2021</li>
+</ul>
+<h3>Fixes and Updates in 1.4.9:</h3>
+<pre><code>- [I] Add support WebP for phpthumb (Ser1ous)
+- [I] New event OnLogEvent (Ser1ous)
+- [F] set auto_template_logic -&gt; sibling by default (Dmi3yy)
+- [U] Update mutate_web_user.dynamic.php (bossloper)
+- [U] Update mutate_user.dynamic.php (bossloper)
+- [F] display thislogin date for users / managers (bossloper)
+- [F] (security): update htaccess (Dmi3yy)
+- [F] #1058 Warning in Admin Backend(Dmi3yy)
+- [F] fix modx.js (Serg)
+- [F] Undefined index enable_filter (Kamil)
+- [U] #1054 Update config.inc.tpl (Dreamer0x01)
+- [F] fix missing quality setting for png files (Pathologic)
+- [F] #1026 Manager Manager tabs and maps (Dreamer0x01)
+- [F] Manager Manager fix google and yandex map (dzhuryn)
+- [F] (dbapi) unpacking the host string in a circle (AgelxNash)
+- [F] #976 fix wrong language codes (Pathologic)
+- [F] (core) fix undefined variable (Serg)
+</code></pre>
+<h3>WebP for phpthumb:</h3>
+<pre><code>- 1. install rosell-dk/webp-convert from composer 
+- 2. use not cacheble with param &amp;webp=1
+</code></pre>";s:7:"summary";s:1346:"<h2>EVO 1.4.9 includes various fixes and improvements for stability and backward compatibility.</h2>
+<p>Evolution 1.4 LTS version:</p>
+<ul>
+<li>support bugfix, compatible with 2.x branch, stability until 02.02.2020</li>
+<li>support for critical security issues until 12.02.2021</li>
+</ul>
+<h3>Fixes and Updates in 1.4.9:</h3>
+<pre><code>- [I] Add support WebP for phpthumb (Ser1ous)
+- [I] New event OnLogEvent (Ser1ous)
+- [F] set auto_template_logic -&gt; sibling by default (Dmi3yy)
+- [U] Update mutate_web_user.dynamic.php (bossloper)
+- [U] Update mutate_user.dynamic.php (bossloper)
+- [F] display thislogin date for users / managers (bossloper)
+- [F] (security): update htaccess (Dmi3yy)
+- [F] #1058 Warning in Admin Backend(Dmi3yy)
+- [F] fix modx.js (Serg)
+- [F] Undefined index enable_filter (Kamil)
+- [U] #1054 Update config.inc.tpl (Dreamer0x01)
+- [F] fix missing quality setting for png files (Pathologic)
+- [F] #1026 Manager Manager tabs and maps (Dreamer0x01)
+- [F] Manager Manager fix google and yandex map (dzhuryn)
+- [F] (dbapi) unpacking the host string in a circle (AgelxNash)
+- [F] #976 fix wrong language codes (Pathologic)
+- [F] (core) fix undefined variable (Serg)
+</code></pre>
+<h3>WebP for phpthumb:</h3>
+<pre><code>- 1. install rosell-dk/webp-convert from composer 
+- 2. use not cacheble with param &amp;webp=1
+</code></pre>";s:14:"date_timestamp";i:1558875154;}}s:7:"channel";a:6:{s:5:"title";s:28:"Release notes from evolution";s:4:"link";s:51:"https://github.com/evolution-cms/evolution/releases";s:8:"language";s:5:"en-US";s:13:"lastbuilddate";s:29:"Sat, 31 Oct 2020 08:03:39 PDT";s:10:"feedburner";a:2:{s:14:"emailserviceid";s:19:"evocms-release-news";s:18:"feedburnerhostname";s:29:"https://feedburner.google.com";}s:7:"tagline";N;}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"2.0";s:8:"encoding";s:5:"UTF-8";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;s:15:"source_encoding";s:5:"UTF-8";s:4:"etag";s:29:"1702VWzDC4P0NUIEPvdhZiiO0rI
+";s:13:"last_modified";s:31:"Sun, 01 Nov 2020 08:42:45 GMT
+";}

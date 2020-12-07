@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Przestrzeń refleksji a miejsce przedmiotu w historii sztuki.  | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/queer-obrazy/przestrzen-refleksji-a-miejsce-przedmiotu-w-historii-sztuki">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Przestrzeń refleksji a miejsce przedmiotu w historii sztuki.  | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Przestrzeń refleksji a miejsce przedmiotu w historii sztuki.  | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/queer-obrazy/przestrzen-refleksji-a-miejsce-przedmiotu-w-historii-sztuki">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Przestrzeń refleksji a miejsce przedmiotu w historii sztuki.  | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #f0f !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #f0f !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #f0f !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #f0f !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #f0f !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #f0f !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+			/* background-color:#f0f !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,0,255,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#f0f !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#f0f; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#f0f !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#f0f !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#f0f !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1207 parent-id-1134">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="424" data-selected-issue-color="#f0f" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/queer-images#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/queer-images/the-space-of-reflection-and-the-place-of-the-object-in-art-history">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/queer-obrazy#toc">5</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/queer-obrazy/przestrzen-refleksji-a-miejsce-przedmiotu-w-historii-sztuki?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Przestrzeń refleksji a miejsce przedmiotu w historii sztuki. Galeria Sztuki Średniowiecznej w nowej odsłonie</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/queer-obrazy/przestrzen-refleksji-a-miejsce-przedmiotu-w-historii-sztuki?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=1208">Ika Matyjaszkiewicz</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2051-1-pb-1920x-381.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2051-1-pb-330x-f23.jpg 330w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2051-1-pb-660x-df8.jpg 660w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2051-1-pb-768x-17b.jpg 768w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2051-1-pb-1320x-fdc.jpg 1320w" src="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2051-1-pb-660x-df8.jpg" alt="" ></a>    <figcaption><p>Galeria Sztuki Sredniowiecznej, Muzeum Narodowe w&nbsp;Warszawie, fot. B. Bajerski, dzięki uprzejmości MNW</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Od 11 grudnia 2013 roku w&nbsp;Muzeum Narodowym w&nbsp;Warszawie dostępna jest dla publiczności nowa ekspozycja w&nbsp;Galerii Sztuki Średniowiecznej. Autorzy tej ekspozycji: Kurator Zbiorów Dawnej Sztuki Europejskiej, prof. Antoni Ziemba, i&nbsp;Zofia Herman we współpracy z&nbsp;Natalią Paszkowską i&nbsp;pozostałymi członkami warszawskiej pracowni architektonicznej WWAA pozostali wierni wyborom poprzedników nie wprowadzili zasadniczych zmian w&nbsp;zestawie prezentowanych eksponatów, a&nbsp;jedynie zmniejszyli ich ilość. Zaproponowali natomiast odmienny porządek i&nbsp;rewolucyjną przestrzenną aranżację obiektów. Dzięki temu wypracowany po&nbsp;wojnie kanon arcydzieł sztuki średniowiecznej, obejmujący przede wszystkim artefakty z&nbsp;ośrodków znajdujących się od 1945 w&nbsp;granicach Polski, ukazał się w&nbsp;nowej odsłonie. Efekt wystawienniczy należy uznać za&nbsp;interesujący zarówno z&nbsp;perspektywy masowej publiczności, jak i&nbsp;specjalistów: muzealników, mediewistów, teoretyków historii sztuki.</p> <p>Ekspozycja wyraźnie akcentuje odrębność sztuki wieków średnich na&nbsp;tle innych epok przy jednoczesnym zasygnalizowaniu specyfiki środowisk lokalnych. Zachęca także do ogólnej refleksji nad fenomenem sztuk plastycznych. Ponadto stanowi ciekawą propozycję zastosowania w&nbsp;praktyce teorii posthumanistycznych. Wystawę w&nbsp;Galerii Sztuki Średniowiecznej można zatem traktować jako dialog z&nbsp;nowoczesną publicznością wychowaną w&nbsp;epoce dominacji mediów obrazowych oraz jako głos w&nbsp;debacie o&nbsp;metodach i&nbsp;przedmiocie historii sztuki średniowiecznej jako dyscypliny naukowej. Warto przyjrzeć się bliżej, w&nbsp;jaki sposób udało się wypracować tę wielopłaszczyznową narrację.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2053-1-pb-1920x-381.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2053-1-pb-330x-f23.jpg 330w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2053-1-pb-660x-df8.jpg 660w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2053-1-pb-768x-17b.jpg 768w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2053-1-pb-1320x-fdc.jpg 1320w" src="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2053-1-pb-660x-df8.jpg" alt="" ></a>    <figcaption><p>Galeria Sztuki Sredniowiecznej, Muzeum Narodowe w&nbsp;Warszawie, fot. B. Bajerski, dzięki uprzejmości MNW</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Autorzy deklarują, że&nbsp;przyświecały im dwa podstawowe cele: zaprezentowanie dzieł sztuki średniowiecznej jako przedmiotów o&nbsp;różnorodnych funkcjach, wykorzystywanych przede wszystkim do celów kultowych oraz odejście od klasycznej historiograficznej koncepcji centrum i&nbsp;peryferii<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. W&nbsp;sali pierwszej wystawiono artefakty z&nbsp;drugiej połowy XIV i&nbsp;początków XV wieku z&nbsp;różnych stron Europy: Czech, Śląska, południowych Niemiec, Austrii, Państwa Krzyżackiego, Burgundii, Niderlandów, Anglii i&nbsp;Hiszpanii. Ułatwia to studia porównawcze i&nbsp;wskazuje na&nbsp;tendencje w&nbsp;sztuce średniowiecznej wspólne dla wielu regionów. Ekspozycję w&nbsp;kolejnych salach, obejmującą dzieła z&nbsp;obecnych ziem polskich, skonstruowano według klucza terytorialnego, koncentrując się na&nbsp;ukazaniu wielorakich wpływów i&nbsp;nawarstwiania się różnych tradycji decydujących o&nbsp;odmienności i&nbsp;oryginalności poszczególnych szkół. Najwięcej miejsca poświęcono sztuce Śląska – obiekty z&nbsp;tego terenu zajmują całą salę drugą i&nbsp;częściowo także salę trzecią. Tu także pomieszczono przykładowe realizacje z&nbsp;Krakowa i&nbsp;Małopolski oraz Kujaw i&nbsp;Wielkopolski. Ostatnią grupę tworzą dzieła z&nbsp;Gdańska, Pomorza, Prus i&nbsp;północnego obszaru hanzeatyckiego.</p> <p>Autorzy wystawy rezygnują z&nbsp;jednoznacznego wskazywania pierwowzorów dla stosowanych rozwiązań formalnych i&nbsp;ikonograficznych. Tym samym na&nbsp;plan dalszy odsuwają rozstrzyganie o&nbsp;nowatorskości dzieł. Problematyka ta stanowiła podstawowe zadanie badawcze w&nbsp;tradycyjnej historii sztuki, co niejednokrotnie prowadziło do etykietowania przedmiotów z&nbsp;ośrodków centralnych jako arcydzieł, a&nbsp;pozostałych – jako ich naśladownictw lub lokalnych przekształceń. Porzucenie przez Ziembę i&nbsp;Herman tego modelu dowartościowuje przedmiot sztuki w&nbsp;jego jednostkowości. Galeria Sztuki Średniowiecznej w&nbsp;Warszawie może być zatem odkryciem zwłaszcza dla badaczy i&nbsp;turystów z&nbsp;obszarów postrzeganych jako centra artystyczne, może pomóc im spojrzeć świeżym okiem na&nbsp;zjawiska dotychczas klasyfikowane jako wtórne lub peryferyjne.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2055-1-pb-1920x-381.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2055-1-pb-330x-f23.jpg 330w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2055-1-pb-660x-df8.jpg 660w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2055-1-pb-768x-17b.jpg 768w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2055-1-pb-1320x-fdc.jpg 1320w" src="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2055-1-pb-660x-df8.jpg" alt="" ></a>    <figcaption><p>Galeria Sztuki Sredniowiecznej, Muzeum Narodowe w&nbsp;Warszawie, fot. B. Bajerski, dzięki uprzejmości MNW</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Równoległym wątkiem wystawy jest różnorodność funkcjonalna średniowiecznych artefaktów<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Obiekty zaliczane obecnie do kategorii przedmiotów artystycznych pierwotnie łączyło przede wszystkim wykorzystanie w&nbsp;kontekście sakralnym. Dlatego odwiedzając Galerię, należy pamiętać o&nbsp;niepospolitym bogactwie rytuałów średniowiecznych: od nabożeństw będących zwykle przeżyciem wspólnotowym, poprzez dramaty liturgiczne i&nbsp;pielgrzymki oraz związane z&nbsp;nimi prywatne akty dewocji, jak składanie wotów, po&nbsp;praktyki pobożnościowe oparte na&nbsp;nakazie <em>imitatio christi</em> oraz indywidualne modlitwy i&nbsp;kontemplacje podejmowane zarówno przez osoby świeckie, jak i&nbsp;duchowieństwo. Wszystkim tym wydarzeniom towarzyszyły przedmioty o&nbsp;określonej formie materialnej oraz nierozerwalnie z&nbsp;nią powiązanej warstwie wizualnej i&nbsp;ikonograficznej, których celem było zaangażowanie widza w&nbsp;ukazane zdarzenia. Dzieła monumentalne apelowały głównie do zmysłu wzroku, mniejsze były brane do ręki – manipulowane, całowane, pieszczone i&nbsp;wprawiane w&nbsp;ruch. Pobudzało to wyobraźnię wiernych i&nbsp;skłaniało do przeżywania prawd wiary na&nbsp;poziomie duchowym i&nbsp;cielesnym. Przestrzeń muzeum nie służy oczywiście rekonstrukcji tych ceremonii i&nbsp;rytuałów, jednak ich przebieg relacjonują opisy udostępnione w&nbsp;salach wystawowych. Dzięki temu można śledzić, jak funkcja determinowała kształt dzieła. I&nbsp;jak następnie sam przedmiot wpływał na&nbsp;swego użytkownika, wymuszając na&nbsp;nim określone gesty, ruchy i&nbsp;akty empatii, których przykładem mogą być opisane w&nbsp;źródłach zachowania mistyczek podczas adoracji krucyfiksów lub kontemplacji miniatur ukazujących Pasję. Przyjmowały one pozy Chrystusa podczas męki, dokonywały samookaleczeń, niekiedy brały krucyfiksy w&nbsp;ramiona. W&nbsp;rezultacie prowadziło to do utożsamiania się z&nbsp;ciałem ukrzyżowanego. Jedną z&nbsp;nich była Mechtylda z&nbsp;Hackenborn (1232-1291), która tak relacjonowała swe odczucia: „Chrystus wziął mnie całą w&nbsp;ramiona i&nbsp;przycisnął do siebie… Widziałam go… blaknącego i&nbsp;nagle wszystko rozpłynęło się, tak, że&nbsp;nie mogłam już rozpoznać czy postrzegać go poza mną i&nbsp;nie mogłam już odróżnić go od siebie. Byliśmy jednością bez różnicy”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>.</p> <p>Instytucja muzeum i&nbsp;ograniczenia związane z&nbsp;ochroną dzieł oraz nieprzekraczalny dystans czasowy, jaki dzieli nas od pierwotnych użytkowników tych przedmiotów, uniemożliwiają odtworzenie doświadczeń średniowiecznego użytkownika. Dlatego to same przedmioty: ich różnorodność formalna, materialna i&nbsp;wizualna oraz warstwa narracyjna lub przedstawiająca stanowią przedmiot naszego poznania.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2057-1-pb-1920x-381.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2057-1-pb-330x-f23.jpg 330w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2057-1-pb-660x-df8.jpg 660w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2057-1-pb-768x-17b.jpg 768w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2057-1-pb-1320x-fdc.jpg 1320w" src="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2057-1-pb-660x-df8.jpg" alt="" ></a>    <figcaption><p>Galeria Sztuki Sredniowiecznej, Muzeum Narodowe w&nbsp;Warszawie, fot. B. Bajerski, dzięki uprzejmości MNW</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Tu ujawnia się jedno z&nbsp;najciekawszych dokonań autorów ekspozycji – zestawianie dzieł na&nbsp;zasadzie opozycji. Dramatycznie skręcone w&nbsp;bólu ciało Chrystusa z&nbsp;krucyfiksu z&nbsp;kościoła Bożego Ciała we Wrocławiu wyeksponowano na&nbsp;tle płaszczyznowego i&nbsp;eleganckiego <em>Poliptyku Grudziądzkiego</em>, w&nbsp;którym dominuje złoto i&nbsp;subtelne barwy oraz dekoracyjne tłoczone, rzeźbione i&nbsp;malowane ornamenty. Obok tego ogromnego poliptyku umieszczono maleńki kwadryptyk z&nbsp;klasztoru klarysek we Wrocławiu, który budował intymną, bezpośrednią relację z&nbsp;użytkownikiem. A&nbsp;naprzeciwko wieloelementowej, dynamicznej grupy werystycznych figur naturalnej wielkości z&nbsp;kaplicy Krappów przy kościele św. Elżbiety we Wrocławiu, odgrywających epizod z&nbsp;<em>Drogi Krzyżowej</em>, która zachęcała do odbycia duchowej pielgrzymki do Ziemi Świętej – figura z&nbsp;wrocławskiego kościoła bernardynów: <em>Chrystus Frasobliwy</em> w&nbsp;statycznej pozie wymuszającej skupienie i&nbsp;kontemplację koncepcji Wcielenia. Przykłady można by mnożyć. Należy jednak zaznaczyć, że&nbsp;ekspozycja nie jest oparta wyłącznie na&nbsp;prostych binarnych opozycjach. Ciekawym zabiegiem jest równoczesne zestawianie dzieł o&nbsp;podobnych treściach, reprezentujących różne techniki, co możliwe jest dzięki odejściu od klasyfikacji technologicznych, tradycyjnie stosowanych w&nbsp;muzeach sztuki dawnej. Wspomniany <em>Chrystus Frasobliwy</em> sąsiaduje z&nbsp;<em>Ecce Homo</em> – sceną okazania tłumowi umęczonego Chrystusa z&nbsp;malowanej kwatery ołtarza z&nbsp;klasztoru dominikanów we Wrocławiu. <em>Droga Krzyżowa</em> natomiast wystawiona jest na&nbsp;tle odwrocia<em> Poliptyku Zwiastowania z&nbsp;Jednorożcem</em>, na&nbsp;rewersach skrzydeł którego ukazano <em>Modlitwę w&nbsp;Ogrójcu</em>, <em>Pojmanie</em>, <em>Ukrzyżowanie</em> i&nbsp;<em>Złożenie do Grobu</em>. W&nbsp;ten sposób trójwymiarowe figury funkcjonujące w&nbsp;przestrzeni rzeczywistej i&nbsp;przez to sensualnie bliższe widzom znajdują dopełnienie w&nbsp;przedstawieniach malarskich rozgrywających się na&nbsp;tle wyobrażonej Jerozolimy, a&nbsp;więc w&nbsp;przestrzeni pozahistorycznej – poza rzeczywistym czasem i&nbsp;miejscem.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2059-1-pb-1920x-381.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2059-1-pb-330x-f23.jpg 330w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2059-1-pb-660x-df8.jpg 660w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2059-1-pb-768x-17b.jpg 768w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2059-1-pb-1320x-fdc.jpg 1320w" src="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2059-1-pb-660x-df8.jpg" alt="" ></a>    <figcaption><p>Galeria Sztuki Sredniowiecznej, Muzeum Narodowe w&nbsp;Warszawie, fot. B. Bajerski, dzięki uprzejmości MNW</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Zniesienie podziału na&nbsp;malarstwo, rzeźbę i&nbsp;rzemiosło pozwala śledzić wzajemne relacje pomiędzy przedmiotami – nie tylko ikonograficzne i&nbsp;stylistyczne, lecz także funkcjonalne. Na&nbsp;ten wątek szczególny nacisk położono w&nbsp;sali pierwszej, gdzie ekspozycja poniekąd odtwarza przestrzeń kościelną. Wyraźnie zaakcentowana jest podłużna oś pomieszczenia, którą wyznaczają ustawione w&nbsp;centrum przykłady rzeźby architektonicznej, a&nbsp;dodatkowo akcentuje zawieszony wysoko, jak na&nbsp;belce tęczowej, krucyfiks z&nbsp;kościoła Bożego Ciała we Wrocławiu. Oś zamyka, niby retabulum ołtarzowe w&nbsp;prezbiterium, <em>Poliptyk Grudziądzki</em>. Po&nbsp;bokach pełnoplastyczne figury kultowe odtwarzają rytm filarów oddzielających nawę główną od naw bocznych. Pod&nbsp;ścianami zaprezentowano tablice wotywne i&nbsp;epitafia, relikwiarze i&nbsp;ołtarzyki do prywatnej dewocji oraz figury umieszczane zwykle w&nbsp;niszach lub kaplicach. Wrażenie przebywania we wnętrzu gotyckiej świątyni potęguje teatralne oświetlenie i&nbsp;ciemne tło. Dzięki temu kolory zyskują intensywność, a&nbsp;rzeźby i&nbsp;reliefy – plastyczność. Bogactwo faktur i&nbsp;różnorodność materiałów, refleksy światła migoczące na&nbsp;tłoczonych złotych tłach oddziałują przede wszystkim na&nbsp;zmysły, pobudzając cielesną wyobraźnię. Dzieła nie funkcjonują w&nbsp;separacji, lecz tworzą nakładające się na&nbsp;siebie widoki, podkreślając nawzajem swe estetyczne walory, jak na&nbsp;przykład doskonale zharmonizowane kolorystycznie, pochodzące ze Śląska figury świętych kobiet zaprezentowane na&nbsp;tle gigantycznej tablicy dydaktycznej <em>Alegoria Chwały Marii</em> z&nbsp;kościoła bernardynów we Wrocławiu.</p> <p>Autorzy nowej odsłony Galerii Sztuki Średniowiecznej odeszli znacznie od formuły zastosowanej przez kuratorów powojennych. Zgodnie z&nbsp;obowiązującymi wówczas zasadami operowano rozporoszonym światłem, a&nbsp;dzieła prezentowano na&nbsp;neutralnym tle i&nbsp;zgodnie z&nbsp;klarownym układem podyktowanym podziałem na&nbsp;techniki. Dlatego nowy sposób prezentacji może wywołać dyskusje. Odrzucenie tej propozycji byłoby jednak zabiegiem pochopnym, a&nbsp;jej krytyka wynika jedynie ze schematów myślowych, do których przyzwyczaiły nas tradycyjne, oświeceniowe, akademickie narracje. Ich wyrazem była poprzednia ekspozycja utożsamiająca widzenie z&nbsp;rozumieniem, a&nbsp;poznanie z&nbsp;obiektywnością, racjonalnością i&nbsp;porządkowaniem. Obecna proponuje w&nbsp;ich miejsce subiektywne doświadczenie, zmienność perspektyw i&nbsp;fragmentaryczność widoków, bliższe relacjom tworzącym się w&nbsp;realnych przestrzeniach, w&nbsp;tym w&nbsp;przestrzeniach kościelnych. Koncepcja ta wyrasta z&nbsp;formułowanych we współczesnej humanistyce postulatów porzucenia pozycji wszechwiedzącego obserwatora na&nbsp;rzecz odkrywania wzajemnych relacji pomiędzy dziełem a&nbsp;jego bezpośrednim odbiorcą. Wejście w&nbsp;rzeczywisty związek z&nbsp;badanym przedmiotem ma zapobiec konstruowaniu teoretycznych symulakrów i&nbsp;kanonów usuwających na&nbsp;margines to, co nieuchwytne i&nbsp;niepoddające się autorytatywnemu scalaniu. Także na&nbsp;terytorium badawczym historii sztuki optyczne przedmioty wiedzy należy zamienić na&nbsp;materialne przedmioty sztuki. I&nbsp;tylko pozostanie z&nbsp;nimi w&nbsp;realnej bliskości, tam gdzie znika dystans, ujawni ich działanie. Dlatego tak cenna jest aranżacja, w&nbsp;której możliwe jest odczucie w&nbsp;pełni, że&nbsp;te kilkusetletnie obiekty okupują dokładnie tę samą przestrzeń, co nasze ciała. Za&nbsp;największe osiągnięcie autorów nowej ekspozycji należy uznać odrzucenie myślenia w&nbsp;kategoriach powierzchni ekspozycyjnej i&nbsp;stworzenie pełnej zakamarków, nasyconej materią przestrzeni, w&nbsp;której zaciera się granica pomiędzy eksponatami a&nbsp;odbiorcami. Dzięki odsłonięciu północnych okien Galerii elementem tej struktury stał się także dziedziniec muzeum i&nbsp;otaczające go mury, a&nbsp;także widoczne w&nbsp;oddali tętniące ruchem Aleje Jerozolimskie. Dzieła i&nbsp;widzowie, instytucja i&nbsp;miasto wzajemnie na&nbsp;siebie oddziałują i&nbsp;współtworzą wpisaną w&nbsp;teraźniejszość sieć powiązań.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2061-1-pb-1920x-62b.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2061-1-pb-330x-11d.jpg 330w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2061-1-pb-660x-d56.jpg 660w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2061-1-pb-768x-1b2.jpg 768w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2061-1-pb-1320x-224.jpg 1320w" src="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2061-1-pb-660x-d56.jpg" alt="" ></a>    <figcaption><p>Galeria Sztuki Sredniowiecznej, Muzeum Narodowe w&nbsp;Warszawie, fot. B. Bajerski, dzięki uprzejmości MNW</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Przestrzenno-twórczą moc dzieł wyeksponowano także w&nbsp;bardziej dosłowny sposób. Oderwanie eksponatów od ścian, ograniczenie gablot i&nbsp;postumentów do niezbędnego minimum sprawia, że&nbsp;wieloczłonowe retabula i&nbsp;płaskie tablice wotywne, filigranowe figury i&nbsp;masywne statuy budują rytmy i&nbsp;przestrzenne dominanty, zmienne trajektorie i&nbsp;pełne napięcia punkty styczne. W&nbsp;ten niespotykany dotychczas w&nbsp;polskich muzeach sposób zaakcentowano przestrzenność malarstwa i&nbsp;rzeźby. Wyłania się tu zasadnicze, zasygnalizowane na&nbsp;początku, pole refleksji – fenomen sztuk plastycznych jako sztuk przestrzennych, które poza wzrokiem angażują również inne zmysły, a&nbsp;ich percepcja jest ściśle osadzona w&nbsp;cielesności.</p> <p>Dlatego równie ważna wydaje się rewolucyjna decyzja o&nbsp;wyeksponowaniu materialności dzieł poprzez udostepnienie widzom ich odwroci, nieopracowanych rewersów i&nbsp;konstrukcji wspierających ich strukturę. Ten zabieg przysłużył się ukazaniu specyfiki sztuki średniowiecznej na&nbsp;tle dzieł innych epok. W&nbsp;wiekach średnich celem twórców było ścisłe powiązanie przedstawienia i&nbsp;jego nośnika – tak by realnie istniejące medium nie znikało za&nbsp;tym, co wizualne. U&nbsp;swego zarania bowiem sztuka chrześcijańska powiązana była z&nbsp;kultem relikwii, grobów i&nbsp;miejsc uświęconych obecnością Chrystusa lub świętych. Stanowiła dopełnienie tych materialnych śladów przeszłości i&nbsp;stawała się jeszcze jednym sposobem utwierdzania wiary we Wcielenie. Na&nbsp;przestrzeni wieków przedstawienia figuralne stopniowo zyskiwały samodzielność, lecz ta „cielesna” geneza nadal decydowała o&nbsp;specyfice stosowanych rozwiązań plastycznych i&nbsp;technologicznych. Wskazać tu należy przede wszystkim rezygnację z&nbsp;budowania iluzji głębi w&nbsp;malarstwie, akcentowanie podłoża obrazu poprzez wprowadzenie złotego, tłoczonego tła czy brak polichromii w&nbsp;rzeźbie. Doskonałym tego przykładem jest jedno z&nbsp;najciekawszych dzieł w&nbsp;Galerii: relief Jakoba Beinharta <em>Święty Łukasz malujący Marię</em>. Przedstawienie to przywołuje legendy o&nbsp;cudownej tunice Jezusa i&nbsp;portretach Marii, których autorstwo tradycja przypisuje św. Łukaszowi, a&nbsp;jednocześnie pozbawiona malarskiej dekoracji płaskorzeźba eksponuje kunszt wykonawcy, technologię produkcji dzieła i&nbsp;materię, która decyduje o&nbsp;jego istnieniu<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2063-1-pb-1920x-62b.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2063-1-pb-330x-11d.jpg 330w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2063-1-pb-660x-d56.jpg 660w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2063-1-pb-768x-1b2.jpg 768w,assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2063-1-pb-1320x-224.jpg 1320w" src="assets/cache/images/issues/2014/5/przestrzen-refleksji/176-2063-1-pb-660x-d56.jpg" alt="" ></a>    <figcaption><p>Galeria Sztuki Sredniowiecznej, Muzeum Narodowe w&nbsp;Warszawie, fot. B. Bajerski, dzięki uprzejmości MNW</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Podobnie postąpili Antoni Ziemba i&nbsp;Zofia Herman oraz zespół projektantów z&nbsp;pracowni WWAA – opowiedzieli o&nbsp;funkcjonowaniu przedmiotów w&nbsp;średniowiecznej przestrzeni sakralnej, a&nbsp;jednocześnie świadomie i&nbsp;otwarcie powiązali je ze współczesna przestrzenią i&nbsp;instytucję muzealną. Odrzucili tym samym pokusę dosłownej rekonstrukcji pierwotnego kontekstu oraz iluzję obiektywnej unaukowionej narracji na&nbsp;rzecz ukazania ponadczasowej sensualności zebranych dzieł. Ekspozycję tę można odczytać jako komentarz do zmiany zachodzących na&nbsp;polu historii sztuki średniowiecznej. Przedmiotem badania nie są już tylko zjawiska wizualne, stylistyczne sploty, ikongraficzne kody i&nbsp;konserwatorskie artefakty, lecz przede wszystkim pojedyncze przedmioty w&nbsp;ich fenomenalnym materialnym bycie.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Zob. Antoni Ziemba, Zofia Herman, <em>Nowa Galeria Sztuki Średniowiecznej Muzeum Narodowego w Warszawie</em>, „Rocznik Muzeum Narodowego w Warszawie. Nowa Seria” 2014, nr 2 (38), s. 12-14.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Ibidem, s. 12.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Cyt. za: E. Nightlinger, <em>The Female Imitatio Christi and Medieval Popular Religion: The Case of St Wilgefortis</em>, w: <em>Representations of the Feminine in the Middle Ages</em>, red. B. Wheeler, Boydell and Brewer, Cambridge 1993, s. 305.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Ibidem, s. 16-17.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/queer-obrazy/przestrzen-refleksji-a-miejsce-przedmiotu-w-historii-sztuki" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

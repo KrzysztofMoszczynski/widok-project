@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Co widać z góry. Inne miasto i jego trudne dziedzictwo | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/ruinacja/co-widac-z-gory.-inne-miasto-i-jego-trudne-dziedzictwo">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Co widać z góry. Inne miasto i jego trudne dziedzictwo | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Co widać z góry. Inne miasto i jego trudne dziedzictwo | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/ruinacja/co-widac-z-gory.-inne-miasto-i-jego-trudne-dziedzictwo">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Co widać z góry. Inne miasto i jego trudne dziedzictwo | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ffb300 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ffb300 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ffb300 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ffb300 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ffb300 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ffb300 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+			/* background-color:#ffb300 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,179,0,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ffb300 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ffb300; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ffb300 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ffb300 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ffb300 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1241 parent-id-1191">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="422" data-selected-issue-color="#ffb300" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/4-ruin#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/4-ruin/what-can-one-see-from-above-the-other-city-and-its-difficult">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/ruinacja#toc">4</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/ruinacja/co-widac-z-gory.-inne-miasto-i-jego-trudne-dziedzictwo?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Co widać z góry. Inne miasto i jego trudne dziedzictwo</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/ruinacja/co-widac-z-gory.-inne-miasto-i-jego-trudne-dziedzictwo?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=399">Roma Sendyka</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;">Odwiedzaliśmy miasta, które na&nbsp;pierwszy rzut oka wydawały się znajome. Europejskie metropolie: bulwary, szerokie aleje, place, eklektyczne budynki, niektóre w&nbsp;stylu art deco, emanowały minionym przepychem złotego wieku. A&nbsp;jednak coś było inaczej: przedmioty wystawione na&nbsp;sprzedaż w&nbsp;witrynach sklepów nie odpowiadały typom budynków. […] Były hotel Bristol jest akademikiem, studenckim, była synagoga – kinem, Hotel Bellevue – redakcją gazety<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>.</p> </blockquote> <p></p> <p>Chciałabym się zastanowić, dlaczego berlińscy architekci, odwiedzający Czerniowce niecałą dekadę temu, byli zdziwieni? Tkanka miejska podlega zmianie, mieszkańcy niedawno jeszcze podzielonej murem stolicy wiedzą to pewnie lepiej niż inni obywatele <span class="rozstrzelony">europejskich metropolii</span>. Robert Pinsky w&nbsp;<em>Elegiach miejskich </em>pisał: „Ciągle, we wszystkich częściach miasta, każdy/ Przemierza inne miasto”<em>.</em> W&nbsp;Berlinie nad bunkrem zbrodniarza działa chińska restauracja i&nbsp;parking. W&nbsp;<span class="rozstrzelony">innym mieście</span> na&nbsp;terenie synagogi stoi bank, w&nbsp;budynku mykwy działa liceum, na&nbsp;placu, z&nbsp;którego wywożono ludzi na&nbsp;śmierć, wybudowano osiedle mieszkaniowe.</p> <blockquote>Ciągle, we wszystkich częściach miasta, każdy<br> Przemierza inne miasto, zapieczętowane i&nbsp;nietknięte,<br> I&nbsp;nawiedzone jak opuszczona stacja metra<br> Pod&nbsp;miastem. Gdzie jest wejście […]?<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup></blockquote> <p>Prawdę o&nbsp;<span class="rozstrzelony">innym mieście</span> mogłoby więc ujawnić tylko to, co <span class="rozstrzelony">pod miastem</span>, pierwotne założenie bowiem „istnieje już tylko pod&nbsp;asfaltem ulic, pod&nbsp;chodnikami, pod&nbsp;skwerami podwórek, szkolnymi boiskami, dziedzińcami przedszkoli, pod&nbsp;obrośniętymi trawą skarpami usypanymi z&nbsp;gruzów, pod&nbsp;wyjątkowo w&nbsp;tej dzielnicy wybujałymi topolami, lipami, klonami. Tam są sklepienia piwnic przykryte gruzem i&nbsp;ziemią” – to jego „mocne korzenie”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Po&nbsp;co zadawać więc pytania miastu, patrząc na&nbsp;nie z&nbsp;góry? Czego można się dowiedzieć, czego jeszcze nie wiemy, odbywszy tyle spacerów<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> po&nbsp;zmienionych ulicach, co nam da widok z&nbsp;piętnastego piętra?</p> <h2>Nowe, inne miasto</h2> <p>Realizacja projektu fotograficznego Elżbiety Janickiej i&nbsp;Wojciecha Wilczyka rozpoczęła się ponad dwa lata temu<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Artyści wykonywali szkicowe zdjęcia najpierw kamerą nieprofesjonalną, potem wracali w&nbsp;wybrane lokalizacje z&nbsp;analogową kamerą z&nbsp;obiektywem 4 na&nbsp;5 cali i&nbsp;„harmonijkowym miechem” – wyglądającą okazale, jak sprzęt pochodzący z&nbsp;czasów powstawania pierwszych atelier fotograficznych (jak to Karola Beyera, który z&nbsp;balkonu wychodzącego na&nbsp;plac Saski wykonał jedne z&nbsp;pierwszych zachowanych fotograficznych wedut Warszawy<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>). Trzydzieści z&nbsp;nich pokazali na&nbsp;wielkoformatowych wydrukach w&nbsp;czerwcu 2013 roku w&nbsp;Zachęcie. Fotografie uzupełnili opisami identyfikującymi obiekty.</p> <p>Ten wspólny projekt ma cechy nieemocjonalnej, prowadzonej konsekwentnie, nieomal archiwistycznej dokumentacji. Autorzy przyznają się do korelowania swoich działań z&nbsp;danymi zebranymi przez poprzedników. Szczególnie ważna była wystawa i&nbsp;publikacja książki <em>Pamiętanie. Zabytki żydowskie Warszawy</em> Heleny Datner i&nbsp;Agaty Patalas<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> oraz podstawowy tekst <em>Getto warszawskie: przewodnik po&nbsp;nieistniejącym mieście</em> Barbary Engelking i&nbsp;Jacka Leociaka. Na&nbsp;pierwszy rzut oka poetyka zdjęć cyklu zdaje się przypominać dokumentalną praktykę Wojciecha Wilczyka, którą pamiętamy z&nbsp;<em>Niewinnego oka – </em>„proste i&nbsp;oczywiste” kolorowe kadry są „obiektywne”, chłodne, relacjonujące. Dla odmiany styl zdjęć Janickiej charakteryzował pewien krytyczny i&nbsp;emocjonalny nadmiar (widać to dobrze w&nbsp;cyklu <em>Miejsca nieparzyste</em>, gdzie na&nbsp;mocne przesłanie formalnie minimalistycznych zdjęć powietrza nad obozami zagłady, nadpisywały się warstwy znaczeń kolejnych decyzji – choćby użycie papieru firmy Agfa czy jednoznaczna autorska interpretacja dotycząca „prochów w&nbsp;powietrzu”): tym razem uległ on redukcji, zmuszając – z&nbsp;dobrym skutkiem – odbiorcę do większego wysiłku poznawczego. Z&nbsp;drugiej strony, nieprawdą byłoby twierdzenie, że&nbsp;protest Janickiej nigdzie nie pozwala się usłyszeć.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/co-widac-z-gory/144-1345-1-pb-1920x-f5c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/co-widac-z-gory/144-1345-1-pb-330x-4bd.jpg 330w,assets/cache/images/issues/2013/04/co-widac-z-gory/144-1345-1-pb-660x-918.jpg 660w,assets/cache/images/issues/2013/04/co-widac-z-gory/144-1345-1-pb-768x-7bd.jpg 768w,assets/cache/images/issues/2013/04/co-widac-z-gory/144-1345-1-pb-1320x-5b4.jpg 1320w" src="assets/cache/images/issues/2013/04/co-widac-z-gory/144-1345-1-pb-660x-918.jpg" alt="" ></a>    <figcaption><p>JANICKA &amp; WILCZYK. Duże getto. Widok z&nbsp;alei Solidarności 117 w&nbsp;kierunku północno-wschodnim - 12 kwietnia 2012</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Pozornie fotografie z&nbsp;cyklu wydają się swojskie, znajome, niczym zdjęcia zrobione z&nbsp;okien wysokich budynków, lub jak nieprofesjonalne, przypadkowe fotografie wykonywane z&nbsp;balkonów wieżowców czy dachów wyższych domów wtedy, gdy uda się na&nbsp;nie przypadkiem trafić. Po&nbsp;chwili jednak dociera do nas fakt skłamanej naturalności tego cyklu. Wszystkie kadry są podobnie pełne, obramowują liczne obiekty, trwające we wzajemnym sprzężeniu, jak gdyby działała między nimi siła elektrostatyczna. Każde zdjęcie z&nbsp;osobna mogłoby przypominać niespecjalnie ciekawą pocztówkę. Jednak razem osiągają zupełnie inny efekt: ich niemalowniczość okazuje się nagle nienaturalna. Na&nbsp;ujęciach widzimy to, czego nie da się dostrzec z&nbsp;poziomu ulicy, co wymyka się oku przechodnia, to, co podlega prawom użyteczności, nie zaś estetyki: falujące powierzchnie blachodachówek, sklejanych lepikiem pap, łuszczących się kominów, splątanych anten…</p> <p>Niezwyczajna jest cecha pokazywanej przestrzeni, którą można by nazwać zagraceniem, przypadkowością, nagromadzeniem architektonicznego śmiecia – zamiast weduty widokowej rysującej na&nbsp;horyzoncie elegancki, rozpoznawalny <em>city skyline</em> otrzymujemy poszarpaną linię nieharmonijnej zabudowy. Autorzy nigdy nie rezygnują z&nbsp;pokazania linii horyzontu: nawet wówczas, gdy prowadzą nasz wzrok w&nbsp;dół, powstrzymują możliwość gwałtownego zanurkowania obiektywem w&nbsp;studnie podwórzy, w&nbsp;otchłań przed nimi, co sprawia, że&nbsp;– jako widzowie – nigdy nie doświadczamy tej specyficznej trwogi, wiążącej się z&nbsp;pustką tuż przed aparatem. Hipoteza o&nbsp;dokumentalnym charakterze tego cyklu ostatecznie pada, gdy uświadomimy sobie rolę, jaką odgrywa tam światło: rozproszone, nieostre, chłodne, jakby pozbawione źródła, ze stalowoszarego nieba bez słońca, ogarniające budynki bez dramatyzmu rzucanych cieni. Miasto zdaje się trwać w&nbsp;stanie hibernacji: ulice są często puste, samochody stoją jeszcze na&nbsp;poboczach, ludzie pozostają niewidoczni. Nie ma też zieleni, która zasłaniałaby fasady, czyniąc widok tego miejsca bardziej znośnym. To miasto zamiera. Oglądamy krajobraz skażony nie-życiem.</p> <p>Autorzy czasem wspominają o&nbsp;<em>Metropoli Project</em> Johna Daviesa, nie jest on jednak dla <em>Innego miasta</em> wzorcem estetycznym: choć zdjęcia angielskiego fotografa również są komponowane z&nbsp;podwyższonego punktu obserwacyjnego (najbliżej warszawskich byłyby te z&nbsp;Newcastle i&nbsp;Gateshead – analityczny zapis nawarstwiającej się zabudowy), to są one skoncentrowane raczej na&nbsp;wybranym obiekcie, ujmowanym w&nbsp;szerokiej perspektywie, wyostrzonym, jakby wyciętym brzytwą. Fotograf od razu kieruje nasze spojrzenie w&nbsp;konkretne miejsce, nieomal nierealne w&nbsp;swej obecności, pozbawia nas przy tym jakiejkolwiek wskazówki interpretacyjnej. Dla odmiany Janicka i&nbsp;Wilczyk proponują nam las płaszczyzn, niechętnych wobec siebie, narzuconych, jakby nieplanowanym ruchem, na&nbsp;podobnie przypadkowe sześciany. Gdzie mamy patrzeć? Wędrówka oka zostaje precyzyjnie zaplanowana w&nbsp;towarzyszących zdjęciom opisach. Nie chodzi tu o&nbsp;skupienie spojrzenia, ale o&nbsp;meandrowanie, gubienie się, przejście.</p> <p>Notatki, często pomijane przy okazji reprodukowania zdjęć cyklu (np. w&nbsp;materiałach portalu OtwartaZacheta.pl), są – jestem o&nbsp;tym przekonana – absolutnie koniecznym elementem projektu. Być może mieszkańcy <span class="rozstrzelony">innego miasta</span> inaczej odczytują tę przestrzeń, podczas gdy moja perspektywa jest nieudomowiona – wszystkie obiekty są obce, nazwy ulic są puste, z&nbsp;większością budynków nie łączy mnie żadne wspomnienie, chłodnym okiem mogę patrzyć na&nbsp;zimne kadry. Opisy zdjęć są konieczną instrukcją. Tracąc poznawczą wolność (kierowana uwagami „na pierwszym planie”; „na drugim planie”, „przy krawędzi obrazu z&nbsp;prawej strony”, „równolegle do”, „w centrum”, „powyżej, na&nbsp;horyzoncie”), zyskuję wiedzę. Nie rozpoznałabym z&nbsp;góry fasady Państwowego Teatru Żydowskiego, wieżowiec obok nie miałby dla mnie nazwy. W&nbsp;zamian za&nbsp;uczytelnienie przestrzeni muszę wykonywać polecenia ukryte pod&nbsp;bezosobową, pozbawioną orzeczeń instrukcją. Gra, w&nbsp;którą zostaję wciągnięta, przypomina dziecięce <em>I spy with my beautiful eye</em> – wyszukiwanie szczegółów. W&nbsp;zaproponowanej wersji jest ono trudne: oko gubi się, porusza się z&nbsp;oporem, odmawia współpracy.</p> <p></p> <blockquote>Małe getto [Widok z&nbsp;Grzybowskiej 5 w&nbsp;kierunku południowo-zachodnim — 8 kwietnia 2011]. Na&nbsp;pierwszym planie po&nbsp;prawej fragment Domu Gminy Żydowskiej przy Twardej 6 (<em>Czy to ten biały urywek bocznej ściany?)</em>. Wyżej w&nbsp;prześwicie między blokami (<em>Którymi? Centralnymi czy lekko po&nbsp;prawej?) </em>aleja Jana Pawła II (d. Juliana Marchlewskiego, przed 1945 roku nieistniejąca) (<em>Chodzi o&nbsp;ulicę odchodzącą w&nbsp;prawo czy w&nbsp;lewo? Nie rozpoznam alei Jana Pawła z&nbsp;tej perspektywy)</em> i&nbsp;Rondo ONZ (przed 1945 odcinek Twardej) (<em>Nie dostrzegam ronda</em>, <em>jest zasłonięte ramieniem żurawia budowlanego?)</em>. Na&nbsp;pierwszym planie po&nbsp;lewej fragment Państwowego Teatru Żydowskiego im. Estery Rachel i&nbsp;Idy Kamińskich (<em>Chodzi o&nbsp;szary fragment dachu?).</em> Dalej ulica Twarda, fragment kolumnady i&nbsp;transeptu rzymskokatolickiego kościoła pod&nbsp;wezwaniem Wszystkich Świętych przy placu Grzybowskim (<em>Kolumnada orientuje mnie wreszcie w&nbsp;przestrzeni</em>). Na&nbsp;środku wykop pod&nbsp;budowę wieżowca Cosmopolitan. Od Twardej w&nbsp;głąb obrazu odchodzi ulica Emilii Plater. Lokalizacja Pałacu Kultury i&nbsp;Nauki odpowiada południowo-wschodniemu krańcowi getta<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>.</blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/co-widac-z-gory/144-1347-1-pb-1920x-eb9.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/co-widac-z-gory/144-1347-1-pb-330x-7ed.jpg 330w,assets/cache/images/issues/2013/04/co-widac-z-gory/144-1347-1-pb-660x-f31.jpg 660w,assets/cache/images/issues/2013/04/co-widac-z-gory/144-1347-1-pb-768x-fdf.jpg 768w,assets/cache/images/issues/2013/04/co-widac-z-gory/144-1347-1-pb-1320x-4a9.jpg 1320w" src="assets/cache/images/issues/2013/04/co-widac-z-gory/144-1347-1-pb-660x-f31.jpg" alt="" ></a>    <figcaption><p>JANICKA &amp; WILCZYK. Małe getto. Widok z&nbsp;Pańskiej 65 w&nbsp;kierunku północno-zachodnim - 8 kwietnia 2011</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Śledztwo prowadzone niewprawnym, obcym okiem jest ułomne, śmiesznie nieporadne, rozejścia się ulic i&nbsp;fragmenty dachów oraz topograficzno-historyczne dane spływają w&nbsp;końcu w&nbsp;bezsilnym geście w&nbsp;rozkop, wyrwę w&nbsp;asfalcie, w&nbsp;miejsce wejścia do podziemnego świata, do korzeni miasta. Zdjęcie placu Grzybowskiego z&nbsp;8 kwietnia 2011 roku to najbardziej przejmujący kadr cyklu, dramatycznie zbliża obserwatora do skrywanej tajemnicy tego obszaru. I&nbsp;od razu cierpko komentuje daremność poznawczych oczekiwań. Wyprawa do <span class="rozstrzelony">prawdziwego miasta</span> nie uda się: wykop natychmiast zostaje zasklepiony, już widać stemple, podjeżdża betoniarka. Posłuży niepamięci, splendorowi własności, rozbudzaniu złudzenia postępu i&nbsp;kultu tego, co wydarzy się w&nbsp;przyszłości. Przeszłość nie wymknie się na&nbsp;zewnątrz. Jak zawsze, gdy chodzi o&nbsp;problematyczne dziedzictwo.</p> <p>Autorzy projektu właściwie nie mówią wprost, co skrywa pod&nbsp;ziemią Warszawa. Poetyka cyklu <em>Inne Miasto</em> aktywuje myślenie krytyczne: przez chwilę nie wiadomo, czy będzie ono dotyczyć oczywistego problemu marnej estetyki miasta, czy raczej praktyk komercjalizacji terenów mieszkalnych i&nbsp;degradacji życia społecznego. Podpisy – wśród nich często pojawiające się słowo „getto” – podpowiadają, że&nbsp;chodzi o&nbsp;coś innego. Martwota kadrów staje się zrozumiałą interwencją: odrodzone na&nbsp;gruzach życie na&nbsp;chwilę zostaje powstrzymane, by nie wpływało na&nbsp;interpretację tej przestrzeni. Teraz, gdy trwa znieruchomiałe, możliwe jest krytyczne zbadanie ruin, resztek, śladów. Co tam można zobaczyć?</p> <h2>Trudne dziedzictwo</h2> <p>Miasta po&nbsp;wojnie leczą blizny, naprawczy proces nie jest jednak jedynie rekonstrukcją, zwykle staje się okazją do (politycznej) korekty<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>. Żydowska dzielnica Scheunenviertel, która po&nbsp;wojnie znalazła się po&nbsp;wschodniej stronie Berlina, została przebudowana. Nazwy ulic i&nbsp;placów, po&nbsp;1933 roku noszące czasem nowe miana upamiętniające nazistów, zostały zmienione tak, by chwaliły bojowników komunistycznych (którzy nigdy nie mieszkali w&nbsp;tej części miasta). Po&nbsp;roku 1989 przemiany architektoniczne centrum uwzględniły przywrócenie obiektów o&nbsp;pożądanej konotacji (tradycje handlowe) za&nbsp;cenę niszczenia tkanki komunistycznej. „Przywracanie” nie objęło jednak żydowskiego dziedzictwa. W&nbsp;Scheunenviertel stoją bloki, wznoszone na&nbsp;miejscu wyburzanych w&nbsp;latach osiemdziesiątych budynków żydowskich<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. Podobnie w&nbsp;Warszawie – powojenna rekonstrukcja miasta była próbą powrotu do konkretnej chwili historycznej. Punktem odniesienia stała się osiemnastowieczna Warszawa, saska i&nbsp;stanisławowska, jeszcze sprzed ekspansji dzielnicy żydowskiej, która rozpoczęła się później, w&nbsp;okolicy roku 1809. Kolejna rekonstrukcja, ta po&nbsp;1989 roku, zwraca się ku utopijnej przyszłości – Warszawa ma być szklana, neutralna, międzynarodowa. Oba porządki nie dopuszczają odtworzenia tradycji etniczności, w&nbsp;tym dziedzictwa żydowskiego.</p> <p>Brytyjska socjolożka Sharon Macdonald trafiła do Norymbergi badając <em>memorylands</em> – krainy pamięci. Jadąc na&nbsp;<em>Reichsparteitagsgelände, </em>pola zjazdów NSDAP, spodziewała się posępnego, pustego miejsca: przestrzeni zaniedbanej przez współczesność, semiotycznie i&nbsp;afektywnie nieneutralnej, w&nbsp;której <span class="rozstrzelony">poczucie</span> przeszłości byłoby obezwładniające, a&nbsp;pochodzenie – czytelne. Zastała w&nbsp;tym miejscu tereny zielone, wypoczynkowe, staw, osiedla mieszkaniowe, boiska. Zaskoczona niekongruencją żywości, beztroski i&nbsp;ciężaru przeszłości przyglądała się bliżej temu, co nazwała <span class="rozstrzelony">trudnym dziedzictwem</span>. Byłyby nim, jak pisała, „miejsca, w&nbsp;których przeszłość jest postrzegana jako znacząca dla teraźniejszości, lecz jednocześnie jest kontestowana i&nbsp;niewygodna dla procesów publicznego godzenia przeszłości z&nbsp;pozytywną, samo-afirmatywną współczesną tożsamością”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Nazywając precyzyjnie liczną grupę materialnych resztek, pozostałości po&nbsp;przeszłości, wskazała na&nbsp;charakterystyczne dla miejsc o&nbsp;konfliktowej historii, szczególnie więc obecne w&nbsp;topografii naszego, środkowoeuropejskiego regionu, zjawisko. <span class="rozstrzelony">Trudne dziedzictwo</span> jest na&nbsp;widoku, a&nbsp;jednak nie jest całkiem widoczne. Jest świadectwem przeszłości, której powrót niszczy dzisiejszą samoocenę, identyfikację, narusza podwaliny tożsamości tej grupy, która zamieszkuje dany obszar. Musi więc być usunięte. A&nbsp;jeśli przypadkiem ocalało i&nbsp;dziś akt destrukcji zbytnio zwracałby uwagę, ujawniając skryte lęki, należy je opracować, zakryć, zasłonić, zdeformować, odwrócić od niego wzrok przechodniów. <span class="rozstrzelony">Trudne dziedzictwo</span> jest kłopotliwe, bo&nbsp;zagraża niszczącym wtargnięciem przeszłości w&nbsp;teraźniejszość: jest potencjalnym zapalnikiem, grożącym otwarciem społecznych podziałów. Łączy się zwykle z&nbsp;nieustającymi konfliktami interesów i&nbsp;różnicami poglądów. Negocjowane praktyki społeczne są ruchome, wytwarzane i&nbsp;niehomogeniczne, ustalone lub produkowane przez administrację i&nbsp;ustawodawstwo. W&nbsp;nieomal „naturalny” sposób – taki, któremu nie daje się przypisać sprawczego podmiotu – kłopotliwe miejsce podlega działaniom: jest przebudowywane (<em>Märzfeld</em> stało się osiedlem mieszkaniowym), wyburzane częściowo (jak <em>Kongresshalle</em>), pieczętowane plamą betonu (<em>Luitpoldhalle</em> stało się parkingiem), wody lub zieleni (<em>Srebrne jezioro</em> na&nbsp;miejscu <em>Deutsches Stadion</em>). Zmienia się jego funkcje, często dopuszczając te najbardziej niefrasobliwe i&nbsp;ludyczne (<em>Zeppelinfeld</em> jest miejscem masowych koncertów) lub przeciwnie, neutralizując zarzut niepamięci upamiętnieniem (wystawa <em>Faszination und Gewalt</em> w&nbsp;Hali Kongresowej). Przemieszczanie funkcji, dekonstrukcja budynków wymaga działań odgórnych, o&nbsp;dużej skali, mnożą się jednak również drobniejsze gesty wymazywania, zasłaniania kłopotliwej schedy: znikają napisy, ornamenty, znaki wskazujące na&nbsp;niechcianą przeszłość. Negocjacji i&nbsp;zmianie podlega nie tylko fizyczny kształt obiektów, ich funkcja, ale też ich dostępność, dozwolone użycia, sposób poruszania się wobec nich. Preferowany okazuje się taki, który najmniej wskazywałby na&nbsp;szczególność materialnej pozostałości – a&nbsp;więc bezrefleksyjny, ludyczny, mechaniczny, obojętny. Przechodzimy, nie zauważając go – oto skutecznie zneutralizowane <span class="rozstrzelony">trudne dziedzictwo</span>, umiejscowione w&nbsp;ślepej plamce, na&nbsp;dnie niewinnego oka.</p> <p>W tej perspektywie projekt Janickiej i&nbsp;Wilczyka jest ważną interwencją. Zmusza do zatrzymania rozproszonej zwykle uwagi na&nbsp;obiekcie, którego przeszła konotacja podlega usuwaniu. Autorzy kierują wzrok odbiorcy nie tylko na&nbsp;place, ulice, ale przede wszystkim na&nbsp;budynki, których przeszłość wskazywałaby na&nbsp;obecność kultury polskich Żydów. Słuszność tego wyboru potwierdziłaby Macdonald: wśród wielu typów manipulowanych obiektów trudnego dziedzictwa najważniejsze są właśnie budowle. Są najbardziej oczywistym elementem materialnego dziedzictwa w&nbsp;większości kultur. Zabudowania to największe formy kultury materialnej: trwałe, widoczne, są dowodem historycznej ciągłości<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Budynki to „słowa w&nbsp;kamieniu”, wierzył Albert Speer, wznosząc monumentalne struktury Norymbergii. Jego nazistowsko-ruskinowska teoria <em>Ruinenwert</em> zakładała, że&nbsp;odpowiednio zaprojektowane, wykonane z&nbsp;klasycznych materiałów budowle zdolne będą łączyć pokolenia, działać jako „mosty tradycji”, nawet po&nbsp;upływie tysiąclecia, nawet w&nbsp;formie ruiny – jak Partenon. Mieszczańska zabudowa początku wieków, a&nbsp;tym bardziej zdegenerowane – budowane z&nbsp;nietrwałych materiałów, takich jak szkło i&nbsp;stal – konstrukcje modernistyczne były dla celów tej ideologii nieodpowiednie. Nieodporne na&nbsp;atak, obracałyby się nie w&nbsp;<span class="rozstrzelony">ruinę</span>, ale w&nbsp;znaczeniowo martwe gruzowisko. W&nbsp;zgliszcza, rumowisko został zmieniony teren getta w&nbsp;Warszawie. Pozostałe nieliczne budynki, jakby zgodnie z&nbsp;zamysłem nazistów, nie mają jednak – jak diagnozują Janicka i&nbsp;Wilczyk – semiotycznej siły: nic nie znaczą. Cykl <em>Inne Miasto</em>, podobnie jak <em>Getto warszawskie: przewodnik po&nbsp;nieistniejącym mieście</em><sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>, <em>Festung Warschau</em>, <em>Pamiętanie. Zabytki żydowskie Warszawy</em> czy – mapujące większy teren – <em>Niewinne oko</em> są akcją, performensem, gestem sprzeciwu wobec manipulacyjnej analgetyki nowoczesnych miast obarczonych trudnym dziedzictwem. To zmuszanie wzroku, by wniknął pod&nbsp;pozory, by dotarł do sedna, do korzeni.</p> <h2>Co widać z&nbsp;góry</h2> <p>Czemu jednak służy zmuszanie widza do przyjmowania nienaturalnego, nie-ulicznego punktu widzenia (punktu widzenia, który byłby dla niego o&nbsp;wiele bardziej zrozumiały)? Dzięki takiemu zabiegowi cykl Janickiej i&nbsp;Wilczyka unika z&nbsp;pewnością konotacji z&nbsp;wizualnym przewodnikiem. Skoro jednak celem ma tu być pobudzenie uwagi, pozostaje pytanie, czy projekt więcej na&nbsp;tym zyskuje, czy traci?</p> <p>„Widok z&nbsp;góry” ma wiele obciążających konotacji. Ta kompozycja, znana od szesnastego stulecia, jest zasadniczo identyfikowana z&nbsp;podwyższonym topograficznie miejscem – wzgórzem, wieżą zamkową, basztą – a&nbsp;wiec spojrzeniem należącym do elity, do zamkniętej kasty zamożnych, których stać na&nbsp;konstrukcję wyższą niż otoczenie. Dziś podstawowym skojarzeniem jest widok z&nbsp;okien wieżowców, ze znajdujących się w&nbsp;środku gabinetów – to widok władzy. Wzrok tych, którzy są właścicielami takich „widoków”, obejmuje miasto niczym teren łowów, podboju, przejmowania w&nbsp;posiadanie, sprawowania kontroli, kolonizacji, dominacji. Spojrzenie z&nbsp;góry ma też dalsze militarne asocjacje: jest spojrzeniem szpiega, wroga, mapującego cele wyznaczone do ataku. W&nbsp;każdym z&nbsp;przypadków niesie ze sobą supozycję walki, próby sił, sporu, pragnienia przewagi i&nbsp;podporządkowania. Dalej, ten widok jest zrozumiały, ponieważ jest efektem wprowadzenia idei widzenia perspektywicznego, z&nbsp;jego pojedynczym, nieruchomym, niezależnym, odcieleśnionym podmiotem. Spojrzenie z&nbsp;góry wprowadza więc mocny, kartezjański punkt widzenia z&nbsp;jego zaufaniem do wiedzy, z&nbsp;jego pretensją do władzy.</p> <p>Skrajny wariant tej kompozycji – spojrzenie z&nbsp;lotu ptaka (lub z&nbsp;punktu tak wysokiego, że&nbsp;tkanka miasta pozostaje w&nbsp;znacznym oddaleniu), upowszechnione po&nbsp;eksperymentach Nadara z&nbsp;połowy XIX wieku z&nbsp;fotografowaniem z&nbsp;balonu, historycznie obecne i&nbsp;wyobrażane, mimo braku doświadczenia empirycznego, już wcześniej<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup> – może być źródłem przetworzenia widoku w&nbsp;plan miasta. To, co postrzegane, w&nbsp;takim wypadku ulega schematyzacji, opracowaniu, estetyzacji. Świat staje się homogeniczny, miasto przekształca się w&nbsp;utopię<sup></sup><sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>, o&nbsp;której pisał Louis Marin, analizując kompozycję „spojrzenia z&nbsp;wysoka” na&nbsp;podstawie doświadczenia turysty na&nbsp;szczycie Sears Tower w&nbsp;Chicago. Patrzenie z&nbsp;góry może też się stać źródłem poczucia wolności, ekstazy i&nbsp;swobody. W&nbsp;obu przypadkach jednak patrzący zostaje zrównany z&nbsp;„dominującym okiem, totalizującym widokiem, wzrokowym lub teoretycznym sprawowaniem władzy nad przestrzenią, w&nbsp;pojedynczym momencie za&nbsp;pośrednictwem swego oka identyfikuje się z&nbsp;zarządcą wieży i&nbsp;metonimicznie – z&nbsp;władcą świata”<sup></sup><sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/04/co-widac-z-gory/144-1350-1-pb-1920x-97f.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/04/co-widac-z-gory/144-1350-1-pb-330x-b27.jpg 330w,assets/cache/images/issues/2013/04/co-widac-z-gory/144-1350-1-pb-660x-523.jpg 660w,assets/cache/images/issues/2013/04/co-widac-z-gory/144-1350-1-pb-768x-920.jpg 768w,assets/cache/images/issues/2013/04/co-widac-z-gory/144-1350-1-pb-1320x-6ce.jpg 1320w" src="assets/cache/images/issues/2013/04/co-widac-z-gory/144-1350-1-pb-660x-523.jpg" alt="" ></a>    <figcaption><p>JANICKA &amp; WILCZYK. Małe getto. Widok z&nbsp;Zielnej 39 w&nbsp;kierunku północno-zachodnim - 13 kwietnia 2012</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Jakie są inne konsekwencje przyjęcia takiego punktu widzenia? Widok z&nbsp;tak obranego miejsca ma dwie osie, po&nbsp;których podąża oko odbiorcy: pierwsza skierowana jest w&nbsp;dół, ku obiektom na&nbsp;bliższym planie – wtedy nasz wzrok ześlizguje się po&nbsp;dachach Warszawy w&nbsp;poszukiwaniu śladów muru getta, fasad, orientacyjnych punktów na&nbsp;ulicach. Druga oś ciągnie wzrok poziomo, ku horyzontowi. Horyzont jako pojęcie ma również podwójną konotację: jest kresem, odcięciem, zamykającym to, co przed nim, i&nbsp;oddzielającym widzialny świat od nieznanego; w&nbsp;romantycznej wersji jest też tajemnicą, nieznanym, tym, co niebezpieczne, nie-ludzkie, boskie. Ponieważ autorzy projektu nigdy nie rezygnują z&nbsp;pokazania linii oddzielającej miasto od nieba, można zakładać, że&nbsp;chcą, by nasze spojrzenie powędrowało horyzontalnie. Wzrok, zamiast spadać w&nbsp;dół, biegnie przed siebie – jak gdyby jego celem miałaby być przyszłość. Nazwa tej kompozycji – <em>prospekt</em> – sugeruje właśnie wychylanie się ku temu, co nadejdzie.</p> <p>Użycie przez Janicką i&nbsp;Wilczyka kompozycji z&nbsp;podwyższonego punktu widzenia trudno więc zrozumieć, jeśli weźmie się pod&nbsp;uwagę możliwe kulturowe konotacje zastosowanych chwytów. W&nbsp;innych elementach poetyki tych zdjęć da się przecież odczytać zamierzenia skrajnie inne od tych, które są kojarzone z&nbsp;„widokiem z&nbsp;góry”: krytykę przewagi, przemocy i&nbsp;podbijania miasta racjami biznesu i&nbsp;władzy; niechęć wobec homogenizacji i&nbsp;estetyzacji; nakierowywanie uwagi nie na&nbsp;przyszłość, ale na&nbsp;przeszłość. Czemu więc w&nbsp;<em>Innym mieście</em> patrzymy z&nbsp;wysoka?</p> <p>Janicka i&nbsp;Wilczyk ostrożnie stosują konwencję. Nigdy nie fotografują powyżej piętnastego piętra – zależy im na&nbsp;tym, by obraz nie przestawał być czytelny, by ulice nie zmieniały się w&nbsp;schemat planu, by miasto, w&nbsp;końcu, nie przekształcało się w&nbsp;homogeniczną utopię, w&nbsp;symulakrum pełni, w&nbsp;panoptykon. Punkt, z&nbsp;którego fotografują, jest uniesiony, ale nie pozostaje poza doświadczeniem człowieka. Jesteśmy tuż nad dachami, kontrola nad uwidaczniającym się światem nie jest więc totalna. Nie spoglądamy na&nbsp;ludzi, nie zaglądamy w&nbsp;okna – projekt nie jest w&nbsp;żadnej mierze voyeurystyczny. Wyjście ponad domy nie jest też mechanizmem obronnym, o&nbsp;którym pisał w&nbsp;<em>Wynaleźć codzienność</em><sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup> Michel de Certeau. Dla niego wspięcie się na&nbsp;World Trade Center mogłoby być równe pragnieniu ucieczki przed wchłonięciem w&nbsp;miasto, chęcią opuszczenia tłumu, marzeniem o&nbsp;odcieleśnieniu, o&nbsp;przemianie. Spoglądanie „z wysokości” przypomina raczej nieradykalną, inspirowaną wierszem Marcina Sendeckiego, praktykę Wilczyka z&nbsp;cyklu o&nbsp;tym tytule: idzie w&nbsp;niej raczej o&nbsp;to, co dostrzegamy <em>schodząc</em> ku ziemi, gdy nasz wzrok z&nbsp;horyzontu przeniesiemy znów w&nbsp;najbliższą okolicę:</p> <blockquote>Z wysokości drugiego piętra widać parking, wieżyczki<br>cerkwi i&nbsp;łuski tynku na&nbsp;ciele zmieniających skórę<br>bloków, dalej, za&nbsp;ścianą, ludzie przemierzający ulice<br>połykają sylaby, wstążka deszczu zaciska się na&nbsp;krtani,<br>schodząc widzisz…<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup></blockquote> <h2>Skala i&nbsp;zasięg</h2> <p>Projekt <em>Innego miasta</em> chciałabym więc czytać jako akt przenoszenia wzroku z&nbsp;horyzontu na&nbsp;bliższy plan. To, co mam dostrzec, patrząc wedle osi poziomej, sugerują opisy zdjęć. Dwa sformułowania bowiem powtarzają się częściej niż inne: „Lokalizacja Pałacu Kultury i&nbsp;Nauki odpowiada południowo-wschodniemu krańcowi getta”; „Wieżowiec AXA przy Chłodnej, nieopodal zachodniej granicy getta”. Z&nbsp;góry widać więc punkty orientacyjne, potrzebne nie dla celów władzy czy podboju, ale dla pierwotnej, podstawowej czynności poznawczej – wykreślania <span class="rozstrzelony">skali</span>, uzmysławiania sobie <span class="rozstrzelony">zasięgu</span>. To dzięki temu zabiegowi uświadamiamy sobie, jak rozległe było getto, jak centralnie było położone w&nbsp;stosunku do dzisiejszego obszaru miasta. W&nbsp;tym momencie dociera do nas, że&nbsp;autorom nie chodzi wcale o&nbsp;żydowskie dziedzictwo, ale o&nbsp;żydowskie cierpienie.</p> <p>Patrząc w&nbsp;dół rozpoznajemy szczegóły, dostarczane z&nbsp;administracyjną precyzją danych adresowych. Analiza jest obiektywna: Janicka i&nbsp;Wilczyk podając informacje o&nbsp;istniejących upamiętnieniach, pomnikach, nie starają się za&nbsp;wszelką cenę udowodnić tezy o&nbsp;totalnej amnezji miasta, niechcącego pamiętać o&nbsp;tragedii znacznej liczby swoich obywateli. Opisy uzmysławiają skalę zmian, zdjęcia robione w&nbsp;zbliżonych lokalizacjach, w&nbsp;różnym czasie ilustrują ich tempo. Może się zdawać, że&nbsp;autorzy cyklu nie mogą znieść <em>żywości</em> tego nowego miejskiego organizmu, jego bezmyślnego parcia w&nbsp;przód, obłędnej realizacji instynktu przetrwania. Błędem byłoby jednak myślenie, że&nbsp;żądaliby dla Warszawy projektu podobnego do pierwotnego założenia zespołu Oskara Hansena dla Birkenau – nie chodzi o&nbsp;zamrożenie, zlepienie za&nbsp;pomocą szkła wodnego, wapnia i&nbsp;cementu ziemi zawierającej prochy i&nbsp;krew tak, by nigdy nie zaszła w&nbsp;tym organicznym materiale żadna zmiana. Janicka i&nbsp;Wilczyk sugerują raczej, że&nbsp;akt powrotu do życia nie musi się równać powrotowi do zdrowia. Miasto, odwracając się plecami do części swojej przeszłości, okazuje symptom, który można interpretować dwojako. Zasłanianie <span class="rozstrzelony">trudnego dziedzictwa</span> to efekt wciąż działającej traumy, nieprzepracowanego zranienia, które grozi nawrotem, jest więc wypierane. Lub gorzej – jest znakiem trwałej amnezji, nieodwracalnego zniszczenia tkanki neuronalnej – tragiczna przeszłość przerzucona zostaje za&nbsp;odległy horyzont, odgrodzona od codzienności jak średniowieczne cmentarze, będące przecież materialną podstawą wielu placów miejskich starych miast, po&nbsp;których spacerujemy bez nadawania temu żadnego znaczenia. W&nbsp;pierwszym przypadku możliwa jest terapia, w&nbsp;drugim da się tylko przystosować pacjenta do wiążących ograniczeń. Możliwe jest więc jeszcze pełne życie lub miasto na&nbsp;zawsze skazane jest na&nbsp;kaleki byt. Autorzy zdają się wierzyć w&nbsp;pierwszą z&nbsp;opisanych możliwości. Kłują, dotkliwie cisną ranę, by znowu zaczęła krwawić. Dotykają swoim projektem zasadniczego, moim zdaniem, problemu nie tylko Warszawy, lecz wielu miejsc Środkowej Europy – takich jak krakowski Płaszów, kijowski Babi Jar, Umschlagplatz w&nbsp;Lublinie – gdzie na&nbsp;tragedii i&nbsp;traumie odrodziło się życie. Lokalizacji kontestujących swą przeszłość, zmieszanych, splątanych, które nazywam przy innych okazjach <em>nie-miejscami pamięci</em>. Pozbawionych zarówno właściwości udomowionego miejsca, jak i&nbsp;pełni indywidualnej pamięci. Czy ich żywo-martwy stan – w&nbsp;którym uczestniczymy my wszyscy, urodzeni na&nbsp;terenach nazywanych przez przybyszy <em>blood</em>-<em>memorylands</em> – stanie się choć trochę bardziej jasny, czy wypracujemy praktyki godzące prawo do wspominania śmierci i&nbsp;rozwijania życia? To zależeć będzie od podobnych, antropologicznych, krytycznych przedsięwzięć, będących próbą zrozumienia sposobów organizacji najbliższego otoczenia, podejmowanych działań i&nbsp;przyjmowanych postaw w&nbsp;nie-miejscach <span class="rozstrzelony">trudnego dziedziczenia</span>.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>To fragment raportu berlińskich architektów odwiedzających w 2004 roku rodzinne miasto Marianne Hirsch. Cyt. za: Marianne Hirsch, Leo Spitzer, <em>Ghosts of Home: The Afterlife of Czernowitz in Jewish Memory</em>, University of California Press, Berkeley 2010, s. 60-61.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Robert Pinsky, <em>City Elegies, </em>w: <em>The Figured Wheel: New and Collected Poems 1966-1996</em><em>, </em>Farrar Straus and Giroux, New York 1996; tekst dostępny na stronie: <a href="http://www.poetryfoundation.org/poem/177960" target="_blank" rel="noopener">http://www.poetryfoundation.org/poem/177960</a>, dostęp 4 lutego 2014.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Barbara Engelking, Jacek Leociak, <em>Getto warszawskie. Przewodnik po nieistniejącym mieście</em>, IFiS PAN, Warszawa 2001, s. 766; także: <a href="http://zmh.um.warszawa.pl/wstep3.htm" target="_blank" rel="noopener">http://zmh.um.warszawa.pl/wstep3.htm</a>, dostęp 4 lutego 2014.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Elżbieta Janicka, <em>Festung Warschau</em>, Wydawnictwo Krytyki Politycznej, Warszawa 2011; Wojciech Wilczyk, <em>Niewinne oko nie istnieje</em>, Atlas Sztuki, Korporacja Ha!Art, Łódź-Kraków 2010.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> W marcu 2011 według wpisu Wojciecha Wilczyka: <a href="http://hiperrealizm.blogspot.com/2011/04/nowe-miasto.html" target="_blank" rel="noopener">http://hiperrealizm.blogspot.com/2011/04/nowe-miasto.html</a>, dostęp 4 lutego 2014.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Danuta Jackiewicz, <em>Fotografowie Warszawy. Karol Beyer 1818-1877</em>, Dom Spotkań z Historią, Muzeum Narodowe w Warszawie, Warszawa 2012.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Helena Datner, Agata Patalas<em>, Pamiętanie. Zabytki żydowskie Warszawy</em>, Gmina Wyznaniowa Żydowska w Warszawie, Warszawa 2001.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Janicka &amp; Wilczyk, <em>Inne Miasto / Other City</em>, Zachęta – Narodowa Galeria Sztuki, Warszawa 2013, s. 56.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote9sym">9</a> Jane Schneider, Ida Susser, <em>Wounded Cities: Destruction and Reconstruction in a Globalized World</em>, Berg, Oxford-New York 2003, s. 17. O losach dzielnic żydowskich w Europie Środkowej: <em>Reclaiming Memory: Urban Regeneration in the Historic Jewish Quarters of Central European Cities</em>, red. M. Murzyn-Kupisz, J. Purchla, International Cultural Centre, Kraków 2009.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Katharina Gerstenberger, <em>Writing the New Berlin: The German Capital in Post-Wall Literature</em>, Camden House, Rochester 2008, s. 78-9.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Sharon Macdonald, <em>Difficult Heritage: Negotiating the Nazi Past in Nuremberg and Beyond</em>, Routledge, London 2008, s. 1.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Ibidem. s. 25.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Z którym łączy przedsięwzięcie Janickiej i Wilczyka reprodukowana na końcu katalogu wystawy mapa Pawła E. Weszpińskiego, pochodząca z <em>Przewodnika po nieistniejącym mieście</em>.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a><em>Seeing From Above: The Aerial View in Visual Culture</em>, red. M. Dorrian, F. Pousin, I.B.Tauris, London 2013.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> W którą przeradza się przypominany czasem w wywiadach przez autorów projekt filmowania terenu Osiedla za Żelazną Bramą przez Jarosława Kozakiewicza (<em>Natura (do) mieszkania</em>, 2006). Tu zieleń dawała w magiczny sposób odpór betonowi, obrastając w końcu budynki.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Louis Marin, <em>Frontiers of Utopia: Past and Present</em>, „Critical Inquiry” 1993, nr 3 (19), s. 389.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Michel de Certeau, <em>Wynaleźć codzienność. </em><em>Sztuki działania</em>, przeł. K. Thiel-Jańczuk, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2008, s. 93-4: „Wznieść się na szczyt World Trade Center to uciec przed wchłonięciem przez miasto […]. Ten, kto się tam wznosi, opuszcza unoszący go i mieszający tożsamość autorów i widzów tłum. [ …] Owo wznoszenie przekształca go w obserwatora, stawia w oddaleniu. Zmienia w bliski tekst świat, który go oczarowywał i „zawłaszczał”. Umożliwia jego czytanie, stawanie się słonecznym Okiem, boskim spojrzeniem”. Projekt <em>Innego miasta</em> skonstruowany jest jako krytyka tego rodzaju stwierdzeń: opuszczane miasto nie jest „oczarowujące”; widok z wysoka nie pozwala użyć modeli tekstualnych do jego zrozumienia, patrzący nie przyjmuje pozycji boga, jego „słoneczność” (jako „źródła światła” wydobywającego się ze szczytu „stożka perspektywy”) jest wykpiona. Popęd skopiczny i poznawczy są wystawione na próbę, z której nie wyjdą wzmocnione.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Marcin Sendecki, <em>Z wysokości - wiersze z lat 1985-90</em>, biblioteka, Kraków-Warszawa 1992.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/ruinacja/co-widac-z-gory.-inne-miasto-i-jego-trudne-dziedzictwo" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

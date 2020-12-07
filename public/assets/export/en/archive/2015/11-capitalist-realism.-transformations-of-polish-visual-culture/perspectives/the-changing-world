@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Świat się zmienia | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2015/swiat-sie-zmienia">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Świat się zmienia | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Świat się zmienia | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2015/swiat-sie-zmienia">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Świat się zmienia | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #daa520 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #daa520 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #daa520 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #daa520 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #daa520 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #daa520 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #daa520 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #daa520 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(218,165,32,0.8) !important; */
+			/* background-color:#daa520 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(218,165,32,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#daa520 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(218,165,32,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#daa520; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(218,165,32,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(218,165,32,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#daa520 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#daa520 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#daa520 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-962 parent-id-929">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="438" data-selected-issue-color="#daa520" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/11-capitalist-realism.-transformations-of-polish-visual-culture#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/11-capitalist-realism.-transformations-of-polish-visual-culture/the-changing-world">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2015/realizm-kapitalistyczny.-transformacje-kultury-wizualnej-lat-80.-i-90#toc">11</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2015/swiat-sie-zmienia?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Świat się zmienia</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2015/swiat-sie-zmienia?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=373">Nicolas Mirzoeff</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Przełożył: 
+		
+		Łukasz Zaremba
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Fragment książki Nicholasa Mirzoeffa, <em>Jak zobaczyć świat</em>, Wydawnictwo Karakter-Muzeum Sztuki Nowoczesnej w&nbsp;Warszawie, Warszawa 2016</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4681-1-pb-1920x-41f.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4681-1-pb-330x-51e.jpg 330w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4681-1-pb-660x-0b9.jpg 660w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4681-1-pb-768x-5fa.jpg 768w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4681-1-pb-1320x-e4f.jpg 1320w" src="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4681-1-pb-660x-0b9.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Skąd wiemy, że&nbsp;klimat się zmienił? Mamy do czynienia z&nbsp;kwestiami skali, pomiaru i&nbsp;interpretacji, które wydają się bardzo abstrakcyjne. Zresztą abstrakcyjne jest już samo pojęcie klimatu – wyobrażenie stworzone na&nbsp;podstawie zmieniających się danych, którego nie da się po&nbsp;prostu zaobserwować<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. Niemożliwe jest przecież przeprowadzenie eksperymentu dotyczącego zjawiska o&nbsp;skali planetarnej. Dlatego, aby wyjaśnić procesy, za&nbsp;sprawą których na&nbsp;Ziemi przez ostatnie 12 tysięcy lat (niewielki wycinek czasu w&nbsp;skali geologicznej) utrzymywała się temperatura umożliwiająca osiadłe życie ludzkie i&nbsp;rolnictwo, naukowcy stworzyli model nazwany obiegiem węgla w&nbsp;przyrodzie. Poziom wydychanego przez zwierzęta dwutlenku węgla był równoważony przez fotosyntezę roślin. Także oceany uwalniały i&nbsp;asymilowały znoszące się ilości tego gazu. Poziom niewidzialnej substancji w&nbsp;atmosferze był jednak mikroskopijny, wynosił bowiem 278 cząstek na&nbsp;milion. Działalność człowieka – przede wszystkim spalanie paliw kopalnych – podniosła ten wskaźnik do 400. Choć to wciąż stosunkowo niewiele, a&nbsp;dwutlenek węgla w&nbsp;tym stężeniu pozostaje niewidzialny, jego wpływ na&nbsp;światowy klimat jest coraz poważniejszy. Nawet gdyby dziś emisja dwutlenku węgla całkowicie ustała, klimat i&nbsp;tak zmieniałby się przez kolejne stulecia. A&nbsp;jednak wciąż tego nie dostrzegamy – zarówno w&nbsp;sensie dosłownym, jak i&nbsp;metaforycznym.</p> <p>Musimy uczynić zmianę klimatu mniej abstrakcyjną. Zdałem sobie z&nbsp;tego sprawę w&nbsp;sierpniu 2010 roku, rozpoczynając badania nad zmianą klimatu na&nbsp;wyspie Guam, nieinkorporowanym terytorium Stanów Zjednoczonych na&nbsp;Oceanie Spokojnym. Rdzenna ludność wyspy, należąca do plemienia Czamorro, podjęła w&nbsp;owym czasie próby odzyskania odebranego jej dawno temu prawa do swojego kraju. Elementem tych wysiłków było odrodzenie dawnych metod nawigacji i&nbsp;żeglugi na&nbsp;dystansach tysięcy mil własnoręcznie budowanymi łódkami, wykonanymi przy użyciu tradycyjnych materiałów. Chodziło o&nbsp;udowodnienie istnienia bogatej plemiennej historii technologii, ale także o&nbsp;pokazanie, że&nbsp;nie każda technologia musi niszczyć środowisko. Nawigatorzy wyznaczali kierunek na&nbsp;podstawie znajomości układu gwiazd oraz wiedzy o&nbsp;wpływie ukształtowania terenu na&nbsp;kierunek fal.</p> <p>W czasie rozmowy mistrz nawigacji w&nbsp;siódmym pokoleniu, przedstawiający się jedynie jako Manny, wytłumaczył mi swoje umiejętności z&nbsp;ekspercką wyższością. Spytałem go więc, czy zauważył jakieś zmiany wywołane ociepleniem klimatu. Manny stwierdził, że&nbsp;niegdyś zawsze potrafił przewidzieć pogodę. Jego współpracownik zaś opowiedział mi historię planowania wyprawy na&nbsp;odległość około 2400 kilometrów. Manny miał wówczas orzec, co następuje: podróżnicy muszą być w&nbsp;domu przed końcem pierwszego tygodnia lipca. 8 lipca tego roku w&nbsp;wyspę uderzył tajfun. Manny podkreślał, że&nbsp;w&nbsp;obszarze równikowym wzory pogodowe pozostawały stabilne przez całe pokolenia, co pozwalało prognozować z&nbsp;tak wielką precyzją. „Jednak teraz nie potrafię już przewidywać pogody”. Ta historia pokazuje, jak bardzo zmieniły się klimat i&nbsp;świat.</p> <p>Obserwowane dziś zmiany są wynikiem działalności człowieka w&nbsp;okresie, który rozpoczął się wraz z&nbsp;rewolucją przemysłową, około połowy osiemnastego wieku, a&nbsp;więc w&nbsp;gruncie rzeczy w&nbsp;mikroskopijnym wycinku czasu geologicznego. Obok zmiany klimatu do najbardziej widocznych przekształceń zachodzących na&nbsp;zamieszkiwanej przez człowieka planecie zaliczyć trzeba „szóstą katastrofę”, czyli kolejną odsłonę masowego wymierania gatunków oraz coraz intensywniejszą wycinkę, obejmującą już ponad jedną czwartą światowych lasów. Wyobraźcie sobie świat bez rafy koralowej, bez śniegu na&nbsp;Arktyce latem; świat, w&nbsp;którym lwy, tygrysy i&nbsp;niedźwiedzie polarne będą występować jedynie w&nbsp;ogrodach zoologicznych lub na&nbsp;strzeżonych otwartych przestrzeniach w&nbsp;rodzaju parków rozrywki. Witamy w&nbsp;roku 2040. Ludzkie relacje ze światem zmienią się całkowicie w&nbsp;wyniku wpływu wywieranego przez ludzi na&nbsp;świat. Po&nbsp;prostu: wszystko będzie wyglądać inaczej. [...]</p> <p>[Z]miana jest tak wszechogarniająca, że&nbsp;geologowie nazwali okres rozpoczynający się wraz z&nbsp;rewolucją przemysłową antropocenem, Nową Ludzką Epoką. Oznacza to, że&nbsp;zmieniliśmy sam wymiar geologiczny planety – od skalistych głębin litosfery, po&nbsp;wyżyny atmosfery. Fakt ten z&nbsp;kolei wymusza zmianę modelu mierzenia „czasu głębokiego” – zmianę rozumienia niezwykle długiej historii planety. Ludzkość rozwijała się w&nbsp;maleńkim odcinku czasu geologicznego, trwającym niecałe 12 tysięcy lat, nazywanym holocenem. Holocen jest ostatnią epoką czwartorzędu, który sam jest młodym okresem geologicznym, liczy bowiem mniej więcej 2,5 miliona lat. By uświadomić skalę, w&nbsp;jakiej operujemy, warto przypomnieć, że&nbsp;poprzedni okres, neogen, rozpoczął się 23 miliony lat temu. Zmiana, która kiedyś trwała miliony lat, dziś zajmuje dziesięciolecia. Przekształcenia, niegdyś niemożliwe do dostrzeżenia przez człowieka, dziś zachodzą podczas jednego ludzkiego życia. Musimy nauczyć się dostrzegać antropocen. [...]</p> <h2>Nowoczesne piękno</h2> <p>Tak jak rysunki z&nbsp;podręczników historii naturalnej przez przypadek uchwyciły wizerunki zwierząt mających wkrótce wyginąć, tak też malarstwo skupione na&nbsp;zjawiskach nowoczesnego życia przemysłowego uwydatnia proces zmian klimatycznych, nawet jeśli sami artyści nie mogli zdawać sobie z&nbsp;nich sprawy. To rozdwojenie widoczne jest w&nbsp;wielu wymiarach zachodniej sztuki nowoczesnej. Naturalnym środowiskiem większości stało się miasto, oswajane w&nbsp;sztuce, fotografii i&nbsp;filmie. Dziś możemy nauczyć się patrzeć na&nbsp;te dzieła na&nbsp;nowo, by zobaczyć, jak ludzie zmienili świat. Następnie powinniśmy wypracować nowe sposoby widzenia planety, które przyczyniłyby się do rozwiązania trapiących nas problemów. Jednak, aby to osiągnąć, musimy najpierw „odwidzieć” sposób postrzegania tych zmian jako pięknych.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4683-1-pb-1920x-a7d.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4683-1-pb-330x-76b.jpg 330w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4683-1-pb-660x-c38.jpg 660w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4683-1-pb-768x-e3f.jpg 768w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4683-1-pb-1320x-6f0.jpg 1320w" src="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4683-1-pb-660x-c38.jpg" alt="" ></a>    <figcaption><p>Claude Monet, <em>Impresja, wschód słońca</em> (1873)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Zmiany od początku miały dramatyczne skutki, co widać choćby na&nbsp;najczęściej reprodukowanym i&nbsp;omawianym obrazie nowoczesnym – <em>Impresja, wschód słońca </em>Claude’a Moneta (1873). Nie zaprzeczając mistrzostwu w&nbsp;odmalowaniu barw i&nbsp;światła, uważam, że&nbsp;obraz ten uwidacznia spowodowane przez człowieka zniszczenia środowiska i&nbsp;zarazem ukazuje je jako piękne. Francja, wstępująca późno na&nbsp;drogę rewolucji przemysłowej, dopiero w&nbsp;połowie dziewiętnastego wieku zaczęła doświadczać smogu spowodowanego przemysłowym wykorzystaniem węgla. Ukazany przez Moneta normandzki port Hawr słynął z&nbsp;zadymienia, uwiecznionego na&nbsp;wielu artefaktach francuskiej kultury wizualnej, takich jak popularne fotografie, pocztówki i&nbsp;zdjęcia. Monet dorastał w&nbsp;Hawrze, głównym francuskim porcie pasażerskiego ruchu transatlantyckiego, obsługiwanym przede wszystkim przez statki parowe.</p> <p>Na pierwszym planie obrazu widzimy samotne tradycyjne łódki z&nbsp;wiosłami. Tło zdominowane jest przez urządzenia przemysłowe, w&nbsp;tym wyłaniające się po&nbsp;prawej stronie złamane żurawie. Dym węglowy wydostaje się z&nbsp;kominów trzech parowców, przedstawionych po&nbsp;lewej. Cała kompozycja buduje zestaw żywych wrażeń zmysłowych – impresji, które znalazły się w&nbsp;tytule tego dzieła, a&nbsp;ostatecznie w&nbsp;nazwie całego ruchu. Dym węglowy jest żółty i&nbsp;kolor ten przeważa w&nbsp;górnej części obrazu. Wczesnym porankiem, a&nbsp;więc w&nbsp;chwili przedstawionej na&nbsp;obrazie, dym miesza się z&nbsp;niebieskim światłem i&nbsp;czerwienią wschodzącego słońca, wytwarzając feerię barw, która olśniewa nas tak nieodparcie, gdy oglądamy go w&nbsp;oryginale.</p> <p>W pozornie spontanicznej próbie uchwycenia chwili kryje się jednak spora doza przebiegłości. Światło i&nbsp;dym razem wytwarzają coś, co moglibyśmy nazwać wyjątkowo nowoczesną formą piękna. Spowite smogiem parowce są niemal niewidoczne i&nbsp;przypominają kominy fabryczne. Z&nbsp;trudem wynurzają się z&nbsp;wody niczym współczesny Lewiatan, legendarny potwór morski, którego Tomasz Hobbes uczynił symbolem państwa. Dosłownie i&nbsp;metaforycznie parowce są źródłem władzy. Punkt widzenia odtwarzany w&nbsp;obrazie jest niecodzienny – jakby dzieło zostało namalowane z&nbsp;wysoka. Być może Monet patrzył z&nbsp;okna pobliskiego budynku, albo zajął miejsce na&nbsp;takielunku innego statku. Zresztą zupełnie nieistotne jest to, czy malarz rzeczywiście znajdował się w&nbsp;którymś z&nbsp;tych miejsc. Nadał wizualną formę podbojowi natury, przekształcając niegdyś budzący lęk ocean w&nbsp;udomowiony, podporządkowany człowiekowi obiekt. Tak jakby przeznaczeniem morza było teraz bycie przedmiotem oglądu.</p> <p>Z tego miejsca ludzie, którzy stworzyli świat na&nbsp;swój własny obraz, patrzą na&nbsp;swoje dzieło i&nbsp;widzą, że&nbsp;jest dobre. Choć ówcześni widzowie początkowo doświadczali dzieł Moneta jako szokująco nowych i&nbsp;nowoczesnych, szybko zostały one oswojone. Takie też pozostają do dziś. <em>Impresja </em>nie tylko ukazuje przekształcenia świata pod&nbsp;wpływem nowoczesnych procesów przemysłowych, lecz również czyni je pięknymi. Piękno nie ma praktycznego celu. Dlatego, choć dym był oznaką działania przemysłu, obraz uwydatniał to, że&nbsp;sam jest dziełem ludzkich rąk. Monet bowiem chciał, byśmy mieli w&nbsp;pamięci to, że&nbsp;jego sztuka nie była po&nbsp;prostu kopią możliwą do wyprodukowania w&nbsp;fabryce. Sztuka jest o&nbsp;klasie próżniaczej i&nbsp;dla klasy próżniaczej, nie dla klas pracujących. W&nbsp;rzeczywistości smog był niebezpiecznym produktem ubocznym rewolucji przemysłowej. Nowoczesna idea piękna zmieniła zmysłowe odczuwanie koloru i&nbsp;woni dymu węglowego w&nbsp;oznakę toczącego się podboju natury.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4691-1-pb-1920x-3c6.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4691-1-pb-330x-14e.jpg 330w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4691-1-pb-660x-d0f.jpg 660w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4691-1-pb-768x-779.jpg 768w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4691-1-pb-1320x-211.jpg 1320w" src="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4691-1-pb-660x-d0f.jpg" alt="" ></a>    <figcaption><p>Claude Monet, <em>Rozładunek węgla</em> (1875)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Dwa lata później Monet w&nbsp;pełni uchwycił tę wizję świata w&nbsp;niewielkim, lecz treściwym obrazie <em>Rozładunek węgla</em>. Z&nbsp;lewego dolnego rogu w&nbsp;kierunku centrum obrazu wkracza flota barek węglowych, przybywających niczym wroga inwazja z&nbsp;kopalni północnej Francji. Węgiel, którego samo wydobycie opiera się na&nbsp;ciężkiej pracy fizycznej, wynoszony jest z&nbsp;barek na&nbsp;brzeg przemysłowych przedmieść Paryża. Sylwetki robotników nie mają cech indywidualnych, ponieważ nie liczą się oni jako jednostki. Ważny jest jedynie wyładunek węgla – podobnie jak praca w&nbsp;kopalni, zajęcie wykańczające fizycznie. Z&nbsp;nabrzeża węgiel zostanie przewieziony – w&nbsp;sposób, którego nie widzimy – do fabryk takich jak ta dymiąca na&nbsp;drugim planie. Zakłady przemysłowe tego rodzaju produkowały i&nbsp;wykorzystywane w&nbsp;nowoczesnych mostach, i&nbsp;towary przewożone tymi mostami. W&nbsp;lewym górnym rogu obrazu dostrzegamy oświetlenie gazowe, widoczną oznakę dominacji nowoczesnego człowieka nad naturą. Most jawi się jako wyższy poziom istnienia, sztucznie podświetlony i&nbsp;wypełniony towarami fabrycznymi. Jednak postaci ludzkie nie są tu bardziej wyraźne ani zindywidualizowane. Jedni spacerują, inni przyglądają się niżej postawionym w&nbsp;hierarchii tragarzom węgla. Wolelibyśmy zapewne znajdować się na&nbsp;górze. Łącząc najważniejsze dla nowoczesnego społeczeństwa przemysłowego przestrzenie – przestrzenie produkcji i&nbsp;konsumpcji – Monet tworzy spójną wizualizację systemu.</p> <p>Zarówno kilka lat wcześniejsza <em>Impresja</em>, jak i&nbsp;<em>Rozładunek węgla</em>, to obrazy o&nbsp;niecodziennym, zawieszonym w&nbsp;powietrzu punkcie widzenia, być może skonstruowane w&nbsp;oparciu o&nbsp;widok z&nbsp;okna pociągu przekraczającego most w&nbsp;drodze do Paryża. W&nbsp;rozdziale czwartym przyglądaliśmy się już ruchomemu widokowi z&nbsp;okna pociągu jako obrazowi poprzedzającej kino. Tymczasem Monet działał do pewnego stopnia odwrotnie: zatrzymał nowoczesny ruchomy świat w&nbsp;pojedynczym kadrze. Paradoksalnie stopklatka przyczynia się jednak do tworzenia silnego wrażenia ruchu na&nbsp;obrazie, któremu spójność nadaje ciepła tonacja całości, przytłumionej żółtą mgiełką dymu węglowego. Zatrucie powietrza pokazywane jest jako naturalne, właściwe, a&nbsp;zatem piękne. Przekształcony świat tak silnie wniknął dziś w&nbsp;zmysły, że&nbsp;rządzi naszym postrzeganiem, jawiąc się jako piękny i&nbsp;estetyczny.</p> <p>Jeśli piękno to estetyka, wówczas sztuka jest anestetyczna, znieczula zmysły na&nbsp;rzeczywiste warunki<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. O&nbsp;ile przyglądanie się rozładunkowi węgla w&nbsp;spowity smogiem poranek nie musi być doświadczeniem uwznioślającym, o&nbsp;tyle jest nim właśnie patrzenie na&nbsp;obraz Moneta przedstawiający taką scenę. Tak jak sztuka dziewiętnastego wieku przedstawiała burze i&nbsp;góry jako piękne, a&nbsp;nie groźne, tak Monet zmienił nasze postrzeganie nowoczesnego miasta. Tłumienie zmysłów nie zawsze musi być postrzegane jako coś złego. Wynalezienie medycznego znieczulenia, anestezji, w&nbsp;wieku dziewiętnastym przyczyniło się przecież do radykalnego zmniejszenia ludzkiego cierpienia. Jednak doskonałego przykładu działania znieczulenia zmysłów w&nbsp;praktyce dostarcza klasyczny obraz George'a Wesleya Bellowsa <em>Czterdzieścioro dwoje dzieci </em>(1907). Widzimy na&nbsp;nim grupę nagich dzieci, w&nbsp;gorący dzień przygotowujących się do kąpieli w&nbsp;nowojorskiej East River.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4685-1-pb-1920x-2c0.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4685-1-pb-330x-3b7.jpg 330w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4685-1-pb-660x-57d.jpg 660w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4685-1-pb-768x-95d.jpg 768w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4685-1-pb-1320x-0cc.jpg 1320w" src="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4685-1-pb-660x-57d.jpg" alt="" ></a>    <figcaption><p>George Wesley Bellows <em>Czterdzieścioro dwoje dzieci</em> (1907)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Możemy zakładać, że&nbsp;wywodzą się z&nbsp;biedoty zamieszkującej Lower East Side, dzielnicę, w&nbsp;której w&nbsp;dużych skupiskach i&nbsp;opłakanych warunkach kwaterowano imigrantów. Woda jest czarna. I&nbsp;nie jest to metafora. W&nbsp;owym czasie bowiem wszystkie nieczystości sześciomilionowego portowego miasta spływały właśnie tam. Do tego dochodziły martwe zwierzęta i&nbsp;odpady przemysłowe. Jeszcze w&nbsp;dziewiętnastym wieku w&nbsp;Nowym Jorku naturalne siedliska ostryg były tak liczne, że&nbsp;stanowiły jedno z&nbsp;podstawowych źródeł wyżywienia miasta. Do początku dwudziestego wieku uległy całkowitej degradacji.</p> <p>Urzędnicy odpowiedzialni za&nbsp;gospodarowanie nieczystościami nie mogli pojąć, dlaczego sprawa ta budziła tak niewielkie kontrowersje i&nbsp;jak to możliwe, że&nbsp;samo zanieczyszczenie pozostawało niezauważone. W&nbsp;1912 roku, pięć lat po&nbsp;powstaniu obrazu Bellowsa, brytyjski naukowiec po&nbsp;wizycie w&nbsp;porcie stwierdził: „Jestem zaskoczony, że&nbsp;miasto uważające się za&nbsp;jedno z&nbsp;najważniejszych na&nbsp;świecie pozwala na&nbsp;tak haniebne zjawisko”. Urzędnicy miejscy zauważali zdumieni:</p> <blockquote>Nowojorczycy wydają się dziwnie obojętni na&nbsp;zanieczyszczenie portu. Niedawno na&nbsp;brzegu Upper East River, najbardziej zanieczyszczonej części portu wewnętrznego, wybudowano wspaniałe i&nbsp;drogie szpitale oraz budynki mieszkalne – w&nbsp;miejscu, w&nbsp;którym cuchnący strumień miesza się z&nbsp;czarnymi i&nbsp;śmierdzącymi wodami Harlemu”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>.</blockquote> <p>Chodziło nie tylko o&nbsp;to, że&nbsp;„wielkie brudne” (<em>great unwashed</em>) klasy pracujące miały bez oporów zamieszkiwać zanieczyszczone i&nbsp;śmierdzące miasto, lecz, że&nbsp;tę samą postawę przyjęły nowojorskie elity. Po&nbsp;dziś dzień zresztą każda burza przynosząca ponad centymetrowe opady zmywa nieprzetworzone nieczystości do nowojorskich rzek. Plażowicze i&nbsp;surferzy dobrze wiedzą, że&nbsp;następnego dnia należy trzymać się z&nbsp;dala od wody. Pragnienie zamieszkiwania w&nbsp;nowoczesnym mieście było tak silne, że&nbsp;znieczulało zmysły, a&nbsp;przynajmniej pozwalało ignorować to, co widoczne i&nbsp;wyczuwalne. Obraz miasta zastąpił jego fizyczną postać, stając się nową rzeczywistością.</p> <p>Ten rodzaj wybiórczego postrzegania w&nbsp;żadnym wypadku nie był właściwy jedynie nowojorczykom. Przez ponad wiek Londyn spowijał gęsty smog wytwarzany przy spalaniu węgla, nazywany przez miejscowych „grochówką”, a&nbsp;często omyłkowo brany za&nbsp;mgłę. Stał się on niezbywalnym elementem życia w&nbsp;Londynie. Turyści spodziewali się mgły, a&nbsp;Londyńczycy tęsknili za&nbsp;nią, gdy wyjeżdżali z&nbsp;miasta. Występowała w&nbsp;dziewiętnastowiecznej literaturze, choćby w&nbsp;słynnym otwarciu <em>Samotni</em> Charlesa Dickensa (1852–1853):</p> <blockquote>Wszędzie mgła. Mgła w&nbsp;górze rzeki toczącej tam wody pośród zielonych łąk i&nbsp;wysepek. Mgła w&nbsp;dole rzeki, która omywa tam nabrzeża portowe i&nbsp;przycumowane okręty, i&nbsp;wszelkiego rodzaju śmiecie wyrzucane przez wielkie brudne miasto. Mgła nad bagnami Essex i&nbsp;pośród pagórków Kentu. Mgła wpełza do kambuzów barek węglowych, zalega w&nbsp;stoczniach, czepia się olinowania żaglowców, spływa kroplami z&nbsp;burt kutrów i&nbsp;pomniejszych łodzi. Mgła snuje się przy kominkach na&nbsp;salach domu starców w&nbsp;Greenwich, mgła wypełnia gardła i&nbsp;nosy jego sędziwych pensjonariuszy. Mgła jest w&nbsp;lulce i&nbsp;cybuchu popołudniowej fajki krewkiego szypra, który odpoczywa w&nbsp;swojej ciasnej kajucie i&nbsp;mgła niemiłosiernie szczypie palce rąk i&nbsp;nóg jego czeladników – chłopców okrętowych – marznących na&nbsp;pokładzie<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>.</blockquote> <p>Mgła, będąca w&nbsp;rzeczywistości smogiem, stała się tłem wszelkich działań – i&nbsp;natury, i&nbsp;człowieka. Smog został znaturalizowany do tego stopnia, że&nbsp;uważa się, że&nbsp;może zostać zanieczyszczony brudem miasta. Zarazem zmusza on przecież sklepy do zapalania oświetlenia dwie godziny wcześniej niż zwykły to robić i&nbsp;przytłumia światło ulicznych latarni. Jest wszędzie, a&nbsp;w „samym sercu mgły” – pisze Dickens – „wielmożny lord kanclerz zasiada na&nbsp;sali rozpraw swojego wysokiego sądu”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Sąd ten zajmował się sprawami własności. Mgła symbolizuje tu zatem dominację rządów prawa w&nbsp;nowoczesnym życiu. Sięga każdego zakątka naszej egzystencji, każdego przedmiotu w&nbsp;naszym otoczeniu. W&nbsp;kulturze imperialnej prawo oddzielało „cywilizację” od „dzikości”, było efektem podboju natury. Mgła to widoczny produkt uboczny i&nbsp;zarazem symbol tego podboju. <em>Samotnia</em> nie daje jednak tak jednoznacznej wykładni – niekończąca się sprawa sądowa Jarndyce przeciwko Jarndyce niszczyła życie wszystkim, których dotyczyła.</p> <p>Dokładnie wiek po&nbsp;publikacji <em>Samotni</em>, Wielka Mgła (jak ją wówczas nazwano) z&nbsp;grudnia 1952 roku zamieniła w&nbsp;Lodynie środek dnia w&nbsp;środek nocy. Fotografie z&nbsp;tego zdarzenia ukazują niewyraźne kontury znanych budynków przesłoniętych dymem. Zgodnie z&nbsp;przeprowadzonymi później badaniami Wielka Mgła zabiła około 12 tysięcy ludzi, powodując zaostrzenie chorób płuc i&nbsp;trudności z&nbsp;oddychaniem. Przyniosła zatem ponad cztery razy więcej ofiar niż zamachy 11 września. Jednak gazety, pamiętniki i&nbsp;inne źródła z&nbsp;tego czasu niemal o&nbsp;tym nie wspominają. „Times” wzmiankuje, że&nbsp;mgła zatrzymała ruch uliczny, a&nbsp;także, że&nbsp;spowodowała trudności w&nbsp;oddychaniu, ale jedynie pośród trzody na&nbsp;rynku Earl's Court. Wiek po&nbsp;Dickensie mgła była nieodłączną częścią tożsamości Londynu na&nbsp;tej samej zasadzie, na&nbsp;jakiej smog (przynajmniej już właściwie nazywany) zwiąże się później z&nbsp;Los Angeles. Z&nbsp;dzisiejszej perspektywy o&nbsp;Wielkiej Mgle wspomina się w&nbsp;związku z&nbsp;uchwaleniem prawa o&nbsp;czystym powietrzu (<em>Clear Air Act</em>) w&nbsp;1956 roku, które wreszcie zlikwidowało przynajmniej „grochówkę”, choć z&nbsp;pewnością nie wyeliminowało całkowicie smogu. Należy nadmienić, że&nbsp;prawo to zostało uchwalone w&nbsp;wyniku inicjatywy przedstawicieli mniejszości parlamentarnej, co pokazuje, że&nbsp;władze nie widziały pilnej potrzeby działania. [...]</p> <h2>Myślenie wizualne w&nbsp;antropocenie</h2> <p>Jeżeli mamy stworzyć nowe sposoby obrazowania swojego miejsca i&nbsp;roli w&nbsp;świecie, potrzebujemy nowego wizualnego sposobu myślenia, dostosowanego do antropocenu. Może nawet potrzebujemy pomnika antropocenu (zresztą taki pomnik projektował swego czasu argentyński artysta Tomás Saraceno dla francuskiej Tuluzy). Dobrym punktem wyjścia mogłyby stać się dokumenty tworzone przez dwadzieścia lat przez kanadyjskiego fotografa Edwarda Burtynsky’ego, przedstawiające to, co artysta nazywa „krajobrazami produkcyjnymi”, tworzonymi przez przemysł wydobywczy. Tego rodzaju krajobrazy spotkać można na&nbsp;całym świecie – są całkowicie sztucznymi budulcami antropocenu. Na&nbsp;zdjęciu z&nbsp;1985 roku, ukazującym Odkrywkową Kopalnię Węgla firmy Westar, Burtynsky umiejętnie uchwycił olbrzymią skalę kopalni w&nbsp;Sparwood. Samochody ciężarowe i&nbsp;sprzęt wydobywczy wydają się mikroskopijne przy kręgach tworzonych podczas ogołacającego wzgórza wydobycia, formujących nowe, tworzone w&nbsp;całości przez człowieka widoki. Można je nazwać krajobrazami antropocenu. Miasteczko Sparwood, ulokowane w&nbsp;pobliżu Parku Narodowego Banff w&nbsp;Kolumbii Brytyjskiej, to niewielka gmina, poza swoimi krajobrazami znana jedynie z&nbsp;rzekomo największej ciężarówki na&nbsp;świecie. Na&nbsp;potrzeby sprawnego transportu węgla zbudowano dobre połączenia drogowe między kopalnią a&nbsp;drogą międzystanową. Węgiel z&nbsp;kopalni odkrywkowej wykorzystuje się dziś do produkcji stali. W&nbsp;2014 roku, trzydzieści lat po&nbsp;wykonaniu zdjęcia, szacowano, że&nbsp;kopalnia będzie czynna jeszcze kolejne dwadzieścia dziewięć lat. Tego rodzaju połączenia i&nbsp;sieci umożliwiły powstanie Ptasiego Gniazda i&nbsp;<em>Orbity</em>, ale zarazem pozostają „odwidziane” – stanowią materialną stronę globalizacji, którą większość woli ignorować, tak jak ignoruje się krajobraz antropocenu, oglądany jedynie przez tych, którzy muszą tu pracować.</p> <p>Innym ważnym zadaniem nowego wizualnego myślenia jest pokazanie, że&nbsp;historie kolonialne wciąż rządzą produkcją energii. Artysta Sammy Baloji (ur. 1978) pozwala nam dostrzec bezpośredni związek pomiędzy kolonialną przeszłością drugiego co do wielkości miasta Demokratycznej Republiki Konga, Lubumbashi, w&nbsp;prowincji Katanga, a&nbsp;miastem globalnym i&nbsp;sieciami cyfrowymi. Baloji, urodzony w&nbsp;Lubumbashi, wykształcenie zdobywał w&nbsp;DRK i&nbsp;we Francji. Jego potężny i&nbsp;często wystawiany projekt <em>Mémoire</em> (2006) składa się z&nbsp;wielu fotomontaży, na&nbsp;których wizerunki Afrykanów i&nbsp;Europejczyków ze zdjęć epoki kolonialnej zostają zestawione z&nbsp;obrazami współczesnych kopalni. Po&nbsp;raz kolejny w&nbsp;globalnej teraźniejszości mamy uczucie niepokoju i&nbsp;nawiedzają nas widma przeszłości.</p> <p>Trudno oderwać wzrok od wielkoformatowych fotomontaży Baloji’ego stworzonych z&nbsp;połączenia czarno białych i&nbsp;kolorowych klisz. Dzieła te zaświadczają o&nbsp;długiej historii wyzysku w&nbsp;tym regionie. W&nbsp;latach dwudziestych belgijscy kolonizatorzy rozpoczęli wydobycie rozległych złóż miedzi w&nbsp;prowincji Katanga, nierzadko wykorzystując przymusową pracę, jak podczas drugiej wojny światowej, gdy zapotrzebowanie na&nbsp;miedź było wysokie. Po&nbsp;uzyskaniu niepodległości, zwłaszcza w&nbsp;latach osiemdziesiątych państwowa firma wydobywcza Gécamines zyskała równie złą sławę ze względu na&nbsp;skalę działań i&nbsp;korupcję. Fotografowane przez Baloji’ego kopalnie są dziś, po&nbsp;dekadach wojen, postindustrialnymi ruinami. Zdewastowane budynki i&nbsp;gigantyczne hałdy (pozostałości po&nbsp;wydobyciu kruszcu) tworzą krajobraz iście apokaliptyczny. Baloji pisze:</p> <blockquote>Moje prace wiążą się bezpośrednio z&nbsp;przeszłością kolonialną, w&nbsp;której swoje źródła mają miasta prowincji Katanga, wyrosłe wokół kopalni. Kopalnie są częścią historii Katangi. Istota zjawiska, którym się zajmuje, determinuje życie codzienne Kongijczyków”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>.</blockquote> <p>W 2006 roku według ONZ Kongo miało jeden z&nbsp;najniższych wskaźników rozwoju społecznego i&nbsp;niewiele wyższy wskaźnik transparentności, świadczący o&nbsp;wysokim poziomie korupcji. Nie mniej niż pół miliona Kongijczyków, w&nbsp;tym dzieci, pracuje dziś w&nbsp;„biedaszybach” – przy samodzielnym, własnoręcznym wydobyciu i&nbsp;sprzedaży niewielkich ilości miedzi. Zapotrzebowanie na&nbsp;miedź przychodzi głównie z&nbsp;Chin, wykorzystujących ponad 40% globalnego obrotu w&nbsp;produkcji towarów, takich jak komputery, lodówki, samochody i&nbsp;materiały hydrauliczne. W&nbsp;2010 roku, na&nbsp;mocy ustawy Dodda-Franka<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> Stany Zjednoczone zakazały wykorzystywania zasobów pochodzących z&nbsp;terenów objętych konfliktami zbrojnymi lub pozyskiwanych z&nbsp;wykorzystaniem pracy przymusowej. Jednak, mimo wysiłków podejmowanych przez niektóre firmy, choćby Intel, struktura globalnego rynku kopalin sprawia, że&nbsp;bardzo trudno jest sprawdzić, czy komputer, na&nbsp;którym piszę ten rozdział, ma w&nbsp;sobie kongijską miedź.</p> <p>W jaki sposób możemy uwidocznić te globalne przepływy? Międzynarodowa zbiorowa wystawa dokumentalna z&nbsp;2011 roku, zatytułowana <em>Coal + Ice </em>(<em>Węgiel + Lód</em>), gromadząca prace ponad trzydziestu fotografów, postawiła sobie za&nbsp;cel odsłonięcie związków pomiędzy zwiększeniem stopnia wykorzystania węgla a&nbsp;topnieniem pól lodowych<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Jak piszą kuratorzy wystawy, Jeroen de Vries i&nbsp;fotografka Susan Meiselas, <em>Węgiel + Lód</em> „to wizualna opowieść o&nbsp;ukrytym łańcuchu działań uruchamianych przez wykorzystanie węgla przez ludzkość. Fotograficzna narracja wychodzi od głębin kopalni węgla, by sięgnąć wyżyn lodowców Himalajów Wysokich, gdzie gazy cieplarniane podwyższają temperaturę na&nbsp;olbrzymich wysokościach”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>. Instalacja ta umożliwiała widzom dostrzeżenie powiązania nowoczesności i&nbsp;zmian klimatu, nie narzucając łatwych odpowiedzi ani jednoznacznych wniosków.</p> <p>Fotografie Jamesa Brashearsa przedstawiające cofanie się lodowców wiszą tuż nad zdjęciami dokumentującymi pracę chińskich górników. Przekaz nie jest prosty. Społeczności górnicze są niezwykle zżyte i&nbsp;wytwarzają nie tylko finansowe zyski, ale również poczucie dumy i&nbsp;solidarności. Jednocześnie praca w&nbsp;górnictwie jest trudna i&nbsp;niebezpieczna, a&nbsp;jej efekty wpływają na&nbsp;całą planetę. Zamknięcie kopalń byłoby korzystne dla klimatu, ale zniszczyłoby te ludzkie wspólnoty. Do widza należy zatem powiązanie poszczególnych elementów. Wymaga ono czasu, a&nbsp;instalacje tego rodzaju pozwalają nam uprawiać myślenie wizualne, bez którego nie będziemy w&nbsp;stanie ani przedstawić tych historii, ani tym bardziej tworzyć alternatywnych rozwiązań.</p> <p>Powinniśmy kształcić się w&nbsp;myśleniu wizualnym, by dzięki niemu pojąć relacje człowieka z&nbsp;najważniejszymi systemami naturalnymi – choćby rzekami – przechodzącymi obecnie drastyczne przemiany. Weźmy choćby wspaniałą rzekę Mississipi. Od czasów transportów amerykańskich bogactw Bawełnianego Królestwa południa, po&nbsp;przewóz zbóż w&nbsp;dół rzeki i&nbsp;ropy na&nbsp;północ, rzeka ta pełni rolę ważnej krajowej arterii komunikacyjnej. Nawadnia – a&nbsp;dziś coraz częściej zalewa – wiele stanów. W&nbsp;1944 roku Harold Fisk z&nbsp;Wojskowego Korpusu Inżynieryjnego, jednostki odpowiedzialnej za&nbsp;krajowe drogi wodne, wykonał niezwykłą mapę Mississipi i&nbsp;jej terenów zalewowych.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4687-1-pb-1920x-894.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4687-1-pb-330x-d48.jpg 330w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4687-1-pb-660x-c7f.jpg 660w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4687-1-pb-768x-d35.jpg 768w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4687-1-pb-1320x-452.jpg 1320w" src="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4687-1-pb-660x-c7f.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Ta monumentalna mapa w&nbsp;dużej skali pokazuje plątaninę łuków i&nbsp;zakrętów, ukształtowanych w&nbsp;długim okresie czasu geologicznego. Czas głęboki staje się dzięki niej widoczny. „Nowoczesny” bieg rzeki przedstawiony został na&nbsp;biało – znajduje się w&nbsp;centrum gmatwaniny jej wcześniejszych ścieżek. Przypomina to raczej obraz Williama Blake’a niż schemat geologiczny. Dwa stulecia, podczas których europejscy przybysze i&nbsp;ich amerykańscy potomkowie próbowali zmieniać bieg rzeki, są zbyt krótkim okresem, by znaleźć się na&nbsp;mapie o&nbsp;takiej skali. Mapa przedstawia rzekę jako żywą istotę, posiadającą swoją historię i&nbsp;pamięć. Mississipi przestaje być zaledwie nieożywionym przepływem wody. Obraz ten ma zarówno wymiar porównawczy, jak i&nbsp;historyczny, a&nbsp;jako taki udowadnia, że&nbsp;wszelkie próby nadania rzece jednego biegu najpewniej skończą się porażką.</p> <p>Z kolei mapy tej samej rzeki tworzone przez wojsko w&nbsp;dwudziestym pierwszym wieku pokazują ją jako linię prostą, ujarzmioną przez nieprzekraczalne wały, w&nbsp;rzeczywistości tak mocne, jak ich najsłabsze punkty. Nowy Orlean przekonał się o&nbsp;tym na&nbsp;własnej skórze, gdy w&nbsp;2005 roku po&nbsp;przejściu Huraganu Katrina wały puściły.</p> <p>W pierwszym momencie możecie nawet nie rozpoznać tego obrazu jako przedstawienia rzeki. Mapa przygotowana przez Wojskowy Korpus Inżynieryjny jest wizualizacją podboju natury. Zamienia spirale i&nbsp;zawirowania Mississipi, tak dokładnie oddane na&nbsp;mapie Fiska, w&nbsp;proste linie i&nbsp;zestawy danych. Jednak taka rzeka nie istnieje. Dlatego wojsko nie będzie również w&nbsp;stanie zatrzymać jej w&nbsp;wyrysowanych granicach.</p> <p>Wojskowy Korpus Inżynieryjny to grupa żołnierzy, których zadaniem jest podtrzymanie i&nbsp;poszerzanie podboju natury. Armia odnosi się wręcz do wód rzecznych jako „wroga”, a&nbsp;do ochrony miast wykorzystuje taktykę zwaną modelem „twierdzy”. To za&nbsp;jej sprawą zlikwidowano tereny podmokłe i&nbsp;bagna, które stanowiły dotąd naturalną ochronę przeciwpowodziową. Po&nbsp;Katrinie większość głosów wzywających do odbudowy Nowego Orleanu odwoływała się do tak pojętej twierdzy lub modelu „twardego”. Po&nbsp;uderzeniu Huraganu Sandy w&nbsp;Nowy Jork (2012) powtarzano jak mantrę pojęcie „odporności”, oznaczające budowanie wzmacnianych opasek brzegowych i&nbsp;innych barier. Alternatywą jest „miękki rozwój”. Oznacza on odnowienie bagnisk, terenów podmokłych, siedlisk skorupiaków oraz innych zjawisk absorbujących lub odwracających wody powodziowe. Ten sposób pozwala na&nbsp;bardziej naturalny przepływ rzek. Wystarczy porównać mapę Fiska z&nbsp;mapą Korpusu, by zobaczyć, że&nbsp;armia próbuje zastąpić krzywizny liniami prostymi. W&nbsp;społeczeństwie tak silnie zmilitaryzowanym, wersja „twarda” jawi się zwykle jako kulturowo i&nbsp;politycznie bardziej przekonująca, mimo, że&nbsp;to „miękkie” sposoby dają większe szanse powodzenia.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4689-1-pb-1920x-22a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4689-1-pb-330x-154.jpg 330w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4689-1-pb-660x-35f.jpg 660w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4689-1-pb-768x-7f3.jpg 768w,assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4689-1-pb-1320x-d62.jpg 1320w" src="assets/cache/images/issues/2015/11/swiat-sie-zmienia/347-4689-1-pb-660x-35f.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Zasadnicze pytanie to wciąż tak naprawdę pytanie o&nbsp;to, jak widzimy zmieniający się świat wokół nas. Od Arystotelesa przyjęliśmy ideę jedności czasu i&nbsp;miejsca, co oznacza, że&nbsp;to, co przedstawione, powinno być oglądane z&nbsp;określonego miejsca, w&nbsp;czasie nie dłuższym niż jeden dzień. Wizualny system perspektywy, znanej starożytnym i&nbsp;przywróconej w&nbsp;renesansie (co miało zresztą przemożne konsekwencje), dodawał do tego zasadę, zgodnie z&nbsp;którą właściwe widzenie zachodzi wówczas, gdy niezależny widz patrzy z&nbsp;jednego, określonego miejsca. By zobaczyć zmieniający się świat, będziemy musieli odrzucić te historyczne strategie. Musimy porównywać odmienne momenty i&nbsp;oddalone przestrzenie. Musimy uczyć się widzenia z&nbsp;perspektywy innych ludzi, a&nbsp;także z&nbsp;naszej własnej.</p> <p>Jak pokazały przywołane w&nbsp;tym rozdziale przykłady, od wyspy Guam po&nbsp;rzekę Mississipi, musimy również zmienić sposób rozumienia czasu. Czas głęboki zmienia się na&nbsp;naszych oczach. Jeśli nie uwzględnimy sytuacji ogólnoświatowej, zawsze będziemy zaskakiwani. Kraje rozwinięte w&nbsp;większości ignorowały doniesienia o&nbsp;podniesieniu się poziomu Pacyfiku, zakładając, że&nbsp;nie ma to na&nbsp;nie żadnego wpływu. Były więc kompletnie zaskoczone, gdy w&nbsp;2011 roku tsunami wygrało z&nbsp;zaporami w&nbsp;Japonii, doprowadzając do wydostania się z&nbsp;elektrowni atomowej znacznych dawek promieniowania do atmosfery, oceanu i&nbsp;dalej. „Żaden człowiek nie jest samoistną wyspą” – pisał w&nbsp;siedemnastowiecznym Londynie John Donne<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. Dziś wszyscy jesteśmy połączeni, a&nbsp;sama zmiana podlega zmianie.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Paul Edwards, <em>A Vast Machine. Computer Models, Climate Data and the Politics of Global Warming</em>, MIT Press, Cambridge, MA 2010.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Susan Buck Morss, <em>Aesthetics and Anaesthetics. Walter Benjamin's Artwork Essay Reconsidered</em>, „October” 1992, nr 62,<em></em> s. 3–41.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Earle B. Phelps, George A. Soper, Richard H. Gould, <em>Studies of Polution of New York Harbor and Hudson River</em>, „Sewage Works Journal” 1934, t. 6, nr 5, s. 1006.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Charles Dickens, <em>Samotnia</em>, w przekładzie Tadeusza Jana Dehnela.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Tamże.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> <a href="http://www.prixpictet.com/portfolios/earth-shortlist/sammy-baloji/" target="_blank" rel="noopener">http://www.prixpictet.com/portfolios/earth-shortlist/sammy-baloji/</a>, dostęp 15 marca 2016.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> <a href="https://www.sec.gov/about/laws/wallstreetreform-cpa.pdf" target="_blank" rel="noopener">https://www.sec.gov/about/laws/wallstreetreform-cpa.pdf</a>, dostęp 15 marca 2016.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> <a href="http://sites.asiasociety.org/coalandice/photographers/" target="_blank" rel="noopener">http://sites.asiasociety.org/coalandice/photographers/</a>, dostęp 15 marca 2016.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Tamże.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> W przekładzie Stanisława Barańczaka.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2015/swiat-sie-zmienia" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

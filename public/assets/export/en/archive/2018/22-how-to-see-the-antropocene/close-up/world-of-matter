@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>World of Matter | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/world-of-matter">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="World of Matter | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/assets/cache/images/issues/2018/22/varas/fig4-1200x630-04b.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="World of Matter | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/assets/cache/images/issues/2018/22/varas/fig4-1200x630-04b.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/world-of-matter">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="World of Matter | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/assets/cache/images/issues/2018/22/varas/fig4-1200x630-04b.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #47495b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #47495b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #47495b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #47495b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #47495b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #47495b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+			/* background-color:#47495b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(71,73,91,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#47495b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#47495b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#47495b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#47495b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#47495b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1802 parent-id-1758">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1745" data-selected-issue-color="#47495b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/22-zobaczyc-antropocen#toc">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/22-zobaczyc-antropocen/world-of-matter">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/22-how-to-see-the-antropocene#toc">22</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/22-how-to-see-the-antropocene/world-of-matter?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>World of Matter. An Eco-aesthetic Approach to the Complex ‘Ecologies’ of Matter</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/22-how-to-see-the-antropocene/world-of-matter?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=1803">Ana Varas Ibarra</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p>To imagine a&nbsp;world of matter is to space and place materials, it is necessarily a<em> geopolitical </em>act.</p> <p></p> <p style="text-align: right;">Gavin Bridge, World of Matter<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a></p> </blockquote> <p><br><br>“We are no longer able to think history as exclusively human,” Timothy Morton claims, “for the very reason that&nbsp;we are in the Anthropocene.”<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> Coined in natural sciences, the ‘Anthropocene’ (the age of humans) is the name scientists Paul Crutzen and Eugene Stoermer gave to describe a&nbsp;new geological era in which human activity is considered so profound that&nbsp;it surpasses other geological forces on the planet, and which will leave a&nbsp;long-term signature in the strata record.<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a> “Geologically, this&nbsp;is a&nbsp;remarkable episode in the history of the planet,”<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a> Crutzen et. al aver. About&nbsp;30-50 percent of the planet’s surface is exploited by mankind<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a>: vast expanses of land and ocean have been drilled for&nbsp;oil, mountains have been scoured for&nbsp;coal, rainforests have been razed and the oceans are infested with&nbsp;billions of particles of microplastics.<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a> “We have become titanic geological agents, our legacy legible for&nbsp;millenia to come.”<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a></p> <p>Recognizing the Anthropocene allow us to understand the ecological crisis of the present day in the context of the distant past&nbsp;and points to the urgency of developing a&nbsp;new understanding of nature itself and the attitude humans should adopt towards&nbsp;it.<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> Whereas corporate media and the entertainment industry present never-ending apocalyptic scenarios where environmental catastrophe is our unavoidable fate,<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a> artistic production and discourse has by contrast become more engaged in attempts to find alternative ethical ways to rebalance our relationship with&nbsp;nature. Unlike&nbsp;Land Art of the 1960s and 1970s, which took natural landscapes as both means and sites for&nbsp;artistic production, this&nbsp;new wave of eco-aesthetics aims to bring to the foreground the complex ‘ecologies’ –&nbsp;social, economic, political, discursive, and Earth systems –&nbsp;of global forces which contributed to the transition to the current geological era. The extent of to which the current system has degraded both natural and societal ecosystems is investigated through&nbsp;compelling analyses and creative alternatives for&nbsp;other “forms of environmental sustainability and egalitarian structures of living” are put forth.<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a> These innovative artistic approaches reflect upon&nbsp;how we might comprehend the present interchange of human culture and the environment and probe the socio-political and “ecological realities surrounding us as well as those yet to come.”<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a></p> <p>A growing number of artists, political theorists, scientists, intellectuals and activists are currently trying to think outside&nbsp;the enforced narratives of neoliberal capitalism, both within&nbsp;the institutionalized exhibition spaces of the contemporary art system and beyond&nbsp;those platforms, where the creation of social relations and the reclamation of zones of autonomy and the commons can be obtained.<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a> They are committed to investigating the actions of states and corporations and also to reflect critically on the terms in which contemporary political practices are currently undertaken. As these forms of materiality are emerging, however, it is paramount that&nbsp;the existing disciplinary division between&nbsp;science and the humanities is bridged to generate constructive debate over&nbsp;the solutions required to overcome the current ecological disaster. Thus, the question remains: how does the environmental crisis –&nbsp;the Anthropocene –&nbsp;enter the discourse of art and what forms of representation does it take?</p> <p>Consider the case of World of Matter<em>, </em>an international media, art and research collective that&nbsp;investigates the relations between&nbsp;social, political, environmental and economic spheres as a&nbsp;form of artistic practice. Launched in 2013 as a&nbsp;multimedia platform with&nbsp;an open-access archive, it connects different files, actors, territories and ideas on the global ecologies of resources, exploitation and circulation,<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a> World of Matter focuses on the development of innovative aesthetic and equitable ethical approaches to the world’s resources. By combining environmental humanities and methodical research with&nbsp;ecological and social justice activism,<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a> the practice of World of Matter calls for&nbsp;a&nbsp;reconsideration –&nbsp;at a&nbsp;fundamental level –&nbsp;of how we understand and interact with&nbsp;the world of ‘things.’<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a> The collective conveys this&nbsp;practice through&nbsp;a&nbsp;series of videos, photographs, cartographic analyses and mixed-media installations all publicly available on their website, but&nbsp;also globally exhibited in different institutional spaces.<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a> This&nbsp;paper argues that&nbsp;World of Matter embodies an alternative approach to the understanding of the environmental crisis, a&nbsp;democratization of the discourse on the Anthropocene, and brings innovative forms of social aesthetics to the foreground.</p> <h2>The Anthropocene’s universalising discourse and its critique</h2> <p>In their groundbreaking article simply titled <em>The Anthropocene</em> (2000), authors Crutzen and Stoermer depend on the concept of the ‘noösphere’ to articulate their position. They describe the ‘noösphere’ as “the world of thought, to mark the growing role played by mankind’s brain-power and technological talents in shaping its own future and environment.”<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a> Drawing on this&nbsp;concept, which places thought above&nbsp;the biosphere and geosphere, the authors reflect on the progression of human influence upon&nbsp;the planet. Crutzen and Stoermer suggest the following&nbsp;thoughts on the collective work in order to address the current geological epoch:</p> <blockquote> <p>To develop a&nbsp;world-wide accepted strategy leading to sustainability of ecosystems against&nbsp;human induced stresses will be one of the great future tasks of mankind, requiring intensive research efforts and wise application of the knowledge thus acquired in the noösphere, better known as knowledge or information society. An exciting, but&nbsp;also difficult and daunting task lies ahead of the global research and engineering community to guide mankind towards&nbsp;global, sustainable, environmental management.<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a></p> </blockquote> <p>Crutzen and Stoermer’s argument not only demonstrates the achievements and impacts of human mastery of the Earth but&nbsp;also pitches geoengineering<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a> as our only remaining hope in adapting to inevitable climate transformation –&nbsp;a&nbsp;position which is challenged by activists who advocate for&nbsp;a&nbsp;“system changed, not climate change.”<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a></p> <p>By now there is an extensive introductory literature on the Anthropocene, and the concept has become part of a&nbsp;growing discourse in the arts, humanities and social sciences.<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a> There is an ongoing discussion involving the concept and its contradictions. As many scholars, particularly in the humanities, have pointed out that&nbsp;the concept of the Anthropocene carries certain universalizing characteristics and thus, fails to adequately account for&nbsp;structural power relations.<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a> Indeed, there is a&nbsp;fundamental contradiction in the Anthropocene thought-structure. The prefix ‘anthropos,’<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a> denotes that&nbsp;<em>all </em>humans are equally implicated in the ‘activities’ that&nbsp;are allegedly responsible for&nbsp;this new geological era. However, the ‘activities’ that&nbsp;are shown in the Anthropocene visualisations –&nbsp;which seldom focus on environmental emergencies and scenes of ‘slow violence’<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a>– are hardly ‘human,’ in the generalizing sense of the word, and are in fact mostly the actions of corporate industry. The fact is that&nbsp;the Anthropocene –&nbsp;as a&nbsp;rhetorical formation with&nbsp;legal, political, cultural and geological strands –&nbsp;frequently functions as a&nbsp;universalizing discourse<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a> that&nbsp;tends to disavow different responsibility for&nbsp;the geological changes it designates; and instead, it homogeneously delegates agency to the generic participants in its human activities. Narratives such as these serve to divert attention from&nbsp;the economic class that&nbsp;has long benefited from&nbsp;the financial system responsible for&nbsp;environmental change. Heather Davis and Etienne Turpin explain that&nbsp;the Anthropocene is not simply the result of activities “undertaken by the species <em>Homo sapiens</em>,” but&nbsp;instead, it derives from&nbsp;“a particular nexus of epistemic, technological, social and political economic coalescences” formed in the contemporary reality of “petrocapitalism.”<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a></p> <p>As above, the Anthropocene rhetoric simply “fails to capture the divisions and antagonism at play,”<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a> focusing on its universal discourse where ‘we’ have caused this, leaving intact the corporate colonial network underlying the human activity. As Naomi Klein notes, the Anthropocene rhetoric carries an “unspoken meaning: the humans are a&nbsp;single type, that&nbsp;human nature can be essentialized to the traits that&nbsp;created this&nbsp;crisis,” and that, as a&nbsp;result of this&nbsp;choice, “the systems that&nbsp;certain humans created, and other humans powerfully resisted, are completely off&nbsp;the hook. Capitalism, colonialism, patriarchy –&nbsp;those sorts of systems.”<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a> We are stuck in a&nbsp;current global inertia over&nbsp;climate change because “the actions that&nbsp;would give us the best chance of averting catastrophe –&nbsp;and would benefit the vast majority –&nbsp;are extremely threatening to an elite minority that&nbsp;has a&nbsp;stranglehold over&nbsp;our economy, our political process, and most of our major media outlets.”<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a> The danger, thus, is that&nbsp;the Anthropocene is read as the thesis that&nbsp;such an era exists, rather than&nbsp;widening the questions on how to respond to it. In this&nbsp;regard, Heather Davis and Zoe Todd question –&nbsp;if the Anthropocene is already here –&nbsp;then “what can we do with&nbsp;it as a&nbsp;conceptual apparatus that&nbsp;may serve to undermine the conditions that&nbsp;it names?”<a href="#sdfootnote30sym" name="sdfootnote30anc"><sup>30</sup></a></p> <p>We have to understand that&nbsp;the Anthropocene is essentially a&nbsp;political crisis. There are plenty of solutions for&nbsp;sustainable living today, which, if implemented globally, could protect biodiversity and bring about&nbsp;a&nbsp;more equitable and inclusive socioeconomic order.<a href="#sdfootnote31sym" name="sdfootnote31anc"><sup>31</sup></a> A&nbsp;series of scientists, environmental and political activists argue that&nbsp;to deal with&nbsp;the threat of climate change, a&nbsp;systemic shift in the reorganization of social, political and economic life –&nbsp;the ‘Great Transition’<a href="#sdfootnote32sym" name="sdfootnote32anc"><sup>32</sup></a>– is required. But&nbsp;of course, this&nbsp;would imply humbling the current environmentally destructive corporate-state oligarchy. As TJ Demos explains,</p> <blockquote> <p>we cannot address climate justice adequately without&nbsp;also targeting the corruption of democratic practice by corporate lobbying, or the underfunding and failure of public transportation systems, or indigenous rights violations by industrial extractivism, or police violence and the militarization of borders. For&nbsp;these areas all link up in one way or another as interconnected strands of political ecology.<a href="#sdfootnote33sym" name="sdfootnote33anc"><sup>33</sup></a></p> </blockquote> <p>In a&nbsp;similar vein, historian Dipesh Chakrabarty claims that&nbsp;“a critique that&nbsp;is only a&nbsp;critique of capital is not sufficient for&nbsp;addressing questions relating to human history once the crisis of climate change has been acknowledged and the Anthropocene has begun to loom on the horizon of our present. The geologic now of the Anthropocene has become entangled with&nbsp;the now of human history.”<a href="#sdfootnote34sym" name="sdfootnote34anc"><sup>34</sup></a> Factually, human-kind has treated nature as something to use, exploit, commercialize and colonize. Three centuries have passed since&nbsp;the birth of the Cartesian concept of ‘mastery of nature’ –&nbsp;so indispensable in the technological crisis of this&nbsp;century –&nbsp;and yet, our attitude of human-centered exceptionalism seems to have got worse. Despite&nbsp;the growing waves of social and political realignment and support for&nbsp;a&nbsp;shift towards&nbsp;ecological perspectives, it is clear to see that&nbsp;the colonization of nature continues today apace.</p> <p>For this&nbsp;reason, rather than&nbsp;using the obfuscatory term “Anthropocene”, some scholars, such as Jason Moore, Andreas Malm and Donna Haraway, are opting for&nbsp;a&nbsp;strategy of ‘calling violence by its name,’ and instead refer to the new geological epoch as the Capitolocene (the age of capitalism) –&nbsp;the historical era shaped by the endless capital accumulation.<a href="#sdfootnote35sym" name="sdfootnote35anc"><sup>35</sup></a> Such terminological distinction locates the source of climate change not in the existence of our species, but&nbsp;within intricate and interconnected processes caused by the organization of modern capitalism on a&nbsp;global scale. It foregrounds how “capitalism evolved within&nbsp;and against&nbsp;nature’s web of life” and attributes the environmental crisis to “complex socio-economic, political, and material operations involving classes and commodities, imperialisms and empires, and biotechnology and militarism.”<a href="#sdfootnote36sym" name="sdfootnote36anc"><sup>36</sup></a> It is important to understand that&nbsp;the terminological choice is not simply a&nbsp;matter of semantics, but&nbsp;rather of historical accuracy and truth. The Anthropocene is about&nbsp;the destruction of places and times of refuge for&nbsp;people and other species, it marks severe discontinuities.<a href="#sdfootnote37sym" name="sdfootnote37anc"><sup>37</sup></a> Thus, we need other names to account for&nbsp;the complexity and multiple dimensionality of this&nbsp;geo-politic and economic formation.<a href="#sdfootnote38sym" name="sdfootnote38anc"><sup>38</sup></a> Whatever term one chooses to adopt, the fact is that&nbsp;the issue with&nbsp;the Anthropocene cannot be addressed adequately without&nbsp;confronting “the corporate control of life,”<a href="#sdfootnote39sym" name="sdfootnote39anc"><sup>39</sup></a> as activist Vandana Shiva claims.</p> <h2>Investigating material geographies</h2> <p>Born out of research into&nbsp;the deep imbrications of the social, technological, knowledge, artistic and natural spheres, the collaborative art project World of Matter involves visual practitioners, ecological researchers, social justice activists, and environmental-humanities scholars conducting long-term research on ‘material geographies.’<a href="#sdfootnote40sym" name="sdfootnote40anc"><sup>40</sup></a> Specialists are brought together to draw on different methodologies that&nbsp;“scrutinize zones of geopolitical-ecological upheaval.”<a href="#sdfootnote41sym" name="sdfootnote41anc"><sup>41</sup></a> The results are translated into&nbsp;audio-visual media, mixed-media installations, texts and cartographies, which they deem a&nbsp;“valuable instrument for&nbsp;education, activist work, research and general raising of public awareness”<a href="#sdfootnote42sym" name="sdfootnote42anc"><sup>42</sup></a> to destabilize the <em>status quo</em>. The collective’s approach is critically experimental, which involves ethnographic methodologies, field research and self-reflexive knowledge production. According to Peter Mörtenböck and Helge Mooshammer, World of Matter<em> </em>was created as a&nbsp;response to “…a more ecological world-view through&nbsp;a&nbsp;collection of visual material on resource matters, arguing that&nbsp;any discursive shift necessitates and depends upon&nbsp;a&nbsp;different perspective on human-earth relations.”<a href="#sdfootnote43sym" name="sdfootnote43anc"><sup>43</sup></a> In other words, World of Matter’s perspective calls for&nbsp;a&nbsp;reconsideration of how we understand and interact with&nbsp;the world of things. Their aim is to present a&nbsp;new mode of thinking which engages with&nbsp;a&nbsp;new imaginary of the world. The collective asks: “How to engage when humans and nonhumans are equal actants in a&nbsp;shared world? What forms of action take into&nbsp;account the fact that&nbsp;our knowledge of the world has limits?”<a href="#sdfootnote44sym" name="sdfootnote44anc"><sup>44</sup></a> “How can we then conceive of an alternative engagement with&nbsp;the realities of the earth that&nbsp;recognises the entanglement of human life without&nbsp;reclaiming further privileges of superiority?”<a href="#sdfootnote45sym" name="sdfootnote45anc"><sup>45</sup></a></p> <p>World of Matter’s main strategy and concern is to suggest and make visible the connections among&nbsp;different sites, materials, processes, attitudes, and agencies, that&nbsp;is, “…between the ways in which human and nonhuman tangible and less tangible things in the world matter.”<a href="#sdfootnote46sym" name="sdfootnote46anc"><sup>46</sup></a> They explain:</p> <blockquote> <p>Humans have exhausted virtually all known resource deposits on the planet […]. Large-scale mining is penetrating ever deeper layers, multinational land grabs are advancing to remote corners and the race is on for&nbsp;the neo-colonial division of the seabed. […] With&nbsp;growing consciousness about&nbsp;global environmental limits, there is urgent need for&nbsp;new discourses and modes of representation that&nbsp;shift resource-related debates from&nbsp;a&nbsp;market-driven domain to open platforms for&nbsp;engaged and decentralized public discourse.<a href="#sdfootnote47sym" name="sdfootnote47anc"><sup>47</sup></a></p> </blockquote> <p>Conceived in this&nbsp;way, World of Matter produces research that&nbsp;finds new approaches to finite resources and explores proposals for&nbsp;creative sustainable alternatives.<a href="#sdfootnote48sym" name="sdfootnote48anc"><sup>48</sup></a> The collective is comprised of core members Mabe Bethônico, Ursula Biemann, Uwe H. Martin, Helge Mooshammer &amp; Peter Mörtenböck, Emily E. Scott, Paulo Tavares, Lonnie van Brummelen and Siebren de Haan.<a href="#sdfootnote49sym" name="sdfootnote49anc"><sup>49</sup></a></p> <p>As a&nbsp;reflection of their commitment to transparency, all contributors to World of Matter have pledged to share material from&nbsp;their current work in an open-access archive.<a href="#sdfootnote50sym" name="sdfootnote50anc"><sup>50</sup></a> Accordingly, the digital platform offers users myriad potential entry points and navigational trajectories, “resisting any overarching structure.”<a href="#sdfootnote51sym" name="sdfootnote51anc"><sup>51</sup></a> The users have the option to explore and study the projects in a&nbsp;cognitive way, yet the links between&nbsp;places and projects can be seen in ‘the overview and current media trail’ option.<a href="#sdfootnote52sym" name="sdfootnote52anc"><sup>52</sup></a> Through&nbsp;a&nbsp;compilation of short-length videos and documents, that&nbsp;can be reconfigured and intertwined to one another, the website creates new insights into&nbsp;relations between&nbsp;apparently distinct resources and locations. For&nbsp;instance, a&nbsp;video clip of the Nigerian Delta oil states can be connected with&nbsp;a&nbsp;visual document about&nbsp;illicit gold mining in the Amazon or Egyptian land-use politics.<a href="#sdfootnote53sym" name="sdfootnote53anc"><sup>53</sup></a> Thus, a&nbsp;variety of readings are presented about&nbsp;global connectivity among&nbsp;these sites. Debating this&nbsp;material in a&nbsp;series of symposia, exhibitions and publications, and widening participation in the production of resource knowledge “to employ the destabilizing and reframing qualities of aesthetics,”<sup> </sup><a href="#sdfootnote54sym" name="sdfootnote54anc"><sup>54</sup></a> is one of World of Matter’s main goals.</p> <h2>Slow violence and social ecology</h2> <p>The ambition of World of Matter’s collaborative effort is not to mimic “a false mastery of the structure of contemporary resource ecologies,” but&nbsp;rather to reconsider “the relationships between&nbsp;discursive practices and the material world.”<a href="#sdfootnote55sym" name="sdfootnote55anc"><sup>55</sup></a> Accordingly, the collective suggests a&nbsp;variety of possible readings regarding&nbsp;the complex networks of the socio-political and economic dimensions of the use of land in the global field. With&nbsp;particular attention to areas in the Global South, World of Matter analyzes destructive industrialization and its domination of areas.</p> <p>World of Matter’s endeavour is thus attentive to what Rob Nixon describes as “an environmentalism of the poor and the slow violence”<a href="#sdfootnote56sym" name="sdfootnote56anc"><sup>56</sup></a> inflicted on a&nbsp;range of agents, amongst others, women miners in Brazil in Bethônico’s <em>Mineral Invisibility</em>; farmers in Egypt, India and Brazil in Biemann’s <em>Egyptian Chemistry </em>and <em>Deep Weather</em>, Martin’s <em>White Gold, </em>and Huber and Martin’s <em>LandRush</em> or indigenous communities and nonhuman life-forms in the Amazon in Tavares’ <em>Non-human Rights</em>. For&nbsp;Nixon, slow violence is that&nbsp;which occurs gradually and out of sight, “a violence of delayed destruction that&nbsp;is dispersed across&nbsp;time and space, and attritional violence that&nbsp;is typically not viewed as violence at all.”<a href="#sdfootnote57sym" name="sdfootnote57anc"><sup>57</sup></a> Through&nbsp;a&nbsp;proliferation of films, text-based displays, photo-essays, cartographic analyses, sculptural and mixed-media installations, World of Matter has sought to ‘make visible’ the slow and devastating force of capitalist globalization.<a href="#sdfootnote58sym" name="sdfootnote58anc"><sup>58</sup></a> Their cartographies link to concrete sites, materialities and histories of globally dispersed places that&nbsp;have seen dramatic transformations of their landscapes [Fig. 1]. By tracing threads that&nbsp;connect extractive industries, research and development, and agribusiness around&nbsp;the world, the collective provides a&nbsp;platform for&nbsp;“active critical and aesthetic engagement on questions of ecology, new materialism, and nature-cultures.”<a href="#sdfootnote59sym" name="sdfootnote59anc"><sup>59</sup></a></p> <p><a href="#sdfootnote1anc" name="sdfootnote1sym"></a></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/varas/fig1-1920x-f75.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/varas/fig1-330x-087.jpg 330w,assets/cache/images/issues/2018/22/varas/fig1-660x-c3f.jpg 660w,assets/cache/images/issues/2018/22/varas/fig1-768x-d4d.jpg 768w,assets/cache/images/issues/2018/22/varas/fig1-1320x-b6e.jpg 1320w" src="assets/cache/images/issues/2018/22/varas/fig1-660x-c3f.jpg" alt="" ></a>    <figcaption><p><span>Fig. 1. Peter Mörtenböck and Helge Mooshammer, </span><span><em>World of Matter</em>, </span><span>2014. </span>Detail of wall cartography exhibited <span>at HMKV Dortmund (2014), James Gallery New York (2014), and Leonard and Bina Ellen Gallery Montreal. </span><span>© World of Matter</span></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Many of World of Matter’s projects draw connections between&nbsp;seemingly unrelated sites to highlight the unequal relations between&nbsp;them and to intervene in the conditions at hand. As such, they align with&nbsp;other eco-aesthetic practices which display the operations of globalization in order to open up and imagine other more just forms of world-making.<a href="#sdfootnote60sym" name="sdfootnote60anc"><sup>60</sup></a> For&nbsp;instance, paying close attention to the large-scale agribusiness in Brazil’s Mato Grosso and farming developments and land rights in Gambela, Ethiopia, Huber &amp; Martin present <em>LandRush </em>(2011–ongoing). Through&nbsp;a&nbsp;series of documentary films, photographs, interactive apps and art installations, <em>Landrush </em>explores the socio-environmental impacts of large-scale commercial farms on rural economies and land rights, the thriving of renewable fuels, land reallocation, and question the future of modern agriculture –&nbsp;monoculture –&nbsp;around&nbsp;the world.<a href="#sdfootnote61sym" name="sdfootnote61anc"><sup>61</sup></a> The project is divided into&nbsp;two subthemes: <em>LandRush–</em><em>Frontier Land </em>(Mato Grosso, Brazil) and<em> LandRush–The Farm </em>(Gambela, Ethopia).<a href="#sdfootnote62sym" name="sdfootnote62anc"><sup>62</sup></a></p> <p>Revealing how agricultural developments come with&nbsp;no limits and pollute traditional farming lands with&nbsp;agrotoxics and transgenics (GMOs) in Brazil, <em>LandRush–</em><em>Frontier Land</em>, forecasts a&nbsp;dark future of depleted clean-water supplies, which are polluted by these farming practices and resulting social conflicts.<a href="#sdfootnote63sym" name="sdfootnote63anc"><sup>63</sup></a> The footage presents a&nbsp;series of interviews with&nbsp;different actants –&nbsp;indigenous activists, farmers, CEOs of multinational companies, colonial settlers –&nbsp;and a&nbsp;sequence of high-resolution images exposing agricultural practices where pesticides and chemicals are being sprayed on cotton farms, soybeans are moved by massive agricultural machinery and local family-based farms strive against&nbsp;the industrial global market. “It’s a&nbsp;glimpse into&nbsp;the future of agriculture,” the artists claim, “corn is turned into&nbsp;ethanol, and the remains are fed to cattle, chickens, and pigs whose excrements [sic] generate electricity, fertilizers and carbon credits. In another closed loop, cotton delivers cloth, but&nbsp;also biodiesel and protein-high power feed, eliminating the need to feed the animals soy, which is exported for&nbsp;cash instead. The ongoing cycle is supposed to guarantee ever-increasing earnings.”<a href="#sdfootnote64sym" name="sdfootnote64anc"><sup>64</sup></a> <em>LandRush–Frontier Land </em>not only depicts how Mato Grosso leads the way in the consumption of pesticides, herbicides, fungicides and defoliation agents, but&nbsp;also presents a&nbsp;critical reading of the social and environmental damage being caused by large-scale agro-investments in local economies.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/varas/fig2-1920x-ed2.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/varas/fig2-330x-fb9.jpg 330w,assets/cache/images/issues/2018/22/varas/fig2-660x-b0c.jpg 660w,assets/cache/images/issues/2018/22/varas/fig2-768x-f72.jpg 768w,assets/cache/images/issues/2018/22/varas/fig2-1320x-213.jpg 1320w" src="assets/cache/images/issues/2018/22/varas/fig2-660x-b0c.jpg" alt="" ></a>    <figcaption><p>Fig. 2. Uwe H. Martin &amp; Frauke Huber, <em>LandRush –The Farm, </em>Ethiopia, 2011–ongoing. Video and photograph. ©Uwe H. Martin &amp; Frauke Huber</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Placing Brazil in an international comparative perspective, the videos also track farming developments in Ethiopia (<em>LandRush–The Farm</em>), where the use of chemical pesticides by commercial farms has fouled traditional farming lands, thus forecasting the depletion of clean water supplies. Through&nbsp;the use of ethnographic models and documentary practices, the project explicates how outsourcing food production is becoming a&nbsp;global trend. “Farmland is today’s hottest investment, triggering a&nbsp;genuine land rush.”<a href="#sdfootnote65sym" name="sdfootnote65anc"><sup>65</sup></a> While for&nbsp;the local rural population self-sustainability comes first, the city of Gambela depends on the production of surplus food in the countryside. Ethiopian farmers have been pushed aside by ambitious large-scale foreign investors, supporting the country’s move to high-tech farming and corporate enclosure of land. <em>LandRush–The Farm </em>depicts how international land investments in Ethiopia are altering the social and environmental fabric of the Gambela region.<a href="#sdfootnote66sym" name="sdfootnote66anc"><sup>66</sup></a></p> <p><em>LandRush </em>depicts transversal connections between&nbsp;the complex ecologies of two seemingly isolated communities, who are continuously being exposed to slow violence stimulated by the colonial economic system of rich nations. It connects contrasting geographies that&nbsp;are experiencing similar threats of industrialization and neocolonial land grabbing, which are damaging not only regional ecosystems, but&nbsp;also threatening the survival of traditionally self-sufficient communities. These associations are presented, nonetheless, in a&nbsp;very subtle way. In this&nbsp;sense, <em>LandRush</em> leaves it open for&nbsp;spectators to form independent interpretations and political views on how the world matters, and might matter, differently. Focus is given to the appropriation and mastery of nature through&nbsp;industrial practice, and the findings of the project are depicted in a&nbsp;poetic and aesthetically appealing way.<a href="#sdfootnote67sym" name="sdfootnote67anc"><sup>67</sup></a> Notwithstanding the evidence of destruction and exploitation of land, the images’ outstanding composition portrays nature in a&nbsp;nostalgic and evocative way. In this&nbsp;way, <em>LandRush</em> evokes contrasting feelings of both yearning and devastation [Fig. 2-3].</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/varas/fig3-1920x-255.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/varas/fig3-330x-1b0.jpg 330w,assets/cache/images/issues/2018/22/varas/fig3-660x-a42.jpg 660w,assets/cache/images/issues/2018/22/varas/fig3-768x-23a.jpg 768w,assets/cache/images/issues/2018/22/varas/fig3-1320x-3d1.jpg 1320w" src="assets/cache/images/issues/2018/22/varas/fig3-660x-a42.jpg" alt="" ></a>    <figcaption><p>Fig. 3. Uwe H. Martin &amp; Frauke Huber, <em>LandRush –The Road</em>, Brazil, 2011–ongoing. ©Uwe H. Martin &amp; Frauke Huber</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Paying particular attention to modalities, histories of social inequality and conflicts around&nbsp;the world that&nbsp;mark uneven developments under&nbsp;neoliberalism, World of Matter’s methodology resonates with&nbsp;a&nbsp;‘social ecology’ approach. Through&nbsp;critical research of serious ecological dislocations,<a href="#sdfootnote68sym" name="sdfootnote68anc"><sup>68</sup></a> social ecology methodologies seek to explain the correlation between&nbsp;the exploitation of people, inequality within&nbsp;human relations and environmental destruction, and comes to the conclusion that&nbsp;“addressing and rectifying forms of social violence and inequality” is necessary.<a href="#sdfootnote69sym" name="sdfootnote69anc"><sup>69</sup></a> Yet, to deal issues of such violence and inequality first it is crucial to understand them. Herein lies the importance of the collective’s research and representation of the lives of those “often invisible, and kept so at times by corporate and governmental design.”<a href="#sdfootnote70sym" name="sdfootnote70anc"><sup>70</sup></a> An example of this&nbsp;can be seen in Bethônico’s <em>Mineral Invisibility </em>(2008–ongoing), which stages a&nbsp;dialogue between&nbsp;historic illustrations, archival material and the Bethônico’s own documentary footage on an iron ore mining in Brazilian towns in Minas Gerais.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/varas/fig4-1920x-fea.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/varas/fig4-330x-d8a.jpg 330w,assets/cache/images/issues/2018/22/varas/fig4-660x-bc2.jpg 660w,assets/cache/images/issues/2018/22/varas/fig4-768x-c83.jpg 768w,assets/cache/images/issues/2018/22/varas/fig4-1320x-50e.jpg 1320w" src="assets/cache/images/issues/2018/22/varas/fig4-660x-bc2.jpg" alt="" ></a>    <figcaption><p>Fig. 4. Mabe Bethônico, <em>Mineral Invisibility</em>, 2008–ongoing. <span>©World of Matter</span></p></figcaption>   </figure>  </section><section class="u-typo">   <p><em>Mineral Invisibility</em> focuses on the conditions of women workers in the operational areas of large mines in Brazil, to which they had only restricted access until&nbsp;the 1990s. Regions where mining is prevalent often experience significant reductions in air and water quality, which has a&nbsp;direct impact on the livelihood and health of the nearby populations. Despite&nbsp;all the implications for&nbsp;safety and local destruction, mining is the economic engine of the towns, even if it is for&nbsp;a&nbsp;limited period of time-up to the exhaustion of the land. However, what happens in the mines remains hidden from&nbsp;the majority of local citizens.<a href="#sdfootnote71sym" name="sdfootnote71anc"><sup>71</sup></a> In general, “it is impossible to see the mines from&nbsp;the roads, as they are deliberately hidden by trees and bushes.”<a href="#sdfootnote72sym" name="sdfootnote72anc"><sup>72</sup></a> Under&nbsp;the guise of ‘industrial secrets’ access to the mines is strongly controlled and records of the mining history are scarce. Furthermore, the few records that&nbsp;are made publicly available are often out of context “perpetuating invisibility and abstraction,”<a href="#sdfootnote73sym" name="sdfootnote73anc"><sup>73</sup></a> as Bethônico explains. “Although mining is imprinted in the collective imaginary of the state, it is also inaccessible and invisible. This&nbsp;lack of information results in collective amnesia.”<a href="#sdfootnote74sym" name="sdfootnote74anc"><sup>74</sup></a> Some artists who attempt to address the issue of mining do so by exploring it merely through&nbsp;an aesthetic gaze, yet the safety and working conditions of the mine are not critically addressed; thus, such attempts end up aestheticizing environmental destruction. In contrast to this, <em>Mineral Invisibility </em>examines the silencing and image control related to mining practices in Minas Gerais [Fig. 4-5].</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/varas/fig5-1920x-400.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/varas/fig5-330x-ba3.jpg 330w,assets/cache/images/issues/2018/22/varas/fig5-660x-84c.jpg 660w,assets/cache/images/issues/2018/22/varas/fig5-768x-82b.jpg 768w,assets/cache/images/issues/2018/22/varas/fig5-1320x-af7.jpg 1320w" src="assets/cache/images/issues/2018/22/varas/fig5-660x-84c.jpg" alt="" ></a>    <figcaption><p>Fig. 5. Mabe Bethônico, <em>Mineral Invisibility</em>, 2008–ongoing. <span>©World of Matter</span></p></figcaption>   </figure>  </section><section class="u-typo">   <p>In an effort to raise critical awareness and foster discussion on the environmental impact of the mining industry and on the need for&nbsp;workers’ rights and gender equality, <em>Mineral Invisibility </em>brings together documentary films, photographic material, publications, essays and posters to “…give visibility to this&nbsp;context of mining in both its historical and contemporary manifestations.”<a href="#sdfootnote75sym" name="sdfootnote75anc"><sup>75</sup></a> Highlighting the lack of imagery and information on mining in Brazil, the project raises questions about&nbsp;the lack of public awareness of the reality of the mines, work and laborers, landscapes, machines, the scale of extraction and its consequences.<em> Mineral Invisibility </em>is an invitation to<em> </em>reflect upon&nbsp;the correlation between&nbsp;the exploitation of people, the environment and the lack of collective engagement in West Brazil. Bethônico’s efforts to distribute these new archives of documentation and information can be seen in her proposal for&nbsp;a&nbsp;parallel project called the <em>Museum of Public Concerns</em>, a&nbsp;mobile digital photographic archive that&nbsp;will travel around&nbsp;the city of Belo Horizonte and the interior of Minas Gerais. The <em>Museum of Public Concerns</em> will serve as a&nbsp;platform for&nbsp;discussion amongst academics and will provide a&nbsp;public forum for&nbsp;consultation and engagement.<a href="#sdfootnote76sym" name="sdfootnote76anc"><sup>76</sup></a></p> <p>Seeking to investigate modes of collective composition that&nbsp;extend beyond&nbsp;human agents alone, <em>World of Matter</em> explores nature’s realm beyond&nbsp;the “conventional anthropocentric gazes, as well as its comingling with&nbsp;culture and technology.”<a href="#sdfootnote77sym" name="sdfootnote77anc"><sup>77</sup></a> A&nbsp;case in point is Ursula Biemann’s <em>Egyptian Chemistry </em>(2012), which explores the complex interactions between&nbsp;humans, nature and technology intersect to form the hybrid ecologies of Egypt.<a href="#sdfootnote78sym" name="sdfootnote78anc"><sup>78</sup></a> In the essay related to the project, the artist describes the Nile river as an “aquatic narrative [that tells] multiple plots involving organic, social and technological actors […] The question is how we can conceive of a&nbsp;reality indifferent to humans.”<a href="#sdfootnote79sym" name="sdfootnote79anc"><sup>79</sup></a> Based on videographic documents of land and water samples taken from&nbsp;different sites along&nbsp;the Nile river, <em>Egyptian Chemistry </em>probes the changes generated by environmental and hydraulic engineering [Fig. 6-7]. The material version of the project consist of a&nbsp;complex 5-channel video installation, although in the online version the user only has access to parts of three of the five channels. This&nbsp;article only focuses on the three channels available in the online multimedia platform.</p> <p>Depicting the Nile river as a&nbsp;hybrid system<a href="#sdfootnote80sym" name="sdfootnote80anc"><sup>80</sup></a> that&nbsp;interacts within&nbsp;three different spheres (agro-sciences, ecologies and land reforms), the project conveys how water is central to life in Egypt. Comprised of a&nbsp;series of short essays, interviews and documentary videos, each section explores the different “…bio-political-chemical compositions that&nbsp;are currently in formation and questions the effects they will have on future constellations of biological, chemical and political life.”<a href="#sdfootnote81sym" name="sdfootnote81anc"><sup>81</sup></a> Attending to slower and more continuous transformations of geochemistry, “whose physical manifestations are not always relayed into&nbsp;political consequences,” Biemann’s “geopoetic approach uses metachemistry as a&nbsp;link between&nbsp;the life-world of chemical and human agents,”<a href="#sdfootnote82sym" name="sdfootnote82anc"><sup>82</sup></a> as Inke Arns notes. In this&nbsp;way,<em> </em>the project<em> </em>not only exposes how altered water chemistry transforms soil quality and entire agro-ecologies, but&nbsp;also how it interacts with&nbsp;land management, urbanization processes and food supply chains.<a href="#sdfootnote83sym" name="sdfootnote83anc"><sup>83</sup></a></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/varas/fig6-1920x-400.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/varas/fig6-330x-ba3.jpg 330w,assets/cache/images/issues/2018/22/varas/fig6-660x-84c.jpg 660w,assets/cache/images/issues/2018/22/varas/fig6-768x-82b.jpg 768w,assets/cache/images/issues/2018/22/varas/fig6-1320x-af7.jpg 1320w" src="assets/cache/images/issues/2018/22/varas/fig6-660x-84c.jpg" alt="" ></a>    <figcaption><p>Fig. 6. Ursula Biemann, <em>Egyptian Chemistry</em>, 2012. <span>©World of Matter</span></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Additionally, <em>Egyptian Chemistry </em>exposes how the World Bank and International Monetary Fund (IMF), steered the Egyptian government towards&nbsp;a&nbsp;shift in economic policy by promoting an export-based, agro-industrial economy supported by large-scale monoculture farming practices.<a href="#sdfootnote84sym" name="sdfootnote84anc"><sup>84</sup></a> The project shows how local food production was depleted, leading to food scarcity, urbanization, unemployment, and social conflict –&nbsp;a&nbsp;familiar cycle under&nbsp;neoliberal governance.<a href="#sdfootnote85sym" name="sdfootnote85anc"><sup>85</sup></a> In her footage, Biemann depicts a&nbsp;intricate chain of relations, a&nbsp;‘cooperative of thing,’<a href="#sdfootnote86sym" name="sdfootnote86anc"><sup>86</sup></a> that&nbsp;encompasses an “assemblage of aquapolitics and social revolution introduced by neoliberal macro-economic policy,”<a href="#sdfootnote87sym" name="sdfootnote87anc"><sup>87</sup></a> as Demos emphasizes. “Yet all of these components,” Biemann recalls, “neither line up in a&nbsp;casual chain of reactions, nor are they subject solely to an economic paradigm.”<a href="#sdfootnote88sym" name="sdfootnote88anc"><sup>88</sup></a> Bringing findings from&nbsp;multiple sources, <em>Egyptian Chemistry </em>assembles these “elementary fragments into&nbsp;a&nbsp;planetary narration”<a href="#sdfootnote89sym" name="sdfootnote89anc"><sup>89</sup></a>; that&nbsp;is, it presents an observation of “a material constellation –&nbsp;a&nbsp;way of being –&nbsp;in which humans merely play one part among&nbsp;many.”<a href="#sdfootnote90sym" name="sdfootnote90anc"><sup>90</sup></a></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/varas/fig7-1920x-d41.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/varas/fig7-330x-482.jpg 330w,assets/cache/images/issues/2018/22/varas/fig7-660x-95b.jpg 660w,assets/cache/images/issues/2018/22/varas/fig7-768x-2ca.jpg 768w,assets/cache/images/issues/2018/22/varas/fig7-1320x-bf4.jpg 1320w" src="assets/cache/images/issues/2018/22/varas/fig7-660x-95b.jpg" alt="" ></a>    <figcaption><p>Fig. 7. Ursula Biemann, <em>Egyptian Chemistry</em>, 2012. <span>©World of Matter</span></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Aiming to undermine the utilitarian-anthropocentric perspective through&nbsp;which elements like&nbsp;water and soil are usually viewed, <em>Egyptian Chemistry </em>engages with&nbsp;methodologies of new materialism, speculative realism philosophy and chemistry, “demonstrating an aesthetic sensitivity to the agency of objects”<a href="#sdfootnote91sym" name="sdfootnote91anc"><sup>91</sup></a> entangled with&nbsp;human systems in unexpected ways. This&nbsp;is clearly seen in her annotated footage where the artist presents a&nbsp;newfound attentiveness to matter and its power. In her words, “[n]ot everything comes into&nbsp;being through&nbsp;human intention, and we need to examine the ways in which human and nonhuman realities emerge together in a&nbsp;variety of formations.”<a href="#sdfootnote92sym" name="sdfootnote92anc"><sup>92</sup></a> <em>Egyptian Chemistry</em> outlines a&nbsp;network of relations comprising water politics, hydroelectric schemes, fish ecologies, nitrate industries, geoengineering, use of land and socio-political revolution (the Arab Spring) –&nbsp;each affected by neoliberal policy. By making visible the “political ecology of that&nbsp;networked causality, dispersed agency, and multiple effects within&nbsp;and beyond&nbsp;the human,”<a href="#sdfootnote93sym" name="sdfootnote93anc"><sup>93</sup></a> <em>Egyptian Chemistry </em>presents a&nbsp;re-reading of the dynamic relations between&nbsp;vision, nature, water, productivity, energy, revolution, and image-making.</p> <h2>Towards a&nbsp;human–nonhuman commons</h2> <p>In World of Matter projects, nature is never idealized and separated from&nbsp;human activity. Unlike&nbsp;many eco-artistic projects, World of Matter does not present nature as an object to be instrumentalized or financially speculated upon. Rather, the collective’s approach sees human agency as one of many partners generating a&nbsp;given situation and outlines a&nbsp;network of relations. By distributing agency beyond&nbsp;strictly conceived anthropocentric causality, World of Matter’s projects manage to convey the complexity of geopolitics, how human systems bear an unintentional agency upon&nbsp;nature. The group members claim, “[o]ur intention is not to create more facts, or to debunk existing assumptions,” but&nbsp;rather “to offer an arena in which to assemble and, in the words of Latour, ‘care’.”<a href="#sdfootnote94sym" name="sdfootnote94anc"><sup>94</sup></a> World of Matter evidences a&nbsp;collective commitment to investigate and make visible industrial modernity’s colonization, which extends beyond&nbsp;human agents alone.</p> <p>Whilst each artwork has its own individual aesthetic and methodology, they still share a&nbsp;common set of principles. Most notable are the multiple methodologies including ethnography, field research and experimental documentary video, combining interviews with&nbsp;diverse subjects, socio-political analysis and historical investigation –&nbsp;often presented with&nbsp;explanatory titles, or as a&nbsp;voice-over –&nbsp;alongside environmental footage and philosophical speculative thinking presented through&nbsp;annotated film.<a href="#sdfootnote95sym" name="sdfootnote95anc"><sup>95</sup></a> These are crucial components in their proposal which seeks a&nbsp;reconsideration of the relationship between&nbsp;material and discourse, and to create a&nbsp;more democratic and critical debate on the environmental crisis, the Anthropocene. World of Matter presents itself not as “fully integrated single narrative, but&nbsp;as distinct and recombinable files, fragmentary testimonies,”<a href="#sdfootnote96sym" name="sdfootnote96anc"><sup>96</sup></a> and photographic archives still in progress. As Brian Holmes puts it, “its strength [is] to let the world <em>break down&nbsp;</em>into real complexity, so that&nbsp;‘the crackling noise of the forming and breaking of molecular bonds can be heard at all times’.”<a href="#sdfootnote97sym" name="sdfootnote97anc"><sup>97</sup></a></p> <p>It is interesting to see how the collective presents footage of the corporate exploitation of natural resources and people by bridging the specialist division and probing the political significance of environmental developments. Yet, World of Matter refuses to fall into&nbsp;the trap of the Anthropocene discourse of proposing solutions to climate change that&nbsp;endorse the neoliberal market. Moving beyond&nbsp;the visualization of economic and environmental dynamics, World of Matter’s practice reiterates that, as Demos emphasizes, “it is imperative to invent a&nbsp;new and different ‘ecological capital’ that&nbsp;would definancialize nature,” which correlates “a new ecological understanding with&nbsp;a&nbsp;new political economy –&nbsp;a&nbsp;political ecology that&nbsp;posits the environment’s sustainability as a&nbsp;source of intrinsic value.”<a href="#sdfootnote98sym" name="sdfootnote98anc"><sup>98</sup></a> In other words, by presenting a&nbsp;critical engagement with&nbsp;the concrete set of policies and attitudes carried by corporate capitalism, World of Matter strives towards&nbsp;a&nbsp;more inclusive multispecies understanding and use of natural resources. Exploring new ways to conceptualize and materialize an inclusive field of collectivisation, a&nbsp;new “cooperative of things,”<a href="#sdfootnote99sym" name="sdfootnote99anc"><sup>99</sup></a> the collective’s practice surpasses the assumptions of anthropocentrism and fosters the already existing forms of human–nonhuman <em>commons</em><a href="#sdfootnote100sym" name="sdfootnote100anc"><sup>100</sup></a>.</p> <p>In his article <em>After Nature </em>(1999)<em>, </em>Arturo Escobar defines political ecology as “the study of the manifold articulations of history and biology and the cultural mediations through&nbsp;which such articulations are necessarily established.”<a href="#sdfootnote101sym" name="sdfootnote101anc"><sup>101</sup></a> World of Matter’s globalized research methodology represents an expanded platform with&nbsp;which it addresses a&nbsp;fundamental element of political ecology. In tracing the specific local articulations of globalizing dynamics, the collective exposes the way in which globalization functions as a&nbsp;scale-making activity, as an apparatus which can farm, harvest, circulate raw materials, and mines ores in disparate countries.<a href="#sdfootnote102sym" name="sdfootnote102anc"><sup>102</sup></a> The results are materialized in critical and aesthetic strategies to render the intricate ecologies of the contemporary world, in an effort to imagine the globe differently, as a&nbsp;place of commonality for&nbsp;ecological imaginaries. Avoiding the reduction of nature to inert matter, World of Matter proposes a&nbsp;recalibration of the entanglements between&nbsp;human and nonhuman materials, to accept the mingling and bring to the foreground an ecological thinking where human and nonhuman matter are equal actants.<a href="#sdfootnote103sym" name="sdfootnote103anc"><sup>103</sup></a> In Mörtenböck and Mooshammer’s words, “[t]he point here is to expand the imaginary of possibilities” and start thinking about&nbsp;the ‘cooperative of things,’<a href="#sdfootnote104sym" name="sdfootnote104anc"><sup>104</sup></a> not to discriminate between&nbsp;the ecologies of things and the manifold human relations that&nbsp;develop around&nbsp;them. It is about&nbsp;recognizing what Escobar deems the “plurality of natures”<a href="#sdfootnote105sym" name="sdfootnote105anc"><sup>105</sup></a>– capitalist and noncapitalist, modern and unmodern –&nbsp;in which both the social and the biological have central, yet not essential, roles to play.</p> <h2>Radical imaginaries and the responsibility of art</h2> <p>In 2013 Professor Kevin Anderson, deputy director of the Tyndall Centre for&nbsp;Climate Change Research claimed, “silence is an advocacy for&nbsp;the status quo.”<a href="#sdfootnote106sym" name="sdfootnote106anc"><sup>106</sup></a> Scientists who think of themselves as the least engaged, are inadvertently among&nbsp;the most political. This&nbsp;is equally true in the cultural realm. For&nbsp;this reason, art has a&nbsp;crucial role in the age of the Anthropocene. Art allows us to see the world through&nbsp;a&nbsp;different lens, providing an alternative perspective. Through&nbsp;critical thinking, creative methodology and a&nbsp;willingness to do away with&nbsp;the status quo, art has the potential to shift the paradigm and break with&nbsp;traditional narratives. It provokes self-reflection by bringing to the fore our most unpleasant and destructive human tendencies and for&nbsp;this reason, art has a&nbsp;crucial role in the age of the Anthropocene. Demos argues that&nbsp;“to cling to some outdated notion of artistic autonomy […] divorced from&nbsp;any duty or responsibility for&nbsp;environmental considerations, is to advocate, intentionally or not, for&nbsp;the status quo of neoliberal exceptionalism and its destructive ecocide.”<a href="#sdfootnote107sym" name="sdfootnote107anc"><sup>107</sup></a> This&nbsp;latter statement seems to be a&nbsp;blunt accusation. However, if we acknowledge that&nbsp;the present unsustainable system of governance cannot continue, then we must also understand that&nbsp;art has an imperative responsibility.</p> <p>Recent engagement has galvanised the energy of anti-Anthropocene activism that&nbsp;refuse to generalize and depoliticize climate change agency, and to reject current corporate-dominated environmental governance. These global movements promote alternative forms of living that&nbsp;go beyond&nbsp;the Anthropocene’s geoengineering ambitions, which prefer to address only the consequences, rather than&nbsp;interrogate the systematic processes of centuries of capitalism and colonial relations towards&nbsp;nature. Chantal Mouffe has pointed out that, “[t]he building of a&nbsp;new hegemony implies the creation of a&nbsp;‘chain of equivalence’ among&nbsp;the diversity of democratic struggles, old and new, in order to form a&nbsp;‘collective will’, a&nbsp;‘we’ of the radical democratic forces.”<a href="#sdfootnote108sym" name="sdfootnote108anc"><sup>108</sup></a> To deal with&nbsp;the current ecological crisis, an intersectional approach that&nbsp;insists on seeing the inextricable relations of power, economic forces and ideological mechanisms, is needed. Different scales of engagements are already connecting diverse disciplines, institutions, and communities, “all working together toward&nbsp;changing the paradigm,”<a href="#sdfootnote109sym" name="sdfootnote109anc"><sup>109</sup></a> moving toward&nbsp;environmental responsibility, economic equality and social justice.</p> <p>World of Matter’s international scope help its members to conceive global modes of social organization, linking social movements, network activism and communities in the search of alternative “resource ecologies.”<a href="#sdfootnote110sym" name="sdfootnote110anc"><sup>110</sup></a> By offering a&nbsp;platform for&nbsp;the individuals to develop critical thought regarding&nbsp;socio-political and ecological issues, World of Matter intends to contribute to a&nbsp;free production of shared knowledge that&nbsp;remains open, collective, and widely accessible, pitched against&nbsp;colonial corporate-governmental surveillance and proprietary control of the internet.<a href="#sdfootnote111sym" name="sdfootnote111anc"><sup>111</sup></a> But, exactly how inclusive, accessible and comprehensible are these informative aesthetic projects? How easy is it, for&nbsp;the non-academic or art scholar public, to stumble upon&nbsp;World of Matter’s projects whether it is through&nbsp;the internet, a&nbsp;debate, a&nbsp;presentation or exhibition? Ultimately, this&nbsp;is where the collective’s modus operandi stumbles, as the project is usually presented within&nbsp;an institutional structure and the artworks are surrounded by a&nbsp;complex theoretical framework that&nbsp;is sometimes difficult to follow. It would, thus, be interesting to see how many of the users visiting World of Matter’s website come from&nbsp;a&nbsp;scholarly background.<a href="#sdfootnote112sym" name="sdfootnote112anc"><sup>112</sup></a></p> <p>According to Cornelius Castoriadis, radical imaginary is “the capacity to posit that&nbsp;which is not, to see in something that&nbsp;which is not there.”<a href="#sdfootnote113sym" name="sdfootnote113anc"><sup>113</sup></a> The question is not whether this&nbsp;is done, but&nbsp;rather how do we see the world and what do we invent? In this&nbsp;regard, art has the advantage of being able to work as a&nbsp;laboratory where experimental formulations can conceive new collectivities that&nbsp;might contribute to widening social and ecological transformations. “It’s high time to make a&nbsp;break with&nbsp;our own normalized ways of creating and propagating world-pictures,” Holmes claims. “Don’t imagine the apocalypse, that’s old hat. Just bring your radical imagination to focus on the end of global capitalism.”<a href="#sdfootnote114sym" name="sdfootnote114anc"><sup>114</sup></a> This&nbsp;is precisely what World of Matter tries to do. In undoing and rearticulating the relationship with&nbsp;the shared world, the collective’s practice bears witness to a&nbsp;different kind of materialism, a&nbsp;non-anthropocentric materialism that&nbsp;fosters a&nbsp;blueprint for&nbsp;other forms of collaboration between&nbsp;human and nonhuman actants. The project presents thought-provoking insight into&nbsp;the way natural resources are considered and handled, and provides innovative aesthetic and ethical considerations that&nbsp;challenge the accepted status quo that&nbsp;matter is mainly for&nbsp;human consumption. Rather than&nbsp;presenting alternative worlds and solutions that&nbsp;would save&nbsp;‘us’ from&nbsp;the catastrophic future that&nbsp;is in store for&nbsp;us, World of Matter practices the ideas of knowledge as a&nbsp;sustainable resource, forging ‘ecological’ modes of knowledge-making and pointing towards&nbsp;the vital connection between&nbsp;human and nonhuman <em>commons </em>as a&nbsp;shared good. Yet, its practice remains problem-addressing, rather than&nbsp;problem-solving, as the collective does not provide tangible solutions to the dominant models of world–building.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Gavin Bridge, ‘The Resource Archipelago: Spatial Aesthetics and Resource Ecologies’ in Inke Arns, ed., <em>World of Matter</em> (Berlin: Sternberg Press, 2015), 64.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Timothy Morton, <em>Hyperobjects: Philosophy and Ecology after the End of the World</em> (Minneapolis, MN: University of Minnesota Press, 2013), 5.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Paul Crutzen and Eugene Stoermer, ‘The Anthropocene’, <em>Global Change Newsletter</em> 41 (n.d.): 17–18; Paul Crutzen, ‘Geology of Mankind – The Anthropocene’, <em>Nature</em> 415 (January 2002): 23; Paul Zalasiewicz et al., ‘Are We Now Living in the Anthropocene?’, <em>GSA (Geophysical Society of America) Today</em> 18, no. 2 (2008): 4–8; Robert Macfarlane, ‘Generation Anthropocene: How Humans Have Altered the Planet for Ever’, <em>The Guardian</em>, 1 April 2016, sec. Books, <a href="https://www.theguardian.com/books/2016/apr/01/generation-anthropocene-altered-planet-for-ever" target="_blank" rel="noopener">https://www.theguardian.com/books/2016/apr/01/generation-anthropocene-altered-planet-for-ever</a>. Paul Crutzen and Eugene Stoermer introduced the concept in the year 2000 to described the geological era that follows the Holocene epoch, which has been in existence for the last 11,700 years. See <a href="http://www.anthropocene.info/en/glossary" target="_blank" rel="noopener">http://www.anthropocene.info/en/glossary</a>. Much earlier dates for the development of the Anthropocene are sometimes suggested, but most scientists tend to agree that global anthropogenic effects started in the late 18<sup>th</sup> century. As in the case of Simon L. Lewis and Mark A. Maslin who suggest that first use of the word appears in 1922, by the Russian geologist Aleksei Pavlov to name the current “Anthropogenic system (period) or Anthropocene”. Simon L. Lewis and Mark A. Maslin, ‘Defining the Anthropocene’, <em>Nature</em> 519, no. 7542 (11 March 2015): 172–73.The terminology refers to the shift in Earth’s systems due to human activities, which include alterations in the biogeochemical cycles of the atmosphere, hydrosphere (water), and lithosphere (land), causing damaging ecological transformations such as ocean acidification, expansion of ocean dead zones, and increased species extinction. There is an extensive literature on the Anthropocene. For more see Lewis and Maslin, ‘Defining the Anthropocene’; McKenzie Wark, <em>Molecular Red: Theory for the Anthropocene</em> (London: Verso Books, 2015); and Vaclav Smil, <em>Harvesting the Biosphere: What We Have Taken from Nature</em> (Cambridge, MA: MIT Press, 2013). Another compelling study suggests dating the Anthropocene according to the multiple ‘great accelerations,’ in Earth system indicators and in social change indicators, from 1950 onwards, is made by Will Steffen, Wendy Broadgate, Lisa Deutsch, Owen Gaffney, and Cornelia Ludwig, in ‘The Trajectory of the Anthropocene: The Great Acceleration,’ <em>The Anthropocene Review</em>, (January 16, 2015).</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Jan Zalasiewicz et al., ‘The New World of the Anthropocene’, <em>Environmental Science and Technology Viewpoint</em> 44, no. 7 (2010): 2228–31.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Crutzen, ‘Geology of Mankind – The Anthropocene’; Crutzen and Stoermer, ‘The Anthropocene’.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Susan McMichael, ‘Generation Anthropocene ~ How Humans Have Altered the Planet for Ever – Starfish Initiatives’, Startfish Initiatives, <a href="https://starfish-initiatives.org/generation-anthropocene-humans-altered-planet-ever/" target="_blank" rel="noopener">https://starfish-initiatives.org/generation-anthropocene-humans-altered-planet-ever/</a>.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Macfarlane, ‘Generation Anthropocene’.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>There is an extensive literature upon the subject by relevant figures such as Bruno Latour, Eduardo Viveiros de Castro, Timothy Morton, McKenzie Wark, T. J. Demos, Donna Haraway, Jason Moore, Heather Davis and Etienne Turpin, Anna Lowenhaupt Tsing, amongst others.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Naomi Klein, <em>This Changes Everything: Capitalism vs. the Climate</em> (London: Penguin, 2015); <br>T. J. Demos, <em>Decolonizing Nature. Contemporary Art and the Politics of Ecology</em> (Berlin: Sternberg Press, 2016), 13.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Demos, <em>Decolonizing Nature</em>, 10.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>Mabe Bethônico et al., ‘Introduction to the World of Matter Project’ in Arns, <em>World of Matter</em>, 10.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>See, for instance, the Gulf Labor Campaign (GLC), Global Ultra Luxury Faction (G.U.L.F), W.A.G.E., Arts and Labor, Liberate Tate, Occupy Wall Street, Decolonize this Place, sHell No!, Pacific Climate Warriors, Idle No More, etc. Demos, <em>Decolonizing Nature</em>, 13; Marco Baravalle, ‘Art Populism and the Alter-Institutional Turn’, <em>E-Flux Journal</em>, no. 89 (March 2018), <a href="https://www.e-flux.com/journal/89/182464/art-populism-and-the-alter-institutional-turn/" target="_blank" rel="noopener">https://www.e-flux.com/journal/89/182464/art-populism-and-the-alter-institutional-turn/</a>.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>The World of Matter online multimedia platform is funded by the Zurich University for the Arts and George Foundation. See more in “About the Project,” World of Matter <a href="http://www.worldofmatter.net/about-project" target="_blank" rel="noopener">http://www.worldofmatter.net/about-project</a>.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Demos, <em>Decolonizing Nature</em>, 200-201.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>I use ‘thing’ in the sense of the collection of entities brought together in the ‘Parliament of Things’ that Bruno Latour called our attention to. See more in Bruno Latour, <em>We Have Never Been Modern</em> (Cambridge, Mass: Harvard University Press, 1993).</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>Demos, <em>Decolonizing Nature, </em>200–201; World of Matter, ‘About The Project’, World Of Matter, <a href="http://www.worldofmatter.net/about-project" target="_blank" rel="noopener">http://www.worldofmatter.net/about-project</a>.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>They credit the ‘noösphere’ concept to P. Teilhard de Chardin and E. Le Roy. Crutzen and Stoermer, ‘The Anthropocene’, 17.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>Crutzen and Stoermer, 18.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>Geoengineering refers to deliberate, large-scale intervention in the climate system designed to counter climate change or offset some of its effects. It is commonly divided into three broad classes: carbon dioxide removal, solar radiation management and Earth radiation management technologies. For more see Clive Hamilton, <em>Earthmasters: The Dawn of the Age of Climate Engineering</em> (Yale University Press, 2014); <a href="http://www.geoengineeringmonitor.org/what-is-geoengineering/" target="_blank" rel="noopener">http://www.geoengineeringmonitor.org/what-is-geoengineering/</a>.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>See Hamilton.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a>Some of the most notable contributions are: Frank Biermann, <em>Earth system Governance: World Politics in the Anthropocene</em> (Cambridge, MA: MIT Press, 2014); Katherine Gibson, Deborah Bird Rose, and Ruth Fincher, eds., <em>Manifesto for Living in the Anthropocene </em>(Brooklyn: Punctum Books, 2015); Christian Schwägerl, <em>The Anthropocene: The Human Era and How it Shapes Our Planet, </em>trans. Lucy Renner Jones (Santa Fe: Synergetic Press, 2014); Clive Hamilton, Christopher Bonneuil, and François Gemenne, eds., <em>The Anthropocene and the Global Environmental Crisis: Rethinking Modernity in a New Epoch </em>(Abingdon: Routledge, 2015); and Gaia Vince, <em>Adventures in the Anthropocene: A journey to the Heart of the Planet We Made </em>(London: Chatto &amp; Windus, 2014).</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>For more see Jairus Grove, ‘Response to Jedediah Purdy’ in Forum: The New Nature, <em>Boston Review</em>, (January 11, 2016); Donna Haraway, <em>Staying with the Trouble: Making Kin in the Chthulucene</em> (Durham: Duke University Press, 2016); Andreas Malm, ‘The Origins of Fossil Capital: From Water to Steam in the British Cotton Industry’, <em>Historical Materialism</em> 21 no. 1 (2013): 15-68; Nicholas Mirzoeff, ‘It’s Not the Anthropocene, It’s the White Supremacy Scene, Or, The Geological Color Line’ in Richard Grusin (ed.), <em>After Extinction</em>. (Minneapolis: University of Minnesota Press, 2016); Jason Moore, <em>Capitalism in the Web of Life: Ecology and the Accumulation of Capital</em>. (New York: Verso, 2015); Heather Davis and Zoe Todd, ‘On the Importance of a Date, or Decolonizing the Anthropocene’, <em>ACME. An International Journal for Critical Geographies</em> 16, no. 4 (January 2017): 761–80.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a>The term ‘Anthropocene’ is rooted in the ancient Greek word for ‘man’ or ‘human being’: <em>anthropos</em>.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a>Rob Nixon, <em>Slow Violence and the Environmentalism of the Poor</em> (Cambridge, Mass: Harvard University Press, 2011).</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a>The Anthropocene’s universalizing logic has a history. Many scholars seem to agree that this account can be traced back to 1972, when the Apollo 17 crew took the first photograph of the Earth from space: <em>Blue Marble</em>. “This photograph”, decolonial theorist Rolando Vazquez observes, “accomplishes the renaissance geographers’ dream of reducing earth to an object of representation; it is a moment in which the anthropocentric gaze achieves, as it were, its historical completion, the absurdity of its totality”. The Earth as a unified object, thus, was turned into an object of representation, and incorporated into the Cartesian subject-object division. This separation of humans from the rest of nature suddenly appeared as a self-evident definitive reality. Rolando Vazquez, ‘Precedence, Earth and the Anthropocene: Decolonizing Design’, <em>Design Philosophy Papers</em> 15, no. 1 (2 January 2017): 80. <em>Blue Marble,</em> however,<em> </em>also answered calls for a unifying “world perspective” that could bring “earthlings” together visually, and thus, socio-politically, as voiced by Stewart Brand. Reported in an interview with Steward Brand conducted by Joseph Corn (Buckminster Fuller Lectures, Stanford University, Stanford, CA, February 27, 2002) ‘Hohlwelt - Interactive Environments - Context/Examples - Stewart Brand’, <span>accessed 13 November 2017, </span><a href="http://www.hohlwelt.com/en/interact/context/sbrand.html" target="_blank" rel="noopener">http://www.hohlwelt.com/en/interact/context/sbrand.html</a>. This universalising logic goes hand in hand with tactics embedded in a colonial modernist’s rhetoric –the main subject of decolonial critique. For more see Walter D. Mignolo, <em>The Darker Side of Western Modernity: Global Futures, Decolonial Options</em>, 1 edition (Durham: Duke University Press Books, 2011); Vazquez, ‘Precedence, Earth and the Anthropocene’; Walter D. Mignolo and Catherine E. Walsh, <em>On Decoloniality: Concepts, Analytics, Praxis</em> (Durham and London: Duke University Press, 2018).</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a>Heather M. Davis and Etienne Turpin, ‘Art &amp; Death: Lives Between the Fifth Assessment &amp; the Sixth Extinction’ in Heather M. Davis and Etienne Turpin, eds.,<em> Art in the Anthropocene: Encounters among Aesthetics, Politics, Environments and Epistemologies</em>, vol. Critical Climate Change (London: Open Humanities Press, 2015), 7. Italics are mine.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a>T. J. Demos, <em>Against the Anthropocene. Visual Culture and Environment Today</em> (Berlin: Sternberg Press, 2017), 53.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>Nomi Klein, "Let Them Drown. The Violence of Othering in a Warming World", <em>London Review of Books</em>, (2 June 2016).</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a>Klein, <em>This Changes Everything: Capitalism vs. the Climate</em>, 18.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a>Davies and Todd, ‘On the Importance of a Date, or Decolonizing the Anthropocene’, 763.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a>For more see ‘A Plan to Power 100 Percent of the Planet with Renewables’, Scientific American, <a href="https://www.scientificamerican.com/article/a-path-to-sustainable-energy-by-2030/" target="_blank" rel="noopener">https://www.scientificamerican.com/article/a-path-to-sustainable-energy-by-2030/</a>.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a>‘What Is the Great Transition?’, <a href="http://www.greattransition.org/about/what-is-the-great-transition" target="_blank" rel="noopener">http://www.greattransition.org/about/what-is-the-great-transition</a>; Klein, <em>This Changes Everything</em>.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a>Demos, <em>Decolonizing Nature</em>, 12.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a>Dipesh Chakrabarty, ‘The Climate of History: Four Theses’, <em>Critical Inquiry</em> 35, no. 2 (1 January 2009): 212.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a>Jason Moore, ‘The Capitalocene Part I: On the Nature &amp; Origins of Our Ecological Crisis’, <em>The Journal of Peasant Studies</em>. 44, no.3 (17 March 2017), 594-630.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a>T. J. Demos, <em>Against the Anthropocene. Visual Culture and Environment Today</em> (Berlin: Sternberg Press, 2017), 86. See Moore, ‘The Capitalocene Part I: On the Nature &amp; Origins of Our Ecological Crisis’; Jason Moore, ‘The Capitalocene Part II: Accumulation by Appropriation and the Centrality of Unpaid Work/Energy’, <em>The Journal of Peasant Studies</em> 45, no. 2 (23 February 2018): 237–79.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a>Donna Haraway, ‘Anthropocene, Capitalocene, Plantationocene, Chthulucene: Making Kin’, <em>Environmental Humanities</em> 6, no. 1 (1 May 2015): 159–65.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> Other names such as the Plantationocene (Donna Haraway), the Eurocene (Jairus Grove), the White Supremacy Scene (Nicholas Mirzoeff) or the Chthulucene (Haraway) have also been proposed to rename the Anthropocene. For more see Haraway, ‘Anthropocene, Capitalocene, Plantationocene, Chthulucene: Making Kin’; Jairus Grove, ‘Response to Jedediah Purdy’; Nicholas Mirzoeff, ‘It’s Not the Anthropocene, It’s the White Supremacy Scene, Or, The Geological Color Line’.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a>Vandana Shiva, <em>The Corporate Control of Life</em>, dOCUMENTA (13):100 Notes –100 Thoughts, no. 12 (Ostfilderne: Hatje Cantz, 2011). Cited in Demos, <em>Decolonizing Nature</em>, 15.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a>Nigel Clark, Doreen B. Massey, and Philip Sarre, eds., <em>Material Geographies: A World in the Making</em>, 1 edition (London: SAGE Publications Ltd, 2008).</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a>Bethônico et al., ‘Introduction to the World of Matter Project’ in Arns, <em>World of Matter</em>, 11.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a>Ursula Biemann, Peter Mörtenböck, and Helge Mooshammer, ‘From Supply Lines to Resource Ecologies’, <em>Third Text</em> 27, no. 1 (1 January 2013): 76.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a>Peter Mörtenböck et al., ‘World of Matter’, <em>Architectural Theory Review</em> 20, no. 1 (2015): 122.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a>Bethônico et al., ‘Introduction to the World of Matter Project’, 11.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a>Peter Mörtenböck et al., ‘World of Matter’, 126.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a>Bethônico et al., ‘Introduction to the World of Matter Project’, 10.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a>Bethônico et al.<em>,</em>11.</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a>An important strand of their long-term endeavour is to invite wider public participation in the production of resource knowledge and to destabilise and reframe qualities of aesthetics. As such, the group operates between institutions, disciplines, and non-academic fields, as well as between areas of visual and spatial culture, urbanism, cultural research, photojournalism, art, activism, publishing, curating and education.World of Matter, ‘About The Project’; Arns, <em>World of Matter</em>.</p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a>Biemann, Mörtenböck, and Mooshammer, ‘From Supply Lines to Resource Ecologies’, 78; Demos, <em>Decolonizing Nature</em>, 200.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a>World of Matter, ‘About The Project’.</p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a>Biemann, Mörtenböck, and Mooshammer, ‘From Supply Lines to Resource Ecologies’, 77.</p>
+<p><a href="#sdfootnote52anc" name="sdfootnote52sym">52</a>For more see <a href="https://www.worldofmatter.net/overview" target="_blank" rel="noopener">https://www.worldofmatter.net/overview</a>.</p>
+<p><a href="#sdfootnote53anc" name="sdfootnote53sym">53</a>World of Matter, ‘About The Project’.</p>
+<p><a href="#sdfootnote54anc" name="sdfootnote54sym">54</a>Biemann, Mörtenböck, and Mooshammer, ‘From Supply Lines to Resource Ecologies’, 76.</p>
+<p><a href="#sdfootnote55anc" name="sdfootnote55sym">55</a>Biemann, Mörtenböck, and Mooshammer, 76.</p>
+<p><a href="#sdfootnote56anc" name="sdfootnote56sym">56</a>For more see Nixon, <em>Slow Violence and the Environmentalism of the Poor</em>.</p>
+<p><a href="#sdfootnote57anc" name="sdfootnote57sym">57</a>Nixon, 2.</p>
+<p><a href="#sdfootnote58anc" name="sdfootnote58sym">58</a>World of Matter, ‘About The Project’.</p>
+<p><a href="#sdfootnote59anc" name="sdfootnote59sym">59</a>Krista Geneviève Lynes, “World of Matter” in Basia Irland et al., <em>Elemental: An Arts and Ecology Reader</em> (UK: Gaia Project Press, 2016), 110.</p>
+<p><a href="#sdfootnote60anc" name="sdfootnote60sym">60</a>According to Anna Tsing, "we are surrounded by many world-making projects, human and nonhuman. World-making projects emerged from practical activities of making lives; in the process these endeavours alter our planet. To see them, in the shadow of the Anthropocene’s ‘anthropo-’, we must reorient our attention. Many preindustrial livelihoods, from foraging to stealing, persist today, and new ones […] emerge, but we neglect them because they are not a part of [modernity’s notion of] progress”. Anna Lowenhaupt Tsing, <em>The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins</em> (Princeton and Oxford: Princeton University Press, 2015), 21–22. See also TJ Demos, ‘Another World, and Another...: Notes on Uneven Geographies’, in <em>Uneven Geographies</em> (Nottingham: Nottingham Contemporary, 2010), 15–18.</p>
+<p><a href="#sdfootnote61anc" name="sdfootnote61sym">61</a>Currently the artists are researching the multiyear drought in California’s Central Valley, organic farming and land use politics in Eastern Germany, and water policies in the Colorado watershed. See more in <a href="http://landrushproject.com/" target="_blank" rel="noopener">http://landrushproject.com/</a>.</p>
+<p><a href="#sdfootnote62anc" name="sdfootnote62sym">62</a>It is important to clarify that whilst on the website of World of Matter (<a href="https://www.worldofmatter.net/" target="_blank" rel="noopener">https://www.worldofmatter.net/</a>) only two subthemes are presented: <em>LandRush–Frontier Land</em> and <em>LandRush–The Farm</em>, on the project’s official website (<a href="http://landrushproject.com/" target="_blank" rel="noopener">http://landrushproject.com</a>) three subthemes are shown: <em>The Farm, The Road </em>and<em> Family Affairs, </em>with three additional upcoming subthemes: <em>Dry West–California Drought, Full Circle </em>and<em> Dry West–American Nile</em>. The artists explain that “<em>LandRush </em>grows organically chapter by chapter in a constant cycle of research, production and presentation. Each chapter is a complete story for the moment, but can be revisited once situations change. So, by its very design <em>LandRush</em> is and stays in a constant Beta. This open process allows our work to surface in ever-new contexts, gradually building a bridge between magazine journalism, web documentaries, interactive apps and spatial installations, where the storytelling transfers from the context of journalism into the space of art”. In the website section <em>LandRush iPad-App </em>the user can see that three subthemes have been created (<em>The Farm, The Road </em>and<em> Family Affairs</em>)<em> </em>and three upcoming subthemes (<em>Dry West–California Drought, Full Circle </em>and<em> Dry West–American Nile</em>). See more at <a href="http://landrushproject.com/lrhome_02-2/" target="_blank" rel="noopener">http://landrushproject.com/lrhome_02-2/</a>. <span>Accessed March 18, 2019.</span> Given that the scope of this article is the practice of World of Matter, I will only focus on the two subthemes presented on the collective’s website.</p>
+<p><a href="#sdfootnote63anc" name="sdfootnote63sym">63</a>Demos, ‘Decolonizing Nature: Making the world Matter’ in Arns, <em>World of Matter</em>, 16.</p>
+<p><a href="#sdfootnote64anc" name="sdfootnote64sym">64</a>Frauke Huber and Uwe H. Martin, ‘Of Seed and Land’ in <em>World of Matter</em>, 133.</p>
+<p><a href="#sdfootnote65anc" name="sdfootnote65sym">65</a>‘LandRush – The Farm’, World Of Matter, <a href="https://www.worldofmatter.net/landrush-farm" target="_blank" rel="noopener">https://www.worldofmatter.net/landrush-farm</a>.</p>
+<p><a href="#sdfootnote66anc" name="sdfootnote66sym">66</a>‘LandRush’, <a href="http://landrushproject.com/landrush-app/" target="_blank" rel="noopener">http://landrushproject.com/landrush-app/</a>.</p>
+<p><a href="#sdfootnote67anc" name="sdfootnote67sym">67</a>Demos, ‘Decolonizing Nature: Making the world Matter’ in Arns, <em>World of Matter</em>, 16.</p>
+<p><a href="#sdfootnote68anc" name="sdfootnote68sym">68</a>The exploration of economic, ethnic, cultural and gender conflicts caused by energy, extraction, mining, agricultural, and transport industries.</p>
+<p><a href="#sdfootnote69anc" name="sdfootnote69sym">69</a>Demos, <em>Decolonizing Nature</em>, 20. For more on social ecology see Murray Bookchin, ‘What is Social Ecology?’ in Michael E. Zimmerman et al., eds., <em>Environmental Philosophy: From Animal Rights to Radical Ecology</em>, Subsequent edition (Upper Saddle River, N.J: Prentice Hall, 1997).</p>
+<p><a href="#sdfootnote70anc" name="sdfootnote70sym">70</a>Demos, ‘Decolonizing Nature: Making the World Matter’, 21.</p>
+<p><a href="#sdfootnote71anc" name="sdfootnote71sym">71</a>Biemann, Mörtenböck, and Mooshammer, ‘From Supply Lines to Resource Ecologies’, 83.</p>
+<p><a href="#sdfootnote72anc" name="sdfootnote72sym">72</a>Mabe Benthônico, ‘Mineral Invisibility’, Mabe Bethônico website &amp; portfolio, accessed July 15, 2019, <a href="https://www.mabebethonico.online/" target="_blank" rel="noopener">https://www.mabebethonico.online</a>.</p>
+<p><a href="#sdfootnote73anc" name="sdfootnote73sym">73</a>Mabe Benthônico, ‘Mineral Invisibility’.</p>
+<p><a href="#sdfootnote74anc" name="sdfootnote74sym">74</a>Mabe Benthônico, ed., <em>Provisões: Uma Conferência Visual [World of Matter]</em> (Belo Horizonte: Instituto Cidades Criativas, 2013), 76.</p>
+<p><a href="#sdfootnote75anc" name="sdfootnote75sym">75</a>Biemann, Mörtenböck, and Mooshammer, ‘From Supply Lines to Resource Ecologies’, 85.</p>
+<p><a href="#sdfootnote76anc" name="sdfootnote76sym">76</a>The project has not been realised. Bethônico was shortlisted for the Visible Project Award in 2013 for the <em>Museum of Public Concerns</em>, an extension of the research project <em>Mineral</em> <em>Invisibility</em>. For more see <a href="http://www.visibleproject.org/blog/award/award-2013/mabe-bethonico/" target="_blank" rel="noopener">http://www.visibleproject.org/blog/award/award-2013/mabe-bethonico/</a>. <span>Accessed November 6, 2017.</span></p>
+<p><a href="#sdfootnote77anc" name="sdfootnote77sym">77</a>Demos, <em>Decolonizing Nature</em>, 217.</p>
+<p><a href="#sdfootnote78anc" name="sdfootnote78sym">78</a>The project <em>Egyptian Chemistry </em>is divided in three subsections: <em>Agro-Science, Ecologies</em> and <em>Land Reforms.</em> Biemann, Mörtenböck, and Mooshammer, ‘From Supply Lines to Resource Ecologies’, 78.</p>
+<p><a href="#sdfootnote79anc" name="sdfootnote79sym">79</a>Ursula Biemann, ‘Egyptian Chemistry’ in Benthônico, <em>Provisões: Uma Conferência Visual [World of Matter]</em>, 31–35.</p>
+<p><a href="#sdfootnote80anc" name="sdfootnote80sym">80</a>The relation to ‘hybrids’ – the construction of systems that mix politics, science, technology, and nature – has been theorised in Latour, <em>We Have Never Been Modern</em>.</p>
+<p><a href="#sdfootnote81anc" name="sdfootnote81sym">81</a>Ursula Biemann, ‘Geochemistry &amp; Other Planetary Perspectives’ in Davis and Turpin, <em>Art in the Anthropocene</em>, 118.</p>
+<p><a href="#sdfootnote82anc" name="sdfootnote82sym">82</a>Arns, <em>World of Matter</em>, 7.</p>
+<p><a href="#sdfootnote83anc" name="sdfootnote83sym">83</a>Biemann, Mörtenböck, and Mooshammer, ‘From Supply Lines to Resource Ecologies’, 79.</p>
+<p><a href="#sdfootnote84anc" name="sdfootnote84sym">84</a>Demos, ‘Decolonizing Nature: Making the World Matter’, 21.</p>
+<p><a href="#sdfootnote85anc" name="sdfootnote85sym">85</a>The consequences of the neoliberal cycle are also mapped in Paulo Taveres’ <em>Non-Human Rights, </em>Martin’s <em>White Gold, </em>and Martin and Huber’s <em>LandRush.</em></p>
+<p><a href="#sdfootnote86anc" name="sdfootnote86sym">86</a>Biemann, Mörtenböck, and Mooshammer, ‘From Supply Lines to Resource Ecologies’, 83.</p>
+<p><a href="#sdfootnote87anc" name="sdfootnote87sym">87</a>Demos, ‘Decolonizing Nature: Making the World Matter’, 21</p>
+<p><a href="#sdfootnote88anc" name="sdfootnote88sym">88</a>Biemann, Mörtenböck, and Mooshammer, 79.</p>
+<p><a href="#sdfootnote89anc" name="sdfootnote89sym">89</a>Ursula Biemann, ‘On the Metachemistry of Oil and Water’ in Arns, <em>World of Matter</em>, 41.</p>
+<p><a href="#sdfootnote90anc" name="sdfootnote90sym">90</a>Biemann, ‘On the Metachemistry of Oil and Water’, 37.</p>
+<p><a href="#sdfootnote91anc" name="sdfootnote91sym">91</a>Demos, ‘Decolonizing Nature: Making the World Matter’, 21.</p>
+<p><a href="#sdfootnote92anc" name="sdfootnote92sym">92</a>Biemann, ‘On the Metachemistry of Oil and Water’, 43.</p>
+<p><a href="#sdfootnote93anc" name="sdfootnote93sym">93</a>Demos, <em>Decolonizing Nature: Contemporary Art and the Politics of Ecology</em>, 220.</p>
+<p><a href="#sdfootnote94anc" name="sdfootnote94sym">94</a>Bethônico et al., ‘Introduction to the World of Matter Project’, 11.</p>
+<p><a href="#sdfootnote95anc" name="sdfootnote95sym">95</a>This tendency resonates with philosophies of object-oriented ontology and new materialism. The members of World of Matter creatively engaged with the writing of theorists such as Michel Serres, Bruno Latour, Graham Harman, and Karen Barad, and connect to climate-justice activists such as Vandana Shiva and formations such as the Landless Workers’ Movements in Brazil. For more see Arns, <em>World of Matter</em>.</p>
+<p><a href="#sdfootnote96anc" name="sdfootnote96sym">96</a>Brian Holmes, ‘Something that Has to Do with Life Itself: World of Matter and the Radical Imaginary’, A Review of the show at CUNY Graduate Center, New York, 9/1-11/11, 2014, <span>accessed 19 March 2019, </span><a href="http://events.worldofmatter.net/publications/something-that-has-to-do-with-life-itselfworld-of-matter-and-the-radical-imaginary/" target="_blank" rel="noopener">http://events.worldofmatter.net/publications/something-that-has-to-do-with-life-itselfworld-of-matter-and-the-radical-imaginary/</a>.</p>
+<p><a href="#sdfootnote97anc" name="sdfootnote97sym">97</a>Holmes, ‘Something that Has to Do with Life Itself: World of Matter and the Radical Imaginary’.</p>
+<p><a href="#sdfootnote98anc" name="sdfootnote98sym">98</a>Demos, <em>Decolonizing Nature</em>, 228.</p>
+<p><a href="#sdfootnote99anc" name="sdfootnote99sym">99</a>Peter Mörtenböck and Helge Mooshammer, ‘A World of Matter’ in Arns, <em>World of Matter,</em>168. This idea also relates to what Jane Bennet identifies as <em>assemblages</em>, which suggests that assemblages are a group of diverse elements, of vibrant materials of all sorts. The elements of this assemblage, while they include humans and their (social, legal, linguistic) constructions, also include some very active and powerful nonhumans: electrons, trees, wind, fire, electromagnetic fields. For more see Jane Bennett, <em>Vibrant Matter: A Political Ecology of Things</em>, First Edition (Durham: Duke University Press Books, 2010).</p>
+<p><a href="#sdfootnote100anc" name="sdfootnote100sym">100</a>I draw here from Massimo De Angelis and Stravros Stavrides’ thinking about commons. For more see An Architektur, ‘On the Commons: A Public Interview with Massimo De Angelis and Stavros Stavrides’, <em>E-Flux Journal</em>, no. 17 (June 2010), <a href="http://www.e-flux.com/journal/17/67351/on-the-commons-a-public-interview-with-massimo-de-angelis-and-stavros-stavrides/" target="_blank" rel="noopener">http://www.e-flux.com/journal/17/67351/on-the-commons-a-public-interview-with-massimo-de-angelis-and-stavros-stavrides/</a>.</p>
+<p><a href="#sdfootnote101anc" name="sdfootnote101sym">101</a>Arturo Escobar, ‘After Nature: Steps to an Antiessentialist Political Ecology’, <em>Current Anthropology</em> 40, no. 1 (1999): 3.</p>
+<p><a href="#sdfootnote102anc" name="sdfootnote102sym">102</a>Irland et al., <em>Elemental</em>, 111.</p>
+<p><a href="#sdfootnote103anc" name="sdfootnote103sym">103</a>Bennett, <em>Vibrant Matter</em>, 115.</p>
+<p><a href="#sdfootnote104anc" name="sdfootnote104sym">104</a>Biemann, Mörtenböck, and Mooshammer, ‘From Supply Lines to Resource Ecologies’, 83.</p>
+<p><a href="#sdfootnote105anc" name="sdfootnote105sym">105</a>Escobar, ‘After Nature’, 3.</p>
+<p><a href="#sdfootnote106anc" name="sdfootnote106sym">106</a>manchesterclimatemonthly, ‘Professor Kevin Anderson on Science, Silence and “Neutrality” #Manchester #climate’, <em>Manchester Climate Monthly</em> (blog), 23 December 2013, <a href="https://manchesterclimatemonthly.net/2013/12/23/professor-kevin-anderson-on-science-silence-and-neutrality-manchester-climate/" target="_blank" rel="noopener">https://manchesterclimatemonthly.net/2013/12/23/professor-kevin-anderson-on-science-silence-and-neutrality-manchester-climate/</a>.</p>
+<p><a href="#sdfootnote107anc" name="sdfootnote107sym">107</a>Demos, <em>Decolonizing Nature</em>, 265.</p>
+<p><a href="#sdfootnote108anc" name="sdfootnote108sym">108</a>Chantal Mouffe, <em>On the Political</em>, 1 edition (London; New York: Routledge, 2005), 53.</p>
+<p><a href="#sdfootnote109anc" name="sdfootnote109sym">109</a>Demos, <em>Decolonizing Nature</em>, 270.</p>
+<p><a href="#sdfootnote110anc" name="sdfootnote110sym">110</a>See Mörtenböck and Mooshamer, ‘A World of Matter’ in Arns, <em>World of Matter</em>, 164–74.</p>
+<p><a href="#sdfootnote111anc" name="sdfootnote111sym">111</a>Eliza Scott, ‘Wandering Subjects: Ecological Knowledge Commons’ in Arns, 175.</p>
+<p><a href="#sdfootnote112anc" name="sdfootnote112sym">112</a>In conversation with Ursula Biemann, she stated that an average of 5,000 different users visit the website every month. She believes there are regular users visiting the site that come from an Art/Anthropocene background as art historian TJ Demos has written about World of Matter in his books. However, the collective has no information about the users other than the geographical area from where they access the website. The main countries retrieving information from the site are: USA, UK, Sweden, Germany, Brazil and Canada. Personal communication with Ursula Biemann, March 24<sup>th</sup>, 2019.</p>
+<p><a href="#sdfootnote113anc" name="sdfootnote113sym">113</a>Cornelius Castoriadis, “The State of the Subject Today,” in <em>World in Fragments: Writings on Politics, Society, Psychoanalysis, and the Imagination</em>, trans. D. A. Curtis, (Stanford University Press, 1997), p. 151.</p>
+<p><a href="#sdfootnote114anc" name="sdfootnote114sym">114</a>Holmes, ‘Something that Has to Do with Life Itself: World of Matter and the Radical Imaginary’.</p></div>
+
+				
+
+				
+	<div class="m-bibliography" style="margin-bottom: 2em;">
+		<a class="c-issue-toc__article-collapse-btn" role="button" data-toggle="collapse" href="#collapseSummary1802" aria-expanded="false" aria-controls="collapseSummary1802" data-lexicon-show="" data-lexicon-hide="">
+			Bibliography
+		</a>
+		<div class="c-issue-toc__article-collapse collapse" id="collapseSummary1802">
+			<div class="c-issue-toc__article-collapse-inner">
+				<div class="m-bibliography__content u-typo">
+	<p>Bennett, Jane. <em>Vibrant Matter: A Political Ecology of Things. </em>Durham, NC: Duke University Press, 2010. </p>
+<p>Benthônico, Mabe, ed. <em>Provisões: Uma Conferência Visual [World of Matter]. </em>Belo Horizonte: Instituto Cidades Criativas, 2013.</p>
+<p>Biemann, Ursula, Peter Mörtenböck, Helge Mooshammer. "From Supply Lines to Resource Ecologies," <em>Third Text</em> 27, no. 1 (1 January 2013): 76-94.</p>
+<p>Biemann, Ursula, Frauke Huber, Uwe H. Martin, Peter Mörtenböck, Helge Mooshammer, Paulo Tavares. "World of Matter," <em>Architectural Theory Review</em> 20, no. 1 (2015): 122-134.</p>
+<p>Biermann, Frank. <em>Earth System Governance: World Politics in the Anthropocene. </em>Cambridge, MA: MIT Press, 2014.</p>
+<p>Bonneuil, Christopher, Clive Hamilton, François Gemenne, eds. <em>The Anthropocene and the Global Environmental Crisis: Rethinking Modernity in a New Epoch. </em>Abingdon: Routledge, 2015.</p>
+<p>Bridge, Gavin. "The Resource Archipelago: Spatial Aesthetics and Resource Ecologies." In <em>World of</em> <em>Matter</em>. Edited by Inke Arms. Berlin: Sternberg Press, 2015.</p>
+<p>Chakrabarty, Dipesh. "The Climate of History: Four Theses," <em>Critical Inquiry</em> 35, no. 2 (1 January 2009): 197-222.</p>
+<p>Clark, Nigel, Doreen B. Massey, Philip Sarre, eds. <em>Material Geographies: A World in the Making. </em>London: SAGE Publications, 2008.</p>
+<p>Crutzen, Paul. "Geology of Mankind – The Anthropocene," <em>Nature</em> 415 (January 2002): 23.</p>
+<p>Crutzen, Paul, Eugene Stoermer. "The Anthropocene," <em>Global Change Newsletter</em> 41 (2000): 17–18.</p>
+<p>Davis, Heather, Zoe Todd. "On the Importance of a Date, or Decolonizing the Anthropocene," <em>ACME. An International Journal for Critical Geographies</em> 16, no. 4 (January 2017): 761–80.</p>
+<p>Davis, Heather M., Etienne Turpin. "Art &amp; Death: Lives Between the Fifth Assessment &amp; the Sixth Extinction" In <em>Art in the Anthropocene: Encounters among Aesthetics, Politics, Environments and Epistemologies. </em>Heather M. Davis,  Etienne Turpin. London: Open Humanities Press, 2015: 3-31.</p>
+<p>Demos, T.J. <em>Against the Anthropocene. Visual Culture and Environment Today. </em>Berlin: Sternberg Press, 2017.</p>
+<p>Demos, T.J. <em>Decolonizing Nature. Contemporary Art and the Politics of Ecology. </em>Berlin: Sternberg Press, 2016.</p>
+<p>Gibson, Katherine, Deborah Bird Rose, Ruth Fincher, eds. <em>Manifesto for Living in the Anthropocene. </em>Brooklyn: Punctum Books, 2015.</p>
+<p>Hamilton, Clive. <em>Earthmasters: The Dawn of the Age of Climate Engineering. </em>New Haven: Yale University Press, 2014.</p>
+<p>Haraway, Donna. <em>Staying with the Trouble: Making Kin in the Chthulucene. </em>Durham, NC: Duke University Press, 2016.</p>
+<p>Klein, Naomi. <em>This Changes Everything: Capitalism vs. the Climate. </em>London: Penguin, 2015.</p>
+<p>Latour, Bruno. <em>We Have Never Been Modern. </em>Cambridge, Ma.: Harvard University Press, 1993.</p>
+<p>Lewis, Simon L., Mark A. Maslin. "Defining the Anthropocene," <em>Nature</em> 519, no. 7542 (11 March 2015): 172–73.</p>
+<p>Lynes, Krista. “World of Matter". In <em>Elemental: An Arts and Ecology</em> <em>Reader</em>. Edited by James Brady. Gaia Project Press, 2016.</p>
+<p>Malm, Andreas. "The Origins of Fossil Capital: From Water to Steam in the British Cotton Industry," <em>Historical Materialism</em> 21 no. 1 (2013): 15-68.</p>
+<p>Mignolo, Walter D.  <em>The Darker Side of Western Modernity: Global Futures, Decolonial Options. </em>Durham, NC: Duke University Press, 2011.</p>
+<p>Mignolo, Walter D., Catherine E. Walsh. <em>On Decoloniality: Concepts, Analytics, Praxis. </em>Durham, NC: Duke University Press, 2018.</p>
+<p>Mirzoeff, Nicholas. "It’s Not the Anthropocene, It’s the White Supremacy Scene, Or, The Geological Color Line". In <em>After Extinction.</em> Edited by Richard Grusin. Minneapolis: University of Minnesota Press, 2016. </p>
+<p>Moore, Jason. <em>Capitalism in the Web of Life: Ecology and the Accumulation of Capital</em>. New York: Verso, 2015. </p>
+<p>Moore, Jason. "The Capitalocene Part I: On the Nature &amp; Origins of Our Ecological Crisis," <em>The Journal of Peasant Studies</em>. 44, no.3 (17 March 2017): 594-630.</p>
+<p>Mouffe, Chantal. <em>On the Political. </em>London; New York: Routledge, 2005. </p>
+<p>Morton, Timothy. <em>Hyperobjects: Philosophy and Ecology after the End of the World</em>. Minneapolis, MN: University of Minnesota Press, 2013.</p>
+<p>Nixon, Rob. <em>Slow Violence and the Environmentalism of the Poor. </em>Cambridge, Mass: Harvard University Press, 2011.</p>
+<p>Schwägerl, Christian. <em>The Anthropocene: The Human Era and How it Shapes Our Planet. </em>Translated by Lucy Renner Jones. Santa Fe: Synergetic Press, 2014.</p>
+<p>Smil, Vaclav. <em>Harvesting the Biosphere: What We Have Taken from Nature. </em>Cambridge, MA: MIT Press, 2013.</p>
+<p>Steffen, Will, Wendy Broadgate, Lisa Deutsch, Owen Gaffney, Cornelia Ludwig. "The Trajectory of the Anthropocene: The Great Acceleration," <em>The Anthropocene Review</em>, January 16 (2015): 1-18.</p>
+<p>Tsing, Anna Lowenhaupt. <em>The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins. </em>Princeton and Oxford: Princeton University Press, 2015.</p>
+<p>Vazquez, Rolando. "Precedence, Earth and the Anthropocene: Decolonizing Design," <em>Design Philosophy Papers</em> 15, no. 1 (2 January 2017): 77-91.</p>
+<p>Vince, Gaia. <em>Adventures in the Anthropocene: A journey to the Heart of the Planet We Made. </em>London: Chatto &amp; Windus, 2014.</p>
+<p>Wark, McKenzie. <em>Molecular Red: Theory for the Anthropocene.</em> London: Verso, 2015.</p>
+<p>Zalasiewicz, Jan, et al. "Are We Now Living in the Anthropocene?," <em>GSA (Geophysical Society of America) Today</em> 18, no. 2 (2008): 4–8.</p>
+<p>Zalasiewicz, Jan et al. "The New World of the Anthropocene," <em>Environmental Science and Technology Viewpoint</em> 44, no. 7 (2010): 2228–2231.</p>
+<p> </p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/world-of-matter" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

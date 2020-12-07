@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Oczy | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2015/oczy">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Oczy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Oczy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2015/oczy">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Oczy | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #606 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #606 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #606 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #606 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #606 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #606 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #606 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #606 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(102,0,102,0.8) !important; */
+			/* background-color:#606 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(102,0,102,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#606 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(102,0,102,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#606; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(102,0,102,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(102,0,102,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#606 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#606 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#606 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1043 parent-id-1013">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="432" data-selected-issue-color="#606" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/9-warsaw-moscow.-monuments-of-transition#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/9-warsaw-moscow.-monuments-of-transition/eyes">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2015/warszawa-moskwa.-pomniki-transformacji#toc">9</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2015/oczy?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Oczy</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2015/oczy?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=1042">Klaus Theweleit</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Przełożyli: 
+		
+		Michał Herer i Mateusz Falkowski 
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Oczy Goebbelsa „utonęły w&nbsp;dwóch ogromnych, niebieskich gwiazdach”, oczach wodza. To z&nbsp;pewnością zjawisko charakterystyczne dla sytuacji przemówienia, choć zachodzące nie tylko wówczas.</p> <p>W oczach, w&nbsp;krzyżujących się spojrzeniach, kontakt między mężczyzną a&nbsp;masą osiąga swą maksymalną intensywność, a&nbsp;być może wręcz nabiera nowych cech. Gdyby w&nbsp;czasie obecności wodza nie można było spojrzeć mu w&nbsp;oczy, a&nbsp;ściślej rzecz biorąc: gdyby on sam nie spojrzał w&nbsp;oczy nam, wówczas całe spotkanie poszłoby na&nbsp;marne; tak było już za&nbsp;czasów cesarza: „Każdy odchodził w&nbsp;przekonaniu, że&nbsp;to właśnie na&nbsp;niego spojrzał cesarz”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>.</p> <p>Nie było też w&nbsp;Niemczech członka SA, któremu wódz nie spojrzałby choć raz w&nbsp;oczy; we wczesnym okresie ruchu spojrzenie to (zwłaszcza w&nbsp;rejonie Monachium) przypieczętowywało wstąpienie do SA.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/oczy/281-3696-1-pb-1920x-f02.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/oczy/281-3696-1-pb-330x-a94.jpg 330w,assets/cache/images/issues/2015/9/oczy/281-3696-1-pb-660x-e72.jpg 660w,assets/cache/images/issues/2015/9/oczy/281-3696-1-pb-768x-abe.jpg 768w,assets/cache/images/issues/2015/9/oczy/281-3696-1-pb-1320x-031.jpg 1320w" src="assets/cache/images/issues/2015/9/oczy/281-3696-1-pb-660x-e72.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>W ogóle nie było w&nbsp;Niemczech człowieka, któremu wódz gdzieś kiedyś nie spojrzał w&nbsp;oczy – nawet jeśli w&nbsp;rzeczywistości nigdy go nie widział. W&nbsp;każdym razie taki wniosek można by wysnuć ze zbiorku Waltera Kempowskiego <em>Haben Sie Hitler gesehen?</em> [<em>Czy widział/a Pan/i Hitlera?</em>], gdzie zgromadzone zostały odpowiedzi Niemców wielbiących wodza. Nawet ci, którzy nigdy się z&nbsp;nim nie zetknęli, opowiadali o&nbsp;jego promieniejących blaskiem oczach, o&nbsp;tym, że&nbsp;czuli ich światło i&nbsp;że z&nbsp;pewnością było ono niebieskie (choć w&nbsp;rzeczywistości miał oczy zupełnie brązowe)<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>.</p> <p>Nikomu nie chcę zarzucać kłamstwa. Jeśli ludzie pragną, aby coś było niebieskie i&nbsp;żeby było to oko patrzące na&nbsp;nich, to patrzyło na&nbsp;nich błękitne oko – to oko dla ślepców.</p> <p>Przyjrzyjmy się kilku takim oczom:</p> <blockquote>Dowódca razem ze sztabem wolno objechał front. Przenikliwie patrzył każdemu w&nbsp;oczy. Serce biło nam z&nbsp;radości – cóż za&nbsp;podniosły widok, cała brygada uformowana jak do defilady<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>.</blockquote> <p>(„Dowódca” to Wilfried Loewenfeld; okazją jest rozwiązanie jego brygady marynarki – spojrzenie stanowi tu zatem obietnicę przyszłości. Był 31 maja 1920 roku – Sennelager.)</p> <p>8 listopada 1923 roku – Monachium:</p> <blockquote>W sali i&nbsp;przed salą ludzie wiwatowali wniebogłosy. Kahr chwycił rękoma dłoń Hitlera, potrząsał nią długo i&nbsp;energicznie, poruszony patrząc mu w&nbsp;oczy<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>.</blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/oczy/281-3699-1-pb-1920x-281.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/oczy/281-3699-1-pb-330x-1c6.jpg 330w,assets/cache/images/issues/2015/9/oczy/281-3699-1-pb-660x-93e.jpg 660w,assets/cache/images/issues/2015/9/oczy/281-3699-1-pb-768x-3d6.jpg 768w,assets/cache/images/issues/2015/9/oczy/281-3699-1-pb-1320x-3c2.jpg 1320w" src="assets/cache/images/issues/2015/9/oczy/281-3699-1-pb-660x-93e.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>(Opis delikatnie sugeruje, że&nbsp;coś tu nie gra – w&nbsp;końcu następnego dnia Kahr zawiedzie Hitlera. Wódz jest tutaj zbyt bierny, to jemu ktoś patrzy w&nbsp;oczy, tymczasem powinno być na&nbsp;odwrót, jego dłoń potrząsają dwie dłonie kogoś innego.) 19 marca 1920 roku – Marburg. Wymarsz Studentenkorpsu do Turyngii w&nbsp;celu spokojnego i&nbsp;sprawnego uciszenia tamtejszych robotników:</p> <blockquote>Apel zorganizowano w&nbsp;wielkim stylu. Wokół zgromadzili się marburscy mieszczanie i&nbsp;raz jeszcze przyglądali się płonącym oczom niemieckich chłopców. [...] niektórych przenikało to do szpiku kości, ale prawdziwy Niemiec (jak sierżant Schaumlöffel) czuł to w&nbsp;sercu<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. <p></p> <p>To było w&nbsp;oczach, niesamowitych oczach Franza Eppa – które widziały cierpienie, śmierć i&nbsp;okropieństwa; ale było w&nbsp;nich i&nbsp;coś jeszcze: męskie zwycięstwo nad cierpieniem, śmiercią i&nbsp;okropieństwem<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> (Walter Frank, biograf).</p> <p>Ich oczy skupiły się na&nbsp;Roßbachu jak opiłki wokół magnesu. Porucznik podszedł do nich gwałtownie i&nbsp;przeszył swym wzrokiem niczym prądem, tak że&nbsp;niemal fizycznie poczuliśmy duchowe napięcie, które z&nbsp;wodza i&nbsp;jego zwolenników stworzyło nowy i&nbsp;osobliwy twór<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> (Bronnen, czciciel).</p> <p>Głęboko osadzone i&nbsp;niesamowite oczy Roßbacha prześlizgnęły się po&nbsp;nas wszystkich i&nbsp;po naszym milczeniu<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>.</p> </blockquote> <p>„Zwycięstwo” ma swoje źródło w&nbsp;doświadczonym męskim oku; kiedy prąd tego spojrzenia „przeszywa” zwolenników, kiedy wzrok ogarnia nas wszystkich, tak jak u&nbsp;Wittmanna wzrok Bertholda „krążył”, wówczas powstaje „nowy i&nbsp;osobliwy twór”. Wzrok wodza:</p> <blockquote>Spojrzeniem opanowuje tłum, ujarzmia go swym urokiem, jednocześnie twardą ręką trzymając w&nbsp;ryzach namiętności mas<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>. – Taniec w&nbsp;objęciach.</blockquote> <p>Wzrok żołnierza:</p> <blockquote>Jego szare oczy były niczym dwa wyloty lufy, a&nbsp;kości policzkowe rysowały ostrą żołnierską linią jego szczupłą twarz<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup> (Schauwecker o&nbsp;swoim przyjacielu, piechurze o&nbsp;nazwisku Herse).</blockquote> <p>Jüngerowscy żołnierze z&nbsp;okopów mają „pod hełmem oczy skamieniałe od tysięcy okropieństw”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Ale gdy w&nbsp;schronie „buchał płomień koleżeństwa”, „serca drżały ze wzruszenia, z&nbsp;ukrytych żył tryskały fontanny, obojętność nierucho- mych oczu topniała w&nbsp;blasku”<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Przede wszystkim jednak:</p> <blockquote>Przeto błyszczące oko żołnierza jest kryształem boskości...<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup></blockquote> <p>(Zdolność do przemiany to najbardziej znamienna cecha żołnierzy z&nbsp;okopów: nieruchomość, topniejący blask, kryształ boskości.)</p> <blockquote>Ogorzali, zużyci, wysuszeni, cali w&nbsp;zeskorupiałej glinie, martwi do tego stopnia, że&nbsp;w&nbsp;głębi ich oczu nie paliło się najmniejsze nawet światło, zdawali się na&nbsp;zawsze wrośnięci w&nbsp;okop<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>.</blockquote> <p>Bywały jednak chwile, gdy zaczynali do siebie mówić, gdy się rozumieli – a&nbsp;wówczas:</p> <blockquote>Uścisnął mi mocno rękę i&nbsp;spojrzał na&nbsp;mnie z&nbsp;takim ogniem, że&nbsp;cała jego twarz była niczym jedno oko<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. <p></p> <p>Poważne i&nbsp;jasne oczy mężczyzn czytały w&nbsp;sobie nawzajem – czytały po&nbsp;niemiecku<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup> (w trakcie spotkania z&nbsp;udziałem admirała von Reutera, „bohatera spod Scapa Flow”).</p> </blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/oczy/281-3701-1-pb-1920x-ef6.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/oczy/281-3701-1-pb-330x-117.jpg 330w,assets/cache/images/issues/2015/9/oczy/281-3701-1-pb-660x-a42.jpg 660w,assets/cache/images/issues/2015/9/oczy/281-3701-1-pb-768x-bb5.jpg 768w,assets/cache/images/issues/2015/9/oczy/281-3701-1-pb-1320x-1bd.jpg 1320w" src="assets/cache/images/issues/2015/9/oczy/281-3701-1-pb-660x-a42.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Pojednanie po&nbsp;kłótni między towarzyszami:</p> <blockquote>Donat, zaintrygowany, podniósł wzrok i&nbsp;natrafił wprost na&nbsp;jego spojrzenie. Wstrzymując oddech, długo patrzyli na&nbsp;siebie w&nbsp;milczeniu; wreszcie Donat odrzucił broń i&nbsp;wyciągnął do niego prawą rękę: „Daj spokój, stary – burknął – już dobrze!” (itd.)<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>.</blockquote> <p>W więzieniu nawiedzają Salomona oczy zmarłego przyjaciela, Kerna:</p> <blockquote>Nie mogę też pominąć opowieści o&nbsp;tych długich nocnych godzinach, kiedy oprócz tych niepokonanych oczu, które przyglądały mi się za&nbsp;dnia, z&nbsp;ciemności wychodziły też inne oczy. W&nbsp;momencie, gdy się pojawiały, porzucałem sny i&nbsp;bez lęku wypatry- wałem szczupłego, tajemniczego oblicza. Marzyłem o&nbsp;tych oczach – ze względu na&nbsp;siłę, z&nbsp;jaką odpychałem je od siebie. Czułem, że&nbsp;chodzi tu o&nbsp;walkę, którą miałem toczyć przez całe swoje życie i&nbsp;która tylko o&nbsp;tyle zachowa swą twórczą moc, o&nbsp;ile pozostanie nierozstrzygnięta<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>.</blockquote> <p>Twórcza i&nbsp;mająca trwać całe życie „walka” z&nbsp;dwoma męskimi oczami. Ostatecznie skończyła się po&nbsp;pięciu latach, kiedy oczy Kerna przestały każdej nocy nawiedzać Salomona. I&nbsp;znów przemówienie – Michael widzi wodza po&nbsp;raz drugi:</p> <blockquote>Wieczorem siedzę w&nbsp;wielkiej sali wśród tysięcy ludzi – i&nbsp;znów go widzę, w&nbsp;jednej sekundzie przytomnieję. Teraz stoi już na&nbsp;dole, pośród swoich wiernych. Prawie go nie rozpoznaję. Jego postać jest wyższa, bardziej zwarta. Intensywny strumień siły płynie z&nbsp;jego ust, z&nbsp;jego rąk, morze światła emanuje z&nbsp;dwóch błękitnych oczu. [...] Czuję, jak morze siły pędzi przez moją duszę. [...] Wokół mnie siedzą ludzie, których nigdy nie widziałem, i&nbsp;wstydzę się jak dziecko, roniąc ukradkiem łzy<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>.</blockquote> <p>Dzieci jednak raczej nie wstydzą się, gdy muszą płakać – już prędzej dorosły, kiedy przezwycięża własny opór przed uczynieniem czegoś jawnie upragnionego, choć zabronionego. I&nbsp;jeszcze jeden mówca – „Tim Kröger, rozpłomieniony, nowoczesny prorok”:</p> <blockquote>Człowiek na&nbsp;kamieniu emanował rzadką siłą; jego oczy skrzyły się, gdy patrzył w&nbsp;dół na&nbsp;słuchaczy; a&nbsp;gdy odwracał wzrok ku słońcu, oczy tryskały płynnym ogniem<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>.</blockquote> <p>Tu, w&nbsp;obecności mówcy, coś wreszcie może płynąć; to go właśnie wyróżnia. Strumień siły „płynie”, jego oczy to „morze” – nie chodzi jednak o&nbsp;wodę, lecz światło: także w&nbsp;oczach „rozpłomienionego” kryje się „płynny ogień”. Oczy błyszczą, promienieją, świecą, wchodzą, jak się wydaje, w&nbsp;kontakt ze słońcem. To nie płynięcie daje zaspokojenie – raczej promieniowanie. Także Michael poczuł żar „płomienia ognia” z&nbsp;„oczu płonących jak dwie gwiazdy”, także on widział światło. Kiedy krzyżują się ze sobą spojrzenia, nie dochodzi wcale do zlania się strumieni – kontakt odbywa się na&nbsp;dystans, zetknięcie bez zetknięcia: oko to jedyny organ, który na&nbsp;to pozwala (jak wówczas, gdy czujemy czyjeś spojrzenie na&nbsp;plecach). Spotykają się dwa światła, krzyżują dwa promienie, rozbłyskują w&nbsp;„krysztale boskości”, ale nic przez to nie spływa – raczej coś się ustawia: oto mężczyzna staje wyprostowany, wielki. „Czuję, jak morze siły pędzi przez moją duszę”.</p> <p>Dochodzi jedynie do pewnego substytutu zetknięcia; spotykają się ze sobą dwie pulsujące, twarde, ciepłe męskie dłonie i&nbsp;trzymają w&nbsp;silnym uścisku – podczas gdy wyżej przestrzeń między oczami przeszywa błyskawica, ogniście rozpalają się światła, płoną spojrzenia. Płonące oko to znak władcy, potomka słońca, nienaruszalny „szczyt”, który może się poszerzać...</p> <p>„[...] spojrzał na&nbsp;mnie z&nbsp;takim ogniem, że&nbsp;cała jego twarz była niczym jedno oko”.</p> <blockquote>Znacie przecież współzrodzonych</blockquote> <blockquote>Z żaru oczu prawdziwego [...]<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>.</blockquote> <blockquote>(Stefan George)</blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/oczy/281-3702-1-pb-1920x-13a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/oczy/281-3702-1-pb-330x-a41.jpg 330w,assets/cache/images/issues/2015/9/oczy/281-3702-1-pb-660x-690.jpg 660w,assets/cache/images/issues/2015/9/oczy/281-3702-1-pb-768x-72c.jpg 768w,assets/cache/images/issues/2015/9/oczy/281-3702-1-pb-1320x-0e3.jpg 1320w" src="assets/cache/images/issues/2015/9/oczy/281-3702-1-pb-660x-690.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Znacie też anty-zrodzonych:</p> <blockquote>Zawsze oceniałem ludzi przede wszystkim po&nbsp;tym, jak podają rękę. I&nbsp;zwykle moje pierwsze wrażenie potwierdzało się potem jeszcze bardziej. Za&nbsp;każdym razem, kiedy podawał mi rękę Erzberger, czułem, jakbym dotykał gnijącego szczura. Jego bezczelne krecie samozadowolenie irytowało mnie z&nbsp;każdym spotkaniem coraz bardziej. Pod&nbsp;binoklami ukrywał bezduszne oczy<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>.</blockquote> <p><a name="tu"></a>Bezduszne = pozbawione ognia<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>.</p> <p>„Życząc wszystkiego dobrego, ze łzami w&nbsp;oczach pożegnał swego gościa”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup> – to o&nbsp;burmistrzu z&nbsp;Prus Wschodnich po&nbsp;spotkaniu z&nbsp;Roßbachem przed jego nielegalnym przekroczeniem granicy z&nbsp;krajami bałtyckimi.</p> <p>W całym tym morzu ognia kropla – czego?</p> <p>Oko doskonale się nadaje do sytuacji, o&nbsp;której tu mowa. Może bowiem oddziaływać w&nbsp;sposób zarówno „męski”, jak i&nbsp;„kobiecy”. Promieniujące, twarde, aktywne oko przybiera formę falliczną, jego błysk przywodzi na&nbsp;myśl lśniącą gładkość żołędzi penisa w&nbsp;stanie erekcji (Abraham odkrył to skojarzenie u&nbsp;swoich pacjentów – oko, choć rodzaju nijakiego, <em>das Auge</em>, jest zawsze męskie<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>). Oczy mogą też jednak coś przyjmować, roztapiać, percypować, u&nbsp;samego mężczyzny mogą stać się czymś na&nbsp;podobieństwo pochwy – „dobrej”, niekastrującej pochwy. Z&nbsp;jednej strony więc: „ogromny miecz wychynął z&nbsp;jego oczu”<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>; z&nbsp;drugiej: „obojętność nieruchomych oczu topniała w&nbsp;blasku”. Rozstrzygające znaczenie ma przy tym zdolność do przemiany i&nbsp;równoczesność obu funkcji: oko może raz aktywnie promieniować (być „męskie”), innym razem biernie przyjmować promienie (być „kobiece”), a&nbsp;w połączeniu z&nbsp;innym okiem może być i&nbsp;takie, i&nbsp;takie jednocześnie: wnikać w&nbsp;to drugie i&nbsp;zarazem przyjmować jego spojrzenie<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>. I&nbsp;dlatego każdy wódz musi mieć oczy błękitne, to znaczy najbliższe światłu na&nbsp;niebie, w&nbsp;górze, o&nbsp;najsilniejszej mocy i&nbsp;zdolności do przemiany: stal jest wprawdzie ciemnoniebieska, ale to na&nbsp;jasnoniebieskim morzu migocze odbicie nieba... Jeśli tłum, dopiero z&nbsp;wodzem tworzący jedną całość, patrzy mu w&nbsp;oczy, wówczas tysiące oczu masy, wyczekujących, sparaliżowanych, zapatrzonych, łączy się w&nbsp;jedno spojrzenie, jedno oko, to oko, w&nbsp;które zatapia się spojrzenie wodza, upewniając się tym samym, że&nbsp;z&nbsp;masy nie wysunie się nagle pal, który pozbawił Polifema jedynego oka<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>.</p> <p>Spojrzenie oczu (w zależności o&nbsp;tego, czy jest bardziej falliczne/promieniejące, czy receptywne/topniejące) pozwala podzielić mężczyzn na&nbsp;dwie kategorie. Na&nbsp;zdjęciach umieszczonych w&nbsp;książce Baldura von Schiracha <em>Die Pioniere des Dritten Reiches</em> [<em>Pionierzy Trzeciej Rzeszy</em>] doskonale widać, że&nbsp;pionierzy ruchu świadomie zostali rozlokowani zgodnie z&nbsp;tym podziałem (bardziej falliczny / bardziej receptywny).</p> <p>Na wszystkich fotografiach wyraźnie i&nbsp;nadmiernie podkreślone są oczy, często zresztą jawnie retuszowane. Prominentnych nazistów Schirach dzieli podług schematu, który Hans Blüher uznał za&nbsp;konstytutywny dla męskich relacji w&nbsp;związkach młodzieżowych, zwłaszcza w&nbsp;ruchu <em>Wandervogel</em>: z&nbsp;jednej strony emanujący męscy bohaterowie, z&nbsp;drugiej – kochankowie lub kochanki męskich bohaterów, tworzący krąg czcicieli w&nbsp;ramach „męskiej społeczności pierwszego stopnia”<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>. Tam bohaterowie każą oczom lśnić i&nbsp;błyszczeć – jest to bowiem wyraz ich aktywności, oczy nie robią tego same z&nbsp;siebie. Franke, oficer Freikorpsu, stwierdza bardzo jasno: „Promienne oczy to przywilej niemieckiego żołnierza”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>.</p> <p>To jego wyłączne prawo. Nie każdy może mieć takie oczy – nie mówiąc już o&nbsp;rozpromienianiu oczu innych. To przywilej Niemców.</p> <p>Blüher zapewne chętnie uczyniłby „oko” oficjalnym symbolem męskiego społeczeństwa.</p> <blockquote>[...] oko uduchowionego mężczyzny, głębokie, bez dna. Czegoś takiego nie ma nikt inny. Kobiety nigdy nie mają takich oczu. Ale nie kryje się w&nbsp;tym nic więcej ponad to, co było oczywiste u&nbsp;Greków: wiedza, że&nbsp;mężczyzna może być przedmiotem erosa innego mężczyzny<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>.</blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/oczy/281-3704-1-pb-1920x-9cc.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/oczy/281-3704-1-pb-333x-e8d.jpg 333w,assets/cache/images/issues/2015/9/oczy/281-3704-1-pb-666x-1fa.jpg 666w,assets/cache/images/issues/2015/9/oczy/281-3704-1-pb-1332x-899.jpg 1332w" src="assets/cache/images/issues/2015/9/oczy/281-3704-1-pb-666x-1fa.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>A zwłaszcza mężczyzn o&nbsp;„dziarskiej wysokiej figurze”, „kipiącej witalności”, oczach, które lśnią i&nbsp;„błyszczą”. Wolny mężczyzna-bohater znajdujący się na&nbsp;szczycie państwa.</p> <p>Trudno o&nbsp;lepszy dowód na&nbsp;to, że&nbsp;wizja państwa w&nbsp;sposób bezpośredni wynika tu z&nbsp;wyobrażeń seksualnych. Wychodząc od swego postulatu państwa, w&nbsp;którym rządzi „męsko-męski eros” (tylko mężczyźni są twórczy, tylko mężczyźni mogą budować państwo itd.), Blüher konsekwentnie rozwija całą faszystowską ideologię łącznie z&nbsp;„teorią” ras.</p> <p>Zwycięskie ugrupowania nazistowskie niszczyły i&nbsp;utrudniały tego rodzaju związki, o&nbsp;ile tylko stawały się one jawne. Walka przeciwko wszelkiego rodzaju zarazom obejmowała również stosunki erotyczne między mężczyznami – poza tym, rzecz jasna, zdawano sobie sprawę, jak szybko przyzwolenie na&nbsp;homoseksualizm zniszczyłoby dotychczasową strukturę armii (podobnie zresztą jak nazbyt jawny heteroseksualizm).</p> <p>Prawdopodobnie nie było bardzo wielu mężczyzn będących ucieleśnieniem Blüherowskiego modelu męskiego bohatera – tak czy owak nie zyskał on popularności wśród nazistów. Czy cokolwiek by to zmieniło? W&nbsp;przedmowie do powojennego wydania swego dzieła <em>Rolle der Erotik in der männlichen Gesellschaft Blüher</em> (odwołując się w&nbsp;miarę poprawnie do Freudowskiej teorii projekcji) zarzucił Hitlerowi, że&nbsp;ten zdradził piękną i&nbsp;wspólną sprawę, jaką była miłość między mężczyznami – wykluczył ją i&nbsp;stał się jej prześladowcą, a&nbsp;tym samym przestał być mężczyzną-bohaterem, a&nbsp;tylko ktoś taki może przewodzić państwu. W&nbsp;samej koncepcji męsko-erotycznego państwa wodzowskiego Blüher nie zmienił niczego. Nadal bowiem obowiązuje podstawowa zasada: podział na&nbsp;dwie grupy z&nbsp;konieczności zakłada jako jedyne możliwe państwo wodzowskie. – Przy czym wódz w&nbsp;typie „mężczyzny-bohatera” niekoniecznie uzna, że&nbsp;w&nbsp;momencie nadchodzącej klęski należy w&nbsp;imię stabilizacji przeprowadzić np.&nbsp;eksterminację Żydów. W&nbsp;1930 roku w&nbsp;czasopiśmie „Die Kommenden” Jünger wypowiada się mniej więcej w&nbsp;tym duchu:</p> <blockquote>Uznaję niszczycielskie cechy tej rasy – ale cóż by to byli za&nbsp;niszczyciele, którzy czuliby strach już przed Żydami? „Jesteś z&nbsp;diabłem na&nbsp;ty i&nbsp;chcesz uniknąć ognia?”. Żyd jest równie niebezpieczny dla wartości mieszczańskich jak nieszkodliwy dla wartości wyznawanych przez bohaterską młodzież.</blockquote> <p>Względna pewność siebie niszczyciela Jüngera wobec niszczycielskich mocy „tej rasy” świadczy o&nbsp;bardzo różnym stopniu kruchości i&nbsp;wytrzymałości cielesnego pancerza, który „scala” mężczyznę. Istnieje najpewniej bezpośrednia zależność pomiędzy stopniem jego kruchości a&nbsp;formą seksualności, która wykształci się w&nbsp;końcu u&nbsp;jego nosiciela. Swoją zwykle już ostateczną formę pancerz uzyskuje w&nbsp;wojsku – w&nbsp;następnym rozdziale przyjrzymy się, jak dryl transformuje seksualność. Pozwoli to w&nbsp;sposób bardziej definitywny określić rodzaj seksualności charakterystyczny(ch) dla mężczyzn-żołnierzy oraz jego związek z&nbsp;typowymi dla nich formami białego terroru<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>.</p> <p>Jeszcze słowo na&nbsp;temat oczu kobiet. Jünger przypomina sobie dni w&nbsp;czasach pokoju:</p> <blockquote>przeniknięte tęsknotą za&nbsp;światłem, ciepłem i&nbsp;miłością. Chłopięce sny – popołudnie na&nbsp;wrzosowisku, matczyny śmiech i&nbsp;zamknięte oczy ukochanych kobiet – płonęły na&nbsp;murach wyobraźni<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>.</blockquote> <p>Oczy kobiet muszą pozostać zamknięte, jeśli mają się kojarzyć ze „światłem, ciepłem i&nbsp;miłością”. Otwarte byłyby ciemne. Otwarte oko kobiety przywołuje zapewne natychmiast obraz pochłaniającej otchłani, między jej rzęsami szczerzą się zęby: <em>vagina dentata</em>.</p> <p>Znamy to dobrze z&nbsp;kina: jeśli kobieta przy pocałunku ma otwarte oczy, to nieomylny znak, że&nbsp;niebawem zdradzi – spoczywając w&nbsp;ramionach mężczyzny, daje zarazem dostęp do siebie czemuś innemu albo z&nbsp;czymś innym się wiąże. Oczy są wejściem i&nbsp;wyjściem. Nazywano je „oknem duszy”. Dopóki są zamknięte, dopóty wszelkie potworności pozostają zneutralizowane. Spojrzenie w&nbsp;oczy kobiety mogłoby odkryć to, co Zygfryd znalazł w&nbsp;oczach Brunhildy (u Hebbla):</p> <blockquote>I ktokolwiek spojrzy ci w&nbsp;oczy,</blockquote> <blockquote>Ten nawet w&nbsp;największym upojeniu nie zapomni,</blockquote> <blockquote>Że wspomaga cię ciemna śmierć.</blockquote> <p>Brunhilda ma oko, <em>das Auge</em> (rodzaju nijakiego, już nie męskiego).</p> <p>Mężczyźni patrzący sobie w&nbsp;oczy patrzą sobie zarazem w&nbsp;głąb duszy (a przy tym ją samą, o&nbsp;ile to tylko możliwe, starają się wyrazić w&nbsp;oczach). Jak gdyby bezwzględnie wierzyli w&nbsp;to, co tam „widzą” – lśniącą, połyskującą jasność, otwartą dla innych, w&nbsp;której nie kłębi się czarna toń.</p> <p>Mój ojciec, kiedy chciał się upewnić, czy nie kłamię, żądał, abym patrzył mu w&nbsp;oczy. Jeżeli bez uciekania wzrokiem powtórzyłem wszystko słowo w&nbsp;słowo, wówczas mi wierzył. W&nbsp;ten sposób nauczył mnie, jak mam go okłamywać, gdy patrzy mi w&nbsp;oczy – odtąd dawałem sobie radę: jeśli nie wierzył w&nbsp;to, co słyszał, wierzył w&nbsp;to, co widział.</p> <p><br><br></p> <p><b> Artykuł jest częścią 3. rozdziału <em>Masa i&nbsp;jej przeciwieństwa </em>książki Klausa Theweleita <em>Męskie fantazje,</em> która ukazuje się właśnie nakładem Wydawnictwa Naukowego PWN w&nbsp;przekładzie Michała Herera i&nbsp;Mateusza Falkowskiego.</b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Walter Benjamin, <em>Teorie niemieckiego faszyzmu</em>. <em>O pracy zbiorowej pt. Wojna i wojujący pod redakcją Ernsta Jüngera</em>, przeł. R. Turczyn, w: <em>Wobec faszyzmu</em>, red. H. Orłowski, PIW, Warszawa 1987, s. 31.  </p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Ernst Röhm, <em>Die Geschichte eines Hochverräters</em>, München 1934, s. 27.  </p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Walter Kempowski, <em>Haben Sie Hitler gesehen? Deutsche Antworten</em>, Hanser Verlag, München 1973.  </p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Brak autora, <em>Die letzte Parade der III. Marine-Brigade von Loewenfeld am Skagerraktage </em> <em>1920</em>, w: <em>Das Buch vom deutschen Freikorpskämpfer</em>, red. E. v. Salomon, Berlin 1938, s. 406 i n.  </p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Otto Strasser, <em>Der Sinn des 9. November 1923</em>, w: <em>Der Kampf um das Reich</em>, red. E. Jünger, Essen 1929, s. 306.  </p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Karl Schaumlöffel<em>, Das Studentenkorps Marburg in Thüringen. Ein Kriegstagebuch im Frieden, </em>Marburg 1920, s. 9.  </p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Walter Frank, <em>Franz Ritter v. Epp. Der Weg eines deutschen Soldaten</em>, Hamburg 1934, s. 26.  </p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Arnolt Bronnen, <em>Roßbach</em>, Berlin 1930, s. 9 i n.  </p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Ibidem, s. 10.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Hans Wittmann, <em>Erinnerungen </em><em>der Eisernen Schar Berthold</em>, Oberviechtach 1926, s. 123.  </p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Franz Schauwecker, <em>Aufbruch der Nation</em>, Berlin 1929, s. 61.  </p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Ernst Jünger, <em>Kampf als inneres Erlebnis</em>, Berlin 1922, s. 32.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Ibidem, s. 26.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Ibidem, s. 50 i n.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Ibidem, s. 23.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Edwin Erich Dwinger, <em>Deutsches Schicksal</em>, t. 1, Jena 1929, s. 536.  </p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Rudolf Herzog, <em>Mann im Sattel</em>, Berlin 1935, s. 403  </p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Edwin Erich Dwinger, <em>Auf halbem Wege</em>, Jena 1937, s. 377.  </p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Ernst von Salomon, <em>Die Geächteten</em>, Berlin 1930, s. 369.  </p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Joseph Goebbels, <em>Michael. Ein deutsches Schicksal in Tagebuchblättern</em>, München 1929, s. 149.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Friedrich Ekkehard, <em>Sturmgeschlecht. Zweimal 9. November</em>, München 1941, s. 201.  </p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Stefan George, <em>Stern des Bundes</em>, GW t. 8, Berlin 1928, s. 85; Hans Blüher cytuje oba wersy w <em>Die Rolle der Erotik</em><em> in der männlichen Gesellschaft</em>, Klett, Stuttgart 1962, s. 324.  </p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Niemiecki zwrot <em>abgeblitzt sein</em> (= być odprawionym, dostać kosza; od czasownika <em>abblitzen</em> = nie wypalić, spalić na panewce) zawiera w sobie szczególne szyderstwo. Oznacza, że jesteśmy nie dość lśniący, promienni, nie dość męscy; nie udało nam się otworzyć innego oka. Kimś, kto nigdy nie został odprawiony, był ulubieniec Niemców, Hans Albers – Brecht marzył, by jego oczy błyszczały w służbie komunizmu. Por. Bertolt Brecht, <em>Arbeitsjournal</em>, wpis z 2 kwietnia 1948.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Bogislav von Selchow, <em>Hundert Tage aus meinem Leben, </em>Leipzig 1936, s. 278.  </p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Kurt Oskar Bark, <em>Roßbachs Marsch ins Baltikum</em>, w: <em>Das Buch vom deutschen Freikorpskämpfer</em>…, s. 204.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Karl Abraham, <em>Über Einschränkungen und Umwandlungen der Schaulust bei den Psychoneurotikern nebst Bemerkungen über analoge Erscheinungen in der Völkerpsychologie</em>, w: idem, <em>Psychoanalytische Studien</em>, t. 1, Fischer, Frankfurt 1969, s. 334 i n.  </p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Ernst Lissauer, <em>Luther und Thomas Münzer. Drama in fünf Aufzügen</em>, Berlin 1929, s. 50.  </p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> „Jako jedyny nie potrafiłeś mi spojrzeć prosto w oczy. Ty łajdaku!” – mówi Killinger (<em>Der Klabautermann. Eine Lebensgeschichte</em>, München 1936, s. 256) do pewnego palacza, który nagle zjawia się na radach żołnierskich. Najbardziej podstawową cechą wroga Niemców jest nieszczere spojrzenie. Polacy, spartakiści itd. często mają „żabie oczy” albo zezują (por. np. Manfred von Killinger, <em>Der Kampf um Oberschlesien.</em><em>Bisher unveröffentlichte Aufzeichnungen des Führers der Abteilung v. Killinger, genannt „Sturmkompagnie Koppe</em>”, Leipzig 1934, s. 54; Hans Heinrich Hollenbach, <em>Opfergang</em>, Hamburg–Berlin–Leipzig 1932, s. 124 i n.), czasami wykłuwają oczy niemieckim żołnierzom (Manfred von Killinger, <em>Männer und Mächte. Die SA in Wort und Bild</em>, Leipzig 1933, s. 88).</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Zdaniem Canettiego poczucie, że jest się obserwowanym przez tysiące oczu masy, prowadzi „bezpośrednio do prasytuacji<em></em>paranoi. Wrażenie, że jest się osaczonym przez sforę wrogów, którzy upatrzyli sobie człowieka na ofiarę, to podstawowe uczucie w paranoi. W najczystszej postaci ujawnia się ono w wizjach oczu: Wszędzie widzi się oczy, ze wszystkich stron, interesują się one tylko chorym, a to ich zainteresowanie jest nader groźne. Stworzenia, do których należą te oczy, zamierzają się zemścić na upatrzonej ofierze. Przez długi czas człowiek dawał im bezkarnie odczuć swą władzę” (Elias Canetti, <em>Masa i władza</em>, przeł. E. Borg, M. Przybyłowska, Czytelnik, Warszawa 1996, s. 527–528). Wymarzona sytuacja dla posiadacza władzy – z tysiąca oczu rodzi się jedno<em></em>spojrzenie i zamiast pala, „który oślepi Polifema, wysuwa się doń ramię, które można chwycić i potrząsnąć”.  </p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a><em>Die Pioniere des 3. Reichs </em>Schiracha ukazali się w 1934 roku, jeszcze przed rozbiciem SA i zamordowaniem Röhma i innych w tym samym roku. Zlikwidowano w ten sposób organizację, w której dopuszczalne były jawne stosunki homoseksualne. Nowa naczelna formacja NSDAP, SS, to męska organizacja prześladująca homoseksualistów; w miejsce propagowanego w SA „koleżeństwa” pojawia się ściśle zhierarchizowana struktura (niepodobna sobie wyobrazić Himmlera uprawiającego seks z jakimś Gruppenführerem); esesman powinien się ożenić, a homoseksualistę co najwyżej nadzorować w obozie. Temat „homoseksualizmu” omówimy jednak bliżej dopiero w następnym rozdziale – wcześniej zanalizujemy przemiany, jakim ulega ciało pod wpływem wojskowego drylu i walki. – Blüher (<em>Die Rolle der Erotik in der männlichen Gesellschaft</em>…) utrzymuje, że w obrębie „męskiej społeczności pierwszego stopnia” panuje świadomość kluczowej dla organizacji roli męsko-męskiego erosa, w tym także stosunków seksualnych; ta świadomość zanika w męskich społecznościach drugiego i trzeciego stopnia, aż po negowanie tudzież prześladowania homoerotyzmu. Przyczyną rozpadu ruchu <em>Wandervogel </em>była zdaniem Blühera walka między orędownikami i wrogami fizycznej miłości między mężczyznami – wrogowie zwyciężyli (s. 246 i n.). W podobnym duchu co Blüher wypowiada się na temat męskości/wojny/aktywności państwowotwórczej Gerhard Günther (<em>Die Bändigung des Krieges durch den Staat</em>, w: <em>Krieg und Krieger</em>, red. E. Jünger, Berlin 1930, s. 168 i n.), choć miłość między mężczyznami nie stanowi dlań zasadniczego czynnika – zgodnie z klasyfikacją Blühera należałby więc do „męskiej społeczności drugiego stopnia”.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Helmut Franke, <em>Staat im Staate</em>. <em>Aufzeichnungen eines Militaristen</em>, Magdeburg 1924, s. 220; na temat oczu zob. też Hans Wittmann, <em>Erinnerungen der Eisernen Schar Berthold</em>, Oberviechtach 1926,<em></em>s. 129; Karl Schaumlöffel, <em>Das Studentenkorps Marburg</em>…, s. 25; Rudolf Herzog, <em>Wieland der Schmied</em>, Stuttgart 1924, s. 25; Hans Blüher, <em>Die Rolle der Erotik</em>…, s. 185, 188–189; Hans Blüher, <em>Der Wandervogel</em>. <em>Geschichte einer Jugendbewegung</em>, Prien 1922, s. 32; Karl Hoefer, <em>Oberschlesien in der Aufstandszeit</em><em></em><em>1918–1921. Erinnerungen und Dokumente</em>, Berlin 1938 s. 19, 26; Cordt von Brandis, <em>Baltikumer</em><em>. Schicksal eines Freikorps</em>, Berlin 1939, s. 23; Martin Bochow, <em>Sie wurden Männer</em>, Stuttgart–Berlin–Leipzig 1935, s. 64, 67; Wilhelm Kohlhaas, <em>Der Häuptling und die Republik. Die Geschichte eines Irrtums</em>, Stuttgart 1933, s. 137; Herbert Volck, <em>Rebellen um Ehre. Mein Kampf um die nationale Erhebung</em>, Gütersloh 1932, s. 27, 35, 53; Ludwig Freiwald, <em>Der Weg der braunen Kämpfer</em>, München 1934, s. 9; Ludwig Freiwald, <em>Die </em><em>verratene Flotte</em>, München 1931, s. 92–93; Rolf Brandt, <em>Albert Leo Schlageter. Leben und Sterben eines deutschen Helden</em>, Hamburg 1926, s. 101; Ferdinand E. Solf, <em>Deutschlands Auferstehung: 1934</em>, Naumburg a.d. Saale 1921, s. 47; Rudolf Mann, <em>Mit Ehrhardt durch Deutschland</em>, Berlin 1921, s. 138; Erich Balla, <em>Landsknechte wurden wir. Abenteuer aus dem Baltikum</em>, Berlin 1932, s. 116; Ernst von Salomon, <em>Putsch und Verschwörung</em>, Frankfurt 1938, s. 15 (na tej samej stronie występuje też „pozbawiona spojrzenia masa”). Zob. Friedrich Bodenreuth, <em>Das Ende der Eisernen Schar</em>, Leipzig 1940, s. 34 (o oczach Bertholda): „Jak gdyby wyszły spod kowalskiego młota, wbiły się w oczy drania. Ten z bólem je spuścił”.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Trupy robotników schwytanych przez oddziały Freikorpsu lub Reichswehry często znajdowano potem z wydłubanymi oczami.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Hans Blüher, <em>Die Rolle der Erotik…</em>, s. 188.  </p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2015/oczy" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

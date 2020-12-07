@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Ty. Ja. Rzeczy. | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/ty.-ja.-rzeczy.-swiat-jako-archiwum.-krytyczne-modele-historycznosci">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Ty. Ja. Rzeczy. | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Ty. Ja. Rzeczy. | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/ty.-ja.-rzeczy.-swiat-jako-archiwum.-krytyczne-modele-historycznosci">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Ty. Ja. Rzeczy. | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ff5239 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ff5239 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ff5239 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ff5239 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ff5239 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ff5239 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+			/* background-color:#ff5239 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,82,57,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ff5239 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ff5239; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ff5239 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ff5239 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ff5239 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1337 parent-id-1331">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="419" data-selected-issue-color="#ff5239" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/the-visibility-of-things#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/the-visibility-of-things/you.-me.-things.-world-as-an-archive.-critical-modes-of-historicity">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/widzialnosc-rzeczy#toc">1</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/ty.-ja.-rzeczy.-swiat-jako-archiwum.-krytyczne-modele-historycznosci?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Ty. Ja. Rzeczy. „Świat jako archiwum. Krytyczne modele historyczności” – seminarium pierwsze</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/ty.-ja.-rzeczy.-swiat-jako-archiwum.-krytyczne-modele-historycznosci?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorzy: 
+		<a href="/pl/bio?id=301">Krzysztof Pijarski</a>, <a href="/pl/bio?id=302">Justyna Jaworska</a>, <a href="/pl/bio?id=304">Klara Czerniewska</a>, <a href="/pl/bio?id=305">Tomasz Szerszeń</a>, <a href="/pl/bio?id=306">Karolina Ziębińska-Lewandowska</a>, <a href="/pl/bio?id=307">Adam Mazur</a>, <a href="/pl/bio?id=308">Paweł Mościcki</a>, <a href="/pl/bio?id=309">Magda Szcześniak</a>, <a href="/pl/bio?id=490">Marek Zaleski</a>, <a href="/pl/bio?id=311">Katarzyna Bojarska</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p><b>„Świat jako archiwum. Krytyczne modele historyczności”, <br>seminarium pierwsze, 18 czerwca 2012<br><br></b></p> <p>O wystawie <a href="http://www.archeologiafotografii.pl/pl/node/2239" target="_blank" rel="noopener"><b>Tomasza Szerszenia </b></a><em><b><a href="http://www.archeologiafotografii.pl/pl/node/2239" target="_blank" rel="noopener">Ty. Ja. Rzeczy</a></b></em> (Fundacja Archeologia Fotografii, 25 maja–20 czerwca 2012) rozmawiali: Katarzyna Bojarska (IBL PAN), Klara Czerniewska („Dwutygodnik.com”), Justyna Jaworska (IKP UW), Karolina Lewandowska (Fundacja Archeologia Fotografii), Adam Mazur (CSW), Paweł Mościcki (IBL PAN), Krzysztof Pijarski (IHS UW), Magda Szcześniak (IKP UW), Tomasz Szerszeń (IS PAN), Marek Zaleski (IBL PAN).<br><br></p> <p><b>Katarzyna Bojarska (KB)</b>: Na&nbsp;wstępie chcę podkreślić, że&nbsp;bardzo ważne jest dla nas – jako grupy badawczej – rozpoczęcie prezentacji wyników projektu „Świat jako archiwum. Krytyczne modele historyczności”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> od artystyczno-badawczej propozycji Tomasza Szerszenia. W&nbsp;naszych założeniach podstawową rolę odgrywa łączenie refleksji teoretycznej, praktyk interpretacyjnych i&nbsp;działalności twórczej. Interesuje nas poszerzanie pola nauki, uprawianie humanistyki wszelkimi dostępnymi środkami. Wystawa Tomasza stanowi w&nbsp;moim przekonaniu doskonały przykład realizacji tej „poszerzonej” postawy badawczej, wyjścia poza wąskie parametry dziedzin akademickich i&nbsp;stylów artystycznych.<br><br></p> <p><b>Tomasz Szerszeń (TS)</b>: Swój komentarz do wystawy zacznę od tego – co od początku wydało mi się interesujące – że&nbsp;postulaty miesięcznika „Ty i&nbsp;Ja” były w&nbsp;latach 60., w&nbsp;rzeczywistości PRL, niemożliwe do realizacji. Pismo przedrukowywało na&nbsp;przykład całe cykle zdjęciowe pochodzące z&nbsp;prasy zagranicznej – sesje mody z&nbsp;„Vogue'a”, zdjęcia Richarda Avedona, Jeanloupa Sieffa, Guy Bourdina... Brano materiał wizualny z&nbsp;<em>lifestyle'owych</em> zachodnich pism – a&nbsp;wraz z&nbsp;nim pewną wizję codzienności, będącą jednocześnie wizją świata – które kompletnie nie przystawały do rzeczywistości PRL. Drugie, co mnie uderzyło: materiał ten przejmowany był zwykle w&nbsp;sposób bezkrytyczny. Nie chodzi mi tu o&nbsp;strategie graficzne, czyli w&nbsp;jaki sposób to było „wklejane” do „Ty i&nbsp;Ja” – pod&nbsp;tym względem jest to robione mistrzowsko – lecz o&nbsp;brak pytania, co się za&nbsp;tą oszałamiającą estetyką kryje (to oczywiście trochę utopijny postulat, ponieważ trudno oczekiwać od <em>lifestyle'owego</em> pisma, by prowadziło krytykę estetyzacji...). „Ty i&nbsp;Ja” jest dla mnie również rodzajem archiwum (osobną kwestią do dyskusji pozostaje to, na&nbsp;ile można to określenie stosować do gazety, która w&nbsp;tym ujęciu byłaby rodzajem „archiwum efemerycznego”). Jest to archiwum rzeczy, przedmiotów, rozumianych zarówno dosłownie – piękne przedmioty, przedmioty codziennego użytku, wyposażenie mieszkania – jak i&nbsp;metaforycznie. W&nbsp;tej drugiej perspektywie mamy kilka poziomów uprzedmiotowienia: od wizji kobiety – urzeczowionej w&nbsp;pozie modelki, „pięknego przedmiotu do patrzenia” – po&nbsp;język niektórych artykułów, który przedstawiał świat jako zbiór rzeczy właśnie i&nbsp;który rozbudzał pragnienia.</p> <p>Oczywiście, nie chodziło mi tylko o&nbsp;krytykę „Ty i&nbsp;Ja”. To pismo, przynajmniej przez pierwszych kilka lat istnienia, było czymś fantastycznym, przede wszystkim pod&nbsp;względem wizualnym, grafiki i&nbsp;zdjęć, ale znalazłem tam również ciekawe teksty. Absolutnie nie chciałbym tego negować. Jednocześnie wydaje mi się oczywiste, że&nbsp;nasze własne podejście do estetyki lat 60. i&nbsp;ówczesnego designu jest bardzo bezkrytyczne – zachwycamy się estetyką, zapominając, że&nbsp;już wówczas pojawiały się mocne głosy ujawniające społeczne konsekwencje konsumeryzmu i&nbsp;podejmujące krytykę „rzeczy”.</p> <p>„Ty i&nbsp;Ja” wydaje się rodzajem archiwum (pozostańmy przy tym słowie) niemożliwych do spełnienia marzeń i&nbsp;fantazji Polaków (choć przecież nie tylko, bo&nbsp;wiele mówiło przecież o&nbsp;fantazjach i&nbsp;marzeniach mieszkańców Europy Zachodniej). Pojawia się tu pytanie: czy wyznaczało to przestrzeń wolności, czy może, wręcz przeciwnie, alienowało jeszcze bardziej – pozostawmy to do dalszej dyskusji.</p> <p>Taki jest punkt wyjścia zabiegu, który przeprowadzam: zderzenie „Ty i&nbsp;Ja” z&nbsp;<em>Rzeczami </em>Georges’a Pereca (a właściwie z&nbsp;ich fragmentem). Zależało mi na&nbsp;pokazaniu dwóch stron tego samego zjawiska: to, co w&nbsp;„Ty i&nbsp;Ja” jest przyjmowane za&nbsp;dobrą monetę (zachodni styl życia i&nbsp;świat przedmiotów jako siła wyzwalająca), u&nbsp;Pereca poddane zostaje krytyce. Zarazem sytuacja jest w&nbsp;jakimś sensie podobna – chodzi o&nbsp;pragnienie i&nbsp;patrzenie. Na&nbsp;Zachodzie mamy wówczas do czynienia z&nbsp;nadmiarem rzeczy, który prowadzi do niezaspokojonego, niemożliwego do spełnienia pragnienia – do tzw. <em>lache-vitrine</em>, „lizania witryny”, pojęcia związanego zwyczajowo z&nbsp;wielkomiejskim nadmiarem bodźców. W&nbsp;Polsce tymczasem istnieje „Ty i&nbsp;Ja”; pragnienia są te same, lecz rzeczy jak gdyby brak. Mamy tu zatem wątek rzeczy i&nbsp;wątek mieszkaniowy (jak sobie pięknie urządzić mieszkanie). Przypomnę, że&nbsp;<em>Rzeczy</em> Pereca zaczynają się właśnie niezwykle szczegółowym opisem mieszkania, tyle tylko, że&nbsp;jest to mieszkanie wymarzone, które bohaterowie chcieliby mieć i&nbsp;którego pożądają. I&nbsp;którego, ostatecznie, nie mogą mieć (choć równocześnie znają je na&nbsp;pamięć). Ten trzecioosobowy język jest tu bardzo ważny. Temat ten zainteresował mnie z&nbsp;jeszcze jednego powodu – osobistego. Kwestia urządzania mieszkania (a w&nbsp;związku z&nbsp;tym rzeczy) jest mi dziś bardzo bliska, a&nbsp;osobiste ożywianie archiwów, wprowadzanie do projektu badawczego zaszyfrowanego poziomu kryptoautobiograficznego to coś, co żywo mnie interesuje.</p> <p>Sama wystawa opiera się na&nbsp;zasadzie kolażu, zderzenia bardzo różnych elementów. Wydaje mi się to o&nbsp;tyle uprawomocnione, że&nbsp;również Roman Cieślewicz wybrał kolaż jako główną strategię organizującą „Ty i&nbsp;Ja”. Nie chodzi tylko o&nbsp;„estetykę kolażu”, ale również o&nbsp;sposób użycia sesji mody i&nbsp;fragmentów zdjęć z&nbsp;zagranicznej prasy, umieszczanych w&nbsp;kontekście polskim. Jest to motyw przewodni zarówno w&nbsp;sensie dosłownym – mamy tu serię kolaży – jak i&nbsp;metaforycznym – strategii zestawienia ze sobą różnych elementów. Pojawia się zatem nagranie, zderzone z&nbsp;cyklem kolaży, zostaje zasugerowana „scenografia” – stolik z&nbsp;lat 60., numery pisma, jest wreszcie wyklejanka z&nbsp;wypisami z&nbsp;„Ty i&nbsp;Ja”.</p> <p>Warto sobie uświadomić tę strategię, obraną przez redaktorów „Ty i&nbsp;Ja” – ta kwestia jest zresztą silnie obecna w&nbsp;opublikowanej w&nbsp;„Dwutygodniku” rozmowie Klary Czerniewskiej z&nbsp;Teresą Kuczyńską<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Na&nbsp;pytanie, jak te sesje i&nbsp;zdjęcia były zdobywane, Kuczyńska odpowiada wprost, że&nbsp;były po&nbsp;prostu przefotografowywane, ale nigdy 1:1 – zawsze zmieniano trochę tło i&nbsp;kontekst. Starałem się działać podobnie: wychwycić pewne motywy, które się pojawiają w&nbsp;„Ty i&nbsp;Ja”, i&nbsp;wyciąć je, przesuwając jednak akcenty, zmieniając kontekst i&nbsp;zarazem sens. Najlepszym terminem do opisania tej metody jest pojęcie Guy Deborda: „przechwycenie” (<em>détournement</em>). Debordowi chodziło o&nbsp;wymknięcie się językowi spektaklu, ożywienie dzięki przejęciu sensów i&nbsp;idei, ale równocześnie o&nbsp;ucieczkę od uprzedmiotowienia przez spektakl. Rzecz jasna, z&nbsp;zachowaniem proporcji, celem tych kolaży było utrzymanie pewnej stylistyki przy równoczesnym „przechwyceniu” tych sensów, przeobrażeniu kontekstu. Przeniesienie pewnych wątków przy jednoczesnym ich skondensowaniu. Nacisk położony zostaje na&nbsp;wątek mieszkaniowy oraz na&nbsp;grę między kobietą i&nbsp;mężczyzną („ty i&nbsp;ja”).</p> <p>Ważnym elementem jest nagranie fragmentu pierwszego rozdziału <em>Rzeczy </em>Pereca. Został on przeze mnie pocięty, wyczyszczony (niektóre kwestie – zbyt długie, by je przeczytać na&nbsp;jednym oddechu – zostały wyrzucone); to była trochę taka robota adaptacyjna, jak w&nbsp;teatrze. Zasadnicza różnica polega na&nbsp;tym, że&nbsp;rozbiłem to na&nbsp;głos kobiecy i&nbsp;męski – na&nbsp;Ty i&nbsp;Ja: u&nbsp;Pereca bohaterami są właśnie młoda kobieta i&nbsp;młody mężczyzna, para. Nadal pozostaje obecna tu trzecia osoba, ten uprzedmiatawiający ton; zostaje ona jednak ożywiona w&nbsp;efekcie napięcia między dwoma głosami – kobiecym i&nbsp;męskim. Zależało mi na&nbsp;tej formie komentarza, ponieważ jest to stały motyw nowofalowy, czy też „debordowski”: to komentarz, który nie koresponduje w&nbsp;bezpośredni sposób z&nbsp;obrazami, nadając im, tym samym, kolejny wymiar. Taki zabieg można spotkać i&nbsp;u Godarda, i&nbsp;w filmowej wersji <em>Społeczeństwa spektaklu</em>, i&nbsp;w wielu innych filmach z&nbsp;lat 60. Głosy w&nbsp;nagraniu to ja i&nbsp;Julia Holewińska. Zależało mi, by nagranie nadawało wystawie teatralny wymiar, by rozciągało ją w&nbsp;czasie i&nbsp;w przestrzeni. Także wypisy i&nbsp;stolik mają zasugerować teatralność tej sytuacji.</p> <p>Jeszcze słowo o&nbsp;<em>Twiggy</em>. To zdjęcie Avedona z&nbsp;sesji mody dla „Vogue'a” z&nbsp;1967 roku, która w&nbsp;tym samym roku została przedrukowana w&nbsp;„Ty i&nbsp;Ja”. To centralny punkt wystawy. Gdziekolwiek byśmy nie patrzyli, napotkamy jej spojrzenie. Reprodukcji towarzyszy podpis: „W moim M–3 mam zdjęcie Avedona. To portret Twiggy. Dokleiłem jej na&nbsp;czole czerwoną kropkę”. Chodzi tu o&nbsp;dwie sprawy. Sprawa pierwsza, ciekawa być może dla socjologa wizualności, dotyczy tego, że&nbsp;każdy czytelnik „Ty i&nbsp;Ja” mógł sobie w&nbsp;1967 roku wyciąć to zdjęcie i&nbsp;powiesić na&nbsp;ścianie. A&nbsp;także wykonywać na&nbsp;nim jakieś działania. Sprawa druga, dość istotna, wiąże się z&nbsp;tym, że&nbsp;Twiggy uchodzi – podobnie zresztą jak Avedon – za&nbsp;ikonę lat 60. Widzimy zatem rodzaj ołtarzyka, bądź pseudoołtarzyka, ponieważ wydźwięk tej pracy jest dość ironiczny wobec mody polegającej na&nbsp;„przechwytywaniu” estetyki lat 60., jednak tylko jako estetyki – co to za&nbsp;Twiggy, która ma czerwoną kropkę na&nbsp;czole, i&nbsp;co to za&nbsp;zdjęcie Avedona, które zostało zepsute? Ołtarzyk staje się zatem równocześnie antyołtarzykiem – to centralne miejsce wystawy, które kryje w&nbsp;sobie zarazem ten fałsz. Zależało mi na&nbsp;tym, by był to punkt centralny, a&nbsp;jednocześnie „znak pusty”.<br><br></p> <p><b>Klara Czerniewska (KCZ)</b>: Zasugerowałeś pewną bezrefleksyjność autorów pisma, ale z&nbsp;drugiej strony jest ta całkowicie refleksyjna jego strona wizualna. Pisząc o&nbsp;„Ty i&nbsp;Ja”, podkreślałam to, że&nbsp;można je traktować jako archiwum. Przygotowałam taki fragment z&nbsp;Michela Foucaulta:</p> <blockquote>To archiwum sprawia, że&nbsp;rzeczy powiedziane nie uciekają w&nbsp;przeszłość w&nbsp;ten sam sposób co czas, albowiem są takie, które choć świecą silniej niż najbliższe gwiazdy, w&nbsp;rzeczywistości przybywają do nas z&nbsp;bardzo daleka, podczas gdy inne, całkiem współczesne już zupełnie pobladły<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>.</blockquote> <p>To jest właśnie estetyka lat 60., która jest dla nas ciągle ważnym punktem odniesienia. Nie mówi się tyle o&nbsp;kulturze wizualnej następnych dekad, zapewne dlatego, że&nbsp;nastała już wówczas krytyka konsumeryzmu. Jednak „fałszywy ołtarzyk” Twiggy nie miałby racji bytu, gdyby był jedynie bezrefleksyjnie „przeklejony” na&nbsp;zasadzie <em>copy-paste</em>. Dodając jej czerwoną kropkę i&nbsp;komentarz, Tomasz Szerszeń dodaje jej własne sensy, jednak ktoś, kto, tak jak ja, przeglądał inne numery magazynu, uzna ten zabieg za&nbsp;powtórzenie tego, co robił Cieślewicz z&nbsp;sesjami mody. W&nbsp;moim odczuciu zatem dokonuje się tutaj podtrzymanie tradycji. Dla mnie Twiggy jest też nieświadomym nawiązaniem do innych zdjęć Avedona, reprodukowanych na&nbsp;wewnętrznych stronach okładki w&nbsp;„Ty i&nbsp;Ja” – portretów Beatlesów dla magazynu „Stern” w&nbsp;1967 roku. Czerwona kropka na&nbsp;czole modelki kojarzy się z&nbsp;hinduskim bindi, a&nbsp;George Harrison został przez Avedona sportretowany jak hinduistyczne bóstwo...<br><br></p> <p><b>Krzysztof Pijarski (KP):</b> Klara Czerniewska zaczęła od Foucaulta. Bardzo się cieszę, cały czas bowiem rozmawiamy tutaj o&nbsp;archiwum jako o&nbsp;pewnej metaforze. „Ty i&nbsp;Ja” dosłownym archiwum nie jest. To hasło, pod&nbsp;którym się tu spotykamy, jest również pewną metaforą – pytanie, na&nbsp;ile nośną.<br><br></p> <p><b>Justyna Jaworska (JJ)</b>: Po&nbsp;raz pierwszy zwróciłam uwagę na&nbsp;ten problem, czytając artykuł Małgorzaty Tkacz-Janik z&nbsp;„Kultury Popularnej” z&nbsp;2002 roku, zatytułowany właśnie Z&nbsp;<em>archiwum polskiego konsumeryzmu</em>. <em>Magazyn ilustrowany „Ty i&nbsp;Ja”</em>. To jest dokładnie ta perspektywa.<br><br></p> <p><b>Adam Mazur (AM)</b>: Co ciekawe, prawdziwe (czyli nie traktowane jako metafora) archiwum fotograficzne pisma „Ty i&nbsp;Ja” i&nbsp;pracujących dla niego fotografów również było przedmiotem poszukiwania, ale nie udało się go odnaleźć. W&nbsp;swoim czasie próbowałem o&nbsp;to pytać autorów zdjęć do „Ty i&nbsp;Ja”. Przede wszystkim Krzysztofa Gierałtowskiego, który miał z&nbsp;tym archiwum do czynienia. Jego zdaniem to wszystko gdzieś przepadło, zostało wyrzucone na&nbsp;śmietnik. Prowadziliśmy poszukiwania z&nbsp;Rafałem Lewandowskim, ale bezskutecznie. Pozostaje nam zatem istotnie traktować to archiwum jedynie metaforycznie.<br><br></p> <p><b>TS</b>: Warto też zwrócić uwagę, że&nbsp;do tej pory nie mówiło się o&nbsp;tym piśmie w&nbsp;kontekście sztuki. Mówiło się o&nbsp;konkretnych osobach, o&nbsp;ich pracach, ale nie o&nbsp;pewnej całości.<br><br></p> <p><b>KCz</b>: To prawda – nie powstała jeszcze żadna publikacja o&nbsp;„Ty i&nbsp;Ja”, która poruszałaby inne tematy niż tylko jego strona wizualna. Szymon Bojko pisał dużo o&nbsp;nim w&nbsp;kontekście koncepcji graficznej, w&nbsp;„Piktogramie” przedrukowano liczne awangardowe reklamy – i&nbsp;to wszystko. Ani słowa o&nbsp;roli obyczajowej, kulturotwórczej, o&nbsp;funkcji pisma przeznaczonego dla elit, mimo wszystko jakoś obytych z&nbsp;Zachodem, „opatrzonych”.</p> <p>Wracając do wcześniejszego wątku, zaznaczę jednak, że&nbsp;język (postulatywny, konsumerystyczny) był wspólny i&nbsp;dla Zachodu, i&nbsp;dla Wschodu. Gorzej było z&nbsp;rzeczywistością po&nbsp;obu stronach, nieprzystawalną – Tomek wspomniał o&nbsp;tym na&nbsp;początku. „Ty i&nbsp;Ja” można było wcielić do świata sztuki (historii sztuki czy designu), ponieważ istnienie pisma to ledwie dekada z&nbsp;kawałkiem, okres, który skupiał jak w&nbsp;soczewce stylistykę lat 60. Z&nbsp;kolei dla Cieślewicza to był jedynie epizod – przepustka do dalszej kariery.<br><br></p> <p><b>TS</b>: Sprawa Cieślewicza jest interesująca. On się przyjaźnił z&nbsp;Peterem Knappem, który znał „Ty i&nbsp;Ja” i&nbsp;zaprosił go do pracy we Francji. Na&nbsp;Zachodzie istniała więc świadomość, że&nbsp;coś takiego powstaje.<br><br></p> <p><b>KCz</b>: Powstawało coś wyjątkowego, dlatego możemy o&nbsp;tym mówić w&nbsp;kontekście sztuki i&nbsp;designu, nie tylko obyczajowości.<br><br></p> <p><b>TS</b>: Chodziło mi o&nbsp;to, że&nbsp;do tej pory pismo nie było tak rozpatrywane.<br><br></p> <p><b>JJ</b>: W&nbsp;1965 roku, kiedy ukazują się <em>Rzeczy</em> Pereca, „Ty i&nbsp;Ja” wychodzi już od pięciu lat, kosztuje 12 złotych (to bardzo dużo), wcale nie jest łatwo je kupić i&nbsp;jest dość „niszowe”. Zadawałam sobie pytanie o&nbsp;projektowanego czytelnika, o&nbsp;adresata pisma, bo&nbsp;to nie jest fenomen „Przekroju” – połączenia bardzo różnych klas społecznych, od profesora do sprzątaczki, jakby chciał jego redaktor Marian Eile – tylko jednak dość elitarna propozycja i, tak jak powiedział Tomek, mocno zawieszona w&nbsp;próżni: konsumeryzm bez konsumpcji. Strasznie się cieszę, że&nbsp;powstała ta wystawa – jej pomysł, można powiedzieć, wisiał w&nbsp;powietrzu.</p> <p>To rzeczywiście było w&nbsp;jakimś sensie bardzo dziwne pismo. Gdybym miała dla niego wskazać genealogię historyczną, to byłaby to słynna zimnowojenna „debata kuchenna” między Nixonem a&nbsp;Chruszczowem, która odbyła się w&nbsp;Moskwie w&nbsp;1959 roku, podczas wielkiej wystawy wzornictwa amerykańskiego. Amerykanie pokazali Rosjanom otoczenie zwykłej amerykańskiej rodziny. Największą, wstrząsającą atrakcją była kuchnia: piękna, lśniąca, ze sprzętami kuchennymi, których Rosjanie nigdy nie widzieli. To był przełom. Po&nbsp;„debacie kuchennej” państwa komunistyczne zaczęły produkować lodówki, pralki etc. Front zbrojeń przeniósł się w&nbsp;pewnym sensie na&nbsp;teren gospodarstwa domowego i&nbsp;życia codziennego. Można już było – od początku lat 60. – wydawać takie pismo jak „Ty i&nbsp;Ja” (które spokojnie możemy nazwać pierwszym polskim pismem <em>lifestyle'owym</em>, choć termin <em>lifestyle</em> w&nbsp;odniesieniu do tamtej rzeczywistości wydaje się dość abstrakcyjny).</p> <p>To ma związek z&nbsp;językiem gomułkowskiej „małej stabilizacji” – ostrożnej, kulawej, ale jednak konsumpcji. Przypomnijmy sobie <em>Niewinnych czarodziei</em> Wajdy (1961) – małe mieszkanko, kawalerka, sprzęty ubogie, ale jednak z&nbsp;pretensją do pewnego stylu, inteligenckiego blichtru… Następuje wielkie poodwilżowe przywrócenie do łask codzienności. Pojawiają się nowe tematy, odradza się poezja liryczna, można wreszcie mówić o&nbsp;chłopakach i&nbsp;dziewczynach, o&nbsp;szczęściu we dwoje. Pęka socrealistyczny kod – i&nbsp;tak powstaje miejsce dla takiego pisma.</p> <p>Naprawdę było ono pod&nbsp;wieloma względami cudowne, ale i&nbsp;śmieszne. Weźmy taką rubrykę jak <em>Wybraliśmy dla Ciebie</em>, przedstawiającą po&nbsp;prostu przedmioty – to bardzo w&nbsp;duchu Pereca – i&nbsp;to wcale nie przedmioty designerskie czy drogie, tylko takie codziennego użytku (popielniczki, otwieracze do puszek itd.). Oczywiście, można powiedzieć, że&nbsp;były to początki polskiego designu, ale sam pomysł, by przedstawiać rzeczy jako rzeczy, oznaczał niezwykły zwrot w&nbsp;myśleniu o&nbsp;tym, co jest możliwe do pokazania.<br><br></p> <p><b>KP</b>: Dzisiaj, gdy widzimy w&nbsp;kolorowych pismach reprodukcje rzeczy, to są one przeważnie bardzo drogie, jakby stworzone do „lizania witryny”…<br><br></p> <p><b>Karolina Lewandowska (KL):</b> Mój ulubiony artykuł z&nbsp;„Ty i&nbsp;Ja” poświęcony jest torbom – na&nbsp;eksport oczywiście. W&nbsp;pierwszym zdaniu pojawia się informacja, że&nbsp;mowa o&nbsp;odrzutach z&nbsp;eksportu, dzięki czemu można je w&nbsp;ogóle kupić i&nbsp;o nich pisać. Była to zatem bardzo szczególna dostępność…<br><br></p> <p><b>JJ</b>: Mogę wam przeczytać tekst pierwszej reklamy, który znalazłam w&nbsp;„Ty i&nbsp;Ja”, z&nbsp;1960 roku. Coś dla fotografów właśnie – reklama aparatu, z&nbsp;tekstem:</p> <blockquote>W pełni sezonu najlepszą nagrodą za&nbsp;świadectwo, najbardziej wychowawczym prezentem wakacyjnym, najbardziej upragnionym sprzętem wycieczkowym jest dla młodzieży Druh – popularny aparat fotograficzny dla dzieci i&nbsp;młodzieży i&nbsp;początkujących amatorów. Druh dostępny jest dla każdego, kosztuje zaledwie 150 złotych.</blockquote> <p>Co to jest za&nbsp;retoryka? Dydaktyczna, kompletnie niekomercyjna. Przedmiot jest wychowawczy i&nbsp;w założeniu dostępny dla każdego – staramy się usprawiedliwić wystawienie go na&nbsp;sprzedaż. Każdy przecież powinien mieć Druha, Partia powinna go każdemu wręczać w&nbsp;nagrodę za&nbsp;dobre świadectwo. To przejście od świata, w&nbsp;którym reklama była w&nbsp;ogóle nie do pomyślenia, do świata raczkującego konsumeryzmu było retorycznie dość dziwaczne – warto to złapać.<br><br></p> <p><b>Magda Szcześniak (MSz):</b> Pociągnęłabym myśl Klary, że&nbsp;mimo wszystko języki Wschodu i&nbsp;Zachodu są jednak trochę do siebie podobne. Przeglądając reklamy Kodaka z&nbsp;pierwszej połowy XX wieku, by pozostać w&nbsp;tej samej poetyce, widzimy to podobieństwo: instruują one użytkowników aparatu, co mogą z&nbsp;nim zrobić, w&nbsp;jaki sposób wykorzystać itd. W&nbsp;ogóle mamy tu do czynienia z&nbsp;innym językiem reklamy – niezależnie od tego, czy i&nbsp;dla kogo te produkty były dostępne lub nie. Reklama w&nbsp;latach 50. również na&nbsp;Zachodzie posługuje się innym językiem niż dziś.<br><br></p> <p><b>JJ</b>: Przepraszam, znalazłam tekst jeszcze jednej reklamy. Wyobraźcie sobie: w&nbsp;tarczę pomarańczowego słońca z&nbsp;trójkątnymi promieniami wmontowany zostaje trójkąt namiotu turystycznego. Wszystko pięknie graficznie zakomponowane. Towarzyszy temu buńczuczny podpis: „Polski sprzęt turystyczny nie ustępuje zachodniemu jakością i&nbsp;ceną”. Na&nbsp;sąsiedniej stronie, na&nbsp;pomarańczowym tle pokazane są biwakowe akcesoria: bidon, materac dmuchany, płetwy, aluminiowa puszka, plastikowy talerz… Po&nbsp;prostu rzeczy. Pokazane tak, jakby samo to, że&nbsp;można je kupić, że&nbsp;one są, wystarczało za&nbsp;cały gest prezentacji.<br><br></p> <p><b>KCz</b>: Z&nbsp;tym wiąże się też kontekst powojennego postępu technologicznego: wkraczamy tu w&nbsp;historię designu.<br><br></p> <p><b>JJ</b>: Naturalnie. To moment, kiedy prezentacja przedmiotów nie potrzebuje metafory, lecz posługuje się czystą enumeracją – po&nbsp;prostu pokazujemy. To się zaczyna później przetwarzać i&nbsp;w drugiej połowie lat 60. reklamy w&nbsp;„Ty i&nbsp;Ja” stają się bardziej złożone, często operują kolażem – Tomasz Szerszeń robi na&nbsp;tej wystawie kolaż z&nbsp;kolaży – naprawdę wznosząc się na&nbsp;bardzo wysoki poziom skrótu i&nbsp;wyrafinowania. Jest w&nbsp;tym wszystkim jednak również nutka resentymentu: pytanie, czy to jest rzeczywiście krytyka czy fascynacja? W&nbsp;tym samym 1965 roku, równocześnie z&nbsp;Perekiem, w&nbsp;„Ty i&nbsp;Ja” ukazuje się fragment opowiadania Ewy Berberyusz <em>Ucałuj pieniądze</em>. To historia o&nbsp;dziewczynie, która pracuje – zajmuje się domem, sprząta – u&nbsp;zamożnej amerykańskiej rodziny mieszkającej w&nbsp;Paryżu; pan domu jest generałem NATO. Z&nbsp;jednej strony zachowuje moralną wyższość nad swoim „państwem”, ale z&nbsp;drugiej strony jest tam scena, w&nbsp;której bohaterka przestawia czy też odkurza flakony perfum na&nbsp;toaletce pani domu – w&nbsp;tym geście jest wszystko... Mimo warstwy antyburżuazyjnego potępienia (zapewne koniecznej) tekst musiał być absolutnie fascynujący dla większości czytelniczek – marzyły one o&nbsp;Elisabeth Arden, czy też o&nbsp;tym, co tam stało… Był to rodzaj podwójnego kodu, swoista subwersja. Tytuł „Ty i&nbsp;Ja” czytamy przede wszystkim jako „kobieta” i&nbsp;„mężczyzna”, ale możemy go również czytać jako „tam” i&nbsp;„tu”, jako „Zachód” – „my”. Byłaby to próba zbudowania pewnego pomostu.<br><br></p> <p><b>TS</b>: Jest jeszcze jeden bardzo osobisty aspekt, który pojawia się w&nbsp;przywołanej rozmowie Klary z&nbsp;„Dwutygodnika”: „Ty i&nbsp;Ja” to Teresa Kuczyńska i&nbsp;Roman Juryś.<br><br></p> <p><b>KCz</b>: Kuczyńska nie chce jednak o&nbsp;tym mówić. Juryś wyemigrował potem do Paryża, miał drugą rodzinę, a&nbsp;ona już do końca życia pozostała sama…</p> <p>Przywołana metafora została przedstawiona również graficznie. W&nbsp;każdej wypowiedzi pojawia się ten dualizm: z&nbsp;jednej strony mamy zachodnią literaturę, z&nbsp;drugiej – rzeczy, z&nbsp;jednej strony idee, z&nbsp;drugiej – przedmioty.<br><br></p> <p><b>Marek Zaleski (MZ)</b>: Chciałbym zacząć od osobistego wspomnienia: w&nbsp;1965 roku miałem 13 lat i&nbsp;nie czytywałem oczywiście Pereca. Zresztą powieść <em>Rzeczy </em>nie była wtedy przełożona na&nbsp;polski; przeczytałem ją wiele lat później. Miałem za&nbsp;to dostęp do pisma „Ty i&nbsp;Ja” – czytali je moi rodzice, moi znajomi, znajomi rodziców. Potem, kiedy byłem trochę starszy, poznałem kogoś, kto pracował w&nbsp;redakcji tego pisma. Ten świat nie był mi zatem obcy. Budzi mój sprzeciw używanie takich pojęć, jak „archiwum” czy „konsumeryzm” w&nbsp;stosunku do „Ty i&nbsp;Ja”. Archiwum kojarzy mi się z&nbsp;czymś, co jest zbiorem dokumentów posiadających stempel autentyzmu. Natomiast „Ty i&nbsp;Ja” to była witryna, aranżacja rzeczywistości sfabrykowanej, a&nbsp;nie dokument realnie istniejącej. Reguły, według których była ona fabrykowana, nie były regułami „gry konsumerystycznej”, a&nbsp;na pewno nie przede wszystkim – to była przede wszystkim gra w&nbsp;imię estetyzacji rzeczywistości. „Ty i&nbsp;Ja” pamiętam jako niewinne, idylliczne pismo, które starało się stworzyć rodzaj „nadrzeczywistości” w&nbsp;rzeczywistości siermiężnego PRL-u. Było ono witryną liryczno-surrealnego socjalizmu, białym pióropuszem epoki stabilizacji. „Ty i&nbsp;Ja” było nieocenione, bo&nbsp;proponowało chwilę oddechu: na&nbsp;pokazywane tam rzeczy nie patrzyło się jak na&nbsp;realne propozycje (nie były dostępne jako towary!) – to było nasze <em>musée imaginaire</em>, „kolaż” obrazków i&nbsp;pragnień. Pamiętajmy, że&nbsp;można było bezkarnie uprawiać rodzaj „brikolerki” (cynicznej, bo&nbsp;nie płaciło się za&nbsp;prawa autorskie) i&nbsp;trochę sobie upiększać rzeczywistość. Niewiele więcej można było robić, chcąc pozostać w&nbsp;Partii Umiarkowanego Postępu (w Granicach Prawa).<br><br></p> <p><b>KCz</b>: Sama Kuczyńska, pytana przez dziennikarki, czy „Ty i&nbsp;Ja” było w&nbsp;jakiś sposób polemiczne wobec systemu socjalistycznego, nie była w&nbsp;stanie odpowiedzieć twierdząco. Zapewne z&nbsp;powodu tej właśnie idylliczności, o&nbsp;której mówi Marek Zaleski.<br><br></p> <p><b>KB</b>: Myślę, że&nbsp;wszyscy zgodzimy się, że&nbsp;nie traktujemy „Ty i&nbsp;Ja” – struktury tego pisma – jako struktury archiwalnej, tylko jako swoiste „archiwum” wyobrażeń, doświadczenia wizualnego tamtego czasu w&nbsp;Polsce, ale też jako soczewkę, przez którą można spojrzeć na&nbsp;epokę, a&nbsp;także na&nbsp;problemy całkowicie współczesne. „Ty i&nbsp;Ja” nie jest zbiorem dokumentów, ale jest autentykiem – świadectwem czasu – a&nbsp;w rękach Tomasza staje się źródłem krytycznego namysłu nad ówczesnym obrazem i&nbsp;sposobem mitologizowania lat 60. Jednocześnie stanowi świetny kontekst dla wypowiedzi autokrytycznej czy autotematycznej. Tak się rzeczywiście składa, że&nbsp;w&nbsp;ciągu ostatnich dwóch lat wszyscy członkowie naszej grupy badawczej kupowali mieszkania, meble, przechodzili „na swoje”, urządzali się. To pozornie banalne odniesienie pociąga za&nbsp;sobą – będę się upierać – pewną szczególną refleksję nad stosunkiem do otoczenia, do rzeczy, nad relacją z&nbsp;drugą osobą, etc.<br><br></p> <p><b>AM</b>: Warto tu przywołać „Przekrój” i&nbsp;niedawne spotkanie z&nbsp;Wojciechem Plewińskim w&nbsp;Galerii Asymetria (w dyskusji brała udział również Justyna Jaworska)<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Należy zdać sobie sprawę, że&nbsp;ludzie pracujący w&nbsp;magazynach, o&nbsp;których mówimy, to była elita doświadczająca szeregu przyjemności w&nbsp;dość okropnej jednak rzeczywistości PRL. Opowieści czy też przepełnione nostalgią wspomnienia Plewińskiego są momentami dość zaskakujące pod&nbsp;tym względem i&nbsp;można je streścić w&nbsp;wyliczance: jazz, narty, skutery, dziewczyny, alkohol. Wszystko to jednak bez siermięgi, nawet bez stylowego, graniczącego z&nbsp;ubóstwem minimalu <em>Niewinnych czarodziejów</em>. W&nbsp;tym sensie te pisma ilustrują też styl życia establishmentu tamtych czasów, beneficjentów PRL, którzy mieli dostęp do rzeczy z&nbsp;Zachodu. Świetnie to wydobyły choćby ostatnie publikacje Klary Czerniewskiej i&nbsp;Maksa Cegielskiego, poświęcone Hannie i&nbsp;Gabrieli Rechowiczom<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. A&nbsp;przecież „Ty i&nbsp;Ja” było w&nbsp;tej hierarchii wyżej niż „Przekrój”… Ta sytuacja nie jest zatem neutralna.</p> <p>Całkowicie się z&nbsp;zgadzam z&nbsp;profesorem Zaleskim w&nbsp;kwestii „zapożyczeń”. Mam problem z&nbsp;tego rodzaju cynicznym manipulowaniem materiałem wizualnym i&nbsp;prezentowaniem go polskiej widowni. Starałem się wyobrazić sobie, co ludzie pracujący w&nbsp;redakcji właściwie o&nbsp;tym wszystkim myśleli, przeklejając i&nbsp;przefotografowując zachodnie żurnale. Znajduje to ciekawą kontynuację współcześnie: wiele osób – choćby wspomniany Krzysztof Gierałtowski – które w&nbsp;PRL zaczynało swoją fascynację fotografią i&nbsp;podobnymi magazynami, tworzyło potem system reklamy w&nbsp;III RP. Część z&nbsp;ludzi zaangażowanych w&nbsp;media PRL wyjechało i&nbsp;wróciło do Polski, np.&nbsp;Tadeusz Rolke, który jeździł za&nbsp;granicę podglądać tych samych fotografów, których zdjęcia były w&nbsp;„Ty i&nbsp;Ja” „kradzione”, przefotografowywane, przemontowywane. Rolke emigruje, zaś po&nbsp;powrocie funkcjonuje jako guru od estetyki lat 60., niemal jako polski Avedon. Jednak jego gwiazda w&nbsp;znacznej mierze świeci światłem odbitym. Osobnej analizy wymagałoby zjawisko współczesnej, często bezkrytycznej fascynacji estetyką „małej stabilizacji”, czemu dają wyraz choćby wystawy w&nbsp;Zachęcie (<em>Szare w&nbsp;kolorze</em>) i&nbsp;Muzeum Narodowym (<em>Chcemy być nowocześni</em>).<br><br></p> <p><b>KCz</b>: Dość wspomnieć, że&nbsp;Felicja Uniechowska, która redagowała cykl <em>Moje hobby to mieszkanie</em>, chodziła głównie po&nbsp;mieszkaniach znajomych – przedstawicieli, jakbyśmy dziś powiedzieli, klasy kreatywnej (aktorów, architektów, artystów, ale zapewne też i&nbsp;politycznych notabli, których żony zajmowały się urządzaniem domu). Sam redaktor naczelny „Ty i&nbsp;Ja”, czyli Roman Juryś, miał świetne partyjne koneksje – zanim stał się „naczelnym rewizjonistą”, pracował dla „Trybuny Ludu”...</p> <p>Ale związek ze współczesnością ma jeszcze jedną stronę: dzięki tym przedrukom łatwiej było potem zachodnim pismom wkroczyć na&nbsp;rynek III RP.<br><br></p> <p><b>AM</b>: To chyba trafna intuicja. Równie ciekawa jest kwestia powstałego wówczas i&nbsp;do dziś dnia pokutującego podziału sztuka – komercja (wbrew temu, co Katarzyna Bojarska powiedziała o&nbsp;„kulturze wizualnej”, która funkcjonuje raczej w&nbsp;dyskursie akademickim, kulturoznawczym). Właśnie w&nbsp;„Ty i&nbsp;Ja”, ale także w&nbsp;magazynie „Polska” i&nbsp;w innych magazynach eksportowych, wielu artystów miało tzw. fuchy, zdjęcia czy prace traktowane przez tych wybitnych twórców jako dobrze płatne zlecenia komercyjne. Dla nas często one są dziś najciekawsze, choć z&nbsp;ich punktu widzenia mogą być nieistotne wobec tworzonej przez nich równolegle sztuki. Oni (nie tylko fotografowie, jak Rolke, Kossakowski czy Dłubak, ale również artyści, jak Edward Krasiński czy nawet wspomniany Roman Cieślewicz) tego nie traktowali w&nbsp;kategoriach „sztuki” – wręcz się od tej działalności odżegnywali. Współcześnie mamy do czynienia z&nbsp;czytaniem kultury wizualnej PRL, które znosi ten podział, akceptowany przez samych autorów prac. Jednocześnie trudno jest dotrzeć do prac komercyjnych, bo&nbsp;część z&nbsp;nich po&nbsp;prostu została wyrzucona po&nbsp;użyciu na&nbsp;śmietnik, uznana za&nbsp;niezbyt wartościowe wyrobnictwo.</p> <p>Przychodzi mi na&nbsp;myśl jeszcze jeden, ciekawy chyba, wątek, który porusza wystawa Tomka. To nie jest pierwsza prezentacja „ożywiająca archiwa” – mamy tu zatem do czynienia z&nbsp;grą z&nbsp;poprzednikami, których prace były prezentowane w&nbsp;Fundacji Archeologia Fotografii w&nbsp;cyklu <em>Żywe archiwa</em>, ale także z&nbsp;artystami niezwiązanymi z&nbsp;Fundacją, jak Paulina Ołowska, którą fascynowały rzeczy, o&nbsp;których tu mówimy, czemu dała wyraz w&nbsp;pracach malarskich, kolażach i&nbsp;wystawie „Ameryka”. Te wystawy organizowane były również na&nbsp;dawnym „Zachodzie”, co wydaje mi się szczególnie perwersyjne. Warto przypomnieć: „Ameryka” było to pismo wydawane przez ambasadę Stanów Zjednoczonych, propagujące amerykański styl życia w&nbsp;PRL, co wydaje się kompletnym nonsensem, ale równocześnie jest totalnym nonsensem z&nbsp;punktu widzenia Ameryki lat 60. To, co pokazywane w&nbsp;tym piśmie, było tak kuriozalne i&nbsp;dziwaczne, że&nbsp;kiedy oglądają to osoby pamiętające ówczesne USA, doznają szoku poznawczego. Mamy tu do czynienia z&nbsp;całą serią pomyłek poznawczych. Magazyn „Polska” w&nbsp;wersji radzieckiej jest czymś innym niż w&nbsp;wersji anglojęzycznej i&nbsp;innych wersjach językowych – zawsze jednak promuje Polskę, której nie ma. „Ameryka” promuje Amerykę, której nie ma. A&nbsp;w tym wszystkim jest jeszcze „Ty i&nbsp;Ja”, które gdzieś szuka swego miejsca pomiędzy, próbując dać czytelnikom, którzy nie są żadnymi Perekowskimi konsumentami, namiastkę… – właściwie czego? Wystawy te mają zatem nie tylko sens osobisty czy wnętrzarski, ale – jak wspomniał Tomek – również krytyczny. Ten potencjał być może lepiej widać, kiedy pokazuje się tego typu ekspozycje za&nbsp;granicą, ponieważ w&nbsp;Polsce zbyt łatwo o&nbsp;tkliwą nostalgię za&nbsp;„małą stabilizacją” oraz za&nbsp;młodością naszych rodziców i&nbsp;dziadków.</p> <p>Podejmując wątek krytyczny, chciałbym otworzyć pole do dyskusji dotyczącej traktowania archiwów. Miałem nadzieję, że&nbsp;będzie tutaj Andrzej Leśniak, autor bardzo ciekawego artykułu <em>Gorączka archiwum w&nbsp;sztuce współczesnej. Symptomy choroby i&nbsp;propozycja terapii</em><sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>, na&nbsp;temat estetyzacji archiwów – formy, która staje się konwencją. To jest moim zdaniem uzasadniona diagnoza „choroby”. Wydaje mi się, że&nbsp;nastał dobry moment, by przemyśleć ten problem już na&nbsp;chłodno, bez gorączkowych ekscytacji. Wiemy, że&nbsp;możemy dość skutecznie – „efektywnie i&nbsp;efektownie”, jak pisze Leśniak – ożywiać archiwa, ale niekoniecznie nas to prowadzi – i&nbsp;niekoniecznie musi prowadzić – w&nbsp;stronę refleksji krytycznej. Warto tę obawę rozważyć w&nbsp;kontekście przyszłych prac Fundacji.</p> <p>Podam jeszcze przykład osoby, która eksploatuje estetykę PRL-owskich pism <em>lifestyle’owych.</em> Myślę o&nbsp;Sławomirze Elsnerze, który chyba z&nbsp;racji rodzinnych korzeni bardzo lubi „Panoramę” i&nbsp;inne regionalne magazyny śląskie z&nbsp;tamtych lat. Elsner często w&nbsp;swojej sztuce, hiperrealistycznym malarstwie, rysunku, fotografii, posługuje się wycinkami prasowymi, które przetwarza. Element krytyczny – który u&nbsp;Tomka Szerszenia pojawia się za&nbsp;sprawą Pereca, choć jest on słabo wyczuwalny, zdominowany przez fascynację – w&nbsp;ogóle się tam nie pojawia, nawet w&nbsp;warstwie komentarza odautorskiego. W&nbsp;tym sensie „krytyczny potencjał” nie musi być uzasadnieniem dla tego typu prac i&nbsp;wystaw. Mam wrażenie, że&nbsp;Elsner, Ołowska, ale także i&nbsp;Tomek Szerszeń, nie są zainteresowani krytyką tego tematu i&nbsp;estetyki, lecz są nimi autentycznie zafascynowani.<br><br></p> <p><b>KCz</b>: Interesuje mnie krytyczny wydźwięk samego nagrania. Słuchając go, miałam wrażenie dużego kontrastu między kultem nowoczesności a&nbsp;tym nagromadzeniem rzeczy: ta wyliczanka trąci myszką – tu jest kolejny rozdźwięk…<br><br></p> <p><b>KL</b>: Zgadzam się, że&nbsp;krytyka Andrzeja Leśniaka jest trafiona. Oczywiście rozumiem też, że&nbsp;denerwująca jest sytuacja, w&nbsp;której pojawia się zjawisko dość powszechne. To jednak z&nbsp;czegoś wynika, to nie jest tylko kwestia mody, że&nbsp;bardzo wielu artystów odnosi się do historii, do materiałów mniej lub bardziej archiwalnych bez ortodoksyjnego pojmowania archiwum. Jedni robią to lepiej, drudzy gorzej, ale to znak naszych czasów. Żyjemy w&nbsp;takim momencie, w&nbsp;którym dla wielu osób historia jest ważna.<br><br></p> <p><b>JJ</b>: W&nbsp;teatrze jest podobnie...<br><br></p> <p><b>KL</b>: Tę trzecią falę „archiwalnej gorączki”, o&nbsp;której mówimy od jakiegoś czasu, możemy różnie oceniać, ale ona musi wybrzmieć. Tym bardziej ciekawa w&nbsp;tym kontekście jest interdyscyplinarność, to przemieszanie, o&nbsp;którym była już mowa. Było to bardzo wyraźne podczas zeszłorocznej sesji <em>Archiwum jako projekt</em>, podobnie zresztą jak na&nbsp;sesji z&nbsp;2009 roku, <em>Archiwalna gorączka. Archiwa współczesnej historii i&nbsp;sztuki w&nbsp;Polsce po&nbsp;1989 roku, </em>którą zrobiłyśmy z&nbsp;Luizą Nader. Próba przemieszania różnych perspektyw, próba wciągnięcia trochę kostycznych archiwistów w&nbsp;interakcję z&nbsp;artystami i&nbsp;szeroko pojmowaną humanistyką, wzbogaca sposób myślenia o&nbsp;archiwach i&nbsp;ich dzisiejszym funkcjonowaniu, czyli wspomaga odczytywanie historii. To rodzaj eksperymentu, czegoś „w ruchu”. Być może celem „trzeciej fali” nie jest krytyka, tylko właśnie pobudzenie do ruchu. Tak jest w&nbsp;przypadku cyklu <em>Żywe archiwa</em>, do którego ja sama, w&nbsp;drugim roku jego trwania, jestem dość krytycznie nastawiona (planujemy w&nbsp;przyszłym roku już zakończenie go już w&nbsp;nieco zmienionej formie). W&nbsp;tym sensie być może <em>Żywe archiwa</em> powinny się nazywać <em>Archiwa w&nbsp;ruchu</em>… Zaproszenie artysty do pracy nad archiwami ma sprowokować dyskusję, stworzyć możliwość refleksji i&nbsp;spojrzenia na&nbsp;temat w&nbsp;inny sposób – niekoniecznie historyczny, ale też nie na&nbsp;siłę krytyczny. Nie mam wrażenia, że&nbsp;praca Tomka jest krytyczna, ale nie wiem, czy jest to potrzebne. Te kolaże nam się podobają, bo&nbsp;są estetyczne i&nbsp;niech tak będzie – miejmy trochę przyjemności!<br><br></p> <p><b>TS</b>: Broniłbym jednak wymiaru krytycznego. Przede wszystkim w&nbsp;kontekście wybranych przeze mnie wypisów, które są – moim zdaniem – miażdżące. W&nbsp;pozostałej części wystawy rzeczywiście możemy mówić o&nbsp;pewnej oscylacji między fascynacją a&nbsp;intencją krytyczną. Ta nieokreśloność ma, moim zdaniem, swe dobre strony.<br><br></p> <p><b>KB</b>: Nie ma krytyki bez fascynacji: by coś żywo skrytykować, trzeba dać się temu uwieść. Pomyślmy na&nbsp;chwilę o&nbsp;książce Pereca. <em>Rzeczy </em>są w&nbsp;istocie autosatyrą, to portret pokolenia – ale i&nbsp;autoportret. Dużo w&nbsp;tej narracji złośliwości, satyra bywa niekiedy bardzo ostra, ale jest tam też pewna, powiedziałabym, czułość. Książkę tę, obok <em>Blanche ou l'oubli </em>Louisa Aragona, uważa się za&nbsp;wariację na&nbsp;temat <em>Szkoły uczuć </em>Gustava Flauberta (ze szczególnym uwzględnieniem wątku iluzji).<br><br></p> <p><b>KL</b>: Chciałabym odnieść się do „przechwycenia” i&nbsp;namiastkowości, która się z&nbsp;tym łączy. Rozumiemy wszyscy, że&nbsp;czasopisma nie są archiwami, ale jest jedna kwestia, która wydaje mi się bardzo istotna. Można je traktować jako zbiór „dokumentów”, które same w&nbsp;sobie są obiektem badawczym, jednocześnie jednak coś o&nbsp;tej rzeczywistości mówią. Są oczywiście bardzo namiastkowe. Pamiętajmy jednak, że&nbsp;archiwa profesjonalne, państwowe, również są nieprawdopodobnie namiastkowe. Z&nbsp;założenia są holistyczne, jednak ich użytkownik nie jest w&nbsp;stanie dotrzeć do całościowej wiedzy na&nbsp;temat wybranego fragmentu przeszłości. Paradoksalnie, czasopismo, które jest pewnym wyborem – uwarunkowanym przez różne kwestie, wyrywkowym, nierównym – może nam więcej powiedzieć o&nbsp;przeszłości niż archiwum z&nbsp;całą swą instytucjonalną strukturą. W&nbsp;Fundacji tworzymy archiwa na&nbsp;podstawie spuścizn po&nbsp;fotografach. Z&nbsp;przerażeniem zorientowałam się, że&nbsp;w&nbsp;tym, co można zobaczyć w&nbsp;naszej bazie danych – która ma być właśnie całościowa, dokładna, metodologiczna – użytkownik zewnętrzny może się kompletnie pogubić. Informacja, którą uzyska, nijak się ma do rzeczywistości – nie jest w&nbsp;stanie na&nbsp;tej podstawie odtworzyć odpowiedniego porządku rzeczy, bo&nbsp;wszystkie elementy są w&nbsp;takim archiwum równoważne, a&nbsp;w rzeczywistości nigdy tak nie jest.<br><br></p> <p><b>AM</b>: To jest temat, który Karolina Lewandowska porusza też w&nbsp;swojej pracy doktorskiej. Wielokrotnie rozmawialiśmy o&nbsp;tym na&nbsp;seminariach, jak można czytać z&nbsp;bazy danych tak, by nie otrzymać skrzywionego czy też zakłamanego obrazu rzeczywistości. Skądinąd – np.&nbsp;z&nbsp;rozmów z&nbsp;Dłubakiem – znamy przecież praktykę codzienną redaktora gazety w&nbsp;realiach PRL. Dobrze wiedział, że&nbsp;pewne rzeczy, tematy i&nbsp;obrazy musiały wypaść z&nbsp;magazynu, po&nbsp;prostu nie mogły publicznie zaistnieć. W&nbsp;magazynie „Press”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> jest wstrząsający artykuł o&nbsp;tym, jak ta spuścizna różnych redakcji (czyli to „prawdziwe”, materialne archiwum) jest traktowana. Dotyczy to nawet największych PRL-owskich gazet, jak „Trybuna Ludu”, „Życie Warszawy” czy „Exspress Wieczorny”. Ich archiwa gdzieś przepadły lub są w&nbsp;stanie większego, lub mniejszego rozproszenia. Niekiedy magazynuje się je, ale w&nbsp;sposób daleki od standardów archiwalnych; czasem przekazywano je do odpowiednich instytucji, jednak leżą tam odłogiem. Dziennikarze i&nbsp;redaktorzy, którzy pracowali w&nbsp;tych tytułach, zwracają uwagę na&nbsp;szczególny porządek tych archiwów z&nbsp;epoki przedkomputerowej. Zauważają, że&nbsp;przede wszystkim utracony został klucz, który pozwalał się po&nbsp;tych zbiorach poruszać. Pewien spójny system zamienił się – nawet jeśli została zachowana masa dokumentalna – w&nbsp;przypadkowy zbiór. Nie wiadomo już dlaczego tak, a&nbsp;nie inaczej systematyzowano materiał, dlaczego właśnie te materiały, a&nbsp;nie inne archiwizowano i&nbsp;czemu to służyło. Odszyfrowanie tego jest pracą dużo bardziej żmudną niż ratowanie wycinków. Być może ktoś podejmie się tego w&nbsp;przyszłości. My jesteśmy dziś w&nbsp;innym punkcie. W&nbsp;tym sensie nie cofam mojej krytyki wystawy i&nbsp;działań Fundacji, ale mógłbym spróbować ją przeformułować: wiemy już jak „ożywić” na&nbsp;moment archiwa, ale nie wiemy, co z&nbsp;nimi zrobić po&nbsp;tym ożywieniu – przytłoczeni perspektywą systematycznej pracy z&nbsp;archiwami rozumianymi mniej metaforycznie, bardziej dosłownie.<br><br></p> <p><b>MZ</b>: W&nbsp;tej perspektywie „Ty i&nbsp;Ja” może być czytane jako archiwum „małej stabilizacji”. To temat dla historyka idei, świetny dokument próby zainstalowania się w&nbsp;„nierzeczywistości”, w&nbsp;„świecie bardziej atrakcyjnym” lizanym przez szybę. Służyć może też oczywiście jako archiwum, dla kogoś piszącego o&nbsp;wtórności, imitacyjności kultury polskiej: przy całej inwencji i&nbsp;wspaniałości ludzi, którzy tam pracowali, jednak szli oni całkiem na&nbsp;skróty, bezkarnie i&nbsp;beztrosko używali materiału, aranżując go w&nbsp;taki sposób, w&nbsp;jaki tylko mieli ochotę. Wrażenie imitacyjności czy też wtórności jest z&nbsp;pewnością bardzo mocne, kiedy patrzymy na&nbsp;przykład na&nbsp;kolaże i&nbsp;plakaty Sawki, na&nbsp;brytyjskie prace pop-artowe i&nbsp;psychodeliczne, animacje z&nbsp;<em>Yellow Submarine</em>, okładki płyt, plakaty filmów Terry'ego Gilliama, czyli Monty Pythona. Co nie znaczy, oczywiście, że&nbsp;„Ty i&nbsp;Ja” nie miało swojej wartości i&nbsp;znaczenia. Miało ogromne!<br><br></p> <p><b>AM</b>: Podkreśliłbym też jednak tę przedziwną hybrydyczność tego pisma i&nbsp;podobnych do niego tytułów. Świetnie to wydobyła właśnie Paulina Ołowska, umiejętnie grając z&nbsp;ideą peryferyjności tej estetyki…<br><br></p> <p><b>KCz</b>: To przywilej niebycia w&nbsp;centrum…<br><br></p> <p><b>MSz</b>: Chciałabym podjąć inny wątek – ponieważ pierwszy kontekst teoretyczny, który przyszedł mi na&nbsp;myśl w&nbsp;kontekście wystawy Tomka Szerszenia, ale też samego pisma „Ty i&nbsp;Ja”, to badania nad kulturą materialną, w&nbsp;Polsce nazywane również antropologią rzeczy. Tę perspektywę sformułowano po&nbsp;raz pierwszy pod&nbsp;koniec lat 80.; czerpie ona oczywiście pełnymi garściami z&nbsp;Marksa i&nbsp;Benjamina. W&nbsp;1986 roku ukazał się tom <em>The Social Life of Things. Commodities in Cultural Perspective</em> pod&nbsp;redakcją Arjuna Appaduraia. Proponuje on zajęcie się życiem rzeczy – badaniem mechanizmów produkcji, dystrybucji i&nbsp;konsumpcji określonych przedmiotów, procesów nadawania wartości rzeczom, ich fetyszyzowania, a&nbsp;także sposobu konstruowania tożsamości (społecznej, etnicznej, klasowej) za&nbsp;pośrednictwem przedmiotów. To podejście stosuje dziś wielu badaczy. Ciekawym obrazem teoretycznym wydaje mi się propozycja amerykańskiego badacza Billa Browna, który w&nbsp;jednej ze swoich książek<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup> przywołuje rozpowszechniony w&nbsp;kulturze motyw dziecka rozkręcającego zabawkę w&nbsp;poszukiwaniu istoty rzeczy. Z&nbsp;perspektywy dorosłych, dzieci, które rozkładają przedmioty na&nbsp;części i&nbsp;w nich grzebią, zachowują się irracjonalnie – racjonalny dorosły człowiek wie, że&nbsp;przedmiot służy czemuś określonemu, że&nbsp;jest raczej funkcjonalną „powierzchnią” niż czymś do rozgrzebania. Brown proponuje jednak, żeby pójść za&nbsp;tą irracjonalnością, za&nbsp;tym dziecięcym gestem. Podpowiada serię pytań badawczych, które można zadawać, zajmując się materialnością: źródłem jakich fantazji są przedmioty; jakie pragnienia w&nbsp;nas budzą; jakie są mechanizmy nadawania im wartości; dlaczego rozmawiamy ze swoimi przedmiotami; czy nasza skłonność do nadawania im sprawczości wynika z&nbsp;chęci zrzucenia odpowiedzialności na&nbsp;świat materialny...</p> <p>Ta perspektywa wydaje mi się ciekawa, ale – jak wynika z&nbsp;tej dyskusji – jest ona niewystarczająca, na&nbsp;przykład do badania pisma „Ty i&nbsp;Ja”. Tutaj można zatem uruchomić perspektywę kultury wizualnej: w&nbsp;pewnym sensie przedmioty w&nbsp;„Ty i&nbsp;Ja”, ale też w&nbsp;świecie czytelników „Ty i&nbsp;Ja”, funkcjonują jedynie jako obrazy. Można oczywiście dyskutować o&nbsp;tym, w&nbsp;jakim stopniu te towary były dostępne, ale wydaje się, że&nbsp;najbardziej luksusowe z&nbsp;nich – te, o&nbsp;których pisze Perec w&nbsp;<em>Rzeczach</em>, te, które Tomek reprodukuje na&nbsp;swoich kolażach – były zasadniczo niedostępne i&nbsp;funkcjonowały jak niemal idealne fetysze. Ciekawi mnie, czy te obrazy prowokowały pragnienia konsumpcyjne, czy raczej wypełniały pewną istniejącą pustkę. Jakiego rodzaju to są pragnienia – czy dotyczyły tych konkretnych towarów, czy raczej było to pragnienie samej konsumpcji?</p> <p>Przygotowuję teraz rozdział doktoratu poświęcony transformacji, a&nbsp;konkretnie nowym wzorom wizualizowania dostatku i&nbsp;luksusu w&nbsp;Polsce lat 90. W&nbsp;tym sensie cenna była dla mnie ta wystawa i&nbsp;wywiad Klary Czerniewskiej z&nbsp;Teresą Kuczyńską: wydaje mi się, że&nbsp;badając „Ty i&nbsp;Ja”, ale też bardziej ogólnie – obieg obrazów przedstawiających towary i&nbsp;różne modele konsumpcji – możemy pokusić się o&nbsp;napisanie swoistej „historii pragnień konsumpcyjnych”. To nie jest tak, że&nbsp;w&nbsp;latach 90. rzeczy, które zaczynają napływać bardzo intensywnie, trafiają w&nbsp;próżnię: one trafiają na&nbsp;już przygotowany grunt. Przygotowały go również inne pisma – w&nbsp;tym sensie warto zastanowić się nad pytaniem Justyny Jaworskiej o&nbsp;to, kto te pisma czytał, w&nbsp;jakim stopniu były one dostępne. Przygotowały go też obrazy takie jak <em>Dynastia</em>, emitowana przez TVP od 1990 roku, pewnie dostępna wcześniej w&nbsp;obiegu VHS, ale też telenowele latynoamerykańskie... Te przedstawienia kształtują pewne wyobrażenia o&nbsp;tym, jak powinny urzeczywistniać się takie abstrakcyjne pojęcia jak luksus, dostatek itd.<br><br></p> <p><b>KB:</b> Pozostaje niezwykle istotne pytanie: czy mówimy tu o&nbsp;pragnieniu rzeczy czy o&nbsp;pragnieniu obrazów rzeczy? Czy dzisiaj kupujemy „kolorowe pisma” po&nbsp;to, żeby je oglądać, bo&nbsp;samo oglądanie to już niejako branie w&nbsp;posiadanie? Co oznacza decyzja, by te „piękne” bardziej niż użytkowe przedmioty umieścić w&nbsp;naszym otoczeniu? Tu niesłychanie istotna wydaje się relacja między użytecznością przedmiotów a&nbsp;ich rolą jako obiektów wizualnych czy estetycznych.</p> <p>Na koniec chciałabym powrócić do kilku wątków, które pojawiły się w&nbsp;dyskusji i&nbsp;połączyć je. Chodzi mi przede wszystkim o&nbsp;dwie kwestie: kiedy to, co jest elementem kultury wizualnej, przenika do sztuki i&nbsp;na jakich prawach, a&nbsp;także o&nbsp;to, za&nbsp;pomocą jakich narzędzi możemy opisywać powszechną dziś praktykę artystyczną polegającą na&nbsp;sięganiu do dzieł artystów z&nbsp;przeszłości i&nbsp;do zasobów kultury wizualnej w&nbsp;ogóle – jakie są warunki takich praktyk, ich wymiar etyczny, polityczny, a&nbsp;także z&nbsp;jakimi innymi procesami kulturowymi można tę praktykę połączyć.<br><br></p> <p><b>JJ</b>: Nie traciłabym z&nbsp;widoku aspektu środowiskowego. Świetnym przykładem jest wspomniana rubryka z&nbsp;„Ty i&nbsp;Ja”, zatytułowana <em>Moje hobby to mieszkanie</em>, prezentująca mieszkania warszawskiej inteligencji, głównie artystów z&nbsp;kręgów towarzyskich autorki rubryki. Te mieszkania były do siebie zaskakująco podobne, przy pretensji do artystycznej „atmosfery” – dość jednak ubogie. Zastanawiałam się, czy oni nie wyczerpią możliwości środowiska, czy starczy im mieszkań do pokazania... Ten swoisty solipsyzm „Ty i&nbsp;Ja” staje się tu widoczny.<br><br></p> <p><b>MSz</b>: Projekt Tomka wydał mi się o&nbsp;tyle krytyczny, o&nbsp;ile pokazuje pewną fałszywą opozycję między Wschodem i&nbsp;Zachodem – zestawiając Pereca z&nbsp;„Ty i&nbsp;Ja”, flirtując z&nbsp;tym zestawieniem, wydobywa coś istotnego, pewne ogólne mechanizmy funkcjonowania produktów jako fetyszy.<br><br></p> <p><b>KB</b>: Jeśli rzeczywiście jest tak, jak sugerował Marek Zaleski, że&nbsp;„Ty i&nbsp;Ja” tworzyło taką sztuczną nad-rzeczywistość, świat niedostępny, to mamy w&nbsp;takim razie do czynienia z&nbsp;jeszcze silniejszym, „doskonałym” niejako pragnieniem – skierowanym w&nbsp;absolutną niemożność.<br><br></p> <p><b>KCz</b>: Jeszcze taka uwaga: w&nbsp;pierwszych „Ty i&nbsp;Ja” była rubryka <em>Zrób sobie sama</em> – pierwsze lekcje szycia, wykroje, dopiero później pojawiły się przedruki zagranicznych sesji modowych.<br><br></p> <p><b>JJ</b>: Były też porady seksuologiczne – to miało pewien wymiar emancypacyjny.<br><br></p> <p><b>MZ</b>: Ale dotyczyło to „warszawki”…<br><br></p> <p><b>KB</b>: Nie poruszyliśmy zupełnie kwestii tego, jak dziś wygląda nasz stosunek do lat 60.: czy rzeczywiście jest on nostalgiczny? Warto pamiętać, że&nbsp;końcówka tego okresu była naprawdę mroczna.<br><br></p> <p><b>TS</b>: Zresztą po&nbsp;1968 roku to pismo całkowicie siada.<br><br></p> <p><b>KCz</b>: A&nbsp;może nam się wydaje, że&nbsp;ono siada, ponieważ jesteśmy pod&nbsp;wielkim wpływem atrakcyjności lat 60. i&nbsp;właściwej im estetyki? Tymczasem ona się kończy, ale zaczyna się coś nowego, równie fascynującego.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a><sup></sup> „Świat jako archiwum. Krytyczne modele historyczności”, projekt badawczy realizowany w IBL PAN przez zespół: Katarzyna Bojarska, Paweł Mościcki, Krzysztof Pijarski, Tomasz Szerszeń, finansowany z programu Ministra Nauki i Szkolnictwa Wyższego „Narodowy Program Rozwoju Humanistyki” w latach 2012–2014.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Por. Teresa Kuczyńska, <em>Pragnienie rzeczy (rozmawia Klara Czerniewska)</em>, „Dwutygodnik.com” 202, nr 84, <a href="http://www.dwutygodnik.com/artykul/3649-pragnienie-rzeczy.html" target="_blank" rel="noopener">http://www.dwutygodnik.com/artykul/3649-pragnienie-rzeczy.html</a>, data dostępu: 18 stycznia 2013.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Michel Foucault, <em>Archeologia wiedzy</em>, przeł. A. Siemek, Państwowy Instytut Wydawniczy, Warszawa 1977, s. 165.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Panel dyskusyjny towarzyszący wystawie „Kulisy «Przekroju»” w warszawskiej Galerii Asymetria, 11 października 2011.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Por. Max Cegielski, <em>Mozaika. Śladami Rechowiczów</em>, Wydawnictwo WAB, Warszawa 2011; Klara Czerniewska, <em>Gaber i Pani Fantazja. Surrealizm stosowany</em>, Wydawnictwo 40 000 Malarzy, Warszawa 2011.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Andrzej Leśniak, <em>Gorączka archiwum w sztuce współczesnej. Symptomy choroby i propozycja terapii</em>,<em></em> „Kultura Współczesna” 2011, nr 4 (70).</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Jerzy Sadecki, <em>Roztrwoniona pamięć prasy</em>, „Press” 2012, nr 6, s. 52–54.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Por. Bill Brown, <em>A Sense of Things: The Object Matter of American Literature</em>, University of Chicago Press, Chicago 2004. Zob. <u>tłumaczenie wstępu książki</u> w tym numerze „Widoku” (2013, nr 1).</p></div>
+
+				
+	<div class="m-doi" style="margin-bottom: 2em;">
+		<a class="c-issue-toc__article-collapse-btn" role="button" data-toggle="collapse" href="#collapseDoi1337" aria-expanded="false" aria-controls="collapseDoi1337" data-lexicon-show="" data-lexicon-hide="">
+			DOI
+		</a>
+		<div class="c-issue-toc__article-collapse collapse" id="collapseDoi1337">
+			<div class="c-issue-toc__article-collapse-inner">
+				<div class="m-doi__content u-typo">
+	<a href="https://doi.org/10.36854/554433" target="_blank">https://doi.org/10.36854/554433</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/ty.-ja.-rzeczy.-swiat-jako-archiwum.-krytyczne-modele-historycznosci" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Freud Museums | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/power-of-women/freud-museums">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Freud Museums | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Freud Museums | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/power-of-women/freud-museums">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Freud Museums | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #715c56 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #715c56 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #715c56 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #715c56 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #715c56 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #715c56 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #715c56 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #715c56 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(113,92,86,0.8) !important; */
+			/* background-color:#715c56 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(113,92,86,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#715c56 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(113,92,86,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#715c56; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(113,92,86,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(113,92,86,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#715c56 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#715c56 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#715c56 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1877 parent-id-1840">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1835" data-selected-issue-color="#715c56" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2019/23-sila-kobiet#toc">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2019/23-sila-kobiet/freud-museums">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/power-of-women#toc">23</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/power-of-women/freud-museums?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Freud Museums: Art, Materiality, and Psychoanalysis</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/power-of-women/freud-museums?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=607">Agnieszka Więckiewicz</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <ul> <li><b>Joanne Morra,<em> Inside&nbsp;the Freud Museums: History, Memory and Site-Responsive Art</em>. London–New York: I. B. Tauris, 2017</b></li> </ul> <p><br><br></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/wieckiewicz_morra/morra_okladka-1920x-7e5.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/wieckiewicz_morra/morra_okladka-330x-aa4.jpg 330w,assets/cache/images/issues/2019/23/wieckiewicz_morra/morra_okladka-660x-e13.jpg 660w,assets/cache/images/issues/2019/23/wieckiewicz_morra/morra_okladka-768x-e41.jpg 768w,assets/cache/images/issues/2019/23/wieckiewicz_morra/morra_okladka-1320x-99d.jpg 1320w" src="assets/cache/images/issues/2019/23/wieckiewicz_morra/morra_okladka-660x-e13.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p></p> <p>Does psychoanalysis shed light on art and artistic practices? Or does the artwork itself perhaps reveal hidden and yet unknown meanings of psychoanalysis? <em>Inside the Freud Museums: History, Memory and Site-Responsive Art </em>by Joanne Morra draws on the parallels between&nbsp;psychoanalytic theory and different processes of artistic creation. The author asks about&nbsp;the connection between&nbsp;the consulting room –&nbsp;the proper space of psychoanalytic practice –&nbsp;and the art gallery, in order to describe the ways in which the meaning of art displayed in places that&nbsp;were not thought relevant for&nbsp;its exhibition is changed. With&nbsp;the examination of two museums devoted to the life and work of Sigmund Freud –&nbsp;the Freud Museum in London and the Sigmund Freud Museum in Vienna –&nbsp;Morra shows how contemporary artistic interventions in these institutions have transformed their inner space. She also stresses the role of the artworks presented in the Freud museums in the destabilization of legitimized narratives concerning&nbsp;Freud, psychoanalysis, and its legacy. By juxtaposing the two museums, the author reflects on the politics of cultural institutions entirely devoted to the memory of a&nbsp;celebrated individual.</p> <p>As Morra points out, “the intervention of contemporary art into&nbsp;the personality museum, […] warrants a&nbsp;category of artistic practice.”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> The author is particularly interested in the works of art exhibited in a&nbsp;space not commonly associated with&nbsp;contemporary art. Thus, <em>Inside the Freud Museums </em>becomes a&nbsp;subjective catalogue of artworks that&nbsp;refer to theoretical problems within&nbsp;psychoanalysis. Placed inside&nbsp;the museum in London or in Vienna, they began to interfere with&nbsp;the history of psychoanalysis, as well as with&nbsp;the biography of its founder. Contemporary artistic interventions not only transformed these cultural spaces, but&nbsp;they themselves gained new meanings. In her analysis, Morra introduces the category of “site-responsive” art, which she describes as a&nbsp;means of “understanding the generative and reciprocal nature of this&nbsp;form of<b> </b>art intervention<b> </b>that is temporarily housed within&nbsp;a&nbsp;space that&nbsp;is not primarily meant for&nbsp;contemporary art.”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup> She thus conceptualizes the possibility of reinterpreting the museums’ narrative through&nbsp;the analysis of the artworks exhibited inside&nbsp;them.</p> <p><em>Inside the Freud Museums </em>guides its readers towards&nbsp;three different theoretical problems. Whereas the first two concern the specificity of the Freud museums, described as contrary examples of the personality museum,<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> the third is a&nbsp;proposition to rethink the image of psychoanalysis in the light of the contemporary art exhibitions that&nbsp;took place in both museums. In the following&nbsp;six chapters of her book, the author confronts selected aspects of the narrative presented in the Freud museums in London and Vienna with&nbsp;the artistic interventions. It is worth noting that&nbsp;in her argumentation, Morra relates psychoanalysis to contemporary art in an unconventional way: rather than&nbsp;understanding the artwork through&nbsp;psychoanalytic concepts, she searches for&nbsp;a&nbsp;more profound understanding of psychoanalytic theory read through&nbsp;art.</p> <p>Closely analyzing the convergence of Freud’s theory with&nbsp;contemporary artistic practices, the author aims to reinterpret the roles of both the artist and the psychoanalyst. Stressing the close relationship between&nbsp;these two occupations, Morra emphasizes that&nbsp;the process through&nbsp;which the work of art is made is imminently related to the continuously repeated practice of self-observation and self-analysis.<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> Just as art does not confine itself to the gallery space, the influence of psychoanalytic practice does not end in the consulting room. Arguing for&nbsp;the importance of psychoanalysis in contemporary culture, the author points out that: “our culture is steeped in psychoanalysis. Even when we leave the consulting room, pass through&nbsp;its surrounding environment and enter the outside&nbsp;world, we are still interpellated by it.”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> The conviction that&nbsp;psychoanalysis inevitably structures contemporary understandings of culture also reveals the ambivalence within&nbsp;Freud’s theory.</p> <p>By calling its influence a&nbsp;form of interpellation, Morra describes the role of psychoanalysis not only as influential but&nbsp;also as essentially repressive, and thus linked to authority.<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> However, her analysis of the site-responsive artworks shows that, due to art that&nbsp;interferes with&nbsp;different psychoanalytic concepts such as “working through,” “melancholy,” or “mourning,” psychoanalysis itself opens up to the possibility of reinterpretation.</p> <h2>Freud’s “hagiography” inside&nbsp;the personality museum</h2> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/wieckiewicz_morra/hp1-1920x-882.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/wieckiewicz_morra/hp1-330x-36c.jpg 330w,assets/cache/images/issues/2019/23/wieckiewicz_morra/hp1-660x-2d3.jpg 660w,assets/cache/images/issues/2019/23/wieckiewicz_morra/hp1-768x-b47.jpg 768w,assets/cache/images/issues/2019/23/wieckiewicz_morra/hp1-1320x-0cb.jpg 1320w" src="assets/cache/images/issues/2019/23/wieckiewicz_morra/hp1-660x-2d3.jpg" alt="" ></a>    <figcaption><p>The main entrance to the Freud Museum in London, Courtesy Freud Museum London</p></figcaption>   </figure>  </section><section class="u-typo">   <h2></h2> <p>The specificity of both Freud museums is based on their historical context. Sigmund Freud moved into&nbsp;his Viennese apartment at Berggasse 19 in 1891.<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> He lived there with&nbsp;his family for&nbsp;almost 47 years, wrote his psychoanalytic works, saw his patients, and hosted the meetings of the Wednesday Psychological Society in the early days of psychoanalysis. From&nbsp;1923, his daughter Anna Freud also worked at Berggasse 19 as a&nbsp;child therapist. After&nbsp;the annexation of Austria by the Third Reich in 1938, the Freud family was forced to flee Vienna. In March of the same year, they escaped to London, where Sigmund died shortly after&nbsp;the breakout of the Second World War.<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup></p> <p>In 1971 the Sigmund Freud Museum was founded in Vienna. The Freud Museum in London opened its doors to the public fifteen years later.<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> Although both are personality museums, they “tell two different stories, and manifest the polarities of the personality museum genre.”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup> Whereas the museum in London functions as a&nbsp;space of hagiography, the one in Vienna promotes a&nbsp;radically different understanding of the personality museum itself. Taking the example of the Freud Museum in London, the author reflects on the politics of the personality museum. She acknowledges that&nbsp;the principal aim of this&nbsp;type of institution is to provide a&nbsp;coherent narrative about&nbsp;a&nbsp;celebrated individual. The construction of a&nbsp;linear narrative becomes possible due to the conservation, classification, and presentation of objects acquired in order to strengthen the story told by the museum.</p> <p>This type of museum has been known since&nbsp;the latter half of the 19th century, and its popularity has grown since&nbsp;the 1970s.<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup> Founded in Britain, continental Europe, and the United States, personality museums became a&nbsp;target for&nbsp;tourists traveling to visit the homes of famous individuals. The desire to see the “authentic” space in which authors, artists, or politicians lived and worked reveals the other side of a&nbsp;longing to experience their alleged uniqueness.<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup> Morra argues that&nbsp;the staging of rooms inside&nbsp;the personality museum “was meant to evoke the sense that&nbsp;the authors had just recently put down&nbsp;their pen and left their desk, creating the sensation that&nbsp;although their physical body was absent, their aura reminded present.”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup> Therefore, the personality museum aims at fulfilling the voyeuristic desire to get to know the private, the intimate, and the hidden.</p> <p>Concerning the tragic history of the Freud family, Morra argues that&nbsp;both Freud museums are related to death and loss. On the one hand, the Viennese museum’s narrative emphasizes the history of Freud and his relatives traumatized by the Holocaust; on the other hand, it underlines the history of their forced migration, as well as Freud’s long-term illness.<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup> In this&nbsp;case, the personality museum falls into&nbsp;the condition of being a&nbsp;mausoleum, described by Morra as “a museum dedicated to the life and work of an individual who has died in the location being commemorated.”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup> Accordingly, the Freud Museum in London tries to present Freud’s apartment, above&nbsp;all his workroom, as being preserved exactly as he left it, shortly before&nbsp;his death. Thus, the museum presents itself as an institution brought to life in order to generate the memory of Freud and his family, as well as to transmit the legacy of psychoanalysis. The possibility of being inside&nbsp;the house at 20 Maresfield Gardens, where Freud lived and worked during&nbsp;the last years of his life, is designed to evoke an affective reaction in its visitors. The museum’s narrative compares the act of entering Freud’s house with&nbsp;meeting the founder<b> </b>of psychoanalysis “in person.” The objects displayed inside&nbsp;the rooms are staged in order to become a&nbsp;space of encounter. As the medium of Freud’s “aura,” they enforce the hagiographic narrative of the institution. The museum in London thus emerges as the true heir of the symbolic legacy of psychoanalysis. According to the author it becomes a&nbsp;tomb, where every selected and presented object is alleged to transmit “the touch”<b> </b>of its former owner. Due to the material presence of the things inside&nbsp;the rooms, the “authenticity” of the whole place is, or should be, acknowledged by its visitors.</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/wieckiewicz_morra/hp5_lo-1920x-5b7.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/wieckiewicz_morra/hp5_lo-330x-f99.jpg 330w,assets/cache/images/issues/2019/23/wieckiewicz_morra/hp5_lo-660x-434.jpg 660w,assets/cache/images/issues/2019/23/wieckiewicz_morra/hp5_lo-768x-865.jpg 768w,assets/cache/images/issues/2019/23/wieckiewicz_morra/hp5_lo-1320x-d47.jpg 1320w" src="assets/cache/images/issues/2019/23/wieckiewicz_morra/hp5_lo-660x-434.jpg" alt="" ></a>    <figcaption><p>Freud’s workroom in the Freud Museum in London, Courtesy Freud Museum London</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Referring to Theodor Adorno, the author emphasizes that&nbsp;the personality museum preserves objects as embodiments of the past.<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup> Therefore, the personality museum’s narrative is strengthened by the imagined relation between&nbsp;the displayed objects and their owner.<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup> In this&nbsp;light, the very practice of their preservation relates to death, understood as a&nbsp;state of unchangeability. Although the objects are present in the museum, their ontological status is entirely determined by their ability to tell something of the past. The visitors’ presence not only enlivens them, but&nbsp;also engages them in the infinite process of reinterpretation. Thus, the repeated practice of viewing the objects makes them alive and articulate. It should be noted that&nbsp;in Morra’s interpretation, the dynamics of the personality museum are described as being essentially dialectic. She interprets the Freud museums through&nbsp;their function as stabilizers of a&nbsp;linear narrative, as well as unique spaces “in which the viewers are granted access” to objects not originally intended to be seen by strangers.</p> <p>Besides creating a&nbsp;linear narrative, the Freud museums also aim to determine lines of thinking about&nbsp;Freud’s biography and the history of psychoanalysis. In this&nbsp;context the author argues: “The ways in which they narrate their histories and curate their spaces are forms of what Foucault has called a&nbsp;<em>dispositif</em>, their ideology.”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup> In this&nbsp;light, the museums’ narrative constitutes a&nbsp;discourse that&nbsp;constantly multiplies itself in a&nbsp;ceaseless desire to tell Freud’s history. Morra writes about&nbsp;the impact that&nbsp;the <em>dispositif </em>has had on the widespread image of psychoanalysis, relating it to the case of the Freud Museum in London.<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup></p> <p>Although the personality museum’s purpose is to reinforce the image of the “great individual” whose biography it narrates, the author suggests that&nbsp;both Freud museums renounce, at least partially, such a&nbsp;narrative. The author emphasizes that:</p> <blockquote>The founding of psychoanalysis as a&nbsp;therapeutic practice and theory is dependent upon&nbsp;those patients who visited Sigmund Freud: the women and men who sought him out to relieve the symptoms that&nbsp;made it difficult for&nbsp;them to function in their everyday lives. The history, memory, and legacy of psychoanalysis, all that&nbsp;followed on from&nbsp;Freud and what we call post-Freudian practice and theory, are also indebted to many more analysands and their analysts. These, too, resonate within&nbsp;the Freud Museums.<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup></blockquote> <p>Morra points out the influence of Freud’s patients on the development of psychoanalytic theory, as well as the impact of the post-Freudian period on the history of psychoanalysis in general. Thus, in the museums’ narrative, the image of “the genius” steps aside in order to reveal the history of psychoanalysis as a&nbsp;collective practice of theory.</p> <h2>Imagining psychoanalysis</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/wieckiewicz_morra/in_0043-1920x-a15.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/wieckiewicz_morra/in_0043-330x-9c5.jpg 330w,assets/cache/images/issues/2019/23/wieckiewicz_morra/in_0043-660x-019.jpg 660w,assets/cache/images/issues/2019/23/wieckiewicz_morra/in_0043-768x-aa7.jpg 768w,assets/cache/images/issues/2019/23/wieckiewicz_morra/in_0043-1320x-83f.jpg 1320w" src="assets/cache/images/issues/2019/23/wieckiewicz_morra/in_0043-660x-019.jpg" alt="" ></a>    <figcaption><p>Freud at his desk in Vienna (1938), Courtesy Freud Museum London</p></figcaption>   </figure>  </section><section class="u-typo">   <p>By trying to answer the question of how the Freud museums generate knowledge about&nbsp;psychoanalysis, Morra examines the audio-visual exhibition <em>Sigmund Freud: Home Movies 1930-1939</em>, permanently displayed in the Sigmund Freud Museum in Vienna and the Freud Museum in London. The exhibition features images of Freud and his family in private, daily-life situations. An intimate picture of the family emerges from&nbsp;the video, which is used by both institutions in order to re-enact the feeling of Freud’s presence. In this&nbsp;case, the “authenticity” of the personality museum is staged by the presentation of the photographic and video images. Morra, however, reaches towards&nbsp;artworks to point to the possibility of destabilizing this&nbsp;narrative. Starting with&nbsp;Claudia Guderian’s <em>Magic of the Couch </em>and Nick Cunard’s <em>Head Space: Photographs of Psychotherapeutic Environments</em> (both 2004), the author analyses different visual representations of the very place where psychoanalysis was conceived and first practiced. It should be noted that&nbsp;all representations of Freud’s working room have one principal source of inspiration: Edmund Engelman’s photographs of Berggasse 19. Engelman’s black-and-white images, above&nbsp;all the famous couch, came to determine the common idea of Freud’s consulting room. The photographs were taken in 1938, shortly before&nbsp;the fleeing of Freud’s family to London.</p> <p>The intention of Engelman’s project was to preserve the image of Freud’s Viennese apartment exactly as it was prior to this&nbsp;emigration. On this&nbsp;occasion he took pictures of Freud behind&nbsp;his desk, creating a&nbsp;convincing image of the founder of psychoanalysis working incessantly until&nbsp;the very last moment before&nbsp;leaving the apartment. Interestingly, the author does not relate the photographic documentation of Berggasse 19to the question of loss, which, she argues, marks both of the Freud museums.<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup> I&nbsp;would like&nbsp;to suggest, however, that&nbsp;Engelman’s documentation of Berggasse 19 can also be seen as a&nbsp;material sign of the inevitable loss related to the forced emigration of Freud’s family, and to the symbolic death of psychoanalysis in Vienna. The intention to document the apartment reveals the hidden desire to save&nbsp;a&nbsp;memory of psychoanalysis by preserving the image of the space where it was conceived and practiced. Thus, Freud’s staged posing in his workroom, in front of the camera, permitted the creation of the material evidence of the (forgone) existence of his legacy. The melancholy that, according to Freud “appears as a&nbsp;neurotic form of mourning,”<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup> resonates within&nbsp;Engelman’s photographs. Undoubtedly answering the need to keep something that&nbsp;had already been lost, the images, so scrupulously prepared with&nbsp;the involvement of Freud and his family, gave them the chance to remove the melancholy and reassure themselves that&nbsp;the Viennese apartment’s “aura” could be restaged under&nbsp;new conditions.</p> <h2>Artistic interventions inside&nbsp;the museums</h2> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/wieckiewicz_morra/hp3_lo-1920x-abe.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/wieckiewicz_morra/hp3_lo-330x-21d.jpg 330w,assets/cache/images/issues/2019/23/wieckiewicz_morra/hp3_lo-660x-e6e.jpg 660w,assets/cache/images/issues/2019/23/wieckiewicz_morra/hp3_lo-768x-a8b.jpg 768w,assets/cache/images/issues/2019/23/wieckiewicz_morra/hp3_lo-1320x-e32.jpg 1320w" src="assets/cache/images/issues/2019/23/wieckiewicz_morra/hp3_lo-660x-e6e.jpg" alt="" ></a>    <figcaption><p>Freud’s collection of antiquities as presented in the Freud Museum in London, Courtesy Freud Museum London</p></figcaption>   </figure>  </section><section class="u-typo">   <p><em>Inside the Freud Museums </em>includes analysis of numerous contemporary artworks displayed inside&nbsp;the museums, and how they redefined the space and opened new possibilities for&nbsp;understanding psychoanalysis. For&nbsp;example, Anne Deguelle’s intervention <em>Sigmund’s Rug</em> (2011), held at the Freud Museum in London, in particular its <em>Composite 5</em>,<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a> points to the suppressed history of medical and psychiatxric practices. Associations with&nbsp;the psychoanalytic couch, such as the abuse of the patient by the doctor, or the sexual connotations of treatment, turn visitors towards&nbsp;the question of gender, as well as to the affective relationship between&nbsp;the analyst and the analysand. By contrast, <em>Sigmund’s Rug</em> reflected on the problem of the Eurocentric image of the “primitive” in Freud’s writings.</p> <p>The psychoanalytic view of the “uncivilized other” became the main subject of Santiago Borja’s <em>Divan: Free-Floating Attention Piece</em>, presented in the London Freud Museum in 2011. The oriental rug, placed on the couch, evoked Freud’s fascination with&nbsp;the exotic objects that&nbsp;he used for&nbsp;inspiration. According to Joanne Morra, the installation’s role was to question crucial psychoanalytic concepts such as the evolutional character of human psychosexual development, compared by Freud to the process of civilization. Whereas the author acknowledges the involvement of psychoanalysis in the oppressive discourses of Freud’s time, she does not mention the ambivalence of the “uncivilized” figure in psychoanalytic theory. Freud was undoubtedly fascinated by the “primitive men” on whom he projected the merits, as well as the disadvantages, of civilization. Nevertheless, the popularity of anti-Semitic discourse and stereotypical images of the “uncivilized” Jew in fin-de-siècle Vienna seems to undermine the presupposition of Freud’s racism.<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup> Borja’s artwork, displayed near&nbsp;Freud’s collection of “exotic” antiquities, both placed inside&nbsp;the Jewish family’s former home, can be understood as the artist’s emphasis on the ambivalence of the image of the “Other” within&nbsp;psychoanalytic theory. In other words, although psychoanalysis was animated by the image of the “primitive,” for&nbsp;non-Jewish circles it existed as the creation of the “Other,” stereotyped within&nbsp;the anti-Semitic discourse of the time.<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup></p> <p>Leaving aside the question of anti-Semitism and psychoanalysis, the author returns to Freud’s collection of antiquities, which she interprets in the light of the exhibition <em>Andy Hope 1930 at the Freud</em>, which opened in 2010. In a&nbsp;fascinating manner Morra reflects on the influence the collection had on Freud and his writing practices. Pointing to his affection towards&nbsp;the acquired figurines, she sets aside the “oriental” context and asks about&nbsp;the importance to Freud’s creativity of the affects and feelings projected onto&nbsp;the collected items.<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup> At the exhibition, small sculptures by Andy Hope were conjoined not only with&nbsp;the psychoanalyst’s antiquities, but&nbsp;also with&nbsp;small representations of popular cultural heroes. Hence, Superman emerges near&nbsp;Freud’s Roman figurines representing Venus and Athena, which shifts them into&nbsp;“a contemporary cultural framework made of references to popular and mass culture.”<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup> Whereas placing the toys inside&nbsp;Freud’s collection revealed the joyful and “not serious” character of collecting itself, the curatorial work, which consisted of placing, replacing, combining, and removing the chosen figurines, can be seen as the re-enactment of Freud’s amusement with&nbsp;his own collection.</p> <h2>The materiality of psychoanalysis</h2> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/wieckiewicz_morra/in_0517-1920x-64d.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/wieckiewicz_morra/in_0517-330x-15b.jpg 330w,assets/cache/images/issues/2019/23/wieckiewicz_morra/in_0517-660x-017.jpg 660w,assets/cache/images/issues/2019/23/wieckiewicz_morra/in_0517-768x-8e5.jpg 768w,assets/cache/images/issues/2019/23/wieckiewicz_morra/in_0517-1320x-ef6.jpg 1320w" src="assets/cache/images/issues/2019/23/wieckiewicz_morra/in_0517-660x-017.jpg" alt="" ></a>    <figcaption><p>Etching of Sigmund Freud by Max Pollack from&nbsp;1914, Courtesy Freud Museum London</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The author points out that&nbsp;Ralph Freeman’s works <em>Empty Books II </em>(2002) and <em>Memorial II</em> (1999) are probably the best examples of the conjunction between&nbsp;the materiality of things and the history of psychoanalysis. In these constructions and collages the artist used old book covers, letters, and envelopes. That&nbsp;way he emphasized the importance of everyday writing practices, such as keeping a&nbsp;diary or exchanging correspondence, to Freud’s biography.<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup> Due to Freeman’s site-responsive artworks, the Freud Museum in London itself became a&nbsp;place where the artificial distinctions between&nbsp;the private (intimate writing practices) and the public (psychoanalytic practice and theory) began to blur. By presenting fragments of envelopes, the artist’s intervention inside&nbsp;the museum evoked the importance of correspondence practices for&nbsp;the development of psychoanalysis.</p> <p>In the last chapter of the book, Morra returns to the question of the differences between&nbsp;the museums in London and Vienna. Whereas in the first one finds a&nbsp;plethora of Freud’s possessions, the latter seems to be nearly empty. According to the author, the radical absence of Freud’s belongings makes the hagiographic narrative much more difficult to maintain. This&nbsp;emptiness is contrasted by “history and memory: both imagined and in the form of photographic documentation and facsimiles.”<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup> If the originals are not possible to acquire, “authenticity” must be achieved in another way; in this&nbsp;case by the photographs of the Viennese apartment taken before&nbsp;the family’s forced emigration.<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup></p> <p>The author takes this&nbsp;opportunity to question the personality museum’s politics of “authenticity.” As an example of a&nbsp;conceptual museum, the Freud Museum in Vienna does not re-enact the foregone presence of Freud; on the contrary, it is a&nbsp;reminder of the tragic fate of Freud’s legacy in Vienna. The rooms become the “real” sign of the history of psychoanalysis. Thus, the Viennese museum as a&nbsp;whole can be seen as a&nbsp;means of re-experiencing the disappearance of Freud’s theory after&nbsp;1939.<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup> Here, a&nbsp;hagiographic narrative seems impossible.</p> <h2>Conclusion</h2> <p>Joanne Morra’s work has been inspired by contemporary art, as well as by psychoanalytic theory. The author interprets a&nbsp;wide range of artistic practices through&nbsp;the light of their relation to Freud’s former spaces and his “science.” <em>Inside the Freud Museums </em>concentrates on three fundamental problems: the politics of the personality museum, the importance of the materiality of objects for&nbsp;such a&nbsp;museum’s narrative, and finally, site-responsive artistic interventions and their deconstructive potential. Combining her analysis of artworks with&nbsp;her reading of Freud’s writings and the historical context of the Freud museums, the author emphasizes the need to rethink Freudian psychoanalysis. Her interpretative strategy draws upon&nbsp;an interdisciplinary reflection on art, psychoanalysis, and contemporary curatorial practices. Thus, rather than&nbsp;providing an answer to how psychoanalytic theory can be interpreted today, her work opens it up for&nbsp;creative re-readings. Morra’s book encourages reflection on psychoanalysis across&nbsp;different media and various practices (analytical and artistic). Inspired, yet not overwhelmed by feminist, queer, or post-colonial critique, the author proposes thinking with&nbsp;art about&nbsp;Freud’s theory, its history, and the history of the man himself.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Joanne Morra, <em>Inside the Freud Museums: History, Memory and Site-Responsive Art</em> (London–New York: I. B. Tauris, 2017), 1.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Ibid., 2.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> The author defines the “personality museum” as a type of institution dedicated to the life and work of a famous individual, which is also a “complex site comprising spaces, objects and practices.” Ibid., 1.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Ibid., 62-70.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Ibid., 72.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Jean Laplanche, <em>Essays on Otherness</em>, trans. Luke Thurston (London–New York: Routledge, 1999), 214-233; Louis Althusser, “Ideology and Ideological State Apparatuses,” in: <em>Lenin and Philosophy and Other Essay</em>s, trans. Ben Brewster (London: New Left Books, 1971), 123-173.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Peter Gay, <em>Freud: A Life for Our Time</em> (New York–London: W. W. Norton &amp; Company, 2006), 103-104; Élisabeth Roudinesco, <em>Sigmund Freud en son temps et dans le nôtre</em> (Paris: Éditions du Seuil, 2014), 76.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Gay, <em>Freud</em>, 616-629, 650-651.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> For further reading about the foundation of both Freud museums, as well as about current exhibitions, see: <a href="https://www.freud-museum.at/en/ and https://www.freud.org.uk" target="_blank" rel="noopener">https://www.freud-museum.at/en/ and https://www.freud.org.uk</a> (accessed May 10, 2019).</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Morra, <em>Inside the Freud Museums</em>, 8.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Ibid., 1-3.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Ibid., 5-7.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Ibid., 4-5.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Only one of Freud’s five sisters survived the Holocaust – Adolphine, Regine, Maria, and Pauline were killed in Theresienstadt (Adolphine) and Treblinka II. Anna Bernays (Freud) emigrated to the United States in 1892. Ibid., 142-143.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Ibid., 9-10.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> The author refers to Theodor Adorno’s view, expressed in his essay “<em>Valéry Proust Museum,</em>” where he argues that: “The German word <em>museal</em> has unpleasant overtones. It describes objects in which the observer no longer has a vital relationship and which are in the process of dying. They owe their preservation more to historical respect than to the needs of the present. Museum and mausoleum are connected by more than phonetic association.” Theodor W. Adorno, <em>Prisms</em>, trans. Samuel and Shierry Weber (Cambridge, MA: The MIT Press, 1983), 173; Morra, <em>Inside the Freud Museums</em>, 10.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ibid., 10.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Ibid., 12; Michel Foucault, <em>Power/Knowledge: Selected Interviews and Other Writings</em><em>, 1972-1977</em>, ed. Colin Gordon (New York: Pantheon Books, 1980), 194-196.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Ibid., 12.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Ibid.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Ibid., 142-144, 150-160.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Sigmund Freud, “A Seventeenth-Century Demonological Neurosis”<em> </em>(1923), in: <em>The Standard Edition of the Complete Psychological Works of Sigmund Freud</em><em>, Volume XIX</em> (London: Hogarth Press, 1964), 86; See also: “Mourning and Melancholia”<em> </em>(1917), in: ibid., 237-258.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> In <em>Composite 5</em> one finds a detail of Holbein's painting of Henry VIII from 1537 combined with a reproduction of one of Freud’s oriental carpets and with photography presenting a woman enduring electroshock therapy.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> See more in: Sander Gilman, <em>Freud, Race, and Gender</em> (Princeton: Princeton University Press, 1993).</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Mrinalini Greedharry, <em>Postcolonial Theory and Psychoanalysis: From Uneasy Engagements to Effective Critiqu</em><em>e</em> (New York: Palgrave Macmillan, 2008), 1-14.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Morra, <em>Inside the Freud Museums</em>, 82-101.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Ibid., 85.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Ibid., 157.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Ibid., 8.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Ibid., 6.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Peter Gay, “Finis Austriae”, in: <em>Freud</em>, op. cit., 611-629.</p></div>
+
+				
+
+				
+	<div class="m-bibliography" style="margin-bottom: 2em;">
+		<a class="c-issue-toc__article-collapse-btn" role="button" data-toggle="collapse" href="#collapseSummary1877" aria-expanded="false" aria-controls="collapseSummary1877" data-lexicon-show="" data-lexicon-hide="">
+			Bibliography
+		</a>
+		<div class="c-issue-toc__article-collapse collapse" id="collapseSummary1877">
+			<div class="c-issue-toc__article-collapse-inner">
+				<div class="m-bibliography__content u-typo">
+	<p>Adorno, Theodor W. <em>Prisms</em>, trans. Samuel and Shierry Weber, Cambridge, MA: The MIT Press, 1983</p>
+<p>Althusser, Louis. “Ideology and Ideological State Apparatuses,” in: <em>Lenin and Philosophy and Other Essay</em>s, trans. Ben Brewster, London: New Left Books, 1971, 123-173.</p>
+<p>Foucault, Michel. <em>Power/Knowledge: Selected Interviews and Other Writings</em><em>, 1972-1977</em>, ed. Colin Gordon, New York: Pantheon Books, 1980</p>
+<p>Freud, Sigmund. “A Seventeenth-Century Demonological Neurosis”<em> </em>(1923), in: <em>The Standard Edition of the Complete Psychological Works of Sigmund Freud</em><em>, Volume XIX</em>, London: Hogarth Press, 1964</p>
+<p>Gay, Peter. <em>Freud: A Life for Our Time,</em> New York–London: W. W. Norton &amp; Company, 2006</p>
+<p>Gilman, Sander. <em>Freud, Race, and Gender,</em> Princeton: Princeton University Press, 1993</p>
+<p>Greedharry, Mrinalini. <em>Postcolonial Theory and Psychoanalysis: From Uneasy Engagements to Effective Critiqu</em><em>e</em>, New York: Palgrave Macmillan, 2008</p>
+<p>Laplanche, Jean. <em>Essays on Otherness</em>, trans. Luke Thurston, London–New York: Routledge, 1999</p>
+<p>Morra, Joanne. <em>Inside the Freud Museums: History, Memory and Site-Responsive Art,</em> London–New York: I. B. Tauris, 2017</p>
+<p>Roudinesco, Élisabeth. <em>Sigmund Freud en son temps et dans le nôtre,</em> Paris: Éditions du Seuil, 2014</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/power-of-women/freud-museums" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,184 @@
+.audioplayer-control,
+.audioplayer-time-container {
+  vertical-align: middle;
+}
+
+.audioplayer-control {
+  width : 68px;
+  height: 68px;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 0;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+  border-radius: 2px;
+}
+.audioplayer-control:active {
+  border-color: #77AD1A;
+}
+
+.audioplayer-control-play {background-image: url('../img/audioplayer/play_czarny.svg');}
+.audioplayer-control-play:active,
+.audioplayer-control-play.active {background-image: url('../img/audioplayer/play_bialy.svg');}
+
+.audioplayer-time-container {
+  display: inline-block;
+}
+
+.audioplayer-current-time {
+  display: inline-block;
+  width: 50px;
+  text-align: center;
+  vertical-align: middle;
+  color: $color_default;
+  font-size: 10px;
+}
+@-moz-document url-prefix() {
+  .audioplayer-current-time {
+    margin-top: -14px;
+  }
+}
+
+/* 
+* jplayer styles 
+*/
+
+.jp-no-solution {
+  display: none;
+}
+
+.audioplayer-song-slider--jplayer {
+  display: inline-block;
+  position: relative;
+  width: 300px;
+  height: 11px;
+  @media (min-width: $breakpoint_sm) {
+    margin-left : 50px;
+    margin-right: 50px;
+  }
+  &:before,
+  &:after {
+    position: absolute;
+    top: 3px;
+    display: block;
+    content: '';
+    width: 2px;
+    height: 10px;
+    background-color: $color_default;
+  }
+  &:before {
+    left: -2px;
+  }
+  &:after {
+    right: -2px;
+  }
+}
+
+@media all and (max-width: 1050px) {
+  .audioplayer-song-slider--jplayer {
+    width: 150px;
+  }
+}
+
+@media all and (max-width: 450px) {
+  .audioplayer-song-slider--jplayer {
+    width: 100px;
+  }
+}
+
+.audioplayer--jplayer .audioplayer-current-time {
+  vertical-align: baseline;
+}
+.audioplayer--jplayer .jp-controls {
+  display: inline-block;
+}
+.audioplayer--jplayer .jp-volume-controls {
+  height: 15px;
+}
+
+.jp-progress {
+  overflow: hidden;
+  background-color: transparent;
+}
+
+.jp-audio .jp-progress {
+  position: absolute;
+  top: 0;
+  height: 15px; 
+}
+
+.jp-audio .jp-type-single .jp-progress {
+  left: 0;
+  width: 100%;
+}
+
+.jp-seek-bar {
+  background: url("../img/audioplayer/jplayer/jplayer.parakeet.png") 0 -202px repeat-x;
+  width: 0px;
+  height: 100%;
+  cursor: pointer; 
+}
+
+.jp-play-bar {
+  background: url("../img/audioplayer/jplayer/jplayer.parakeet.png") 0 -218px repeat-x;
+  width: 0px;
+  height: 100%; 
+}
+
+/* The seeking class is added/removed inside jPlayer */
+.jp-seeking-bg {
+  background: url("../img/audioplayer/jplayer/jplayer.parakeet.seeking.png"); 
+  background-position: 0 -3px;
+  background-repeat: repeat-x;
+}
+
+.jp-volume-controls {
+  position: relative;
+  width: 50px;
+}
+
+.dropdown .jp-volume-controls {
+  width: 100px;
+}
+
+.jp-volume-bar {
+  position: absolute;
+  overflow: hidden;
+  background: url("../img/audioplayer/jplayer/jplayer.parakeet.png") 0 -245px repeat-x;
+  top: 6px;
+  left: 0;
+  width: 50px;
+  height: 15px;
+  cursor: pointer; 
+}
+
+.dropdown .jp-volume-bar {
+  left: 15px;
+  width: 100px;
+}
+
+.jp-volume-bar-value {
+  background: url("../img/audioplayer/jplayer/jplayer.parakeet.png") 0 -271px repeat-x;
+  width: 0px;
+  height: 15px; 
+}

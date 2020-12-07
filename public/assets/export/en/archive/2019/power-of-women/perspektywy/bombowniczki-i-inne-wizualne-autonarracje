@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Bombowniczki i inne wizualne autonarracje | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2019/23-sila-kobiet/bombowniczki-i-inne-wizualne-autonarracje">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Bombowniczki i inne wizualne autonarracje | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Bombowniczki i inne wizualne autonarracje | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2019/23-sila-kobiet/bombowniczki-i-inne-wizualne-autonarracje">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Bombowniczki i inne wizualne autonarracje | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #715c56 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #715c56 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #715c56 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #715c56 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #715c56 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #715c56 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #715c56 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #715c56 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(113,92,86,0.8) !important; */
+			/* background-color:#715c56 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(113,92,86,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#715c56 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(113,92,86,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#715c56; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(113,92,86,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(113,92,86,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#715c56 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#715c56 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#715c56 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1873 parent-id-1834">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1823" data-selected-issue-color="#715c56" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/power-of-women#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/power-of-women/bombowniczki-i-inne-wizualne-autonarracje">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2019/23-sila-kobiet#toc">23</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2019/23-sila-kobiet/bombowniczki-i-inne-wizualne-autonarracje?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Bombowniczki i inne wizualne autonarracje</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2019/23-sila-kobiet/bombowniczki-i-inne-wizualne-autonarracje?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/artystki/baumgart_bombers-1920x-a31.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/baumgart_bombers-330x-c73.jpg 330w,assets/cache/images/issues/2019/23/artystki/baumgart_bombers-660x-36e.jpg 660w,assets/cache/images/issues/2019/23/artystki/baumgart_bombers-768x-571.jpg 768w,assets/cache/images/issues/2019/23/artystki/baumgart_bombers-1320x-ad1.jpg 1320w" src="assets/cache/images/issues/2019/23/artystki/baumgart_bombers-660x-36e.jpg" alt="" ></a>    <figcaption><p>Anna Baumgart, <em>Bombowniczka</em>, 2004</p></figcaption>   </figure>  </section><section class="u-typo">   <h4>Anna Baumgart, Pola Dwurnik, Honorata Martin w&nbsp;rozmowie z&nbsp;Magdą Szcześniak</h4> <p><b>Magda Szcześniak</b>: Kontekstem dla naszej rozmowy jest prezentacja malarstwa Marii Lassnig w&nbsp;Polsce, malarstwa głęboko zakorzenionego w&nbsp;kobiecym doświadczaniu XX wieku, a&nbsp;jednocześnie zwróconego ku ciału i&nbsp;autoobserwacji. Chciałabym spytać o&nbsp;wasze zdanie na&nbsp;temat wizualnych autobiografii i&nbsp;autoportretów. Czy w&nbsp;czasach, kiedy codziennie zalewa nas fala „obrazów siebie”, a&nbsp;rejestrowanie aktywności własnego ciała wydaje się chlebem powszednim, a&nbsp;może nawet obsesją, sztuka posługująca się tymi narzędziami może nam coś jeszcze zaoferować?</p> <p><b>Anna Baumgart</b>: Ja czuję się przytłoczona zalewem <em>selfie</em>; niezależnie od tego, czy mówimy o&nbsp;świadomym portrecie artystycznym, czy przypadkowej fotce. Jednocześnie jednak zastanawiam się, czym te obrazy są dla mnie i&nbsp;co znaczą. Zafrapowało mnie, kiedy kobieca postać z&nbsp;serialu <em>Uczciwa kobieta</em>, bogata Żydówka zgwałcona przez Palestyńczyka, zmuszona do urodzenia jego dziecka, mówi coś takiego: „Zostałam zgwałcona, urodzę to dziecko, ale to nie jestem ja. To nie jestem ja, to jest moja biologia. Ja jestem tym, co myślę, co wypowiadam, jak zarządzam moją firmą”. To coś zupełnie innego niż, powiedzmy, totalne zjednoczenie się z&nbsp;ciałem, jakie uprawia Lena Dunham, reżyserka i&nbsp;jedna z&nbsp;głównych bohaterek serialu <em>Dziewczyny</em>. Dunham całkowicie polega na&nbsp;swoim ciele, jest swoim ciałem. Zastanawiam się wciąż, po&nbsp;której stronie się opowiedzieć, jak się do tego ustosunkować.</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/artystki/martin1-1920x-7c3.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/martin1-330x-663.jpg 330w,assets/cache/images/issues/2019/23/artystki/martin1-660x-3e0.jpg 660w,assets/cache/images/issues/2019/23/artystki/martin1-768x-968.jpg 768w,assets/cache/images/issues/2019/23/artystki/martin1-1320x-de0.jpg 1320w" src="assets/cache/images/issues/2019/23/artystki/martin1-660x-3e0.jpg" alt="" ></a>    <figcaption><p>Honorata Martin, <em>Wyjście w&nbsp;Polskę,</em> 2013</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>Honorata Martin</b>: Kiedy zaczynałam realizację projektu <em>Wyjście w&nbsp;Polskę</em>, nie miałam żadnych założeń formalnych. Nie wiedziałam, jak to będzie wyglądało ani co z&nbsp;tego będzie. Najłatwiej było mi filmować i&nbsp;fotografować siebie, bo&nbsp;nie miałam dość odwagi, by podchodzić do ludzi. Te dwa miesiące to chyba najbardziej wizualnie udokumentowany okres mojego życia. Kiedy jednak teraz oglądam ten materiał, denerwuję się. Męczy mnie ta dziewczyna. Z&nbsp;drugiej strony na&nbsp;materiale tym mocno odcisnął się mój brak poczucia bezpieczeństwa, oddalenie od ludzi. Decyzja, by go pokazywać w&nbsp;tej właśnie formie „zapisu siebie”, była dla mnie trudna i&nbsp;kosztowna emocjonalnie. Mimo to mam wrażenie, że&nbsp;ta forma się sprawdza, choć nie wiem, czy wrócę do tego rodzaju autobiografizmu.</p> <p><b>Pola Dwurnik</b>: Wydaje mi się, że&nbsp;motywy autobiograficzne są dla nas, artystek, nieustającym źródłem inspiracji i&nbsp;możliwości. Dla mnie to oczywista, najbardziej podstawowa i&nbsp;naturalna rama odniesienia. Całą rzeczywistość przepuszczam przez siebie. Jestem siebie najbliżej, wszystko inne jest ode mnie trochę oddalone, w&nbsp;sensie fizycznym i&nbsp;emocjonalnym. Czasem podejmuję próby odejścia od siebie, i&nbsp;są one zarazem ciekawe i&nbsp;trudne. Mój psychoterapeuta zarzucał mi, że&nbsp;zamiast siebie poprawiać, przerabiam siebie na&nbsp;sztukę. Mówił: „Pani Apolonio, nigdzie nie zajdziemy, bo&nbsp;pani cały czas bierze naszą pracę i&nbsp;robi z&nbsp;tego serię rysunków, albo obraz, to jest bez sensu!”.</p> <p><b>MSz</b> Pola, czy dla ciebie medium wizualnej autobiografii pozostaje malarstwo? W&nbsp;cyklu obrazów <em>Główki </em>fenomenalnie dyskutujesz z&nbsp;tradycyjnym gatunkiem malarskiego portretu kobiecego!</p> <p></p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--slides m-page-content--slides-right">   <div class="owl-carousel owl-carousel--default owl-theme js-owl-content-slides">    <figure>   <a class="lightbox-item" href="assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_55_2011_oil_canvas_30x30cm_pola_dwurnik-1920x-689.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_55_2011_oil_canvas_30x30cm_pola_dwurnik-333x-6b8.jpg 333w,assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_55_2011_oil_canvas_30x30cm_pola_dwurnik-666x-d91.jpg 666w,assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_55_2011_oil_canvas_30x30cm_pola_dwurnik-1332x-8c5.jpg 1332w" src="assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_55_2011_oil_canvas_30x30cm_pola_dwurnik-666x-d91.jpg" alt="" ></a>  </figure><figure>   <a class="lightbox-item" href="assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_73_2013_oil_canvas_30x30cm_pola_dwurnik-1920x-fdf.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_73_2013_oil_canvas_30x30cm_pola_dwurnik-333x-3ff.jpg 333w,assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_73_2013_oil_canvas_30x30cm_pola_dwurnik-666x-bea.jpg 666w,assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_73_2013_oil_canvas_30x30cm_pola_dwurnik-1332x-d29.jpg 1332w" src="assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_73_2013_oil_canvas_30x30cm_pola_dwurnik-666x-bea.jpg" alt="" ></a>  </figure>   </div>   <div class="c-article-slides__caption"><p>Pola Dwurnik, <em>A Stranger from Berlin U-bahn</em>, Head no 55, 2011</p> <p>Pola Dwurnik, <em>A Stranger from Berlin U-bahn</em>, Head no 73, 2013</p></div>  </section><section class="u-typo">   <p><b>PD</b>: Dziękuję. Tak, <em>Główki </em>to mocowanie się z&nbsp;tradycją portretu, a&nbsp;właściwie jego esencją – twarzą. W&nbsp;tej serii każde pociągnięcie, dotknięcie pędzla coś odkrywa lub zakrywa, to jest bardzo czuły materiał. Niedawno zaczęłam też robić muzyczne wideoklipy i&nbsp;zdałam sobie sprawę, jak bardzo odmienna od malarstwa jest to forma. Zrobiłam video <em>Ama Painter</em> – pastisz klasycznego dziewczęcego teledysku, będący jednocześnie wypowiedzią <em>stricte</em> autobiograficzną. Praca nad tym krótkim filmem trwała pół roku i&nbsp;złożyło się na&nbsp;nią mnóstwo elementów, takich jak scenariusz, tekst piosenki, korekta angielskiego, nagranie, miksowanie, storyboard, realizacja zdjęć, przeglądanie materiału. Malowanie obrazu to zupełnie inna praca, bliższa autorce, bliższa jej myślom, jej ciału, odczuwaniu, przeżywaniu. Ruch pędzla to gest wychodzący prosto z&nbsp;ciała. W&nbsp;porównaniu do filmu obraz powstaje szybko i&nbsp;w pewnej mierze spontanicznie. Ale autobiografię można pisać na&nbsp;różne sposoby, np.&nbsp;poprzez rysunkowo-komiksową narrację. Jeśli chcę opowiedzieć złożoną historię, w&nbsp;której pojawiają się inni bohaterowie, sięgam po&nbsp;formę komiksową.</p> <p><b>MSz</b>: Honorata, w&nbsp;<em>Wyjściu w&nbsp;Polskę</em> mamy do czynienia z&nbsp;obrazem filmowym skupionym na&nbsp;tobie. W&nbsp;pracy tej osiągasz efekt niezwykłej bliskości. Kamera wydaje się aż&nbsp;za bardzo na&nbsp;tobie skupiona. Z&nbsp;drugiej strony podczas podróży tworzyłaś rysunki, w&nbsp;których odwoływałaś się do skrótowych form komiksowych i&nbsp;w nich za&nbsp;pośrednictwem języka dokonywałaś przetworzenia tego, co cię spotykało. Czym różniły się dla ciebie te dwa media jako narzędzia przekazywania doświadczenia tej samotnej podróży?</p> <p><b>HM</b>: To zależało od momentu. Rysunki były skrótowe, dawały mi możliwość przetworzenia sytuacji, w&nbsp;której się nagle znalazłam, a&nbsp;która często wydawała mi się gotową scenką rodzajową. Impuls rysunkowy uruchamiały najczęściej zasłyszane, podsłuchane słowa, hasła. Samo rysowanie było zresztą formą stworzenia sobie miejsca, w&nbsp;którym bym się dobrze czuła. Chcąc uniknąć zaczepek, starałam się robić wrażenie zapracowanej: siadałam i&nbsp;rysowałam. Wówczas nikt nie pytał: „Co pani tu robi? Czemu pani tu jest?”. Poza pracami <em>stricte </em>autobiograficznymi, wielomedialnymi autoportretami staram się także uprawiać pewną formę autoterapii. Pozwalam sobie pracować w&nbsp;sytuacjach kryzysu, pozornej niemożności. To niełatwe, ale bardzo odkrywcze doświadczenie.</p> <p><b>MSz</b>: Anka, czy medium twojej opowieści o&nbsp;sobie jest film?</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/artystki/_bgf6307_bb_3000px-1920x-e04.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/_bgf6307_bb_3000px-330x-e85.jpg 330w,assets/cache/images/issues/2019/23/artystki/_bgf6307_bb_3000px-660x-e97.jpg 660w,assets/cache/images/issues/2019/23/artystki/_bgf6307_bb_3000px-768x-6fe.jpg 768w,assets/cache/images/issues/2019/23/artystki/_bgf6307_bb_3000px-1320x-6aa.jpg 1320w" src="assets/cache/images/issues/2019/23/artystki/_bgf6307_bb_3000px-660x-e97.jpg" alt="" ></a>    <figcaption><p>Baumgart Studio. Postartystyczne praktyki Anny i&nbsp;Agaty Baumgart, 2019</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>AB</b>: Trudno powiedzieć. Rzeczywiście film pojawia się jako etap pracy nad projektem, ale nie zawsze jest to pierwszy wybór. Czasem życie i&nbsp;praktyka twórcza tak się przenikają, że&nbsp;dopiero po&nbsp;pewnym czasie wyłania się koncepcja i&nbsp;to, co wydarzyło się wcześniej, nabiera nowego sensu. Ostatnio doświadczyłam tego podczas realizacji <em>Symfonii syren fabrycznych</em> Arsenija Awraamowa. Symfonia jako prawdziwie proletariacka, nowa muzyka przekształcała całe miasto w&nbsp;audytorium dla orkiestry emitującej industrialny hałas, którą dyrygował człowiek stojący na&nbsp;dachu i&nbsp;dający znaki ogromnymi flagami. To absolutnie wielka, totalna wręcz wizja. Narcystyczny projekt, który w&nbsp;istocie jest opowieścią o&nbsp;klęsce: klęsce nowoczesnej sztuki, sztuki jako praktyki społecznej. Chciałam podążyć tropem tej klęski, dać się jej poprowadzić i&nbsp;powtórzyć ją w&nbsp;zupełnie innej skali, w&nbsp;innym kontekście. Petersburg mnie przytłoczył, miałam poczucie całkowitego niemal odcieleśnienia. Nawiązując do Awraamowa, chciałam przede wszystkim sproblematyzować relację ciała i&nbsp;sztuki w&nbsp;awangardzie. Myślałam o&nbsp;Katarzynie Kobro i&nbsp;przyszło mi do głowy, że&nbsp;jej sztuka uosabiała to awangardowe wyzbycie się ciała, ciała, które się przecież o&nbsp;nią upomniało. A&nbsp;ja realizując <em>Symfonię syren </em>w Muzeum Sopotu, trafiłam z&nbsp;poważnym uszkodzeniem płuca do szpitala i&nbsp;wtedy odbył się prawdziwy performans delegowany: mnie zszywano ranę, ludzie w&nbsp;mieście i&nbsp;muzeum odgrywali swoje scenariusze. Stworzyliśmy kolektywny podmiot twórczy na&nbsp;wzór „Kolektiwnyje Diejstwija” K/D. Polem naszych działań stało się miasto: powstały teksty krytyczne, wystąpienia performatywne, artefakty – wszystko to działo się wobec sprzeciwu instytucji, która nas zaprosiła. Dyrekcja bowiem uznała, że&nbsp;skoro nie ma „artystki” (moje ciało brało wówczas udział w&nbsp;performansie medycznym), nie ma sztuki – choć sztuka właśnie się stawała. Ostatecznie z&nbsp;całej tej akcji pozostała fotografia i&nbsp;właściwie myślę, że&nbsp;to zdjęcie, mój autoportret z&nbsp;blizną to właściwa <em>Symfonia syren</em>.</p> <p></p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--slides m-page-content--slides-right">   <div class="owl-carousel owl-carousel--default owl-theme js-owl-content-slides">    <figure>   <a class="lightbox-item" href="assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_77_2013_oil_canvas_30x30cm_pola_dwurnik-1920x-7c9.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_77_2013_oil_canvas_30x30cm_pola_dwurnik-333x-510.jpg 333w,assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_77_2013_oil_canvas_30x30cm_pola_dwurnik-666x-732.jpg 666w,assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_77_2013_oil_canvas_30x30cm_pola_dwurnik-1332x-3a6.jpg 1332w" src="assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_77_2013_oil_canvas_30x30cm_pola_dwurnik-666x-732.jpg" alt="" ></a>  </figure><figure>   <a class="lightbox-item" href="assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_76_2013_oil_canvas_30x30cm_pola_dwurnik-1920x-2bd.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_76_2013_oil_canvas_30x30cm_pola_dwurnik-333x-e68.jpg 333w,assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_76_2013_oil_canvas_30x30cm_pola_dwurnik-666x-8aa.jpg 666w,assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_76_2013_oil_canvas_30x30cm_pola_dwurnik-1332x-cd9.jpg 1332w" src="assets/cache/images/issues/2019/23/artystki/a_stranger_from_berlin_u_bahn_head_no_76_2013_oil_canvas_30x30cm_pola_dwurnik-666x-8aa.jpg" alt="" ></a>  </figure>   </div>   <div class="c-article-slides__caption"><p>Pola Dwurnik, <em>A Stranger from Berlin U-bahn, head no 77</em>, 2013</p> <p>Pola Dwurnik, <em>A Stranger from Berlin U-bahn, head no 76</em>, 2013</p></div>  </section><section class="u-typo">   <p><b>Katarzyna Bojarska</b>: W&nbsp;swoim dzienniku Maria Lassnig wspomina takie sytuacje, kiedy wsłuchana w&nbsp;swoje ciało i&nbsp;podążając za&nbsp;nim, musi wydostać się na&nbsp;zewnątrz, bo&nbsp;coś, co dzieje się poza ciałem, zakłóca ten proces, wzywa ją do „wyjścia z&nbsp;siebie” i&nbsp;zmodyfikowania trybu działania i&nbsp;pracy artystycznej. Wspomina o&nbsp;tym Honorata Martin, a&nbsp;Anka Baumgart mówi o&nbsp;sytuacji odwrotnej, kiedy to ciało modyfikuje „realizm”. Bez względu na&nbsp;to, w&nbsp;którą stronę to zakłócenie działa, miarą autentyzmu i&nbsp;integralności jest swego rodzaju wierność temu zakłóceniu, odpowiedź na&nbsp;wezwanie. Artystka w&nbsp;tym sensie nie jest maszyną, nie realizuje zadanego planu. Wszystko, co zostało założone, może zostać zmodyfikowane. Wszystko, co zostało zapamiętane, może ulec przetworzeniu. Ciało odgrywa tu rzecz jasna istotną rolę.</p> <p><b>Głos z&nbsp;sali</b>: Nurtuje mnie następująca kwestia: na&nbsp;czym polega odmienność kobiecej autobiografistyki? Czy widzicie siebie przede wszystkim jako kobiece autobiografki? Czy porównujecie swoje prace z&nbsp;pracami kolegów i&nbsp;widzicie jakieś różnice w&nbsp;stylistyce, tematyce, doborze mediów?</p> <p><b>PD</b>: Dla mnie to trudne pytanie, bo&nbsp;staram się w&nbsp;ogóle nie porównywać i&nbsp;bardzo stronię od takiego myślenia. Za&nbsp;dużo jest wokół mnie artystów, choćby moi rodzice. Wydaje mi się jednak, że&nbsp;autobiografistyka kobiet jest nowsza. Nie stoi za&nbsp;nią długa tradycja i&nbsp;usankcjonowane, opatrzone wzorce. To może być dla narracji kobiet zbawienne, ale oczywiście jest to trudna sytuacja, bo&nbsp;odnośnikiem dla HerStory jest wszechobecna HisStory. Ważne jest też, do kogo artystka mówi, czy do kobiet, czy do wszystkich. A&nbsp;może tylko do mężczyzn. To w&nbsp;moim odczuciu wiele zmienia.</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/artystki/martin4-1920x-bf2.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/martin4-330x-710.jpg 330w,assets/cache/images/issues/2019/23/artystki/martin4-660x-7bd.jpg 660w,assets/cache/images/issues/2019/23/artystki/martin4-768x-360.jpg 768w,assets/cache/images/issues/2019/23/artystki/martin4-1320x-95d.jpg 1320w" src="assets/cache/images/issues/2019/23/artystki/martin4-660x-7bd.jpg" alt="" ></a>    <figcaption><p>Honorata Martin, <em>Zadomowienie, </em>Park Rzeźby na&nbsp;Bródnie, fot. Sebastian Cichocki, 2015</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>HM</b>: Dla części moich prac nie ma chyba większego znaczenia, czy robiła je kobieta, czy mężczyzna. Jednak zarówno w&nbsp;przypadku <em>Wyjścia w&nbsp;Polskę</em>, jak i&nbsp;<em>Zadomowienia</em>, kiedy mieszkałam w&nbsp;Parku Bródnowskim, płeć gra niebagatelną rolę, wpływa na&nbsp;doświadczenie niebezpieczeństwa, niepokoju, ale też na&nbsp;reakcje, jakie się wywołuje u&nbsp;napotkanych ludzi, na&nbsp;nawiązywanie relacji. Z&nbsp;jednej strony, często czułam, że&nbsp;jestem osobą fizycznie słabszą niż wielu moich gospodarzy – mężczyzn. Z&nbsp;każdym dniem żartów dotyczących seksu, zapłaty w&nbsp;naturze, dopuszczania mężczyzn w&nbsp;drodze, itd. czułam się coraz częściej i&nbsp;bardziej zastraszona. Z&nbsp;drugiej jednak strony, miałam świadomość, że&nbsp;często wzbudzam chęć troski czy pomocy. Z&nbsp;tych samych powodów byłam w&nbsp;końcu tylko „zmęczoną i&nbsp;lekko przestraszoną dziewczyną”.</p> <p><b>AB</b>: Ciekawe, że&nbsp;wciąż pojawiają się takie pytania. Z&nbsp;jednej strony mogłoby się zdawać, że&nbsp;teorie feministyczne je w&nbsp;pewnym sensie oddaliły, z&nbsp;drugiej rzeczywistość społeczna wciąż nas sprowadza na&nbsp;ziemię albo redukuje do tego, co cielesne.</p> <p><b>PD</b>: Pamiętajmy jednak, że&nbsp;mężczyźni – przynajmniej biali i&nbsp;heteroseksualni – przez setki lat uczeni byli ignorowania własnego ciała. Nam jest więc i&nbsp;trudniej, i&nbsp;łatwiej.</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/artystki/_bgf6646_bb_3000px-1920x-6ef.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/_bgf6646_bb_3000px-330x-e5b.jpg 330w,assets/cache/images/issues/2019/23/artystki/_bgf6646_bb_3000px-660x-a1d.jpg 660w,assets/cache/images/issues/2019/23/artystki/_bgf6646_bb_3000px-768x-887.jpg 768w,assets/cache/images/issues/2019/23/artystki/_bgf6646_bb_3000px-1320x-b02.jpg 1320w" src="assets/cache/images/issues/2019/23/artystki/_bgf6646_bb_3000px-660x-a1d.jpg" alt="" ></a>    <figcaption><p>Baumgart Studio. Postartystyczne praktyki Anny i&nbsp;Agaty Baumgart, 2019, fot. Bartek Górka</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>MSz: </b>Zastanawiam się nad tym, czy bycie blisko siebie, wytwarzanie opowieści o&nbsp;własnym losie prowadzi do wytworzenia jakiejś formy wspólnotowości? Czy poprzez wzajemne się oglądanie, czy też myślenie o&nbsp;sobie jako artystkach, niekoniecznie artystkach feministycznych, ale artystkach-kobietach, które też tworzą w&nbsp;określonych warunkach instytucjonalnych, praktykuje się solidarność? Czy pojawia się ona we współpracy z&nbsp;innymi artystkami, w&nbsp;oglądaniu ich prac – czy to przestrzeń komfortu, dająca poczucie zakorzenienia?</p> <p><b>KB</b>: Wydaje się, że&nbsp;to poczucie stabilności, stworzenia jakiejś wspólnoty oporu potrzebne jest nam szczególnie wówczas (teraz), kiedy znów zdaje się, że&nbsp;jesteśmy na&nbsp;początku drogi, a&nbsp;artystki są w&nbsp;awangardzie tego pochodu. W&nbsp;sztuce chodzi przede wszystkim o&nbsp;widzialność, a&nbsp;dziś znów okazuje się, że&nbsp;widzialność kobiet (kobiecego ciała, pożądania, starości) jest wciąż skandalem. Dlaczego wciąż dyskutujemy o&nbsp;stosowności karmienia piersią w&nbsp;przestrzeni publicznej?</p> <p><b>AB</b>: Jak się okazuje, nic nie jest zdobyte raz na&nbsp;zawsze, wciąż walczymy albo negocjujemy. <em>Bombowniczka</em>, praca z&nbsp;2005 roku, nagle zaczyna znaczyć na&nbsp;nowo i&nbsp;choć to świetna wiadomość dla artystki, to bardzo zła diagnoza polityczno-społeczna.</p> <p><b>PD:</b> Oglądanie prac innych artystek ogromnie mnie wzmacnia, czerpię z&nbsp;nich siłę. Ale nigdy dotąd nie współpracowałam blisko z&nbsp;żadną kobietą. Może do tego trzeba dojrzeć, nie wiem.</p> <p><b>MSz</b>: Model artystycznej współpracy nie jest oczywiście jedynym słusznym modelem. Chodzi mi raczej o&nbsp;wyobrażenie sobie różnych sposobów, w&nbsp;jakie ta solidarność może się realizować. Jednym z&nbsp;nich jest na&nbsp;pewno to, co wszystkie robimy, czyli wspólne wychodzenie na&nbsp;ulicę, protestowanie, zaznaczanie swojego miejsca w&nbsp;przestrzeni publicznej, domaganie się go. Artystki mogą tę wspólnotę albo rejestrować, albo w&nbsp;inny sposób ją wyrazić.</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/artystki/06_pola_dwurnik_krolowa_malp_2012_olej_plotno_210x150cm_calosc-1920x-260.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/06_pola_dwurnik_krolowa_malp_2012_olej_plotno_210x150cm_calosc-330x-cd5.jpg 330w,assets/cache/images/issues/2019/23/artystki/06_pola_dwurnik_krolowa_malp_2012_olej_plotno_210x150cm_calosc-660x-82e.jpg 660w,assets/cache/images/issues/2019/23/artystki/06_pola_dwurnik_krolowa_malp_2012_olej_plotno_210x150cm_calosc-768x-32d.jpg 768w,assets/cache/images/issues/2019/23/artystki/06_pola_dwurnik_krolowa_malp_2012_olej_plotno_210x150cm_calosc-1320x-e51.jpg 1320w" src="assets/cache/images/issues/2019/23/artystki/06_pola_dwurnik_krolowa_malp_2012_olej_plotno_210x150cm_calosc-660x-82e.jpg" alt="" ></a>    <figcaption><p>Pola Dwurnik <em>Królowa małp,</em> 2012</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>AB</b>: Mam dojmujące wrażenie, że&nbsp;my, kobiety-artystki, funkcjonujemy na&nbsp;zapożyczonych zasadach, zasadach narzuconych czy po&nbsp;prostu patriarchalnych. W&nbsp;naszych relacjach jest dużo przemocy, wciąż jesteśmy na&nbsp;polu bitwy, walczymy o&nbsp;przestrzeń, której jest mało, ciągle za&nbsp;mało. Chyba dlatego myślimy, że&nbsp;musimy ją sobie wydzierać. To trudne doświadczenie.</p> <p><b>MSz</b>: Czy to doświadczenie można uogólnić i&nbsp;powiedzieć, że&nbsp;jest to doświadczenie kobiece w&nbsp;warunkach patriarchatu, szczególnie widoczne jednak w&nbsp;świecie sztuki, w&nbsp;którym w&nbsp;ogóle przestrzeń do podziału jest ograniczona, podobnie jak liczba miejsc w&nbsp;kanonie i&nbsp;liczba nagród? Więc być może to byłby taki męski model – tak jak mówimy o&nbsp;męskim modelu pisania historii – w&nbsp;którym funkcjonuje świat sztuki i&nbsp;który trzeba odrzucić, by wypracować konieczne formy solidarności.</p> <p><b>AB</b>: Tak się trochę dzieje, ale na&nbsp;uboczu, jeśli w&nbsp;ogóle nie poza światem sztuki. Myślę przede wszystkim o&nbsp;Chórze Czarownic i&nbsp;różnych artystyczno-aktywistycznych działaniach kobiet i&nbsp;dziewczyn: Grupa Sędzia Główny, Syreny (Ewa Majewska / Aleka Polis), Alicja Karska i&nbsp;Aleksandra Went…</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/artystki/czsz-1920x-fd1.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/czsz-330x-f1f.jpg 330w,assets/cache/images/issues/2019/23/artystki/czsz-660x-463.jpg 660w,assets/cache/images/issues/2019/23/artystki/czsz-768x-6bf.jpg 768w,assets/cache/images/issues/2019/23/artystki/czsz-1320x-433.jpg 1320w" src="assets/cache/images/issues/2019/23/artystki/czsz-660x-463.jpg" alt="" ></a>    <figcaption><p>Czarne Szmaty, <em>Orlice</em> 2018, fot. Pat Mic</p></figcaption>   </figure>  </section><section class="u-typo">   <p></p> <p><b>Magda Staroszczyk: </b>Od pewnego<b> </b>czasu pracuję w&nbsp;czteroosobowym kolektywie kobiecym, który zrodził się na&nbsp;fali czarnego protestu, nazywa się „Czarne szmaty”, i&nbsp;to jest wspaniała współpraca. Po&nbsp;tym, co powiedziałyście, zastanawiam się jednak, na&nbsp;ile dzięki temu, że&nbsp;połączyłyśmy siły, udało nam się przełamać ten uwewnętrzniony porządek patriarchalny i&nbsp;wyjść z&nbsp;naszą twórczością do ludzi. Wydaje mi się też, że&nbsp;w&nbsp;Polsce jest więcej kobiecych kolektywów, tylko one działają poza rynkiem sztuki i&nbsp;często bywają przeoczane, jak na&nbsp;przykład bliski mi Teraz Poliż. Chciałam zapytać o&nbsp;to, na&nbsp;ile w&nbsp;waszej twórczości i&nbsp;w waszym myśleniu pojawia się pokusa albo życzenie, żeby wasza twórczość była narzędziem zmiany świata, mówiąc nieco górnolotnie.</p> <p><b>AB</b>: To stare jak świat pytanie o&nbsp;polityczne oddziaływanie sztuki. To też kwestia, do której nieustannie wracamy, na&nbsp;szczęście. Uważam się za&nbsp;artystkę krytyczną, o&nbsp;konkretnej misji społecznej. Nie zawsze realizuję ją na&nbsp;ulicy, choć czasami także tam. Ale w&nbsp;tej chwili nie czuję się aktywistką polityczną.</p> <p><b>PD</b>: Na&nbsp;szczęście istnieją różne formy aktywności politycznej artystek i&nbsp;artystów. Bardzo chciałabym wierzyć, że&nbsp;sztuka czy nasze działania mogą zmienić świat, albo wpłynąć na&nbsp;to, co się dzieje dookoła. Obawiam się czasem, że&nbsp;w&nbsp;Polsce jest nas za&nbsp;mało, za&nbsp;mało jest miejsca dla sztuki. Mam porównanie z&nbsp;Niemcami i&nbsp;Szwajcarią, tam wydaje mi się to bardziej prawdopodobne. To są zamożniejsze państwa, płaca jest wyższa, godna, i&nbsp;ludzie mają więcej czasu, przede wszystkim na&nbsp;to, żeby się zastanowić, ale i&nbsp;zaangażować. Trudno zebrać myśli, kiedy ma się dwie lub trzy prace i&nbsp;już koło południa pada się ze zmęczenia. Nadmiar obowiązków w&nbsp;pracy i&nbsp;domu bardzo ograniczył udział kobiet w&nbsp;czarnym proteście, a&nbsp;co dopiero mówić o&nbsp;udziale w&nbsp;życiu artystycznym.</p> <p><b>AB</b>: Powiem teraz rzecz dość niepopularną – uważam, że&nbsp;czarny protest miał silny charakter klasowy. Wiele kobiet bojąc się o&nbsp;utratę pracy, nie wzięło w&nbsp;nim udziału, czuło, że&nbsp;nie może sobie na&nbsp;to pozwolić, a&nbsp;zatrudniające je instytucje im w&nbsp;tym nie pomagały.</p> <p><b>MSz: </b>Nie bez znaczenia jest tu czas, który umożliwia nam udział w&nbsp;działaniu politycznym. Ten czas nie jest równo rozdysponowany i&nbsp;dostępność do niego zależy od pozycji klasowej. Zastanawia mnie rola artystki i&nbsp;kwestia skuteczności oporu. Wydaje się, że&nbsp;wciąż postrzegamy artystów jako grupę, która powinna coś zrobić, zająć stanowisko. Wam, jak rozumiem, to nie odpowiada i&nbsp;czujecie się niesłusznie wywołane. A&nbsp;może chodzi o&nbsp;to, że&nbsp;stworzenie wypowiedzi artystycznej na&nbsp;temat problemu społecznego wymaga czasu – na&nbsp;refleksję, na&nbsp;pracę, na&nbsp;wypracowanie medium?</p> <p><b>AB</b>: Rzeczywistość polityczna jest dynamiczna, ale też niezwykle spolaryzowana, a&nbsp;mnie interesują niuanse. Moje prace wynikają z&nbsp;pewnego procesu, nie są transparentem politycznym.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--slides m-page-content--slides-right">   <div class="owl-carousel owl-carousel--default owl-theme js-owl-content-slides">    <figure>   <a class="lightbox-item" href="assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-1-1920x-a41.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-1-333x-32f.jpg 333w,assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-1-666x-819.jpg 666w,assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-1-1332x-d66.jpg 1332w" src="assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-1-666x-819.jpg" alt="" ></a>  </figure><figure>   <a class="lightbox-item" href="assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-10-1920x-f21.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-10-333x-c7b.jpg 333w,assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-10-666x-4a1.jpg 666w,assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-10-1332x-41a.jpg 1332w" src="assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-10-666x-4a1.jpg" alt="" ></a>  </figure><figure>   <a class="lightbox-item" href="assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-7-1920x-f21.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-7-333x-c7b.jpg 333w,assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-7-666x-4a1.jpg 666w,assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-7-1332x-41a.jpg 1332w" src="assets/cache/images/issues/2019/23/artystki/wyjscie-w-polske-rys-7-666x-4a1.jpg" alt="" ></a>  </figure>   </div>   <div class="c-article-slides__caption"><p>Honorata Martin, <em>Wyjście w&nbsp;Polskę, </em>2013</p></div>  </section><section class="u-typo">   <p><b>HM</b>: Chciałabym wiedzieć, jak zmienić świat. Cały czas staram się znaleźć równowagę między działalnością społeczną a&nbsp;artystyczną. Mam wrażenie, że&nbsp;ostatnie obrazy, które namalowałam, (dyptyk, bez tytułu) mogą wydać się dość proste czy dydaktyczne, ale po&nbsp;prostu nie znalazłam lepszego sposobu, by poradzić sobie z&nbsp;tematem, który mnie męczył. Dziesięć miesięcy temu urodziłam dziecko i&nbsp;będąc z&nbsp;nim cały czas, w&nbsp;bardzo wyjątkowym dla mnie momencie wielkiego szczęścia, powracałam często do traumatyzujących obrazów dzieci, na&nbsp;przykład w&nbsp;Syrii. Nie dawały mi one spać, zaczynałam mieć wyrzuty sumienia, poczucie uprzywilejowania i&nbsp;nieadekwatności. Poczułam wielką niemoc, a&nbsp;jednocześnie konieczność działania. I&nbsp;w końcu namalowałam te dwa obrazy: siebie z&nbsp;dzieckiem przy cycu i&nbsp;wynoszone z&nbsp;gruzów, możliwe że&nbsp;umierające, dziecko na&nbsp;rękach, mając świadomość, że&nbsp;jest to bardzo banalne, ale że&nbsp;ta banalność jest moim ratunkiem. Teraz zdaję sobie z&nbsp;kolei sprawę, że&nbsp;brzmi to zbyt prosto, nie potrafię znaleźć właściwego języka do opowiedzenia tej historii. Czy moje działanie coś zmienia? Nie. Namalowałam te obrazy, by odpowiedzieć na&nbsp;osobistą potrzebę, one nie zmienią prawa migracyjnego w&nbsp;Polsce, niestety.</p> <p><b>PD</b>: Nie możemy być tego pewne. Może któregoś dnia ktoś zobaczy jeden z&nbsp;tych obrazów i&nbsp;coś przeżyje, i&nbsp;coś zrobi. Tego na&nbsp;szczęście nie wiemy, sztuka działa po&nbsp;czasie, działa niespodziewanie. Inaczej niż realna polityka.</p> <p><b>KB</b>: Myślę też, że&nbsp;prawdziwa skuteczność i&nbsp;polityczność dzieła nie może być w&nbsp;nie wpisana, odgórnie zaprogramowana. To są wszystko niespodziewane momenty, kiedy w&nbsp;określonej sytuacji, konstelacji społeczno-polityczno-kulturowej, dzieło zaczyna silnie oddziaływać, nawet wbrew intencjom jego twórczyni czy twórcy. Wbrew kontekstowi, w&nbsp;którym powstało. Ono po&nbsp;prostu nagle staje się aktualne.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/artystki/unnamed1-1920x-944.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/unnamed1-330x-ca5.jpg 330w,assets/cache/images/issues/2019/23/artystki/unnamed1-660x-fa1.jpg 660w,assets/cache/images/issues/2019/23/artystki/unnamed1-768x-993.jpg 768w,assets/cache/images/issues/2019/23/artystki/unnamed1-1320x-384.jpg 1320w" src="assets/cache/images/issues/2019/23/artystki/unnamed1-660x-fa1.jpg" alt="" ></a>    <figcaption><p>Anna Baumgart, <em>Symfonia syren</em>, 2017</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Kiedy Anka zaprosiła mnie do udziału w&nbsp;<em>Symfonii syren</em>, nie zdawałam sobie sprawy, jaki potencjał ma tego rodzaju przedsięwzięcie artystyczno-badawcze. Było to niezwykle polityczne i&nbsp;skuteczne, i&nbsp;będzie pewnie oddziaływało jeszcze długo na&nbsp;wielu różnych poziomach. Wynikło to z&nbsp;jednej strony z&nbsp;wypadku, jakim była choroba artystki, z&nbsp;drugiej zaś z&nbsp;bardzo spontanicznego aktu ukonstytuowania się wspólnoty ludzi, którzy nie znając się, zmobilizowali siły i&nbsp;wbrew oporowi instytucji stanęli na&nbsp;wysokości zadania. Dowiedzieliśmy się wiele o&nbsp;sobie, o&nbsp;społecznym i&nbsp;instytucjonalnym rozumieniu sztuki, o&nbsp;niezrozumieniu awangardy, o&nbsp;inercji instytucji, o&nbsp;odwadze, autorytecie… mogłabym długo wyliczać. Tego nie dało się zaplanować, zapisać w&nbsp;scenariuszu. Powiedziałabym nawet, że&nbsp;zapisane, nigdy by się nie wydarzyło. Ta praca się nie kończy, bo&nbsp;obowiązująca struktura ma się zbyt dobrze. Nie chodzi wam przecież o&nbsp;to, by w&nbsp;świecie, który jest zdominowany przez męskie narracje o&nbsp;mężczyznach, zastąpić je kobiecymi narracjami o&nbsp;kobietach. Chodzi o&nbsp;to, żeby w&nbsp;ogóle rozsadzić tę strukturę. Robota zatem dotyczy przede wszystkim ustanowienia innych warunków pracy, odbioru, komunikacji. I&nbsp;to jest wyczerpujące, bo&nbsp;trudno tu o&nbsp;bezpieczną, komfortową przestrzeń budowania wspólnoty. Pozostaje jeszcze kwestia edukacji, w&nbsp;tym edukacji artystycznej. Trudno mi sobie to wyobrazić, jak uczyć oporu i&nbsp;wrażliwości, uwzględniając swoją uprzywilejowaną pozycję, ale sporo o&nbsp;tym rozmawiam, ponieważ osoba, z&nbsp;którą dzielę życie, uczy artystów. I&nbsp;bardzo często jako chłopak ma kłopot, kiedy przychodzą dziewczyny ze swoimi pracami do omówienia, jak to zrobić, żeby ich nie upupić i&nbsp;wskazać im dobry kierunek, być krytycznym i&nbsp;umieć otworzyć oczy, które będą widziały inaczej, i&nbsp;to spojrzenie zaakceptować, uznać za&nbsp;artystycznie wartościowe.</p> <p><b>HM</b>: To jest wielkie wyzwanie. Ja jestem dziewczyną, uczę w&nbsp;akademii trzeci rok i&nbsp;cały czas nie wiem, czy umiem to robić. Stawiam na&nbsp;rozmowę, strukturę możliwie najmniej hierarchiczną. Mam nadzieję, że&nbsp;gdzieś nas to prowadzi.</p> <p><b>Głos z&nbsp;sali</b>: Jest coś w&nbsp;tym lęku przed upupieniem, też się tego obawiam. To, co będzie nowe, na&nbsp;pewno mnie zaskoczy, nie będę tego rozumieć i&nbsp;spróbuję sprowadzić do tego, co już znam, w&nbsp;czym czuję się pewnie. Najtrudniej oduczyć się pewności.</p> <p><b>Stanisław Welbel: </b>Przysłuchuję<b> </b>się z<b> </b>wielkim zainteresowaniem waszej rozmowie i&nbsp;przyszła mi do głowy historia z&nbsp;wiosny 2017 roku, kontrowersja związana z&nbsp;obrazem Dany Schutz <em>Open Casket</em> wystawionym na&nbsp;Whitney Biennial w&nbsp;Nowym Jorku, który „przedstawia” zmasakrowane ciało (twarz) Emmeta Tilla, 14-letniego Afroamerykanina brutalnie zamordowanego w&nbsp;1955 roku w&nbsp;wyniku podejrzenia o&nbsp;flirt z&nbsp;białą kobietą. Schutz znalazła się pod&nbsp;ostrzałem. Zarzucano jej, że&nbsp;jako biała artystka nie ma prawa „żerować” na&nbsp;historii czarnych i&nbsp;zawłaszczać obrazu ich cierpienia – w&nbsp;dużym i&nbsp;upraszczającym skrócie. Czy sądzicie, że&nbsp;płeć artystki – to, że&nbsp;obraz namalowała właśnie kobieta – miała wpływ na&nbsp;siłę tego ataku? W&nbsp;krytyce Dany Schutz przebijał się nie tyle argument, że&nbsp;jest biała i&nbsp;uprzywilejowana, ile raczej, że&nbsp;jako kobieta chyba nie wie, co robi, jakie znaczenie ma to, co namalowała. Miałem nieodparte wrażenie, że&nbsp;gdyby sprawa dotyczyła białego malarza, ta dyskusja biegłaby nieco innym torem.</p> <p><b>Msz</b>: Sprawę Dany Schutz trzeba osadzić w&nbsp;kontekście tego, co działo się wówczas – i&nbsp;wciąż się dzieje – w&nbsp;Stanach Zjednoczonych, w&nbsp;kontekście burzliwej dyskusji o&nbsp;rasie, czarnym ciele, polityce amerykańskich muzeów. Niewątpliwie jednak w&nbsp;historii sztuki polskiej mamy przykłady, które pokazują, że&nbsp;bardzo często właśnie odważne prace są odbierane i&nbsp;oceniane przez pryzmat płci artystki. Po&nbsp;latach możemy powiedzieć, że&nbsp;recepcja <em>Piramidy zwierząt</em> Katarzyny Kozyry – w&nbsp;ogóle całej jej twórczości – była silnie zdeterminowana przez jej płeć. Można postawić tezę, że&nbsp;gdyby <em>Piramidę </em>zrobił mężczyzna, to skandal byłby mniejszy, albo przynajmniej dyskusja toczyłaby się po&nbsp;innych, nieosobistych torach i&nbsp;nie uderzałaby w&nbsp;tak wulgarny i&nbsp;obraźliwy sposób w&nbsp;tożsamość artystki jako kobiety.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/artystki/martin2-1920x-7c4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2019/23/artystki/martin2-330x-bc2.jpg 330w,assets/cache/images/issues/2019/23/artystki/martin2-660x-029.jpg 660w,assets/cache/images/issues/2019/23/artystki/martin2-768x-b14.jpg 768w,assets/cache/images/issues/2019/23/artystki/martin2-1320x-0ca.jpg 1320w" src="assets/cache/images/issues/2019/23/artystki/martin2-660x-029.jpg" alt="" ></a>    <figcaption><p>Honorata Martin, <em>Twarze</em><span>, 2015. Widok z&nbsp;wystawy <em>Bóg małpa</em>, w&nbsp;BWA Wrocław</span></p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>Głos z&nbsp;sali</b>: Mam wrażenie, że&nbsp;bycie artystką w&nbsp;Polsce jest wciąż czymś w&nbsp;rodzaju skandalu, faktem wypieranym, niechętnie celebrowanym, niewygodnym. We wrześniu wybuchła afera na&nbsp;Akademii Sztuk Pięknych w&nbsp;Krakowie, ponieważ profesor Iwona Demko chciała na&nbsp;okładce „Wiadomości ASP” umieścić zdjęcie Zofii Baltarowicz-Dzielińskiej, pierwszej kobiety przyjętej w&nbsp;poczet studentów w&nbsp;1917 roku, a&nbsp;więc z&nbsp;okazji stulecia tego wydarzenia. W&nbsp;piśmie miał się ponadto ukazać poświęcony tej artystce artykuł. Rektor i&nbsp;redakcja odmówili, twierdząc najpierw, że&nbsp;okładka nie była dość atrakcyjna, a&nbsp;potem podając szereg innych dziwacznych wyjaśnień. Sam artykuł przeniesiono natomiast – co symptomatyczne – z&nbsp;działu „Historia” do dziaału „Wspomnienia”, choć wspomnieniem nie był. W&nbsp;ten sposób Baltarowicz-Dzielińskiej odmówiono miejsca i&nbsp;na okładce, i&nbsp;w historii. Byłoby to nawet zabawne, gdyby nie było smutne. O&nbsp;aktualnej sytuacji kobiet w&nbsp;akademiach sztuk w&nbsp;Polsce nie będę już mówić, bo&nbsp;to wątek na&nbsp;osobną dyskusję.</p> <p><b>MSz</b>: Dyskusja o&nbsp;szkołach artystycznych w&nbsp;Polsce i&nbsp;miejscu kobiet w&nbsp;ich strukturach, a&nbsp;także o&nbsp;mizoginii i&nbsp;nadużyciach o&nbsp;podłożu seksualnym zaczyna się właśnie toczyć i&nbsp;miejmy nadzieję, że&nbsp;doprowadzi do istotnych zmian. Pojawiają się już pewne znaki: Honorata Martin uczy na&nbsp;ASP w&nbsp;Gdańsku, Anka Baumgart zrobiła tam doktorat, pojawiają się pracownie prowadzone przez kobiety, przybywa promotorek. W&nbsp;warszawskich szkołach artystycznych powołuje się rzeczniczki do spraw równouprawnienia. Męskie struktury drżą w&nbsp;posadach.</p> <p></p> <p><br><br>Rozmowę zarejestrowano podczas sympozjum <em>Maria Lassnig. Stawanie się kobietą w&nbsp;historii</em>, które odbyło się 14 października 2017 roku na&nbsp;zakończenie wystawy <em>Maria Lassnig </em>(15 lipca–15 października 2017; kuratorka Kasia Redzisz) w&nbsp;Zachęcie – Narodowej Galerii Sztuki w&nbsp;Warszawie <a href="https://zacheta.art.pl/pl/wystawy/maria-lassnig">https://zacheta.art.pl/pl/wystawy/maria-lassnig</a>. Współorganizatorem sympozjum było Austriackie Forum Kultury w&nbsp;Warszawie, pomysłodawczynią i&nbsp;kuratorką – Katarzyna Bojarska. Pełen program: <a href="https://zacheta.art.pl/pl/kalendarz/stawanie-sie-kobieta-w-historii-maria-lassnig-i-artystki">https://zacheta.art.pl/pl/kalendarz/stawanie-sie-kobieta-w-historii-maria-lassnig-i-artystki</a>.<br><br></p> <p><b>Anna Baumgart</b> – artystka sztuk wizualnych. Tworzy prace wideo, rzeźby, instalacje, fotografie, jest autorką performansów. Studiowała na&nbsp;Wydziale Rzeźby gdańskiej Akademii Sztuk Pięknych. Jej twórczość zaliczana jest do nurtów sztuki krytycznej i&nbsp;sztuki feministycznej.</p> <p><b>Pola Dwurnik</b> – artystka wizualna, uprawia malarstwo olejne, różne formy rysunku i&nbsp;kolaż. Uczyła się malarstwa i&nbsp;rysunku w&nbsp;pracowniach Edwarda Dwurnika i&nbsp;Teresy Gierzyńskiej. Studiowała historię sztuki na&nbsp;Uniwersytecie Warszawskim. Prowadzi działalność wydawniczą typu <em>self-publishing</em>, redaktorską oraz pisze i&nbsp;wykonuje piosenki. Jest współautorką <em>Dziewczyny na&nbsp;płótnie </em>(2013) – zbioru tekstów interpretujących jej wielkoformatowe autoportrety.</p> <p><b>Honorata Martin</b> – malarka, performerka, artystka multimedialna. W&nbsp;latach 2004–2009 studiowała na&nbsp;Wydziale Malarstwa Akademii Sztuk Pięknych w&nbsp;Gdańsku, gdzie obecnie wykłada. W&nbsp;roku 2017 zwyciężczyni konkursu <em>Spojrzenia – </em><em>Nagrod</em><em>y</em><em> Fundacji Deutsche Bank, </em>organizowanego przez Fundację Deutsche Bank oraz Zachętę – Narodową Galerię Sztuki.</p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2019/23-sila-kobiet/bombowniczki-i-inne-wizualne-autonarracje" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

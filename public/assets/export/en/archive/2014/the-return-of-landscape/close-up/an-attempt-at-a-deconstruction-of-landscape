@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title> Odosobnienie. Próby dekonstrukcji krajobrazu | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/8-powrot-krajobrazu/odosobnienie.-proby-dekonstrukcji-krajobrazu">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content=" Odosobnienie. Próby dekonstrukcji krajobrazu | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content=" Odosobnienie. Próby dekonstrukcji krajobrazu | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/8-powrot-krajobrazu/odosobnienie.-proby-dekonstrukcji-krajobrazu">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content=" Odosobnienie. Próby dekonstrukcji krajobrazu | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #789 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #789 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #789 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #789 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #789 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #789 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #789 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #789 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(119,136,153,0.8) !important; */
+			/* background-color:#789 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(119,136,153,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#789 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(119,136,153,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#789; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(119,136,153,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(119,136,153,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#789 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#789 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#789 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1064 parent-id-1051">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1048" data-selected-issue-color="#789" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/the-return-of-landscape#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/the-return-of-landscape/an-attempt-at-a-deconstruction-of-landscape">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/8-powrot-krajobrazu#toc">8</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/8-powrot-krajobrazu/odosobnienie.-proby-dekonstrukcji-krajobrazu?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span> Odosobnienie. Próby dekonstrukcji krajobrazu</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/8-powrot-krajobrazu/odosobnienie.-proby-dekonstrukcji-krajobrazu?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=1065">Piotr Schollenberger</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;">A twoja matka to krajobraz czy twarz? Twarz czy fabryka?</p> <p style="text-align: right;">Jean-Luc Godard, <em>Numéro deux, </em>1975</p> </blockquote> <p><br><br></p> <p>Jeden z&nbsp;wniosków, jakie można by wysnuć z&nbsp;toczących się w&nbsp;ostatnich latach dyskusji na&nbsp;temat aktualności krajobrazu brzmi: krajobraz – w&nbsp;najbardziej potocznym rozumieniu widoku natury<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> – nie tyle stracił swą dawną artystyczną (ale i&nbsp;egzystencjalną oraz kulturową) rangę, ile okazał się zasiedlony przez rozmaite kulturowe, społeczne, polityczne i&nbsp;ekonomiczne praktyki, które, jak się okazuje, od zawsze go kształtowały, na&nbsp;równi z&nbsp;siłami przyrody. Ostatecznie musimy więc mówić o&nbsp;kulturowej erozji krajobrazu. W&nbsp;ujęciu konstrukcjonistycznym, sugerowanym przez badaczy, takich jak: William J.T. Mitchell<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>, James Elkins<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> czy Denis Cosgrove<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>, praktyki tworzenia krajobrazu okazują się funkcjonować w&nbsp;ramach szerszego zakresu rozmaitych praktyk społecznych. Nie kwestionując tego krytycznego namysłu nad jego uwarunkowaniami, warto jednak zapytać o&nbsp;to, czy zdefiniowanie krajobrazu jako medium społecznego oddziaływania nie pomija jednego istotnego aspektu, na&nbsp;który zresztą samo mimochodem wskazuje.</p> <p><br>Mitchell we wstępie do zbioru <em>Landscape and Power </em>bardzo trafnie podkreśla, że&nbsp;krajobraz należy przede wszystkim rozumieć czasownikowo, a&nbsp;nie rzeczownikowo: powinniśmy zapytać „nie tylko o&nbsp;to, czym krajobraz »jest« albo »co oznacza«, ale o&nbsp;to, co <em>robi</em>, w&nbsp;jaki sposób operuje jako praktyka kulturowa”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Dla Mitchella to, co krajobraz „robi” związane jest przede wszystkim z&nbsp;„»pracą snu« imperializmu”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>, a&nbsp;jego wartość ma przede wszystkim charakter wymienny, nie użytkowy. Krajobraz, jako medium, naturalizuje przede wszystkim arbitralne, kulturowe i&nbsp;społeczne konstrukcje, zacierając ich konwencjonalny charakter, poprzez stworzenie przestrzeni, w&nbsp;której funkcjonują jako pozornie dane „same z&nbsp;siebie”.</p> <p>W przytoczonym ujęciu krajobraz jest przede wszystkim zapośredniczonym i&nbsp;usankcjonowanym kulturowo sposobem działania. Przeważa tutaj strona czynna: krajobraz(-owanie) to sposób kształtowania środowiska wszelkiego rodzaju. Co jednak ze stroną bierną? Czy moglibyśmy zapytać nie tylko o&nbsp;to, co „my” bądź też praktyki kulturowe robią przy użyciu takiego medium, ale również o&nbsp;to, co krajobraz „robi” z&nbsp;nami? Jeśli krajobraz jest działalnością, to jak on działa na&nbsp;nas? W&nbsp;jaki sposób opisać krajobraz, jeśli wziąć pod&nbsp;uwagę również jego pasywne doświadczenie, wynikające z&nbsp;faktu, że&nbsp;zawsze przecież jesteśmy już weń jakoś wpisani? Jakkolwiek kształtujemy krajobraz na&nbsp;wzór własnych fantazmatów, projektów ideologicznych, historycznie zdeterminowanych „światoobrazów”, to jednak nawet w&nbsp;wypadku pewnego wpisanego w&nbsp;określone granice widoku można wskazać moment, w&nbsp;którym to krajobraz działa na&nbsp;nas, jeszcze nim my sami zaczniemy nakładać nań swoje ramy. Jak uchwycić ten rodzaj „niewczesności” wpisanej w&nbsp;doświadczenie krajobrazu?</p> <p>Czy konstrukt kulturowy, nad którym dokonujemy krytycznego namysłu, będzie się w&nbsp;nieskończony sposób różnicował na&nbsp;poszczególne typy i&nbsp;podtypy, czy może uda się osadzić go w&nbsp;pewnym wyróżnionym doświadczeniu, do którego można by się dialektycznie odnieść, by opisać mechanizm ciągłej zmiany, rządzącej reprezentacjami krajobrazu? Albo inaczej: jeśli krajobraz jest symptomem, to z&nbsp;jakim ukrytym procesem mamy do czynienia? Warto wskazać na&nbsp;istotny aspekt doświadczenia krajobrazu, pomijany, jak się wydaje, w&nbsp;większości dyskusji skupionych wokół kulturowych uwarunkowań reprezentacji natury. Jest nim głębia i&nbsp;doświadczenie głębi, które nie oznacza jedynie, że&nbsp;to, na&nbsp;co spoglądam, rozpościera się gdzieś, gdzie nie sięga mój wzrok. W&nbsp;przypadku krajobrazu idzie przede wszystkim o&nbsp;prostą konstatację, że&nbsp;nigdy tak naprawdę nie znajdujemy się przed nim, a&nbsp;zawsze już w&nbsp;nim jesteśmy, będąc weń – jak to się mówi – „wpisani”, a&nbsp;krajobraz, niczym <em>pagina</em> – strona, ale też i&nbsp;przestrzeń – rozpościera się wokół nas, znajdując się nie tylko przed naszym wzrokiem, ale też i&nbsp;za naszymi plecami. Względem krajobrazu nigdy nie stoimy frontem: „Zawsze jest się z&nbsp;tej lub z&nbsp;tamtej strony głębi”, zauważa Maurice Merleau-Ponty<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/odosobnienie/246-3378-1-pb-1920x-618.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/8/odosobnienie/246-3378-1-pb-330x-940.jpg 330w,assets/cache/images/issues/2014/8/odosobnienie/246-3378-1-pb-660x-051.jpg 660w,assets/cache/images/issues/2014/8/odosobnienie/246-3378-1-pb-768x-217.jpg 768w,assets/cache/images/issues/2014/8/odosobnienie/246-3378-1-pb-1320x-c68.jpg 1320w" src="assets/cache/images/issues/2014/8/odosobnienie/246-3378-1-pb-660x-051.jpg" alt="" ></a>    <figcaption><p>William Hogarth, <em>Satyra na&nbsp;fałszywą perspektywę</em>, miedzioryt, 1753, frontyspis książki autorstwa Johna Joshui Kirby’ego <em>Dr. Brook Taylor's Method of Perspective made Easy both in Theory and Practice</em>.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Paradoksalnie najwierniejszą reprezentacją doświadczenia, o&nbsp;którym tu mowa mogłaby być słynna satyra Williama Hogartha, <em>Satire on False Perspective </em>(1754), wyśmiewająca niedostateczne umiejętności niektórych artystów w&nbsp;posługiwaniu się perspektywą linearną. Miedzioryt stygmatyzuje prace tych, którzy „przygotowują KOMPOZYCJĘ bez Wiedzy na&nbsp;temat PERSPEKTYWY” (<em>Whoever makes a</em> DESIGN <em>without the Knowledge of</em> PERSPECTIVE), jak głosi zamieszczony poniżej podpis. Można go jednak również potraktować jako świadectwo doświadczenia, które z&nbsp;konieczności poprzedza przygotowanie wszelkiego projektu i&nbsp;które właśnie dlatego pozbawione jest wiedzy na&nbsp;temat perspektywy.</p> <p>Poszczególne plany obrazu nie są uszeregowane w&nbsp;określonym porządku, lecz na&nbsp;siebie zachodzą, dane są we wzajemnym zmieszaniu. Uniemożliwia to jednoznaczne wskazanie perspektywicznego punktu zbiegu, jak również punktu oddalenia, który poinformowałby nas, z&nbsp;którego miejsca i&nbsp;z jakiej odległości patrzymy na&nbsp;przedstawienie. Na&nbsp;ilustracji Hogartha stojący na&nbsp;pierwszym planie mężczyzna może więc łowić wędką ryby, które znajdują się w&nbsp;rzece za&nbsp;domem, przed którym stoi, a&nbsp;mieszkanka tego domu podaje z&nbsp;górnego okna ogień wędrowcy stojącemu na&nbsp;wzgórzu majaczącym na&nbsp;horyzoncie.</p> <p>Nie jest to krajobraz poprawnie – to znaczy wedle zasad – widziany, jednak można w&nbsp;nim uchwycić doświadczenie bardziej pierwotne, związane z&nbsp;poruszaniem się i&nbsp;postrzeganiem dystansu. Jest to raczej opisywany przez Merleau-Ponty’ego „świat dziwaczny”, barokowy, w&nbsp;którym rzeczy nie są podporządkowane prawom panoramicznego przedstawienia, a&nbsp;więc przedstawienia podległego, uprzedniemu wobec doświadczenia, refleksyjnemu projektowi świadomości<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. W&nbsp;tym świecie rzeczy na&nbsp;siebie „zachodzą”, „ukrywają się” jedna za&nbsp;drugą. Nie jest to „przejrzysty świat bez cieni i&nbsp;stref mroku”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>, gdyż wpisana jest w&nbsp;ten świat możliwość przemieszczania, a&nbsp;co za&nbsp;tym idzie - ciągłej zmiany perspektyw, z&nbsp;których żadna nie wyklucza innych:</p> <blockquote>Nie mam najpierw jednego widoku perspektywicznego, potem innego, a&nbsp;między nimi więzi intelektualnej, ale każda perspektywa przechodzi w&nbsp;inną i&nbsp;jeżeli można mówić o&nbsp;syntezie, chodzi o&nbsp;„syntezę przechodzenia”. […] Kiedy patrzę na&nbsp;horyzont, nie myślę o&nbsp;innym krajobrazie, który zobaczyłbym, gdybym był w&nbsp;miejscu, gdzie kończy się ten, który aktualnie postrzegam, a&nbsp;potem o&nbsp;następnym i&nbsp;tak dalej, niczego sobie nie przedstawiam, ale wszystkie krajobrazy już istnieją w&nbsp;zgodnym powiązaniu i&nbsp;w otwartej nieskończoności swoich perspektyw.<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a><br><br></sup></blockquote> <p>Niezależnie więc od poziomu naszej krytycznej samowiedzy, dotyczącej społecznych praktyk konstruowania przestrzeni, zawsze istnieje możliwość, że&nbsp;w&nbsp;krajobrazie – naturalnym, albo jedynie konwencjonalnie „naturalnym”, miejskim, industrialnym czy kulturowym – możemy się zgubić. To poczucie zagubienia – doświadczenie „wymiarowości jako takiej”, „polimorficznego Bytu”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>, brak wszelkich punktów orientacyjnych – daje się odczytać z&nbsp;francuskiego <em>dépaysement</em> oznaczającego „poczucie obcości”.</p> <p>Ujęcie doświadczenia przestrzeni w&nbsp;krajobrazie, na&nbsp;które chcę wskazać proponuję określić mianem agorapatycznego. Różni się ono od podejścia, które pragnę nazwać agoraskopicznym, choć wcale go nie wyklucza. To drugie jest ściśle związane z&nbsp;tradycją formowania się europejskiego pojmowania krajobrazu, opisywaną w&nbsp;wielokroć przywoływanym tekście autorstwa Joahima Rittera <em>Krajobraz. O&nbsp;postawie estetycznej w&nbsp;nowoczesnym społeczeństwie</em><sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. W&nbsp;swej diagnozie dotyczącej narodzin nowego kontaktu z&nbsp;naturą, który będzie od tej pory znamionował nowoczesność, twierdzi on, podobnie zresztą jak Georg Simmel<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>, że&nbsp;wiążą się one ściśle z&nbsp;wykształceniem postawy teoretycznej względem świata. Zdaniem Rittera narodziny idei krajobrazu, odnajdującej swój wyraz w&nbsp;twórczości artystycznej, mają charakter kompensacyjny: wraz z&nbsp;postępującą naukową obiektywizacją rzeczywistości to ogląd estetyczny ma zapewnić utraconą zdolność obejmowania jednym spojrzeniem świata jako całości – „pełni natury”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Agoraskopia oznacza właśnie, że&nbsp;daną przestrzeń przede wszystkim na&nbsp;różne sposoby oglądamy. Krajobraz kształtowany jest metonimicznie: pewien określony wycinek odnoszony jest do pewnej całości, pojętej jako ustanowiona w&nbsp;tym kadrze jedność, zyskując tym samym pewną autonomię.</p> <p>Agorapatia, jak sama nazwa sugeruje, jest natomiast związana z&nbsp;takim aspektem doświadczenia, w&nbsp;którym wszelki teoretyczny „wzlot”, przezwyciężający bezpośredniość, jednostkowość i&nbsp;chwilowość przeżywanej cieleśnie, a&nbsp;więc i&nbsp;motorycznie<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>, przestrzeni nie byłby możliwy. Patos, który towarzyszy temu doświadczeniu przestrzeni, opisywany był niezależnie, w&nbsp;pracach fenomenologów: Henriego Maldiney’a oraz Bernharda Waldenfelsa. Jest on ściśle związany z&nbsp;doświadczeniem „bycia ugodzonym”, pisze ten ostatni<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. Owo „coś”, co nas (bezpośrednio), dotyka rządzi się prawem binegacji: ani nie jest wpisane w&nbsp;określony obiektywny związek przyczynowy, którego zarówno początek, jak i&nbsp;przebieg można by umieścić w&nbsp;świecie, ani nie da się go umieścić w&nbsp;subiektywnym schemacie świadomości, nadającym sens wydarzeniu, które mogłoby nigdy nie zaistnieć. Jak pisze Waldenfels:</p> <blockquote>Podsumowując, wszystko, co nam się jawi jako coś powinno zostać opisane nie jako po&nbsp;prostu coś, czemu nadaje się sens, ale jako coś, co wywołuje sens, samo nie będąc znaczące, jednak w&nbsp;dalszym ciągu jako coś, przez co jesteśmy dotknięci, naznaczeni, pobudzeni, zaskoczeni i&nbsp;do pewnego stopnia pogwałceni. Określam to coś mianem patosu, Widerfahrnis, albo afektu…<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>.</blockquote> <p>W doświadczeniu patosu zostaję dotknięty przez coś, co nachodzi sferę mojej subiektywności, przychodząc „z zewnątrz”. Nic więcej nie potrafię powiedzieć za&nbsp;wyjątkiem tego, co bezpośrednio odczułem w&nbsp;kontakcie z&nbsp;tym czymś, co stanowi wypadkową mojej własnej zdolności określania sensu i&nbsp;nieprzezwyciężalnej obcości tego, co mnie dotyka. Podobnym tropem idzie Maldiney, który w&nbsp;ramach szeroko pojmowanej odbiorczości zmysłowej rozróżnia doznawanie (<em>sensation</em>) oraz percepcję (<em>perception</em>). O&nbsp;ile percepcja związana już jest z&nbsp;rozpoznawaniem w&nbsp;tym, co doświadczone, dających się zaobserwować ogólnych właściwości, cech, do których można się odwołać w&nbsp;poznaniu, to doznawanie stanowi źródłowy moment patyczny. Jest to samo odczucie (<em>le sentir</em>) świata, tego, że&nbsp;„coś jest”: „źródłowe objawienie »<em>il y a</em>« urzeczywistnia się w&nbsp;odczuwaniu”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>.</p> <p>„Wadą terminu <em>patos </em>– wyjaśnia Maldiney – jest skojarzenie z&nbsp;ideami pasywności, podczas gdy moment patyczny zawiera w&nbsp;sobie pewną aktywność. Najmniejsze doznanie otwiera w&nbsp;istocie horyzont sensu na&nbsp;mocy tej aktywności w&nbsp;pasywności, której rozpoznanie przez Kanta ustanawia akt założycielski estetyki…”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. Doznawać więc to poddawać się temu, co obce, a&nbsp;zarazem, w&nbsp;nowo otwartym w&nbsp;ten sposób horyzoncie, poszukiwać sensu tego, co doświadczone.</p> <p>Z jednej strony jest więc tak, że&nbsp;krajobraz można opisać jako „fantazję nieprzynależenia do całości życia ziemskiego przestworu, przybierającą zwyczajowo postać: <em>ty należysz do nas, a&nbsp;my nie należymy do ciebie</em>”<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>. Fantazja ta wytwarza dystans pomiędzy tworzącym krajobraz człowiekiem, występującym w&nbsp;roli suwerena, a&nbsp;światem, ujętym albo w&nbsp;kategoriach społeczno-politycznych (twórca krajobrazu romantycznego nie przynależy do wiejskiego świata, na&nbsp;który spogląda), albo w&nbsp;kategoriach biologicznych (człowiek w&nbsp;krajobrazie ziemskim „z istoty” nie przynależy do świata zwierzęcego)<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. Dystans ten można jednak pojmować jako figurę fikcyjnego oddzielenia, zbudowaną na&nbsp;mechanizmie wyparcia tego, co najbardziej bliskie. Można go też definiować w&nbsp;kategoriach „niezbliżalności”, jako „niepowtarzalnego zjawiska pewnej dali, niezależnie od tego, jak blisko by ona nie była”<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>, a&nbsp;więc zgodnie z&nbsp;Benjaminowską definicją „aury”, która jest w&nbsp;równym stopniu figurą oddzielenia, co złączenia.</p> <p>Georges Didi-Huberman wskazuje na&nbsp;związek łączący takie pojęcie aury z&nbsp;analizami fenomenologicznymi związanego z&nbsp;krajobrazem dystansu, przeprowadzonymi najpierw przez Erwina Strausa, później przez Merleau-Ponty’ego<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>. „Doświadczyć aury zjawiska oznacza użyczyć jej zdolności otwierania spojrzenia”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>, podkreśla Benjamin, a&nbsp;doświadczenie aury zjawiska naturalnego, posiadające swe źródła w&nbsp;projekcji relacji społecznych na&nbsp;przyrodę, jest „spojrzeniem odwzajemnionym”<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>. Sam fakt, że&nbsp;dystans możemy dostrzec, już go w&nbsp;pewnym sensie znosi – „przybliża”. Jednak nawet jeśli, jak notuje Merleau-Ponty, „widzenie jest dotykaniem za&nbsp;pomocą wzroku”<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>, nie oznacza to absolutnej „zbliżalności”, gdyż w&nbsp;dotyk wpisany jest również pewien warunkujący go interwał, pewna głębia, w&nbsp;której dotykający i&nbsp;dotykany się spotykają.</p> <blockquote>Jednocześnie bliski i&nbsp;daleki – pisze Didi-Huberman – ale odległy nawet w&nbsp;swej bliskości: przedmiot auratyczny zakłada więc rodzaj ciągłego ruchu zamiatającego, albo ruchu tam i&nbsp;z powrotem, pewien rodzaj heurystyki, w&nbsp;ramach której dystanse – dystanse wzajemnie sprzeczne – doświadczałyby siebie nawzajem dialektycznie. Sam przedmiot w&nbsp;tej operacji staje się przejawem utraty, którą podtrzymuje, którą opracowuje wizualnie: prezentując się, zbliżając się, ale wytwarzając to zbliżenie jako odczuwany „niepowtarzalny” (einmalig) i&nbsp;„osobliwy” (sonderbar) moment suwerennego oddalenia, suwerennej obcości, lub cudzoziemskości. Dzieło znikającej i&nbsp;powracającej nieobecności, tkwiącej przed naszymi oczami i&nbsp;poza zasięgiem naszego wzroku, dzieło wynurzające się z&nbsp;nieobecności<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>.<br><br></blockquote> <p>Okazuje się, że&nbsp;tak opisywane doświadczenie odsłania konstytutywny dla percepcji krajobrazu wymiar, w&nbsp;którym ucieleśniony podmiot wpisany jest w&nbsp;otoczenie, odnajduje się wewnątrz zawsze już uprzednio danej całości możliwych odniesień. Wymiar ten opisywany jest przez Husserla jako „otwarcie otaczającego świata”, „horyzontalność”, a&nbsp;przez Merleau-Ponty’ego analizowany jest jako doświadczenie „głębi”. W&nbsp;podobny sposób opisuje ów wymiar Henri Maldiney, który pisze o&nbsp;tym, jak: „(…) pojawienie się Matterhornu albo menhiru na&nbsp;środku równiny otwiera przestrzeń jawienia się, w&nbsp;której nie jesteśmy już osadzeni między niebem a&nbsp;ziemią, lecz usytuowani w&nbsp;absolutnym »pomiędzy«, pochłaniającym niebo i&nbsp;ziemię oraz poprzedni interwał”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>.</p> <p>Wspomniany już Erwin Straus, uczeń Husserla, będący obok Ludwiga Binswangera przedstawicielem psychiatrycznej linii szkoły fenomenologicznej, zajął się w&nbsp;pracy <em>Vom Sinn der Sinne. Ein Beitrag zur Grundlegung der Psychologie</em><sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>, opublikowanej w&nbsp;1935 roku, próbą opisu wrażeniowości bądź doznawania wrażeń (<em>Empfinden</em>) jako źródłowego czucia (<em>Empfindung</em>), w&nbsp;którym podmiot kontaktuje się ze światem. Jest to moment poprzedzający zajęcie postawy poznawczej, która pojawia się, gdy przechodzimy na&nbsp;poziom postrzegania (<em>Wahrnehmung</em>). „Doznawanie ma się tak do poznawania jak krzyk do słów”, pisze Straus<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>. Ten pierwotny poziom kontaktu ze światem jest ściśle związany z&nbsp;odczuwaniem przestrzeni oraz motorycznością, a&nbsp;podstawowym wyznacznikiem, pozwalającym opisać zawiązujące się w&nbsp;nim relacje między podmiotem doznającym a&nbsp;otoczeniem, jest ruch „przybliżania” oraz „oddalania”, wytwarzający horyzont sensu, w&nbsp;którym jawi się określona jakość przedmiotu<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>. Najistotniejszym z&nbsp;naszego punktu widzenia twierdzeniem jest jednak to, że: „odczuwana przestrzeń tak się ma do przestrzeni postrzeganej jak krajobraz do geografii”<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>.</p> <p>Wprowadzając to rozróżnienie, Straus pragnie wskazać na&nbsp;pewne afektywne tło pod&nbsp;postacią przestrzeni krajobrazowej (<em>Landschaftsraum</em>), ukryte przed świadomością, orientującą się w&nbsp;otaczającej przestrzeni zgodnie z&nbsp;postrzeżeniową koordynacją, nastawioną na&nbsp;identyfikację i&nbsp;rozpoznanie, czyli przed przestrzenią geograficzną jako przestrzenią postrzegania (<em>Wahrnehmungsraum</em>). Wrażenie nie poddaje się reprezentacji. Można by rzec, że&nbsp;należy do świata, w&nbsp;którym podmiot nie ukonstytuował się jeszcze jako indywiduum i&nbsp;jako podmiot poznający. Być człowiekiem, zauważa Straus, to wydostać się poza otaczający bezpośrednio horyzont, poza partykularnie dane „tu i&nbsp;teraz” w&nbsp;kierunku tego, co ogólne. To umieścić rzeczy w&nbsp;określonym porządku i&nbsp;przypisać im pewne trwałe, pozwalające na&nbsp;identyfikację jakości, a&nbsp;więc stworzyć iterowalny schemat, przekształcający odczuwane wrażenia w&nbsp;dane zmysłowe stanowiące fundament poznania. Człowiek o&nbsp;tyle, o&nbsp;ile poznaje, nawet na&nbsp;najbardziej elementarnym poziomie orientowania się w&nbsp;świecie, funkcjonuje już w&nbsp;tym, co Straus określa jako przestrzeń geograficzną. Krajobraz pozostaje więc przestrzenią nieoswojoną, pre-antropologiczną o&nbsp;tyle, o&nbsp;ile w&nbsp;krajobrazie nie ma „osób”, ponieważ nie można jeszcze w&nbsp;nim być sobą. Najwłaściwszym porównaniem byłby rausz. W&nbsp;przestrzenie krajobrazu, pisze Straus:</p> <blockquote>wnikają narkomani; odnajdują spełnienie odurzając się swymi marzeniami, swymi upojeniami, swymi ekstazami, odwracając się od jasności czuwającego świata, by przeniknąć w&nbsp;noc i&nbsp;sen, oraz by pogrążyć się w&nbsp;muzyce, której mistrzami pozostają Cyganie. Kabaret to przestrzeń oddziedziczona po&nbsp;krajobrazie oraz centrum życia pijaka<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>.</blockquote> <p>Dystans, zbudowany na&nbsp;dialektyce bliskości oraz oddalenia – tego, co przyciąga podmiot do obiektu, każąc mu się doń zbliżyć (wzrokowo lub cieleśnie), a&nbsp;więc pokonać pewną odległość, oraz tego, co „odpycha” – realizuje się nie tyle „w krajobrazie”, ile „pod postacią krajobrazu”. Przestrzeń krajobrazowa, albo po&nbsp;prostu krajobraz, nie jest w&nbsp;tym wypadku definiowana jako określony widok, ale funkcjonuje jako pewna modalność doświadczenia. Jest to doświadczenie o&nbsp;charakterze pierwotnym, rządzone dialektyką „zbliżalności” i&nbsp;„niezbliżalności”, a&nbsp;więc doświadczenie posiadające, zgodnie z&nbsp;definicją Benjamina, charakter auratyczny.</p> <p>Auratyczność dzieła sztuki, wedle intuicji Didi-Hubermana, mogłaby ulec sekularyzacji poprzez wpisanie jej w&nbsp;szerszy kontekst, związany nie tyle z&nbsp;przeżyciem o&nbsp;charakterze religijnym, ile dającym się ująć w&nbsp;kategoriach relacji przestrzennych<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>. Najciekawsza jest jednak w&nbsp;tym wypadku artystyczna rola, jaka przypada doświadczeniu krajobrazu. Francuski historyk sztuki, omawiając prace Giuseppe Penone, podkreśla, że&nbsp;tworzenie rzeźby polega na&nbsp;odkrywaniu przestrzeni, której nie jest w&nbsp;stanie odzwierciedlić codzienne doświadczenie wizualne. Penone odwraca porządek wnętrza i&nbsp;zewnętrza, nicuje przestrzeń, ukazując „miejsce, w&nbsp;którym można się zagubić”, ale również miejsce, w&nbsp;którym tracimy samą przestrzeń<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup>. Jak to czyni? Przedmiotem namysłu w&nbsp;przywołanych pracach jest czaszka i&nbsp;to, co skryte w&nbsp;jej wnętrzu, czyli ludzki mózg. Ukazując owo niedostępne wzrokowi „wnętrze” na&nbsp;zewnątrz, pod&nbsp;postacią form przestrzennych, na&nbsp;przykład wstęgowych struktur przypominających szwy czaszkowe, „wywraca” niejako na&nbsp;nice porządek przestrzenny, w&nbsp;ramach którego funkcjonujemy. Przestrzeń dzieła sztuki staje się więc, podobnie jak pisał Merleau-Ponty, „wnętrzem zewnętrza i&nbsp;zewnętrzem wnętrza”<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>, a&nbsp;czaszka może objawić się jako krajobraz<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>.</p> <p>„Gdy stajemy przed tymi dziełami – pisze Didi-Huberman – z&nbsp;takiego odwrócenia wyłania się poczucie miejsca: niczym w&nbsp;krajobrazie otacza nas w&nbsp;widzialnej przestrzeni to, co otacza dotykowo nasz mózg w&nbsp;zaślepionej otoczce naszej czaszki”<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>. Sam Penone natomiast pisze: „To prawdziwy krajobraz ze swoimi nizinami, korytami rzek, górami, płaskowyżami, relief podobny do skorupy ziemskiej. Posiadamy otaczający nas krajobraz we wnętrzu tego pudełka projekcyjnego. Jest to krajobraz, we wnętrzu którego myślimy, krajobraz który nas spowija”<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>.</p> <p>„Krajobraz” staje się więc nazwą dla takiego doświadczenia przestrzeni, w&nbsp;którym codzienna percepcja zostaje zaburzona, utracone zostają punkty orientacyjne, a&nbsp;my nie tyle wkraczamy w&nbsp;przestrzeń całkowicie nową, ile konfrontujemy się z&nbsp;ukrytym do tej pory wymiarem przestrzeni, w&nbsp;której na&nbsp;co dzień funkcjonujemy, albo doświadczamy niezbadanego wcześniej, znajdującego się w&nbsp;niej miejsca<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup>. Jeśli w&nbsp;cytowanym fragmencie Penone pisze o&nbsp;„prawdziwym krajobrazie”, to nie ma na&nbsp;myśli – podkreślmy – krajobrazu, który jest „jak prawdziwy”, ale wskazuje właśnie na&nbsp;pewien aspekt doświadczenia, w&nbsp;którym przestrzeń odsłania swą „krajobrazowość” (<em>paysageité</em>), jak można by powiedzieć za&nbsp;Deleuze'em<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup>. Doświadczenie przestrzeni określanej jako „pejzaż” dzieliłoby więc właściwość „bycia krajobrazem” z&nbsp;innymi, mniej intuicyjnymi, a&nbsp;czasem całkowicie na&nbsp;pierwszy rzut oka absurdalnymi typami doświadczeń, jak pytanie rzucone w&nbsp;filmie Jean-Luca Godarda: „A więc twoja matka to krajobraz czy twarz? Twarz czy fabryka?”. Krajobraz to także miejsce osobne oraz od-osobnione, dane w&nbsp;specyficznym doświadczeniu odosobnienia, które należy rozumieć nie tylko jako doświadczenie przeżywane w&nbsp;samotności, „w miejscu odosobnienia”, ale także – a&nbsp;może nawet przede wszystkim – jako doświadczenie, w&nbsp;którym podmiot traci do pewnego stopnia władzę nad tym, co doznawane.</p> <p>Jest to przestrzeń, w&nbsp;której dokonuje się radykalna zmiana poprzez przeniesienie, przesunięcie, odwrócenie – swoistą de-lokację – zastanego układu odniesienia. Pojęcie to powraca u&nbsp;Didi-Hubermana w&nbsp;opisie serii prac Claudia Parmiggianiego zatytułowanych <em>Delocazione</em><sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup><em>. </em>Artysta za&nbsp;pomocą ognia oraz dymu utrwala na&nbsp;ścianach pustych pomieszczeń ślady, odciski znajdujących się tam przedmiotów. Pokój, w&nbsp;którym rzeczy są powiązane ze sobą nawzajem niewidzialnymi więziami swojej „poręczności” (<em>Zuhandenheit</em>), staje się w&nbsp;wyniku takiej operacji wyobcowanym pogorzeliskiem, miejscem niesamowitym, nawiedzanym przez ślady dawnej obecności, które nie odsyłają już do niczego znanego. Są to miejsca, którym patronuje <em>genius deloci</em><sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup>.<em></em></p> <p>By opisać ewokowany przez dzieło rodzaj doświadczenia – doświadczenia „miejsca, w&nbsp;którym doświadczyć można jednocześnie kontaktu i&nbsp;dystansu”<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup> – Didi-Huberman cytuje Erwina Strausa (przywołuję cytat w&nbsp;takiej postaci, w&nbsp;jakiej znajduje się w&nbsp;eseju o&nbsp;Parmiggianim):</p> <blockquote>O zmierzchu, w&nbsp;ciemnościach, w&nbsp;zamieci, […] nie wiem, gdzie się znajduję, nie potrafię określić swojego położenia w&nbsp;panoramie […]; zgubiliśmy drogę; czujemy się „zgubieni”; […] przestajemy być bytami historycznymi, to znaczy bytami, które dają się zobiektywizować. […] Śnimy za&nbsp;dnia z&nbsp;otwartymi oczami. Zostaliśmy pozbawieni świata obiektywnego, ale również samych siebie. Właśnie tym jest odczuwanie<sup><a href="#sdfootnote45sym" name="sdfootnote45anc">45</a></sup>.</blockquote> <p>Z pierwszego przytoczonego zdania Strausa wypadł jednak jeden interesujący nas tutaj przede wszystkim termin. Zdanie to w&nbsp;oryginale brzmi: „O zmierzchu, w&nbsp;ciemnościach, w&nbsp;zamieci nadal jestem w&nbsp;krajobrazie” [<em>In der Dämmerung, in der Dunkelheit, im Nebel bin ich noch in der Landschaft</em>]<sup><a href="#sdfootnote46sym" name="sdfootnote46anc">46</a></sup>. Jeśli więc miejsce, które wytwarzane jest przez dzieło, obdarzone jest specyficzną władzą prowokowania odczucia niesamowitości (<em>Unheimlichkeit</em>)<sup><a href="#sdfootnote47sym" name="sdfootnote47anc">47</a></sup>, to obszarem stanowiącym źródłową sferę w&nbsp;ten sposób przestrzennie przeformułowanego Freudowskiego „niesamowitego” jest właśnie krajobraz. „Krajobraz rozpoczyna się w&nbsp;sztuce – pisze Yves Bonnefoy – wraz z&nbsp;niepokojem świadomości metafizycznej, która zostaje nagle zaprzątnięta skrywającym się pod&nbsp;rzeczami cieniem”<sup><a href="#sdfootnote48sym" name="sdfootnote48anc">48</a></sup>.</p> <p>Krajobraz nie jest w&nbsp;dzieło wpisany czy zawarty w&nbsp;nim w&nbsp;wyniku tej, czy innej operacji, ale to dzieło staje się właściwie krajobrazem. Dzieje się tak przede wszystkim przez odwrócenie bądź zaburzenie zwyczajowych relacji przestrzennych, przez zniszczenie bądź przemieszczenie codziennych punktów orientacyjnych. Sprawia to, że&nbsp;powraca poczucie pierwotnego zagubienia w&nbsp;świecie, poczucie, że&nbsp;„nie jest się sobą”, ponieważ świat nie jest jeszcze (bądź już) światem, ale pozbawioną organizacji, nieprzejrzystą sferą rządzoną wyłącznie przez przyciąganie i&nbsp;odpychanie. Jak zauważa Straus:</p> <blockquote>Krajobraz jest niewidzialny, ponieważ im bardziej go doświadczamy, tym bardziej się w&nbsp;nim zatracamy. Ażeby doń dotrzeć, powinniśmy w&nbsp;miarę możliwości zrezygnować z&nbsp;wszystkich określeń czasowych, przestrzennych, obiektywnych; konieczność tej rezygnacji nie dotyczy wyłącznie naszego przedmiotu, ale w&nbsp;tej samej mierze dotyka nas samych<sup><a href="#sdfootnote49sym" name="sdfootnote49anc">49</a></sup>.</blockquote> <p>Philippe Lacoue-Labarthe pisze w&nbsp;tym kontekście o&nbsp;„odkrajobrazowaniu” (<em>le dépaysagement</em>), czyli usunięciu ograniczeń, które rządzą tradycyjnie pojmowanym krajobrazem jako widokiem specyficznie ukształtowanej natury, ujętej w&nbsp;określony kadr. Sprawia to, że&nbsp;„nie istnieje w&nbsp;zasadzie żaden punkt odniesienia, dokonało się przejście w&nbsp;nieznaną zewnętrzność, pozbawioną najmniejszej sugestii granicy czy śladu ograniczenia”<sup><a href="#sdfootnote50sym" name="sdfootnote50anc">50</a></sup>. Operacja ta jest o&nbsp;tyle specyficzna, że&nbsp;nie przebiega w&nbsp;wyniku destrukcji tradycyjnie pojmowanego dzieła, lecz przybiera postać „ekstymności”<sup><a href="#sdfootnote51sym" name="sdfootnote51anc">51</a></sup>, w&nbsp;wyniku której relacja między wnętrzem i&nbsp;zewnętrzem zostaje zaburzona, ponieważ wszystko okazuje się znajdować „na zewnątrz”: „nie ma miejsca na&nbsp;nic poza tym, co zostało u-widocznione (<em>é-vidence</em>) poprzez dotknięcie granicy widzialnego”<sup><a href="#sdfootnote52sym" name="sdfootnote52anc">52</a></sup>. Doświadczenie krajobrazu staje się więc w&nbsp;ten sposób:</p> <blockquote>(…) doświadczeniem samej sztuki, gdy ta dotyka własnej granicy, co stanowi jednocześnie granice myśli, i&nbsp;które wystawia się (…) na&nbsp;to zagadkowe „że coś jest” („qu’il y a”), które samo nie jest żadnym czymś, lecz które, podobnie jak bezmiar nieba, ogranicza całość tego, co ziemskie, prześwietla nas (nous surexpose) w&nbsp;naszej ek-sistencji na&nbsp;szczelinę zewnętrza: na&nbsp;objawienie tego, co nie może się objawić<sup><a href="#sdfootnote53sym" name="sdfootnote53anc">53</a></sup>.</blockquote> <p>To doświadczenie bycia pogrążonym w&nbsp;krajobrazie, aż&nbsp;do zatarcia się granic własnej osobności, stanowi jeden z&nbsp;wyznaczników pozwalających Gilles'owi Deleuze’owi na&nbsp;scharakteryzowanie perceptów<sup><a href="#sdfootnote54sym" name="sdfootnote54anc">54</a></sup>. W&nbsp;uproszczeniu można by powiedzieć, że&nbsp;są to eksplorowane przez literaturę wrażenia, które przenikają przez poziom dosłownego opisu i&nbsp;wskazują na&nbsp;moment całkowitego zlania się podmiotu ze światem. Percepty są sposobem, w&nbsp;jaki ukazane zostaje stawanie się świata: „Nie jesteśmy w&nbsp;świecie, raczej stajemy się wraz ze światem, stajemy się poprzez kontemplowanie go. Wszystko jest widzeniem, stawaniem się. Stajemy się uniwersum. Stawanie się zwierzęciem, rośliną, molekułą, stawanie się zerem”<sup><a href="#sdfootnote55sym" name="sdfootnote55anc">55</a></sup>. W&nbsp;celu dookreślenia tego momentu rozciągnięcia granic podmiotowości na&nbsp;cały świat w&nbsp;„twórczej fabulacji” Deleuze odwołuje się do doświadczenia krajobrazu, pisząc że&nbsp;„percept jest krajobrazem rozciągającym się przed człowiekiem pod&nbsp;nieobecność człowieka”<sup><a href="#sdfootnote56sym" name="sdfootnote56anc">56</a></sup>.</p> <p>Mielibyśmy w&nbsp;tym wypadku do czynienia z&nbsp;takim samym sposobem funkcjonowania krajobrazu jako pewnej radykalnej, deprywacyjnej formy doświadczania przestrzeni. Tym, czego zostajemy w&nbsp;tym doświadczeniu pozbawieni, jest przede wszystkim możliwość wskazania określonego miejsca, punktu odniesienia, łącznie z&nbsp;możliwością wskazania na&nbsp;tego, kto mówi – na&nbsp;tego, do kogo percept należy. Owo zatarcie nie ma jednak charakteru absolutnego w&nbsp;tym sensie, że&nbsp;nie przybiera żadnej trwałej postaci. Rozgrywa się raczej w&nbsp;dialektycznym napięciu pomiędzy całkowitą nieokreślonością a&nbsp;czymś określonym, pomiędzy zbliżeniem a&nbsp;całkowitym oddaleniem.</p> <p>W <em>Milles Plateaux </em>napięcie to jest opisywane jako wzajemne przenikanie się procesów „twarzowania” (<em>visagéification</em>) oraz „krajobrazowania” (<em>paysageification</em>)<sup><a href="#sdfootnote57sym" name="sdfootnote57anc">57</a></sup>. Pojawia się ono w&nbsp;części poświęconej „twarzowości” (<em>visagéite</em>), stanowiącej próbę opisu podstawowej jednostki ekspresji znaczenia związanego z&nbsp;określonym porządkiem znaków. Deleuze’owi chodzi przede wszystkim o&nbsp;„odczłowieczenie” twarzy, o&nbsp;rozpatrzenie operacji formowania się pewnej ekspresji poza relacjami podmiotowymi. Podstawowym modelem jest w&nbsp;tym wypadku „system biała ściana – czarna dziura”<sup><a href="#sdfootnote58sym" name="sdfootnote58anc">58</a></sup>. Już w&nbsp;tej, najprostszej relacji można wyróżnić pewną sferę, która neutralizuje to, co znajduje się na&nbsp;zewnątrz, czyniąc centrum naszej uwagi z&nbsp;określonej powierzchni i&nbsp;z tego, co się na&nbsp;niej znajduje. „Twarz – piszą następnie Deleuze i&nbsp;Guattari – posiada swój niezwykle ważny korelat, krajobraz, który nie jest po&nbsp;prostu miejscem, ale zdeterytorializowanym światem”<sup><a href="#sdfootnote59sym" name="sdfootnote59anc">59</a></sup>.</p> <p>O ile „twarz” stanowi system zbudowany na&nbsp;wyszczególnieniu pewnych elementów, o&nbsp;tyle „krajobraz” rządzi się prawem ekstensywności: powierzchnię, jaką tworzy można w&nbsp;nieskończoność dzielić, posługując się określonym systemem (na przykład systemem metrycznym), bez istotnych zmian jakościowych w&nbsp;jej obrębie. Krajobraz jawi się więc w&nbsp;tym ujęciu jako niezhierarchizowana jedność zróżnicowanych części – detali krajobrazu. Opis krajobrazu sprowadza się do wyliczenia w&nbsp;ramach serii poszczególnych elementów, z&nbsp;których żaden nie może być bardziej istotny od pozostałych. W&nbsp;tym rozumieniu krajobraz malarski nie jest po&nbsp;prostu jakimkolwiek nagromadzeniem elementów naturalnych, które byłoby równoważne innym gatunkom:</p> <blockquote>Ściśle mówiąc, przestrzeń, wyludnione krajobrazy i&nbsp;martwą naturę łączy oczywiście wiele podobieństw, wspólnych funkcji i&nbsp;wyraźnych przejść. Nie są jednak tym samym, martwej natury nie sposób pomylić z&nbsp;pejzażem. Pusta przestrzeń swoje znaczenie zawdzięcza przede wszystkim brakowi możliwej treści, podczas gdy martwą naturę określa obecność i&nbsp;kompozycja przedmiotów, które się spowijają albo stają się swoim własnym naczyniem<sup><a href="#sdfootnote60sym" name="sdfootnote60anc">60</a></sup>.</blockquote> <p>Krajobraz stanowi więc jeden z&nbsp;biegunów dialektycznego napięcia, drugim jest twarz. Zarówno historia malarstwa, jak i&nbsp;historia architektury rozgrywa się zaś w&nbsp;ciągłym przechodzeniu między jednym i&nbsp;drugim: malarstwo może z&nbsp;krajobrazu uczynić twarz (jak na&nbsp;obrazach Arcimbolda), a&nbsp;architektura wpisuje w&nbsp;krajobraz budynki na&nbsp;podobieństwo poszczególnych twarzy. Można mówić o&nbsp;wymianie między biegunami i&nbsp;ich wzajemnym dopełnianiu:</p> <blockquote>Nie ma twarzy, która nie skrywa nieznanego, niezbadanego krajobrazu; nie ma krajobrazu, który nie jest zasiedlony przez ukochaną bądź wymarzoną twarz, który nie wywołuje twarzy mającej nadejść, albo tej, która już przeminęła. Jaka twarz nie przywoływała krajobrazów, z&nbsp;którymi się łączyła, morza i&nbsp;wzgórza; jaki krajobraz nie wywoływał twarzy, która by go uwieńczyła, dostarczając nieoczekiwanego dopełnienia dla jego linii i&nbsp;rysów?<sup><a href="#sdfootnote61sym" name="sdfootnote61anc">61</a></sup></blockquote> <p>Opisywana tu agorapatia, jako związek bliskości i&nbsp;nieprzebytego dystansu, jako pozbawienie tego, co bliskie trwałych punktów orientacyjnych i&nbsp;bezpośrednie wystawienie się na&nbsp;to, co nie daje się w&nbsp;żaden sposób przybliżyć, wpływa nie tylko na&nbsp;sposób doświadczania przestrzeni, ale również na&nbsp;odbiór dzieła sztuki.</p> <p>Jean-François Lyotard, sięgając często do przykładu <em>Salonu 1767 </em>Diderota i&nbsp;słynnego fragmentu, znanego jako „Przechadzka Verneta” (<em>La Promenade Vernet</em>)<sup><a href="#sdfootnote62sym" name="sdfootnote62anc">62</a></sup><em></em>wskazuje na&nbsp;tę samą, co Deleuze zdolność dzieł sztuki do znoszenia granic. Nie są to, jak w&nbsp;przypadku tekstu Diderota, granice wyłącznie gatunkowe, które Lyotard będzie opisywał, powołując się na&nbsp;„politykę satyryczną”<sup><a href="#sdfootnote63sym" name="sdfootnote63anc">63</a></sup>, ale również granice między kulturą i&nbsp;naturą, obrazem i&nbsp;rzeczywistością, głębią oraz powierzchnią<sup><a href="#sdfootnote64sym" name="sdfootnote64anc">64</a></sup><em>.</em><em></em></p> <p>Sytuacja, którą opisuje Lyotard, powołując się na&nbsp;„wejście w&nbsp;obraz”, które dokonuje się w&nbsp;tekście Diderota dokładnie odwraca porządek opisywany przez Rosalind Krauss w&nbsp;słynnym tekście o&nbsp;reprezentacji krajobrazu w&nbsp;fotografii. Jej zdaniem porządek dyskursywny przestrzeni muzealnej przyczynił się do ukształtowania określonego gatunku malarstwa, a&nbsp;także do pewnego momentu, pewnej historycznej postaci fotografii<sup><a href="#sdfootnote65sym" name="sdfootnote65anc">65</a></sup>. Zdaniem Krauss malarstwo krajobrazowe stanowi odpowiedź na&nbsp;nowy sposób obcowania z&nbsp;obrazami, jakimi stały się w&nbsp;XIX wieku wystawy. Wraz z&nbsp;pojawieniem się przestrzeni wystawowej ściana galerii zaczyna symbolizować w&nbsp;pewnym sensie wszystko, co związane ze sztuką, a&nbsp;samo wystawianie dzieł staje się podstawowym wyznacznikiem wymiany między mecenasami, artystami oraz widzami. Malarstwo krajobrazowe „przyswaja przestrzeń wystawy”, a&nbsp;więc ścianę, i&nbsp;zaczyna ją reprezentować. Przedstawienia krajobrazowe, rozciągając się, kompresując, by osiągnąć właściwy efekt perspektywicznego skrótu wreszcie całkowicie zlewając się ze ścianą, jak na&nbsp;obrazach Moneta, ostatecznie reprezentują nie „świat”, lecz przestrzeń dyskursu estetycznego, ustanowioną przez muzeum.</p> <p>Wbrew temu twierdzeniu przestrzeń muzeum można, zdaniem Lyotarda, potraktować jako sposób na&nbsp;zachowanie, będące jednocześnie sposobem na&nbsp;utrzymanie, albo podtrzymanie w&nbsp;gotowości<em> (entretenir</em><em>), pewnego wydarzenia spotkania</em><em> (entretien</em><em>)</em><sup><a href="#sdfootnote66sym" name="sdfootnote66anc">66</a></sup>. Muzeum przede wszystkim zachowuje, utrzymując w&nbsp;dziele ciągłą gotowość do zatrzymania „materialnej obecności” koloru. Nie mamy w&nbsp;tym wypadku do czynienia z&nbsp;narzuceniem obrazowi struktury reprezentacji przez określoną przestrzeń – ścianę muzeum, która jednocześnie eksponuje i&nbsp;archiwizuje. Dzieło malarskie powstaje, pisze Lyotard, jako próba wyeksponowania barwnej materii, „która odwołuje się do obecności poza reprezentacją”<sup><a href="#sdfootnote67sym" name="sdfootnote67anc">67</a></sup>. Przeniesienie ciężaru analizy z&nbsp;form czy określonych figur, a&nbsp;więc tego, co udaje się „zbliżyć” dzięki operacji odczytywania sensu tego, co widziane, na&nbsp;sam kolor można potraktować jako operację zniesienia schematyzmu intelektu (idąc tropem Kantowskiej wzniosłości), albo przezwyciężenie dyskursywnych warunków doświadczenia estetycznego (idąc tropem polemik strukturalistycznych). Zadaniem malarstwa jest, jak podkreśla Lyotard, „rozbrojenie umysłu” pod&nbsp;wpływem „»efektu« koloru”, a&nbsp;więc ukazanie w&nbsp;tym, co „bliskie” – co daje się poznać, nazwać – tego, co „niezbliżalne”, czyli tego, co doświadczane jest bezpośrednio jako określony odcień barwy, subiektywne <em>quale</em>. Wzajemne, podtrzymywane napięcie między oboma wymiarami dzieła mogłoby skłonić do ujęcia go w&nbsp;terminach wcześniej opisywanego doświadczenia krajobrazu. Czy jednak nie byłoby to nadużycie?</p> <p>Jeśli sięgniemy do tekstu Diderota, w&nbsp;którym opisuje on, w&nbsp;formie listu adresowanego do swego przyjaciela Melchiora Grimma, obrazy Josepha Verneta, prezentowane na&nbsp;wystawie zorganizowanej przez Akademię Królewską Malarstwa i&nbsp;Rzeźby, to taka hipoteza zyska na&nbsp;prawdopodobieństwie. Diderot rozpoczyna opis siedmiu pokazanych w&nbsp;1767 roku malowideł w&nbsp;taki sposób, że&nbsp;nie możemy być pewni, czy będzie nam opowiadał o&nbsp;zwiedzaniu wystawy, na&nbsp;której wiszą pokazywane krajobrazy, czy może będzie to opowieść o&nbsp;przechadzkach, podczas których pojawiło się określone doświadczenie krajobrazu. Opis Diderota rozpoczyna się tak: „(…) w&nbsp;towarzystwie księdza, wychowawcy dzieci z&nbsp;pobliskiego domu, jego dwóch uczniów, mej laski oraz notatnika miałem zwiedzić najpiękniejsze na&nbsp;świecie okolice. Zamierzam je Panu opisać i&nbsp;ufam, że&nbsp;te obrazy najbardziej się do tego nadadzą”<sup><a href="#sdfootnote68sym" name="sdfootnote68anc">68</a></sup>.</p> <p>Nie odnajdziemy u&nbsp;Diderota sygnałów wprowadzających ekfrazę – doświadczenie krajobrazu depersonalizuje podmiot mówiący, czyniąc zeń wędrowca przemierzającego krainę, a&nbsp;nie widza stojącego przed jej obrazem. Wedle Lyotarda dokonana przez Diderota operacja, polegająca na&nbsp;zatarciu różnicy pomiędzy tym, kto opisuje, a&nbsp;tym, co stanowi przedmiot opisu – między tym, co należy do porządku diegetycznego, a&nbsp;tym, co w&nbsp;standardowym opisie znajduje się na&nbsp;zewnątrz niego – sprawia, że&nbsp;„każdy fikcyjnie zwiedzony krajobraz staje się w&nbsp;ten sposób wystawieniem »natury«”<sup><a href="#sdfootnote69sym" name="sdfootnote69anc">69</a></sup>. Dzieło nie „reprezentuje wystawy”, co sugerowała Krauss (Vernet nie ma oczywiście ambicji stania się modernistą w&nbsp;jej rozumieniu), lecz eksponuje pewien aspekt (nie prospekt!) doświadczenia natury. Jakkolwiek należy do określonego porządku reprezentacji, pozwala się prezentować czemuś, co poza ten porządek wykracza: „Zaznaczając, że&nbsp;krajobrazy są wystawami Diderot sugeruje także coś odwrotnego: że&nbsp;wystawy są krajobrazami”<sup><a href="#sdfootnote70sym" name="sdfootnote70anc">70</a></sup>.</p> <p>Pokazywane w&nbsp;muzeum dzieła tworzą krajobraz w&nbsp;tym sensie, że&nbsp;prezentują obecność: nie jest to ani powtórne przywołanie pierwotnego aktu twórczego oraz historycznych jego okoliczności, ani różnicujące odroczenie, które poprzez szereg dyskursywnych zapośredniczeń nie pozwala na&nbsp;przywołanie pierwotnego doświadczenia. Wystawa jako krajobraz to miejsce, które zostało nawiedzone przez niedającą się zidentyfikować obecność, która dla Lyotarda jest doświadczeniem koloru, wolnego od wszelkiej „intrygi”. Nie można o&nbsp;tym opowiedzieć, można tego doświadczyć<sup><a href="#sdfootnote71sym" name="sdfootnote71anc">71</a></sup><em>. </em></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/odosobnienie/246-3380-1-pb-1920x-618.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/8/odosobnienie/246-3380-1-pb-330x-940.jpg 330w,assets/cache/images/issues/2014/8/odosobnienie/246-3380-1-pb-660x-051.jpg 660w,assets/cache/images/issues/2014/8/odosobnienie/246-3380-1-pb-768x-217.jpg 768w,assets/cache/images/issues/2014/8/odosobnienie/246-3380-1-pb-1320x-c68.jpg 1320w" src="assets/cache/images/issues/2014/8/odosobnienie/246-3380-1-pb-660x-051.jpg" alt="" ></a>    <figcaption><p>Michael Snow przed specjalnie zaprojektowanym na&nbsp;potrzeby filmu urządzeniem ustawionym na&nbsp;szczycie góry w&nbsp;północnym Quebecu, październik 1969. Fot. Joyce Wieland. ©Michael Snow. Courtesy of the artist and Jack Shainman Gallery, New York.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Za jeden z&nbsp;najbardziej radykalnych przykładów takiego ujęcia doświadczenia krajobrazu należy uznać eksperymentalny film autorstwa kanadyjskiego artysty Michaela Snowa, <em>La région centrale</em> (1971). Jest to trzygodzinny zapis ruchów kamery ustawionej w&nbsp;górskim krajobrazie północnego Quebecu. Skonstruowany specjalnie wysięgnik umożliwił obsługującemu kamerę automatowi zdalne wykonywanie nią ruchów o&nbsp;360 stopni we wszystkich osiach.</p> <p>W filmie, ruchy kamery penetrują krajobraz wokoło, obracając się na&nbsp;wysięgniku w&nbsp;zmiennej prędkości, z&nbsp;każdym kolejnym ujęciem innej niż poprzednio, a&nbsp;każdy kolejny obrót pozostaje dla widza całkowicie nieprzewidywalny. Kamera albo „buja się” w&nbsp;lewo i&nbsp;w prawo, niczym huśtawka, albo obraca powoli równolegle do linii horyzontu, by nagle, dokonując obrotu o&nbsp;180 stopni i&nbsp;zachowując ciągłość tej linii, odwrócić relacje między niebem i&nbsp;ziemią, wreszcie horyzont ostatecznie znika, gdyż kamera kieruje się albo bezpośrednio na&nbsp;ziemię, lub celuje w&nbsp;niebo, czy całkowicie zaburza układ równoległy, obracając się po&nbsp;osi diagonalnej. Krajobraz prezentowany jest tu jako „zawrót głowy”.</p> <p><b></b>Rzecz jednak w&nbsp;tym, że&nbsp;jeśli efekt zawrotu głowy faktycznie zostaje wywołany (a odczuwalne to jest już po&nbsp;pierwszych pięciu, dziesięciu minutach seansu), to wraz z&nbsp;nim „znika” także wszelkie „tutaj”. Trudno jest mówić o&nbsp;określonym krajobrazie, choć oczywiście można podać jakąś jego pobieżną charakterystykę. Ramię, na&nbsp;którym zawieszona została kamera, odpowiada mniej więcej przeciętnemu wzrostowi człowieka i&nbsp;dlatego ruch horyzontalny może przynosić skojarzenia z&nbsp;obrotem głowy lub całego ciała wokół własnej osi. Skojarzenie to jednak szybko okazuje się niewłaściwe, ponieważ inne ruchy pozostają z&nbsp;punktu widzenia możliwości ciała ludzkiego całkowicie niemożliwe. Kamera nie „stoi” na&nbsp;ziemi, nie ma bowiem „nóg” i&nbsp;może obracać się wokół dowolnie wybranej osi. Prezentowany widok jest w&nbsp;radykalny sposób antyiluzyjny w&nbsp;tym sensie, że&nbsp;nie reprezentuje żadnego zakładanego panoramicznego efektu krajobrazu. Zamiast iluzji reprezentacji mamy w&nbsp;tym wypadku do czynienia z&nbsp;doświadczeniem całkowitego pochłonięcia, z&nbsp;zawłaszczeniem podmiotu patrzącego przez obraz filmowy. Diegeza rozpada się, zamiast syntetyzować ruch zgodnie z&nbsp;czasowym porządkiem następstwa. Przedstawienie perspektywiczne pozbawione zostaje określonego punktu zbiegu. Krajobraz nie jest w&nbsp;tym wypadku widziany, jeśli rozumieć przez to spoglądanie na&nbsp;określony widok. Należałoby raczej powiedzieć, że&nbsp;mamy tu do czynienia z&nbsp;doświadczeniem krajobrazu, które polega na&nbsp;byciu dotkniętym przez krajobraz. W&nbsp;ten sposób film miałby umożliwić wniknięcie w&nbsp;doświadczenie krajobrazu poza ramami przedstawienia. Jak w&nbsp;jednym z&nbsp;wywiadów mówił Snow:</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/odosobnienie/246-3382-1-pb-1920x-d54.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/8/odosobnienie/246-3382-1-pb-330x-a99.jpg 330w,assets/cache/images/issues/2014/8/odosobnienie/246-3382-1-pb-660x-433.jpg 660w,assets/cache/images/issues/2014/8/odosobnienie/246-3382-1-pb-768x-7b4.jpg 768w,assets/cache/images/issues/2014/8/odosobnienie/246-3382-1-pb-1320x-840.jpg 1320w" src="assets/cache/images/issues/2014/8/odosobnienie/246-3382-1-pb-660x-433.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <blockquote>Jeżeli całkowicie pogrążysz się w&nbsp;rzeczywistości tych kolistych ruchów, to albo kręcisz się w&nbsp;otoczeniu tego wszystkiego, albo na&nbsp;odwrót, stanowisz nieruchome centrum, a&nbsp;wszystko obraca się wokół ciebie. Jednak na&nbsp;ekranie, co najdziwniejsze, tego centrum nie widać. Jeden z&nbsp;tytułów, które rozważałem to !?432101234?! […], miałem przez to na&nbsp;myśli, że&nbsp;zmniejszając wymiary, dochodzisz do zera, a&nbsp;w tym filmie zero stanowi absolutne centrum, nirwaniczne zero, stanowiące ekstatyczne centrum pełnej sfery<sup><a href="#sdfootnote72sym" name="sdfootnote72anc">72</a></sup>.</blockquote> <p>Obraz filmowy rejestrowany jest jako „wycinek” przestrzeni, z&nbsp;pewnego absolutnego, tj. nieporuszonego punktu widzenia, czyli ze statywu, na&nbsp;którym zostało zamocowane ruchome ramię kamery. To „zbliżalny”, oswojony bowiem i&nbsp;dający się wpisać w&nbsp;rozpoznawalny schemat reprezentacji, aspekt tego doświadczenia. Jednak poszczególne kadry, rejestrowane z&nbsp;każdym ruchem kamery nie prowadzą do ukonstytuowania się jakiejkolwiek całości. Ruch jest synkopowany i&nbsp;żaden obrót obiektywu kamery nie nawiązuje do następnego. Wszystkie ruchy, zebrane razem, pozbawione są całościowego sensu, który wymyka się bezustannie z&nbsp;każdym kolejnym nadchodzącym obrotem maszynerii. To „niezbliżany” aspekt tego doświadczenia, przypominający rausz Strausa czy percept Deleuze’a. Obraz wynurza się tyleż z&nbsp;nieobecności osoby zdolnej do pochwycenia go w&nbsp;spojrzeniu, ile z&nbsp;narzucającej się obezwładniającej obecności materii. Staje się, jak określa to doświadczenie Lyotard, „znakiem przerażającej obecności, w&nbsp;której umysł się gubi”<sup><a href="#sdfootnote73sym" name="sdfootnote73anc">73</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/odosobnienie/246-3384-1-pb-1920x-d54.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/8/odosobnienie/246-3384-1-pb-330x-a99.jpg 330w,assets/cache/images/issues/2014/8/odosobnienie/246-3384-1-pb-660x-433.jpg 660w,assets/cache/images/issues/2014/8/odosobnienie/246-3384-1-pb-768x-7b4.jpg 768w,assets/cache/images/issues/2014/8/odosobnienie/246-3384-1-pb-1320x-840.jpg 1320w" src="assets/cache/images/issues/2014/8/odosobnienie/246-3384-1-pb-660x-433.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Krajobraz w&nbsp;filmie Snowa nie stanowi wyniku pogwałcenia zasad poprawnego przedstawienia. Jest raczej próbą krytycznego namysłu nad warunkami, które czynią przedstawienie możliwym. Warunki te poprzedzają wszelką syntezę danych zmysłowych, dzięki której ujmujemy je w&nbsp;jeden, spójny obraz. Tym samym należą do porządku doznawania albo odczuwania (<em>Empfindung, sensation</em>), w&nbsp;którym, można by powiedzieć, nie ma miejsca na&nbsp;osobę. Dokładniej: nie ma jednego miejsca, jest bowiem nieskończenie wiele niedających się złożyć w&nbsp;jedną spójną całość miejsc; nie ma jednego czasu, brak jest bowiem określonej linii narracyjnej, a&nbsp;czas zdaje się płynąć we wszystkich kierunkach; wreszcie nie ma osoby, gdyż ten, „kto patrzy” pozbawiony zostaje swego absolutnego punktu widzenia, jego status zewnętrznego obserwatora zostaje podważony, gdyż sam zostaje wpisany w&nbsp;obraz. Tak przynajmniej opisuje manewr Snowa Lyotard, wskazując na&nbsp;operację potrójnego zaburzenia: spójności przedstawienia, ciągłości przestrzennej oraz czasowej<sup><a href="#sdfootnote74sym" name="sdfootnote74anc">74</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/odosobnienie/246-3386-1-pb-1920x-d54.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/8/odosobnienie/246-3386-1-pb-330x-a99.jpg 330w,assets/cache/images/issues/2014/8/odosobnienie/246-3386-1-pb-660x-433.jpg 660w,assets/cache/images/issues/2014/8/odosobnienie/246-3386-1-pb-768x-7b4.jpg 768w,assets/cache/images/issues/2014/8/odosobnienie/246-3386-1-pb-1320x-840.jpg 1320w" src="assets/cache/images/issues/2014/8/odosobnienie/246-3386-1-pb-660x-433.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Urządzenie stanowiące domyślny „podmiot” oglądanego krajobrazu pracuje „zgodnie z&nbsp;paradoksalną logiką pokrewną logice sofistów i&nbsp;Nietzschego: istnieją wyłącznie perspektywy i&nbsp;ciągle można wynajdywać nowe”<sup><a href="#sdfootnote75sym" name="sdfootnote75anc">75</a></sup>. Obraz filmowanego krajobrazu zawiera również samego „patrzącego”, czyli wysięgnik z&nbsp;kamerą, który co jakiś czas pojawia się w&nbsp;kadrze. Choć więc mogłoby się wydawać, że&nbsp;spoglądamy na&nbsp;krajobraz z&nbsp;dogodnego, zdystansowanego punktu obserwacyjnego, to okazuje się, iż&nbsp;właśnie ten punkt nam umyka. Ziemia dosłownie wymyka się spod stóp, ponieważ obrazem filmowym rządzi w&nbsp;tym wypadku dośrodkowa siła przyciągająca wszystkie obiekty w&nbsp;kierunku „centralnego regionu”. W&nbsp;tekście, noszącym tytuł <em>Scapeland,</em> poświęconym bezpośrednio krajobrazowi, Lyotard zauważa, że&nbsp;w&nbsp;przypadku takiego od-osobnionego ujęcia krajobrazu, chodzi nie tyle o&nbsp;pokazanie zniknięcia perspektywicznego punktu zbiegu linii, wyznaczonego w&nbsp;klasycznym ujęciu przed podmiot, kierujący całym widowiskiem, ale o&nbsp;opisanie sytuacji, gdy to miejsce, z&nbsp;którego spogląda podmiot, „zbiega” – wymyka się spod stóp. W&nbsp;tym sensie w&nbsp;krajobrazie nie jesteśmy „sami ze sobą”, ale jesteśmy „poza sobą”<sup><a href="#sdfootnote76sym" name="sdfootnote76anc">76</a></sup>. Krajobraz – <em>landscape</em>, jak sugeruje Lyotard, jest tak naprawdę tym, co nam się w&nbsp;bezpośrednim doświadczeniu bezustannie wymyka – <em>escape</em>, i&nbsp;co może jedynie retroaktywnie zostać ujęte w&nbsp;sztywne ramy przedstawienia. W&nbsp;tym sensie nie możemy mieć na&nbsp;tym poziomie doświadczenia obrazu jakiejkolwiek krainy czy kraju, natomiast zawsze konfrontujemy się z&nbsp;pewnym kresem, z&nbsp;tym, co nie daje się przybliżyć. Krajobraz jako obraz nie kraju, lecz kresu: kres-obraz.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/odosobnienie/246-3388-1-pb-1920x-d54.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/8/odosobnienie/246-3388-1-pb-330x-a99.jpg 330w,assets/cache/images/issues/2014/8/odosobnienie/246-3388-1-pb-660x-433.jpg 660w,assets/cache/images/issues/2014/8/odosobnienie/246-3388-1-pb-768x-7b4.jpg 768w,assets/cache/images/issues/2014/8/odosobnienie/246-3388-1-pb-1320x-840.jpg 1320w" src="assets/cache/images/issues/2014/8/odosobnienie/246-3388-1-pb-660x-433.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Thierry de Duve pisze w&nbsp;kontekście filmu Snowa o&nbsp;„deiktyce doświadczenia”<sup><a href="#sdfootnote77sym" name="sdfootnote77anc">77</a></sup>. Doświadczenie wskazuje bezpośrednio na&nbsp;kontekst, w&nbsp;którym występuje, a&nbsp;nie na&nbsp;podmiotowe uwarunkowania umożliwiające syntezę danych zmysłowych – ujęcie ich w&nbsp;jeden obraz za&nbsp;względu na&nbsp;jakieś „ja”. Podmiot, czas, przestrzeń zostają „uwolnione” od swej transcendentalnej podstawy, doświadczenie krajobrazu jest „niczyje”:</p> <blockquote>Centrum centralnego regionu – pisze de Duve – przypomina czarną dziurę. Jego siła grawitacyjna jest tak silna, że&nbsp;wszystko w&nbsp;otoczeniu zostaje przez nie wchłonięte, jednak ono samo pozostaje mroczne, niewidzialne, nieświadome tego, co robi. Oko maszynerii widzi wszystko za&nbsp;wyjątkiem samego siebie. W&nbsp;przeciwieństwie do Kartezjańskiego i&nbsp;Kantowskiego podmiotu nie jest refleksyjne<sup><a href="#sdfootnote78sym" name="sdfootnote78anc">78</a></sup>.</blockquote> <p>„Ja”, „tu” i&nbsp;„teraz” uzależnione są wyłącznie od tego, co aktualnie wydarza się na&nbsp;ekranie, a&nbsp;nie od dających się opisać przeżyć określonego podmiotu, w&nbsp;określonym czasie i&nbsp;miejscu. „Nagromadzenie figur na&nbsp;filmie nie prowadzi do stworzenia rozpoznawalnej przestrzeni geometrycznej (…). Centrum regionu jest labirynt”<sup><a href="#sdfootnote79sym" name="sdfootnote79anc">79</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/odosobnienie/246-3390-1-pb-1920x-d54.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/8/odosobnienie/246-3390-1-pb-330x-a99.jpg 330w,assets/cache/images/issues/2014/8/odosobnienie/246-3390-1-pb-660x-433.jpg 660w,assets/cache/images/issues/2014/8/odosobnienie/246-3390-1-pb-768x-7b4.jpg 768w,assets/cache/images/issues/2014/8/odosobnienie/246-3390-1-pb-1320x-840.jpg 1320w" src="assets/cache/images/issues/2014/8/odosobnienie/246-3390-1-pb-660x-433.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Warto więc wskazać na&nbsp;koniec za&nbsp;Lyotardem na&nbsp;podstawowe trudności związane z&nbsp;reprezentacją tak rozumianego doświadczenia krajobrazu. Doświadczenie to nie musi być koniecznie związane ani z&nbsp;byciem wystawionym na&nbsp;otwartą, nieskończoną przestrzeń, ani z&nbsp;ujmowaniem w&nbsp;wizualny kadr określonego widoku. Pojawia się natomiast wszędzie tam, gdzie następuje wyobcowanie, gdzie stabilność własnej podmiotowej pozycji zostaje zachwiana wraz z&nbsp;nadchodzącą falą „materialnej obecności”, jakby to powiedział Lyotard. Jeśli zgodzimy się z&nbsp;tym, co twierdził Straus odnośnie uprzedniości odczuwania względem postrzegania, to powinniśmy również uznać doświadczenie krajobrazu za&nbsp;pierwotne. Twierdzenie to, odniesione do sztuki, ukazuje dwuznaczną funkcję pełnioną w&nbsp;niej przez krajobraz: figuratywnie reprezentuje on pewną całość – obszar podporządkowany zdystansowanemu spojrzeniu od strony doświadczenia jawi się jako pustka – jako to, o&nbsp;czym nie sposób nic powiedzieć, ani czego nie da rady pokazać.</p> <p>Jeśli przyjrzeć się na&nbsp;chwilę dokładniej sposobowi, w&nbsp;jaki opisuje tę funkcję na&nbsp;przykład Sergiusz Eisenstein, to okaże się, że&nbsp;krajobraz w&nbsp;istocie łączy w&nbsp;sobie dwa nieprzystające nawzajem do siebie porządki, które wcześniej zostały określone jako agoraskopiczny i&nbsp;agorapatyczny. Pejzaż jest dla autora <em>Nieobojętnej przyrody</em> miejscem spotkania dwóch porządków: emocjonalnego oraz narracyjnego. Pejzaż w&nbsp;swej funkcji emocjonalnej bliski jest muzyce, jako predyskursywnej zdolności bezpośredniej jednostkowej ekspresji:</p> <blockquote>(…) pejzaż jest najbardziej swobodnym elementem filmu i&nbsp;najmniej obciążonym służebno-narracyjną funkcją, a&nbsp;zarazem najbardziej giętkim środkiem kształtującym nastrój, emocjonalne stany i&nbsp;duchowe przeżycia. Słowem, zawiera w&nbsp;sobie wszystko to, co w&nbsp;swej nieostrej, trudno uchwytnej i&nbsp;płynnej obrazowości dostępne jest w&nbsp;pełni jedynie w&nbsp;muzyce<sup><a href="#sdfootnote80sym" name="sdfootnote80anc">80</a></sup>.</blockquote> <p>Jako pejzaż filmowy wpisuje się jednak w&nbsp;strukturę fabularną, opowiada coś, wpisując się w&nbsp;określone sekwencje filmowe oparte na&nbsp;zasadzie podziału. Ciągłość i&nbsp;podział to więc dwie wpisane w&nbsp;krajobraz możliwości, które realizowane są jednocześnie, zdaniem Eisensteina, w&nbsp;„krajobrazowych suitach” malarstwa chińskiego. Chiński obraz malowany jest na&nbsp;rulonie, na&nbsp;rozwijanej poziomo długiej wstędze. Całego obrazu nie można jednak ogarnąć jednym rzutem oka, ale trzeba go oglądać kolejno, przechodząc od jednego obrazu do drugiego, od jednego kadru ku kolejnemu<sup><a href="#sdfootnote81sym" name="sdfootnote81anc">81</a></sup>. Ciągłość – zasada „prymitywna” oraz zdystansowany podział – zasada, którą można określić jako diaktryczną, określają wspólnie funkcjonowanie obrazu filmowego. Trudno jest jednak mówić w&nbsp;tym wypadku o&nbsp;jednoznacznym przejściu od jednej zasady, w&nbsp;której nie ma miejsca na&nbsp;to, co indywidualne i&nbsp;odrębne, do drugiej, wprowadzającej dystans i&nbsp;umożliwiającej narodziny osoby: „niczym nierozczłonkowana jednolitość i&nbsp;niezróżnicowana ciągłość wyobrażeń na&nbsp;tym etapie, który poprzedza etap aktywnej, »dokonującej podziału« i&nbsp;bardziej rozwiniętej świadomości”<sup><a href="#sdfootnote82sym" name="sdfootnote82anc">82</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/8/odosobnienie/246-3392-1-pb-1920x-3c1.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/8/odosobnienie/246-3392-1-pb-330x-a0b.jpg 330w,assets/cache/images/issues/2014/8/odosobnienie/246-3392-1-pb-660x-00e.jpg 660w,assets/cache/images/issues/2014/8/odosobnienie/246-3392-1-pb-768x-c3b.jpg 768w,assets/cache/images/issues/2014/8/odosobnienie/246-3392-1-pb-1320x-808.jpg 1320w" src="assets/cache/images/issues/2014/8/odosobnienie/246-3392-1-pb-660x-00e.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Eisenstein zwraca uwagę na&nbsp;podstawową zasadę konstrukcyjną malarstwa chińskiego, określającą związek emocjonalny jednostki i&nbsp;krajobrazu, jaką jest „pogłos”<sup><a href="#sdfootnote83sym" name="sdfootnote83anc">83</a></sup>. Jest on czymś innym niż zwyczajne, mechaniczne „powtórzenie”, które miałoby stanowić emocjonalny „odzew” na&nbsp;obraz natury. Chodzi w&nbsp;tym wypadku o&nbsp;głos, który wydobywa się z&nbsp;człowieka i&nbsp;„odbija się” od natury, rozchodząc się i&nbsp;niejako rozmieszczając poszczególne elementy i&nbsp;plany pejzażu. Związek „widza” z&nbsp;przestrzenią, w&nbsp;której się znajduje i&nbsp;na którą spogląda, określony jest więc przez to, co należy do człowieka, co jednak powraca jako coś obcego – jako to, co należy do natury. Emocjonalny krajobraz jest „obrazem wzajemnego pogrążania się w&nbsp;sobie człowieka i&nbsp;przyrody”<sup><a href="#sdfootnote84sym" name="sdfootnote84anc">84</a></sup>. To człowiek jest „nieobojętną przyrodą”<sup><a href="#sdfootnote85sym" name="sdfootnote85anc">85</a></sup> jako część natury zdolna do reagowania na&nbsp;świat: spogląda na&nbsp;to, co odczuł, a&nbsp;jego odczucie prowokuje nowy ogląd. W&nbsp;tym dialektycznym napięciu pomiędzy obiema postawami sam moment przejścia wymyka się reprezentacji, jak bowiem pisze Lyotard:</p> <blockquote>(…) ukazywanie (krajobrazu) zawsze należy już do porządku repetycji, albo zastępowania, umysł bowiem tak naprawdę oporządza sam siebie, sporządzając krajobraz, ale to krajobraz „najpierw” się wyporządził przed umysłem i&nbsp;to zrządzenie całkowicie złamało umysł, obaliło go (tak jak się obala suwerena), sprawiając że&nbsp;wyrzucił siebie w&nbsp;stronę nicości bycia-tam (fait se vomir vers le néant de l’être-là)<sup><a href="#sdfootnote86sym" name="sdfootnote86anc">86</a></sup>.</blockquote> <p>Wydarzenie krajobrazu może być dane w&nbsp;reprezentacji jedynie za&nbsp;pomocą śladu, wskazującego na&nbsp;jego wieczne wycofywanie. Opis nigdy nie może dorównać pustce, którą stara się powtórzyć albo zastąpić w&nbsp;języku. Dlatego Lyotard może powiedzieć, że&nbsp;wobec krajobrazu zawsze zaciągamy dług, trudny do spłacenia, a&nbsp;pustka, której nic nie może wypełnić, przypomina niemożliwą pracę żałoby właściwą melancholii. Sprostać krajobrazowi może jedynie język, który nie tylko zdaje sobie sprawę z&nbsp;tej pustki oraz wzajemnej niekompatybilności języka oraz przedmiotu opisu językowego, ale także ową pustkę w&nbsp;języku uwidacznia. Jest to „pismo niemożliwej deskrypcji: deskryptura (<em>décriture</em>)”<sup><a href="#sdfootnote87sym" name="sdfootnote87anc">87</a></sup>. Nie wskazuje ono na&nbsp;własny znakowy charakter, by zamanifestować własną nieprzejrzystość, ale raczej wprowadza we własny obręb to, co należy – by nawiązać do formuły Eistensteina – do obojętnej części przyrody.</p> <p>Krajobraz potraktować więc można jako pojęcie operacyjne, opisujące przede wszystkim paradoksalny związek z&nbsp;tym, co samo w&nbsp;sobie pozostaje niczym niezwiązane, lub jako doświadczenie niesamowitego, które zakorzenione jest w&nbsp;tym, co „samowite” – swojskie. Krajobraz to połączenie swojskości i&nbsp;radykalnej obcości danych wspólnie, w&nbsp;jednym doświadczeniu. Jeśli więc wnioski z&nbsp;tych rozważań zastosować do porządku wizualnego, musielibyśmy mówić o&nbsp;konieczności otwarcia obrazu na&nbsp;krainę – na&nbsp;coś radykalnie względem niego odmiennego i&nbsp;zewnętrznego; niesie to ze sobą jego kres, ale i&nbsp;zupełnie nowy początek.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Por. Anne Whiston Spirn, <em>‘One With Nature’: Landscape, Language, Empathy, and Imagination</em>, w: <em>Landscape Theory</em>, red. J. Elkins, R. Delue, Routledge, New York and London 2008, s. 54; John Wylie, <em>Landscape, </em>Routledge, New York and London 2007, s. 7; Denis Cosgrove, <em>Landscape and Landschaft</em>, “German Historical Institute Bulletin” 2004, nr 35, s. 57-71. <em></em></p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a><em></em>Zob. <em>Landscape and Power, </em>red. W.J.T. Mitchell, The University of Chicago Press, Chicago 1994.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Zob. <em>Landscape Theory…</em></p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Denis Cosgrove, <em>Social Formation and Symbolic Landscape</em> , The University of Wisconsin Press, Madison, Wisconsin 1984.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> William J.T. Mitchell, <em>Imperial Landscape</em> w: <em>Landscape and Power…,</em> s. 1.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Ibidem, s. 12.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Maurice Merleau-Ponty, <em>Oko i umysł</em>, przeł. S. Cichowicz, w: idem <em>Oko i umysł. Szkice o malarstwie</em>, słowo/obraz terytoria, Gdańsk 1996, s. 38.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Maurice Merleau-Ponty, <em>Filozof i jego cień</em>, przeł. J. Migasiński, w: <em>Fenomenologia francuska. Rozpoznania/interpretacje/rozwinięcia</em>, red. J. Migasiński, I. Lorenc, Warszawa 2006, s. 165.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Maurice Merleau-Ponty, <em>Fenomenologia percepcji</em>, przeł. M. Kowalska, J. Migasiński, Aletheia, Warszawa 2001, s. 387.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Ibidem, s. 354.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Maurice Merleau-Ponty, <em>Oko i umysł</em>…, s. 40.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Joachim Ritter, <em>Krajobraz. O postawie estetycznej w nowoczesnym społeczeństwie</em>, przeł. C. Piecuch, w: <em>Szkoła Rittera</em>, red. S. Czerniak, J. Rolewski, Uniwersytet Mikołaja Kopernika, Toruń 1996.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Georg Simmel, <em>Filozofia krajobrazu</em>, w: idem<em>, Most i drzwi. Wybór esejów</em>, przeł. M. Łukasiewicz, Oficyna Naukowa, Warszawa 2006.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Joachim Ritter, <em>Krajobraz. O postawie</em>…, s. 60.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Maurice Merleau-Ponty, <em>Fenomenologia percepcji</em>…, s. 265-322.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Bernhard Waldenfels, <em>Podstawowe rysy fenomenologii obcego</em>, przeł. J. Sidorek, Oficyna Naukowa, Warszawa 2009, s. 41.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Bernhard Waldenfels, <em>Question of the Other, </em>The Chinese University of Hong Kong, Hong Kong, 2007, s. 74.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Henri Maldiney, <em>Art et existence</em>, Klincksieck, Paris 1985, s. 24. Na temat koncepcji doświadczenia u Maldiney’a por. Monika Murawska, <em>Fenomenologiczna post-narracja. </em><em>Szkic o fenomenologii Henry’ego Maldiney’a </em>, „Argument” 2013, nr 2, s. 383-404.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Henri Maldiney, <em>Regard, parole, espace</em>, L’Âge d’Homme, Lausanne 1973, s. 70.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Robin Kelsey, <em>Landscape as not Belonging</em>, w: <em>Landscape Theory</em>…, s. 204.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Ibidem, s. 205–207.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Walter Benjamin, <em>Dzieło sztuki w dobie reprodukcji techniczne</em>j, przeł. J. Sikorski, w: idem, <em>Anioł historii. Eseje, szkice, fragmenty</em>, oprac. H. Orłowski, Wydawnictwo Poznańskie, Poznań 1996, s. 209–210.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Por. Georges Didi-Huberman, <em>Ce que nous voyons, ce qui nous regarde</em>, Les Éditions Minuit, Paris 1992, s. 116 – 123. Na temat związków prowadzonych przez Didi-Hubermana analiz przestrzeni i miejsca z tradycją fenomenologiczną por. Maud Hagelstein, <em>Art contemporain et phénoménologie: réflexion sur le concept de lieu chez Georges Didi-Huberman</em>, „Études phénoménologiques” 2005, nr 41-42, s. 133–164.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Walter Benjamin, <em>O kilku motywach u Baudelaire’a</em>, w: idem, <em>Twórca jako wytwórca</em>, przeł. R. Reszke, Wydawnictwo KR, Warszawa 2011, s. 166.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Walter Benjamin, <em>Park centralny</em>, w: <em>Twórca jako wytwórca</em> …, s. 184.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Maurice Merleau-Ponty, <em>Widzialne i niewidzialne</em>, przeł. M. Kowalska, J. Migasiński, R. Lis, I. Lorenc, Fundacja Aletheia, Warszawa 1996, s. 139.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Georges Didi-Huberman, <em>Ce que nous voyons, ce qui nous regarde</em>…, s. 104.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Henri Maldiney, <em>Zarys fenomenologii sztuki</em>, przeł. J. Jakubowski, w: <em>Fenomenologia francuska</em>..., s. 550.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Erwin Straus, <em>Vom Sinn der Sinne: ein Beitrag zur Grundlegung der Psychologie, </em>Götingen 1956 reprint, Springer-Verlag, Heidelberg-New York 1978. <em></em></p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Ibidem, s. 329.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Ibidem, s. 133.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Ibidem, s. 335. Podkreślenie moje.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Ibidem, s. 343.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Georges Didi-Huberman, <em>Ce que nous voyons, ce qui nous regarde</em>…, s. 113-123</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Georges Didi-Huberman, <em>Être crâne. Lieu, contact, penseé, sculpture, </em>Les Éditions de Minuit, Paris 2000, s.</p>
+<p>79, 82.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> Maurice Merleau-Ponty, <em>Oko i umysł</em>…, s. 25.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> Por. Giuseppe Penone, <em>Paysage du cerveau</em>, 1990, w: Georges Didi-Huberman, <em>Être crâne. Lieu, contact, penseé, sculpture…,</em> s. 60–64, 76.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> Ibidem, s. 83.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a> Giuseppe Penone, <em>L’image du toucher</em>, cyt. za: Georges Didi-Huberman, <em>Être crâne. Lieu, contact, penseé, sculpture…, </em>s. 83.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a> Por. Georges Didi-Huberman, <em>Génie du non-lieu. </em><em>Air, pousière, empreinte, hantise</em>, Les Éditions de Minuit, Paris 2001: „Dzieło sztuki nie naśladuje przestrzeni. Wytwarza swoje miejsce…”, s. 39.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a> Gilles Deleuze, Félix Guattari, <em>Capitalisme et schizophrénie 2. Milles plateaux</em>, Les Éditions de Minuit, Paris 1980, s. 211-234.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a> Georges Didi-Huberman,<em> Génie du non-lieu. Air, pousière, empreinte, hantise</em>…</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a> Ibidem, s. 131.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a> Ibidem, s. 146.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a> Ibidem.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a> Erwin Straus, <em>Vom Sinn der Sinne…</em>, s. 336.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a> Georges Didi-Huberman,<em> Génie du non-lieu. Air, pousière, empreinte, hantise</em>… s.147.</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a> Yves Bonnefoy, <em>La peintre dont l’ombre est voyageur</em>, w: idem, <em>Rue Traversière et les autres récits en rêve</em>, Gallimard, Paris 1992, s. 162.</p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a> Erwin Straus, <em>Vom</em><em>Sinn der Sinne…</em> s. 340.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a> Philippe Lacoue-Labarthe, <em>Le dépaysagement</em>, w: idem, <em>Écrits sur l’art</em>, Les presses du réel, Gèneve 2009, s. 251. Lacoue-Labarthe opisuje w tym wypadku fotografie Thibauta Cuisseta z serii <em>Le dehors absolu</em> (2000–2004), zob.: <a href="http://www.fillesducalvaire.com/en/15/Thibaut-Cuisset/works/61" target="_blank" rel="noopener">http://www.fillesducalvaire.com/en/15/Thibaut-Cuisset/works/61</a>, dostęp 15 grudnia 2014.</p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a> Ibidem.</p>
+<p><a href="#sdfootnote52anc" name="sdfootnote52sym">52</a> Ibidem, s. 254.</p>
+<p><a href="#sdfootnote53anc" name="sdfootnote53sym">53</a> Ibidem, s. 255.</p>
+<p><a href="#sdfootnote54anc" name="sdfootnote54sym">54</a> Por. Gilles Deleuze, Félix Guattari, <em>Percept, afekt, pojęcie</em>, w: idem, <em>Co to jest filozofia?</em>, przeł. P. Pieniążek, słowo/obraz terytoria, Gdańsk 2000, s. 180–220.</p>
+<p><a href="#sdfootnote55anc" name="sdfootnote55sym">55</a> Ibidem, s. 187.</p>
+<p><a href="#sdfootnote56anc" name="sdfootnote56sym">56</a> Ibidem, s. 186.</p>
+<p><a href="#sdfootnote57anc" name="sdfootnote57sym">57</a> Gilles Deleuze, Félix Guattari, <em>Capitalisme et schizophrénie 2. Milles plateaux</em>…, s. 219. Warto w tym miejscu wskazać na jedną z wielu hipotez wyjaśniających tytułowe <em>plateaux</em>. Mogą być one albo „płaszczyznami”, albo „platformami”, albo „scenami”, czy wreszcie „płaskowyżami”. W każdym z tych wypadków najistotniejsza jest konotacja związana z rozciągniętą, wyniesioną albo w inny sposób zaznaczoną powierzchnią. W książce Deleuze i Guattari powołują się na Gregory'ego Batesona, brytyjskiego antropologa kulturowego, który posługuje się słowem <em>plateau</em>, by opisać „ciągły, rozwibrowany sobą samym region intensywności, który rozwija się, unikając jakiegokolwiek ukierunkowania na kulminujący punkt czy zewnętrzny cel” (por. ibidem, s. 30). Deleuze powoływał się jednak również na inne skojarzenie, bezpośrednio związane z interesującą nas tutaj tematyką. <em>Plateau</em> to również geograficzny płaskowyż, a więc określony krajobraz i jego doświadczenie, które dla Deleuze’a było ściśle związane z rodzinnymi stronami płaskowyżu Millevaches, znajdującego się na wyżynie limuzyjskiej w Masywie Centralnym. Por. François Dosse, <em>Gilles Deleuze and Félix Guattari. Intersecting Lives</em>, przeł. D. Glassman, Columbia University Press, New York 2010, s. 249, 481. Zob. również: Mark Bonta, John Protevi, <em>Deleuze and Geophilosophy. Guide and Glossary</em>, Edinburgh University Press, Edinburgh 2004. Na temat pokrewieństw między Deleuzejańską koncepcją krajobrazu i pismami Straussa oraz Maldiney’a, zob. Elizabeth Grosz, <em>Chaos, Territory, Art. Deleuze and the Framing of the Earth</em>, Columbia University Press, New York 2008, s. 71–75. <em></em></p>
+<p><a href="#sdfootnote58anc" name="sdfootnote58sym">58</a> Gilles Deleuze, Félix Guattari, <em>Capitalisme et schizophrénie 2. Milles plateaux</em>…, s. 205.</p>
+<p><a href="#sdfootnote59anc" name="sdfootnote59sym">59</a> Ibidem, s. 208.</p>
+<p><a href="#sdfootnote60anc" name="sdfootnote60sym">60</a> Gilles Deleuze, <em>Kino</em>, przeł. J. Margański, słowo/obraz terytoria, Gdańsk 2008, s. 243.</p>
+<p><a href="#sdfootnote61anc" name="sdfootnote61sym">61</a> Gilles Deleuze, Félix Guattari, <em>Capitalisme et schizophrénie 2. Milles plateaux</em>…, s.212.</p>
+<p><a href="#sdfootnote62anc" name="sdfootnote62sym">62</a> Zob. Denis Diderot, <em>Oeuvres complètes, </em>t. XI, Garniers Frères, Libraires-Éditeurs, Paris 1867, reprint Kraus Reprint LTD, Nedeln-Lichtenstein 1966, s. 98–148.</p>
+<p><a href="#sdfootnote63anc" name="sdfootnote63sym">63</a> Jean-François Lyotard, <em>Filozofia i malarstwo w epoce eksperymentu</em>, przeł. M.P. Markowski, w: <em>Postmodernizm. Antologia przekładów</em>, red. R. Nycz, Wydawnictwo Baran i Suszczyński, Kraków 1998, s. 79.</p>
+<p><a href="#sdfootnote64anc" name="sdfootnote64sym">64</a> Jean-François Lyotard, <em>Peinture et conservation</em>, w: idem, <em>L’inhumain. </em><em>Causeries sur le temps</em>, Éditions Galilée, Paris 1988, s. 162. Warto wskazać na zaskakującą zbieżność między naciskiem, jaki kładzie Lyotard w swych powtarzających się nawiązaniach do tekstu Diderota na aspekt przemieszania „miejsc między rzeczywistością i fikcją, historią i opowieścią, diegezą i metadiegezą”, gdzie „nawet <em>ja </em>ulega prawu zamiany miejsc” (Jean-François Lyotard, <em>Filozofia i malarstwo w epoce eksperymentu</em>…, s. 65) a analizą „pochłonięcia” (<em>absorption</em>) proponowaną przez Michaela Frieda, który pisze: „(…) wydaje się, że Diderot uważał, iż istotą obrazów należących do tych gatunków [tj. do malarstwa pejzażowego – przyp. mój] było wywołanie w odbiorcy szczególnego stanu psychicznego, odpowiadającego pod względem rodzaju i intensywności głębokiemu doświadczeniu natury, które skrótowo można opisać jako rodzaj egzystencjalnego marzenia czy <em>repos délicieux</em>. W tym stanie ciała i umysłu całkowicie pasywna odbiorczość staje się środkiem do uświadomienia fundamentalnej szczodrości świata naturalnego. Może zostać zniesiona świadomość upływu czasu podmiotu, a wraz z tym także i otoczenia, i doświadcza on czystego oraz intensywnego wrażenia słodyczy i, jak gdyby, samowystarczalności własnej egzystencji”. Zob. Michael Fried, <em>Absorption and Theatricality. Painting and Beholder in the Age of Diderot, </em>The University of Chicago Press, London-Chicago 1988, s. 130-131.</p>
+<p><a href="#sdfootnote65anc" name="sdfootnote65sym">65</a> Zob. Rosalind Krauss, <em>Dyskursywne przestrzenie fotografii</em>…, s. 139.</p>
+<p><a href="#sdfootnote66anc" name="sdfootnote66sym">66</a> Jean.-François Lyotard, <em>Peinture et conservation…, </em>s. 159.</p>
+<p><a href="#sdfootnote67anc" name="sdfootnote67sym">67</a> Ibidem, <em></em>s. 164.</p>
+<p><a href="#sdfootnote68anc" name="sdfootnote68sym">68</a> Denis Diderot, <em>Oeuvres complètes, </em>t. XI…, s.99.</p>
+<p><a href="#sdfootnote69anc" name="sdfootnote69sym">69</a> Warto podkreślić pewne powinowactwo między techniką stosowaną przez Diderota (przynajmniej tak, jak interpretuje ją Lyotard) a tym, co Edward Casey, wskazując na różnorodne praktyki artystyczne przedstawicieli <em>land-art</em>, określa jako proces „mapowania”, kładący nacisk na reprezentację „prezentującej się zmysłowo powierzchni”. „Mapowanie ziemi oznacza […] pokazywanie, jak to wygląda i jakie to jest wrażenie, gdy się jest na bądź w określonym terytorium, stanowiąc jego część, przedzierając się przez nie…”, pisze Casey. Tworzenie ziemskiej mapy [<em>earth-map</em>] nie polega w tym wypadku na rzutowaniu widoku terenu z lotu ptaka na płaszczyznę reprezentacji, ale na próbie zapisu bezpośredniego doświadczenia bycia wpisanym w krajobraz. Nie chodzi więc tutaj, jak pisze Casey, o „bycie reprezentacją ziemi (albo morza) w potocznym znaczeniu <em>reprezentacji</em> (obrazowej, izomorficznej etc.), ale o bycie <em>re-prezentacją</em> ziemi, jej ponownym umiejscowieniem [<em>re-implacement</em>] w dziele sztuki, jej <em>relokacją</em>. Zadaniem obrazu malarskiego, który podejmuje ten pomysł, jest odtworzenie jakościowego aspektu ziemi (a czasem całej aury) <em>w obrazie</em>, w którym jest ona re-prezentowana <em>jako krajobraz</em>, jakkolwiek trudny byłby on do rozpoznania jako część określonej sceny w świecie percepcji”. Zob. Edward Casey, <em>Earth-Mapping. Artists Reshaping Landscape</em>, University of Minnesota Press, Minneapolis-London 2005, s. XV-XVI.</p>
+<p><a href="#sdfootnote70anc" name="sdfootnote70sym">70</a> Jean-François Lyotard, <em>Peinture et conservation…, </em>s. 162. Podkreślenie moje.</p>
+<p><a href="#sdfootnote71anc" name="sdfootnote71sym">71</a> „Innymi słowy, prawda krajobrazu polega na tym, że nie może być on - to znaczy krajobraz jako pewna całość – doświadczony sam w sobie. W związku z tym jest równie niemożliwe, by istniało takie całościowe doświadczenie, które zawierałoby w sobie cokolwiek, co uznaje się za »krajobraz«”. Zob. Andrew Benjamin, <em>Entry and Distance</em> …, s. 160.</p>
+<p><a href="#sdfootnote72anc" name="sdfootnote72sym">72</a> Michael Snow, <em>Conversation with Charlotte Townsend</em>, “Artscanada”, 1971, vol. 152-153, cyt. za: Michael Snow, <em>Two Letters on Film</em>, w: <em>The Avant-Garde Film. A Reader of Theory and Art Criticism</em>, red. P. Adams Sitney, Anthology Film Archives, New York 1978, s. 188.</p>
+<p><a href="#sdfootnote73anc" name="sdfootnote73sym">73</a> Jean-François Lyotard, <em>Scapeland</em>, w: idem, <em>L’inhumain. Causeries sur le temps</em>, Galilée, Paris 1988, s. 199.</p>
+<p><a href="#sdfootnote74anc" name="sdfootnote74sym">74</a> Jean-François Lyotard, <em>The Unconscious as Mise-en-Scène</em>, przeł. J. Maier, w: <em>Mimesis, Masochism &amp; Mime. The Politics of Theatricality in Contemporary French Thought</em>, red. T. Murray, The University of Michigan Press, Ann Arbor 1997, s. 171-174.</p>
+<p><a href="#sdfootnote75anc" name="sdfootnote75sym">75</a> Ibidem, s. 172.</p>
+<p><a href="#sdfootnote76anc" name="sdfootnote76sym">76</a> Jean-François Lyotard, <em>Scapeland…,</em> s. 197. Por. też P. Schollenberger, <em>Krajobraz beztstronny – doświadczenie krajobrazu według Lyotarda</em>, w: <em>Krajobraz kulturowy</em>, red. B. Frydryczak, M. Ciesielski, Wydawnictwo Poznańskiego Towarzystwa Przyjaciół Nauk, Poznań 2014, s. 97-112.</p>
+<p><a href="#sdfootnote77anc" name="sdfootnote77sym">77</a> Zob. Thierry de Duve<em>, Michael Snow: the Deictics of Experience and Beyond</em>, „Parachute” 1995, nr 78, s. 28–41, document PDF, Fondation Daniel Langois Reproduced with the permission of the author and of „Parachute”, <a href="http://www.fondation-langlois.org/html/e/" target="_blank" rel="noopener">http://www.fondation-langlois.org/html/e/</a>, dostęp 15 grudnia 2014.</p>
+<p><a href="#sdfootnote78anc" name="sdfootnote78sym">78</a> Ibidem, s. 9.</p>
+<p><a href="#sdfootnote79anc" name="sdfootnote79sym">79</a> Jean-François Lyotard, <em>The Unconscious as Mise-en-Scène</em>…, s. 172–173.</p>
+<p><a href="#sdfootnote80anc" name="sdfootnote80sym">80</a> Sergiusz Eisenstein, <em>Nieobojętna przyroda</em>, w: idem, <em>Nieobojętna przyroda</em>, przeł. M. Kumorek, Wydawnictwa Artystyczne i Filmowe, Warszawa 1975, s. 241.</p>
+<p><a href="#sdfootnote81anc" name="sdfootnote81sym">81</a> Zob. ibidem, s. 260: „(…) tak powstaje sztuka odznaczająca się ciągłymi rytmicznymi zmianami i wzajemnym uwarunkowaniem elementów (<em>Bezogenheit</em>), ucieleśniająca ulotną zmienność motywów gór i dolin w formie płynnie następujących po sobie plastycznych obrazów; nigdzie nie spotykamy czegoś, co byłoby zamknięte w sobie i odosobnione; wszystkie elementy wypływają z poprzednich i przechodzą w następne; tak powstaje jednolite, potężne i wszystko przenikające tchnienie, które, jak temat muzyczny, stapia w harmonijną całość wszystkie te przedstawione kolejno pojedyncze zjawiska”.</p>
+<p><a href="#sdfootnote82anc" name="sdfootnote82sym">82</a> Ibidem, s. 280.</p>
+<p><a href="#sdfootnote83anc" name="sdfootnote83sym">83</a> Ibidem, s. 266.</p>
+<p><a href="#sdfootnote84anc" name="sdfootnote84sym">84</a> Ibidem, s. 399.</p>
+<p><a href="#sdfootnote85anc" name="sdfootnote85sym">85</a> Ibidem, s. 439.</p>
+<p><a href="#sdfootnote86anc" name="sdfootnote86sym">86</a> Jean-François Lyotard, <em>Scapeland</em>…, s. 198.</p>
+<p><a href="#sdfootnote87anc" name="sdfootnote87sym">87</a> Ibidem, s. 199.</p>
+<p>Pragnę serdecznie podziękować dr Monice Murawskiej, dr Annie Wolińskiej oraz dr. Mateuszowi Salwie za lekturę tekstu oraz uwagi dotyczące poruszanej w nim problematyki.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/8-powrot-krajobrazu/odosobnienie.-proby-dekonstrukcji-krajobrazu" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

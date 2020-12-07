@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Images Out of Sight: Some Remarks on Moderating Online Content | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/21-invisible-labor/images-out-of-sight-some-remarks-on-moderating-online-content">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Images Out of Sight: Some Remarks on Moderating Online Content | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Images Out of Sight: Some Remarks on Moderating Online Content | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/21-invisible-labor/images-out-of-sight-some-remarks-on-moderating-online-content">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Images Out of Sight: Some Remarks on Moderating Online Content | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #00205b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #00205b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #00205b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #00205b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #00205b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #00205b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #00205b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #00205b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(0,32,91,0.8) !important; */
+			/* background-color:#00205b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(0,32,91,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#00205b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(0,32,91,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#00205b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(0,32,91,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(0,32,91,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#00205b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#00205b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#00205b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1484 parent-id-1472">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1470" data-selected-issue-color="#00205b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/21-praca-niewidzialna/obrazy-ktorych-nie-widac">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/21-praca-niewidzialna/obrazy-ktorych-nie-widac">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/21-invisible-labor#toc">21</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/21-invisible-labor/images-out-of-sight-some-remarks-on-moderating-online-content?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Images Out of Sight: Some Remarks on Moderating Online Content</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/21-invisible-labor/images-out-of-sight-some-remarks-on-moderating-online-content?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=1483">Miłosz Markiewicz</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Jan Szelągiewicz
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8278-1-PB-1920x-4b4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8278-1-PB-330x-216.jpg 330w,assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8278-1-PB-660x-9fa.jpg 660w,assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8278-1-PB-768x-0c5.jpg 768w,assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8278-1-PB-1320x-bdd.jpg 1320w" src="assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8278-1-PB-660x-9fa.jpg" alt="" ></a>    <figcaption><p>Hans Block, Moritz Riesewieck,<em>The Cleaners</em>, 2018.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>When, in the fall of 2010, Safiya Umoja Noble set out to browse the Web for&nbsp;something that&nbsp;her stepdaughter might find interesting, she had no idea she was about&nbsp;to open Pandora’s box. She recounted: “In just a&nbsp;few minutes while searching on the web, I&nbsp;experienced the perfect storm of insult and injury that&nbsp;I&nbsp;could not turn away from.”<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a> The first result returned by Google for&nbsp;the query “black girls” was the adult site HotBlackPussy.com. This&nbsp;encouraged the scholar to take a&nbsp;closer look at how the algorithms of the world’s biggest search engine actually operate and why the avenues of representation offered by the Silicon Valley tech giant provide such dubious information about&nbsp;people of color. When, after&nbsp;two years of research, she realized that&nbsp;the results returned for&nbsp;the query still hadn’t changed, Noble published her acclaimed piece in <em>Bitch</em> magazine.<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> It was only in the wake of its publication that&nbsp;the particular area of the Web related to the search results began to change, and although it’s unlikely that&nbsp;the shift directly followed from&nbsp;her efforts, it’s undeniable that&nbsp;she managed to draw public attention to a&nbsp;considerable problem and thus made it impossible for&nbsp;the corporation to continue its ambivalent stance towards&nbsp;it. Nicknamed Panda, the overhaul of Google’s search algorithms effectively struck pornographic content from&nbsp;the first pages of search results for&nbsp;the phrase “black girls,” but&nbsp;ultimately the change was superficial –&nbsp;similar websites continued to populate the search results returned for&nbsp;phrases such as “Latina girls” or “Asian girls.” Furthermore, the image results for&nbsp;queries like&nbsp;“gorillas” continued to feature pictures of black people. Noble later argued that&nbsp;“on the Internet and in our everyday uses of technology, discrimination is also embedded in computer code and, increasingly, in artificial intelligence technologies that&nbsp;we are reliant on, by choice or not.”<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a> Soon after, it was reported that&nbsp;Google’s facial recognition software automatically appended photographs featuring African Americans with&nbsp;tags such as “apes” or “animals.” Similar examples abound, with&nbsp;the most prominent of all occurring in 2015, when searching the keywords “nigga house” or “nigger king” in Google Maps returned the White House, occupied at the time by Barack Obama, as the top result.<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a></p> <p>In her latest book, <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em>, Noble argues for&nbsp;stricter control of the online world,<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a> bringing up a&nbsp;plethora of examples that&nbsp;reveal how racism, sexism, and other forms of discrimination are deeply entrenched in search engine algorithms. Unawareness of their existence, combined with&nbsp;our predilection for&nbsp;unquestioned obeisance to search engine interfaces, may ultimately contribute to the deepening of societal divisions. In this&nbsp;particular context, it bears mentioning the category of structural racism, used by Reni Eddo-Lodge, among&nbsp;others –&nbsp;which, at its core, is merely “the survival strategy of systemic power.”<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a> And that&nbsp;power is subordinate to the figure of the white male, the influence at its disposal inversely proportional to its visibility. Both Noble and Eddo-Lodge are academically focused on intersectionality –&nbsp;they seek linkages between&nbsp;different forms of discrimination and exclusion, then bring them to light in order to draw attention to the oppressive nature of the system we live in. Both also believe in the power of grassroots organizing. Thus, Noble’s postulate for&nbsp;more community control over&nbsp;the Web and throwing more weight behind&nbsp;non-commercial search engines, whose results are supposedly free from&nbsp;the financial considerations of interested commercial parties. But&nbsp;what seems particularly interesting to me in the context of the algorithms of oppression described by Noble is not the call for&nbsp;increased control over&nbsp;online content, as much as the public response from&nbsp;Google to the accusations leveled against&nbsp;it after&nbsp;the White House incident: “Our teams are working to fix this&nbsp;issue quickly.”<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a> The question remains –&nbsp;who, then, is responsible for&nbsp;“cleaning up messes” online?</p> <p>One cannot but&nbsp;agree with&nbsp;Scott Galloway’s contention that&nbsp;“digital space needs rules.”<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> Its widespread availability should entail some sense of security for&nbsp;those who traverse its nearly endless expanse. The utopian vision of virtual reality holds no place for&nbsp;violence or racism. “The truth is, we wish platforms could moderate away the offensive and the cruel,”<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a> adds Tarleton Gillespie. But&nbsp;how does such moderation differ from&nbsp;censorship? Could we ourselves take on the task of policing online content? Who would decide what goes and what gets to stay? And finally: who would police those policing “online purity”? After&nbsp;all, people have differing views, hold different values, and come from&nbsp;specific socio-cultural contexts, and thus expecting uniform objectivity from&nbsp;people with&nbsp;such diverse backgrounds moderating online content is not only unfeasible, but&nbsp;can produce unpredictable political repercussions:</p> <blockquote>Content moderation is hard. This&nbsp;should be obvious, but&nbsp;it is easily forgotten. Moderation is hard because it is resource intensive and relentless; because it requires making difficult and often untenable distinctions; because it is wholly unclear what the standards should be; and because one failure can incur enough public outrage to overshadow a&nbsp;million quiet successes.<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a></blockquote> <p>Conversely, the algorithms the Internet now more or less runs on cannot bear responsibility for&nbsp;the results of their implementation. They cannot be punished, but&nbsp;only modified, as they were in Google’s Panda update. Each subsequent update implements some new rules and patches up the underlying machine learning processes, allowing the algorithms (whose work affects us, although we’re not necessarily aware of it) to improve their performance along&nbsp;pre-arranged trajectories. Algorithms gain insight into&nbsp;us, into&nbsp;themselves, and into&nbsp;each other –&nbsp;recognizing behavioral and decision-making patterns that&nbsp;transcend human perception, analyzing them, following&nbsp;decision trees down, and diving into&nbsp;the rulesets that&nbsp;the reality they’re monitoring is based on.<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a> Thus, they seem much better suited than&nbsp;us to the task of patrolling the vast expanses of the Internet. They’re capable of processing myriad datasets and communicating with&nbsp;each other, but&nbsp;above all, they’re equipped with&nbsp;clearly defined goals from&nbsp;which nothing can distract them. Their performance is based on so-called weak AI (also called narrow AI). This&nbsp;means that&nbsp;their perspective is truncated and tailored to the undertaking of a&nbsp;specific task, which, in turn, makes them focused on performing that&nbsp;task to the best of the abilities their creators imbued them with&nbsp;(and, even if they use machine learning, their exploitation thereof is limited by their design).<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a> As Yuval Noah Harari points out, “The seed algorithm may initially be developed by humans, but&nbsp;as it grows it follows its own path, going where no human has gone before&nbsp;–&nbsp;and where no human can follow.”<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a></p> <p>It’s not hard to spot the issues that&nbsp;“ubiquitous” algorithms often get ensnared in.<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a> Most of them are probably rooted in human imperfection, which, by its very nature, is absent from&nbsp;machine code; the latter continuously strives for&nbsp;perfection, thanks at the very least to the aforementioned machine learning capabilities. Our conduct, however, is chaotic enough that&nbsp;it’s difficult to predict all of its vicissitudes. And since&nbsp;algorithms are designed to scrutinize and assimilate human behaviors, they also pick up the morally questionable ones. Their identification and repetition of patterns is not an act of judgment in and of itself, but&nbsp;rather an action they’re tasked with&nbsp;performing. This&nbsp;is one reason why those algorithms saddled with&nbsp;moderating content in social media ultimately trap us in our own informational echo chambers or facilitate the dissemination of fake news. As argued by Siva Vaidhyanathan, Facebook’s algorithms are deliberately designed to stack our newsfeed with&nbsp;content eliciting positive reactions, such as likes or shares:</p> <blockquote>Every aspect of its design is meant to draw us back […] Facebook has developed techniques that&nbsp;it hopes measure our relative happiness or satisfaction with&nbsp;aspects of the service. Facebook researchers have been trying to identify and thus maximize exposure to the things that&nbsp;push us to be happier and minimize exposure to things that&nbsp;cause us anxiety or unhappiness. Much of what we encounter, including many of our responses and interactions, leads us to be sad, frustrated, angry, and exhausted.<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a></blockquote> <p>The community control over&nbsp;digital spaces that&nbsp;Noble called for&nbsp;would necessarily entail the task of policing and hiding content that&nbsp;is deemed socially impermissible. Although the Internet should obviously be free of content that&nbsp;is prohibited in other public spaces, we need to remember that&nbsp;the policing will often be performed by “weak AI,” which may result in algorithms making choices that&nbsp;humans will see as incomprehensible. One example of such behavior involved Facebook removing any pictures of the Venus of Willendorf<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a> and the paintings of Peter Paul Rubens,<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a> both of which were scrubbed for&nbsp;their depictions of nudity. If we were to look at both of these representations unaware of the contexts of their creation, oblivious to the fact that&nbsp;we were dealing with&nbsp;art and intent on enforcing a&nbsp;strict ban on publishing or disseminating depictions of nudity, then such a&nbsp;purge might seem less controversial. Alas, the machine gaze fails to consider the context of that&nbsp;which it probes. It seeks specific patterns, focusing on spots, splotches, and individual elements of the image, then compares them against&nbsp;available databases of undesirable content.<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a> Once it identifies nudity, the algorithm is obliged to remove it from&nbsp;public view. Another example is the removal of Nick Ut’s iconic Vietnam War photograph <em>The Terror of War</em>, in which the 9-year-old Phan Thị Kim Phúc flees a&nbsp;napalm bombing. The photograph was removed from&nbsp;the Facebook fanpage of the Norwegian newspaper <em>Aftenposten</em>, precisely because it portrayed human nudity. Scott Galloway asserted that&nbsp;“A human editor would have recognized the image as the iconic war photo. The AI did not.”<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a> Is it possible, therefore, that&nbsp;the essentially objective gaze of the content-policing algorithms is not as desirable as it may seem at first glance? And, consequently, is there a&nbsp;feasible alternative that&nbsp;would help us in the increasingly significant task of guarding the Web?</p> <p style="text-align: center;">***</p> <p>Nicholas Mirzoeff wrote that&nbsp;"Google, Apple, and Microsoft –&nbsp;or whichever digital giants succeed them –&nbsp;interpose themselves between&nbsp;us and the world, carefully filtering what we may see and know by means of screens and software alike.”<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a> The need for&nbsp;this sort of filtering is understandable. As suggested in the above-quoted passage from&nbsp;Galloway, however, we rarely have any idea of what tech companies do to realize that&nbsp;strategy; after&nbsp;all, policing online content is not the sole purview of algorithms. This&nbsp;oversight also shines through&nbsp;in the writings of Safiya Umoja Noble, who, despite&nbsp;being conscious of the fact that&nbsp;oppressive algorithms are man-made, continues to ignore the human factor in “cleaning up” online spaces. Meanwhile, companies have increasingly been setting up their own “content moderator” teams. Thousands of people, chiefly in the Philippines, spend hours every day browsing visuals (images, video clips, memes, graphics, etc.) and deciding whether they will remain posted or be removed.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8280-1-PB-1920x-4b4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8280-1-PB-330x-216.jpg 330w,assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8280-1-PB-660x-9fa.jpg 660w,assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8280-1-PB-768x-0c5.jpg 768w,assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8280-1-PB-1320x-bdd.jpg 1320w" src="assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8280-1-PB-660x-9fa.jpg" alt="" ></a>    <figcaption><p>Hans Block, Moritz Riesewieck,<em>The Cleaners</em>, 2018.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Their work –&nbsp;invisible, but&nbsp;producing tangible results –&nbsp;is explored by Eva and Franco Mattes in their installation <em>Dark Content</em>.<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a> After&nbsp;interviewing hundreds of content moderators, the duo fed their responses to digital avatars (with computers generating both their appearance and their voices). Within&nbsp;the installation space, the interviews were screened on displays placed on IKEA office furniture, but&nbsp;deliberately arranged to make viewing an uncomfortable experience, mentally and somatically.<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a> The toil of content moderators is also the subject of <em>The Cleaners</em>, a&nbsp;documentary by filmmakers Hans Block and Moritz Riesewieck.<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a> Every day, thousands of people are tasked with&nbsp;deciding whether a&nbsp;given piece of content remains on feeds across&nbsp;Facebook or Instagram, and the film tackles the back-end of the job as well as its consequences, which can affect high-ranking politicians, artists, and run-of-the-mill users. In the course of an eight-hour workday, moderators have to look over&nbsp;at least 25,000 visuals (their daily quota), which boils down&nbsp;to around&nbsp;one picture per second. They watch visuals that&nbsp;we’d never want featured on our newsfeeds, such as child pornography, rape, or summary executions performed by terrorists. As such, their daily work entails precisely what Safiya Noble or Tarleton Gillespie have been postulating –&nbsp;the community policing of online spaces. Most of us believe that&nbsp;visuals like&nbsp;these can only be found on what we’ve come to call the Deep Web or the darknet, and as such are concealed from&nbsp;the average user, accessible only to those “in the know” –&nbsp;and this&nbsp;is indeed so, mostly thanks to “the cleaners” and their tireless efforts to scrub such content before&nbsp;it makes its way into&nbsp;the feeds of the general public. Their labor thus remains simultaneously unseen (there is a&nbsp;reason why tech giants outsource most content moderation overseas, while striving to preserve the appearance that&nbsp;it is algorithms that&nbsp;keep their websites free of offensive content)<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a> and perfectly visible. And the effects of their work seem to be subject to the classic aporia of cleaning –&nbsp;juxtaposing the visible (the clean space left afterwards) and the invisible (that which was removed and hidden from&nbsp;view).<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a> Visually, the Internet seems a&nbsp;relatively safe space; the chance of running into&nbsp;photos of dead bodies or footage of brutal violence is rather low, mostly because someone has already made the decision to keep such content away from&nbsp;our eyes.</p> <p>In both <em>Dark Content </em>and <em>The Cleaners</em>, online content moderators talk in detail about&nbsp;their jobs, and offer us a&nbsp;closer look at the situations and images that&nbsp;had the most profound effect on them. We listen to people talk about&nbsp;watching footage depicting mass rapes, school molestation, teenagers livestreaming their suicides, or of seeing terrorists execute people. We also learn about&nbsp;governments “purging” online outlets of images of civil protests or photos depicting specific individuals. Anyone can approach online moderator shops with&nbsp;a&nbsp;job –&nbsp;and the firms end up cleaning up inconvenient facts, hiding unwanted individuals, and deleting leaked confidential documents.</p> <p>But should the manipulation involved in managing online images be in any way surprising to us? Is it not an immanent characteristic of similar endeavors? To quote Piotr Zawojski, “the ‘novelty’ of new images lies in doubts raised by radically novel ontology as to whether they can still be considered images, or merely symptoms and effects of algorithmic processes.”<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a> As indicated by its very designation, the digital image is essentially code, but&nbsp;clad in a&nbsp;visual form. With&nbsp;the requisite tools and background, we too could see the digits underlying the image, akin to Neo in the iconic scene from&nbsp;<em>The Matrix </em>where he begins to see the physical world around&nbsp;him as cascades of green-tinted code. After&nbsp;all, as Mitchell argues, “the essential characteristic of digital information is that&nbsp;it can be manipulated easily and very rapidly by computer. It is simply a&nbsp;matter of substituting new digits for&nbsp;old.”<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a> Thus, the essence of such an image would be its mutability –&nbsp;the ontological fluidity –&nbsp;resulting in a&nbsp;more relational than&nbsp;essentialist reading of the image itself. This&nbsp;transmutative capacity underpins the very existence of the digital image. But&nbsp;can it also incorporate a&nbsp;peculiar suspension between&nbsp;existence and non-existence –&nbsp;or vanishing, to put it more precisely? What is the ontological status of the removed, and thus invisible, image?</p> <p>Content moderators often say that&nbsp;they “take out the Internet’s trash.” The metaphor is particularly apt in the case of the story of one of the nameless characters featured in the abovementioned documentary, who admits that&nbsp;she always feared she would end up working at a&nbsp;waste dump. The audience –&nbsp;with&nbsp;the character’s comparison of their efforts to clean-up work still echoing in their minds –&nbsp;thus receives the suggestion that&nbsp;maybe the girl landed exactly where she had hoped not to. This, in turn, brings to mind the “poor images” described by Hito Steyerl, akin to the “contemporary Wretched of the Screen, the debris of audiovisual production, the trash that&nbsp;washes up on the digital economies’ shores.”<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a> On the one hand, we can ask ourselves whether a&nbsp;discarded image is trash –&nbsp;after&nbsp;all, if an object isn’t there, does it become something? On the other hand, however, that&nbsp;seems to be the essence of refuse: that&nbsp;it is not there, it is invisible. Stripped of any aesthetic veneer, images do not exactly disappear, but&nbsp;are instead moved to our collective blind spot.<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a> But&nbsp;in this&nbsp;particular context, the situation of the digital image is somewhat different –&nbsp;it is not made invisible so much as it disappears. It is beyond&nbsp;question, however, that, like&nbsp;the images mentioned by Steyerl, it is subject to the “alternative economy of images.”<a href="#sdfootnote30sym" name="sdfootnote30anc"><sup>30</sup></a></p> <p>But can we actually call an image expunged from&nbsp;the Web non-existent? It cannot, after&nbsp;all, be deleted completely; even if we scrub it from&nbsp;digital media, wipe the code, and replace the old digits with&nbsp;new ones –&nbsp;reprogramming the online source –&nbsp;then the data that&nbsp;“the cleaners” work to remove always gets stored somewhere, and that&nbsp;location cannot be “cleaned up.” As Hans Belting writes:</p> <blockquote>The human being is the natural <em>locus of images</em>, a&nbsp;living organ for&nbsp;images, as it were. Notwithstanding all the devices we use today to send and store images, it is within&nbsp;the human being, and only within&nbsp;the human being, that&nbsp;images are received and interpreted in a&nbsp;living sense; that&nbsp;is to say, in a&nbsp;sense that&nbsp;is ever changing and difficult to control no matter how forcefully our machines might seek to enforce certain norms.<a href="#sdfootnote31sym" name="sdfootnote31anc"><sup>31</sup></a></blockquote> <p>Although the work of online content moderators mostly entails the removal of data, a&nbsp;considerable portion of that&nbsp;data may end up seeping into&nbsp;their own memories –&nbsp;which is why both <em>Dark Content</em> and <em>The Cleaners </em>feature Filipino moderators speaking at length about&nbsp;what they have seen and what we never will. This&nbsp;reveals, in a&nbsp;very tangible, even embodied way, the full extent of the digital image. Although expunged from&nbsp;online spaces, it persists in memory. The film’s directors recount:</p> <blockquote>Theirs is a&nbsp;key job in the digital era. We were surprised that, rather than&nbsp;complain about&nbsp;their working conditions and the attendant emotional exhaustion, they continued to take pride in their work. One of the interviewees asked us to imagine what the Internet would look like&nbsp;if he stepped away from&nbsp;his computer for&nbsp;just two hours. “You’d probably end up seeing things you never wanted to see. And that’s what people like&nbsp;me shield you from,” he argued. And he’s right. Imagine that&nbsp;a&nbsp;moderator deletes a&nbsp;video with&nbsp;child pornography, and a&nbsp;couple of weeks later their boss drops by, saying that&nbsp;the police caught the person who uploaded it. This&nbsp;sort of narrative, framing extremely draining labor as necessary and deeply meaningful, is what helps them survive. Regardless, most of these companies have a&nbsp;very high turnover rate, with&nbsp;moderators staying on for&nbsp;no longer than&nbsp;six months.<a href="#sdfootnote32sym" name="sdfootnote32anc"><sup>32</sup></a></blockquote> <p>The work of content moderators mostly entails verifying whether what they’re looking at will not be offensive to the general public. What they have to endure in order to do so, however, cannot simply be scrubbed from&nbsp;their heads –&nbsp;thus making them the last human recipients of “banned” content, keeping these illicit visuals under&nbsp;their eyelids, capable of recalling them in the blink of an eye, but&nbsp;unable to communicate their contents to third parties in ways other than&nbsp;through words (albeit even that&nbsp;is mostly <em>verboten</em>, as their work is covered by non-disclosure agreements).<a href="#sdfootnote33sym" name="sdfootnote33anc"><sup>33</sup></a> When the aforementioned interviewee says “that’s what people like&nbsp;me shield you from,” we would do well to read it quite literally. Viewed through&nbsp;such a&nbsp;lens, the moderator becomes a&nbsp;bodyguard, using their own body to take the blow or bullet intended for&nbsp;their charge. Although we will never suffer the violence or savagery of the expunged visual, someone will nevertheless be “injured” by it, their flesh forever marked with&nbsp;the torrent of savagery they had to endure.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8282-1-PB-1920x-4b4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8282-1-PB-330x-216.jpg 330w,assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8282-1-PB-660x-9fa.jpg 660w,assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8282-1-PB-768x-0c5.jpg 768w,assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8282-1-PB-1320x-bdd.jpg 1320w" src="assets/cache/images/issues/2018/21/obrazy_ktorych_nie_widac/557-8282-1-PB-660x-9fa.jpg" alt="" ></a>    <figcaption><p>Hans Block, Moritz Riesewieck, <em>The Cleaners</em>, 2018.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>One of the moderators featured in <em>The Cleaners </em>brings up a&nbsp;co-worker who killed himself because he could no longer bear the mental drain of having to watch the offensive images day in, day out. In this&nbsp;particular context, human moderators emerge as weaker or more vulnerable than&nbsp;their algorithmic counterparts; embodiment turns out to be more curse than&nbsp;blessing. From&nbsp;this perspective, man seems a&nbsp;crucial element in the ontology of the expunged digital image, as his body retains it, precluding it from&nbsp;disappearing altogether and demonstrating that&nbsp;no image ever exists only virtually, without&nbsp;physical consequences. It is rather an element of a&nbsp;part-virtual, part-physical mesh of relationships. Scrubbing it from&nbsp;one space will not erase it from&nbsp;existence, because it will continue to survive in another. Its existence and non-existence are inextricably entwined. The ontology of a&nbsp;deleted digital image transcends the dualisms that&nbsp;we usually think back to when dealing with&nbsp;networks, algorithms, the virtual, and the real. The long-established lines appear uncertain, vague. In the words of Karen Barad, such “indeterminacy is key not only to the existence of matter but&nbsp;also to its non-existence, or rather, it is the key to the play of non/existence.”<a href="#sdfootnote34sym" name="sdfootnote34anc"><sup>34</sup></a></p> <p>In this&nbsp;context it bears noting, as Siva Vaidhyanathan did in his analysis of the removal of Nick Ut’s <em>The Terror of War </em>from social media, that&nbsp;“lost in the uproar was the fact that&nbsp;Facebook did not remove the image from&nbsp;the world. It still existed in books, on hundreds of websites searchable by Google, and in newspapers and magazines.”<a href="#sdfootnote35sym" name="sdfootnote35anc"><sup>35</sup></a> We’ve become used to seeing the ontology of a&nbsp;digital image –&nbsp;all ontologies, really –&nbsp;in a&nbsp;one-dimensional way, from&nbsp;the perspective of the entity and its existence, whereas its removal quickly reveals the complex nature of the relationships that&nbsp;lie beneath&nbsp;it.<a href="#sdfootnote36sym" name="sdfootnote36anc"><sup>36</sup></a></p> <p>Lambert Wiesing argues that&nbsp;the computer screen is supposed to “display and present something.”<a href="#sdfootnote37sym" name="sdfootnote37anc"><sup>37</sup></a> But&nbsp;what happens when said image is missing? Even the word “missing” seems a&nbsp;misnomer in this&nbsp;case. Deleted images are not missing, they are un-present. Their presence is founded upon&nbsp;visual absence –&nbsp;and vice versa. It is because they have been expunged that&nbsp;the online landscape looks as it does. Although images are supposed to present reality to us, it is precisely for&nbsp;that reason that&nbsp;some of them have to be neutralized, because, as it turns out, some of them should never be seen. The expunged images unmask the aporias underpinning the ontology of the digital image. Deleting something does not snuff it out of existence –&nbsp;it continues to function in myriad ways, both in the minds of content moderators and the people who created those images, as well as the memory banks of the computers and smartphones that&nbsp;they passed through. First and foremost, however, they are present in their absence –&nbsp;their very existence requires the policing of the spaces they function in. Thus, expunged images operate through&nbsp;lack. Their existence straddles the intersection of the past, the present, and the future –&nbsp;they are created and upload online, to be deleted by moderators (the past), scrubbed from&nbsp;the landscape of the Web (the present), and thus prevented from&nbsp;disseminating the messages ingrained in them –&nbsp;propagating brutality, violence, or any other behavior deemed socially unacceptable; as such, they play a&nbsp;significant role in driving social attitudes (the future). Thus, we ought to give credit to Wiesing, because even the absent image makes the computer screen present something, if only by stressing its absence.</p> <p>The “vanishing” of the digital image can be considered an essential quality thereof, as the compression necessary for&nbsp;uploading, file format conversion, and even uploading itself often result in its degradation.<a href="#sdfootnote38sym" name="sdfootnote38anc"><sup>38</sup></a> In this&nbsp;context, the labor of content moderators, entailing the expungement of such images, would not stand in contrast to the basic mode of the images’ existence online. Neither would it breach the ontology of the digital image –&nbsp;broad enough to hold noise, error, degradation, and even vanishing.</p> <p>Is it possible, then, for&nbsp;the liquid ontology of the digital image, based on binary code and algorithmic processes, to incorporate the work of content moderators? If their work does not contravene the aforementioned ontology (on the contrary, the two seem to align), but&nbsp;simultaneously involves tampering with&nbsp;the very existence of the images described herein, then the efforts of “the cleaners” should be given their proper place in the discourse on the digital ontology of visuality, as it unmasks the relationship of power tied to visibility in online spaces.<a href="#sdfootnote39sym" name="sdfootnote39anc"><sup>39</sup></a> Anonymous workers from&nbsp;Manila, relying on nothing but&nbsp;a&nbsp;manual supplied to them by their employer, are by no means the subjects of power, but&nbsp;merely its objects, tasked with&nbsp;enforcing a&nbsp;range of systemic preventive measures. After&nbsp;all, it is their work that&nbsp;reinforces the “secrecy and autonomy in the exercise of the power to punish,”<a href="#sdfootnote40sym" name="sdfootnote40anc"><sup>40</sup></a> a&nbsp;notion emphasized in <em>Dark Content</em> by having the words of the moderators come from&nbsp;the mouths of digital avatars. The persons whose images were scrubbed from&nbsp;the Internet have no avenue to appeal the decision, and must reconcile themselves to the act of censorship. One particularly cautionary tale can be found in the story of Illma Gore, an LA-based artist who one day uploaded an illustration of a&nbsp;poorly endowed Donald Trump, titled <em>Make America Great Again</em>, to her Facebook profile. The picture was quickly flagged as offensive, and forwarded to a&nbsp;content moderator tasked with&nbsp;deciding whether it would remain on Gore’s feed or be removed. Without&nbsp;enough time to ponder the intricacies of freedom of speech in America, but&nbsp;apprised of the punishment that&nbsp;insulting the president of the Philippines might carry, she ultimately decided to remove the illustration, which then led to Gore’s entire account being shut down.</p> <p>Situations like&nbsp;these are unavoidable when we saddle thousands of laborers with&nbsp;the task of sifting through&nbsp;at least 25,000 images for&nbsp;eight hours a&nbsp;day, working in shifts so that&nbsp;their employers can provide round-the-clock services. The custodians cannot be supervised in any way, nor would such oversight be welcomed. According to their work contracts, moderators making more than&nbsp;three mistakes per month are let go, but&nbsp;staff turnover caused by mental exhaustion is so high that&nbsp;most employers cannot allow themselves too many layoffs.</p> <p>In a&nbsp;manner, therefore, the work of online moderators can be seen as a&nbsp;way to discipline the users of the Internet. It demonstrates that&nbsp;the relationship of power and incessant, clandestine surveillance is an inherent element of the ontology of the digital image –&nbsp;particularly the image uploaded online. Censorship is the disciplining punishment designed to teach us what content is acceptable and what isn’t. Borrowing from&nbsp;Roy Ascott, we might say that&nbsp;the Internet is a&nbsp;“site of interactivity and connectivity in which the viewer can play an active part in the transformation or affirmation of the images.”<a href="#sdfootnote41sym" name="sdfootnote41anc"><sup>41</sup></a> The problem is, however, that&nbsp;broadcasters and their intended audience are separated nowadays by a&nbsp;particular filter, in the form of a&nbsp;“clandestinely viewing subject,” tasked with&nbsp;the aforementioned affirmation of the image.</p> <p>The labor of online cleaners, however, remains invisible to the majority of Internet users, probably because it is covered by the transparency of the interface, described at length by media theorist Lev Manovich.<a href="#sdfootnote42sym" name="sdfootnote42anc"><sup>42</sup></a> This&nbsp;invisibility shrouds the work of those custodians in another layer of anonymity. Not only do we not know who they are, but&nbsp;we should not be aware of their existence at all. That&nbsp;is why no one is really rectifying the misleading information about&nbsp;the extent of algorithm use for&nbsp;the purposes of content moderation, and why –&nbsp;aside from&nbsp;obvious economic reasons, of course –&nbsp;most of this&nbsp;“custodial” work is actually performed by Filipinos. They are supposed to remain not merely anonymous, but&nbsp;also invisible, leaving society at large unaware of the hidden mechanisms underpinning the Web (both the oppressive search algorithms described by Noble and the work of online content moderators). When using the Internet, we see neither the interface, the code, nor the underlying structure that&nbsp;disciplines our own movements and presence in online spaces. To quote Lambert Wiesing, we look “through a&nbsp;transparent plane without&nbsp;thematizing the transparent plane itself”.<a href="#sdfootnote43sym" name="sdfootnote43anc"><sup>43</sup></a> We should come to realize, therefore, that&nbsp;every image uploaded online actually contains much more information than&nbsp;is visible to the eye –&nbsp;and that&nbsp;those images concealed from&nbsp;our view usually have the most to say.</p> <p style="text-align: center;">***</p> <p>What does it mean to “keep the Web clean”? How can we genuinely judge which piece of content is clean and which isn’t? Although value systems tend to depend on context, it seems obvious that&nbsp;content that&nbsp;is violent or calling for&nbsp;violence, brutal, or offensive, should be unambiguously treated as undesirable. Is it actually possible to effectively police and cultivate online spaces? If so, who ultimately gets to decide what stays and what goes? The secrecy and systemic autonomy of the relationship of power that&nbsp;underpins content policing makes it relatively easy to put off&nbsp;any sort of reflection over&nbsp;its impact on the democratic nature of the Web, especially when, in return, it offers us a&nbsp;relatively safe space online, scrubbed of any violent or unpleasant content. But&nbsp;doesn’t the content policing postulated by Safiya Noble, currently enforced by Silicon Valley tech giants via&nbsp;the hands of “online custodians,” carry the risk of manipulating the image of reality? After&nbsp;all, the manipulation of the digital image often produces tangible results in reality. Scrubbing unwanted visuals from&nbsp;our collective field of view will not make the phenomena they either represent or stem from&nbsp;disappear; instead, they will become un-present, and thus be imbued with&nbsp;far greater power than&nbsp;they ever commanded while “out in full view.”</p> <p>At the same time, over-reliance on the ability to control online content –&nbsp;with&nbsp;the policing itself remaining beyond&nbsp;any control –&nbsp;ultimately implies acquiescence to a&nbsp;range of self-disciplining measures, most of which require the user to submit to whatever politics of visuality are currently being enforced. After&nbsp;all, how can we be sure whether the images we upload will not be flagged for&nbsp;impropriety and sent to a&nbsp;moderator? Such control is ubiquitous, and each image can ultimately be subject to the critical gaze of the online custodian. Thus, the Internet loses its democratic luster of a&nbsp;space where all voices have equal power. In this&nbsp;new regime, power rests in the hands of those who control the “delete” button.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a><sup></sup> Safiya Umoja Noble, <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em> (New York: New York University Press, 2018), 25.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a><sup></sup> See: Safiya Umoja Noble, “Missed Connections: What Search Engines Say About Women,” <em>Bitch</em> 12, no. 4 (2012), 37-41.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a><sup></sup> Noble, <em>Algorithms of Oppression</em>, 21.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a><sup></sup> See: Andrew Griffin, “GOOGLE APOLOGISES FOR RACIST ‘N*GGA HOUSE’ SEARCH THAT TAKES USERS TO WHITE HOUSE,” <em>The Independent</em>, May 21, 2015, <a href="http://www.independent.co.uk/life-style/gadgets-and-tech/news/nigga-house-racist-search-term-forces-google-to-apologise-for-taking-users-to-white-house-10266388.html" target="_blank" rel="noopener">www.independent.co.uk/life-style/gadgets-and-tech/news/nigga-house-racist-search-term-forces-google-to-apologise-for-taking-users-to-white-house-10266388.html</a> (accessed March 7, 2019).</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a><sup></sup> See: Noble, <em>Algorithms of Oppression</em>.<em></em></p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a><sup></sup> Reni Eddo-Lodge, <em>Why I’m No Longer Talking to White People About Race </em>(London: Bloomsbury, 2017), 64.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a><sup></sup> Noble, <em>Algorithms of Oppression</em>, 31.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a><sup></sup> Scott Galloway, <em>The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google</em> (New York: Penguin, 2017)<em>, </em>119.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a><sup></sup> Tarleton Gillespie, <em>Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media </em>(New Haven and London: Yale University Press, 2018), 212.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a><sup></sup> Gillespie, <em>Custodians of the Internet</em>, 9-10.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a><sup></sup> Cf. John D. Kelleher, Brian Mac Namee, and Aoife D’Arcy, <em>Fundamentals of Machine Learning for Predictive Data Analytics</em> (Cambridge, MA and London: MIT Press, 2015).</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a><sup></sup> Cf. Malcolm Frank, Paul Roehrig, and Ben Pring, <em>What To Do When Machines Do Everything: How to Get Ahead in a World of AI, Algorithms, Bots, and Big Data </em>(New Jersey: Wiley, 2017), 92-95.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a><sup></sup> Yuval Noah Harari, <em>Homo Deus: A Brief History of Tomorrow</em> (New York: HarperCollins, 2017), 398-399.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a><sup></sup> Terrence J. Sejnowski, <em>The Deep Learning Revolution</em> (Cambridge, MA and London: MIT Press, 2018), 207.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a><sup></sup> Siva Vaidhyanathan, <em>Anti-Social Media: How Facebook Disconnects Us and Undermines Democracy </em>(New York: Oxford University Press, 2018), 33.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a><sup></sup> Cf. Alexandra Ma, “Facebook banned a user from posting a photo of a 30,000-year-old statue of a naked woman – and people are furious,” <em>Business Insider</em>, March 1, 2018, <a href="http://www.businessinsider.com/facebook-bans-venus-of-willendorf-photos-over-nudity-policy-2018-3?IR=T" target="_blank" rel="noopener">www.businessinsider.com/facebook-bans-venus-of-willendorf-photos-over-nudity-policy-2018-3?IR=T</a> (accessed March 7, 2019).</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a><sup></sup><em></em>“Facebook usuwa obrazy Rubensa z powodu odsłoniętych piersi. Muzea protestują,” <em>Polish Press Agency </em>online, <a href="http://www.polskieradio.pl/5/3/Artykul/2170631,Facebook-usuwa-obrazy-Rubensa-z-powodu-odslonietych-piersi-Muzea-protestuja" target="_blank" rel="noopener">www.polskieradio.pl/5/3/Artykul/2170631,Facebook-usuwa-obrazy-Rubensa-z-powodu-odslonietych-piersi-Muzea-protestuja</a> (accessed March 7, 2019).</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a><sup></sup> It bears noting that the human gaze works along similar lines: we also seek patterns or familiar shapes, and compare what we see against known visuals. The key difference, however, is that, as we grow our social and cultural faculties, we tend to rely more on context than anything else. Cf. Władysław Strzemiński, <em>Teoria widzenia </em>(Łódź: Muzeum Sztuki, 2016).</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a><sup></sup> Galloway, <em>The Four</em>, 124.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a><sup></sup> Nicholas Mirzoeff, <em>How to See the World</em> (London: Pelican, 2015), 156-157.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a><sup></sup> The installation was part of the <em>First Person Plural: Empathy, Intimacy, Irony, and Anger</em> exhibition, held at the basis voor actuele kunst (BAK) in Utrecht, the Netherlands, from May 12 to July 22, 2018.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a><sup></sup> The universalization of office work, symbolized herein by the IKEA office furniture, is supposed to highlight the anonymity of content moderators (who thus become everymen), as well as their slave-like exploitation by the capitalist corporate machine. Just as control of the Web is based on a catalog of specific approaches, so office furniture that we use every day constrains our movements, limiting our range of motion to what its designers were able to envision. That is also why the recordings featured in <em>Dark Content</em> compel the audience to transcend their well-worn and practiced ways of using such furniture. Cf. Artur Szarecki, <em>Kapitalizm somatyczny. Ciało i władza w kulturze korporacyjnej </em>(Warsaw: Wydawnictwa Drugie, 2017).</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a><sup></sup> The film premiered in 2018 and was released in Poland at the <em>Millennium Docs Against Gravity Film Festival</em>. I’d like to thank the organizers for giving me access to the footage.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a><sup></sup> The filmmakers behind <em>The Cleaners </em>admitted that they, too, once believed that algorithms were responsible for content moderation: “In 2013, a video showing a woman being violent towards her child was uploaded to Facebook, and ultimately shared 60,000 times before it was scrubbed from the platform. Moritz and I were fascinated not just with the speed of its spread, but the swiftness of its deletion. When asked what sort of algorithm decided the removal and what its error rate is, Sara T. Roberts, a UCLA researcher specializing in social media, revealed to us that online content policing was performed not by machines, but primarily by hired hands hailing from the Global South”; Magda Roszkowska, “Czyściciele internetu kontrolują to, co trafia do sieci. ‘Oglądają wszelkiego rodzaju przemoc’,” <em>Gazeta.pl</em>, <a href="http://weekend.gazeta.pl/weekend/1,152121,23538263,czysciciele-internetu-kontroluja-to-co-trafia-do-sieci-ogladaja.html" target="_blank" rel="noopener">http://weekend.gazeta.pl/weekend/1,152121,23538263,czysciciele-internetu-kontroluja-to-co-trafia-do-sieci-ogladaja.html</a> (accessed March 7, 2019). The work done by Filipino content moderators was revealed for the first time in 2012 by Adrian Chen: see Adrian Chen, “Inside Facebook’s Outsourced Anti-Porn and Gore Brigade, where ‘Camel Toes’ are More Offensive than ‘Crushed Heads’,” <em>Gawker</em>, February 16, 2012, <a href="https://gawker.com/5885714/inside-facebooks-outsourced-anti-porn-and-gore-brigade-where-camel-toes-are-more-offensive-than-crushed-heads" target="_blank" rel="noopener">https://gawker.com/5885714/inside-facebooks-outsourced-anti-porn-and-gore-brigade-where-camel-toes-are-more-offensive-than-crushed-heads</a> (accessed March 7, 2019). See also: Gillespie, <em>Custodians of the Internet</em>.<em></em></p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a><sup></sup> This was the subject of <em>Guests</em>, Krzysztof Wodiczko’s exhibition held at the Polish Pavilion at the 53rd Venice Biennale in 2009.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a><sup></sup> Piotr Zawojski, “Paradoksy obrazów w epoce nowych mediów,” in <em>Sztuka obrazu i obrazowania w epoce nowych mediów </em>(Warsaw: Oficyna Naukowa, 2012), 11.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a><sup></sup> William John Mitchell, <em>The Reconfigured Eye: Visual Truth in the Post-Photographic Era</em> (Cambridge, MA and London: MIT Press, 1992), 6.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a><sup></sup> Hito Steyerl, “In Defense of the Poor Image,” <em>e-flux</em> 10 (November 2009), <a href="https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/" target="_blank" rel="noopener">https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/</a> (accessed March 30, 2019).</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a><sup></sup> Cf. Wolfgang Welsch, “Ästhetik und Anästhetik,” in <em>Ästhetisches Danken</em> (Stuttgart: Philipp Reclam jun.: 1993), 9–40.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a><sup></sup> Steyerl, “In Defense of the Poor Image.”</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a><sup></sup> Hans Belting, <em>An Anthropology of Images: Picture, Medium, Body</em> (Princeton: Princeton University Press, 2011), 37.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a><sup></sup> Roszkowska, “Czyściciele internetu.”</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a><sup></sup> This anonymity grants them the status traditionally reserved for state witnesses or secret operatives. The former narrative can be found in<em> Dark Content</em>, wherein moderators are given virtual avatars to hide behind, thus shielding them from the potentially harmful consequences of their custodial work. <em>The Cleaners</em>, on the other hand, brings up associations with covert operatives striving to save the world, or a secret brotherhood working behind the scenes to guard a sacred order. The smothering, secretive atmosphere of the narrative, blurry images, and darkened frames may bring to mind stories of people forced into hiding. Fragments of e-mails appearing on the screen, meanwhile, seem to be a trope taken straight from a spy movie.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a><sup></sup> Karen Barad, <em>What Is the Measure of Nothingness? Infinity, Virtuality, Justice</em> (Ostfildern: Hatje Cantz, 2012), 13.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a><sup></sup> Vaidhyanathan, <em>Anti-Social Media</em>, 46.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a><sup></sup> Nick Ut’s photo is also featured in <em>The Cleaners</em>. One of the interviewees looks at it, and says that although he’s aware of the photo’s history, the guidelines he has to adhere to would compel him to remove it, and that he would not try to take the matter up with his superiors.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a><sup></sup> Lambert Wiesing, <em>Artificial Presence: Philosophical Studies in Image Theory </em>(Stanford: Stanford University Press, 2010), 23.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a><sup></sup> Jakub Dziewit wrote: “the JPEG file format […] reduced the ‘weight’ of the photograph through means of compressing, which ultimately resulted in loss of quality. While developing the format, its creators exploited the fact that pictures displayed on a computer screen do not require a particularly high ‘density’ of points comprising them. Jakub Dziewit, <em>Aparaty i obrazy. W stronę kulturowej historii fotografii</em> (Katowice: grupakulturalna.pl, 2014), 212. Cf. Lev Manovich, “The Paradoxes of Digital Photography,” <a href="http://manovich.net/content/04-projects/004-paradoxes-of-digital-photography/02_article_1994.pdf" target="_blank" rel="noopener">http://manovich.net/content/04-projects/004-paradoxes-of-digital-photography/02_article_1994.pdf</a> (accessed March 31, 2019).</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a><sup></sup> Images like these are always constituted collectively, and never exist “in and of themselves.” Their existence, and in this case un-presence, are the product of the intersection of different market, aesthetic, political, social, and communal webs (evinced, at the very least, in the notion of community control over the Internet). Although a more in-depth look at these issues lies outside the scope of this essay, it bears enquiring, in the spirit of Bruno Latour, whether digital images (and maybe even images in general) – particularly those functioning online – only come into existence as long as they answer the needs of – broadly defined – interests or some specific community concerns.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a><sup></sup> Michel Foucault, <em>Discipline and Punish: The Birth of the Prison</em> (New York: Vintage Books, 1995), 129.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a><sup></sup> Roy Ascott, “Photography at the Interface,” in <em>Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness</em>, ed. Edward A. Shanken (Berkeley: University of California Press, 2003)<em>, </em>252.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a><sup></sup> See: Lev Manovich, <em>The Language of New Media</em> (Cambridge, MA: MIT Press, 2001)<em>. </em></p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a><sup></sup> Wiesing, <em>Artificial Presence</em>, 80.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/21-invisible-labor/images-out-of-sight-some-remarks-on-moderating-online-content" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

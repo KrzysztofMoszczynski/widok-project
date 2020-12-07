@@ -1,0 +1,224 @@
+.m-issue {
+  min-height: 100vh;
+}
+
+/* meta */
+
+.c-issue-meta {
+
+  &__img {
+    width: 220px;
+    margin-bottom: 25px;
+
+    @media (min-width: $breakpoint_sm) {
+      float: left;
+      margin-bottom: 45px;
+      margin-right: 45px;
+    }
+
+  }
+
+  &__info {
+    margin-bottom: 25px;
+
+    @media (min-width: $breakpoint_sm) {
+      margin-bottom: 45px;
+      float: left;
+      width: 400px;
+    }
+
+    p {
+      span {
+        display: block;
+      }
+    }
+
+  }
+
+  &__title {
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 25px;
+    
+    a {
+      text-decoration: none !important;
+      color: inherit;
+    }
+
+    .combined {
+      @media (min-width: $breakpoint_sm) {
+        @include underline-bg(#000,2px,1.2em);
+      }
+    }
+
+    .number,
+    .title {
+      @media (max-width: $breakpoint_ms_max) {
+        @include underline-bg(#000,2px,1.2em);
+      }
+    }
+
+    .title {
+      @media (max-width: $breakpoint_ms_max) {
+        display: block;
+      }
+    }
+
+  }
+
+}
+
+/* toc */
+
+.c-issue-toc {
+  $toc_padding_left: 35px;
+  
+  margin-top: 29px;
+  
+  @media (min-width: $breakpoint_sm) {
+    margin-left: -$toc_padding_left;
+  }
+
+  &__title,
+  &__section-title,
+  li {
+    padding-left: $toc_padding_left;
+  }
+
+  &__title {
+    margin-top: 0;
+    span {
+      @include underline-bg();
+    }
+  }
+
+  &__section-title {
+    margin-bottom: 0;
+    color: $color_primary;
+  }
+
+  &__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    counter-reset: toc-counter;
+  }
+
+  &__article {
+    position: relative;
+    margin: 0;
+    counter-increment: toc-counter;
+    &:before {
+      position: absolute;
+      top: 5px;
+      left: 0;
+      //content: counter(toc-counter,decimal-leading-zero)'. ';
+      content: attr(data-aricle-no)'.';
+      color: $color_primary;
+      font-size: 1.6rem;
+      font-family: 'NexaHeavy';
+    }
+    + li {
+      margin-top: 20px;
+    }
+  }
+
+  &__article-title {
+    margin: 0;
+    color: $color_default;
+    font-size: 2rem;
+    a {
+      color: inherit;
+    }
+  }
+
+  &__article-authors {
+    margin: 0;
+    color: $color_primary;
+    a {
+      color: inherit;
+    }
+  }
+
+  &__article-collapse-btn {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none !important;
+    color: $color_default !important;
+    &:after {
+      display: inline-block;
+      content: '';
+      width: 15px;
+      height: 10px;
+      background-image: url('../img/strzalka_krotka.svg');
+      background-repeat: no-repeat;
+      background-size: 8px;
+      background-position: center bottom;
+    }
+  }
+
+  &__article-collapse-btn[aria-expanded="true"] {
+    &:before {
+      content: attr(data-lexicon-hide);
+    }
+    &:after {
+      transform: rotate(180deg);
+    }
+  }
+
+  &__article-collapse-btn[aria-expanded="false"] {
+    &:before {
+      content: attr(data-lexicon-show);
+    }
+  }
+
+  &__article-collapse {
+    @media (max-width: $breakpoint_ms_max) {
+      margin-left: -$toc_padding_left;
+    }
+    p {
+      margin: 0;
+    }
+  }
+
+  &__article-collapse-inner {
+    position: relative;
+    //border-top: 2px solid $color_default;
+    //border-bottom: 2px solid $color_default;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    &:before,
+    &:after {
+      position: absolute;
+      left: 0;
+      display: block;
+      content: '';
+      width: 100%;
+      height: 2px;
+      background-color: #000;
+      @media (min-width: $breakpoint_sm) {
+        width: 170px;
+      }
+    }
+    &:before {
+      top: 0;
+    }
+    &:after {
+      bottom: 0;
+    }
+  }
+
+}
+
+.c-issue-toc__article--no-translation {
+  .c-issue-toc__article-collapse-btn {
+    &:after {
+      -webkit-filter: contrast(0%);
+      filter        : contrast(0%);
+    }
+  }
+}
+.c-issue-toc__article--no-translation *,
+.c-issue-toc__article--no-translation:before {
+  color: #999 !important;
+}

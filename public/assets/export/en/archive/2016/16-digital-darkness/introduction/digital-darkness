@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Digital Darkness | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/16-digital-darkness/digital-darkness">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Digital Darkness | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Digital Darkness | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/16-digital-darkness/digital-darkness">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Digital Darkness | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #c0c0c0 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #c0c0c0 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #c0c0c0 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #c0c0c0 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #c0c0c0 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #c0c0c0 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #c0c0c0 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #c0c0c0 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(192,192,192,0.8) !important; */
+			/* background-color:#c0c0c0 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(192,192,192,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#c0c0c0 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(192,192,192,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#c0c0c0; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(192,192,192,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(192,192,192,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#c0c0c0 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#c0c0c0 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#c0c0c0 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-744 parent-id-743">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="718" data-selected-issue-color="#c0c0c0" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2016/cyfrowe-mroki/cyfrowe-mroki">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2016/cyfrowe-mroki/cyfrowe-mroki">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/16-digital-darkness#toc">16</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/16-digital-darkness/digital-darkness?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Digital Darkness</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/16-digital-darkness/digital-darkness?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=318">Łukasz Zaremba</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;">... and I&nbsp;went trudging on to the ceiling, the white desert; but&nbsp;the tedious whiteness changed slightly farther on, near&nbsp;the window, into&nbsp;a&nbsp;rough, darker expanse contaminated with&nbsp;dampness and covered with&nbsp;a&nbsp;complex geography of continents, bays, islands, peninsulas, strange concentric circles reminiscent of the craters of the moon, and other lines, slanting, slipping away—sick in places like&nbsp;impetigo, elsewhere wild and unbridled, or capricious with&nbsp;curlicues and turns, it breathed with&nbsp;terror of fatality, lost itself in a&nbsp;giddy distance. And dots, I&nbsp;don’t know what from, not likely from&nbsp;flies, their origins totally inscrutable... Gazing, drowned in it and in my complexities, I&nbsp;gazed and gazed without&nbsp;any particular effort yet stubbornly, until&nbsp;in the end it was as if I&nbsp;were crossing some kind of a&nbsp;threshold—and little by little I&nbsp;was almost “on the other side” ...</p> <p style="text-align: right;">Witold Gombrowicz, <em>Cosmos: A&nbsp;Novel</em>, trans. Danuta Borchardt</p> </blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/16/488-6354-1-pb-1920x-e10.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/16/488-6354-1-pb-330x-2e5.jpg 330w,assets/cache/images/issues/2016/16/488-6354-1-pb-660x-5ca.jpg 660w,assets/cache/images/issues/2016/16/488-6354-1-pb-768x-ad2.jpg 768w,assets/cache/images/issues/2016/16/488-6354-1-pb-1320x-d36.jpg 1320w" src="assets/cache/images/issues/2016/16/488-6354-1-pb-660x-5ca.jpg" alt="" ></a>    <figcaption><p>Zach Blas, Jemima Wyman, <em>im here to learn so :))))))</em>, video still from&nbsp;four channel HD video installation, 2017</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The passage onto&nbsp;„the other side” in <em>Cosmos</em> initially appears to signify a&nbsp;lapse into&nbsp;pareidolia, hence, perceiving figurativeness in contingent shapes, intentions in nonsensical phenomena and connections in unconnected places. It appears to be a&nbsp;history of an inquiry set in motion by the protagonists’ boredom and internal conflicts, pushing them towards&nbsp;a&nbsp;journey on an imaginary map with&nbsp;a&nbsp;force akin to that&nbsp;which induces certain faithful to pray in front of Marian stains on glasses and allows proponents of conspiracy theories to connect times, places and characters in an all-explanatory manner that&nbsp;seems to them irrefutable and self-evident. However, another interpretation of Gombrowicz’s anti-mystery argues that&nbsp;the inquiry is not merely an attempt to find order where it actually –&nbsp;contrary to the rest of the largely coherent world –&nbsp;is absent. Instead, the uncertain archipelagos of the ceiling and the misleading itinerant trails of a&nbsp;Zakopane resort courtyard point to an absence of any coherence, also in the figurativeness of objects and people. The attempt at ordering and navigating according to a&nbsp;line on the ceiling, its continuation in the garden, and leading farther to who knows where, reaches a&nbsp;desperate dimension when faced with&nbsp;a&nbsp;dissolution of everything that&nbsp;has been presumed to maintain coherence in and of itself, since&nbsp;“objects were refusing to join it, they were crawling into&nbsp;their burrows, disappearance, disintegration, finality—even though there was still some light—but one was affected with&nbsp;the malicious depravity of vision itself.”</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/16/488-6356-1-pb-1920x-72f.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/16/488-6356-1-pb-330x-474.jpg 330w,assets/cache/images/issues/2016/16/488-6356-1-pb-660x-1c8.jpg 660w,assets/cache/images/issues/2016/16/488-6356-1-pb-768x-726.jpg 768w,assets/cache/images/issues/2016/16/488-6356-1-pb-1320x-4cb.jpg 1320w" src="assets/cache/images/issues/2016/16/488-6356-1-pb-660x-1c8.jpg" alt="" ></a>    <figcaption><p>Zach Blas, Jemima Wyman, <em> im here to learn so :))))))</em>, four channel HD video installation, 2017</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The description of the “white desert” of the ceiling equally corresponds to the ostensibly insignificant background of Zach Blas’ and Jemima Wyman’s video-presentation, <em>im here to learn so :)))))) </em>(2017), included in this&nbsp;issue’s opening section, <b>viewpoint</b>, paired up with&nbsp;an essay by Aleksandra Przegalińska. In their work, roaming the ceiling acquires a&nbsp;temporal rather than&nbsp;a&nbsp;spatial dimension, but&nbsp;is governed by a&nbsp;similar principle. The background transforms from&nbsp;barely perceptible, ‘rugged’ elements into&nbsp;a&nbsp;weave of forms –&nbsp;featured on the cover of the current issue of the “View”. The artists produced the work using Deep Dream, a&nbsp;computed vision programme created by Google, modelled on natural vision; the programme, which has in recent years been the winner of competitions in computer image ‘recognition’, looking for&nbsp;patterns, ‘enhances’ its input forms: not only can it revolve or change an angle of a&nbsp;particular shape, but&nbsp;is primarily based on its multiple repetition and looping.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/16/488-6358-1-pb-1920x-568.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/16/488-6358-1-pb-330x-a33.jpg 330w,assets/cache/images/issues/2016/16/488-6358-1-pb-660x-614.jpg 660w,assets/cache/images/issues/2016/16/488-6358-1-pb-768x-fed.jpg 768w,assets/cache/images/issues/2016/16/488-6358-1-pb-1320x-17c.jpg 1320w" src="assets/cache/images/issues/2016/16/488-6358-1-pb-660x-614.jpg" alt="" ></a>    <figcaption><p>Zach Blas, Jemima Wyman, <em> im here to learn so :))))))</em>, four channel HD video installation, 2017</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Regardless of the mechanism’s successes in ‘recognition’ –&nbsp;and regardless of the debates on the meaning of ‘recognition’ –&nbsp;the mechanism reveals its apopheniac tendencies (tendencies to find patterns, figures and regularities in random phenomena), when fed with—as is the case with&nbsp;<em>im here to learn so :))))))</em>—a non-representational image—or as in its countless YouTube parodies—with an image that&nbsp;poses hardly any problems to human recognition. The former will in time become a&nbsp;weave of ‘eyes’ and their respective bodies; the latter will not be completely deformed, but&nbsp;in a&nbsp;process comparable to a&nbsp;narcotic hallucination, it will blossom forth whirls of repetitions and deformations that, on the one hand, will be somewhat recognisable, and on the other, will make identifying initial shapes much harder.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/16/488-6360-1-pb-1920x-068.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/16/488-6360-1-pb-330x-0f3.jpg 330w,assets/cache/images/issues/2016/16/488-6360-1-pb-660x-10f.jpg 660w,assets/cache/images/issues/2016/16/488-6360-1-pb-768x-890.jpg 768w,assets/cache/images/issues/2016/16/488-6360-1-pb-1320x-635.jpg 1320w" src="assets/cache/images/issues/2016/16/488-6360-1-pb-660x-10f.jpg" alt="" ></a>    <figcaption><p>Zach Blas, Jemima Wyman, <em> im here to learn so :))))))</em>, four channel HD video installation, 2017</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Meanwhile, the mechanism of pattern recognition, the visual parody of which is played out on the white background to Blas’ and Wyman’s work (as if parodying the line-on-the-ceiling-directed inquiry in <em>Cosmos</em>), has lately become a&nbsp;significant cosmos-ordering force, additionally attaining the status of knowledge that&nbsp;is certain (based on calculation), scientific (machinic, eliminating human error and limitations on the amounts of data processed), and uncovering processes akin to natural processes. For&nbsp;example, the mechanism of pattern recognition forms the basis for&nbsp;Microsoft’s social (rather than&nbsp;IT) experiment with&nbsp;Tay –&nbsp;a&nbsp;Twitter bot shut down&nbsp;in less than&nbsp;a&nbsp;day after&nbsp;its launch. During&nbsp;the period, Tay, mimicking the behaviour of its ‘peers’, has acquired features of an over-sexualised subordinate of chauvinist culture, preaching the superiority of the white race. But&nbsp;mostly the mechanism has become a&nbsp;function which increasingly conditions our everyday life. An algorithm targeted at finding connections and repetitions, but&nbsp;also sensitive to sudden, radical changes, provides tacit grounds for&nbsp;increasingly large amounts of acquired knowledge (search results) and taken decisions.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/16/488-6362-1-pb-1920x-451.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/16/488-6362-1-pb-330x-265.jpg 330w,assets/cache/images/issues/2016/16/488-6362-1-pb-660x-057.jpg 660w,assets/cache/images/issues/2016/16/488-6362-1-pb-768x-08b.jpg 768w,assets/cache/images/issues/2016/16/488-6362-1-pb-1320x-629.jpg 1320w" src="assets/cache/images/issues/2016/16/488-6362-1-pb-660x-057.jpg" alt="" ></a>    <figcaption><p>Deap Dream generated meme</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Among other questions, <em>im here to learn so :))))))</em> draws attention to the use of processes of pattern recognition and finding anomalies in acts of war. Here, the artists juxtapose errors in machine threat identification (when a&nbsp;wedding in an Afghan village gets ‘recognised’ as a&nbsp;terrorist gathering) with&nbsp;a&nbsp;limited visibility of acts of war –&nbsp;at night time, viewed through&nbsp;the eyes of a&nbsp;machine (night vision goggles, a&nbsp;thermal camera, a&nbsp;pixelated transmission from&nbsp;a&nbsp;deadly drone).</p> <p>In the issue currently transmitted to our readers’ screens, we set out to question precisely this&nbsp;relationship –&nbsp;between&nbsp;the visual and mechanisms which, despite&nbsp;frequently being defined as ‘recognition’, in reality elude human vision. The challenge we set ourselves is bound up with&nbsp;a&nbsp;shifting focus in media criticism, particularly in the English speaking world and in Italy, from&nbsp;the dazzling screen to the invisible operations of ‘grey media’. Not only have images ceased to be of interest, when viewed exclusively as areas of emancipatory identity politics or ideological critique, bur have come to be considered, regardless of their content, as veils, deflecting attention (including that&nbsp;of researchers) from&nbsp;the zone where data selection, exclusion and capture actually occur, and therefore a&nbsp;zone into&nbsp;which agency and responsibility are transferred. In our CFP for&nbsp;the issue, we suggested that&nbsp;despite it being pointless, in light of these changes, for&nbsp;visual studies to persist in their iconoclastic critique of screens as carriers of evil content and harmful ideologies –&nbsp;which at its best makes for&nbsp;a&nbsp;substitutive, apparent critique –&nbsp;it did not necessarily entail an exhaustion of critical potential of visual culture with&nbsp;regards to ‘new media’ so defined (i.e. algorithms, calculation procedures, data capture and processing). We interrogated the murky, the opaque, the hidden or the invisible in technologically advanced devices –&nbsp;or what the contemporary critical theory exposes as the grounds for&nbsp;functioning not only of computational machines, but&nbsp;also as the ground for&nbsp;functioning of entire socio-economic systems, of constructions of the subject with&nbsp;its desires and agential possibilities, of a&nbsp;model of communication (and a&nbsp;culture based on the model).</p> <p>We were soon brought down&nbsp;to earth in these considerations by telltale problems related to publication of translations of academic papers (not only in this&nbsp;issue). This&nbsp;issue’s <b>close-up</b> includes e.g. a&nbsp;text by Jodi Dean, an American philosopher and author of such suggestive titles as <em>The Communist Horizon</em> or <em>The Publicity’s Secret: How Technoculture Capitalizes on Democracy</em>. However, due to resistance from&nbsp;the publisher, we were only able to publish a&nbsp;few-page-long extract from&nbsp;her acclaimed 2010 work, <em>Blog Theory</em>, discussing the blogosphere as a&nbsp;site of extinguishing social resistance (we had received the rights to translation of the extract free of charge). Such an inconsistency of the papers’ critical and progressive content with&nbsp;the resistance of numerous publishers towards&nbsp;publishing these dissertations in a&nbsp;magazine available on-line, to everyone and, additionally, free of charge, is therefore striking. Recent problems –&nbsp;including the critique of certain forms of open access and copy left from&nbsp;leftist standpoints –&nbsp;seem entirely abstract in confrontation with&nbsp;the persistence of traditional concepts of ‘visibility’, ‘property’ and reading ‘patterns’.</p> <p>In response to finding ways of practicing visual studies in the face of new technologies, we feature a&nbsp;piece by Bernard Stiegler, one of the most illustrious figures in the philosophy of technology, the author of the monumental work, <em>La technique et le temps </em>(1994–2001). It is, to the best of our knowledge, the first Polish language publication of the author’s work, heralding the publication of <em>Etats de choc. Bêtise et savoir au XXIe siècle </em>in Michał Krzykawski’s translation, forthcoming from&nbsp;Wydawnictwo Naukowe PWN [Polish Scientific Publishers PWN]. In <em>The Carnival of the New Screen</em>, using the example of the operation of YouTube and the digital visual entertainment industry, juxtaposed with&nbsp;earlier visual forms, such as television, but&nbsp;also with&nbsp;a&nbsp;model of communication based in writing, Stiegler reflects on the consequences of technologies of global reception and broadcasting of digital video images for&nbsp;the criticality and autonomy of the subject. In <em>Nothing (‘s what) Happens on the Screen</em>, which is an extension to the editorial and an accompanying piece to both translations, Łukasz Zaremba lists selected areas of interlocking of the digital visual –&nbsp;as exemplified by YouTube –&nbsp;and the processes of cognitive capitalism. In turn, Adam Przywara and Krzysztof Dołęga in the essay <em>Form and Inform</em> discuss the connection between&nbsp;the use of computational systems in architecture with&nbsp;the presence of recurrent spaces subordinated to the capital. The ostensibly innocent, transparent and identical architectural compositions turn out to be a&nbsp;crucial element in an everyday experience and practice of the neoliberal system.</p> <p>A historical dimension of the link between&nbsp;new technologies and the visual is prominently present in the texts by Matylda Szewczyk and Artur Szarecki. In her article, <em>Stories from&nbsp;Ultrasonographic Depths</em>, Matylda Szewczyk presents a&nbsp;section, constructed around&nbsp;technological images, of the cultural history of visualisation of the fetus, exploring junctures between&nbsp;the female body and technology, ‘life’ biological and mechanical. In an excerpt from&nbsp;Artur Szarecki’s <em>Somatic Capitalism: Body and Power in Corporate Culture</em>, recently published by Wydawnictwa Drugie, appearing in our <b>panorama</b>, the author examines forms of factory management and forms of control over&nbsp;workers’ bodies at the turn of the 19<sup>th</sup> century e.g. in relation to photographic visualisations of motion which exceed the capacities of the human eye.</p> <p><b>Snapshots</b> contain extended discussions of two exhibitions: the latest edition of Berlin-based <em>transmediale</em> and an exhibition interestingly touching upon&nbsp;the relationship between&nbsp;new media, the poetic and affects, <em>Ministry of Internal Affairs. Intimacy as Text</em>. Curiously, the former discussion is the only place in this&nbsp;issue where a&nbsp;possibility of thinking the visual as a&nbsp;tool for&nbsp;obfuscation, as advocated in Finn Brunton’s and Helen Nissendbaum’s famous manifesto of the title, a&nbsp;tool for&nbsp;hiding from, confusing and misleading algorithmic machines of subjection.</p> <p><b>Panorama </b>and<b> snapshot </b>sections also bring other articles that&nbsp;are not directly subordinated to the leading theme: Ewa Majewska’s essay (originally written in English) on the work of Ewa Partum; a&nbsp;translation of Charles Harrison’s text on the double meaning of effect in the context of the death of landscape in the 20<sup>th</sup> century as an appendix to our landscape issue; and Anna R. Burzyńska’s review of Dorota Sajewska’s study, <em>Necroperformance. A&nbsp;Cultural Reconstruction of the Theatre of the Great War</em>.</p> <p>In our encouraging your clicking on, liking and sharing our new issue, we exercise justified caution, but&nbsp;have no such qualms in our encouragement of your reading the “View”.</p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/16-digital-darkness/digital-darkness" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

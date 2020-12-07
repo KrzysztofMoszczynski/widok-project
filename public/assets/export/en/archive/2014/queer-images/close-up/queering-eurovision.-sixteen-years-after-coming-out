@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Queerowanie Eurowizji. Szesnaście lat po wyoutowaniu | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/queer-obrazy/queerowanie-eurowizji.-szesnascie-lat-po-wyoutowaniu">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Queerowanie Eurowizji. Szesnaście lat po wyoutowaniu | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Queerowanie Eurowizji. Szesnaście lat po wyoutowaniu | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/queer-obrazy/queerowanie-eurowizji.-szesnascie-lat-po-wyoutowaniu">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Queerowanie Eurowizji. Szesnaście lat po wyoutowaniu | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #f0f !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #f0f !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #f0f !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #f0f !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #f0f !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #f0f !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+			/* background-color:#f0f !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,0,255,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#f0f !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#f0f; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#f0f !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#f0f !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#f0f !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1142 parent-id-1130">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="424" data-selected-issue-color="#f0f" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/en">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/en">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/queer-obrazy#toc">5</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/queer-obrazy/queerowanie-eurowizji.-szesnascie-lat-po-wyoutowaniu?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Queerowanie Eurowizji. Szesnaście lat po wyoutowaniu</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/queer-obrazy/queerowanie-eurowizji.-szesnascie-lat-po-wyoutowaniu?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=1143">Marcin Bogucki</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p><em>„KOBIETA” Z&nbsp;BRODĄ gwiazdą Eurowizji w&nbsp;2014?!</em> – w&nbsp;ten sposób w&nbsp;listopadzie zeszłego roku jeden z&nbsp;polskich portali plotkarskich komentował możliwość wyboru Conchity Wurst na&nbsp;reprezentantkę Austrii w&nbsp;konkursie Eurowizji<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. Choć informacja o&nbsp;decyzji telewizji ORF obiegła świat już we wrześniu 2013 roku, dwa miesiące później w&nbsp;Polsce ciągle w&nbsp;nią nie dowierzano. W&nbsp;przywołanej notatce dystansowano się od piosenkarki, nazywając ją „artystą” i&nbsp;konsekwentnie stosując rodzaj męski. W&nbsp;licznych wzmiankach w&nbsp;internecie określano Wurst jako <em>drag queen</em>, transwestytę, transseksualistę, <em>crossdressingową </em>diwę, podrabianą kobietę lub sobowtóra Kim Kardashian z&nbsp;brodą. Nawet w&nbsp;przypadku osób przychylnych środowisku LGBT niepewność co do tożsamości Conchity była powodem okazywania niechęci piosenkarce. „Przypomnijmy, że&nbsp;w&nbsp;1998 roku Eurowizję wygrała transseksualna Dana International. Czy czeka nas powtórka?”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup> – z&nbsp;niepokojem, choć już nie mając problemu z&nbsp;rodzajem gramatycznym, pytał dziennikarz portalu plotkarskiego. Również ze względu na&nbsp;Conchitę Wurst warto zastanowić się nad najnowszą historią Eurowizji z&nbsp;perspektywy polityki seksualnej. Najpierw jednak należy opisać reguły, które wpływają na&nbsp;kształt wydarzenia.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/queerowanie-eurowizji/163-1998-1-pb-1920x-07f.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/queerowanie-eurowizji/163-1998-1-pb-330x-881.jpg 330w,assets/cache/images/issues/2014/5/queerowanie-eurowizji/163-1998-1-pb-660x-796.jpg 660w,assets/cache/images/issues/2014/5/queerowanie-eurowizji/163-1998-1-pb-768x-d41.jpg 768w,assets/cache/images/issues/2014/5/queerowanie-eurowizji/163-1998-1-pb-1320x-a34.jpg 1320w" src="assets/cache/images/issues/2014/5/queerowanie-eurowizji/163-1998-1-pb-660x-796.jpg" alt="" ></a>    <figcaption><p><a href="http://pismowidok.org/index.php/one/article/viewFile/163/281/1998">"Pudelek.pl" z&nbsp;15 listopada 2013.</a></p></figcaption>   </figure>  </section><section class="u-typo">   <h2>Wprowadzenie do polityki Eurowizji</h2> <p>Konkurs Piosenki Eurowizji (Eurovision Song Contest – ESC) od pięćdziesięciu dziewięciu lat funkcjonuje jako narzędzie europejskiej <em>soft power</em>. Jego organizacją zajmuje się założona w&nbsp;1950 roku Europejska Unia Nadawców (European Broadcasting Union – EBU) skupiająca niekomercyjne stacje radiowe i&nbsp;telewizyjne. Deklarowany cel utworzenia Eurowizji był prosty – zjednoczyć powojenne zachodnie społeczeństwo za&nbsp;pomocą muzyki popularnej, łącząc kraje w&nbsp;pokojowym konkursie, którego celem byłby wybór najlepszej europejskiej piosenki<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Obecnie jest to najstarszy i&nbsp;najchętniej oglądany konkurs muzyki popularnej (125 milionów widzów oglądających finał w&nbsp;ostatnich latach według mocno zaniżonych oficjalnych danych<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>).</p> <p>Jednym z&nbsp;pomysłodawców Eurowizji był wieloletni dyrektor EBU Marcel Bezençon. Wśród jego bliskich znajomych znajdowali się politycy, między innymi Jean Monnet współtworzący późniejsze porozumienia prowadzące do powstania Unii Europejskiej (Europejska Wspólnota Węgla i&nbsp;Stali oraz Europejska Wspólnota Gospodarcza)<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Ta analogia, choć nieprzypadkowa, może być jednak zwodnicza – w&nbsp;2014 roku w&nbsp;konkursie wystąpiło 37 państw, prawie 10 więcej niż liczy Unia<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. Projekt Eurowizji opiera się zatem na&nbsp;bardziej egalitarnej strukturze. Przykładowo, z&nbsp;hasłem towarzyszącym edycji w&nbsp;2013 roku „We are one” bliżej mu choćby do inicjatywy, jaką jest Rada Europy – założona w&nbsp;1949 roku organizacja, której statut nakazuje budowanie „większej jedności między jej członkami, aby chronić i&nbsp;wcielać w&nbsp;życie ideały i&nbsp;zasady, stanowiące ich wspólne dziedzictwo, oraz aby ułatwić ich postęp ekonomiczny i&nbsp;społeczny”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>.</p> <p>Podczas gdy w&nbsp;UE podział głosów jest proporcjonalny do liczby ludności kraju, w&nbsp;Eurowizji państwa dysponują taką samą liczbą głosów. Tym, co zbliża konkurs do instytucji unijnych, są drobiazgowe regulacje. Nie sposób wymienić wszystkich zmian, jakim w&nbsp;ciągu pięćdziesięciu dziewięciu lat ulegały zasady oceniana wykonawców przez sędziów z&nbsp;poszczególnych krajów (liczba członków jury, ich wiek, sposób sporządzania listy rankingowej lub przyznawania punktów), a&nbsp;obecnie sędziów i&nbsp;widzów głosujących telefonicznie<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Także sam występ podlegał wielu obostrzeniom, wśród których znajdują się parametry określające charakter utworu (oryginalna kompozycja, która nie miała premiery wcześniej niż kilka miesięcy przed finałem konkursu), jego czas (trzy minuty), sposób wykonania (wszystkie głosy śpiewane na&nbsp;żywo, granie na&nbsp;żywo na&nbsp;instrumentach jest zabronione), liczbę osób na&nbsp;scenie (nie więcej niż sześć, zwierzęta nie są dozwolone), wiek wykonawców (minimum 16 lat w&nbsp;dniu występu)<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>.</p> <p>Wszystko to miało zapewnić demokratyczny charakter konkursu i&nbsp;prowadzić do równego podziału głosów oraz do uzyskania obiektywnych warunków oceny artystycznej piosenek.</p> <p>Założenia nie znalazły jednak pełnego odzwierciedlenia w&nbsp;rzeczywistości. Do lat 90. na&nbsp;„politycznym” głosowaniu według podziału na&nbsp;prowizoryczne bloki najbardziej zyskiwały kraje zachodnie, które odniosły najwięcej zwycięstw (Wielka Brytania, Irlandia, Francja, Szwajcaria, Luksemburg, Belgia, Holandia i&nbsp;Izrael). Pozostałe bloki – północny oraz śródziemnomorski – także oddawały głosy na&nbsp;siebie, przyznawały jednak punkty krajom „zachodnim”. Pozostałe trzy państwa (Finlandia, Austria i&nbsp;Portugalia) funkcjonowały w&nbsp;odosobnieniu, rzadko zdobywając głosy<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. Po&nbsp;wprowadzeniu głosowania telefonicznego relacje zmieniły się, przenosząc punkt ciężkości na&nbsp;Wschód w&nbsp;latach 2001–2008. Zagrożoną pozycję Zachodu próbowano obronić już w&nbsp;2000 roku – utworzono „wielką czwórkę” krajów w&nbsp;największym stopniu finansujących konkurs i&nbsp;zyskujących dzięki temu prawo automatycznego uczestnictwa w&nbsp;finale (Wielka Brytania, Niemcy, Francja, Hiszpania, do których w&nbsp;2011 dołączyły Włochy), choć ostatnie lata wskazują, że&nbsp;gwarancja występu niekoniecznie oznacza sukces. Powrót jury nie tyle przywrócił równowagę, ile zainicjował powstanie nowego układu sił z&nbsp;dominującą pozycją krajów skandynawskich (z charakterystycznym wschodnim „wybrykiem” – zwycięstwem Azerbejdżanu w&nbsp;2011 roku). Mimo wprowadzenia zmian konkurs ciągle mierzy się z&nbsp;oskarżeniami o&nbsp;stronniczość. Zarzuty dotyczą jednak nie politycznego charakteru głosowania krajów, lecz ideologicznego manipulowania głosami przez jurorów.</p> <p>Eurowizja jest zatem inicjatywą artystyczno-polityczną próbującą ukrywać swój (w wąskim znaczeniu) polityczny charakter. Organizatorzy deklarują, że&nbsp;nie są uzależnieni od sytuacji międzynarodowej. W&nbsp;regulaminie konkursu znajduje się ogólnikowe zastrzeżenie, że&nbsp;słowa oraz występ nie mogą przynieść ujmy EBU, zaś wypowiedzi i&nbsp;gesty o&nbsp;politycznym „lub podobnym” charakterze nie są dozwolone. Zakaz ten w&nbsp;innym miejscu jest dość precyzyjny – dotyczy również promowania jakichkolwiek organizacji, instytucji, inicjatyw politycznych, firm, marek, produktów i&nbsp;usług<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XAJ62IG3gBo?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <p>Na ile zatem zwycięstwo lub porażkę można tłumaczyć sytuacją polityczną, a&nbsp;na ile „samym” przebiegiem konkursu<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>? Czy w&nbsp;2003 roku piosenka Sertab Erener <em>Everyway That I&nbsp;Can</em> wygrała ze względu na&nbsp;wpadający w&nbsp;ucho kawałek, czy raczej dlatego, że&nbsp;Turcja, którą reprezentowała, nie zgodziła się na&nbsp;wykorzystanie przez amerykańskich żołnierzy baz wojskowych podczas wojny w&nbsp;Iraku<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>? Podobnie w&nbsp;przypadku duetu Jemini – czy zostali oni ukarani i&nbsp;nie dostali żadnych punktów w&nbsp;2003 roku za&nbsp;to, że&nbsp;Wielka Brytania ochoczo przyłączyła się do amerykańskiej kampanii, czy dlatego, że&nbsp;sfałszowali pierwszą część piosenki <em>Cry Baby</em>? Philip Bolman trafnie określił paradoks Eurowizji: „Jak we wszystkich konkursach, wygrywa niekoniecznie najlepsza piosenka, lecz ta, która najlepiej wyraża moment historyczny”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>.</p> <h2>Tożsamość (seksualna) Eurowizji</h2> <p>Można wyróżnić kilka sposobów prowadzenia narracji o&nbsp;konkursie, o&nbsp;jego rozwoju i&nbsp;dojrzewaniu lub upadku. Jedna z&nbsp;nich mówi o&nbsp;zdradzie ideałów i&nbsp;przejściu od idei reprezentacji narodowej kultury do masowej rozrywki odwołującej się do najszerszego grona odbiorców, a&nbsp;więc do najpospolitszych gustów<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/p-RRXHG00GY?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <p>O ile Unia Europejska swoją ideę promuje, wykorzystując raczej sztukę wysoką, inicjując takie projekty jak Młodzieżowa Orkiestra Unii Europejskiej czy Orkiestra Barokowa Unii Europejskiej, Eurowizja wraz z&nbsp;innymi konkursami EBU: dziecięcą wersją Eurowizji, jej wersją taneczną (z odmianą dziecięcą) oraz festiwalem muzyki folkowej należy do kręgu kultury popularnej<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. Niektórzy twierdzą, że&nbsp;„Konkurs Piosenki Rady Europy”, jak można nazwać Eurowizję, celowo posługuje się estetyką kiczu; że&nbsp;Eurowizja to społeczno-polityczny, międzykulturowy projekt awangardowy, funkcjonujący poza konfliktami narodowymi i&nbsp;etnicznymi<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. Trudno się z&nbsp;tymi tezami zgodzić, tak jak trudno przyznać, że&nbsp;konkurs polega na&nbsp;„egzotyzowaniu tego, co znajome, i&nbsp;udomowieniu tego, co egzotyczne”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. W&nbsp;myśl takiej interpretacji operowanie przez Eurowizję kiczem miałoby wpływać na&nbsp;postawy twórców, wymagając od nich strategii takich jak przekraczanie różnic językowych i&nbsp;kulturowych przez eliminację złożoności tekstu (<em>Boum badaboum</em>, Monako 1967; <em>La, la, la</em>, Hiszpania 1968; <em>Tom tom tom</em>; Finlandia 1973; <em>Boom boom</em>, Dania 1978; <em>Bem bom</em>, Portugalia 1982; <em>Diggi-loo, diggi-ley</em>, Szwecja 1984) lub posługiwanie się wymyślonym językiem (<em>Amambanda</em>, Holandia 2006), prezentowanie etniczno-narodowych stereotypów (w muzyce lub stroju) lub miksowanie tradycji z&nbsp;popem (np. hiszpańska piosenka <em>Antes muerta que sencilla</em> z&nbsp;dziecięcej Eurowizji z&nbsp;2004, w&nbsp;której rap mieszał się z&nbsp;flamenco). Opinie o&nbsp;kiczowatości konkursu pojawiają się też często w&nbsp;innym kontekście – szczególnie wśród osób, które próbują zdyskredytować konkurs.</p> <p>Inna narracja o&nbsp;Eurowizji odnosi się do społeczności gejów i&nbsp;lesbijek, o&nbsp;których zaangażowaniu w&nbsp;oglądanie konkursu mówi się jak o&nbsp;oczywistości. Eurowizja, podobnie jak opera czy musical, jest w&nbsp;tym ujęciu muzycznym kodem rozpoznawczym. Narracja ta zaczyna się już w&nbsp;latach 70., a&nbsp;więc w&nbsp;czasie tworzenia na&nbsp;Zachodzie pozytywnego obrazu stabilnej tożsamości homoseksualnej. Popularność konkursu wśród homoseksualistów, szczególnie mężczyzn, tłumaczono kampową estetyką, podkreślając również jego konwencjonalność, teatralność, wybujałość, zamiłowanie do przepychu, zły gust<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. To odczytanie wpisuje się w&nbsp;hipotezę studiów gejowsko-lesbijskich, zgodnie z&nbsp;którą istnieje możliwość wyodrębnienia wspólnej tożsamości i&nbsp;wrażliwości homoseksualistów. W&nbsp;tej interpretacji Eurowizja stanowi jedną z&nbsp;platform sztuki głównego nurtu, charakteryzującą się nadmierną emocjonalnością, przeciwstawiającą się z&nbsp;kolei doświadczeniu opresji, lęku i&nbsp;wstydu. „Odkryj swoją wewnętrzną prawdę, ale zachowaj ją dla siebie”<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup> – tak można streścić sprzeczne oczekiwania wobec osób homoseksualnych w&nbsp;epoce nowoczesnej, a&nbsp;jednocześnie możliwe odczytanie Eurowizji jako elementu subkultury gejowskiej, nazywanej gejowską Gwiazdką, gejowskimi igrzyskami olimpijskimi lub mistrzostwami świata w&nbsp;piłce nożnej dla osób, które nie lubią piłki<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>.</p> <p>Istnienie silnej grupy homoseksualnych fanów potwierdzają badania przeprowadzone na&nbsp;grupie irlandzkich widzów Eurowizji<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>. Pokazały one ciekawe zależności między tworzeniem tożsamości a&nbsp;kontekstem rodzinnym i&nbsp;społecznym. Pierwsze wspomnienia badanych widzów związane z&nbsp;konkursem wiązały się z&nbsp;kręgiem rodzinnym – wspólnym oglądaniem transmisji, jednocześnie jednak poczuciem wyjątkowości osobistego odbioru, którego nie mieli inni domownicy. Późniejsze zaangażowanie w&nbsp;fankluby, przede wszystkim Stowarzyszenie Miłośników Konkursu Piosenki Eurowizji (Organisation Générale des Amateurs de l'Eurovision – OGAE), a&nbsp;także domowe imprezy tematyczne towarzyszące transmisji finału tłumaczono próbą odnalezienia podobnej wspólnoty oglądających. Prężną działalność irlandzkiego oddziału OGAE można tłumaczyć wygraniem przez ten kraj trzech konkursów z&nbsp;rzędu (1992–1994), co zbiegło się z&nbsp;dekryminalizacją homoseksualizmu w&nbsp;1993 roku. Za&nbsp;sprawą Eurowizji Irlandia zyskała wyrazisty wizerunek w&nbsp;wyobraźni zbiorowej, między innymi dzięki zaprezentowanemu w&nbsp;1994 roku w&nbsp;trakcie przerwy widowisku <em>Riverdance</em>, które rozpropagowało step irlandzki. Nie bez znaczenia była również sytuacja ekonomiczna kraju – trzy zwycięstwa poprzedziły okres prosperity trwający od 1995 do 2007 roku.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_f3scU6zPd8?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <p>Eurowizję jako zjawisko społeczne wpisuje się często w&nbsp;klasyczną narrację o&nbsp;wyjściu z&nbsp;szafy. Etapy outowania stanowią tu: utworzenie OGAE w&nbsp;1984 roku, wygrana Dany International w&nbsp;1998 roku, występ Sestre, pierwszego zespołu drag queens w&nbsp;2002 roku oraz jawny homoerotyczny gest, gdy w&nbsp;2006 roku prezenter holenderskiej telewizji przed ogłoszeniem <em>douze points</em> ze swojego kraju spytał prowadzącego konkurs w&nbsp;Atenach Sakisa Ruwasa, czy ma podać mu swój numer telefonu teraz czy po&nbsp;zakończeniu programu<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>. Przełomem był oczywiście występ Dany, w&nbsp;której agresywnej promocji medialnej silnie wykorzystywano jej transgenderowość.</p> <p>Nasuwa się pytanie – czy Eurowizja dokonała <em>coming outu</em>, czy została wyoutowana? Ta pierwsza teoria zakładałaby znaczny udział osób LGBT w&nbsp;głosowaniu telefonicznym, które pozwoliło na&nbsp;wygraną Dany. Ta druga wydaje się uzasadniona, gdy spojrzymy na&nbsp;konkurs w&nbsp;Birmingham od strony kulis – to na&nbsp;mocy decyzji organizatorów po&nbsp;raz pierwszy w&nbsp;historii Eurowizji fani zostali umieszczeni z&nbsp;przodu widowni na&nbsp;miejscach zarezerwowanych do tej pory dla VIP-ów<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>. Telewidzowie zamiast rzędu garniturów ujrzeli rozentuzjazmowanych fanów, głównie mężczyzn, wiwatujących na&nbsp;cześć Dany. Ten układ widowni obowiązuje do dziś.</p> <p>Niezależnie od perspektywy po&nbsp;1998 roku można mówić o&nbsp;Eurowizji jako wyoutowanym geju, (pomimo że&nbsp;na scenie w&nbsp;1998 roku pojawiła się osoba trans). Wydaje się, że&nbsp;dla mainstreamowej publiczności sama Dana nie była najistotniejszym elementem występu – ważniejsza była figura diwy, którą ucieleśniała oraz reakcja na&nbsp;nią homoseksualnych fanów. Można zatem postawić tezę, że&nbsp;pomimo możliwości bardziej radykalnej queerowej postawy, starającej się ujawniać niestabilność tożsamości oraz dyktat heteronormy, Eurowizja funkcjonuje jako element subkultury gejowskiej, kultywującej względnie trwałą i&nbsp;stabilną tożsamość.</p> <h2>Kampowość Eurowizji</h2> <p>W tej narracji o&nbsp;historycznej zmianie, jaką przeszedł konkurs, funkcjonują dwa konkurencyjne wątki prezentujące negatywny i&nbsp;pozytywny obraz przekształceń<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>. Jeden opowiada o&nbsp;upadku – przejściu od konkursu, którego gejowski wymiar jest tajemnicą poliszynela silnie łączącą społeczność, do sytuacji ujawnienia. Drugi opisuje historię Eurowizji w&nbsp;formie schematu rozwoju queerowej samoświadomości konkursu. Interpretacja pozytywna podkreśla oswajanie odbiorców europejskich z&nbsp;osobami niemieszczącymi się w&nbsp;heteronormie oraz otwarcie możliwości ich dumnej reprezentacji w&nbsp;muzycznym mainstreamie: wyotuowani geje, choćby Paul Oscar z&nbsp;Islandii w&nbsp;1997 czy Andreas Lundstedt jako członek zespołu six4one, reprezentujący Szwajcarię w&nbsp;2006, oraz lesbijki, jak Donna McCaul z&nbsp;Irlandii w&nbsp;2005, wykonawcy androgyniczni, jak Azis reprezentujący Bułgarię w&nbsp;2006 czy występujący w&nbsp;dragu, między innymi wspomniany słoweński zespół Sestre, duńska DQ i&nbsp;ukraińska Wierka Serdiuczka w&nbsp;2007 roku. Interpretacja negatywna zwraca uwagę z&nbsp;jednej strony na&nbsp;nostalgiczne przywiązanie do przeszłości, z&nbsp;drugiej – na&nbsp;współczesne komercyjne wykorzystanie wiedzy o&nbsp;fanach przejawiające się w&nbsp;estetyce występów, a&nbsp;czasem prowokujące do okazywania im niechęci<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>.</p> <p>Żeby zrozumieć, jak w&nbsp;ogóle mogło dojść do wygranej Dany International, warto przyjrzeć się idei konkursu w&nbsp;kategoriach kampu oraz rozważyć strategie wykorzystane w&nbsp;drodze do zwycięstwa.</p> <p>Sama idea Eurowizji wydaje się kampowa. Nie chodzi o&nbsp;estetyczną powierzchnię, lecz właśnie o&nbsp;ideę – w&nbsp;tym przypadku ideę europejskiej jedności. W&nbsp;<em>Notatkach o&nbsp;kampie</em> Susan Sontag charakteryzuje sztukę kampową jako tę, w&nbsp;której dochodzi do głosu konflikt między formą a&nbsp;treścią, w&nbsp;której wygrywa element dekoracyjny. Podobny rozdźwięk prezentuje Eurowizja – wzniosła idea (jej motywem muzycznym jest w&nbsp;końcu preludium do <em>Te Deum</em> H. 146 Charpentiera) kontrapunktowana jest niezbyt poważnym zestawem piosenek<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>. Choć często czyni się z&nbsp;tego zestawienia zarzut, nie oznacza to, że&nbsp;konkurs nie ma ambicji: „Kamp jest sztuką, która chce być poważnie traktowana, ale nie można jej traktować zupełnie poważnie, bo&nbsp;jest jej za&nbsp;»wiele«”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>. Kolejny zarzut mówi o&nbsp;staromodności<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>. Eurowizja w&nbsp;latach 50. nie przeżyła inwazji rockʼnʼrolla, a&nbsp;później rocka, orkiestrę grającą na&nbsp;żywo zlikwidowała dopiero w&nbsp;latach 90., a&nbsp;w 2013 poznała dubstep, który w&nbsp;„mainstreamie” święcił największe triumfy około 2009 roku. Sontag uznaje jednak tę cechę za&nbsp;jeden elementów kampowej ironii: „To jest powodem, że&nbsp;tak liczne przedmioty cenione przez kampowy gust są staroświeckie, nieaktualne, niemodne. Po&nbsp;prostu proces starzenia się czy psucia stwarza potrzebny dystans – lub wzbudza potrzebną sympatię”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>. Dystans nie oznacza jednak braku zaangażowania – Sontag stwierdza, że&nbsp;kamp, przeciwny patosowi tragedii, jest bliski komedii, która wprowadza niepełne zaangażowanie. Tylko pozornie problemem może wydać się uwaga autorki o&nbsp;niezaangażowaniu, odpolitycznieniu lub apolityczności kampu. W&nbsp;końcu organizatorzy Eurowizji konsekwentnie zaprzeczają istnieniu jej wymiaru politycznego, kładąc nacisk na&nbsp;ponadnarodową współpracę. Sontag argumentuje też, że&nbsp;choć istnieje pewien związek kampu z&nbsp;homoseksualizmem, nie jest on związkiem istotowym: „Mimo wszystko gust kampowy jest czymś więcej niż gustem homoseksualistów, chociaż homoseksualiści byli jego awangardą. […] Jednakże, gdyby homoseksualiści nie wymyślili kampu, zrobiłby to kto inny”<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>.</p> <p>Kampowy w&nbsp;swej istocie artykuł Sontag oparty jest na&nbsp;paradoksach – w&nbsp;jednym miejscu określa ona całe dziedziny sztuki jako kampowe (między innymi operę), w&nbsp;innym zaś arbitralnie wskazuje, które z&nbsp;przejawów sztuki z&nbsp;pewnością do tej estetyki nie należą (choćby twórczość Wagnera)<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>. Podobnie jest z&nbsp;Eurowizją. Można powiedzieć, że&nbsp;w&nbsp;całości jest ona kampowa, lecz nie wszystkie występy można za&nbsp;takie uznać. Wydaje się, że&nbsp;wygrywają w&nbsp;niej te, w&nbsp;których udało się rozpoznać paradoksalną naturę konkursu – Peter Rehberg nazywa tę cechę <em>winning failure</em><sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup><em>, </em>zwycięską porażką.</p> <p>Nie może być inaczej, skoro rozdźwięk widoczny jest już w&nbsp;samej formie Eurowizji zawieszonej między staromodną formułą a&nbsp;nowymi technologiami, między heteronormatywnością a&nbsp;przegięciem. Historię europejskiej telewizji moglibyśmy roboczo podzielić na&nbsp;trzy okresy – początkowo na&nbsp;kontynencie funkcjonowało niewiele kanałów, większość widzów oglądała zatem podobny materiał; razem z&nbsp;pojawianiem się coraz większej ich liczby audycje były kierowane nie do ogółu widowni, lecz do jej określonej części; wreszcie zmiany technologiczne doprowadziły do tego, że&nbsp;telewidzowie w&nbsp;coraz większym stopniu sami wybierają interesujący ich program<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>. Eurowizja jest typowym przykładem audycji z&nbsp;pierwszej fazy, który nadal, w&nbsp;fazie trzeciej, próbuje przyciągnąć domniemaną większość (podobnie jak dawne programy nie jest też przerywana reklamami).</p> <p>Przedstawiając Eurowizję osobom nieznającym kontekstu europejskiego, używa się czasem sformułowania „<em>American Idol</em> na&nbsp;sterydach”<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup>. Nie jest to jednak format, który można by łatwo przeszczepić na&nbsp;inny teren<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>, daleko mu także do formuły <em>talent show</em>. Wzorowany na&nbsp;Festiwalu Piosenki Włoskiej w&nbsp;San Remo, konkurs promuje utwór, nie artystę. Równie daleko mu do <em>reality show</em> – drugiego z&nbsp;rozwiązań dominujących we współczesnych programach muzycznych. Pod&nbsp;względem technicznym konkurs stara się jednak być w&nbsp;awangardzie, od początku podporządkowując się wymogom międzynarodowej transmisji.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f4z0ywMIY4I?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <p>Skomplikowaną relację nadawczo-odbiorczą Eurowizji świetnie pokazał w&nbsp;swoim spektaklu <em>1973</em> Massimo Furlan, wcielający się niezdarnie w&nbsp;różnych piosenkarzy z&nbsp;tej edycji konkursu. <em>Reenactment</em> Eurowizji, którą pamiętał z&nbsp;dzieciństwa, szybko się rozpada – kolejne postacie wydają się coraz bardziej nieprzystające do telewizyjnej transmisji wyświetlanej na&nbsp;wielkim ekranie, coraz bardziej irytujące. Spektakl osuwa się w&nbsp;na wpół improwizowany <em>talk show</em>, prowadzony w&nbsp;dodatku na&nbsp;poziomie dyskusji akademickiej. W&nbsp;spektaklu Furlana konkurs piosenki oglądamy w&nbsp;trzech wersjach – „obiektywnej” rejestracji telewizyjnej, w&nbsp;formie „subiektywnego” doświadczenia oglądających go osób oraz jako performans artysty, za&nbsp;pomocą którego zadaje on pytania nie tylko o&nbsp;techniczne właściwości konkursu, lecz także o&nbsp;praktyki odbiorcze oraz o&nbsp;znaczenie eurowizyjnych transmisji w&nbsp;historii i&nbsp;współcześnie. Furlan robi to z&nbsp;dystansem, nie zapominając o&nbsp;kampowych paradoksach – bez problemu wciela się zarówno w&nbsp;piosenkarzy, jak i&nbsp;piosenkarki. Dotyka zatem jeszcze jednej kwestii – płci.</p> <p>Struktura Eurowizji niezmiennie pozostaje zasadniczo heteronormatywna: czy rozważymy same występy (dwoje piosenkarzy, wykonawcy z&nbsp;tancerzami przeciwnej płci), organizację (z reguły para prowadzących – kobieta i&nbsp;mężczyzna<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>) czy relację z&nbsp;konkursu (prowadzący transmisję lub para prowadzących komplementujący występy przeciwnej płci lub odwołujący się do wyobrażonego spojrzenia kobiet i&nbsp;mężczyzn – widzów lub widzek). Jednocześnie jednak widowiskowość programu (obowiązkowa feeria barw i&nbsp;pirotechnika) sprawia, że&nbsp;całą zawartość konkursu można ująć w&nbsp;cudzysłowie. To jednak zależy od osoby oglądającej – według Sontag kamp jest przecież w&nbsp;oku patrzącego.</p> <h2>Queer i&nbsp;reprezentacja narodowa</h2> <p>Eurowizja jest oczywiście miejscem tworzenia „marki” kraju za&nbsp;pośrednictwem reprezentacji<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>. Rozważmy przykład Izraela. Wystawienie w&nbsp;1998 roku Dany International było wewnętrznym wyborem izraelskiej telewizji, któremu towarzyszyły protesty ortodoksyjnych Żydów (a także polityków, m.in. ministra zdrowia Szlomo Benizriego z&nbsp;partii Szas). Cel tej decyzji był jasny – prezentacja Izraela jako kraju liberalnego, na&nbsp;wskroś europejskiego, tolerancyjnego pod&nbsp;względem obyczajowym. Jak pokazała Jasbir Puar, poziom „akceptacji” i&nbsp;„tolerancji” dla osób homoseksualnych stał się dziś wskaźnikiem, za&nbsp;pomocą którego mierzy się poziom cywilizacyjny danego kraju<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>. W&nbsp;Izraelu wykorzystano wizję kraju przyjaznego LGBTQ do legitymizacji działań wobec Palestyńczyków, tworząc obraz cywilizacyjnej misji przynoszącej (seksualną) nowoczesność. W&nbsp;tę politykę <em>pinkwashingu</em> – cynicznie wykorzystywanej przyjaznej postawy państwa – wpisywała się piosenka Dany: radosny dance z&nbsp;chwytliwym refrenem. Nie można jednak zapominać, że&nbsp;choć poza Izraelem było to raczej niedostrzegalne, postawa Mizrachijki domagającej się świeckiego państwa dotykała także problemów religijnych i&nbsp;narodowych wewnątrz Izreala<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wmLi6rEmKcY?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <p>Występ Dany był w&nbsp;historii konkursu przełomem w&nbsp;kwestii polityki seksualnej. Jej utwór wpisywał się niemal idealnie w&nbsp;formułę eurowizyjnego hitu<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup>, lecz najważniejszy był autotematyczny element występu – Dana ucieleśniała samoświadomą współczesną diwę. Na&nbsp;próbie generalnej wystąpiła w&nbsp;czarnej sukni Jeana Paula Gaultiera z&nbsp;kolorowymi piórami porastającymi ramiona, jednak na&nbsp;finał wybrała prostszą, srebrną kreację, ciągle podkreślającą kobiecość, lecz niesugerującą formy przebrania („ptasią” suknię włożyła dopiero na&nbsp;ponowne wykonanie piosenki już po&nbsp;wygranej). Świadomy wybór Dany polegał na&nbsp;pokazaniu transseksualizmu nie w&nbsp;wersji <em>freak</em>, lecz <em>glamour</em>, inaczej niż w&nbsp;wielu przypadkach, kiedy Eurowizja zamieniała się w&nbsp;rodzaj <em>freak</em><em>show</em>, a&nbsp;na jej scenie pojawiały się, jak w&nbsp;2008 roku, wybuchające akordeony i&nbsp;wykonawcy kopulujący z&nbsp;fortepianami (Kreisiraadio), piraci z&nbsp;Łotwy (Pirates of the Sea) czy śpiewająca maskotka indyka (Dustin the Turkey). W&nbsp;artykułach i&nbsp;wywiadach podkreślano naturalność i&nbsp;kobiecość Dany – jej popularność można traktować jako wynik pozytywnych skutków egzorcyzmowania osób trans<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup>.</p> <p>W kontekście zwycięstwa transgenderowej Dany warto zastanowić się nad radykalnym, queerowym potencjałem konkursu. Czy Eurowizja w&nbsp;ogóle może promować prawa osób queer? Czy apolityczny kamp, który jest cechą konkursu, może destabilizować dominujące normy? Czy jest to raczej konkurs, dla którego odniesieniem jest zawsze tożsamość narodowa? Peter Rehberg zwraca uwagę na&nbsp;wspomniany rozdźwięk między muzyką pop a&nbsp;reprezentacją narodową<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup>. W&nbsp;jego ujęciu zwycięstwa w&nbsp;Eurowizji polegają na&nbsp;celebrowaniu porażki projektu stabilnej tożsamości – w&nbsp;każdym z&nbsp;nich można znaleźć napięcie między wykonawcami a&nbsp;reprezentowanym krajem. Jest to szczególnie widoczne w&nbsp;przypadku Dany reprezentującej tolerancyjny Izrael, tyle że&nbsp;rządzony przez Beniamina Netaniahu z&nbsp;prawicowego Likudu.</p> <p>Strategia <em>winning failure</em> pasuje także do zwycięstwa przebranej za&nbsp;potwory metalowej grupy Lordi z&nbsp;Finlandii (2006). Byli oni przeciwieństwem tego, co można uznać za&nbsp;kampową estetykę. Nie odwoływali się do domniemanego homoseksualnego podtekstu i&nbsp;w tym sensie stanowiliby przeciwwagę dla dominujących reguł. Jednocześnie jednak wykorzystywali bogatą oprawę wizualną (kostiumy, pirotechnika), żeby stworzyć eurowizyjne <em>show</em> (zgrabna formuła: muzyka pop w&nbsp;metalowym dragu trafnie podsumowuje ich występ przedstawiający heteroseksualną męskość jako monstrualną i&nbsp;sztuczną<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup>). Do tego zaś nie pokazywali się bez masek, także w&nbsp;okolicznościach pozaartystycznych, ostentacyjnie prezentując swoje „potworne” tożsamości jako prawdziwe.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Fv83u7-mNWQ?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <p>Konkurs Eurowizji w&nbsp;Helsinkach w&nbsp;2007 roku może także potwierdzić tezę Rehberga – w&nbsp;konkursie zaprezentowały się dwie wykonawczynie w&nbsp;dragu: DQ z&nbsp;Danii i&nbsp;Wierka Serdiuczka z&nbsp;Ukrainy. Ta pierwsza, klasyczna <em>drag queen</em>, nie zakwalifikowała się nawet do finału, mimo wpadającej w&nbsp;ucho piosenki <em>Drama Queen</em>, gdyż wpisywała się w&nbsp;znane publiczności schematy. Wierka zaś – postać w&nbsp;srebrnym, futurystycznym mundurku pionierów, z&nbsp;gwiazdą na&nbsp;głowie i&nbsp;w niemodnych okularach wyznawała z&nbsp;rozbrajającą szczerością przy akompaniamencie dance: „Hello everybody, my name is Verka Serduchka / Me English nicht verstehen / Letʼs speak dance”. W&nbsp;trzyminutowym skrócie pokazywała paradoksy Wschodu starającego się dogonić Europę Zachodnią, lecz ciągle borykającego się ze spuścizną czasów komunistycznych<sup><a href="#sdfootnote45sym" name="sdfootnote45anc">45</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hfjHJneVonE?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <p>Wierka zajęła jednak drugie miejsce – o&nbsp;ponad trzydzieści punktów wyprzedziła ją wtedy Marija Šerifović z&nbsp;Serbii z&nbsp;balladą <em>Molitva</em>. Nawet najwymyślniejsza <em>drag queen</em> nie była w&nbsp;stanie zwyciężyć z&nbsp;pierwszym <em>drag kingiem</em> na&nbsp;Eurowizji. Z&nbsp;krótką fryzurą, ubrana po&nbsp;męsku w&nbsp;czarny garnitur, białą koszulę z&nbsp;rozpiętą czarną muszką i&nbsp;białymi trampkami Šerifović była przeciwieństwem mocno umalowanego i&nbsp;ufryzowanego chórku pięciu dziewczyn noszących kobiecą wariację na&nbsp;temat męskiego garnituru i&nbsp;buty na&nbsp;wysokim obcasie. Jej wygranej towarzyszyły różne reakcje – niekiedy krytykowano brak widowiskowści, przeciwstawiając ją wybujałości Wierki, kiedy indziej podkreślano pozbawiony kiczu i&nbsp;niepotrzebnego przegięcia występ<sup><a href="#sdfootnote46sym" name="sdfootnote46anc">46</a></sup>. Często jednak w&nbsp;sposób bezpośredni odnoszono się do kampu, chwaląc lub ganiąc wokalistkę za&nbsp;jego brak. Annamari Vänskä zwróciła jednak uwagę na&nbsp;strategię Šerifović, którą można określić jako lesbijski kamp – próbę pokazania tej estetyki poza kontekstem męskiego homoseksualizmu. O&nbsp;ile męski kamp posługiwałby się zniewieściałością, o&nbsp;tyle kobiecy byłby zmaskulinizowany. Różnica między nimi polegałaby także na&nbsp;tym, że&nbsp;kobiety stają się nie tylko obiektami estetyki, lecz także kampowymi podmiotami. Elementem ironii czy parodii byłaby tu relacja <em>butch-femme</em> jako pusty symbol reprodukcji heteroseksualnego pożądania dzięki pokazaniu obu ról jako przebrania, maskarady. Prezentacja odbywa się jednak z&nbsp;całą powagą, a&nbsp;tekst jest wariacją na&nbsp;temat porzucenia i&nbsp;opłakiwania utraconej miłości z&nbsp;quasi-religijnym podtekstem. Patos ten jest jednak tak zintensyfikowany (powolne, jakby rytualne ruchy, końcowy gest, gdy kobiety łączą ręce, a&nbsp;czerwone kropki na&nbsp;ich dłoniach tworzą serca), że&nbsp;zbliża się do autoparodii.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FSueQN1QvV4?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <p>Występ Šerifović można interpretować różnie – choćby jako wyrwę w&nbsp;heteronarodowej ideologii lub gejowskiej fantazji na&nbsp;temat Eurowizji. Po&nbsp;raz kolejny jednak element polityczny odgrywał ważną rolę. Nie bez znaczenia był kontekst serbski i&nbsp;skojarzenie kampowej estetyki z&nbsp;grupami wykluczonymi, w&nbsp;tym przypadku z&nbsp;pozbawionym pełni praw środowiskiem LGBT (w następnym roku na&nbsp;konkursie w&nbsp;Belgradzie dziennikarzy proszono w&nbsp;oficjalnej instrukcji, żeby nie poruszali tematów politycznych, a&nbsp;także dotyczących równości płci; jak tłumaczono, chodziło o&nbsp;zapobieżenie przemocy wobec gejów i&nbsp;lesbijek).</p> <p>Co ciekawe, na&nbsp;konferencji prasowej przed konkursem Marija Šerifović wspominała o&nbsp;chęci zamążpójścia i&nbsp;posiadania dzieci (jej <em>coming out</em> nastąpił dopiero w&nbsp;2013 roku<sup><a href="#sdfootnote47sym" name="sdfootnote47anc">47</a></sup>). W&nbsp;efekcie kampowy element jej występu nie został zauważony, także przez badaczki i&nbsp;badaczy zebranych wówczas na&nbsp;queerowym seminarium poświęconym Eurowizji. Świadczy to jednak nie o&nbsp;braku przenikliwości, lecz o&nbsp;nieświadomym charakterze procesów dokonujących się przy odbiorze Eurowizji. Właśnie dlatego zwrócenie się wprost do homoseksalnych fanów nie gwarantuje wygranej – silniej oddziałują przekazy niebezpośrednie. Z&nbsp;tej perspektywy można powiedzieć, że&nbsp;osoba zajmująca się konkursem staje się kimś w&nbsp;rodzaju psychoanalityka odczytującego marzenia senne nawiedzające Europę. Stąd zresztą zapewne płynie żywotność samego konkursu.</p> <p><a name="tu"></a> Nie ulega wątpliwości, że&nbsp;Eurowizja, szczególnie po&nbsp;ostatnim zwrocie ku krajom bloku północnego, coraz bardziej świadomie odnosi się do swoich oddanych fanów. <em>Malmö „goes gay” for Eurovision</em><sup><a href="#sdfootnote48sym" name="sdfootnote48anc">48</a></sup> – raportowano na&nbsp;oficjalnej stronie o&nbsp;przygotowaniach do konkursu w&nbsp;2013 roku. O&nbsp;ile w&nbsp;Szwecji chodziło głównie o&nbsp;imprezy (choć podczas konkursu grupa Stonewall walcząca o&nbsp;prawa osób LGB zachęcała do urządzania imprez benefitowych na&nbsp;ich rzecz<sup><a href="#sdfootnote49sym" name="sdfootnote49anc">49</a></sup>), w&nbsp;2014 roku postanowiono uczynić gest podobny do tego, który pojawił się na&nbsp;tegorocznym rozdaniu nagród Grammy – do Kopenhagi zaproszono pary (myśląc szczególnie o&nbsp;przyjezdnych), niezależnie od płci, aby podczas trwania konkursu zawarły związek małżeński<sup><a href="#sdfootnote50sym" name="sdfootnote50anc">50</a></sup>. O&nbsp;ile jednak impreza amerykańska włączyła symboliczną ceremonię w&nbsp;obręb transmitowanego wydarzenia, o&nbsp;tyle na&nbsp;stronie Eurowizji pojawiło się jedynie zaproszenie do złożenia przysięgi w&nbsp;tym czasie. Jako zbyt polityczną manifestację uznano także propozycję jednego z&nbsp;prowadzących konkurs, Pilou Asbæka, by włączyć do stroju tęczowy element.</p> <p>„Społeczna funkcja sztuki polega na&nbsp;tym, że&nbsp;sztuka jej nie posiada” – w&nbsp;ten sposób podsumował polityczny potencjał sztuki Adorno<sup><a href="#sdfootnote51sym" name="sdfootnote51anc">51</a></sup>. Być może zatem organizatorzy konkursu, oddzielając Eurowizję od polityki pojmowanej jako sprawowanie władzy, pozwalają, raczej nieświadomie, wybrzmieć innemu rodzajowi polityczności – wskazaniu elementów budujących społeczeństwo. „Polityka polega na&nbsp;rekonfiguracji podziału zmysłowości definiującego, co jest wspólne dla danej wspólnoty, na&nbsp;wprowadzaniu tam nowych podmiotów i&nbsp;przedmiotów, uwidacznianiu tego, co nie było widoczne, oraz na&nbsp;ujmowaniu jako istoty mówiące tych, którzy byli postrzegani jako hałaśliwe zwierzęta”<sup><a href="#sdfootnote52sym" name="sdfootnote52anc">52</a></sup>. W&nbsp;nieco zaskakujący sposób okazuje się, że&nbsp;formuła Rancièreʼa sprawdza się także, gdy odnieść ją do Eurowizji i&nbsp;osób nienormatywnych występujących w&nbsp;konkursie. Jego popularność polegałaby na&nbsp;corocznym, rytualnym sprawdzaniu granic wspólnoty – tak można by określić estetykę polityki Eurowizji.</p> <p>Wydaje się, że&nbsp;obecnie, po&nbsp;zamrożeniu projektu konstytucji europejskiej, celem Eurowizji jest promowanie tożsamości europejskiej, w&nbsp;której prawa osób LGBTQ i&nbsp;mniejszości etnicznych traktowane są poważnie. Ten trend łączy się z&nbsp;postawą instytucji, takich jak Parlament Europejski czy Europejski Trybunał Praw Człowieka, stojących często po&nbsp;stronie mniejszości seksualnych i&nbsp;występujących przeciw dyskryminującym prawom poszczególnych krajów<sup><a href="#sdfootnote53sym" name="sdfootnote53anc">53</a></sup>. Jednak nie wszystkie państwa przyjmują tę perspektywę, protestując przeciwko narzucaniu norm obyczajowych i&nbsp;wykorzystując konkurs dla swoich celów reprezentacyjnych.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-72s4WzUcKI?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <p>Przykładem może być Rosja, która, dzięki kampowemu występowi Dimy Biłana, wygrała Eurowizję w&nbsp;2008 roku i&nbsp;zorganizowała w&nbsp;następnym roku widowisko na&nbsp;swoich zasadach (najdroższa Eurowizja w&nbsp;historii, którą przebił dopiero Azerbejdżan)<sup><a href="#sdfootnote54sym" name="sdfootnote54anc">54</a></sup>. Parada równości, którą aktywiści LGBTQ chcieli zorganizować przy okazji finału konkursu w&nbsp;Moskwie, nie mogła się odbyć z&nbsp;powodu braku zgody mera Jurija Łużkowa. Komentarz zwycięzcy konkursu Alexandra Rybaka do interwencji milicji pacyfikującej kilkudziesięcioosobowe pokojowe zgromadzenie nie pozostawia wątpliwości co do iluzorycznego charakteru konkursu, nieposiadającego realnej bezpośredniej mocy politycznej: „Dlaczego policja traciła energię na&nbsp;powstrzymanie gejów w&nbsp;Moskwie, kiedy największa parada gejowska była właśnie tu dziś wieczorem?”<sup><a href="#sdfootnote55sym" name="sdfootnote55anc">55</a></sup>. Nie oznacza to, że&nbsp;publiczność konkursu w&nbsp;bezmyślny sposób jechała do Rosji. Podobnie jak w&nbsp;przypadku zimowych igrzysk olimpijskich w&nbsp;Soczi nawoływano do bojkotu. Ostatecznie jednak twórcy i&nbsp;fani zdecydowali się na&nbsp;uczestnictwo w&nbsp;konkursie i&nbsp;wykorzystanie go dla zwrócenia uwagi opinii publicznej na&nbsp;łamanie praw człowieka w&nbsp;Rosji<sup><a href="#sdfootnote56sym" name="sdfootnote56anc">56</a></sup>.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dlBXOveVh7c?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <h2>Logika snu</h2> <p>Jedną ze strategii, którą można zastosować, przyglądając się rządzącej się logiką snu historii Eurowizji, jest szukanie analogii, powtórzeń i&nbsp;przesunięć. I&nbsp;tak, lesbijski pocałunek, do którego nie doszło podczas występy t.A.T.u w&nbsp;2003 roku, zyskał spełnienie dopiero w&nbsp;2013 w&nbsp;dwóch gestach: Kristy Siegfrids reprezentującej Finlandię, gdy pod&nbsp;koniec piosenki <em>Marry Me</em> pocałowała jedną z&nbsp;dziewczyn ze swojego chórku (z tego powodu Turcja groziła odwołaniem transmisji), oraz dwóch tancerzy w&nbsp;występach wypełniających przerwę między dwiema częściami finału. W&nbsp;piosence <em>Swedish smörgåsbord</em> (Szwedzki stół) będącej prześmiewczą pocztówką, prowadząca Petra Mede zachwalała między innymi szwedzkiego kucharza z&nbsp;Muppetów, śmierć grającą w&nbsp;szachy, dziewczynę z&nbsp;tatuażem, H&amp;M, Strindberga, Bergmana, Celsjusza, Thora, Björna Borga, nagrodę Nobla, Volvo, Gretę Garbo i&nbsp;Ace of Base. Śpiewając w&nbsp;otoczeniu tancerzy w&nbsp;strojach ludowych i&nbsp;żeńskiej grupy piłkarskiej, w&nbsp;pewnym momencie zamienia się w&nbsp;pastora udzielającego gejowskiego ślubu dwóm tancerzom. Ironiczny gest został w&nbsp;tym roku powtórzony na&nbsp;poważnie i&nbsp;zmultiplikowany.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/29tZAqJKtxs?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <p>Także Conchitę Wurst można traktować jako niedokładne powtórzenie Dany International. Drugi występ Dany na&nbsp;Eurowizji z&nbsp;dużo gorszą piosenką <em>Ding Dong</em> (2011) okazał się porażką – nie przeszła nawet do finału. Problemem nie była jednak muzyka, lecz rozpoznawalna i&nbsp;oswojona przez widzów strategia. Przypadek Conchity jest inny – o&nbsp;ile Dana była przykładem idealnie wypełnionego schematu przejścia korekty płci, o&nbsp;tyle Conchita rzuca wyzwanie dla binarnych kategorii, co uzmysławiają wspomniany zestaw różnorodnych określeń używanych do jej opisu (najbardziej trafny wydaje się termin <em>bio king</em> – mężczyzna udający kobietę udającą mężczyznę) oraz głosy niechęci wobec niej (jej oficjalny profil na&nbsp;Facebooku do czasu występów na&nbsp;Eurowizji zrzeszał 27,5 tysiąca członków, zaś sprzeciwiający się jej występowi – ponad 10 tysięcy więcej, obecnie liczba jej fanów przekroczyła 600 tysięcy). Conchita jest jednak pilną uczennicą Dany. Ich podobieństwo polega na&nbsp;użyciu estetyki <em>glamour</em> jako sposobu autokreacji oraz autotematyczności. Conchita zajęła drugie miejsce w&nbsp;eliminacjach autriackich w&nbsp;2013 roku z&nbsp;piosenką <em>That</em><em>ʼs What I&nbsp;Am</em> i&nbsp;motyw tożsamości powrócił w&nbsp;jej piosence z&nbsp;tegorocznego konkursu – <em>Rise Like a&nbsp;Phoenix</em>.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>    <div class="c-article-video__caption"><p>https://www.youtube.com/watch?v=QRUIava4WRM</p></div>   </div>  </section><section class="u-typo">   <p>Ta ballada w&nbsp;bondowskim stylu rozmachem dorównuje <em>The World Is Not Enough</em> Garbage, choć wokal przywodzi na&nbsp;myśl raczej charyzmę Shirley Bassey. Dramaturgia piosenki wykorzystującej figurę feniksa i&nbsp;opisującej walkę z&nbsp;przeciwnościami losu jest prosta – zaczyna się od cichego wołania, kończy zaś okrzykiem zwycięstwa. Po&nbsp;krótkim wprowadzeniu - mocnym wejściu instrumentów dętych i&nbsp;głównego motywu smyczkowego Conchita zostaje sama z&nbsp;dźwiękami fortepianu, do którego później dołączają się smyczki, fortepian i&nbsp;cicha perkusja, odzywająca się głośniej dopiero po&nbsp;pierwszym refrenie. W&nbsp;drugim refrenie, śpiewanym już pełną piersią, w&nbsp;okolicach dwóch trzecich utworu następuje <em>tour de force</em> orkiestry – smyczków z&nbsp;dętymi. Nie jest to jednak kulminacja. Po&nbsp;krótkim fragmencie przejściowym następuje, jakby dla potwierdzenia, powtórzenie refrenu, który kończy się wznoszącą wokalizą.</p> <p>Konsekwentnie zaprogramowana została także wizualna strona występu. Po&nbsp;krótkim rozbłysku Conchita pojawia się na&nbsp;postumencie, początkowo jednak ginie w&nbsp;ciemności. Oświetlają ją silne, pojedyncze wiązki światła – wydobywają z&nbsp;mroku, lecz tworzą także klatkę, w&nbsp;której jest uwięziona. Scena rozświetla się powoli, w&nbsp;tle dominuje motyw spadających gwiazd, który później zostanie zamieniony na&nbsp;parę płonących wiązek przypominających skrzydła, w&nbsp;finale zaś z&nbsp;podłogi wyskakują dwa rzędy prawdziwych płomieni. Szeroki gest dopełnia kamera przemierzająca przestrzeń od ujęcia panoramicznego do zbliżenia. Conchita stoi nieruchomo – jest posągiem, nie rzeczywistą osobą, lecz reprezentującą zbiorowość żywą statuą, której choreografia sprowadza się jedynie do tryumfalnego podniesienia ręki. Jednocześnie jest syreną w&nbsp;przylegającej do ciała wieczorowej sukni rozszerzającej się u&nbsp;dołu, wyłaniającą się z&nbsp;oparów teatralnego dymu po&nbsp;to, by uwodzić głosem.</p> <p>Status Conchity był bardziej złożony niż Dany – o&nbsp;ile ta ostatnia mogła sobie pozwolić na&nbsp;prostą afirmację tożsamości, o&nbsp;tyle Conchita ją problematyzowała. W&nbsp;syntetycznym skrócie przedstawiła swoją historię jako opowieść o&nbsp;zwycięstwie, przewidując niejako zakończenie. Do tego potrzebny był patos i&nbsp;element widowiskowości, które udało się odnaleźć w&nbsp;idiomie piosenek z&nbsp;bondowskiej serii. Niewątpliwie autotematyczność była najważniejszym elementem piosenki – dzięki niej Conchita mogła się stać także reprezentantką empatyzującej z&nbsp;nią widowni (w finałowym występie po&nbsp;ogłoszeniu wyników pod&nbsp;koniec utworu zamieniła narrację pierwszoosobową z&nbsp;liczby pojedynczej na&nbsp;mnogą).</p> <p>Zwycięstwo Conchity miało podwójny polityczny wymiar – z&nbsp;jednej strony uderzało wprost w&nbsp;Rosję, której polityka międzynarodowa i&nbsp;wewnętrzna została uznana za&nbsp;sprzeczną z&nbsp;ideałami europejskimi (siostry Tołmaczowe zostały wybuczane), z&nbsp;drugiej głosiło mocne przesłanie, streszczające się w&nbsp;formule, którą zakończyła swoje podziękowanie za&nbsp;nagrodę: „We are unity and we are unstoppable”, odwołującą się do hasła: „Weʼre here, weʼre queer, get used to it!”<sup><a href="#sdfootnote57sym" name="sdfootnote57anc">57</a></sup>, co jest przełomem w&nbsp;aluzyjnych do tej pory występach z&nbsp;problemem LGBTQ w&nbsp;tle.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/5/queerowanie-eurowizji/163-1997-1-pb-1920x-07f.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/5/queerowanie-eurowizji/163-1997-1-pb-330x-881.jpg 330w,assets/cache/images/issues/2014/5/queerowanie-eurowizji/163-1997-1-pb-660x-796.jpg 660w,assets/cache/images/issues/2014/5/queerowanie-eurowizji/163-1997-1-pb-768x-d41.jpg 768w,assets/cache/images/issues/2014/5/queerowanie-eurowizji/163-1997-1-pb-1320x-a34.jpg 1320w" src="assets/cache/images/issues/2014/5/queerowanie-eurowizji/163-1997-1-pb-660x-796.jpg" alt="" ></a>    <figcaption><p><a href="https://twitter.com/szmagazin/status/465218652183486464/photo/1" target="_blank" rel="noopener">-&gt; źródło.</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Wydaje się, że&nbsp;pochodzenie Conchity miało znaczenie. W&nbsp;ostatnich latach Austria nie kwalifikowała się do finałów lub zajmowała w&nbsp;nich miejsca bliskie końca listy. Jeśli już udało się wywalczyć mocną szóstą pozycję, odbyło się to za&nbsp;sprawą elementu ludowego i&nbsp;komediowego (<em>Weil der Mensch zählt</em> Alfa Poiera w&nbsp;dialekcie styryjskim). W&nbsp;komentarzach, także graficznych, po&nbsp;wygranej Conchity nawiązywano do historii sprzed siedemdziesięciu pięciu lat; mimo upływu czasu postać Hitlera ciągle powraca<sup><a href="#sdfootnote58sym" name="sdfootnote58anc">58</a></sup>. Niedługo po&nbsp;zwycięstwie pojawiły się reprodukcje słynnego portretu Sissi, pędzla Franza Xavera Winterhaltera, z&nbsp;domalowaną brodą. Austria, przedstawiająca się jako kraj Alp, Mozarta i&nbsp;walca, nie miała w&nbsp;ostatniej dekadzie dobrej passy – kojarzona była głównie ze sprawami Nataschy Kampusch i&nbsp;Josefa Fritzla. Dopiero dzięki zwycięstwu w&nbsp;Eurowizji może pokazać się jednocześnie jako kraj z&nbsp;tradycjami, ale i&nbsp;tolerancyjny oraz nowoczesny<sup><a href="#sdfootnote59sym" name="sdfootnote59anc">59</a></sup>.</p> <p>Z pewnością zwycięstwo Conchity Wurst w&nbsp;konkursie Eurowizji wprowadziło problematykę queer w&nbsp;centrum sporów politycznych. Wydaje się, że&nbsp;jej propozycja przyczynia się do procesu queerowania Eurowizji, przeciwstawienia się ideologii heteronarodowej i&nbsp;procesu zawłaszczania gejowskiej fantazji, co jest wyzwaniem dla konkursu szesnaście lat po&nbsp;wyoutowaniu. Nie można zapominać, że&nbsp;strategia winning failure jest raczej wyjątkiem dotyczącym najgłośniejszych zwycięstw, które są komentowane poza kręgami fanów. Pokazuje ona paradoksy Eurowizji starającej się prezentować spójny obraz społeczeństwa europejskiego jako demokratycznego, kapitalistycznego, multikulturowego, wyzwolonego seksualnie, zaawansowanego technologicznie i&nbsp;funkcjonującego bezkonfliktowo.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a><em>„KOBIETA” Z BRODĄ gwiazdą Eurowizji w 2014?!</em>, „Pudelek.pl”, <a href="http://www.pudelek.pl/artykul/60932/kobieta_z_broda_gwiazda_eurowizji_w_2014" target="_blank" rel="noopener">http://www.pudelek.pl/artykul/60932/kobieta_z_broda_gwiazda_eurowizji_w_2014</a>, dostęp 3 marca 2014.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a><em></em>Ibidem<em>.</em></p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Zob. podstawowe lektury o historii konkursu: Paul Gambaccini, Johnatan Rice, Tony Brown, <em>The Complete Eurovision Song Contest Companion 1999</em>, Pavilion, London 1999; John Kennedy OʼConnor, <em>The Eurovision Song Contest, 50 Years. The Official History</em>, Carlton Books, London 2005; Ivan Raykoff, Rober Deam Tobin, <em>A Song for Europe: Popular Music and Politics in the Eurovision Song Contest</em>, red. I. Raykoff, R.D. Tobin, Ashgate, Aldershot 2007, s. xvii–xxi. Strona „The Diggiloo Thrush” zawiera pewną bazę informacji na temat wyników konkursu, nazw i nazwisk wykonawców, kompozytorów i tekściarzy; można na niej znaleźć także teksty wszystkich utworów w języku oryginalnym i w tłumaczeniu angielskim: <a href="http://pismowidok.org/index.php/one/article/view/163/www.diggiloo.net" target="_blank" rel="noopener">www.diggiloo.net</a>, dostęp 1 czerwca 2014.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Philippe Le Guern podaje liczby – 255 milionów gospodarstw domowych i ok. 400 milionów widzów. Autor powołuje się na francuskie badania, pokazujące egalitarność Eurowizji, której publiczność dzieli się równomiernie pod względem wieku i edukacji: Philippe Le Guern, <em>From National Pride to Global Kitsch: The Eurovision Song Contest</em>, „The Web Journal of French Media Studies” 2000, vol. 3, nr 1, <a href="http://wjfms.ncl.ac.uk/leguWJ.htm" target="_blank" rel="noopener">http://wjfms.ncl.ac.uk/leguWJ.htm</a>, dostęp 6 marca 2014.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Robert Deam Tobin, <em>Eurovision at 50. Post-Wall and Post Stonewall</em>, w: <em>A Song for Europe...</em>, s. 25–36.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>W roku 2008 i 2012 było ich 43, wśród nich np. Izrael, Gruzja i Azerbejdżan.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Cyt. za stroną Ministerstwa Spraw Zagranicznych RP, <a href="http://www.msz.gov.pl/pl/polityka_zagraniczna/organizacje_miedzynarodowe/rada_europy/informacje_ogolne/informacje_ogolne_o_radzie_europy" target="_blank" rel="noopener">http://www.msz.gov.pl</a>, dostęp 13 marca 2014.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Głosowanie telefoniczne wprowadzono w kilku krajach w 1997 roku, a zasadą stało się w 1998. W 2009 roku, po protestach, przywrócono jury – od tej pory głosy są dzielone między sędziów i głosy telefoniczne. Zob. <em>Rules of the Eurovision Song Contest</em>, „Wikipedia.org”, <a href="http://en.wikipedia.org/wiki/Rules_of_the_Eurovision_Song_Contest" target="_blank" rel="noopener">http://en.wikipedia.org/wiki/Rules_of_the_Eurovision_Song_Contest</a>, dostęp 5 marca 2014.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Zasady konkursu zmieniały się wraz z nim – ograniczenie czasu nastąpiło po pięciominutowej piosence <em>Corde della mia chitarra</em>, wykonanej przez Nunzio Gallowa w 1957 roku. Początkowo długość utworu została ograniczona do 3,5, a później do 3 minut. Do 1965 roku nie wprowadzono ograniczeń dotyczących wyboru języka; wymóg śpiewania w języku narodowym obowiązywał w latach 1966–1972 oraz 1978–1998. Od tej pory zasady pozostawiają wybór języka wykonawcom. W 2004 roku zabraniono grać na żywo na instrumentach. Regulamin tegorocznej edycji na stronie Eurowizji: <em>Rules of the 59</em><sup><em>th</em></sup><em> Eurovision Song Contest. Public version</em>, <a href="http://www.eurovision.tv/upload/press-downloads/2014/Rules/EurovisionSongContest_2014_Rules_Public_ENG_20.09.2013.pdf" target="_blank" rel="noopener">http://www.eurovision.tv/upload/press-downloads/2014/Rules/EurovisionSongContest_2014_Rules_Public_ENG_20.09.2013.pdf</a>, dostęp 3 marca 2013.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Blok północny obejmował Szwecję, Danię, Norwegię i Niemcy, śródziemnomorski Cypr, Grecję, Jugosławię, Turcję, Włochy i Hiszpanię. Badanie dotyczyło lat 1975–1992 i 21 krajów, z pominięciem Monako, Malty i Islandii, które nie występowały regularnie. Gad Yair, Daniel Maman, <em>The Persistent Structure of Hegemony in the Eurovision Song Contest</em>, „Acta Sociologica” 1996, vol. 39, nr 3, s. 309–325.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a><em>Rules of the 59</em><sup><em>th</em></sup><em> Eurovision Song Contest...</em></p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Paul Jordan, <em>Make Love not War at Eurovision</em>, „ESC Insight” z 8 lutego 2012, <a href="http://www.escinsight.com/2012/02/08/make-love-not-war-at-eurovision/" target="_blank" rel="noopener">http://www.escinsight.com/2012/02/08/make-love-not-war-at-eurovision/</a>, dostęp 6 marca 2014.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>Thomas Solomon, <em>Articulating the Historical Moment: Turkey, Europe and Eurovision 2003</em>, w: <em>A Song for Europe...</em>, s. 135–145; Matthew Gumpert, <em>„Everyway That I Can”. Auto-Orientalism at Eurovision 2003</em>, w: <em>A Song for Europe...</em>, s. 146–157.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Philip V. Bolman, <em>The Music of European Nationalism. Cultural Identity and Modern History</em>, ABC–CLIO, Santa Barbara 2004, s. 9.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>Mikko Tuhkanen, <em>Introduction. Queer Eurovision, Post-Closet</em>, „SQS. Journal of Queer Studies in Finland” 2007, nr 2, s. 8, <a href="http://www.helsinki.fi/jarj/sqs/sqs2_07/sqs22007introduction.pdf" target="_blank" rel="noopener">http://www.helsinki.fi/jarj/sqs/sqs2_07/sqs22007introduction.pdf</a>, dostęp 6 marca 2014.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>Wśród konkursów EBU tylko jeden promuje młodych muzyków poważnych.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>Paul Allatson, <em>„Antes cursi que sencilla”. Eurovision Song Contests and the Kitsch-Drive to Euro-Unity</em>, „Culture, Theory and Critique” 2007, vol. 48, nr 1, s. 87–98.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>Ibidem, s. 91.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>Richard Orange, <em>Eurovision</em><em>ʼ</em><em>s Spiritual Home Rolls Out the Pink Carpet for Week of Kitsch, Camp Fun</em>, „The Guardian” z 11 maja 2013, <a href="http://www.theguardian.com/world/2013/may/11/malmo-rolls-out-eurovision-pink-carpet" target="_blank" rel="noopener">http://www.theguardian.com/world/2013/may/11/malmo-rolls-out-eurovision-pink-carpet</a>, dostęp. 6. marca 2014.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>Przemysław Szczur, <em>Literatura a kultura. Notatki na marginesie „Epistemologii szafy” Eve Kosofsky Sedgwick</em>, „Recykling Idei” z 19 maja 2009, <a href="http://recyklingidei.pl/szczur-literatura-a-kultura" target="_blank" rel="noopener">http://recyklingidei.pl/szczur-literatura-a-kultura</a>, dostęp 6 marca 2014.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a>Peter Rehberg, <em>Winning Failure. Queer Nationality at the Eurovision Song Contest</em>, „SQS. Journal of Queer Studies in Finland” 2007, nr 2, s. 60–65, <a href="http://www.helsinki.fi/jarj/sqs/sqs2_07/sqs22007rehberg.pdf" target="_blank" rel="noopener">http://www.helsinki.fi/jarj/sqs/sqs2_07/sqs22007rehberg.pdf</a>, dostęp 9 marca 2013. Subkulturowość obejmuje imprezy, programy radiowe, występy <em>drag queens</em> itp.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>Chodziło o „twardy elektorat” zaangażowanych fanów. Przebadano 30 mężczyzn i 5 kobiet w wieku 19–65 lat, wśród których średnia wynosiła ok. 30–40 lat. Byli to przedstawiciele klasy średniej – architekci, osoby związane ze sztuką, telewizją, studenci, nauczyciele, także akademiccy, informatycy, osoby związane ze służbą zdrowia. Ze względu na koszty eurowizyjnej turystyki w badaniu nie uczestniczyli fani z innych grup społecznych. Brian Singleton, Karen Fricker, Elena Moreo, <em>Performing the Queer Network. Fans and Families at the Eurovision Song Contest</em>, „SQS. Journal of Queer Studies in Finland” 2007, nr 2, s. 12–24, <a href="http://www.helsinki.fi/jarj/sqs/sqs2_07/sqs22007singletonetal.pdf" target="_blank" rel="noopener">http://www.helsinki.fi/jarj/sqs/sqs2_07/sqs22007singletonetal.pdf</a>, dostęp 6 marca 2014.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a>Ibidem, s. 16.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a>Ibidem, s. 19.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a>Mikko Tuhkanen, <em>Introduction...</em>, s. 9.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a>Wybuczano między innymi kampowe wykonanie piosenki <em>Congratulations</em> Silvii Night z Islandii w 2006 roku ubranej w różowy błyszący kostium z rewii odwołującej się wprost do „Eurovision nation” czy zespół t.A.T.u – dziewczyny udające lesbijki reprezentujące Rosję w 2003. Brian Singelton, Karen Fricker, Elena Moreo, <em>Performing the Queer...</em>, s. 19.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a>Ivan Raykoff, <em>Camping on the Borders of Europe</em>, w: <em>A Song for Europe...</em>, s. 6.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>Susan Sontag, <em>Notatki o kampie</em>, przeł. W. Wertenstein, „Literatura na Świecie” 1979, nr 9, s. 316.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a>Simon Frith, <em>Look! Hear! The Uneasy Relationship of Music and Television</em>, „Popular Music” October 2002, vol. 21, nr 3: Music and Television, s. 277–290.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a>Susan Sontag, <em>Notatki...</em>, s. 317.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a>Ibidem, s. 322.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a>Ibidem, s. 309, 311.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a>Peter Rehberg, <em>Winning Failure..</em>, s. 60.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a>John Ellis, <em>Seeing Things. Television in the Age of Uncertainty</em>, I.B. Tauris, London 2000, s. 39.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a>Rachel Donadio, <em>Hamster Wheels, Sequins and, Yes, a Lot of Singing. Eurovision Splashes Into 2014 Finals, to Rapt Audiences</em>, „New York Times” z 9 maja 2014, <a href="http://www.nytimes.com/2014/05/10/arts/television/eurovision-splashes-into-2014-finals-to-rapt-audiences.html" target="_blank" rel="noopener">http://www.nytimes.com/2014/05/10/arts/television/eurovision-splashes-into-2014-finals-to-rapt-audiences.html</a>, dostęp 15 maja 2014.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a>Arabski program <em>Superstar</em> opiera się raczej na formule <em>Idola</em>, zob. Katherine Meizel, <em>„Idol” Thoughts: Nationalism in the pan-Arab Vocal Competition</em><em>„Superstar”</em>, w: <em>A Song for Europe...</em>, s. 159–169.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a>Do 1977 występowała jedna prowadząca, w 1978 i 1979 była to para, od 1980 do 1987 roku prowadząca, od 1988 zaś znowu dwoje prowadzących, z wyjątkiem 1993, 1995 i 2013 roku, kiedy galę prowadziła kobieta oraz 1999 z trójką prowadzących. Zob. Mari Pajala, <em>Closeting Eurovision. Heteronormativity in the Finnish National Television</em>, „SQS: Journal of Queer Studies in Finland” 2007, nr 2, s. 31, <a href="http://www.helsinki.fi/jarj/sqs/sqs2_07/sqs22007pajala.pdf" target="_blank" rel="noopener">http://www.helsinki.fi/jarj/sqs/sqs2_07/sqs22007pajala.pdf</a>, dostęp 9 marca 2013.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a>Albert Meijer, <em>„Be My Guest”. Nation Branding and National Representation in the Eurovision Song Contest</em>, praca magisterska napisana pod kierunkiem dr Kristin McGee i dr. Benjamina Martina, Uniwersytet w Groningen, Uniwersytet w Uppsali, Groningen–Uppsala 2013, <a href="http://www.diva-portal.org/smash/get/diva2:650589/FULLTEXT01.pdf" target="_blank" rel="noopener">http://www.diva-portal.org/smash/get/diva2:650589/FULLTEXT01.pdf</a>; Paul Jordan, <em>The Modern Fairy Tale. Nation Branding, National Identity and the Eurovision Song Contest in Estonia</em>, University of Tartu Press, Tartu 2014, <a href="http://www.oapen.org/search?identifier=474310" target="_blank" rel="noopener">http://www.oapen.org/search?identifier=474310</a>, dostęp 14 maja 2014.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a> Sarah Schulman, <em>Israel and „Pinkwashing”</em>, „New York Times” z 22 listopada 2011, <a href="http://www.nytimes.com/2011/11/23/opinion/pinkwashing-and-israels-use-of-gays-as-a-messaging-tool.html?_r=0" target="_blank" rel="noopener">http://www.nytimes.com/2011/11/23/opinion/pinkwashing-and-israels-use-of-gays-as-a-messaging-tool.html?_r=0</a>, dostęp 15 maja 2014; Jasbir Puar, <em>Rethinking Homonationalism</em>, „International Journal of Middle East Studies” 2013, vol, 45, nr 2, s. 336–339.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a>Amalia Ziv, <em>Diva Interventions. Dana International and Israeli Gender Culture</em>, w: <em>Queer Popular Culture: Literature, Media, Film, and Television</em>, red. T. Peele, Palgrave Macmillan, New York 2007, s. 119–136.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a>Powinien to być utwór szybki, z wyrazistym rytmem, łatwym do powtórzenia tekstem, skontrastowanym ze zwrotką pod względem dynamicznym lub harmonicznym refrenem, klarownym zakończeniem poprzedzonym progresją harmoniczną. Wykonawca powinien przygotować oryginalną choreografię i przyciągające wzrok kostiumy. Ivan Raykoff, Robert Tobin, <em>Introduction...</em>, s. xix.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a>Literatura na temat Dany jest bogata – obejmuje jej funkcjonowanie w Izraelu i Egipcie przed i po wygranej, a także aspekt językowy piosenek: Ted Swedenburg, <em>Saida Sultan/Danna International. Transgender Pop and the Polysemiotics of Sex, Nation, and Ethnicity on the Israeli-Egyptian</em>, „The Musical Quarterly” Spring 1997, vol. 81, nr 1, s. 81–108; Yael Ben-zvi, <em>Zionist Lesbianism and Transsexual Transgression. Two Representations of Queer Israel</em>, „Middle East Report” Spring 1998, nr 206: Power and Sexuality in the Middle East, s. 26–28, 37; Liora Moriel, <em>Diva in the Promised Land. A Blueprint for Newspeak?</em>, „World Englishes” 1998, vol. 17, nr 2, s. 225–237; Dafna Lemish, <em>„My kind of campfire”. The Eurovision Song Contest and Israeli Gay Men</em>, „Popular Communication” 2004, vol. 2, nr 1, s. 41–63; Yossi Maurey, <em>Dana International and the Politics of Nostalgia</em>, „Popular Music” January 2009, vol. 28, nr 1, s. 85–103.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a>Peter Rehberg, <em>Winning Failure...</em>, s. 62.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a>Brian Singleton, Karen Fricker, Elena Moreo, <em>Performing the Queer...</em>, s. 22; Peter Rehberg, <em>Winning Failure...</em>, s. 61.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a>W podobnym duchu interpretują występ Rehberg i Tuhkanen, choć ich propozycja nosi znamiona nadinterpretacji: Peter Rehberg, Mikko Tuhkanen, <em>Danzing Time. Dissociative Camp and European Synchrony</em>, „SQS. Journal of Queer Studies in Finland” 2007, nr 2, <a href="http://www.helsinki.fi/jarj/sqs/sqs2_07/sqs22007rehbergtuhkanen.pdf" target="_blank" rel="noopener">http://www.helsinki.fi/jarj/sqs/sqs2_07/sqs22007rehbergtuhkanen.pdf</a>s. 43–59, dostęp 13 marca 2014.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a>Annamari Vänskä, <em>Bespectacular and Over the Top. On the Genealogy of Lesbian Camp</em>, „SQS. Journal of Queer Studies in Finland” 2007, nr 2, s. 67, <a href="http://www.helsinki.fi/jarj/sqs/sqs2_07/sqs22007vanska.pdf" target="_blank" rel="noopener">http://www.helsinki.fi/jarj/sqs/sqs2_07/sqs22007vanska.pdf</a>, dostęp 13 marca 2014.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a>Strona Eurowizji: <a href="http://eurowizja.org/index.php?p=1694" target="_blank" rel="noopener">http://eurowizja.org/index.php?p=1694</a>, dostęp 13 marca 2014.</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a>Simon Storvik-Green, <em>Malmö „goes gay” for Eurovision</em>, <a href="http://www.eurovision.tv/page/news?id=malmoe_goes_gay_for_eurovision" target="_blank" rel="noopener">http://www.eurovision.tv/page/news?id=malmoe_goes_gay_for_eurovision</a>, dostęp 13 marca 2014.</p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a>Strona grupy Stonewall: <a href="http://www.eurovision.tv/page/news?id=malmoe_goes_gay_for_eurovision" target="_blank" rel="noopener">http://www.eurovision.tv/page/news?id=malmoe_goes_gay_for_eurovision</a>, dostęp 13 marca 2014.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a>Simon Storvik-Green, <em>Copenhagen’s offer to tourists: get married during Eurovision</em>, <a href="http://www.eurovision.tv/page/news?id=copenhagens_offer_to_tourists_get_married_during_eurovision" target="_blank" rel="noopener">http://www.eurovision.tv/page/news?id=copenhagens_offer_to_tourists_get_married_during_eurovision</a>, dostęp 13 marca 2014.</p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a> Cyt. za: Jacques Rancière, <em>Estetyka jako polityka</em>, przeł. J. Kutyła, P. Mościcki, Wydawnictwo Krytyki Politycznej, Warszawa 2007, s. 36.</p>
+<p><a href="#sdfootnote52anc" name="sdfootnote52sym">52</a> Ibidem, s. 25.</p>
+<p><a href="#sdfootnote53anc" name="sdfootnote53sym">53</a>Robert Deam Tobin, <em>Eurovision at 50...</em>, s. 31.</p>
+<p><a href="#sdfootnote54anc" name="sdfootnote54sym">54</a> Paul Jordan, <em>Eurovision in Moscow. Re-imagining Russia ont the Global Stage</em>, „eSharp” Winter 2009, nr 14, „Imagination and Innovation”, s. 39–61.</p>
+<p><a href="#sdfootnote55anc" name="sdfootnote55sym">55</a>William Lee Adams, <em>How the West Won. Norway Takes the Crown at Eurovision</em>, „Time” z 18 maja 2009, <a href="http://content.time.com/time/arts/article/0,8599,1899117,00.html#ixzz2vtxaj1hQ" target="_blank" rel="noopener">http://content.time.com/time/arts/article/0,8599,1899117,00.html#ixzz2vtxaj1hQ</a>, dostęp 13 marca 2014.</p>
+<p><a href="#sdfootnote56anc" name="sdfootnote56sym">56</a>Paul Jordan, <em>From Russia With Love. Boycotts, LGBT Rights, and Eurovision</em>, <a href="http://www.escinsight.com/2013/09/04/from-russia-with-love-boycotts-lgbt-rights-and-eurovision/" target="_blank" rel="noopener">http://www.escinsight.com/2013/09/04/from-russia-with-love-boycotts-lgbt-rights-and-eurovision/</a>, „ESC Insight” z 4 września 2013, dostęp 13 marca 2014.</p>
+<p><a href="#sdfootnote57anc" name="sdfootnote57sym">57</a>Lauren Berlant, Elizabeth Freeman, <em>Queer Nationality</em>, „boundary 2” 1992, vol. 19, nr 1, s. 156.</p>
+<p><a href="#sdfootnote58anc" name="sdfootnote58sym">58</a> Nie powinno to dziwić, gdyż Eurowizja operuje mocnym skrótem – pod koniec lat 70. krytykowano Niemców za prezentację na konkursie w Jerozolimie piosenki zdawałoby się niewinnej, stylistycznie odwołującej się do Boney M, poświęconej jednak okrutnemu przywódcy – Dżyngis-chanowi.</p>
+<p><a href="#sdfootnote58anc" name="sdfootnote59sym">59</a>Filip Gańczak, <em>Od wąsa Hitlera do brody Conchity</em>, „Polityka” z 21 maja 2014, s. 49-51, <a href="http://www.polityka.pl/tygodnikpolityka/swiat/1580295,1,rozne-oblicza-austrii.read" target="_blank" rel="noopener">http://www.polityka.pl/tygodnikpolityka/swiat/1580295,1,rozne-oblicza-austrii.read</a>, dostęp 2 czerwca 2014.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/queer-obrazy/queerowanie-eurowizji.-szesnascie-lat-po-wyoutowaniu" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

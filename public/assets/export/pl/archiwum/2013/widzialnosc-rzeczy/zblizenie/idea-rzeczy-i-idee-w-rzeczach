@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Idea rzeczy i idee w rzeczach | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/idea-rzeczy-i-idee-w-rzeczach">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Idea rzeczy i idee w rzeczach | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Idea rzeczy i idee w rzeczach | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/idea-rzeczy-i-idee-w-rzeczach">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Idea rzeczy i idee w rzeczach | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ff5239 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ff5239 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ff5239 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ff5239 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ff5239 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ff5239 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+			/* background-color:#ff5239 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,82,57,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ff5239 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ff5239; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ff5239 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ff5239 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ff5239 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1340 parent-id-1332">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="419" data-selected-issue-color="#ff5239" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/the-visibility-of-things#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/the-visibility-of-things/the-idea-of-things-and-the-ideas-in-them">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/widzialnosc-rzeczy#toc">1</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/idea-rzeczy-i-idee-w-rzeczach?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Idea rzeczy i idee w rzeczach<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup></span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/idea-rzeczy-i-idee-w-rzeczach?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=313">Bill Brown</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Przełożył: 
+		
+		Łukasz Zaremba
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Kiedy podczas zajęć warsztatowych nikt z&nbsp;nas nie miał dobrych pomysłów, Ken Fields wyciągał jakieś kserówki (zbiór tekstów od Andrew Marvella i&nbsp;Adrianne Rich po&nbsp;Dereka Walcotta i&nbsp;Theodore’a Roethke) i&nbsp;na ich podstawie dyskutowaliśmy na&nbsp;przykład o&nbsp;przerzutni lub synekdosze – o&nbsp;formalnych i&nbsp;figuralnych narzędziach poezji. Fields lubił wykorzystać taką okazję do wygłaszania ogólnych porad lub napomnień. „Pamiętajcie – powiedział pewnego popołudnia, rozsiadłszy się na&nbsp;kanapie niczym bożek, zerkając mimo naszych twarzy, wyrażających wiarę w&nbsp;poezję jako rodzaj powołania. – Nie chodzi o&nbsp;odrzucenie pojęć. «Żadnych pojęć poza tymi, co w&nbsp;rzeczach», nie oznacza żadnych pojęć”.</p> <p>William Carlos Williams zawsze jawił się nam jako poeta najbardziej odpowiedzialny za&nbsp;kształt poezji w&nbsp;XX wieku oraz nie mniej odpowiedzialny niż Whitman za&nbsp;to, że&nbsp;stała się ona amerykańska. Odpowiadał również, być może mimowolnie, za&nbsp;swego rodzaju zaniechanie – za&nbsp;odrzucenie odpowiedzialności za&nbsp;idee i&nbsp;gotowość pozostania jedynie przy rzeczach.</p> <p>Jednak niezależnie od tego, jak bardzo zdrowy rozsądek przekonuje, że&nbsp;rzeczy są rzeczywiste i&nbsp;nieme, konkretne i&nbsp;zrozumiałe same przez się, uchwycenie tego, czym są same rzeczy, jedynie rzeczy, może okazać się zadaniem nader trudnym. Według zapomnianego dziś psychologa umysłu Marka Baldwina „owo «jedynie»” w&nbsp;żadnym razie nie stoi w&nbsp;sprzeczności z&nbsp;myślą idealistyczną, ponieważ idealista zakłada „rzecz prawdziwą” mającą swój zjawiskowy wyraz w&nbsp;„rzeczy samej”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Materializm nie zawsze proponuje oczywistą alternatywę. Obiektywistyczny poeta, Louis Zukofsky, parafrazując Marksa, ujął to tak: „Praca kończy się na&nbsp;wytworzeniu rzeczy, / Która, gdy proces ten się zaczynał / Żyła już jako obraz należący do robotnika” (<em>The labor process ends with a&nbsp;creation of a&nbsp;thing / Which when the process began / Already lived as a&nbsp;worker's image</em>)<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. W&nbsp;tak ujętym idealizmie i&nbsp;materializmie idea rzeczy zdaje się umiejscowiona gdzie indziej – w&nbsp;jakimś wyobrażonym miejscu poczęcia: czy to umyśle robotnika (i jedynie wówczas w&nbsp;akcie wytwarzania), czy też, powiedzmy, w&nbsp;umyśle Boga. Oba podejścia zakładają czasową strukturę, w&nbsp;której pozostanie „jedynie” przy rzeczy, jej aktualna fizyczna obecność, nie da się oddzielić od jej metafizycznej przeszłości. Tego rodzaju stanowiska nie ułatwiają zgłębiania myśli, że&nbsp;idea mogłaby kiedykolwiek w&nbsp;pełni uobecnić się w&nbsp;rzeczy.</p> <p>Udaje im się ledwie zasugerować, jak trudno jest „pomyśleć rzeczowość” w&nbsp;tym, co abstrakcyjne – jako abstrakcyjną fizyczność. „Rzecz nie może być bryłą materii” – twierdził Baldwin – ponieważ w&nbsp;takim przypadku „niemożliwe byłoby, abyśmy znali ją jako rzecz”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. Diagnozując „alergię na&nbsp;istnienie”, Theodor Adorno dowodził, że&nbsp;nie może istnieć żadna „prehistoria przedmiotu”, ale wyłącznie historia „traktująca już zawsze o&nbsp;konkretnych przedmiotach”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Doświadczenie lub też historia konkretnych przedmiotów zależy jednak od możliwego do uogólnienia doświadczenia samej rzeczowości przedmiotów naturalnych oraz stworzonych przez człowieka. To z&nbsp;kolei zależy zarówno od wyobrażeń dotyczących rzeczowości, jak i&nbsp;od zmysłów (i naszego ich rozumienia). Taki wniosek zaś zdaje się wygodnie oddalać nas od idei w&nbsp;rzeczach i&nbsp;kierować ku ideom rzeczy. „Żadnych rzeczy, tylko w&nbsp;myślach” – to stare Heglowskie powiedzenie<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. Czy jednak możemy myśleć o&nbsp;ideach w&nbsp;rzeczach, nie zwracając się ku ideom rzeczy? Zapewne nie.</p> <p>Idea rzeczy klaruje się nieco w&nbsp;prozie Williamsa. Na&nbsp;przykład <em>A Novelette</em> (1932) przedstawia wizję, zgodnie z&nbsp;którą przyjęte z&nbsp;góry założenia uniemożliwiają ludziom docenienie (czy też rozpoznanie) najprostszych fizycznych szczegółów otoczenia: „Drzewo, w&nbsp;miejscu pęknięcia przyjmującego wodę, objawi świeży miąższ, kiedy zamarznie. Mokry kamień jest ciemniejszy niż kamień suchy. [...] Gdy po&nbsp;raz pierwszy dostrzeżono te rzeczy, istniały już gotowe kategorie do ich nazywania, niezwłocznie zmieniające je w&nbsp;zjawiska zrozumiałe. Za&nbsp;sprawą tego procesu, wzmacnianego przez tradycję, każda zwykła rzecz zostawała przygwożdżona, pozbawiona wolności działania i&nbsp;odebrana nam”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. W&nbsp;ten sposób idee powstrzymują zmysły przed dostarczaniem nowej wiedzy. Adorno powiązałby ten proces z&nbsp;działaniem „filozoficznego imperializmu” (zarówno epistemologii, jak i&nbsp;fenomenologii), który „zaczarował to, co od [wobec] niego odmienne”, podporządkowując doznanie poznaniu<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>.</p> <p>A jednak opiewając Juana Grisa w&nbsp;tomie <em>Wiosna i&nbsp;wszystko</em> (<em>Spring and All, </em>1923)<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>, Williams uznaje, jak można sądzić, że&nbsp;proces wydzierania rzeczy życiu i&nbsp;doświadczeniu określa zasadniczą dynamikę wysiłku artystycznego. „Rzeczy” na&nbsp;obrazach Grisa „pozostają «realne»”, rozpoznawalne niczym sfotografowane „jako rzeczy wzięte z&nbsp;codzienności”. Są jednak z&nbsp;niej „wydarte”: „Rzeczy dobrze mu znane, zwykłe rzeczy – jednocześnie oddziela je od zwykłego doświadczenia wyobraźni”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. We wczesnej twórczości Williamsa występuje dynamiczna opozycja pomiędzy epistemologią a&nbsp;estetyką, pomiędzy poznaniem świata w&nbsp;jego rzeczowości a&nbsp;przekształcaniem dzieła sztuki w&nbsp;rzecz. Oświadcza on, że&nbsp;artysta „PRACUJE, WYKONUJĄC PRZEDMIOTY”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Pisanie – co zdecydowanie (i paradoksalnie) podkreśla Williams – „będąc rzeczywiście sobą, byłoby samo w&nbsp;sobie ogólną ideą tego, co najbardziej konkretne”<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Ten wysiłek, by pojąć konkretność, a&nbsp;także by pomyśleć dzieło sztuki jako odmienny rodzaj naśladownictwa – nie służący przedstawianiu rzeczy, lecz dążący do uzyskania statusu rzeczy – to podstawowy wysiłek modernizmu, właściwy zarówno Gertrudzie Stein, jak i&nbsp;Malewiczowi, Picassowi i&nbsp;Zukofsky’emu. Pytanie o&nbsp;rzeczy staje się pytaniem o&nbsp;to, czy przedmiot literacki powinno się rozumieć jako przedmiot przedstawiony w&nbsp;literaturze, czy też jako przedmiot, będący celem literatury: przedmiot, którym jest literatura.</p> <p>Czy mogą istnieć idee bez rzeczy? Z&nbsp;pewnością Williams tak właśnie sądził. A&nbsp;właściwie sądził, że&nbsp;tak sądzili inni poeci. Właśnie abstrakcyjność myśli była tą kwestią, która przekonała Williamsa, jak też T.E. Hulme’a czy Ezrę Pounda, że&nbsp;modernizm musi domagać się nowego idiomu. W&nbsp;kategoriach Emersona żądanie to brzmiałoby następująco: poeta nie powinien (jak pragnął sam Emerson) „podporządkowywać rzeczywistości myślom”, lecz działać jako „zwykły człowiek, myśli swe podporządkowuj[ący] rzeczywistości”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. A&nbsp;dokładniej: poeta powinien uznać rzeczy za&nbsp;niezbędne warunki idei. Jak podkreślał Ken [Fields], modernistom nie chodziło o&nbsp;zastąpienie idei rzeczami, lecz o&nbsp;połączenie idei i&nbsp;rzeczy. Cel skierowanego przeciw Emersonowi wysiłku Williamsa był ostatecznie emersonowski – chodziło o&nbsp;przekroczenie opozycji podmiot/przedmiot, zakwestionowanie ontologicznej różnicy pomiędzy myślami a&nbsp;rzeczami.</p> <p>Rozpoczynając pracę nad tym, co miało stać się książką <em>A Sense of Things</em>, byłem przekonany, że&nbsp;teoria kultury i&nbsp;literaturoznawstwo potrzebują porównywalnego nowego idiomu, wychodzącego od dążenia, by myśleć wraz z&nbsp;fizycznym światem przedmiotów lub za&nbsp;jego pomocą; dążenia do ustanowienia realnego stanu rzeczy, odpowiadającego poziomowi, na&nbsp;którym dokonują się ludzkie działania – nie wyłączając spośród nich myślenia. Chciałem, by analiza krytyczna nie poddawała się mechanizmowi opisanemu przez Georges’a Bataille’a – gdy samo to, że&nbsp;kapitalizm jest „całkowitym oddaniem się rzeczy” oznacza, że&nbsp;kultury kapitalistyczne „umieszczają to, co najistotniejsze” poza „światem rzeczy”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Wyobrażałem sobie historię kultury i&nbsp;literatury wyłaniającą się z&nbsp;maszyny do pisania, wiecznego pióra, żarówki – elementów fizycznego wsparcia modernistycznej produkcji literackiej. Niezależnie od tego, jak silnie podzielałem pragnienie nowych historystów, by „dotknąć «realnego»”, chciałem również, by końcowy efekt był czymś na&nbsp;kształt bardziej ziarnistej, materialistycznej fenomenologii życia codziennego. Szukałem efektu, który mógłby w&nbsp;jakiś sposób powstrzymać opisaną przez Michela Serres'a pokusę, by „cały świat [...] brał się z&nbsp;języka”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. Podczas gdy inni badacze wierzyli w&nbsp;„dyskurs” lub „społeczny tekst”<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup> jako analityczny schemat, na&nbsp;podstawie którego należało przekształcić naszą wiedzę o&nbsp;teraźniejszości i&nbsp;przeszłości, ja chciałem skierować uwagę ku rzeczom – przedmiotom, materializowanym z&nbsp;fizycznego świata i&nbsp;w fizycznym świecie, jaki jest lub był pod&nbsp;ręką. Zakładałem, że&nbsp;odnajdę w&nbsp;nich – jak wcześniej Georg Simmel, Gaston Bachelard, Siegfried Kracauer i&nbsp;Walter Benjamin – nie tylko fizyczne przesłanki życia wyobrażeniowego, lecz także zakrzepłe fakty i&nbsp;fantazje kultury, zjawiska powierzchniowe, odsłaniające logikę społeczeństwa przemysłowego lub jej brak. Zakładałem, że&nbsp;trzymał się będę <em>dictum</em> Adorno, że&nbsp;„nie chodzi o&nbsp;filozofowanie o&nbsp;konkrecie, ale o&nbsp;wychodzenie od konkretu”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. Projekt ten szedłby zatem w&nbsp;ślad za&nbsp;ważnymi antologiami, które z&nbsp;pozycji różnych dyscyplin i&nbsp;z przestrzeni pomiędzy dyscyplinami nawoływały do skupienia uwagi na&nbsp;rzeczach: <em>The Social Life of Things </em>(1986), <em>History from Things</em> (1993), <em>The Sex of Things</em> (1996), <em>Material Cultures. Why Some Things Matter</em> (1998)<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. Tomy te denaturalizują praktyki konsumpcyjne i&nbsp;badają (w poszczególnych kulturach i&nbsp;pomiędzy nimi) pracę wymiany i&nbsp;konsumpcji – to, w&nbsp;jaki sposób wartość wytwarza się w&nbsp;określonych układach społecznych i&nbsp;w jaki sposób osadza się ją w&nbsp;określonych formach materialnych, jak ludzie kodują, przekodowują i&nbsp;zaspokajają swoje materialne pragnienia i&nbsp;potrzeby.</p> <p>Zacząłem się jednak zastanawiać, czy taka praca nie pomijałaby jednocześnie pewnych aspektów, nigdy nie pytając o&nbsp;to choćby, jak rzeczy stają się rozpoznawalne, przedstawialne i&nbsp;wymienialne. Zamiast więc sięgnąć po&nbsp;wieczne pióro, zacząłem od początku, od ponownego przeczytania pewnych tekstów literackich, które, jak sądziłem, w&nbsp;sposób zamierzony lub nie, stawiały te pytania. W&nbsp;moim rozumieniu teksty te pytają o&nbsp;to, dlaczego i&nbsp;jak używamy przedmiotów do wytwarzania znaczenia, do tworzenia lub przetwarzania siebie, do porządkowania swoich niepokojów i&nbsp;sympatii, do sublimacji lęków i&nbsp;kształtowania fantazji. Są to teksty opisujące i&nbsp;ustanawiające wyobrażone posiadanie rzeczy, które równaznaczne jest z&nbsp;pracą przypisywania wytworzonym przedmiotom cech metafizycznych. Nieprzypadkowo są to teksty opublikowane w&nbsp;czasach, gdy pojawiły się maszyny do pisania, wieczne pióra i&nbsp;żarówki; w&nbsp;epoce niespotykanej wynalazczości, w&nbsp;kraju znanym od wojny secesyjnej z&nbsp;pomysłowości i&nbsp;dużych możliwości w&nbsp;dziedzinie wytwórstwa – w&nbsp;epoce, gdy wynajdywanie, produkcja, dystrybucja i&nbsp;konsumpcja rzeczy dość niespodziewanie zaczęły stanowić o&nbsp;kulturze narodowej.</p> <p>„Wojna” – jak w&nbsp;1886 roku ujął to jeden z&nbsp;pierwszych historyków przemysłu – „bezsprzecznie stanowiła silny bodziec dla producentów, ponieważ tworzyła nowy, olbrzymi popyt na&nbsp;rzeczy”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. Popyt na&nbsp;rzeczy nie osłabł po&nbsp;wojnie w&nbsp;dużej mierze dzięki temu, że&nbsp;przemysłowiec mógł polegać na&nbsp;nowych, nie mniej potężnych bodźcach. Nawet postaci, która wyszła spod pióra Henry’ego Jamesa, zdarzyło się wykazać tępotą i&nbsp;stwierdzić: „Co pięć lat mniej więcej wymyślają wszystko od początku, a&nbsp;nadążać za&nbsp;nowościami to coś znaczy”<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>. W&nbsp;końcowych dziesięcioleciach XIX wieku Stany Zjednoczone były najszybciej rozwijającym się rynkiem pośród wszystkich krajów przemysłowych. Rewolucje, które w&nbsp;następstwie wojny dokonały się w&nbsp;transporcie i&nbsp;komunikacji, napędzały produkcję i&nbsp;dystrybucję – wszystkie te procesy były zaś elementami tego, co Alfred Chandler określił mianem „rewolucji organizacyjnej”, która zasadniczo zmieniła stosunek ludzi do dóbr rolniczych i&nbsp;przemysłowych<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. Aby unaocznić nowe tempo produkcji, Chandler opisał <em>casus </em>Diamond Match Company. W&nbsp;1881 roku firma wprowadziła maszynę produkującą i&nbsp;automatycznie pakującą zapałki na&nbsp;miliardy. Tej niespotykanej masowej produkcji (osiągniętej zanim została wprost skonceptualizowana) towarzyszyły nowe formy masowej dystrybucji, zwłaszcza nowy typ instytucji sprzedaży: domy sprzedaży wysyłkowej, sieci sklepów, domy towarowe. W&nbsp;roku 1900 katalog Montgomery Ward spuchł do pięciuset stron i&nbsp;docierał do ponad miliona domów<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>. W&nbsp;Ameryce złożone zjawisko znane jako „rewolucja przemysłowa” przekształciło ekonomię, politykę i&nbsp;prawo; wytworzyło walczącą z&nbsp;codziennymi trudnościami, rozżaloną ludność robotniczą w&nbsp;coraz większym stopniu złożoną z&nbsp;imigrantów; zmieniło również życie codzienne, z&nbsp;jednej strony zwiększając zatrudnienie w&nbsp;przemyśle, a&nbsp;w ten sposób również zdolności nabywcze części społeczeństwa, a&nbsp;z drugiej strony gwałtownie zwiększając liczbę i&nbsp;zmieniając charakter dóbr na&nbsp;sprzedaż.</p> <p>Można by po&nbsp;prostu stwierdzić, że&nbsp;w&nbsp;nowym stuleciu Amerykanie żyli w&nbsp;„epoce rzeczy”. Jednak starania, by sprzedawać rzeczy, nabywać je i&nbsp;gromadzić miały pewien nieuchronny skutek: „Uświadamiamy sobie, że&nbsp;to nie my je posiadamy; to one posiadają nas”. Nie chodziło tylko o&nbsp;to, że&nbsp;Amerykanie „dusili się pośród rzeczy”, lecz że&nbsp;żyli teraz życiem osobliwie opętanym<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>. Opowieść o&nbsp;tym opętaniu – o&nbsp;opętaniu tym, co się posiada – jest czymś dziwniejszym niż historia kultury konsumpcji. To opowieść nie tylko o&nbsp;gromadzeniu <em>bric-à-brac</em>, lecz także o&nbsp;skupieniu historiografii i&nbsp;antropologii na&nbsp;przedmiocie, oraz opowieść nie tylko o&nbsp;myśleniu rzeczami, lecz także o&nbsp;próbie oddania rzeczo-podobnej myśli. Proza dziewiętnastowieczna nie tylko jednak przedstawia i&nbsp;na różne sposoby rejestruje to, jak stosunki towarowe zdominowały życie codzienne, lecz także (pomimo tych stosunków lub, w&nbsp;istocie, wzmocniona nimi) ukazuje, że&nbsp;ludzkie zaangażowanie w&nbsp;świat przedmiotów materialnych, oraz konstytuowanie się ludzkiej podmiotowości i&nbsp;nieożywionego przedmiotu we wzajemnej zależności, nie może zostać sprowadzone do stosunków towarowych. Podczas gdy William James wierzył, że&nbsp;„rzeczywistość, życie, doświadczenie, konkretność, bezpośredniość – wybierzcie dowolne słowo – przekracza naszą logikę, wykracza poza nią i&nbsp;otacza ją”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>, moja strategia polega po&nbsp;prostu na&nbsp;tym, by z&nbsp;jednej strony odejść od jasności myślenia o&nbsp;rzeczach jako przedmiotach konsumpcji, z&nbsp;drugiej zaś zobaczyć, dlaczego kulturowa logika kapitalizmu nie wyjaśnia relacji ludzi i&nbsp;rzeczy. Jak ujął to Ishmael, „jakieś znaczenie musi się kryć we wszystkich rzeczach, gdyż inaczej wszystkie one byłyby mało warte, zaś cały ten krągły świat – jedynie pustą cyfrą, chyba żeby go sprzedawać na&nbsp;wzory dla zasypania bagien na&nbsp;Mlecznej Drodze, podobnie jak się sprzedaje wzgórza w&nbsp;pobliżu Bostonu”<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>.</p> <p></p> <p>Bywały takie dni, gdy po&nbsp;zakończeniu warsztatów chodziłem w&nbsp;kółko, próbując sprawdzić, czy ta lub inna rzecz – zgnieciony styropianowy kubek, kamienna ławka, kasztan – może mieć w&nbsp;sobie ideę. Potem, muszę wyznać, zacząłem pisać wiersz, wiersz bożonarodzeniowy: żart, skomponowany na&nbsp;kształt listu dziecka do świętego Mikołaja, w&nbsp;którym prosiłem o&nbsp;rzeczy wypełnione ideami. Wierszyk zamykał obrazek małego chłopca gwałtownie rozrywającego pakunek, następnie rzecz znalezioną w&nbsp;paczce – rozdzierającego warstwy plastiku z&nbsp;opętaniem w&nbsp;oczach, by tylko dotrzeć do idei.</p> <p>Wiedziałem, że&nbsp;mój poetycki humor nie jest najwyższych lotów. Wiersz nie nadawał się do pokazania za&nbsp;zajęciach, nie mówiąc już o&nbsp;druku. Skutecznie wyparłem niektóre linijki. Mam jednak pewne mgliste wspomnienie tego, jak sympatycznie konfudującą mogłaby być ta cudowna klisza modernizmu, idea istnienia idei w&nbsp;rzeczach (naprawdę w&nbsp;nich), gdyby stała się częścią codziennego życia. Czy w&nbsp;tych zwiniętych skarpetkach kryją się idee? Być może.</p> <p>Rozmawiając wówczas o&nbsp;tym wierszu (dowcipnym, przynajmniej w&nbsp;zamyśle), usłyszałem od kogoś, że&nbsp;zostałem wyprzedzony – że&nbsp;Baudelaire już napisał swoją wersję tego utworu. Rzeczywiście, Baudelaire wyjaśnia w&nbsp;<em>Morale zabawek</em>, że&nbsp;„większość dzieciarni chce przede wszystkim zobaczyć duszę [zabawki]”. Pragnienie to staje się „dziecięcą manią”: „Kiedy takie pragnienie utrwaliło się w&nbsp;mózgu dziecka, jego palce i&nbsp;paznokcie nabierają szczególnej zręczności i&nbsp;siły”. Baudelaire nie uważa tego pragnienia za&nbsp;godne potępienia, lecz za&nbsp;„pierwszą skłonność metafizyczną” – przez którą rozumie pragnienie metafizyki, wywołujące istotne fizyczne zmiany w&nbsp;ciele dziecka. Jest to pragnienie wprowadzające dziecko – z&nbsp;chwilą, gdy zabawka zostanie zniszczona, gdy zostanie otwarta – w&nbsp;„ogłupienie i&nbsp;smutek”, cechujące ludzką reakcję na&nbsp;bezduszność nowoczesnego życia<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>. To lekcja niewystarczalności pożądanego przedmiotu. Nie ma przecież duszy wewnątrz zabawki, nawet wewnątrz zabawki mechanicznej. Ani wyobrażenie o&nbsp;tej rzeczy, które posiada jej wytwórca, nie wsącza się w&nbsp;nią, wbrew temu, co Walter Benjamin pisał o&nbsp;ręcznie wykonanych zabawkach, w&nbsp;których dzieci nadal mogą czuć rękę wytwórcy<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>.</p> <p>Nie wiedziałem wtedy również, że&nbsp;Toni Morrison napisała już o&nbsp;wiele bardziej wciągającą, chłodną wersję mojego wiersza. Znajduje się ona na&nbsp;pierwszych stronach <em>The Bluest Eye</em>, i&nbsp;jest przekładem „pierwszej skłonności metafizycznej” Baudelaire’a na&nbsp;pierwszą skłonność socjologiczną. Zanim doświadczy „czystej nienawiści” do Shirley Temple, Claudia cierpi z&nbsp;powodu świątecznego „podarunku w&nbsp;formie lalki”, niezmiennie zakłopotana „dużą, niebieskooką Lalką Bobasem”: „Byłam oszołomiona samą rzeczą”. Nie mogąc zrozumieć, dlaczego wszyscy w&nbsp;Ameryce zgadzają się, że&nbsp;„niebieskooka, blondwłosa, różowoskóra lalka jest tym, co każda dziewczynka ceni najbardziej”, Claudia miała „tylko jedno pragnienie”: „rozebrać lalkę na&nbsp;kawałki”, „zobaczyć z&nbsp;czego [jest] zrobiona”, „odkryć wartość, odnaleźć piękno, atrakcyjność, która [...] [jej] umyka, lecz najwyraźniej tylko [jej]”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>. Tym, czego nie może tam znaleźć – niech będzie wolno dopowiedzieć – jest rzecz, która czyni ten przedmiot wyjątkowym; to, co czyni z&nbsp;Shirley Temple ikonę, a&nbsp;więc idea, która jest w&nbsp;rzeczywistości ideologią, inscenizującą piękno, by podtrzymać hierarchię społeczną; jest psychologią kulturową, która zmienia obiekty częściowe – blond włosy, niebieskie oczy – w&nbsp;kulturowe sacrum. Dziewczynka nie znajduje tej rzeczy, czy też idei w&nbsp;rzeczy, ponieważ znajduje się ona wszędzie i&nbsp;nigdzie. Gdyby idea tam rzeczywiście była, Claudia mogłaby wyrzucić zabawkę do śmieci, poradzić sobie z&nbsp;nią i&nbsp;przeżywać swoje dzieciństwo wyzwolona od jej władzy.</p> <p>Sama idea idei w&nbsp;rzeczach – dosłownie realizowana w&nbsp;dziecięcych poszukiwaniach – wielokrotnie ukazana została jako fantazja skazana na&nbsp;obnażenie. Inaczej niż w&nbsp;opowieści Morrison, Nadia André Bretona ubóstwia swoją córkę „w szczególności za&nbsp;to, że&nbsp;tak bardzo nie przypomina ona innych dzieci, choćby tym swoim pomysłem wydłubywania wszystkim lalkom oczu, żeby przekonać się, co tam <span class="rozstrzelony">kryje się za&nbsp;nimi</span>”<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>. W&nbsp;odróżnieniu od innych dzieci dziewczynce udaje się przyjąć przedmiot bez projektowania nań – lub weń – ożywczego ducha. Nowoczesne dziecko zaspokaja się samą powierzchnią.</p> <p>A jednak, nawet Amerykaninowi tak rozmiłowanemu w&nbsp;powierzchniach jak Whitman, zdarza się powiedzieć, że&nbsp;„pożywne jest jedynie jądro wszystkich rzeczy; / Gdzież jest ten, co je obiera z&nbsp;łusek dla ciebie i&nbsp;dla mnie?”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>. Wszak, jak przekonał się Nabokov, niemożliwe jest zagwarantowanie rzeczom ich powierzchowności i&nbsp;nieprzejrzystości – niemożliwe jest więc nieinterpretowanie ich jako przejrzystości: „Gdy zdarzy nam się skupić na&nbsp;przedmiocie materialnym, obojętnie w&nbsp;jakich okolicznościach, sam akt skupienia może doprowadzić do mimowolnego zanurzenia się w&nbsp;historię tego przedmiotu”<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>. Jednak coś więcej niż historia leży w&nbsp;jakiś sposób i&nbsp;gdzieś wewnątrz przedmiotu materializowanego przez ludzką uwagę. Przecież nie w&nbsp;twardej powierzchni dzbana, lecz w&nbsp;stwarzanej przezeń pustce Heidegger odkrywa rzeczowość rzeczy, jej ujmowanie ziemi i&nbsp;nieba, istot boskich i&nbsp;śmiertelnych<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>. To nie w&nbsp;wysmakowanej formie wazy, lecz w&nbsp;pustce stwarzanej przez wazę Lacan odkrywa Rzecz określającą pustkę w&nbsp;środku Realnego<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>. Właśnie te wewnętrzne przestrzenie – wnętrze kufra, szafy, szuflady – za&nbsp;sprawą światła Bachelarda udostępniają nam obraz i&nbsp;wyobrażenie ludzkiego wnętrza<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>.</p> <p>Potraktowana dosłownie wiara w&nbsp;to, że&nbsp;istnieją idee w&nbsp;rzeczach, oznacza przyznanie im wnętrza, a&nbsp;w ten sposób czegoś w&nbsp;rodzaju struktury podmiotowości („<span class="rozstrzelony">fragment</span> przedmiotu” – wyjaśniał Fernand Léger – „nabiera <span class="rozstrzelony">indywidualności</span>”<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup>). Sprowadza się do takiego rodzaju fetyszyzmu, który jest częścią dążenia modernizmu do uchwycenia fetyszyzmu-towarowego-jako-czegoś-codziennego: a&nbsp;więc wysiłku, by zakłócić zwyczaj przyznawania przedmiotom materialnym ich własnej wartości i&nbsp;władzy, oddzielonej od ludzkiej władzy i&nbsp;społecznych relacji, które dały tym przedmiotom istnienie i&nbsp;niezdolnej do ich ujawnienia. Tymczasem jednym ze sposobów, w&nbsp;jaki Marks próbuje wytłumaczyć fetyszyzm towarowy, jest przedstawienie idei w&nbsp;rzeczach: gdy stół „występuje <span class="rozstrzelony">jako towar</span> […] nie tylko stoi nogami na&nbsp;podłodze, ale staje na&nbsp;głowie, przeciwstawiając się wszystkim innym towarom, i&nbsp;wysnuwa z&nbsp;swej drewnianej głowy fantazje dziwniejsze, niż gdyby się puścił w&nbsp;tany”<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>. Groteskowość stołu najpełniej realizuje się bodaj w&nbsp;tym, że&nbsp;jest on w&nbsp;stanie przewidywać i&nbsp;zawłaszczać estetyczny projekt kolejnego wieku, nawet jeśli wydaje nam się, że&nbsp;śnimy. (W powieści Nabokova Hugh Person śni, „że nocny stolik, niewielki mebelek na&nbsp;trzech nóżkach [pożyczony spod telefonu w&nbsp;korytarzu] wykonuje w&nbsp;pojedynkę wściekły taniec wojenny”<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>). A&nbsp;jednak fetyszyzowana rzecz modernisty – wyłączona ze świata kultury konsumpcji, wyizolowana, na&nbsp;nowo przyciągająca uwagę, ujrzana, choć jedynie chwilowo – ma zostać wybawiona od losu produkowanego masowo przedmiotu. Zostaje ocalona od upokorzenia identyczności oraz tyranii użycia, od instrumentalnego, utylitarnego rozumu, który zdaje się największym zagrożeniem modernizmu dla ludzkości. Williams po&nbsp;raz pierwszy użył słynnej sentencji – „żadnych pojęć poza tymi, co w&nbsp;rzeczach” – we wczesnym wierszu <em>Paterson</em> napisanym w&nbsp;1926 roku. W&nbsp;tym samym czasie Henry Ford opublikował (napisany w&nbsp;rzeczywistości przez <em>ghostwritera</em>) artykuł o&nbsp;„produkcji masowej” (jednocześnie w&nbsp;„New York Timesie” i&nbsp;w Encyklopedii Britanica), w&nbsp;którym przekuł swój przemysłowy sukces na&nbsp;nową amerykańską etykę i&nbsp;opisał zagadnienie budzące zainteresowanie w&nbsp;kraju i&nbsp;za granicą. Tak więc najlepiej znany manifest poezji amerykańskiej pojawia się jako odwrócenie (a może lustrzane dopełnienie) najbardziej znanego osiągnięcia amerykańskiego przemysłu w&nbsp;dziedzinie zarządzania. W&nbsp;przyszłości manifest ten stał się refrenem epickiego <em>Patersona</em> (1946) Williamsa.</p> <p>Paul Strand, fotograf należący do tego samego świata artystycznego, nie wyobrażając sobie nigdy idei w&nbsp;rzeczach, ukazuje ten proces wyjątkowo jasno. Strand miał szczęście dorastać bawiąc się klockami Fröbla (podobnie jak Frank Lloyd Wright), uczyć się w&nbsp;liceum fotografii od Lewisa Hine’a, oglądać modernistyczne malarstwo w&nbsp;założonej przez Alfreda Stieglitza galerii 291 i&nbsp;na Międzynarodowej Wystawie Sztuki Nowoczesnej w&nbsp;1913 roku (tzw. wystawa w&nbsp;arsenale, <em>the Armory Show</em>), a&nbsp;także znaleźć się w&nbsp;grupie Stieglitza Foto-Secesja i&nbsp;na kartach pisma „Camera Work”. Podróżując przez kraj w&nbsp;1915 roku, Strand porzucił resztki piktorializmu, rozstał się z&nbsp;miękko rysującymi obiektywami i&nbsp;techniką gumy. Coraz mocniej przeczuwał, że&nbsp;właśnie w&nbsp;medium fotografii Ameryka może znaleźć swój „wyraz jako Ameryka, bez wpływu Paryża”<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>. Zahipnotyzowany płaskością Teksasu, wykonywał fotografie coraz bardziej geometryczne, co coraz bardziej podobało się pozostającemu w&nbsp;Nowym Jorku Stieglitzowi. Następnie, według własnej relacji, latem 1916 roku na&nbsp;werandzie domku Twin Lakes w&nbsp;Connecticut zaczął intensywniej eksperymentować z&nbsp;kształtami abstrakcyjnymi. Wykorzystując jakieś miski z&nbsp;kuchni jako temat – „może przedmiot byłby bardziej odpowiednim terminem”<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup> – stanął nad nimi i&nbsp;wytwarzał pierwsze abstrakcyjne fotograficzne martwe natury, które wkrótce miały ukazać się na&nbsp;kartach „Camera Work”.</p> <p>Kawałkując przedmioty, Strand pozbawił je rzecz jasna ich powiązań; uwolnił od codziennego, ludzkiego kontekstu; umożliwił im osiągnięcie formalizmu przyćmiewającego wszelką wymianę lub wartość użytkową, jaką przedmioty te mogły posiadać. Niemniej nadał im wartość estetyczną, przekształcając je w&nbsp;zarazem coś mniej (fragmenty) niż przedmioty, którymi były, jak również coś więcej (formy), odkrywając swoisty rodzaj rzeczowości przesłanianej przez ich codzienne użycie. Ponadto, niezależnie od tego, czy zgodzimy się z&nbsp;poglądem Fernanda Légera, że&nbsp;fragmentaryzowanie przedmiotu uwalnia go od wszelkiej atmosfery, choć powiększanie fragmentów nadaje im własne życie, nie możemy zaprzeczyć, że&nbsp;przedmioty na&nbsp;fotografiach Stranda, utrzymywane w&nbsp;delikatnej równowadze, w&nbsp;sposób niezwykły stały się organiczne czy też ożywione, a&nbsp;przynajmniej przekroczyły swój status ontologiczny nieożywionych przedmiotów<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup>. Jest to fotograficzna wersja wypełnienia tych przedmiotów ciepłem, ciepłem nie dłoni, lecz oka. Strand wyraźnie pokazuje, że&nbsp;choć – jak ująłby to Benjamin – fotografia uwalnia przedmioty od aury, czyniąc je reprodukowalnymi i&nbsp;dostępnymi (dzięki zniesieniu ich unikatowości), może również nadawać przedmiotom aurę, której wcześniej nie posiadały, świetlistość, która przyznaje im, nawet w&nbsp;ich niepowtarzalności, rodzaj podwójności<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup>. Opowiadając o&nbsp;fotografii misek, Strand opisuje wysiłek, by „nadać dwuwymiarowej przestrzeni trójwymiarowość tak, by oko widza patrzącego na&nbsp;zdjęcie pozostawało w&nbsp;tej przestrzeni, [wchodziło] w&nbsp;ten obraz i&nbsp;[nie] przesuwało się w&nbsp;bok” – opisuje więc staranie, by nadać samej fotografii dodatkowy wymiar, by uczynić ją w&nbsp;większym stopniu przedmiotem niż obrazem, a&nbsp;także, by samemu obrazowi przyznać wnętrze<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup>.</p> <p>Jednak literacki modernizm, porządkując podwójność właściwą przedmiotom za&nbsp;pomocą dychotomii wnętrze/zewnętrze – „żadnych pojęć poza tymi, co w&nbsp;rzeczach ” – odsłania materialność czytania, zajmowania się rzeczami – książkami – które mają w&nbsp;sobie idee. W&nbsp;jaki sposób zaś, wobec tego, że&nbsp;sama czynność czytania zdaje się zależeć od hermeneutycznego modelu powierzchni i&nbsp;głębi, krytyka literacka mogłaby oprzeć się impulsowi wejrzenia do wnętrza rzeczy, rozdarcia ich powierzchni? Georges Poulet zawsze gdy natykał się na&nbsp;pomnik, okrążał go, by znaleźć jakieś wnętrze, „wejście do tajemnej komnaty”. Jednak to pragnienie miało, jego zdaniem, źródło w&nbsp;nawyku czytania – w&nbsp;operacji, podczas której czytelnik wyjmuje książkę z&nbsp;jej „materialności” i&nbsp;„unieruchomienia”, sprawiając, że&nbsp;„przedmiot jako przedmiot” znika: „Jesteś w&nbsp;jej wnętrzu, ona jest w&nbsp;twoim wnętrzu; nie istnieje już ani zewnętrze, ani wnętrze”. Rzeczywiście, z&nbsp;tego punktu widzenia „wszechwładność literatury” realizuje się w&nbsp;tym, jak czytanie przekracza „niekompatybilność” „świadomości i&nbsp;jej przedmiotów”<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup>.</p> <p>Benjamin w&nbsp;swoich proustowskich medytacjach na&nbsp;temat pończoch podobnie opisuje czytanie. Przedstawia siebie jako dziecko otwierające komodę z&nbsp;bielizną, by rozpocząć przygodę sięgania ku najdalszym zakątkom po&nbsp;pończochy, zwinięte w&nbsp;tradycyjny sposób: „Nic nie sprawiało mi większej przyjemności niż zanurzanie rąk wyciągniętych możliwie najdalej [...] W&nbsp;zrolowanym wnętrzu trzymałem w&nbsp;dłoni »przyniesione« [raczej: posiadane, <em>Das Mitgebrachte</em> – przyp. tłum.], które mnie w&nbsp;ten sposób wciągało w&nbsp;głąb”. Jednak odzyskawszy „posiadanie” wewnątrz skarpety – „miękkiej, wełnianej masy” – rozwinąwszy ją z&nbsp;wełnianego zawiniątka, zdziwiony odkrywa, że&nbsp;zawiniątko zniknęło. „Nigdy dość było mi prób w&nbsp;kwestii tej zagadkowej prawdy: że&nbsp;forma i&nbsp;treść, otoczka i&nbsp;otaczane, „przyniesione” [posiadane – dopisek tłum.] i&nbsp;torebka są jednym i&nbsp;tym samym. […] Mam skłonność domyślać się w&nbsp;tej sztuczce […] odpowiednika bajek [literatury, <em>Dichtung </em>– dopisek tłum.]”<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup>. W&nbsp;świetle tego wszystkiego, twierdzenie Pouleta o&nbsp;władzy literatury, podobnie jak morał kompulsywnie powtarzanego eksperymentu Benjamina (jego własnej wersji zabawy <em>fort/da</em>) ilustruje pokonywanie dychotomii powierzchni i&nbsp;głębi głęboko w&nbsp;niej samej. Niezależnie od tego, jak interesujące może być wnętrze, wyrafinowany umysł sprawi, że&nbsp;ono zniknie.</p> <p>Jeśli idea duchowego wnętrza przedmiotu wydaje się tak dziecinna i&nbsp;jeśli przekonanie o&nbsp;istnieniu idei w&nbsp;rzeczach najlepiej mają ilustrować relacje dzieci, to dzieje się tak być może dlatego, że&nbsp;zdajemy sobie sprawę, iż&nbsp;sama idea rzeczy używa całej swej mocy jedynie w&nbsp;opozycji do idei obrazów i&nbsp;wrażeń lub też, przede wszystkim, idei. Jak schematycznie ujął to Leo Stein: „Rzeczy są tym, co napotykamy, idee tym, co projektujemy”<sup><a href="#sdfootnote45sym" name="sdfootnote45anc">45</a></sup>. Jak to więc możliwe, że&nbsp;fantazja tego rodzaju – fantazja idei w&nbsp;rzeczach – podtrzymuje jedną z&nbsp;odmian amerykańskiego modernizmu?</p> <p>Rzecz jasna, odpowiedź jest taka, że&nbsp;udosłownienie manifestu Williamsa kłóci się z&nbsp;jego własną praktyką poetycką przedstawiania rzeczy – „czerwonej / taczki” (<em>a red wheel / barrow</em>) – w&nbsp;ich nieprzejrzystości. „Żadnych pojęć poza tymi, co w&nbsp;rzeczach” – powinniśmy to czytać jak omsknięcie pióra: żądanie zastąpienia abstrakcji fizycznym konkretem, mimowolnie przyznające przedmiotom wnętrze. Tymczasem Williams zamierzał wydrążyć przedmioty z&nbsp;ich wnętrz i&nbsp;uchwycić ich podwójność, niezwykłą zdolność do bycia rzeczami i&nbsp;znakami czegoś innego (symbolami, metonimiami i&nbsp;metaforami). Z&nbsp;jednej strony omsknięcie to można interpretować jako oznakę ograniczenia języka, bo&nbsp;jak inaczej tak zwięźle ująć tę kwestię – „żadnych pojęć poza tymi, co w&nbsp;rzeczach”? Z&nbsp;drugiej jednak, można je interpretować jako znacznik granicy, na&nbsp;której kończy się dążenie modernizmu, by przystawać na&nbsp;nieprzejrzystość, zadowalać się zaledwie powierzchnią. Na&nbsp;przykład w&nbsp;tekście na&nbsp;temat rzeczy z&nbsp;1916 roku Max Weber twierdził, że&nbsp;„kultura nastanie, gdy każdy człowiek zrozumie, jak odnosić siebie do prostych nieożywionych rzeczy [napotykanych] w&nbsp;życiu. Dzbanka, kubka, skrawka płótna, krzesła,...”. Dalej pisał jednak, że&nbsp;„kultura nastanie, gdy ludzie dotkną rzeczy miłością i&nbsp;ujrzą je penetrującym okiem”, by zakończyć podkreślając, że&nbsp;„jedynie za&nbsp;pomocą rzeczy człowiek dostrzega siebie”<sup><a href="#sdfootnote46sym" name="sdfootnote46anc">46</a></sup>. To, co początkowo wydaje się próbą zaakceptowania rzeczy i&nbsp;ich fizycznej istoty, zmienia się w&nbsp;dążenie do ich penetrowania, patrzenia przez nie, znalezienia... w&nbsp;przedmiocie... podmiotu.</p> <p>To właśnie tam, w&nbsp;tym ograniczeniu, modernizm, niezależnie od swoich intencji, jest w&nbsp;stanie zwrócić uwagę nie tylko na&nbsp;rzeczy jako takie, lecz także na&nbsp;miejsce zajmowane przez rzeczy w&nbsp;życiu codziennym; na&nbsp;miejsce zajmowane, jeśli wolicie, w&nbsp;historii człowieka; na&nbsp;presję wywieraną przez rzeczy, byśmy brali je za&nbsp;coś więcej niż tylko powierzchnię. Idea idei w&nbsp;rzeczach zobrazowana dosłownie prowokuje pytania nieodłączne od kwestii nowoczesnych losów przedmiotu w&nbsp;Ameryce, a&nbsp;więc zarówno historii produkcji, dystrybucji i&nbsp;konsumpcji, jak i&nbsp;złożonej roli, jaką odgrywały w&nbsp;życiu Amerykanów. Jakie pragnienia pobudzały? Jakie fantazje wywoływały? Jakie ekonomie nadawały im nową wartość? Jakie epistemologie nadawały im znaczenie? Jak dziś zwracamy się ku przedmiotom, by nas reprezentowały, zaspokajały, by nam pomagały i&nbsp;by nas zmieniały? Czy dziś gromadzimy przedmioty, by być blisko przeszłości, włączyć przeszłość w&nbsp;nasze życia codzienne, czy też, by oddalić się od niej, uprzedmiotowić ją (jak ideę w&nbsp;rzeczy), dążąc do uchwycenia jej widmowej władzy? Dlaczego dziś łapiemy się na&nbsp;tym, że&nbsp;rozmawiamy z&nbsp;rzeczami – samochodem, komputerem, lodówką? Czy przyznajemy moc sprawczą przedmiotom nieożywionym, bo&nbsp;chcemy zrzucić odpowiedzialność z&nbsp;siebie? Czy też dlatego, że&nbsp;chcemy podkreślić, jak bardzo przytłacza nas materialne otoczenie? Może po&nbsp;prostu dlatego, że&nbsp;jesteśmy samotni? A&nbsp;może dlatego, że&nbsp;w&nbsp;odróżnieniu od dzieci nie mamy zabawek, z&nbsp;którymi moglibyśmy rozmawiać?</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Tłumaczenie fragmentu wstępu książki Billa Browna, <em>A Sense of Things. The Object Matter of American Literature</em>, The University of Chicago Press, Chicago–London 2003, s. 1–12. Skrócono przypisy. Redakcja dziękuje autorowi i wydawnictwu za zgodę na publikację.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Mark Baldwin, <em>The Origin of a „Thing” and its Nature</em>, „The Psychological Review” 1895, nr 2, s. 551–552.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Louis Zukofsky, <em>„A”</em>, University of California Press, Berkeley 1978, s. 61.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Mark Baldwin, <em>The Origin of a „Thing”...</em>, s. 552.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Theodor W. Adorno, <em>Dialektyka negatywna</em>, przeł. K. Krzemieniowa, Państwowe Wydawnictwo Naukowe, Warszawa 1986, s. 193, 258.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Georg W.F. Hegel, <em>Postrzeżenie, czyli rzecz i złudzenie</em>, w: idem, <em>Fenomenologia ducha</em>, t. I, przeł. A. Landan, Państwowe Wydawnictwo Naukowe, Warszawa 1963, s. 130–150.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> William Carlos Williams, <em>A Novelette</em>, w: idem, <em>Imaginations</em>, New Directions, New York 1970, s. 295-296.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Theodor W. Adorno, <em>Dialektyka negatywna</em>…, s. 267, 271.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Tłumaczenie tytułowego wiersza <em>Wiosna i wszystko</em> ukazało się w: William Carlos Williams, S<em>późniony śpiewak</em>, przeł. J. Hartwig, Biuro Literackie, Wrocław 2009, s. 66–67 [przyp. tłum.].</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> William Carlos Williams, <em>Spring and All</em>, w: <em>Imaginations…</em>, 110.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Ibidem, s. 112.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> William Carlos Williams, <em>A Novelette…</em>, s. 295-296. Innymi słowy Willams odchodzi od projektu udoskonalenia percepcji ku projektowi wypracowania nowej formy wytwarzania. Zob. Donald W. Markos, <em>Ideas in Things. The Poems of William Carlos Williams</em>, Farleigh Dickinson University Press, Rutherford 1994, s. 121–131.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Ralph Waldo Emerson, <em>Natura</em>, przeł. M. Filipczuk, Wydawnictwo Zielona Sowa, Kraków 2005, s. 33.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Georges Bataille, <em>Część przeklęta oraz ekonomia na miarę wszechświata</em>, przeł. K. Jarosz, Wydawnictwo KR, Warszawa 2002, s. 147, 139.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Catherine Gallagher, Stephen Greenblatt, <em>Practicing New Historicism</em>, University of Chicago Press, Chicago 2000, s. 54. Michael Serres, <em>Statues</em>, François Bourin, Paris 1987, s. 111.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Określenie <em>social text</em> może także w tym przypadku odnosić się do konkretnej grupy badaczy skupionych wokół wydawanego przez Duke University Press pisma „Social Texts”, a więc między innymi Frederica Jamesona, Edwarda Saida i Judith Butler [przyp. tłum.].</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Theodor W. Adorno, <em>Dialektyka negatywna</em>…, s. 50.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a><em>The Social Life of Things. Commodities in Cultural Perspective</em>, red. A. Appadurai, Cambridge University Press, New York 1986; <em>History from Things. Essays on Material Culture</em>, red. S. Lubar, W.D. Hingery, Smithsonian Institution Press, Washington 1993; <em>The Sex of Things. Gender and Consumption in Historical Perspective</em>, red. V. de Grazia, University of California Press, Berkeley 1996; <em>Material Cultures. Why Some Things Matter</em>, red. D. Miller, University of Chicago Press, Chicago 1998. Zob. także: Mihaly Csikszentmihalyi, Eugene Rochberg-Halton, <em>The Meaning of Things. Domestic Symbols and the Self</em>, Cambridge University Press, New York 1981; <em>Experiencing Material Culture in the Western World</em>, red. S.M. Pearce, Leicester University Press, London, 1997; Michael Taussig, <em>Mimesis and Alterity. A Particular History of the Senses</em>, Routledge, New York 1993; Daniel Tiffany, <em>Toy Medium.</em><em> Materialism and Modern Lyric</em>, University of California Press, Berkeley 2000; Miguel Tamen, <em>Friends of Interpretable Objects</em>, Harvard University Press, Cambridge 2001; <em>Things</em>, red. B. Brown, numer specjalny „Critical Inquiry” (jesień 2001).</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Albert S. Bolles, <em>The Financial History of the United States, from 1861 to 1885</em>, D. Appleton and Company, New York 1886, s. 446.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Henry James, <em>Dom na placu Waszyngtona</em>, przeł. M. Skroczyńska-Miklaszewska, Świat Książki, Warszawa 2009, s. 31.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Alfred D. Chandler Jr., T<em>he Visible Hand. The Managerial Revolution in American Business</em>, Belknap Press, Cambridge 1977, s. 235. Zob. część III, s. 207–284.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Zob. Richard Ohmann, <em>Selling Culture. Magazines, Markets, and Class at the Turn of the Century</em>, Verso, New York 1996.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Brak autora, <em>The Contributor's Club. The Tyranny of Things</em>, „Atlantic Monthly”, nr 1906, nr 97 (maj), s. 716.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> William James, <em>A Pluralistic Universe</em>, Harvard University Press, Cambridge, Mass. 1977, s. 97.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Herman Melville, <em>Moby Dick</em>, t. II, przeł. B. Zieliński, Czytelnik, Warszawa 1971, s. 220-221.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Charles Baudelaire, <em>Morał zabawek</em>, w: idem, <em>Rozmaitości estetyczne</em>, przeł. J. Guze, słowo/obraz terytoria, Gdańsk 2000, s. 202.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Walter Benjamin, <em>Russian Toys</em>, przeł. G. Smith, w: idem, <em>Moscow Diary</em>, Harvard University Press, Cambridge, Mass. 1986, s. 123. Polskie wydanie (<em>Dziennik moskiewski,</em> przeł. B. Baran, Wydawnictwo Aletheia, Warszawa 2012) nie zawiera tego krótkiego tekstu [dopisek tłum.].</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Toni Morrison, <em>The Bluest Eye</em>, Rinehart and Winston, New York 1972, s. 20–21.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> André Breton, <em>Nadia</em>, przeł. J. Waczków, Oficyna Literacka, Kraków 1993, s. 32.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Walt Whitman, <em>Pieśń ze szlaku</em>, w: idem, <em>Źdźbła trawy. Poezje wybrane</em>, przeł. K. Poborska, PIW, Warszawa 1966, s. 88.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Vladimir Nabokov, <em>Przejrzystość rzeczy</em>, przeł. A. Demkowska-Bohdziewicz, PIW, Warszawa 1982, s. 16.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Martin Heidegger, <em>Rzecz</em>, w: idem, <em>Odczyty i rozprawy</em>, przeł. J. Mizera, Wyd. Baran i Suszczyński, Kraków 2002, s. 145–164.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Jacques Lacan, <em>The Ethics of Psychoanalysis 1959–1960. The Seminar of Jacques Lacan. Book VII</em>, przeł. D. Porter, W.W. Norton, New York 1992 [wyd. oryg. <em>L'éthique de la psychanalyse</em>, Seuil, Paris 1986].</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Gaston Bachelard, <em>The Poetics of Space</em>, przeł. M. Jolas, Beacon Press, Boston 1994, s. 74–89. Tłumaczenie innego fragmentu książki <em>La poétique de l'espace</em>: Gaston Bachelard, <em>Poetyka przestrzeni (wybór),</em> w: idem, <em>Wyobraźnia poetycka. Wybór pism</em>, przeł. H. Chudak, A. Tatarkiewicz, PIW, Warszawa 1975 [dopisek tłum.].</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Fernand Léger, <em>W związku z „</em><em>Baletem mechanicznym”</em>, w: idem, <em>Funkcje malarstwa</em>, przeł. J. Guze, Państwowy Instytut Wydawniczy, Warszawa 1970, s. 194.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> Karol Marks, <em>Kapitał. Krytyka ekonomii politycznej</em>, t. I, Wyd. Książka i Wiedza, Warszawa 1951, s. 76.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> Vladimir Nabokov, <em>Przejrzystość rzeczy</em>…, s. 32.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> Paul Strand, <em>Photography</em>, „Camera Work” 1917, nr 49/50, s. 4.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a> Paul Strand, cyt. za: Maria Morris Hambourg, <em>Paul Strand, Circa 1916</em>, Metropolitan Museum of Art, New York 1998, s. 32.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a> Fernand Léger, <em>W związku z „</em><em>Baletem mechanicznym</em>”…, s. 194.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a> Walter Benjamin, <em>Mała historia fotografii</em>, przeł. K. Krzemieniowa, w: idem, <em>Anioł historii. Eseje, szkice, fragmenty</em>, wyb. i oprac. H. Orłowski, Wydawnictwo Poznańskie, Poznań 1996, s. 116–117.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a> Paul Strand, cyt. za: Maria Morris Hambourg, <em>Paul Strand, Circa 1916</em>…, s. 34.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a> Georges Poulet, <em>Criticism and the Experience of Interiority</em>, w: <em>The Structuralist Controversy. The Languages of Criticism and Sciences of Man</em>, red. R. Macksey, E. Donato, The Johns Hopkins Press, Baltimore 1970, s. 57.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a> Walter Benjamin, <em>Berlińskie dzieciństwo na przełomie wieków</em>, przeł. B. Baran, Wydawnictwo Aletheia, Warszawa 2010, s. 125–126.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a> Leo Stein, <em>The A-B-C of Aesthetics</em>, Boni &amp; Liveright, New York 1927, s. 44.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a> Max Weber, <em>Essays on Art</em>, William Edwin Rudge, New York 1916, s. 32, 36.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/idea-rzeczy-i-idee-w-rzeczach" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

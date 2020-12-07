@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Laboratorium ciała | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2015/laboratorium-ciala">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Laboratorium ciała | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Laboratorium ciała | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2015/laboratorium-ciala">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Laboratorium ciała | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #606 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #606 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #606 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #606 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #606 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #606 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #606 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #606 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(102,0,102,0.8) !important; */
+			/* background-color:#606 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(102,0,102,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#606 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(102,0,102,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#606; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(102,0,102,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(102,0,102,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#606 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#606 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#606 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1146 parent-id-1015">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="432" data-selected-issue-color="#606" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/9-warsaw-moscow.-monuments-of-transition#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/9-warsaw-moscow.-monuments-of-transition/laboratory-of-the-body">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2015/warszawa-moskwa.-pomniki-transformacji#toc">9</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2015/laboratorium-ciala?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Laboratorium ciała</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2015/laboratorium-ciala?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=1145">Izabela Szymańska</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2><em>Let’s Dance</em>, Galeria Art Stations, Stary Browar, Poznań, 20 czerwca – 18 października 2015, kuratorzy: Joanna Leśnierowska, Tomasz Plata, Agnieszka Sosnowska</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3749-1-pb-1920x-ffd.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3749-1-pb-330x-78c.jpg 330w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3749-1-pb-660x-f33.jpg 660w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3749-1-pb-768x-655.jpg 768w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3749-1-pb-1320x-99e.jpg 1320w" src="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3749-1-pb-660x-f33.jpg" alt="" ></a>    <figcaption><p>Yvonne Rainer, Trio Film, 1968, z&nbsp;cyklu Five Easy Pieces. Kadr filmu, czas trwania: 13:00, czarno-biały, niemy, 16mm © Artystka, dzięki uprzejmości Video Data Bank, www.vdb.org</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Naga kobieta i&nbsp;nagi mężczyzna siedzą na&nbsp;kanapie. Między nimi duży balon. Przerzucają się nim; ich ciała są swobodne, rozluźnione. Zdaje się, że&nbsp;postaci nie krępuje ani nagość, ani kamera, która wszystko rejestruje. To jedna z&nbsp;pierwszych prac, jakie widzimy na&nbsp;wystawie <em>Let’s dance</em>. Kobietą jest Yvonne Rainer, mężczyzna to Steve Paxton. Praca nazywa się <em>Trio Film</em> i&nbsp;pochodzi z&nbsp;1968 roku. Gdyby nie rewolucja, jaką wywołało ich pokolenie, nie byłoby dziś ani Beyoncé, ani Artura Żmijewskiego, ani politycznych pokazów mody. Twórcy kontrkultury pozbawili ciało teatralności. W&nbsp;swoich przedstawieniach wykorzystywali ruch zaczerpnięty z&nbsp;życia codziennego, znosili granicę między performerem/performerką a&nbsp;widzem. Postawili na&nbsp;improwizację, poszukiwanie tego, co pierwotne i&nbsp;autentyczne w&nbsp;ciele i&nbsp;w ruchu, tego, co mógł wywołać przypadek. Słowem, rozpoczęli wyzwolenie ciała przez całą nowoczesność trenowanego i&nbsp;tresowanego, by mogło być społecznie uznane za&nbsp;cywilizowane; by znalazło swoją właściwą formę. Po&nbsp;wiekach panowania sztuki baletowej, a&nbsp;nawet XX-wiecznego <em>modern dance</em>, którego technika jest skodyfikowana na&nbsp;wzór baletu, rozpoczęty w&nbsp;latach 60. <em>post-modern dance</em> był wręcz kopernikańską rewolucją. Tym silniejszą, że&nbsp;obejmowała ona wówczas wiele dziedzin sztuki, nie tylko taniec, ale i&nbsp;stworzony wtedy performens, wideoart, teatr – w&nbsp;Polsce zwłaszcza ten spoza głównego, repertuarowego nurtu.</p> <h2>1.</h2> <p>Na przestrzeni wieków sformułowano setki definicji tańca. Wykładowcy Warszawskiego Uniwersytetu Muzycznego podczas zajęć z&nbsp;teorii tańca dość zgodnie przychylają się do ujęcia zaproponowanego przez Curta Sachsa w&nbsp;latach 30. XX wieku, uzupełnionego później przez Roderyka Langego – taniec to intencjonalnie uporządkowany rytmicznie ruch, którego celem nie jest wykonanie pracy w&nbsp;sensie fizycznym. Definicja ta ma już swoje lata, sądzę jednak, że&nbsp;znają ją raczej specjaliści niż widzowie. Dowodzą tego interakcje podczas spektakli tanecznych. W&nbsp;2011 roku na&nbsp;festiwalu w&nbsp;Avignonie Xavier Le Roy pokazał przedstawienie <em>Low pieces</em>. Rozpoczyna je scena, podczas której twórcy siedzą w&nbsp;dresach i&nbsp;zapraszają widzów do rozmowy. Chcą, żeby to publiczność podała temat dyskusji. Na&nbsp;spektaklu, który oglądałam, spodziewałam się ciszy, zblazowanej obojętności. Jednak widzowie zareagowali, i&nbsp;to dość ostro. „My wiemy, po&nbsp;co przychodzimy do teatru. Skoro prosicie nas o&nbsp;temat rozmowy, to czy sami wiecie, w&nbsp;jakim celu wychodzicie na&nbsp;scenę?” – padło pierwsze pytanie, wręcz oskarżenie. Kolejne były podobne w&nbsp;tonie: „Chcę spektaklu tańca, więc oczekuję, że&nbsp;zakręcisz piruet”.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3751-1-pb-1920x-9cb.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3751-1-pb-330x-230.jpg 330w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3751-1-pb-660x-9a5.jpg 660w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3751-1-pb-768x-370.jpg 768w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3751-1-pb-1320x-4b4.jpg 1320w" src="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3751-1-pb-660x-9a5.jpg" alt="" ></a>    <figcaption><p>Widok wystawy, fot. Bartek Buòko dla Art Stations Foundation</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Te reakcje wzbudziły we mnie podejrzenie, że&nbsp;między twórcami a&nbsp;widzami jest jakaś luka, wyrwa, która utrudnia porozumienie. Przygotowana przez Joannę Leśnierowską, Tomasza Platę i&nbsp;Agnieszkę Sosnowską wystawa każe mi myśleć, że&nbsp;źródła tego rozdźwięku sięgają właśnie lat 60., czyli momentu, w&nbsp;którym tancerze zrezygnowali z&nbsp;„tańca”. Tu właśnie kuratorzy umieścili pierwszy kamień milowy rozwoju tańca ponowoczesnego. Choć od lat 70. tworzyła choćby tak wielka postać w&nbsp;historii tańca jak Pina Bausch, nie zobaczymy jej prac na&nbsp;<em>Let’s dance</em>. Jeśli dobrze rozumiem, wynika to stąd, że&nbsp;w&nbsp;teatrze tańca zbyt wiele jest teatru: narracyjności, opowiadania o&nbsp;emocjach za&nbsp;pomocą ciała, zamiast wywodzenia ich z&nbsp;ciała. Opowieści Bausch wychodzą ze wspomnień, doznań i&nbsp;mają człowieka niejako afirmować, docierać do prawdy o&nbsp;nim za&nbsp;pośrednictwem pięknej, eleganckiej formy: mężczyźni w&nbsp;garniturach, kobiety w&nbsp;długich sukniach i&nbsp;z długimi włosami, a&nbsp;w ruchu namiętność, lecz także klasa, szyk. Przypomina to z&nbsp;ducha balet, mimo że&nbsp;choreografka wywodziła się z&nbsp;tradycji niemieckiego <em>modern dance</em>, tańca ekspresjonistycznego.</p> <p>Propozycja kuratorów wystawy skupia się jednak na&nbsp;<em>post-modern dance</em> i&nbsp;jego kontynuatorach, prace są zdecydowanie bardziej surowe i&nbsp;w efekcie wspomnianej we wstępie rezygnacji z&nbsp;teatralności – scenografii, kostiumu, czasami też świateł i&nbsp;muzyki – szukają prawdy o&nbsp;człowieku w&nbsp;ciele. Kuratorzy wychodzą w&nbsp;swojej narracji od tych, którzy postawili na&nbsp;„ubogość teatru”, pokazują ciało, a&nbsp;zamiast emocji bohaterów – kolażową grę skojarzeń czy artystyczne interwencje polityczne. Decydując się na&nbsp;tę perspektywę, konsekwentnie prezentują krok po&nbsp;kroku rozwój tak rozumianego tańca i&nbsp;jego wpływ na&nbsp;inne sfery kultury.</p> <p>Wróćmy do lat 60. To wówczas Steve Paxton stworzył kontakt improwizację, a&nbsp;Yvonne Rainer <em>No manifesto</em> – artystyczny dekalog negujący teatralno-taneczne przyzwyczajenia; zaczęto używać biegu jako tańca (jak często to dziś powraca!) i&nbsp;zadań (<em>tasks</em>) jako choreografii. Twórcy wprowadzili codzienne zachowania na&nbsp;scenę, skierowali uwagę ze sceny na&nbsp;widownię i&nbsp;na jej „prywatny” alfabet ruchu. Była to część wielkiej, kontrkulturowej rewolucji, która stopniowo zaczęła wyzwalać ciało.</p> <p>Na polskim gruncie tego nurtu nie zobaczymy jeszcze przez dziesiątki lat – Polski Teatr Tańca powstał w&nbsp;1973 roku, ale właściwie posługiwał się formą neoklasyczną; taniec współczesny na&nbsp;dobre zaczął się u&nbsp;nas rozwijać dopiero po&nbsp;1989 roku, kiedy twórcy mieli szansę zapoznać się z&nbsp;inną techniką tańca niż obowiązujący w&nbsp;całym bloku wschodnim balet. Jednak nawet powstałym w&nbsp;latach 90. grupom bliżej do Piny Bausch niż Yvonne Rainer. Większość z&nbsp;nich nazwała się teatrem tańca i&nbsp;wywodziła z&nbsp;pantomimy czy baletu. Dopiero w&nbsp;twórczości najmłodszego pokolenia polskich artystów działających od początku nowego stulecia oraz w&nbsp;sztukach wizualnych pojawiają się nowe wątki i&nbsp;formy.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3757-1-pb-1920x-5c8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3757-1-pb-330x-818.jpg 330w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3757-1-pb-660x-738.jpg 660w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3757-1-pb-768x-5c5.jpg 768w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3757-1-pb-1320x-682.jpg 1320w" src="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3757-1-pb-660x-738.jpg" alt="" ></a>    <figcaption><p><a href="http://artmuseum.pl/pl/filmoteka/praca/akademia-ruchu-czuwanie-ii" target="_blank" rel="noopener">Akademia Ruchu, Czuwanie II, 1977, z&nbsp;archiwum Filmoteki MSN</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Zapewne dlatego kuratorzy <em>Let’s dance</em> rainerowskiej strategii szukali poza tańcem – i&nbsp;dopatrzyli się jej w&nbsp;pracach Akademii Ruchu. Inaczej jednak niż amerykańska artystka grupa ta za&nbsp;scenę obrała sobie miasto, szczególnego rodzaju niedemokratyczną przestrzeń publiczną. Rejestracje ich akcji znalazły się na&nbsp;wystawie w&nbsp;jej drugiej części, zatytułowanej „Minimalne przesunięcia”. <em>Potknięcie</em> jest ingerencją w&nbsp;przestrzeń właściwie niezauważalną; większość przechodniów pewnie nie dostrzegła, że&nbsp;grupa artystów, jeden po&nbsp;drugim, wykonuje, „cytuje” gesty z&nbsp;repertuaru codziennego ruchu, a&nbsp;więc to, co <em>de facto</em> robi każdy. <em>Czuwanie II</em> jest już dużo bardziej wyraziste; przypomina wypoczynek na&nbsp;piasku, lecz odbywa się w&nbsp;mieście, na&nbsp;płytach chodnikowych. „Kto by pomyślał, że&nbsp;w&nbsp;centrum miasta można poleżeć w&nbsp;hamaku, na&nbsp;luzie, bez stresu. Kiedyś coś takiego było nie do zaakceptowania, ot tak, się rozłożyć w&nbsp;hamaku. A&nbsp;teraz, proszę, leżę sobie” – mówiła Elżbieta Buczkowska, emerytowana nauczycielka w&nbsp;reportażu Wojciecha Karpieszuka z&nbsp;„Magazynu Gazety Stołecznej” opisującym plac Defilad podczas lata 2015<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a>. Ta być może naiwna reakcja pokazuje zaskoczenie wynikające z&nbsp;przemiany obecności ciała w&nbsp;mieście. W&nbsp;latach 60. przeniesienie prywatnego ruchu do przestrzeni publicznej, czyli leżenie, było gestem politycznym, oznaką oporu. Dziś to wyraz swobody, podporządkowania sobie, swoim potrzebom miasta, zawłaszczenie nawet najbardziej politycznie nacechowanej przestrzeni. Czy dzisiejsze działania w&nbsp;przestrzeni publicznej byłyby możliwe, gdyby nie kontrrewolucja i&nbsp;akcje Akademii Ruchu? Lata 60. wydają się bramą, przez którą wchodzimy do tego, co nazywam, laboratorium ciała. Teraz już można sprawdzać w&nbsp;nim i&nbsp;za jego pomocą wszystko.</p> <h2>2.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3753-1-pb-1920x-a27.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3753-1-pb-330x-8e2.jpg 330w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3753-1-pb-660x-af5.jpg 660w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3753-1-pb-768x-0a1.jpg 768w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3753-1-pb-1320x-4fc.jpg 1320w" src="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3753-1-pb-660x-af5.jpg" alt="" ></a>    <figcaption><p>Widok wystawy, fot. Bartek Buòko dla Art Stations Foundation</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Trzecia część wystawy może sugerować, że&nbsp;za tą bramą mieści się zarówno raj, jak i&nbsp;piekło. „Ekstaza i&nbsp;udręka” jest podróżą prowadzącą od wybiegów mody przez spektakle Jerome’a Bela do teledysków – a&nbsp;jednocześnie przez morze czasu (dwie godziny) kakofonii dźwięków. Część wideo można usłyszeć tylko w&nbsp;słuchawkach, część, i&nbsp;to tę najgłośniejszą – w&nbsp;całej sali.</p> <p>Duże wrażenie robi pokaz wiosennej kobiecej kolekcji Ricka Owensa z&nbsp;2014 roku. Podczas Paryskiego Tygodnia Mody jego stroje prezentowały nie modelki, lecz tancerki z&nbsp;zespołów hip-hopowych. Poza podłużną sceną nic nie funkcjonuje tu tak, jak na&nbsp;pokazie mody. Kobiety się nie uśmiechają – na&nbsp;ich twarzach rysuje się wściekłość, wściekłość osób doświadczonych przemocą. Są postawne, noszą ciężkie buty i&nbsp;grube stroje. Idą na&nbsp;mocno ugiętych nogach, chwilami są frontem do kamery, dalej w&nbsp;dwóch liniach przodem do siebie, potem linie przeplatają się, a&nbsp;one zmieniają pozycję. Metronomiczność i&nbsp;głośne stawianie kroków w&nbsp;rytm klubowej muzyki daje wrażenie wojskowego przemarszu, mamy więc poczucie, że&nbsp;kroczy ich więcej niż w&nbsp;rzeczywistości. Ta wciśnięta w&nbsp;kąt sali praca pokazuje, jak silnie – właśnie dzięki choreografii – może zaistnieć przekaz polityczny, kiedy na&nbsp;wybieg (kulturowo zarezerwowany dla odrealnionych ikon piękności) wejdą osoby, dla których głównym tematem występu nie jest przedstawienie czyjegoś konceptu estetycznego, lecz targających nimi emocji: wściekłości, bólu, uwikłania w&nbsp;walkę, w&nbsp;rytuał, z&nbsp;którego nie ma wyjścia. To próba rozepchnięcia formy, jaką jest pokaz mody z&nbsp;jednej strony, z&nbsp;drugiej kobiecość w&nbsp;popkulturze. Kiedy spojrzymy na&nbsp;prezentacje kreacji z&nbsp;lat 50., sprzed kontrkulturowej rewolucji, zobaczymy postaci przechadzające się po&nbsp;wybiegu niemal jak ożywione manekiny, w&nbsp;ciasnej formie ruchowej, z&nbsp;małym zakresem gestów, jakby trzymane były przez niewidzialny gorset – to kobiety, które miały wyrażać czystą elegancję i&nbsp;ducha. Widzowie patrzyli na&nbsp;ich ciała, mieli jednak ich niejako nie dostrzegać, nie zauważać tego, co ciało ze sobą niesie, co mówi o&nbsp;kondycji psychicznej, społecznej i&nbsp;politycznej człowieka. Do dziś jest to główny i&nbsp;przytłaczający sposób prezentacji mody. Dlatego tak mocne wrażenie wywarła na&nbsp;mnie praca Owensa, wywracająca zasady targowiska próżności, jakim pozostają tygodnie mody.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2XY3AvVgDns?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>       </div>  </section><section class="u-typo">   <p>W kilku pracach powraca problem nadmiaru. Twórcy często pokazują bezradność współczesnego artysty/artystki, którzy chcieliby dziś stworzyć coś oryginalnego i&nbsp;zarazem dyskutują z&nbsp;tym pojęciem. Jak Frédéric Gies w&nbsp;<em>Dance (Practicable)</em>, który tańcząc do piosenki Madonny i&nbsp;wykorzystując dziesiątki choreograficznych inspiracji, podejmuje temat oryginalności i&nbsp;wspólnego autorstwa stylów tanecznych. Choć teledysk do piosenki Beyoncé <em>Countdown</em> (reż. Adria Petty, 2011) w&nbsp;zamyśle nie miał być polemiczny, wywołał niemałe poruszenie. Obszerne cytowanie (co przez niektórych zostało nazwane wręcz plagiatem) fragmentów spektaklu <em>Rosas danst Rosas</em> (1983) i&nbsp;<em>Achterland</em> (1990) Anny Teresy De Keersmaeker czy ujęć z&nbsp;wizerunkami Audrey Hepburn z&nbsp;filmu <em>Zabawna buzia</em> (<em>Funny Face</em>, reż. Stanley Donen, 1957) kazało postawić pytanie o&nbsp;granice cytowalności czy też przechwytywania. Czy w&nbsp;kulturze przetwarzania można wszystko? Czy i&nbsp;w jakim zakresie powinno określać to prawo autorskie? Na&nbsp;ile odtwarzanie choreografii sprzed kilku dekad ma sens i&nbsp;co oznacza? Początkowo zareagowałam oburzeniem: jak można tak bezceremonialnie skopiować czyjąś pracę? Wydawało mi się to wyrazem lekceważenia wobec twórcy oryginału – skopiowano przecież nie tylko ruch, ale też sposób filmowania, przestrzeń; upodobniono kostiumy, słowem, przeniesiono fragment rejestracji – ale też wobec widzów, w&nbsp;nadziei że&nbsp;nie zauważą wtórności. Ale przecież kultura popularna nieustannie przetwarza swoje wytwory i&nbsp;wytwory tzw. kultury wysokiej: przerabianie konwencji, zabawy wizerunkami, zapośredniczenia i&nbsp;przeróbki są na&nbsp;porządku dziennym. Wystarczy choćby wspomnieć niedoścignionego mistrza tej strategii, jakim jest Quentin Tarantino.</p> <p>Na wystawie innym przykładem tej strategii jest praca <em>1973</em> Massima Furlana. W&nbsp;przedstawieniu z&nbsp;2010 roku odegrał on występy z&nbsp;konkursu Eurowizji z&nbsp;1973, wykorzystując cytowanie ruchu do zademonstrowania stosunku do ciała charakterystycznego dla lat 70. i&nbsp;pokazania jego ograniczeń – widać to zarówno w&nbsp;stroju, jak i&nbsp;konwencji estradowej, mającej podkreślać przede wszystkim elegancję i&nbsp;blichtr.</p> <h2>3.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3758-1-pb-1920x-eec.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3758-1-pb-330x-518.jpg 330w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3758-1-pb-660x-117.jpg 660w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3758-1-pb-768x-c0d.jpg 768w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3758-1-pb-1320x-1e2.jpg 1320w" src="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3758-1-pb-660x-117.jpg" alt="" ></a>    <figcaption><p><a href="http://artmuseum.pl/pl/filmoteka/praca/zmijewski-artur-krwp?age18=true" target="_blank" rel="noopener">Artur Żmijewski, KR WP, 2000, z&nbsp;archiwum Filmoteki MSN</a></p></figcaption>   </figure>  </section><section class="u-typo">   <p>„Udręka i&nbsp;ekstaza” to tytuł niemal biblijny: przez udrękę dojdziesz do ekstazy – zdaje się mówić napis otwierający czwartą część wystawy. Potwierdza to wiele prac umieszczonych pod&nbsp;tym szyldem. Jesse Aron Green w&nbsp;<em>Ärztliche Zimmergymnastik</em> (2008) wykorzystuje jako partyturę zestaw ćwiczeń z&nbsp;popularnej XIX-wiecznej książki do gimnastyki. Tancerze porozstawiani w&nbsp;dużej sali na&nbsp;podestach, w&nbsp;jasnych, lekkich ubraniach, zaglądając do małych książeczek, wykonują kolejno skłony głowy, skoki raz na&nbsp;jednej, raz na&nbsp;drugiej nodze, inne gesty – już po&nbsp;kilku minutach widać, że&nbsp;dążą do równomiernego „rozgrzania” ciała. Coś, co wydaje się zdroworozsądkową troską o&nbsp;siebie (w zdrowym ciele, zdrowy duch), w&nbsp;ciągu stulecia zamieniło się w&nbsp;trening społeczny. Kto mu się nie poddaje, ustawia się na&nbsp;społecznym marginesie, co jest tym bardziej widoczne, im lepiej rozwinięte społeczeństwo. Zazwyczaj to przedstawicieli niższych, biedniejszych klas cechuje otyłość, niemożność zapanowania nad ciałem i&nbsp;wpasowania go w&nbsp;obowiązujący, rygorystyczny kanon. Współczesność, głównie w&nbsp;tekstach popkultury, mówi, że&nbsp;przez udrękę ciągłego musztrowania ciała dochodzi się do ekstazy, którą daje przekroczenie słabości ciała, jego moc, a&nbsp;nawet wszechmoc.</p> <p><em>KR WP</em> (2000) Artura Żmijewskiego jawi się na&nbsp;tym tle niczym anarchistyczny manifest wolności ciała. W&nbsp;pierwszej chwili trudno uwierzyć, że&nbsp;artyście udało się namówić byłych żołnierzy Kompanii Reprezentacyjnej Wojska Polskiego do udziału w&nbsp;tej pracy. W&nbsp;pierwszej części pod&nbsp;pomnikiem Kościuszkowców defilują, rozmawiają, śpiewają piosenki. W&nbsp;drugiej – odtwarzają oficjalny repertuar gestów w&nbsp;sali baletowej, tyle że&nbsp;mają na&nbsp;sobie tylko buty, czapki i&nbsp;karabiny. Sami nie mogą powtrzymać śmiechu, słysząc komendę: „Prezentuj broń!”. Ciała, tak bardzo dyscyplinowane i&nbsp;opresjonowane przez władzę, stają się na&nbsp;powrót prywatne. Niespodziewanie rozluźniona atmosfera pozwala na&nbsp;tę frywolność, a&nbsp;wraz z&nbsp;nią na&nbsp;coś więcej, na&nbsp;wgląd w&nbsp;relacje między bohaterami, w&nbsp;ten homospołeczny świat.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3755-1-pb-1920x-c97.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3755-1-pb-330x-91f.jpg 330w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3755-1-pb-660x-803.jpg 660w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3755-1-pb-768x-ba1.jpg 768w,assets/cache/images/issues/2015/9/laboratorium-ciala/274-3755-1-pb-1320x-43e.jpg 1320w" src="assets/cache/images/issues/2015/9/laboratorium-ciala/274-3755-1-pb-660x-803.jpg" alt="" ></a>    <figcaption><p>Christian Jankowski, Rooftop Routine, 2007. Kadr filmu, czas trwania: 4:30. Dzięki uprzejmości Studio Christian Jankowski, Berlin</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Swoistą ucieczkę od reżimów społeczeństwa dokumentuje praca, której bohaterką jest Suat Ling Chua. Codziennie na&nbsp;dachu budynku w&nbsp;nowojorskim Chinatown kobieta ta ćwiczyła z&nbsp;hula-hop. Christian Jankowski, autor <em>Rooftop Routine</em> (2008), obserwował ją i&nbsp;nagrał, tworząc wideo w&nbsp;konwencji tutoriala z&nbsp;YouTube. Jednocześnie na&nbsp;innych dachach widzimy innych ludzi, powtarzających to samo ćwiczenie. Z&nbsp;jednej strony jest to aluzja do pracy <em>Roof Piece</em> Trishy Brown z&nbsp;lat 70., która również działa się na&nbsp;dachach nowojorskich kamienic. Z&nbsp;drugiej zaś ma ona niezwykle aktualny wydźwięk: jeśli pomyśleć o&nbsp;tłoku, jaki panuje na&nbsp;dole, z&nbsp;trudem umożliwiającym przejście przez ulicę, a&nbsp;w szerszym planie – ścieranie się kultury włoskiej i&nbsp;chińskiej, widać, że&nbsp;dach staje się tu miejscem ucieczki, przestrzenią wyzwolenia.</p> <p>Mamy zatem ciała krępowane przez społeczną i&nbsp;polityczną tresurę, przez musztrę wojskową i&nbsp;miejski tłok, wynikające z&nbsp;niezrównoważonego rozwoju przeludnienie. Dwa portrety sytuacji i&nbsp;dwa anarchistyczne gesty oporu. Mimo niemal 60 lat od rewolucji nadal trudno mówić o&nbsp;wolnym ciele i&nbsp;wydaje się, że&nbsp;poszerzanie pola swobody ciała, nie doprowadzi nigdy do jego absolutnej wolności. Reguły rządzące przedstawianiem – i&nbsp;poruszaniem się – ciała należy stale kwestionować, również za&nbsp;pomocą pytań płynących z&nbsp;najnowszych perspektyw teoretycznych i&nbsp;ujęć artystycznych. To one dają nadzieję jeśli nie na&nbsp;wolność, to przynajmniej na&nbsp;świadomość ograniczeń.</p> <h2>4.</h2> <p><em>Let’s dance</em> proponuje ciekawą podróż w&nbsp;głąb kultury ciała. Oglądając prace, głównie wideo – a&nbsp;zatem rejestracje ruchu, z&nbsp;każdym kolejnym ujęciem coraz lepiej rozumiemy, jak kształtowało się ponowoczesne rozumienie ciała. Jak kolejne pokolenia rozbijały wzorce, w&nbsp;których zostały wychowane, by potem budować własne, odpowiadające ich czasom. Widoczne staje się rozluźnienie podejścia do ciała w&nbsp;sferze publicznej – odsłaniająca ciało moda, pocałunki par na&nbsp;ulicy, swobodny ruch: ma ono swój rewers nie w&nbsp;dowolności, ale wręcz w&nbsp;nakazie odsłaniania ciała, eksponowania erotyki, portretowania ludzi w&nbsp;ruchu, na&nbsp;przykład w&nbsp;reklamie. Może to skłaniać do refleksji, że&nbsp;wyzwolenie ciała, nagość, która w&nbsp;polskiej literaturze jest synonimem rewolucji, krytykowanej już od <em>Operetki</em> (opublikowanej w&nbsp;1966 roku w&nbsp;Paryżu) Witolda Gombrowicza, zamiast służyć człowiekowi, kieruje się przeciwko niemu – popkultura każe nam ciało trenować, by w&nbsp;sytuacjach kontaktu z&nbsp;innymi członkami społeczeństwa, czy to w&nbsp;„realu”, czy wirtualnie, być możliwie najbardziej atrakcyjnym/ną. W&nbsp;ostatnich latach nie dotyczy to już tylko ćwiczeń fizycznych, ale też diety rozumianej jako przejaw odpowiedzialności społecznej: od kogo kupujemy, za&nbsp;ile, jakie walory zdrowotne ma to, co spożywamy, jak bardzo obciążamy środowisko, ile będzie kosztować nasze leczenie, etc. I&nbsp;kwestie te z&nbsp;pewnością pojawią się w&nbsp;twórczości kolejnych pokoleń twórców tańca.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Wojciech Karpieszuk, <em>Plac Defilad: Murmańsk sto metrów od Europy</em>, „Gazeta Wyborcza”, dodatek "Gazeta Stołeczna" z dn. 5 września 2015, s. 4-5, oraz <a href="http://warszawa.wyborcza.pl/warszawa/1,34862,18704395,plac-defilad-murmansk-sto-metrow-od-europy.html" target="_blank" rel="noopener">http://warszawa.wyborcza.pl/warszawa/1,34862,18704395,plac-defilad-murmansk-sto-metrow-od-europy.html</a>, dostęp 30 października 2015.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2015/laboratorium-ciala" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

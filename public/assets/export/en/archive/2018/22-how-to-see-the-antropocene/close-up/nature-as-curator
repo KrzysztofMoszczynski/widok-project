@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Nature as Curator | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/nature-as-curator">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Nature as Curator | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Nature as Curator | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/nature-as-curator">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Nature as Curator | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #47495b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #47495b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #47495b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #47495b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #47495b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #47495b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+			/* background-color:#47495b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(71,73,91,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#47495b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#47495b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#47495b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#47495b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#47495b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1813 parent-id-1758">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1745" data-selected-issue-color="#47495b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/22-zobaczyc-antropocen/natura-jako-kurator">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/22-zobaczyc-antropocen/natura-jako-kurator">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/22-how-to-see-the-antropocene#toc">22</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/22-how-to-see-the-antropocene/nature-as-curator?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Nature as Curator: Cultural Heritage in the Anthropocene</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/22-how-to-see-the-antropocene/nature-as-curator?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=1812">Monika Stobiecka</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Arthur Barys
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p>In order the read the rocks we must become conscious of geologic time, and of the layers of prehistoric material that&nbsp;is entombed in the Earth’s crust.</p> <p style="text-align: right;">Robert Smithson<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a></p> </blockquote> <p><br>Though they were written 50 years ago, the closing lines of Robert Smithson’s essay heralding the birth of land art seem particularly relevant to the heated debates being waged in the humanities today. The awareness of the existence of non-human timescales and of geohistory,<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> a&nbsp;discipline that&nbsp;resists the categorical divisions of culture/human history and natural history, is a&nbsp;dominant feature in discussions centered on the Anthropocene,<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a> the new era in the Earth’s history that&nbsp;emphasizes humans’ destructive influence on the planet.</p> <p>Smithson writes that&nbsp;if we are to understand stone, we must simultaneously understand an inhuman timescale: the timescale of stone. The artist intertwines matter that&nbsp;he perceives as active and continuously transforming with&nbsp;time, understood as the inherent quality of every object (<em>temporality</em>). Read from&nbsp;today’s perspective, his essay seems almost prophetic, as it correlates with&nbsp;many of the key issues addressed by contemporary thinkers associated with&nbsp;the geological turn,<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a> the study of the Anthropocene,<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a> and new materialism.<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a></p> <p>In his work, Smithson probed the relationship between&nbsp;matter and time. In his 1970 piece <em>Partially Buried Woodshed</em>, the artist studied how matter behaves and transforms when left to its own devices. Abandoned to nature, the ruined woodshed gradually collapsed and was engulfed by foliage. Rather than&nbsp;simply point to the romantic trope of the ruin (<em>Ruinenlust</em>), however, Smithson demonstrated that&nbsp;every object experiences a&nbsp;life of its own and is ultimately destined to annihilation.</p> <p>I take Smithson’s words and artworks as an inspiration and invitation to reflect critically on the status of heritage in the Anthropocene. In this&nbsp;essay, I&nbsp;investigate the post-natural character of cultural heritage, examining the inextricable link between&nbsp;culture and nature, one that&nbsp;manifests itself in the fabric of artifacts, thereby allowing us to consider heritage in terms of its non-human duration and material temporality. I&nbsp;draw on the theories proposed by new materialists: Jane Bennett (vital materialism), Karen Barad (agential realism), and Rosi Braidotti (the concept of the nomadic subject), and relate them to recent theories developed within&nbsp;the discipline of heritage studies, which have reshaped our approach to destruction, passage, and ruination (Holtorf, DeSilvey, Bailey). In my view, in this&nbsp;era of incessant artifact worship<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a> and heritagization<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> –&nbsp;the increasingly bizarre practice of “preservation despite&nbsp;everything” –&nbsp;we would do well to pay particularly close attention to alternative approaches that&nbsp;draw the subject of nature into&nbsp;the debate over&nbsp;cultural heritage, thereby allowing us to accept the inevitable loss and irreversible changes that&nbsp;take place in the products of human activity; in fact, we may end up perceiving the affirmative and reflective potential of these changes. In this&nbsp;essay, I&nbsp;pose questions regarding&nbsp;the character of cultural heritage in a&nbsp;state of transformation: how does the ontological status of the artifact change in the light of (post-)natural processes of transformation? Can matter’s internal life processes be permitted to “speak,” and if so, how? Finally, can we accept the gradual destruction of objects that&nbsp;we care for&nbsp;and preserve –&nbsp;or wish to do so –&nbsp;and if so, how?</p> <p>I illustrate this&nbsp;discussion with&nbsp;a&nbsp;case study of the accelerating deterioration of the historical complex of Petra in Jordan. This&nbsp;archaeological UNESCO World Heritage Site isn’t just a&nbsp;perfect depiction of the nuanced character of timescales and the relationship between&nbsp;time and matter; due to the progressing anthropogenic erosion taking place in Petra, it is also a&nbsp;powerful example of how nature –&nbsp;or perhaps even Anthropocenic post-nature –&nbsp;shapes objects that&nbsp;we traditionally associate with&nbsp;culture.</p> <h2>The geohistory of Petra</h2> <p>The urban complex at Petra dates back to the third century BCE. For&nbsp;centuries, it served as the capital of the Nabataean Kingdom, before&nbsp;it was conquered by the Romans in the second century CE. A&nbsp;large number of Petra’s famous architectural objects –&nbsp;most of which are impressive religious and sepulchral buildings hewed into&nbsp;sandstone –&nbsp;date back to the Nabataean era, defined by its blend of Egyptian, Syrian, and Hellenic styles, while only a&nbsp;handful were reconstructed or built during&nbsp;Roman times.</p> <p>The continued archaeological work at Petra, most of which has been uncovered, is intended to help plan an effective preservation and management strategy for&nbsp;this multicultural site. The researchers’ main concern since&nbsp;the 1990s has been the progressive erosion of the architectural complex. The results of the first study of this&nbsp;subject were published in 1995 by Thomas R. Paradise, who observed the weathering of the sandstone in the Roman Theater in Petra.<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a> Because the theater was build according to Vitruvian specifications, the researcher was able to calculate the rate and scale of the weathering and erosion by determining the theater’s original dimensions. In the 1990s Paradise did not observe any factors accelerating the process of erosion, and while he noted that&nbsp;the construction material bore traces of the effects of climate change, he described them as “minor.” A&nbsp;report released in 2013 revealed the significant intensification of erosion processes in Petra.<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a> According to the latest data, the progressive erosion is the result of complex processes involving mechanical, chemical, and anthropogenic factors.<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a> While mechanical erosion had been observed as early as the 1990s, and was a&nbsp;natural process caused by thermal stress, temperature variations, and the build-up of desert sand, the most recent study is the first to mention chemical and anthropogenic changes among&nbsp;the factors accelerating the deterioration of Petra. The acid rain and elevated atmospheric sulfate levels contributing to the progressive erosion of this&nbsp;site are both directly associated with&nbsp;humankind’s global activities.</p>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--video m-page-content--video-right">   <div class="c-article-video">    <div class="embed-responsive embed-responsive-16by9">     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sMhZRWLGPdU?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    </div>    <div class="c-article-video__caption"><p>UNESCO Amman, Treasury 3D Model –&nbsp;Petra Siq Stability project 2013, December 3, 2013</p></div>   </div>  </section><section class="u-typo">   <p>Petra has, in recent years, been meticulously documented using the latest technology. One by one, each object in the complex is scanned and photographed, and regularly produced three-dimensional models allow us to track the extent of the damage and monitor its acceleration. In the case of one of the famous Djinn Blocks, scientists have observed the near-complete erosion of the decorative features on the monumental edifice.<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a> To remedy this&nbsp;problem, researchers turned to the tools provided by cyber-archaeology,<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a> creating an application that&nbsp;allowed them to project images depicting the artifacts with&nbsp;their ornaments intact onto&nbsp;the artifacts themselves. According to Thomas Levy, an archaeologist who studies sites threatened by terrorism and natural disasters, the ability to record artifacts in 3D at a&nbsp;time of widespread ruination allows scientists to continue their research on historical objects even after&nbsp;they have been completely destroyed.<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a></p> <p>The “petrification” of archaeological sites, or the arrest or even reversal of accelerating quasi-natural processes, is not possible with&nbsp;today’s preservation tools and techniques; at best, digital complements serve a&nbsp;complementary function. Meanwhile, Petra lives on, undergoing a&nbsp;material transformation spurred by mechanical, chemical, and anthropogenic factors, and becoming increasingly dissimilar to its documented depictions. The cultural heritage complex is subjected to pressures that&nbsp;are increasingly beyond&nbsp;human control. Nevertheless, it is worth noting the subversive character of the expected loss –&nbsp;that&nbsp;is, the transformation of Petra into&nbsp;a&nbsp;collection of shapeless stones devoid of their formerly impressive reliefs (Figure 1). I&nbsp;find this&nbsp;issue particularly interesting, especially in the context of discussions about&nbsp;cultural heritage vis-à-vis the Anthropocene condition.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/stobiecka/01-1920x-a87.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/stobiecka/01-330x-287.jpg 330w,assets/cache/images/issues/2018/22/stobiecka/01-660x-6a4.jpg 660w,assets/cache/images/issues/2018/22/stobiecka/01-768x-aab.jpg 768w,assets/cache/images/issues/2018/22/stobiecka/01-1320x-f51.jpg 1320w" src="assets/cache/images/issues/2018/22/stobiecka/01-660x-6a4.jpg" alt="" ></a>    <figcaption><p><span>Figure 1. The image depicts the erosion of the reliefs on the Djinn Blocks. Petra, Jordan. Photo: Dennis Jarvis. Creative Commons 3.0 License, <span class="ListLabel1"><a href="https://commons.wikimedia.org/wiki/File:Jordan-18B-128.jpg">https://commons.wikimedia.org/wiki/File:Jordan-18B-128.jpg</a></span>. </span></p></figcaption>   </figure>  </section><section class="u-typo">   <p>According to the results of expert studies, erosion in Petra has drastically accelerated in recent years. Chemical and anthropogenic factors have intensified a&nbsp;process that&nbsp;has existed since&nbsp;the beginning of Petra’s existence –&nbsp;not just as an ancient city, but&nbsp;as a&nbsp;stunning natural geological formation. Established on natural sedimentary rock (Figure 2), the cultural heritage site is undergoing a&nbsp;transformation driven by a&nbsp;series of intertwining post-natural phenomena. I&nbsp;borrow the term “post-nature” from&nbsp;Sverre Raffnsøe and Ewa Bińczyk, who define it as “the result of a&nbsp;highly complex interaction between&nbsp;humankind (culture, civilization, knowledge, technology) and nature,”<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a> as a&nbsp;consequence of which it is becoming increasingly difficult to distinguish the human from&nbsp;the natural. In Ewa Bińczyk’s view, the indistinguishability of these realms and the impossibility of returning to nature are results of human hyperagency. As the Polish scholar of the Anthropocene explains, “by modifying our own surroundings, we have distributed human agency across&nbsp;many aspects of these surroundings at a&nbsp;level never seen before.”<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/stobiecka/02-1920x-afd.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/stobiecka/02-330x-248.jpg 330w,assets/cache/images/issues/2018/22/stobiecka/02-660x-351.jpg 660w,assets/cache/images/issues/2018/22/stobiecka/02-768x-a92.jpg 768w,assets/cache/images/issues/2018/22/stobiecka/02-1320x-5c6.jpg 1320w" src="assets/cache/images/issues/2018/22/stobiecka/02-660x-351.jpg" alt="" ></a>    <figcaption><p>Figure 2. View of the geological plexus comprising natural rock and the architectural complex in Petra.Petra, Jordan. Photo: Joanna Weremijewicz, used with&nbsp;permission of the author.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>I believe the example discussed here has much in common with&nbsp;the concept of post-nature: subjected to increasingly intense erosion, Petra is entering a&nbsp;post-natural state. Through&nbsp;greenhouse gas emissions, the climate catastrophe, and melting glaciers, dispersed human agency indirectly affects objects that&nbsp;seem remote or even invulnerable to ecosystemic threats. Michael Hall, Tim Baird, Michael James, and Yael Ram have signaled that&nbsp;anthropogenic threats to cultural heritage demand increasingly urgent reflection.<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a> Having analyzed tourist travel patterns regarding&nbsp;Iceland and correlated that&nbsp;data with&nbsp;fuel consumption rates and airplane and automobile traffic, the researchers warn that&nbsp;if we do not start taking the Anthropocene and its global impact on heritage seriously, we may irretrievably lose sites that&nbsp;form our cultural capital.<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a> They point out that&nbsp;while monitoring the effects of climate change on cultural artifacts has long been within&nbsp;the realm of heritage scholars’ interests,<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a> there are still no synergistic plans to protect and preserve deteriorating heritage sites. The authors propose the development of an integrated and unified approach to heritage preservation, along&nbsp;with the creation of a&nbsp;realistic timeline and planning strategy,<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a> although they stop short of providing program guidelines for&nbsp;managing cultural heritage in the Anthropocene. In this&nbsp;regard, the authors’ rallying cries align with&nbsp;Ewa Bińczyk’s observation about&nbsp;the marasmus of the Anthropocene<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a>: an impasse that&nbsp;results in the de facto abandonment of any efforts to counteract the mounting threats to the planet.</p> <p>What action could feasibly be taken with&nbsp;regard to our example, Petra? What is a&nbsp;realistic strategy in the situation discussed here? The French scholar of the Anthropocene Christophe Bonneuil argues that&nbsp;the discourse about&nbsp;post-nature as a&nbsp;consequence of the Anthropocene urges us to “repair Frankenstein’s monster”<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a>; here, he refers directly to Bruno Latour’s observations about&nbsp;the Anthropocene. According to Latour –&nbsp;as well as to Donna Haraway and Isabelle Stengers<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a> –&nbsp;the current condition of the planet reveals an entanglement of nature-culture, relationality, and hybridity. Thus, the figure of Frankenstein’s monster unites and metaphorises the Anthropocenic condition; if so, then to what extent is Petra –&nbsp;which is part of our global heritage, was established and built by humans, and is now being transformed by post-nature –&nbsp;becoming a&nbsp;Frankenstein’s monster, the result of “the entanglement of nature, culture, and post-nature”?<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a> Witnessing the increasingly rapid deterioration of the site, are we obliged to repair this&nbsp;post-natural construct? Or can we attempt to develop a&nbsp;realistic solution by redefining the ontological foundation of cultural heritage, now that&nbsp;it is being completely transformed in relation to Anthropocenic categories?</p> <h2>The natural-cultural character of heritage</h2> <p>The belief that&nbsp;scientists and conservators will invent a&nbsp;method to stop the progressive destruction of cultural heritage is close to what Ewa Bińczyk calls “techno-optimism.”<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a> She argues that&nbsp;“we are no longer capable of embracing solutions other than&nbsp;those already familiar to us: the technological imperative is a&nbsp;result of our belief in the benevolent consequences of unlimited scientific and technological development.”<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a> We believe, therefore, that&nbsp;the booming disciplines of conservation chemistry and biology<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a> will produce newer, better, more effective means to preserve cultural heritage. These hopes are essentially grounded in the ambition and desire to stop time, or even to “sterilize the past,” in the words of the archaeological theorist Michael Shanks.<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a> He argues that&nbsp;the conservation of artifacts involves the “sanitization” and “sterilization of the past,” thereby in a&nbsp;sense depriving these objects of their right to live.<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a> According to Shanks, we therefore ought to reflect on the processes of decay –&nbsp;our only available source of insight into&nbsp;the essence of material heritage. I&nbsp;agree with&nbsp;his thesis that&nbsp;artifacts should be permitted to live out their life cycles, and that&nbsp;our task is to observe and draw conclusions. The accelerating processes of decay and destruction in the Anthropocene are creating the circumstances in which to reconsider, as Shanks suggests, the ontology of the material objects of our cultural heritage.</p> <p>This stance is also encouraged by Ewa Domańska, who argues that&nbsp;the Anthropocene constitutes a&nbsp;useful intellectual platform on which to rethink concepts in heritage scholars’ sphere of interest.<a href="#sdfootnote30sym" name="sdfootnote30anc"><sup>30</sup></a> Accepting her invitation to reflect on these matters, I&nbsp;will attempt to approach the subject of cultural heritage in the Anthropocene from&nbsp;the perspective of new materialist philosophy. To shed an alternative light on the notion of cultural heritage in its material, tangible form,<a href="#sdfootnote31sym" name="sdfootnote31anc"><sup>31</sup></a> I&nbsp;employ three concepts: Jane Bennett’s idea of vital matter, Karen Barad’s observations based on her re-reading of Niels Bohr’s writing, and Rosi Braidotti’s theory of the nomadic subject.</p> <p>Jane Bennett introduced the theory of vital materialism with&nbsp;her thesis on vibrant matter, and then animated it by adding the categories of agency and independence from&nbsp;humans.<a href="#sdfootnote32sym" name="sdfootnote32anc"><sup>32</sup></a> In my view, there is no theory of greater and more constitutive relevance to discussions of cultural heritage and its transformations in the Anthropocene. The matter and objects of cultural heritage described by Bennett are transformed over&nbsp;time by myriad biological and physico-chemical factors. In the case of the site discussed in this&nbsp;essay, Petra, the factors are mechanical, chemical, and anthropological in nature; the artifacts are further affected by other factors resulting from&nbsp;more complex environmental issues.<a href="#sdfootnote33sym" name="sdfootnote33anc"><sup>33</sup></a> Artifacts can also be transformed by plants and animals: earthworms, ants, and mites decompose matter, and additional damage is caused by the microbiological environment.<a href="#sdfootnote34sym" name="sdfootnote34anc"><sup>34</sup></a> Faced with&nbsp;such far-reaching transformations, how can we believe that&nbsp;the heritage scholar –&nbsp;the archaeologist, historian, art historian, or conservator –&nbsp;works with&nbsp;a&nbsp;lifeless, static object? When exploring cultural and social meanings, we often forget that&nbsp;the objects we are studying constitute volatile, changeable, transforming entities.</p> <p>The established image of the artifact is that&nbsp;of dead, instrumentalized matter with&nbsp;no potential to metamorphose.<a href="#sdfootnote35sym" name="sdfootnote35anc"><sup>35</sup></a> As Bennett writes, we observe a&nbsp;constant and powerful tendency to understand all material changes as the results of human agency, a&nbsp;perspective spurred by cultural, linguistic, and historical constructivism, which compel us to perceive “thing-power” as an effect of culture, which is itself an oppressive gesture toward&nbsp;the effects of nature.<a href="#sdfootnote36sym" name="sdfootnote36anc"><sup>36</sup></a> I&nbsp;believe that&nbsp;this constructivism is a&nbsp;crucial factor in the systematic suppression or even denial of the effects of nature on cultural relics, artifact complexes, and even minor artifacts, and their continued placement in the domain of culture. Scholars appear to focus on the epistemological values of heritage objects, often failing to perceive that&nbsp;the object of their study is not constant, but&nbsp;is constantly metamorphosing, and that&nbsp;it is only ostensibly petrified when it is preserved, a&nbsp;moment in its life is recorded, or when, to use Shanks’ phrase, the past&nbsp;is “sterilized.”<a href="#sdfootnote37sym" name="sdfootnote37anc"><sup>37</sup></a> This&nbsp;observation has also been made by Tim Ingold, who argues that&nbsp;“despite the best efforts of curators and conservationists, no object lasts forever. Materials always and inevitably win out over&nbsp;materiality in the long term.”<a href="#sdfootnote38sym" name="sdfootnote38anc"><sup>38</sup></a></p> <p>In my view, the nature-culture binary could potentially be overcome through&nbsp;the non-human animation of cultural heritage and by emphasizing the activity of matter, in the sense of its reactivity to external and internal factors. Bennett points to this&nbsp;approach as one possible avenue of development for&nbsp;vital materialism, arguing that&nbsp;in a&nbsp;world of living matter, we begin to be aware of the power of biochemical processes, which can develop in unexpected directions, ungoverned by deterministic causality.<a href="#sdfootnote39sym" name="sdfootnote39anc"><sup>39</sup></a> I&nbsp;believe that&nbsp;the constructivism of nature and culture must be shattered in this&nbsp;manner and then reassembled in order for&nbsp;us to begin to understand more deeply the essence of artifacts as objects co-created by a&nbsp;series of non-human factors.</p> <p>In presenting her project of agential realism, Karen Barad offers the following&nbsp;description of matter: “Matter is neither fixed and given nor the mere end result of different processes. Matter is produced and productive, generated and generative. Matter is agentive, not a&nbsp;fixed essence or property of things.”<a href="#sdfootnote40sym" name="sdfootnote40anc"><sup>40</sup></a> The example of Petra fits into&nbsp;this definition: stone is transformed by human action into&nbsp;a&nbsp;temple complex, and continues to change its form under&nbsp;the influence of external factors. These transformations are generative and agentive, because the familiar image of Petra is constantly drifting away from&nbsp;its material reality. As Barad writes, if we consider the dynamism of matter and its internal agency, we ought to think about&nbsp;tangible objects in terms of performativity rather than&nbsp;representationalism.<a href="#sdfootnote41sym" name="sdfootnote41anc"><sup>41</sup></a> This&nbsp;remark is worth considering&nbsp;in regard to the abovementioned practice of digitizing Petra: the effort to recreate the “perfect state” of one of the Djinn Blocks and project it onto&nbsp;the eroded object is, in a&nbsp;sense, a&nbsp;gesture of coming to terms with&nbsp;the essence of metamorphosing matter.</p> <p>This constant transformation, this&nbsp;state of an ongoing process, shares many features with&nbsp;the theory of the nomadic subject popularized by Rosi Braidotti. If we take as the subject a&nbsp;material object of cultural heritage that&nbsp;is transformed by creative, vital, transversal, and relational changes,<a href="#sdfootnote42sym" name="sdfootnote42anc"><sup>42</sup></a> then we can also take volatility and multidimensionality as its ontological features.<a href="#sdfootnote43sym" name="sdfootnote43anc"><sup>43</sup></a> According to Braidotti, nomadic theory should encourage experimentation, fusion, and flows<a href="#sdfootnote44sym" name="sdfootnote44anc"><sup>44</sup></a> –&nbsp;in this&nbsp;sense, I&nbsp;understand it to be a&nbsp;pretext to update certain concepts, including ones used in the discipline of heritage studies.</p> <p>If, heeding the calls of new materialists, we include metamorphosis, transformation, biologicality, and dynamics in a&nbsp;new, broadened definition of the objects of cultural heritage, we will be able to cross the Rubicon that&nbsp;is the Cartesian dualism of nature and culture. As Kristin Asdal writes in regard to the project of environmental history, “This effort to incorporate ‘the other’ –&nbsp;nature –&nbsp;into&nbsp;our historical narrative and into&nbsp;history as a&nbsp;discipline is an important correction for&nbsp;a&nbsp;discipline that&nbsp;has for&nbsp;too long restricted its focus to assumed autonomous human actors in isolation from&nbsp;nature and the material world.”<a href="#sdfootnote45sym" name="sdfootnote45anc"><sup>45</sup></a> But&nbsp;why is this&nbsp;change in the way we think about&nbsp;artifacts urgent in the Anthropocene? Are we ready to accept a&nbsp;natural-cultural definition of artifacts and come to terms with&nbsp;the consequences of this&nbsp;alternative way of thinking?</p> <h2>Can we accept these changes?</h2> <p>Writing about&nbsp;the migrant, nomadic heritage of the Anthropocene, the British heritage scholar Rodney Harrison implores us to start considering&nbsp;artifacts in terms of instability, fluidity, openness, circulation, and assemblage,<a href="#sdfootnote46sym" name="sdfootnote46anc"><sup>46</sup></a> as this&nbsp;will help update the concepts we use in the study, protection, and preservation of cultural heritage.<a href="#sdfootnote47sym" name="sdfootnote47anc"><sup>47</sup></a> Harrison applies the principles of new materialism to contemporary global problems –&nbsp;the migrant crisis, the climate catastrophe, the specter of destruction and ruination –&nbsp;emphasizing that&nbsp;the terminology we use in heritage studies does not correspond to reality, which in turn compels us to redefine our dominant concepts and narratives. Indeed, the Anthropocene condition and its consequent threats to cultural heritage demand the development of new strategies of managing material objects from&nbsp;the past.<a href="#sdfootnote48sym" name="sdfootnote48anc"><sup>48</sup></a></p> <p>Cornelius Holtorf, holder of the UNESCO Chair on Heritage Futures, proposes that&nbsp;we prepare for&nbsp;mounting threats by adopting a&nbsp;stance of “fluid conservation.”<a href="#sdfootnote49sym" name="sdfootnote49anc"><sup>49</sup></a> His discussion of this&nbsp;concept is based on the assumption that&nbsp;we fail to appreciate threats, while simultaneously extending excessive care to cultural heritage (heritagization). Paradoxically, the scholar sees tragic and incidental events like&nbsp;the destruction of the statues at Bamiyan and Syrian archaeological sites as motivating opportunities to reconsider the repertoire of heritage we preserve for&nbsp;posterity. The practice of protecting artifacts “despite everything” and “at all costs,” he writes, should be replaced with&nbsp;a&nbsp;project of “fluid conservation,” understood as an autopoietic heritage that&nbsp;self-metamorphoses into&nbsp;a&nbsp;legacy, preparing future generations for&nbsp;changes and transformations. Holtorf argues that&nbsp;it is only when we face the loss or destruction of a&nbsp;heritage object that&nbsp;we assess its true value to the social imaginary.</p> <p>Another project that&nbsp;entertains the possibility of the destruction and deterioration of cultural heritage objects is Caitlin DeSilvey’s concept of “curated decay.”<a href="#sdfootnote50sym" name="sdfootnote50anc"><sup>50</sup></a> Starting from&nbsp;assumptions similar to Holtorf’s, she determines that&nbsp;we are facing a&nbsp;“crisis of accumulation” –&nbsp;that&nbsp;is to say, we are living in an era of excessive care for&nbsp;every object of any historical, artistic, scientific, or social value.<a href="#sdfootnote51sym" name="sdfootnote51anc"><sup>51</sup></a> DeSilvey observes seven cultural heritage objects that&nbsp;are gradually succumbing to the annihilating forces of nature. Her main interest is the process of destruction: its dynamics, stages, and consequences. She writes that&nbsp;we should let the materiality of objects speak for&nbsp;itself, and allow them to decay along&nbsp;non-human timelines.<a href="#sdfootnote52sym" name="sdfootnote52anc"><sup>52</sup></a> Her interest in the entropy of heritage objects is a&nbsp;direct outcome of her reflections on the Anthropocene condition. As she explains: “The Anthropocene epiphany reminds us that&nbsp;we are deeply implicated in earth processes all the way down&nbsp;–&nbsp;in soil layers, tree rings, rising tides, and swelling storm surges. It follows, perhaps, that&nbsp;we have a&nbsp;responsibility to the environments and entities that&nbsp;have been transformed by our actions.”<a href="#sdfootnote53sym" name="sdfootnote53anc"><sup>53</sup></a> In DeSilvey’s view, entropy is worth observing because it helps us develop new values to ascribe to heritage.<a href="#sdfootnote54sym" name="sdfootnote54anc"><sup>54</sup></a> Rather than&nbsp;thinking of it as “souvenirs from&nbsp;the past,” the author encourages us to consider it in terms of “living heritage.” In her view, this&nbsp;approach can help build continuity between&nbsp;the past&nbsp;and the present by pointing to the continuous, processual, and dynamic character of the material fabric of artifacts.</p> <p>The American researcher Doug Bailey goes one step further than&nbsp;DeSilvey. In the book <em>Breaking the Surface: An Art/Archaeology of Prehistoric Architecture</em>,<a href="#sdfootnote55sym" name="sdfootnote55anc"><sup>55</sup></a> he proposes that&nbsp;deliberate, considered, and planned acts of destruction can help us update the repertoire of terms we use in relation to heritage. The archaeologist destroys objects (original negatives and prints of photographs) with&nbsp;premeditation, in order to observe the process of destruction and learn what remains of matter. His aim is to understand the process of annihilation, believing that&nbsp;this will be useful in studying artifacts from&nbsp;the past.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/stobiecka/03-1920x-1b1.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/stobiecka/03-330x-967.jpg 330w,assets/cache/images/issues/2018/22/stobiecka/03-660x-fcc.jpg 660w,assets/cache/images/issues/2018/22/stobiecka/03-768x-6be.jpg 768w,assets/cache/images/issues/2018/22/stobiecka/03-1320x-3b1.jpg 1320w" src="assets/cache/images/issues/2018/22/stobiecka/03-660x-fcc.jpg" alt="" ></a>    <figcaption><p>Figure 3. One of many religious structures typical of the Sicilian baroque style. In an age defined by a&nbsp;surfeit of artifacts and a&nbsp;dearth of funding available for&nbsp;renovation, the building is gradually being covered by plants and falling into&nbsp;ruin (the tympanum, bell tower, and attic). As such, it is both a&nbsp;negative example (illustrating the negligence of conservators) and a&nbsp;positive one (demonstrating the impermanent, naturo-cultural character of heritage undergoing transformation). Buscemi, Sicily. Photo: Monika Stobiecka.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>These bold proposals articulated by heritage scholars require commentary and critical reflection, especially in an age of progressing and all-encompassing destruction caused directly or indirectly by human activity. All three scholars see the processes of destruction as refreshing alternatives and remedies to the “crisis of accumulation” or “surplus of things” (heritagization).<a href="#sdfootnote56sym" name="sdfootnote56anc"><sup>56</sup></a> Their thinking in terms of destruction and degradation is, I&nbsp;believe, a&nbsp;direct response to the specter of the Anthropocene and various global crises. Holtorf accepts catastrophes that&nbsp;result in the destruction of cultural heritage; DeSilvey encourages us to observe the gradual annihilation of objects; Bailey intentionally destroys them. What is remarkable in the perspectives discussed above&nbsp;is their acceptance of the inevitable loss of material objects, resulting not in despair and mourning, but&nbsp;in affirmation. This&nbsp;unique approach of abandoning things, allowing them to be as they are (<em>Gelassenheit</em>),<a href="#sdfootnote57sym" name="sdfootnote57anc"><sup>57</sup></a> allows us to grasp the essence of cultural heritage: a&nbsp;material, metamorphosing, bioactive fabric that&nbsp;transforms in time and has a&nbsp;temporality of its own, similar to that&nbsp;of Smithson’s stones, discussed in the introduction. By conducting alternative readings of heritage that&nbsp;take into&nbsp;account not just its artistic, scholarly, social, or historical value, and by granting heritage the right to transformation and biological activity, we arrive at completely new perspectives not just in the humanities, but&nbsp;also in the practical planning of conservation strategies (Figure 3).</p> <h2>Conclusions</h2> <p>In the book <em>An Anthropology of Landscape: The Extraordinary in the Ordinary</em>, Christopher Tilley and Kate Cameron-Daum identify a&nbsp;rupture in the way we think about&nbsp;natural and cultural heritage, arguing that&nbsp;even modern heritage management models, in which natural and cultural elements are intertwined, are in reality far from&nbsp;comprehensive and synergistic solutions.<a href="#sdfootnote58sym" name="sdfootnote58anc"><sup>58</sup></a> The anthropologist and archaeologist point out that, when thinking about&nbsp;heritage, we often erroneously separate cultural artifacts from&nbsp;natural objects. As is the case with&nbsp;Petra, it is extraordinarily difficult to determine the nature of the process responsible for&nbsp;the current stage of an artifact: whether it is cultural (the result of human activity such as intense tourism), natural (the result of mechanical erosion), or post-natural (the sum effect of chemical and anthropogenic factors). For&nbsp;this reason, I&nbsp;believe that&nbsp;we need to rethink the concept of cultural heritage –&nbsp;its character, status, and the methods by which we conserve and care for&nbsp;it, especially now, in the Anthropocene, an era that&nbsp;has increased our awareness of destruction and global threats. Doing so will allow us to develop a&nbsp;realistic framework for&nbsp;managing cultural heritage in the face of crises and inevitable loss. Granting complete agency to monuments once believed to be constant and unchanging should become the starting point for&nbsp;future discussions about&nbsp;conservation and care. In discussions of alternative concepts of heritage, Petra would serve not as a&nbsp;monument at which to mourn losses, or an illustration of progressive deterioration, but&nbsp;as an inspiration to revise established practices.</p> <p>As we have seen, material culture in a&nbsp;state of transformation is an active, vital material that&nbsp;has little in common with&nbsp;the constant, unchanging objects that&nbsp;–&nbsp;like&nbsp;imperturbable monuments –&nbsp;form the canon of artifacts. The metamorphoses occurring in historical matter are constitutive to the ontology of objects, ones no longer perceived in terms of binary oppositions (natural/cultural, permanent/impermanent, human/non-human), but&nbsp;through terms borrowed from&nbsp;the vocabularies of new materialists: fluidity, shift, biologicality, dynamics, agency, and generativity. As DeSilvey and Bailey in particular note, we must allow internal life processes to speak, observing them and drawing conclusions that&nbsp;will help us build a&nbsp;realistic framework with&nbsp;which to counteract heritagization and cope with&nbsp;the threats and losses facing heritage in the age of cataclysm and tragedy that&nbsp;is the Anthropocene. I&nbsp;believe that&nbsp;the knowledge we acquire by allowing matter to transform before&nbsp;our eyes, according to its own biological materialism, vitalism, and timescales, may shape the new sensitivity and new values we attach to heritage in the future.</p> <p><b><br>This article was written as part of the project “Cultural Landscape Studies” (no. 0059/NPRH4/H2b/83/2016), part of the Ministry of Science and National Heritage’s 2016–2019 National Programme for&nbsp;the Development of Humanities. This&nbsp;work was also made possible with&nbsp;support from&nbsp;the Kościuszko Foundation during&nbsp;a&nbsp;research visit to the Stanford Archaeology Center.</b></p> <p><b>I am grateful to Prof. Ewa Domańska, my anonymous reviewers, and the editors of </b><em><b>View</b></em><b> for&nbsp;their bibliographic suggestions and comments on the text. I&nbsp;would like&nbsp;to thank the translator, Arthur Barys, and the proofreader, Darren Durham, who prepared the English version of this&nbsp;paper.</b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a><span>Robert Smithson, </span>“A Sedimentation of the Mind: Earth Projects,” <em>Artforum</em> 1 (1968), 82–91.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Dipesh Chakrabarty, “The Climate of History: The Four Theses,” <em>Critical Inquiry</em> 2 (2009), 197–222.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>See: Paul J. Crutzen and Eugene F. Stoermer, “The ‘Anthropocene’,” <em>IGBP Newsletter</em> 41 (2000), 17–18; Paul J. Crutzen, “The Anthropocene: Geology of Mankind,” <em>Nature</em> 415 (2002), 23–24.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>See: Jeffrey J. Cohen, <em>Stone: An Ecology of the Inhuman</em> (Minneapolis–London: University of Minnesota Press, 2015); cf. “The Anthropocene Monument: On Relating Geological and Human Time,” <em>European Journal of Social Theory</em> 20, no. 1 (February 2017), 111–131.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>For further discussion of the study of heritage, art, and architecture vis-à-vis the Anthropocene, see, for example: Matthew Edgeworth et al., ”Archaeology of the Anthropocene,” <em>Journal of Contemporary Archaeology</em> 1, no. 1 (2014), 73–132; “Some Reflections on Heritage and Archaeology in the Anthropocene,” <em>Norwegian Archaeological Review</em> 44, no. 1 (2011), 40–88; <em>Architecture in the Anthropocene: Encounters Among Design, Deep Time, Science and Philosophy</em>, ed. Etienne Turpin (Ann Arbor: Open Humanities Press, 2013); <em>Art in the Anthropocene: Encounters Among Aesthetics, Politics, Environments and Epistemologies,</em> eds. Heather Davis and Etienne Turpin (London: Open Humanities Press, 2015); <em>Amplifikacja natury. </em><span><em>Wyobraźnia planetarna architektury w epoce antropocenu</em></span><span>, ed. Anna Ptak (Warsaw: Wydawnictwo Zachęty Narodowej Galerii Sztuki, 2018). </span>For an exhaustive discussion of the Anthropocene, see: Ewa Bińczyk, <em>Epoka człowieka. Retoryka i marazm antropocenu</em> (Warsaw: Wydawnictwo Naukowe PWN, 2018).</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>I refer here mainly to Karen Barad’s re-reading of Niels Bohr’s theories. See: Karen Barad, <em>Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning</em> (Durham–London: Duke University Press, 2007).</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Bronisław Szerszyński, “The Anthropocene Monument: On Relating Geological and Human Time,” <em>European Journal of Social Theory</em> 20, no. 1 (February 2017), 111–131.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>For a discussion of the phenomenon of heritagization, involving the intensification of conservation and care for artifacts and the accumulation of heritage-status objects, see: Rodney Harrison, “Beyond ‘Natural’ and ‘Cultural’ Heritage: Toward an Ontological Politics of Heritage in the Age of Anthropocene,” <em>Heritage &amp; Society</em> 8, no. 1 (2015), 24–42; see also: Dawid Kobiałka, “Let Heritage Die! The Ruins of Trams at Depot No. 5 in Wrocław, Poland,” <em>Journal of Contemporary Archaeology</em> 2, no. 1 (2014), 351–368.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Thomas R. Paradise, “Sandstone Weathering Thresholds in Petra, Jordan,” <em>Physical Geography</em> 16, no. 3 (1995), 205–222.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Giuseppe Delmonaco, Claudio Margottini, and Daniele Spizzichino, “Slope Dynamics, Monitoring and Geological Conservation of the Siq of Petra (Jordan),” in <em>Geotechnical Engineering for the Preservation of Monuments and Historic Sites</em>, eds. Alessandro Flora and Stefania Lirer (London: Taylor and Francis Group Press, 2013), 325–334.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>The subject of transformation and its differentiation in archaeology was most famously studied by Michael B. Schiffer, who concentrated on archaeological findings that were subjected to cultural (<em>C-transforms</em>) and non-cultural (<em>N-transforms</em>) factors during their use, deposit, and discovery. See: Michael Schiffer, <em>Behavioral Archaeology</em> (New York: Academic Press, 1976). In Polish literature, Schiffer’s theory has been discussed by Przemysław Urbańczyk. See: “O możliwościach poznawczych archeologii,” <em>Przegląd Archeologiczny</em> 29 (1981), 5–51.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Miriam Cabrelles et al., “From Multispectral 3D Recording and Documentation to Development of Mobile Apps for Dissemination of Cultural Heritage,” in <em>Cyber-Archaeology and Grand Narratives: Digital Technology and Deep-Time Perspectives on Culture Change in the Middle East</em>, eds. Thomas E. Levy and Ian W. N. Jones (San Diego: Springer International Publishing, 2018), 67–90.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>Maurizio Forte, “Introduction to Cyber-Archaeology,” in <em>Cyber-Archaeology</em>, ed. Maurizio Forte (Oxford: Oxford University Press, 2010), 9–14; <em>Cyber-Archaeology and Grand Narratives</em>, op. cit.; Monika Stobiecka, “Archeologia Antropocenu i Cyfrowe Krajobrazy,” <em>Prace Kulturoznawcze</em> 22 (2018), 145–163.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Andy Murdock, “Cyber-Archaeology, Big Data and the Race to Save Cultural Heritage Sites,” February 16, 2016, <a href="http://qi.ucsd.edu/news-article.php?id=2662" target="_blank" rel="noopener">http://qi.ucsd.edu/news-article.php?id=2662</a>.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>Sverre Raffnsøe, <em>Philosophy of the Anthropocene: The Human Turn</em> (Hampshire–New York: Palgrave Macmillan, 2016).</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>Bińczyk, <em>Epoka człowieka,</em> 16.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>C. Michael Hall et al., “Climate Change and Cultural Heritage: Conservation and Heritage Tourism in the Anthropocene,” <em>Journal of Heritage Tourism</em> 11, no. 1 (2016), 10–24.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>Ibid.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>Among the main scholars currently researching this subject is Alessandra Bonazza. See: Bonazza et al., “Mapping the Impact of Climate Change on Surface Recession of Carbonate Buildings in Europe,” <em>Science of the Total Environment</em> 407 (2009), 2039–2050.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>Hall et al., “Climate Change and Cultural Heritage,” 14, 18.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a><span>Ewa Bińczyk, “Epoka człowieka; Inżynieria klimatu a inżynieria człowieka. </span>Dyskursy na temat środowiska w epoce antropocenu,” <em>Ethos</em> 111, no. 3 (2015), 153–175.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>Christophe Bonneuil, “The Geological Turn: The Narratives of the Anthropocene,” in <em>The Anthropocene and the Global Environmental Crisis: Rethinking Modernity in a New Epoch</em>, eds. Clive Hamilton, Christophe Bonneuil, and François Gemenne (London–New York: Routledge, 2015), 23.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a><span>Ibid., 26.</span></p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a><span>Ibid.</span></p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a><span>Bińczyk, “Epoka człowieka” (2015); </span><span><em>Epoka człowieka</em></span><span> (2018), 241–280; “Ostudzenie entuzjazmu wobec nowych mediów,” in </span><span><em>Interfejsy, kody, symbole. Przyszłość komunikowania</em></span><span>, ed. Ewa Drygalska (Wrocław: Laboratorium, 2016), 70–78.</span></p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a><span>Bińczyk, “Epoka człowieka” (2015); </span><span><em>Epoka człowieka</em></span><span> (2018), 258.</span></p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a><span>See: Alicja B. Strzelczyk and Joanna Karbowska-Berent, </span><span><em>Drobnoustroje i owady niszczące zabytki i ich zwalczanie</em></span><span> (Toruń: Wydawnictwo Uniwersytetu Mikołaja Kopernika, 2004); </span><span><em>Nauka i zabytki. Nauki ścisłe w służbie archeologii, ochronie zabytków oraz historii</em></span><span>, ed. </span>Władysław Weker (Warsaw: Państwowe Muzeum Archeologiczne, 2008).</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>Michael Shanks, “The Life of an Artifact in an Interpretive Archaeology,” <em>Fennoscandia Archaeologica</em> 15 (1998), 17.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a>Ibid.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a>Ewa Domańska’s response is found in the article: Edgeworth et al., “Archaeology of the Anthropocene,” 100.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a>In this article I am concerned solely with material heritage.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a>Jane Bennett, <em>Vibrant Matter: A Political Ecology of Things</em> (Durham–London: Duke University Press, 2009).</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a><span>Anna Drążkowska and Małgorzata Grupa, “Ogólne zasady udzielania pierwszej pomocy zabytkom archeologicznym podczas wykopalisk,” in </span><span><em>Pierwsza pomoc dla zabytków archeologicznych</em></span><span>, ed. Zbigniew Kobyliński (Warsaw: SNAP–Oddział Warszawski, 1998), 15.</span></p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a><span>Ibid.</span></p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a><span>Bennett, </span><span><em>Vibrant Matter</em></span><span>, ix.</span></p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a>Ibid., 17.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a>Shanks, <em>The Life of an Artifact</em>, 17.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a>Tim Ingold, <em>Being Alive: Essays on Movement, Knowledge and Description</em> (London–New York: Routledge, 2011), 27.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a>Bennett, <em>Vibrant Matter</em>, 112.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a>Barad, <em>Meeting the Universe Halfway</em>, 137.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a>Ibid., 135.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a>Rosi Braidotti, <em>The Posthuman</em> (Cambridge: Polity Press, 2017); <em>Nomadic Subjects: Embodiment and Sexual Difference in Contemporary Feminist Theory</em> (New York: Columbia University Press, 2011).</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a>Braidotti, <em>The Posthuman</em>.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a>Ibid.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a>Kristin Asdal, “The Problematic Nature of Nature: The Post-Constructivist Challenge to Environmental History,” <em>History and Theory</em> 42, no. 4, (2003), 61.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a>Rodney Harrison et al., “Belonging and Belongings: On Migrant and Nomadic Heritages in and for the Anthropocene,” in <em>The New Nomadic Age: Archaeologies of Forced and Undocumented Migration</em>, ed. Yannis Hamilakis (Sheffield: Equinox Publishing, 2018), 209.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a>Ibid., 214.</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a>Cf. Alfredo González-Ruibal, <em>An Archaeology of the Contemporary Era</em> (Abingdon–Oxon–New York: Routledge, 2019); “Beyond the Anthropocene: Defining the Age of Destruction,” <em>Norwegian Archaeological Review</em> 51, nos. 1–2 (2018), 10–21.</p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a>Cornelius Holtorf, “Why Cultural Heritage is not ‘At Risk’ (In Syria or Anywhere),” <a href="https://heritagefortransformation.wordpress.com/2016/04/04/why-cultural-heritage-is-not-at-risk-in-syria-or-anywhere/" target="_blank" rel="noopener">https://heritagefortransformation.wordpress.com/2016/04/04/why-cultural-heritage-is-not-at-risk-in-syria-or-anywhere/</a>.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a>Caitlin DeSilvey, <em>Curated Decay: Heritage Beyond Saving</em> (Minneapolis–London: University of Minnesota Press, 2017).</p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a>Ibid., 5.</p>
+<p><a href="#sdfootnote52anc" name="sdfootnote52sym">52</a>Ibid., 9–20.</p>
+<p><a href="#sdfootnote53anc" name="sdfootnote53sym">53</a>Ibid., 166.</p>
+<p><a href="#sdfootnote54anc" name="sdfootnote54sym">54</a>Ibid., 184.</p>
+<p><a href="#sdfootnote55anc" name="sdfootnote55sym">55</a>Doug Bailey, <em>Breaking the Surface: An Art/Archaeology of Prehistoric Architecture</em> (Oxford: Oxford University Press, 2018).</p>
+<p><a href="#sdfootnote56anc" name="sdfootnote56sym">56</a>González-Ruibal, <em>An Archaeology of the Contemporary Era</em>, 4.</p>
+<p><a href="#sdfootnote57anc" name="sdfootnote57sym">57</a>Dag T. Andersson, “Trusted Vagueness: The Language of Things and the Order of Incompleteness,” in <em>Ruin Memories: Materiality, Aesthetics and the Archaeology of the Recent Past</em>, eds. Bjørnar Olsen and Þóra Pétursdóttir (London–New York: Routledge, 2014), 39.</p>
+<p><a href="#sdfootnote58anc" name="sdfootnote58sym">58</a>Christopher Tilley and Kate Cameron-Daum, <em>An Anthropology of Landscape: The Extraordinary in the Ordinary</em> (London: UCL Press, 2017).</p></div>
+
+				
+
+				
+	<div class="m-bibliography" style="margin-bottom: 2em;">
+		<a class="c-issue-toc__article-collapse-btn" role="button" data-toggle="collapse" href="#collapseSummary1813" aria-expanded="false" aria-controls="collapseSummary1813" data-lexicon-show="" data-lexicon-hide="">
+			Bibliography
+		</a>
+		<div class="c-issue-toc__article-collapse collapse" id="collapseSummary1813">
+			<div class="c-issue-toc__article-collapse-inner">
+				<div class="m-bibliography__content u-typo">
+	<p>Andersson, Dag T. “Trusted Vagueness: The Language of Things and the Order of Incompleteness.” In <em>Ruin Memories: Materiality, Aesthetics and the Archaeology of the Recent Past</em>. Bjørnar Olsen, Þóra Pétursdóttir, eds. 33–40. London–New York: Routledge, 2014.</p>
+<p><em>Architecture in the Anthropocene: Encounters Among Design, Deep Time, Science and Philosophy</em>, Etienne Turpin, ed. Ann Arbor: Open Humanities Press, 2013.</p>
+<p><em>Art in the Anthropocene: Encounters Among Aesthetics, Politics, Environments and Epistemologies</em>. Heather Davis and Etienne Turpin, eds. London: Open Humanities Press, 2015.</p>
+<p>Asdal, Kristin. “The Problematic Nature of Nature: The Post-Constructivist Challenge to Environmental History.” <em>History and Theory</em> 42, no. 4 (2003): 60–72.</p>
+<p>Bailey, Doug. <em>Breaking the Surface: An Art/Archaeology of Prehistoric Architecture</em>. Oxford: Oxford University Press, 2018.</p>
+<p>Barad, Karen. <em>Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning</em>. Durham–London: Duke University Press, 2007.</p>
+<p>Bennett, Jane. <em>Vibrant Matter: A Political Ecology of Things</em>. Durham–London: Duke University Press, 2009.</p>
+<p>Bińczyk, Ewa. <em>Epoka człowieka. Retoryka i marazm antropocenu</em>. Warsaw: Wydawnictwo Naukowe PWN, 2018.</p>
+<p>Bińczyk, Ewa. <em>Inżynieria klimatu a inżynieria człowieka. Dyskursy na temat środowiska w epoce antropocenu</em>. <em>Ethos</em> 111, no. 3 (2015): 153–175. <a href="https://doi.org/10.12887/28-2015-3-111-10" target="_blank" rel="noopener">https://doi.org/10.12887/28-2015-3-111-10</a>.</p>
+<p>Bińczyk, Ewa. “Ostudzenie entuzjazmu wobec nowych mediów.” In <em>Interfejsy, kody, symbole. Przyszłość komunikowania</em>, Ewa Drygalska, ed. 70–78. Wrocław: Laboratorium, 2016.</p>
+<p>Bonazza, Alessandra, Palmira Messina, Cristina Sabbioni, Carlota M. Grossi, Peter Brimblecombe. “Mapping the Impact of Climate Change on Surface Recession of Carbonate Buildings in Europe.” <em>Science of the Total Environment</em> 407 (2009): 2039–2050.</p>
+<p>Bonneuil, Christophe. “The Geological Turn: The Narratives of the Anthropocene.” In <em>The Anthropocene and the Global Environmental Crisis: Rethinking Modernity in a New Epoch</em>. Clive Hamilton, Christophe Bonneuil, François Gemenne, eds. 17–31. London–New York: Routledge, 2015.</p>
+<p>Braidotti, Rosi. <em>The Posthuman</em>. Cambridge: Polity Press, 2017.</p>
+<p>Braidotti, Rosi. <em>Nomadic Subjects: Embodiment and Sexual Difference in Contemporary Feminist Theory</em>. New York: Columbia University Press, 2011.</p>
+<p>Cabrelles, Miriam, Silvia Blanco-Pons, Berta Carrión-Ruiz, Luis Lerma José. “From Multispectral 3D Recording and Documentation to Development of Mobile Apps for Dissemination of Cultural Heritage.” In <em>Cyber-Archaeology and Grand Narratives: Digital Technology and Deep-Time Perspectives on Culture Change in the Middle East</em>. Thomas E. Levy, Ian W. N. Jones, eds. 67–90. San Diego: Springer International Publishing, 2018.</p>
+<p>Chakrabarty, Dipesh. “The Climate of History: The Four Theses.” <em>Critical Inquiry</em> 2 (2009): 197–222.</p>
+<p>Cohen, Jeffrey J. <em>Stone: An Ecology of the Inhuman</em>. Minneapolis–London: University of Minnesota Press, 2015.</p>
+<p>Crutzen, Paul J. “The Anthropocene: Geology of Mankind.” <em>Nature</em> 415 (2002): 23–24.</p>
+<p>Crutzen Paul J., Eugene F. Stoermer, “The ‘Anthropocene’.” <em>IGBP Newsletter</em> 41 (2000): 17–18.</p>
+<p><em>Cyber-Archaeology and Grand Narratives: Digital Technology and Deep-Time Perspectives on Culture Change in the Middle East</em>. Thomas E. Levy, Ian W. N. Jones, eds. San Diego: Springer International Publishing, 2018.</p>
+<p>Delmonaco, Giuseppe, Claudio Margottini, Daniele Spizzichino. “Slope Dynamics, Monitoring and Geological Conservation of the Siq of Petra (Jordan).” In <em>Geotechnical Engineering for the Preservation of Monuments and Historic Sites</em>. Alessandro Flora, Stefania Lirer, eds. 325–334. London: Taylor and Francis Group Press, 2013.</p>
+<p>DeSilvey, Caitlin. <em>Curated Decay: Heritage Beyond Saving</em>. Minneapolis–London: University of Minnesota Press, 2017.</p>
+<p>Drążkowska, Anna, Małgorzata Grupa. “Ogólne zasady udzielania pierwszej pomocy zabytkom archeologicznym podczas wykopalisk.” In <em>Pierwsza pomoc dla zabytków archeologicznych</em>, Zbigniew Kobyliński, ed. 13–46. Warsaw: SNAP–Oddział Warszawski, 1998.</p>
+<p>Edgeworth Matthew, Jeffrey Benjamin, Bruce Clarke, Zoë Crossland, Ewa Domańska, Alice Clair Gorman, Paul Graves-Brown <em>et al</em>. “Archaeology of the Anthropocene.” <em>Journal of Contemporary Archaeology</em> 1, no. 1 (2014): 73–132.</p>
+<p>Forte, Maurizio. “Introduction to Cyber-Archaeology.” In <em>Cyber-Archaeology</em>, Maurizio Forte, ed. 9–14. Oxford: Oxford University Press, 2010.</p>
+<p>González-Ruibal, Alfredo, <em>An Archaeology of the Contemporary Era</em>. Abingdon–Oxon–New York: Routledge, 2019.</p>
+<p>González-Ruibal, Alfredo. “Beyond the Anthropocene: Defining the Age of Destruction.” <em>Norwegian Archaeological Review</em> 51, nos. 1–2 (2018): 10–21.</p>
+<p>Hall, C. Michael, Tim Baird, Michael James, and Yael Ram. “Climate Change and Cultural Heritage: Conservation and Heritage Tourism in the Anthropocene.” <em>Journal of Heritage Tourism</em> 11, no. 1 (2016): 10–24.</p>
+<p>Harrison, Rodney. “Beyond ‘Natural’ and ‘Cultural’ Heritage: Toward an Ontological Politics of Heritage in the Age of Anthropocene.” <em>Heritage &amp; Society</em> 8, no. 1 (2015): 24–42.</p>
+<p>Harrison, Rodney, Staffan Appelgren, and Anna Bohlin. “Belonging and Belongings: On Migrant and Nomadic Heritages in and for the Anthropocene.” In <em>The New Nomadic Age: Archaeologies of Forced and Undocumented Migration</em>, Yannis Hamilakis, ed. 209–220. Sheffield: Equinox Publishing, 2018.</p>
+<p>Holtorf, Cornelius, “Why Cultural Heritage is not ‘At Risk’ (In Syria or Anywhere).” 2017. <u><a href="http://archeo.edu.pl/biografia2017/2016/10/18/dlaczego-dziedzictwo-kulturowe-nie-jest-zagrozone-w-syrii-i-innych-miejscach/" target="_blank" rel="noopener">http://archeo.edu.pl/biografia2017/2016/10/18/dlaczego-dziedzictwo-kulturowe-nie-jest-zagrozone-w-syrii-i-innych-miejscach/</a></u>.</p>
+<p>Ingold, Tim. <em>Being Alive: Essays on Movement, Knowledge and Description</em>. London–New York: Routledge, 2011.</p>
+<p>Kobiałka, Dawid. “Let Heritage Die! The Ruins of Trams at Depot No. 5 in Wrocław, Poland.” <em>Journal of Contemporary Archaeology</em> 2, no. 1 (2014): 351–368.</p>
+<p>Murdock, Andy. “Cyber-Archaeology, Big Data and the Race to Save Cultural Heritage Sites.” February 16, 2016. <u><a href="http://qi.ucsd.edu/news-article.php?id=2662" target="_blank" rel="noopener">http://qi.ucsd.edu/news-article.php?id=2662</a></u><u>.</u></p>
+<p><em>Nauka i zabytki. Nauki ścisłe w służbie archeologii, ochronie zabytków oraz historii</em>, Władysław Weker, ed. Warsaw: Państwowe Muzeum Archeologiczne, 2008.</p>
+<p>Paradise, Thomas R. “Sandstone Weathering Thresholds in Petra, Jordan.” <em>Physical Geography</em> 16, no. 3 (1995): 205–222.</p>
+<p>Ptak, Anna, ed.<em> Amplifikacja natury. Wyobraźnia planetarna architektury w epoce antropocenu.</em> Warsaw: Wydawnictwo Zachęty Narodowej Galerii Sztuki, 2018.</p>
+<p>Raffnsøe, Sverre. <em>Philosophy of the Anthropocene: The Human Turn</em>. Hampshire–New York: Palgrave Macmillan, 2016.</p>
+<p>Schiffer, Michael. <em>Behavioral Archaeology</em>. New York: Academic Press, 1976.</p>
+<p>Shanks, Michael. “The Life of an Artifact in an Interpretive Archaeology.” <em>Fennoscandia Archaeologica</em> 15 (1998): 15–42.</p>
+<p>Smithson, Robert, “A Sedimentation of the Mind: Earth Projects.” <em>Artforum</em> 1 (1968): 82–91.</p>
+<p>Solli, Brit, Mats Burström, Ewa Domanska, Matt Edgeworth, Alfredo Gonzalez-Ruibal, Cornelius Holtorf, Gavin Lucas <em>et al</em>. “Some Reflections on Heritage and Archaeology in the Anthropocene.” <em>Norwegian Archaeological Review</em> 44, no. 1 (2011): 40–88.</p>
+<p>Stobiecka, Monika. “Archeologia Antropocenu i Cyfrowe Krajobrazy.” <em>Prace Kulturoznawcze</em> 22 (2018): 145–163.</p>
+<p>Strzelczyk, Alicja B., Joanna Karbowska-Berent, <em>Drobnoustroje i owady niszczące zabytki i ich zwalczanie.</em> Torun: Wydawnictwo Uniwersytetu Mikołaja Kopernika, 2004.</p>
+<p>Szerszyński, Bronisław. “The Anthropocene Monument: On Relating Geological and Human Time.” <em>European Journal of Social Theory</em> 20, no. 1 (February 2017): 111–31.</p>
+<p>Tilley, Christopher, and Kate Cameron-Daum. <em>Anthropology of Landscape: The Extraordinary in the Ordinary</em>. London: UCL Press, 2017.</p>
+<p>UNESCO Amman, <em>Treasury 3D Model – Petra Siq Stability project 2013</em>. December 3, 2013, <u><a href="https://www.youtube.com/watch?v=sMhZRWLGPdU" target="_blank" rel="noopener">https://www.youtube.com/watch?v=sMhZRWLGPdU</a>. </u></p>
+<p>Urbańczyk, Przemysław. “O możliwościach poznawczych archeologii.” <em>Przegląd Archeologiczny</em> 29 (1981): 5–51.</p>
+<p> </p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/nature-as-curator" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

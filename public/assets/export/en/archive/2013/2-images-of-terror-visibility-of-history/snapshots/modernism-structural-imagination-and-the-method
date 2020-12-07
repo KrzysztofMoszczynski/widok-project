@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Modernizm, strukturalna wyobraźnia i "metoda" | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/obrazy-terroru-widzialnosc-historii/modernizm-strukturalna-wyobraznia-i-metoda">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Modernizm, strukturalna wyobraźnia i &quot;metoda&quot; | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Modernizm, strukturalna wyobraźnia i &quot;metoda&quot; | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/obrazy-terroru-widzialnosc-historii/modernizm-strukturalna-wyobraznia-i-metoda">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Modernizm, strukturalna wyobraźnia i &quot;metoda&quot; | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #31508b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #31508b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #31508b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #31508b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #31508b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #31508b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #31508b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #31508b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(49,80,139,0.8) !important; */
+			/* background-color:#31508b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(49,80,139,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#31508b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(49,80,139,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#31508b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(49,80,139,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(49,80,139,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#31508b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#31508b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#31508b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1307 parent-id-1288">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="420" data-selected-issue-color="#31508b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/2-images-of-terror-visibility-of-history#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/2-images-of-terror-visibility-of-history/modernism-structural-imagination-and-the-method">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/obrazy-terroru-widzialnosc-historii#toc">2</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/obrazy-terroru-widzialnosc-historii/modernizm-strukturalna-wyobraznia-i-metoda?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Modernizm, strukturalna wyobraźnia i "metoda"</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/obrazy-terroru-widzialnosc-historii/modernizm-strukturalna-wyobraznia-i-metoda?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=1306">Agnieszka Rejniak-Majewska</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Rosalind Krauss, <em>Oryginalność awangardy i&nbsp;inne mity modernistyczne</em>, tłum. M. Szuba, słowo/obraz-terytoria, Gdańsk 2011.</h2> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/02/modernizm-strukturalna-wyobraznia/67-505-1-pb-1920x-d00.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2013/02/modernizm-strukturalna-wyobraznia/67-505-1-pb-330x-2db.jpg 330w,assets/cache/images/issues/2013/02/modernizm-strukturalna-wyobraznia/67-505-1-pb-660x-8af.jpg 660w,assets/cache/images/issues/2013/02/modernizm-strukturalna-wyobraznia/67-505-1-pb-768x-740.jpg 768w,assets/cache/images/issues/2013/02/modernizm-strukturalna-wyobraznia/67-505-1-pb-1320x-e10.jpg 1320w" src="assets/cache/images/issues/2013/02/modernizm-strukturalna-wyobraznia/67-505-1-pb-660x-8af.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Dzięki staraniom wydawnictwa słowo/obraz-terytoria do rąk polskiego czytelnika trafiła niedawno <em>Oryginalność awangardy</em> Rosalind Krauss, jedna z&nbsp;najbardziej znanych prac w&nbsp;jej dorobku, kluczowa, jeśli chodzi o&nbsp;kontekst postmodernistycznych przemian w&nbsp;dziedzinie współczesnej krytyki sztuki. Jest to więc powód do radości, ale jednocześnie – zważywszy na&nbsp;25-letni okres, jaki minął od pierwszego wydania tej książki – do namysłu nad widoczną w&nbsp;różnicy dat odmiennością horyzontów czasowych. Czy to, co było polemiczne i&nbsp;metodologicznie nowe w&nbsp;esejach pisanych pod&nbsp;koniec lat 70. i&nbsp;na początku lat 80. ubiegłego wieku, zachowuje dziś jeszcze aktualność i&nbsp;siłę prowokacji? Czy pozostająca pod&nbsp;urokiem strukturalizmu i&nbsp;poststrukturalizmu „metoda” Krauss, i&nbsp;towarzyszący jej zestaw teoretycznych przekonań, nie brzmią dziś jak echo minionych dyskusji, pewnego „snu o&nbsp;naukowości”, jaki dręczył humanistykę sprzed paru dekad? I&nbsp;wreszcie: jaka wizja modernizmu z&nbsp;niej się wyłania – czy modernizm jest czymś zamkniętym, a&nbsp;z jego „mitami” można się raz na&nbsp;dobre rozprawić?</p> <h2>Modernizm przeciw modernizmowi</h2> <p>Książka Krauss nie jest łatwą lekturą, a&nbsp;trudność ta wynika po&nbsp;części z&nbsp;tego, że&nbsp;granice modernizmu i&nbsp;postmodernizmu, podziały chronologiczne i&nbsp;gatunkowe nie układają się w&nbsp;niej według prostych wzorów. Teksty, które się na&nbsp;tę książkę złożyły – publikowane wcześniej na&nbsp;łamach pisma „October” – nie są przejrzystym, dydaktycznie skrojonym wykładem. Pisane były w&nbsp;reakcji na&nbsp;konkretne teksty i&nbsp;zdarzenia, i&nbsp;ten kontekstowy i&nbsp;jednostkowy punkt wyjścia pozostaje kluczowy, nawet jeśli na&nbsp;pierwszy plan zdają się wybijać kwestie teoretyczne. Późniejsze zebranie ich w&nbsp;jedną całość pozwoliło uwypuklić łączący je horyzont, jakim jest krytyczne spojrzenie na&nbsp;modernizm, z&nbsp;nowej, poststrukturalistycznej perspektywy, jaką Krauss w&nbsp;tym czasie przyjęła. Atakowany przez nią „modernizm”, jak łatwo się zorientować, oznacza nie tyle praktykę artystyczną czy jej rezultaty, co przede wszystkim pewien dyskurs na&nbsp;temat sztuki – system wartości i&nbsp;definiujących ją pojęć. Krauss uderza w&nbsp;same filary tego dyskursu, do których zalicza pojęcia autorstwa, dzieła, medium, modernistycznej abstrakcji, oryginalności i&nbsp;twórczego rozwoju – stanowiące rdzeń narracyjnych konstrukcji, do jakich przywykli apologeci i&nbsp;amatorzy nowoczesnej sztuki. Przyjęta przez Krauss strategia polega na&nbsp;tym, by pokazać, że&nbsp;kruchość i&nbsp;arbitralność tych pojęciowych kategorii ujawnia się w&nbsp;konfrontacji z&nbsp;nowoczesnymi praktykami sztuk wizualnych – wystarczy przeanalizować je wnikliwiej, pod&nbsp;innym kątem, w&nbsp;innych konfiguracjach. Szczególną rolę pod&nbsp;tym względem odgrywa fotografia, jako praktyka nie mieszcząca się w&nbsp;starych wyobrażeniach artystycznej jednostkowości i&nbsp;geniuszu (tych zaczerpniętych z&nbsp;renesansowych idei, które uformowały dyskurs historii sztuki). Tymczasem fotografia nie tylko stanowiła nieodzowne medium nowoczesności, ale – jak pokazuje Krauss – pełniła często funkcję modelu zarówno modernistycznych, jak i&nbsp;„postmodernistycznych” praktyk artystycznych. Dla nowego spojrzenia Krauss na&nbsp;modernizm istotne było także jej krytyczne zaangażowanie w&nbsp;sprawy współczesnej sztuki i&nbsp;odniesienie do generowanych przez nią problemów, jak kwestia indeksu-śladu, przestrzeni realnej i&nbsp;powtórzenia. Sama jednak konstrukcja książki, której pierwsza część, objętościowo bardziej obszerna, poświęcona jest sztuce pierwszych dekad XX wieku, sugeruje, że&nbsp;modernistyczna narracja może być zdekonstruowana od środka, że&nbsp;dzieła i&nbsp;działania artystów od wewnątrz podważają dyskursywne podziały i&nbsp;kategorie, w&nbsp;których próbowała je zamknąć krytyka.</p> <p>Z tego punktu widzenia – jako próba otwarcia obrazu nowoczesnej sztuki, uwolnienia go z&nbsp;pewnych kategorialnych ograniczeń – książka Krauss stanowi swoistą grę „z modernizmem przeciw modernizmowi”, lub też, by użyć jej własnych słów: polemiczną rozgrywkę między „szerszym typem modernistycznej wrażliwości” a&nbsp;wąsko pojmowanym modernizmem. Przeciwstawienie to i&nbsp;określenie „szersza modernistyczna wrażliwość” (<em>the larger modernist sensibility</em>) nie pojawia się wprawdzie w&nbsp;<em>Oryginalności awangardy</em> (zastępuje je raczej wyobrażenie o&nbsp;byciu post-), ale pochodzi z&nbsp;wcześniejszego tekstu <em>A View of Modernism</em>, który ukazał się jeszcze w&nbsp;czasie, gdy Krauss była członkiem redakcji „Artforum”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. Artykuł ten jest niezwykle instruktywny, jeśli chodzi o&nbsp;stosunek Krauss do tego, co określa ona jako „modernizm”, zdradzający świadomość własnych motywacji i&nbsp;własnej krytycznej drogi. Zdaniem Krauss, sedno modernistycznego myślenia – to znaczy podejścia, które sama dzieliła początkowo z&nbsp;Clementem Greenbergiem i&nbsp;Michaelem Friedem – polega na&nbsp;przekonaniu o&nbsp;wewnętrznej jedności rozwoju sztuki, widzeniu współczesnych zjawisk zawsze jako przedłużenia jednej i&nbsp;tej samej tradycji, określonej przez specyficzne wartości medium. Zgodnie z&nbsp;takim ujęciem, współczesne dzieła oceniane mogą być jedynie na&nbsp;podstawie ciągłości z&nbsp;wcześniejszymi etapami rozwoju modernizmu, i&nbsp;uwzględniane w&nbsp;modernistycznej historii sztuki tylko o&nbsp;tyle, o&nbsp;ile dają się wpisać w&nbsp;założony na&nbsp;wstępie linearny ciąg rozwojowy. Tego rodzaju perspektywa, która w&nbsp;płótnach Franka Stelli każe widzieć kontynuację i&nbsp;jedyną możliwą dziś realizację malarskich, wizualnych jakości, obecnych u&nbsp;Velásqueza, jawi się Krauss jako wynik nieuświadomionego determinizmu, jako nieosiągalna na&nbsp;dłuższą metę próba ustanowienia historycznej ciągłości między dawną sztuką a&nbsp;tym, co rozpoznawane jest jako najważniejsze i&nbsp;najbardziej wartościowe we współczesnej twórczości. Modernistyczna wizja historii sztuki, zdaniem Krauss, jawi się jako „amfiladowy ciąg pomieszczeń”, gdzie możliwe jest przechodzenie tylko w&nbsp;jednym kierunku – widok całości przebytej drogi, dostępny z&nbsp;punktu, który stanowi teraźniejszość<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Współczesny obraz – jak dzieło Stelli dla Frieda – jest tu jednocześnie milczącą „samoobecną” płaszczyzną i&nbsp;„oknem”, przez które widać, w&nbsp;zamrożonej perspektywie, cały ów oddalający się ciąg przeszłości. W&nbsp;rzeczywistości – jak stwierdza Krauss – obraz ten pełni rolę „ekranu”, na&nbsp;który rzutowane są określonego typu historyczne przedsądy. Dla Krauss ta historycystyczna perspektywa okazuje się nie tylko „niemożliwa”, ale jest rodzajem więzienia – jednocześnie warunkuje i&nbsp;ogranicza rozumienie teraźniejszości, i&nbsp;odbiera swobodę myślenia o&nbsp;historii. Zerwanie z&nbsp;nią – tak jaskrawo widoczne w&nbsp;<em>Oryginalności awangardy</em> – pozwala znaleźć zupełnie inne drogi dostępu do modernistycznej przeszłości – znowu otworzyć można „drzwi”, które zdawały się raz a&nbsp;zawsze zamknięte za&nbsp;wszystkim, co już było. „Pewność” modernistycznej wersji historii miała bowiem tę cenę, że&nbsp;w&nbsp;jej ramach wszystko co najistotniejsze w&nbsp;rozwoju sztuki nowoczesnej zdawało się dokonane; z&nbsp;definicji niemożliwy był żaden przełom, który radykalnie zmieniłby obraz przeszłości. Zwrot, jakiego dokonała Krauss, łączył się natomiast z&nbsp;otwarciem na&nbsp;to, co w&nbsp;nowszej sztuce nie dawało się już wpisać w&nbsp;wąsko pojęty, modernistyczny porządek wartości (Greenbergowskie ideały jedności medium, bezpośredniości, estetycznej transcendencji doświadczanej w&nbsp;akcie odbioru). Między przeszłością a&nbsp;teraźniejszością ukazują się nowe ścieżki powiązań, które tamta perspektywa wykluczała. Ale – jak podkreśla Krauss – powiązania te muszą być odtąd jednostkowe, subiektywne, świadomie warunkowane własnym punktem widzenia<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Krytykowany przez nią modernistyczny, linearny porządek dziejów – tak dobrze sprawdzający się w&nbsp;podręcznikowych opracowaniach z&nbsp;historii sztuki i&nbsp;w modernistycznej formule muzealnej ekspozycji – ma tę zaletę, że&nbsp;jest czytelny, przejrzysty i&nbsp;łatwy do opanowania. Krauss przekonuje, że&nbsp;ta perswazyjna skuteczność to wynik realistycznej iluzji: opartego na&nbsp;przedstawieniowych konwencjach złudzenia, że&nbsp;logika opisu jest tożsama z&nbsp;logiką zdarzeń. Temu właśnie obezwładniającemu złudzeniu, jej zdaniem, uległa modernistyczna krytyka, kiedy przyjmując punkt widzenia „wszechwiedzącego narratora”, „wyzbyła się wszelkich zastrzeżeń, co do tego, co uznała za&nbsp;samooczywiste, wyzbyła się ostrożności w&nbsp;stosunku do tego, co traktowała jako dane”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>.</p> <h2>Odświeżająca zmiana składni</h2> <p>Filtrem, przez który Krauss ogląda modernizm, jest oczywiście strukturalizm, nie bez przyczyny postrzegany zwykle w&nbsp;opozycji do historyzmu, czy wręcz w&nbsp;ogóle historycznego myślenia. Podejście strukturalne daje środki, by rozprawić się z&nbsp;modernistyczną fantazją „jedności” i&nbsp;„organicznego” historycznego „rozwoju”, zastępując ją bardziej problematyczną wizją historycznych „cięć” i&nbsp;zmiennych paradygmatów. W&nbsp;metodzie tej rewizji kryje się jednak paradoks: strukturalne myślenie jako takie trudno bowiem traktować inaczej niż jako integralną część i&nbsp;wytwór nowoczesności. Radykalne zerwanie, jakie ogłasza Krauss, można więc widzieć raczej jako zwrot w&nbsp;stronę innego nurtu nowoczesnej tradycji (wówczas w&nbsp;Ameryce jeszcze słabo znanej), lub – jak sama pisała – „szerszej modernistycznej wrażliwości”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Będąc „antidotum” na&nbsp;historycystyczną wizję Greenberga i&nbsp;Frieda, semiologia de Saussure’a, rosyjski formalizm, strukturalizm Lévi-Straussa i&nbsp;rozwijająca się na&nbsp;ich przedłużeniu semiotyka generatywna i&nbsp;dekonstrukcja pozwalały jednocześnie na&nbsp;radykalizację antyromantycznych, antynaturalistycznych i&nbsp;antypozytywistycznych założeń, tworzących inną „twarz” modernizmu. Tak więc opozycja, jaka się tu rysuje, jest opozycją między („nieuświadamianym”) heglizmem i&nbsp;charakterystycznym dla modernistycznej krytyki kulturowym konserwatyzmem a&nbsp;nowoczesnym „antyhumanizmem”, którego kulminacją zdawał się francuski poststrukturalizm. Ciekawe jest przy tym, jak to nowe, strukturalne nastawienie w&nbsp;wydaniu Krauss wchodzi mimo wszystko na&nbsp;grunt przygotowany przez rodzimy amerykański formalizm, który był dla niej punktem wyjścia – by potem stać się swoistym ekranem, na&nbsp;tle którego określała swoją własną pozycję. Strukturalistyczny formalizm zastępuje zbyt „ograniczony” estetyczny formalizm Greenberga, ale zmiana ta okazuje się bardziej skomplikowana, niż się na&nbsp;pozór wydaje<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>.</p> <p>Michael Foucault, zapytany kiedyś o&nbsp;strukturalizm i&nbsp;poststrukturalizm, powiedział, że&nbsp;wprawdzie trudno określić, czym one dokładnie są, z&nbsp;pewnością jednak stanowią część szerokiego nurtu „formalizmu” („myślenia formalnego”), będącego jednym z&nbsp;„najsilniejszych, a&nbsp;zarazem najbardziej zróżnicowanych prądów, jakie znano w&nbsp;XX-wiecznej Europie”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. W&nbsp;kontekście pisarstwa Rosalind Krauss zdanie Foucault przypomina się z&nbsp;natarczywym poczuciem trafności, zwraca bowiem uwagę na&nbsp;pewien typ wrażliwości, który kryje się za&nbsp;nazwą „strukturalizm” – specyficzny sposób patrzenia czy rodzaj nastawienia, który, co dzisiaj bardziej może czytelne, miał swój udział zarówno w&nbsp;działaniach powojennej awangardy, jak i&nbsp;we współczesnych odmianach teorii. Pisarska kariera Krauss rozpoczynała się w&nbsp;okresie, kiedy Ameryka zaczęła chłonąć „francuską teorię” – strukturalizm i&nbsp;poststrukturalizm z&nbsp;dekonstrukcją za&nbsp;jednym zamachem, a&nbsp;w polu sztuki egzystencjalna retoryka abstrakcyjnego ekspresjonizmu zdążyła ustąpić miejsca bardziej chłodnym, skalkulowanym formom malarstwa <em>hard-edge</em>, pop-artu, czy minimalizmu. Był to czas „nowej powieści”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup> i&nbsp;eksperymentów filmu strukturalnego, a&nbsp;jednocześnie politycznego aktywizmu, protestu i&nbsp;kontestacji, których ścieżki krzyżowały się mocno ze sztuką. W&nbsp;pewnym sensie również te bardziej „gorące” i&nbsp;efemeryczne formy artystycznych działań, od happeningu, przez body art, po&nbsp;konceptualny performance wiązały się z&nbsp;założeniem strukturalnego schematu, „partytury”, która mogła nadawać metodyczną „pewność” najbardziej ryzykownym i&nbsp;absurdalnym na&nbsp;pozór działaniom. Pod&nbsp;tym względem happeningi Kaprowa i&nbsp;rysunki czy instalacje LeWitta zdaje się łączyć ten sam stopień abstrakcji i&nbsp;absurdalnej konsekwencji. Myślenie w&nbsp;kategoriach struktur, formalnych operacji, serii, permutacji i&nbsp;odwróceń, pociągało nie tylko za&nbsp;względu na&nbsp;właściwy sobie pozór „naukowej” precyzji, ale przede wszystkim zdawało się obiecywać uwolnienie od zdroworozsądkowych norm, od „mieszczańskiego” (i artystycznego) <em>common sensu</em>. Taki przecież miał być „rewolucyjny” użytek ze strukturalizmu, jaki Roland Barthes proponował w&nbsp;swoich <em>Mitologiach</em>. Dzieło to zdają się zresztą pełnić wobec książki Krauss w&nbsp;pewnym sensie rolę wzorcową. Pozycję Krauss wobec modernizmu można bowiem porównać do tego, jak Barthes obchodzi się z&nbsp;nawykami francuskiego mieszczaństwa. Tytułowe „mity modernistyczne” kojarzą się ze znaczeniem, jakie Barthes nadał temu strukturalistycznemu hasłu, gdy skonstruował postać „mitologa” – tropiciela współczesnych mitów, którego zadaniem ma być rozbrajanie fałszywych esencji, odkrywanie zakrzepłych „systemów semiologicznych” w&nbsp;tym, co uchodzi za&nbsp;niezmienny i&nbsp;naturalny stan rzeczy. Jest w&nbsp;tym podejściu ten sam rodzaj intelektualnej przekory i&nbsp;nieufności wobec bezrefleksyjnie przyjmowanych pewników, w&nbsp;analogiczny też sposób „burzycielskie” i&nbsp;rewolucyjne impulsy odkrywane i&nbsp;ożywiane są nie gdzie indziej jak w&nbsp;sferze języka. Wyrazem podobnej postawy był późniejszy o&nbsp;dwie dekady wybór nazwy „October” na&nbsp;tytuł nowego pisma, które Krauss wraz z&nbsp;Annette Michelson założyła w&nbsp;1976 roku. Tytuł ten, jak zaznaczały autorki we wstępie do pierwszego numeru, miał być hołdem dla filmu Eisensteina i&nbsp;wszelkich (minionych i&nbsp;współczesnych) aktów artystycznej rewolty, rzecz jasna nie dla twórców rewolucji październikowej. W&nbsp;powołaniu „Octobera” chodziło o&nbsp;ponowne stworzenie pomostu pomiędzy ambitną krytyczną sztuką i&nbsp;teorią, zasianie intelektualnego fermentu przeciwstawiającego się łatwemu „obrazkowemu” żurnalizmowi<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> – w&nbsp;sumie więc liczył się nie jakkolwiek pojęty polityczny aktywizm, lecz nowa, aktualna i&nbsp;refleksyjna forma (czy nie była to, skądinąd, podstawowa idea modernizmu?).</p> <h2>Tabu „esencji” i&nbsp;„imion własnych”</h2> <p>Teoretyczne ambicje i&nbsp;źródła inspiracji „Octobera” znakomicie czytelne są w&nbsp;tekstach zebranych w&nbsp;książce <em>Oryginalność awangardy</em>. Podobnie jak u&nbsp;Foucaulta i&nbsp;Barthesa, dostrzec w&nbsp;nich można dobrowolnie przyjęte przykazanie, by wyzbyć się szeregu ułatwiających pisanie, wygodnych, lecz zwodniczych pojęć, takich jak pojęcie „autora”, „intencji”, „obecności” czy źródłowości doświadczenia. Idea autorskich „imion własnych” – jak pokazuje Krauss na&nbsp;przykładzie interpretacji twórczości Picassa – jest typowym w&nbsp;historii sztuki wybiegiem, odwracającym uwagę od bardziej złożonych pytań i&nbsp;problemów, dzięki któremu w&nbsp;dowolnej sytuacji można się ratować „ostatecznym znaczonym” twórcy. Poddając owe pojęcia-klucze swoistej kwarantannie, Krauss przeciwstawia się zarówno modernistycznej skłonności do „esencjalizacji”, jak i&nbsp;typowym <em>clichés</em> popularnych tekstów o&nbsp;sztuce – temu, co określa jako beletrystyczne pisanie o&nbsp;sztuce „jako źródle szczerych i&nbsp;pięknych emocji”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>.</p> <p>Co prawda, poszukiwanie języka, który nazywałby rzeczy precyzyjnie i&nbsp;jasno, zamiast rozsnuwać wokół nich zabarwione emocjonalnie skojarzenia, wyrasta już z&nbsp;wcześniejszych formalistycznych doświadczeń (któż inny, jak nie Wölfflin, mówił o&nbsp;„historii sztuki bez nazwisk”?). Młodzieńcza fascynacja Krauss formalistyczną „metodą”, odkrytą w&nbsp;pracach Greenberga, szła przecież w&nbsp;parze z&nbsp;przeświadczeniem, że&nbsp;dzięki przyjęciu podobnej dyscypliny można znaleźć się od razu w&nbsp;szeregach „obiektywnej”, „naukowej” krytyki, odróżnionej od impresyjnego, poetyzującego pisania o&nbsp;sztuce<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Jednak z&nbsp;perspektywy lekcji, jaką był dla niej strukturalizm, Wölfflinowska nadzieja, że&nbsp;można „stworzyć trwały i&nbsp;jasny stosunek między okiem i&nbsp;tym, co widzialne”, pozostaje już tylko naiwnym pozytywistycznym złudzeniem. Wraz z&nbsp;wizualną wiarą modernizmu Krauss odrzuca przeświadczenie – tak podstawowe w&nbsp;przypadku Greenberga i&nbsp;Frieda – że&nbsp;można mówić o&nbsp;dziele sztuki „bezpośrednio”, na&nbsp;bazie samego doświadczenia. Zawsze, gdy tylko Krauss w&nbsp;swoich tekstach dotyka problemu „transcendentnej”, epifanicznej wizji, zawartej u&nbsp;Michaela Frieda w&nbsp;jego koncepcji „obecności” (<em>presentness</em>), wyczuwalny jest ton sceptycyzmu i&nbsp;niezrozumienia. Sprawia to wrażenie obcości, jaka otwiera się przeważnie między postawą „natchnionej” religijnej ufności a&nbsp;dociekliwym umysłem, szukającym ostatecznego oparcia i&nbsp;potwierdzenia. Zdaniem Jamesa Elkinsa, krytyczny upór Krauss sprawia, że&nbsp;nawet jeśli wierzy ona prawdopodobnie w&nbsp;to, że&nbsp;Fried może pewnych dzieł w&nbsp;ten sposób faktycznie doświadczać, to nie wierzy, by możliwe było oddanie tego doświadczenia w&nbsp;tekstualnym opisie<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Bezpośrednie „doświadczenie obecności”, tak samo jak jego „bezpośrednie wyrażenie” według formuły de Mana, stanowi „filozoficzną niemożliwość”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Wizja dzieła-jako-źródła oddala się zatem, podobnie jak kwestia „doświadczenia” – wymyka się w&nbsp;nieskończonej recesji śladów i&nbsp;powtórzeń. Nie znaczy to jednak, że&nbsp;pisać można „cokolwiek”, wręcz przeciwnie – Krauss bardzo pilnuje tego, by pisać o&nbsp;samych dziełach, zachowując przy tym możliwą ścisłość i&nbsp;rygor.</p> <p>Poststrukturalistyczny „reprezentacjonizm” – przekonanie, że&nbsp;miedzy realnością doświadczenia i&nbsp;przedmiotu a&nbsp;naszą ich świadomością zawsze jest język (wbrew transcendentalnej iluzji, podzielanej przez Frieda), równoznaczny jest u&nbsp;Krauss z&nbsp;przeświadczeniem, że&nbsp;dzieła sztuki z&nbsp;zasady oplecione są już siecią dyskursów, tekstualnie zapośredniczone. Oznacza to, że&nbsp;nie da się rozważać danego „dzieła” w&nbsp;jego suwerennej autonomii, jak gdyby było czymś obiektywnym i&nbsp;niezależnym – bezpośrednio uchwytną (samoobecną) formą dostępną w&nbsp;pojedynczym, syntetycznym spojrzeniu. Z&nbsp;drugiej jednak strony, same artefakty, procedury i&nbsp;praktyki ich wytwarzania są dla Krauss specyficzną, dyskursywną siatką, pozostającą do odczytania. Ponowna lektura tekstów zebranych w&nbsp;<em>Oryginalności awangardy</em> przekonuje mnie raczej o&nbsp;tym, że&nbsp;mimo gęstości teoretycznych i&nbsp;filozoficznych odniesień, zgodnie z&nbsp;formalistyczną tradycją, w&nbsp;centrum jej pisania są ciągle dzieła – materialne i&nbsp;zmysłowe konstrukty. Rzecz w&nbsp;tym, że&nbsp;Krauss za&nbsp;wszelką cenę stara się uniknąć „niebezpieczeństwa” tkwiącego w&nbsp;„obdarzaniu formy jakąś substancją formy”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>, czyli traktowania dzieła po&nbsp;Greenbergowsku jako estetycznej jedności. Można powiedzieć, że&nbsp;o&nbsp;ile Greenberg myślał o&nbsp;dziełach w&nbsp;horyzoncie estetycznej teleologii formy, o&nbsp;tyle tym, co interesuje Krauss, pozostaje raczej „infrastruktura” estetycznego pozoru – konstytuująca go materialna i&nbsp;procesualna złożoność, którą „modernistyczna ontologia” starała się okiełznać i&nbsp;zamknąć w&nbsp;jasnych granicach<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>.</p> <p>Pisanie staje się zatem sposobem, by tę wielość i&nbsp;składające się na&nbsp;nią napięcia wydobyć, dokonać pomysłowego odczytania dzieł w&nbsp;płaszczyźnie ich diachronicznych powiązań i&nbsp;technicznych procedur. I&nbsp;tak, w&nbsp;surrealistycznym zainteresowaniu fotografią Krauss rozpoznaje urzeczywistnienie koncepcji <em>écriture automatique</em> i&nbsp;fascynację znakową logiką mimetycznego podwojenia (odczucia rzeczywistości jako „pisma”). Wczesne rzeźby Giacomettiego odczytuje w&nbsp;aspekcie strukturalnych i&nbsp;formalnych paralel z&nbsp;obiektami sztuki „prymitywnej” oraz związków z&nbsp;„heterologią” i&nbsp;„niskim materializmem” Bataille’a. W&nbsp;pracach Duchampa i&nbsp;szeregu współczesnych działań przestrzennych Krauss rozpoznaje wspólną zasadę „indeksalnego” znakowania, zaadaptowaną i&nbsp;przeniesioną z&nbsp;fotografii. Pisząc o&nbsp;pracach Serry i&nbsp;wytworach land-artu (<em>Rzeźba w&nbsp;rozszerzonym polu</em> i&nbsp;<em>Serra – tłumaczenie</em>) pokazuje, jak nowym medium rzeźby staje się przestrzeń realna, doświadczana przez widza cieleśnie i&nbsp;otwierająca się w&nbsp;czasie, stanowiąca zaprzeczenie modernistycznego ideału wzrokowej jedności. Sama lista przywołanych tutaj przykładów pokazuje, że&nbsp;w&nbsp;centrum myślenia Krauss znajdują się praktyki, które modernistyczne pojęcie dzieła czynią problematycznym, z&nbsp;tego względu że&nbsp;naznaczone są wyraźnie od wewnątrz przez różnicującą czasowość, znakowość i&nbsp;napięcie między zmysłową obecnością a&nbsp;ideacyjnym, konceptualnym wymiarem. Stawiają też pod&nbsp;znakiem zapytania modernistyczne, Greenbergowskie założenie o&nbsp;odrębności i&nbsp;specyfice artystycznych mediów, bo&nbsp;oto okazuje się, że&nbsp;procedury różnych sztuk mogą podlegać wymianie i&nbsp;przeszczepieniu, a&nbsp;medium sztuki może stać się co innego niż malarskie podobrazie i&nbsp;rzeźbiarska bryła. Istotną rolę w&nbsp;z tej zmianie myślenia u&nbsp;Krauss odegrało doświadczenie współczesnych działań przestrzennych i&nbsp;ich związków z&nbsp;filmem eksperymentalnym (wprost widocznych na&nbsp;przykład w&nbsp;medialnej „podwójności” twórczości Serry). Kluczową rolę w&nbsp;tej nowej optyce odegrał też surrealizm, który, jak sama Krauss z&nbsp;czasem zauważyła<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>, udało się jej wydobyć spod degradującej i&nbsp;feminizującej go maski błahej fantastycznej sztuki „z dreszczykiem”, by pokazać jego wewnętrzną złożoność i&nbsp;teoretyczną doniosłość. Pozostawszy „ślepą plamką” w&nbsp;dawniejszym dyskursie amerykańskiego modernizmu, surrealizm stał się uprzywilejowanym punktem wyjścia dla jego krytyki. Potraktowany z&nbsp;teoretyczną powagą – nie jako kolekcja osobliwych wizji, ale zbiór praktyk - okazał się, jak to ujął Hal Foster, „nie tyle przedmiotem, który należy poddać teorii, co obiektem teoretycznym, produkującym własne pojęcia krytyczne”, „rozwijającym własne, nieoczywiste koncepcje estetyki, polityki i&nbsp;historii”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>.</p> <h2>Język, „metoda” i&nbsp;problemy z&nbsp;przekładem</h2> <p>Wspomniałam tu o&nbsp;„pomysłowości” dokonywanych przez Krauss odczytań, co oczywiście narzuca pytanie, na&nbsp;ile jej podejście można uznać za&nbsp;„paraliteracki” gest, na&nbsp;ile za&nbsp;ścisłą i&nbsp;naukową „metodę”. Sama Krauss ostatnim zamieszczonym w&nbsp;książce esejem (<em>Poststrukturalizm i&nbsp;paraliterackość</em>) potwierdza niejako, że&nbsp;to pierwsze określenie jest trafniejsze. Z&nbsp;drugiej strony, pewien – często zresztą jej wytykany – autorytaryzm sądów, towarzyszący im ton pewności i&nbsp;teoretyczny rynsztunek, sprawia, że&nbsp;Krauss jawi się jako radykalna przedstawicielka krytycznej, poststrukturalistycznej „metody”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. Faktycznie, ów „ton pewności” dość często wyczuwa się w&nbsp;jej tekstach, bardziej jednak jest on narzędziem polemicznej walki (w której w&nbsp;upraszczających konturach rysuje się sylwetki przeciwników) niż wyrazem przekonania o&nbsp;mocnych fundamentach „metody”. W&nbsp;niemal apologetycznej monografii poświęconej Krauss David Carrier podkreśla intelektualny rygor i&nbsp;horyzont jej pisarstwa, umieszczając ją w&nbsp;długiej tradycji „filozoficznej krytyki sztuki”. Zauważa on jednak, że&nbsp;teoretyczne narzędzia strukturalizmu, poststrukturalizmu czy psychoanalizy, z&nbsp;których Krauss tak obficie korzysta, stosowane są przez nią często w&nbsp;zmienny i&nbsp;wyrywkowy sposób, lub wręcz „nadużywane”, w&nbsp;zależności od potrzeby swobodnie wyrwane z&nbsp;wyjściowych ram teorii<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. Pojęcia cały czas tu pracują, a&nbsp;ich użyteczność sprawdzana jest każdorazowo w&nbsp;nowych kontekstach – bardziej niż „poprawność” użycia liczy się ich teoretyczna, eksplanacyjna wydajność. Zgodnie z&nbsp;tym, co mówi o&nbsp;sobie Krauss w&nbsp;niedawno wydanej antologii swoich tekstów, rzeczą kluczową w&nbsp;pisaniu i&nbsp;myśleniu o&nbsp;sztuce pozostaje dla niej „inwencja”, ciągłe wynajdywanie nowych ujęć i&nbsp;jezyków<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>. Można więc traktować Krauss jako znakomitego i&nbsp;„pomysłowego” krytyka sztuki, nie historyka, o&nbsp;ile tylko sam przykład jej twórczości nie świadczy o&nbsp;wątłości i&nbsp;słabej przydatności takich podziałów.</p> <p>Swoboda korzystania z&nbsp;teoretycznych narzędzi, nieufność Krauss wobec języka, nie pozwalająca jej schodzić do jego potocznego poziomu, na&nbsp;którym grasują „mityczne” formuły (autor, intencja, forma, wpływ, itd.), a&nbsp;jednocześnie wyczuwalna w&nbsp;jej tekstach „przyjemność pisania”, gra metafor i&nbsp;skojarzeń – to wszystko stwarza nie lada wyzwanie dla tłumacza. Podczas czytania polskiego przekładu czasami niestety mam wrażenie, że&nbsp;specyficzny idiom Krauss brzmi w&nbsp;nim jeszcze bardziej niezrozumiale i&nbsp;pokrętnie niż w&nbsp;oryginale, momentami popada w&nbsp;osobliwy alogizm. Uważny czytelnik będzie w&nbsp;nie lada kłopocie, gdy zastanowi się nad tym jak działanie niejakiego Carmeana (historyka, który odkrył nieznany projekt Pollocka) <em>„posłużyło do konstrukcji prawdziwego obrazu w&nbsp;obronie tych fałszywych</em>” (s. 226). (Na szczęście wiara w&nbsp;logikę myślenia Krauss została tym razem ocalona, gdyż w&nbsp;oryginale przeczytać można „…przeciw tym fałszywym”.) Z&nbsp;książką Krauss będzie miał problemy historyk sztuki, kiedy przeczyta, że&nbsp;<em>„żadne pole estetyczne nie jest monolitem, a&nbsp;praktyka historii sztuki podzielona jest między metodę, zasięg, i&nbsp;niemal wszystko, co można wymienić</em>” (czyż nie chodziło przypadkiem o&nbsp;to, że&nbsp;je „podziela”?, s.&nbsp;36). Jakby tego było mało, historię sztuki nęka na&nbsp;dodatek „<em>epidemia ekstensji</em>” (s. 36). Na&nbsp;pocieszenie, we wstępie pojawia się sympatyczniej brzmiąca wiadomość, że&nbsp;<em>„ostatnio historia sztuki (…) zaczęła obejmować krytykę sztuki”</em> (s. 13) - po&nbsp;prawdzie, raczej „upodabniać się do krytyki sztuki”, ale co tam…). Konserwatyści ucieszą się na&nbsp;pewno, gdy trafią na&nbsp;stwierdzenie, że&nbsp;<em>„nie ma połączenia między dobrą sztuką a&nbsp;zmianą”</em> (s. 30 – w&nbsp;złagodzonej interpretacji pewnie: „nie istnieje konieczne powiązanie”). Dziwić też może wieść o&nbsp;tym, że&nbsp;Krauss poznała prace Greenberga dzięki „magazynowi” „Art and Culture” (s. 9), nie zaś książce o&nbsp;tym tytule.</p> <p>To jednak tylko drobiazgi. Największym problemem dla potencjalnego odbiorcy pozostaną składniowe łamańce, w&nbsp;których trudno znaleźć podmiot, dopełnienie i&nbsp;orzeczenie, a&nbsp;sens gubi się w&nbsp;zawiłości zdania, np.&nbsp;„<em>zainteresowanie, jakie sztuka Picassa okazuje pastiszowi, stanowi problem &lt;autorstwa&gt; wywodzący się ze środka jego dzieła, podobnie jak jego oddziaływanie przez kolaż na&nbsp;wszelkie procedury znaczenia kwestionuje wszelkie uproszczone idee referencji”</em> (s. 13). Sporo w&nbsp;tym pewnie winy samej autorki, ale konfuzję pogłębia tłumaczenie. Zdania, które u&nbsp;Krauss są mimo wszystko klarowne, w&nbsp;przekładzie gęstnieją w&nbsp;koszmarny zakalec. Porządek czasowy, rzeczowy, przyczynowy, obraca się całkiem w&nbsp;ruinę. <em>„Z perspektywy historii nowoczesnej rzeźby, był to akt inauguracyjny w&nbsp;sztuce Giacomettiego, wraz z&nbsp;konsekwencjami tego, co miało nastąpić w&nbsp;przemyśleniu koncepcji rzeźby po&nbsp;drugiej wojnie światowej” </em>(s. 79). Jak wspominałam, Krauss nie jest zwolenniczką linearnego typu narracji, mimo to pozostaje w&nbsp;miarę wierna klasycznym wyobrażeniom o&nbsp;chronologii i&nbsp;następstwach przyczynowych. W&nbsp;zgodzie z&nbsp;tym klasycznym porządkiem, można by powiedzieć: „był to akt (…) posiadający konsekwencje w&nbsp;tym, co miało nastąpić…”</p> <p>Prawdą jest, że&nbsp;wywody Krauss poruszają się na&nbsp;cienkiej i&nbsp;ryzykownej granicy między przedmiotowym opisem a&nbsp;teoretyczną spekulacją. Jest to źródło niekiedy osobliwie brzmiących metafor („<em>falliczna owalność</em>”), które jednakowoż są (nie najszczęśliwszym być może) wytworem samej autorki. Niestety, balansowanie na&nbsp;tej krawędzi w&nbsp;polskim tekście prowadzi często do niejasności, a&nbsp;chwilami do gromkich upadków, jak choćby stwierdzenie, że&nbsp;strukturalizm <em>„umożliwia związki między heterogenicznymi liczbami całkowitymi”</em> (s. 13, chodziło zapewne o&nbsp;to, że&nbsp;„pozwala pomyśleć o&nbsp;związkach między heterogenicznymi całościami”). Równie groteskowy efekt konkretyzacji daje konkluzja wieńcząca refleksję nad horyzontalnym zakomponowaniem prac Giacomettiego: <em>„I dokładnie w&nbsp;tej sali operacyjnej można spotkać związek Giacomettiego ze sztuką plemienną i&nbsp;prymitywną”</em> (s. 79). Zaiste, skoro jesteśmy przy surrealizmie, „spotykanie związków” przypomina słynne „nieoczekiwane spotkanie parasola i&nbsp;maszyny do szycia na&nbsp;stole operacyjnym”.</p> <p>Rozdział tyczący surrealistycznego okresu twórczości Giacomettiego, zapewne ze względu na&nbsp;temat, roi się zresztą od podobnych pułapek. Czytamy tam o&nbsp;<em>„rozłącznych, uwięzionych postaciach”</em> (czytaj: „rozczłonkowanych”), o&nbsp;tym jakie straszne rzeczy rzeźby <em>„wykonują wizualnie”</em> (s. 79), jak wyobraźnią surrealistów zawładnęła modliszka <em>„jako symbol upadku różnicy między życiem (…) a&nbsp;śmiercią”</em> (zresztą różnice „upadają” nie tylko na&nbsp;tej stronie, wbrew zwyczajowi ich „zacierania się” lub „załamywania”). Można tu też dowiedzieć się o&nbsp;tym, jak u&nbsp;Giacomettiego owa okrutna modliszka <em>„wybrażona jest w&nbsp;medium ekstremalnie formalnej (sic!) dysjunkcji</em>”. Jako tradycjonalistka, wolałabym w&nbsp;tym miejscu sformułowanie „skrajnego formalnego rozczłonkowania”, niezbyt chyba dalekie od słów Krauss o&nbsp;„<em>extreme formal disjunction</em>”. Obok, o&nbsp;innej (wcześniejszej) rzeźbie Giacomettiego czytamy, że&nbsp;<em>„wprowadza stworzenie dwóch ‘Klatek’ rok później”</em>, choć mogłaby je pewnie prościej – „zapowiadać”, itd.</p> <p>Trudny orzech do zgryzienia stanowią także opisy. Jak to zwykle bywa z&nbsp;formalnymi opisami, są one dość pedantyczne i&nbsp;zawikłane, w&nbsp;dodatku przeplatane teoretyczną terminologią, w&nbsp;sposób, który budzi co i&nbsp;rusz wątpliwość, na&nbsp;jakim poziomie się mówi. Szczęśliwie jednak, na&nbsp;wszelki wypadek, mamy też w&nbsp;książce obrazki, do których opisy te się odnoszą. Polski czytelnik musi się tu jednak uzbroić w&nbsp;dodatkową dozę cierpliwości (lub angielski oryginał), gdyż do rozpoznania „o co chodzi” w&nbsp;tekście ilustracja nie zawsze wystarczy. Nieoczekiwane zmiany składni sprawiają, że&nbsp;z&nbsp;opisywanymi przez Krauss obiektami dzieją się dziwne rzeczy. W&nbsp;rzeźbie <em>Czeszącej się</em> Julio Gonzáleza <em>„metalowe W&nbsp;jest nieczytelne, ponieważ włosy opadają na&nbsp;twarz”</em> (s 129)<em>.</em> Konsternację czytelnika może budzić w&nbsp;tym miejscu tajemnicze „W”, które ponoć się ukryło, choć na&nbsp;sąsiedniej ilustracji jest całkiem widoczne. Rozwiązanie jest tu banalne, bo&nbsp;chodziło o&nbsp;to, że&nbsp;inaczej niż na&nbsp;rysunkach, w&nbsp;metalowej rzeźbie Gonzáleza rzeczone „W nie jest czytelne <em>jako</em> włosy opadające na&nbsp;twarz” (oddala się więc od wyjściowej reprezentacji przedmiotowej). Kiedy czytam tekst dalej i&nbsp;patrzę na&nbsp;sąsiednie zdjęcie, rzeźba Gonzáleza sprawia coraz bardziej enigmatyczne i&nbsp;groźne wrażenie: <em>„cztery metalowe pręty, które luźno konfigurują W, nie &lt;wczytują&gt; niczego tak, jak niemal identyczny profil wczytuje rysunek.”</em> Można uznać, że&nbsp;Krauss przesadza trochę w&nbsp;swojej manierze opisywania przedmiotowych form jako czegoś, co dzieje się i&nbsp;„działa” na&nbsp;naszych oczach; tym razem jednak kłopotów można było uniknąć, tłumacząc angielskie „read as” rodzimym zwrotem w&nbsp;stronie biernej: „daje się odczytać”. Podobnej animizacji i&nbsp;dramatyzacji dałoby się uniknąć również <em>wczytując</em> się bardziej w&nbsp;tekst, w&nbsp;którym mowa jest o&nbsp;„rozluźnieniu konwencji polegającej na&nbsp;oddzielaniu postaci i&nbsp;tła”. Tymczasem z&nbsp;tekstu wysuwa się ku nam „<em>w połowie zaciśnięta pięść”</em>, która nie wiedząc czemu chwiejnie „<em>zaciska się na&nbsp;kawałku pustej przestrzeni, a&nbsp;jej uścisk na&nbsp;konwencjach (…) zostaje rozluźniony”</em>.</p> <p>To tylko wybór translatorskich usterek, niestety wyliczenie ich <em>in extenso</em> zajęłoby zbyt dużo miejsca i&nbsp;czasu. Często sprawiają one wrażenie zbytniej dosłowności i&nbsp;pośpiechu (łącznie z&nbsp;nieprzetłumaczonymi śródtytułami w&nbsp;jednym z&nbsp;ostatnich rozdziałów). Czy nie lepiej, zamiast pisać <em>„kolaż stanowi zainspirowaną metaforę strukturalną”</em> (s. 12) byłoby słowo „inspired” przetłumaczyć, może bardziej emfatycznie, jako „genialną” czy „natchnioną” metaforę? Czy zamiast pisać o&nbsp;<em>„tekstowych produkcjach podmiotu” </em>(s. 14), nie byłoby trafniej i&nbsp;jaśniej napisać o&nbsp;„tekstualnym wytwarzaniu podmiotu” (inaczej rodzi się wątpliwość: a&nbsp;nuż chodzi o&nbsp;zwyczajną podmiotową produkcję tekstów?). Niestety, tłumaczenie, podobnie jak pisanie, jest (między innymi) kwestią inwencji, która potrzebna jest zwłaszcza wtedy, gdy ma się do czynienia z&nbsp;tak wymagającym materiałem jak teksty Krauss. Zaniedbanie w&nbsp;tym względzie sprawia, że&nbsp;rośnie kapitał tych, którzy cały „postmodernizm” woleliby zbyć jako „modne bzdury”, a&nbsp;niechętnych poststrukturalistycznym teoriom historyków sztuki zdaje się zwalniać z&nbsp;potrzeby zagłębiania się w&nbsp;te trudne i&nbsp;zdradliwe obszary. Pokornego i&nbsp;sumiennego zaś czytelnika, który chciałby jednak coś zrozumieć, skazuje na&nbsp;ciężką mękę, jaką jest brnięcie przez tekst zawiły, napisany w&nbsp;na poły obcym języku.</p> <p><em>Last but not least</em>, mimo wszystko warto zajrzeć do tej książki, niezależnie od wad jej przekładu. W&nbsp;zebranych w&nbsp;niej tekstach znaleźć można bowiem wyjściowe sformułowania wielu pojęć i&nbsp;zagadnień, które stały się kanoniczne w&nbsp;języku współczesnej krytyki, jak „rzeźba w&nbsp;rozszerzonym polu” i&nbsp;„indeksalność” współczesnych praktyk artystycznych, czy problem różnicującego powtórzenia. Dla zainteresowanych dekonstrukcją i&nbsp;postrukturalizmem jest to wyjątkowa okazja, by zobaczyć, jak te teoretyczne koncepcje próbowano zastosować w&nbsp;odniesieniu do sztuk wizualnych. Ci, którzy szukać będą nowej wiedzy na&nbsp;temat przemian w&nbsp;dyskursie historii sztuki, mogą być nieco rozczarowani – o&nbsp;ile bowiem teksty Krauss ilustratywnie realizują założenia „zwrotu lingwistycznego”, to nie wykraczają już specjalnie dalej poza jego horyzont (znamion „zwrotu obrazowego” czy „zwrotu performatywnego” w&nbsp;nich nie odnajdziemy – jeśli już, to w&nbsp;późniejszych jej pracach). Ich zasadniczą zaletą, jak sądzę, jest jednak krytyczna świeżość spojrzenia, która niezależnie od „metody” oparła się próbie czasu, a&nbsp;także niezwykły kunszt i&nbsp;historyczna precyzja w&nbsp;posługiwaniu się faktograficznym odniesieniem i&nbsp;formalnym porównaniem (niezależnie od tego, czy oparte na&nbsp;nich wykładnie do końca nas przekonują). Błyskotliwe połączenie inwencji z&nbsp;imponującym warsztatem pokazuje, że&nbsp;teoria nie jest tu pustym słowem, i&nbsp;w pozytywny sposób uzasadnia rangę Rosalind Krauss jako krytycznego autorytetu, a&nbsp;nawet „klasyka”. Od czasu powstania „Octobera” i&nbsp;tekstów zawartych w&nbsp;<em>Oryginalności awangardy</em> Krauss jako „matka-założycielka” tego magazynu, zajęła niekwestionowane miejsce w&nbsp;polu amerykańskiej i&nbsp;światowej krytyki. Podobnie jak w&nbsp;przypadku innych twórców „Octobera”, można powiedzieć, że&nbsp;jej głos z&nbsp;początkowej pozycji kontestacji modernistycznego <em>status quo</em> stopniowo uzyskał moc i&nbsp;stabilność godną hegemona. Wraz ze swym środowiskiem (choć istniały między nimi różnice, bynajmniej nie pełna zgoda) Krauss udało się w&nbsp;znacznej mierze narzucić określony sposób widzenia współczesnej sztuki, własne interpretacje i&nbsp;hierarchie<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. W&nbsp;kontekście owej zdobytej dziś symbolicznej „władzy” wydanie <em>Oryginalności awangardy</em> – choć zdaje się ją potwierdzać (dostajemy do ręki „postmodernistycznego klasyka”) - jest też fascynującym spojrzeniem wstecz, w&nbsp;czasy, kiedy proces przemyśliwania i&nbsp;przepracowywania tradycji modernizmu właściwie dopiero się zaczynał. Książka ta pokazuje żywotny moment, kiedy nowe pojęcia kształtowały się nie tylko pod&nbsp;wpływem przyswajanej na&nbsp;świeżo teorii, ale także w&nbsp;konfrontacji z&nbsp;nową sztuką, jej nową logiką, składnią i&nbsp;postawą „estetycznego nominalizmu” (Thierry de Duve), które od początku trzeba było przecież opisać.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Rosalind Krauss,<em> A View of Modernism</em>, “Artforum”, wrzesień 1972, cyt. za: eadem, <em>Perpetual Inventory</em>, The MIT Press, Cambridge, Mass., London, 2010, s. 122-123.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Ibidem, s. 124.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Ibidem.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Ibidem.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Ibidem, s. 122-123. Adekwatne w tym kontekście wydają się uwagi Andreasa Huyssena na temat „amerykańskiego postmodernizmu” jako przesuniętej w czasie fali modernistycznych, awangardowych postaw, zwróconych przeciwko „wysokiemu modernizmowi”. Zob. Andreas Huyssen, <em>Nad mapą postmodernizmu</em>, w: <em>Postmodernizm. Antologia przekładów</em>, red. R. Nycz, Universitas, Kraków 1997, s. 470 in.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Zob. porównanie stanowisk Greenberga i Krauss w moim tekście <em>„Kondycja postmedialna” i wynajdywanie medium według Rosalind Krauss, </em>w:<em> Sztuki w przestrzeni transmedialnej, </em>red. T. Załuski, Łódź 2011. Na temat „ograniczonego” formalizmu jak określenia postawy krytyków sztuki skupiających się na bezpośrednio danym, skończonym kształcie wizualnym dzieła (Clive Bell, Roger Fry, Clement Greenberg), w przeciwstawieniu do rozumienia formy jako rozwijającej się, znaczącej struktury, wywiedzonego z rosyjskiego formalizmu, zob. Rosalind Krauss, <em>Formalism and structuralism</em>, w: <em>Art since 1900. Modernism, Antimodernism, Postmodernism</em>, red. H. Foster, R. Krauss, Y-A. Bois, B. Buchloh, Thames&amp;Hudson, London, 2005, s. 33. W kontekście ujednolicającej i jednostronnej perspektywy narzuconej przez amerykański formalizm znaczące jest tutaj zdanie, które Krauss cytuje z <em>Mitologii</em> Barthes'a: „trochę formalizmu oddala od Historii, a za dużo – do Historii przybliża” (s. 32). Por. Roland Barthes, <em>Mitologie</em>, przeł. A. Dziadek, wstęp K. Kłosiński, Wydawnictwo KR, Warszawa 2000, s. 242.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Michel Foucault, <em>Strukturalizm i poststrukturalizm</em>, w: idem, <em>Filozofia, historia, polityka. Wybór pism</em>, tłum. i wstęp D. Leszczyński, L. Rasiński, PWN, Warszawa-Wrocław 2000, s. 294.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Znaczące, że swoje krytyczne uwagi na temat modernistycznej wizji historii Krauss popiera odniesieniem do Robbe-Grilleta i literackich eksperymentów polegających na odrzuceniu jednorodnej linearnej narracji (por. Rosalind Krauss,<em> A View of Modernism, </em>s. 123).</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Rosalind Krauss, Annette Michelson, <em>About October</em>, “October” 1976, nr 1, s. 4‑5.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Sformułowanie użyte przez Krauss w dyskusji redakcyjnej <em>The Reception of the 60s</em>, “October” 1994, nr 69, s. 4.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Rosalind Krauss, <em>A View of Modernism</em>..., s. 121.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> James Elkins, <em>Our Beautiful, Dry, and Distant Texts. Art History as Writing</em>, Pennsylvania State University Press, 1997, s. 152-153.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Paul de Man, <em>Criticism and Crisis</em>, w: Idem, <em>Blindness and Insight. Essays in the Rhetoric of Contemporary Criticism</em> (wyd. 2 zmienione), University of Minnesota Press, Minneapolis 1983, s. 9.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Rosalind Krauss,<em> Formalism and Structuralism…</em>, s. 32. Sformułowanie to pochodzi od Rolanda Barthes'a, zob. idem, <em>Mitologie…</em>, s. 242.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Yves-Alain Bois<em>, Whose Formalism? </em>(głos w debacie zatytułowanej <em>Art History and Its Theories</em>), „Art Bulletin”, vol. 78, nr 1, marzec 1996, s. 26. Zob. też Rosalind Krauss, Yves-Alain Bois, <em>Formless. A User’s Guide, </em>New York 1997.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Zob. Rosalind Krauss, <em>Bachelors,</em> MIT Press, Cambridge, Massachusetts, London 2000, s. 13.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Hal Foster,<em> Compulsive Beauty</em>, The MIT Press, Cambridge, Massachusetts, London 1993, s. xvii-xviii.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Zob. m.in. James Elkins, <em>Our Beautiful, Dry, and Distant Texts…</em>, s. 154. Elkins zarzuca Krauss chłodny i agresywny ton, skrywający się za rygorem metody. Z kolei z perspektywy konserwatywnej krytyki, niechętnej narzucanej przez nią teorii, wyróżnikiem owej „metody” staje się „triumfująca niejasność” i „hermetyzm”. Roger Kimball, <em>The October Syndrome</em>, „The New Criterion”, październik 1988, s. 5.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> David Carrier, <em>Rosalind Krauss and American Philosophical Art Criticism</em>, Praeger Publishers, London 2002, s. 7.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Rosalind Krauss, <em>Perpetual Inventory</em>….</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Złożyła się na to nieprzerwana, wieloletnia działalność wydawnicza „Octobera” i towarzysząca jej seria książkowa. Swoistym jednak zwieńczeniem takich „hegemonicznych” aspiracji, jeśli chodzi o ustanowienie obowiązującego obrazu historii sztuki współczesnej, zdaje się wydana przed kilku laty monumentalna praca: <em>Art since 1900. Modernism, Antimodernism, Postmodernism </em>(I wyd. 2005), której redaktorami, oprócz Krauss byli też: Hal Foster, Yves-Alain Bois i Benjamin Buchloh. Dzieło to trudno postrzegać inaczej niż jako gest autokanonizacji, przypieczętowujący efekty „postmodernistycznych polemik”. <em>Art since 1900</em> stanowi podsumowanie metodologicznych i historycznych perspektyw wypracowanych w kręgu „Octobera”. Wiąże się z tym wielość zawartych w tej pracy teoretycznych odniesień i nielinearny tryb narracji. Mimo to, mamy tu w gruncie rzeczy do czynienia z unowocześnioną wersją historycznego podręcznika – dziełem narzucającym własne hierarchie wartości i jednocześnie aspirującym do roli wzorcowego i całościowego ujęcia dziejów XX-wiecznej sztuki. Fakt, że owa „całościowość” jest wątpliwa i wiąże się z utrzymaniem tradycyjnych wykluczeń, szczególnie rzuca się w oczy przy spojrzeniu z zewnętrznej, wschodnioeuropejskiej perspektywy. Teoretyczne rewizje, jak się okazuje, nie przekładają się na poszerzenie artystycznej geografii, toteż np. modernizm i awangarda Europy środkowo-wschodniej pozostaje w niej nadal prowincją „nieznaną”. W sumie, książka ta dalej podtrzymuje zachodni, euroatlantycki punkt widzenia, a prezentowany w niej „nowy” obraz sztuki XX wieku, daleki jest od poczucia złożoności artystycznych światów. Zob. Dorota Jarecka, <a href="http://wyborcza.pl/2029020,75475,8794698.html" target="_blank" rel="noopener"><em>Żelazna kurtyna jak ból fantomowy</em></a>, „Gazeta Wyborcza” z 10 grudnia 2010, dostęp 7 grudnia 2012.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/obrazy-terroru-widzialnosc-historii/modernizm-strukturalna-wyobraznia-i-metoda" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

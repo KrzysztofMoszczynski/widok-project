@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Shelter in the Image | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/refugees-fugitive-images-memory-in-motion/shelter-in-the-image">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Shelter in the Image | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Shelter in the Image | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/refugees-fugitive-images-memory-in-motion/shelter-in-the-image">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Shelter in the Image | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #808080 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #808080 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #808080 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #808080 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #808080 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #808080 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #808080 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #808080 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(128,128,128,0.8) !important; */
+			/* background-color:#808080 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(128,128,128,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#808080 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(128,128,128,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#808080; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(128,128,128,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(128,128,128,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#808080 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#808080 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#808080 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-846 parent-id-836">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="830" data-selected-issue-color="#808080" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2016/uchodzcy-obrazy-migracji-pamiec-w-ruchu/schronienie-w-obrazie">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2016/uchodzcy-obrazy-migracji-pamiec-w-ruchu/schronienie-w-obrazie">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/refugees-fugitive-images-memory-in-motion#toc">14</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-14/14-loaiza-en.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Shelter in the Image</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-14/14-loaiza-en.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=308">Paweł Mościcki</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>We should start by paraphrasing a&nbsp;famous passage—“What is an image? Nothing. What does it desire to be? Everything. What is it capable of? Something.”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> This&nbsp;triad of questions and answers reflects the place occupied by the image in light of powerful forces of history and ideology that&nbsp;control it today. Everyone interested in crafting visual narratives in their own right, have to recognize how limited their capabilities and broadcast range are in comparison with&nbsp;what the contemporary society of spectacle has at its disposal. Concentrating, however, on that&nbsp;minute scope of capabilities, this&nbsp;“weak force” ascribed to each image, can still allow us to do something. To stand against&nbsp;history or against&nbsp;its inevitably catastrophic tendencies.</p> <p>Liminality is Estefania Peñafiel Loaiza’s artistic domain. In the most obvious meaning of the word, it is anchored in her provenance: born and raised in Ecuador, Loaiza was educated in France where she still lives and works. Her work spans the vast expanse separating South America and Europe, Spanish and French. But&nbsp;she also explores the more subtle meanings of the term, meanings more proximate to the tangible and material aspects of her work, the latter a&nbsp;testament to her particular focus on what decides the availability of the image, what contributes to, interferes with, or sustains its clarity. “Rather than&nbsp;showing images, she reveals signs, questions representations, interrogates memories, brings out the sediments of History, and constructs what could be called a&nbsp;phenomenology of the visible,”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup> wrote Marc Lenot in a&nbsp;monograph dedicated to the artist.</p> <p>The very category of the “phenomenology of visibility” seems appropriate in this&nbsp;particular case only insofar as it translates not into&nbsp;focusing on the visual aspects for&nbsp;their own sake (which the name somewhat suggests), but&nbsp;rather into&nbsp;a&nbsp;comprehensively flexible morphology of how images are constructed, disseminated, reproduced or remembered. It is, therefore, always a&nbsp;topology and sociology of visibility, open to the “investigation of the social infrathin assigned to the poetic gesture and breathing life into&nbsp;meaning through&nbsp;subtle intervention.”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> It is in these most minute of intervals and linkages that&nbsp;often elude us that&nbsp;the transitions between&nbsp;major categories or domains of experience—which theorists and practitioners of art often like&nbsp;to employ—take place. Meanwhile, Loaiza fully internalized the lesson that&nbsp;Marcel Duchamp once formulated: “The possibility is an infrathin” [<em>le possible est un inframince.</em>]<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> Her works, exploring the extent to which the image can still make a&nbsp;difference, are usually very humble, employ the bare minimum of means, and are aimed at these points of contact that&nbsp;ensure the functionality of greater wholes.</p> <p>Some of Loaiza’s projects bear clear marks of fascination with&nbsp;<em>Dust Breeding</em>, the famous 1920 collaboration between&nbsp;Duchamp and Man Ray, although Loaiza provided this&nbsp;fleeting matter with&nbsp;not only a&nbsp;host of new incarnations, but&nbsp;new forms of rhetoric. In her <em>Sans titres (figurants) </em>project (2009-2016), she rubbed out a&nbsp;couple dozen figures from&nbsp;press photographs using an eraser, and then put the resulting particles of rubber and printing ink in small vials like&nbsp;samples in a&nbsp;newly-created laboratory of the eponymous “extras.” In her 2008 piece <em>Gone</em>, she used the white residue of a&nbsp;rubber eraser to cover the shelves of an old cabinet in the former building of the Bank of Japan in Hiroshima, one of the few buildings in the entire city that&nbsp;withstood the blast of the atomic bomb. If in the case of the former Loaiza is attempting to give witnesses of history a&nbsp;fictitious future within&nbsp;the womb of a&nbsp;non-existent science about&nbsp;the human community, then with&nbsp;the latter she wants to provide an old object with&nbsp;an “organic” past&nbsp;wherein sudden, overwhelming catastrophe is replaced by slow, gradual decay.</p> <p>The artist often revisits one particular subject: the fate of the immigrants—another combination of uncertain future with&nbsp;traumatic past&nbsp;suffusing their existence, as well as its representations. She explored the 2008 immigrant riots in the Vincennes detention center, during&nbsp;which a&nbsp;couple of structures inside&nbsp;the center were burned, in <em>L’étincelle </em>[Iskra, 2008], a&nbsp;part of her <em>The Invisible Cities</em> series, and two 2016 films released under&nbsp;the collective title <em>And They Go Into&nbsp;the Space That&nbsp;Your Gaze Embraces</em>. In the meantime, she also created <em>A Welcoming Air </em>[2013-2015], a&nbsp;piece that&nbsp;seems to be the simplest yet the most articulate of all of them.</p> <p>In <em>A Welcoming Air</em>, Loaiza uses videos posted online by self-appointed border troops (patrolling the American-Mexican border as well as the Israeli-Palestinian one) who place clandestine cameras to record the passage of “illegal" immigrants through&nbsp;the border and potentially help with&nbsp;their identification.<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> The artist’s intervention involved using a&nbsp;camera with&nbsp;the shutter kept open to photograph the films as they were projected onto&nbsp;a&nbsp;screen. This&nbsp;produced a&nbsp;series of beautiful and disturbing images—straddling reality and some dream-like realm, between&nbsp;the abolished order of panopticism,<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> and some other, still nameless, order of seeing. We are initiated into&nbsp;its mysteries through&nbsp;what critics have called—when discussing Loaiza’s work in a&nbsp;broader context—“the poetics of diseappearance”.<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> These images are devoid of immigrants.</p> <p>The transposition performed by the artist produces primarily a&nbsp;comprehensive reconfiguration of the locations that&nbsp;the footage has been captured in. The territory, subjected to the absolute power of gaze and governed by the logic of permanent surveillance and control of human migration, is transformed into&nbsp;a&nbsp;peculiar non-place, existing outside&nbsp;the map, and beyond&nbsp;the taxonomy of spaces and social functions assigned to them. We fundamentally have no idea what we are looking at in the pictures, aside from&nbsp;the fact that&nbsp;what we are seeing are definitely excerpts of some sort of landscapes: we recognize tree canopies, tufts of high grasses, and the colors of flowers. All of the pictures seem to be taken from&nbsp;a&nbsp;low angle, as if the landscape dominated the gaze instead of the other way around, as if someone took them quickly and clandestinely, in a&nbsp;moment of immediate danger. Trying, at least in this&nbsp;way, to breathe some human character into&nbsp;the anonymous surveillance machine.</p> <p>However, these oversaturated, blurry, material-yet-unreal sceneries contain nothing threatening. Instead, they depict defamiliarized spaces: unfettered by the roles assigned to them, extricated from&nbsp;the framework of territorial planning and unburdened by the logic of conquest. Loaiza transforms the border areas, fraught with&nbsp;violence, animosity, and prejudices into&nbsp;essentially uninhabited territory, one still waiting for&nbsp;meaning to be assigned to it. This&nbsp;reconfiguration may lead to the clash of extremes, through&nbsp;which these stealthy attempts to appropriate the omnipresent panopticism will become an element of a&nbsp;nearly utopian vision. If these images depict locations unfettered by the functions they are supposed to serve, then it is possible for&nbsp;them, as Georges Didi-Huberman once called it, to “delocate”: a&nbsp;delocation is a&nbsp;“transition producing paradoxes, (…) the mobilization of a&nbsp;place, a&nbsp;way to involve it in work and fable.”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup></p> <p>The power of Loaiza’s project lies in the creative utilization of the disproportionateness of two media: film and photography. It is their mutual deconstruction, or “disjunctive synthesis,”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> that&nbsp;yielded Loaiza’s incredible <em>A Welcoming Air </em>series. In this&nbsp;particular instance, it is not cinematography that&nbsp;we are dealing with, as the image is immobilized in a&nbsp;single photograph. Nor is it a&nbsp;series a&nbsp;photographs, seeing that&nbsp;they exist in cinematic time and are subordinate to cinematic duration. This&nbsp;transformation has produced images that&nbsp;are “far from&nbsp;neutral,” images that&nbsp;“provide a&nbsp;shelter for&nbsp;the illegal immigrants, shielding them from&nbsp;the arm of the law.”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup> Loaiza allows the powerless, those subject to state violence and ruthless control wielded by the state’s visual apparatus, to become invisible to the panoptical order. Creating such a&nbsp;sanctuary is made possible precisely because Loaiza herself is working on the border between&nbsp;film and photography.</p> <p>As Siegfried Kracauer argued nearly 100 years ago, when photography captures the appearance of things in that&nbsp;fraction of a&nbsp;second, it pulls them out from&nbsp;the grand stream of life, making them nothing more than&nbsp;dead mannequins. Photography itself does not serve memory, because no one is really capable of remembering such short, acute moments like&nbsp;these that&nbsp;serve as basis for&nbsp;photographic images. “The smile is arrested yet no longer refers to the life from&nbsp;which it has been taken. Likeness has ceased to be of any help. The smiles of plastic mannequins in beauty parlors are just as rigid and perpetual.”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. The pictures captured by Loaiza function in precisely the opposite&nbsp;way—instead of pulling short excerpts from&nbsp;the duration and transforming it into&nbsp;an image, they condense the entire process within&nbsp;themselves. The entire time contained by the film sequence is embodied in these photographs. And this&nbsp;is precisely why the powerless refugees find shelter here, disappear in the defensive cushion of the image produced in such a&nbsp;manner.</p> <p>Paradoxically, in the case of Loaiza’s project, photography broadens the space and bestows upon&nbsp;the refugees the ability to move that&nbsp;film—although it’s a&nbsp;very special sort of film—deprives them of. In this&nbsp;instance, the immobile image extinguishes the false duration, a&nbsp;duration hijacked by the surveillance apparatus and one that&nbsp;assigns the immigrants permanently to some places, while excluding&nbsp;them from&nbsp;others. Freedom of movement implies not only the freedom to appear in a&nbsp;place, but&nbsp;also to leave it at will, it implies a&nbsp;lack of permanent attachment to a&nbsp;given space. The uninhabited areas portrayed in Loaiza’s photographs await their dwellers, thus releasing the refugees from&nbsp;the burdens of their limitations. The “dialectic of disappearance” set in motion by the artist also implies that&nbsp;the presence of immigrants becomes progressively more intense the less recognizable they become, the more shrouded they are by the invisible veil of the image comprising its density, texture, and the saturation of its colors. Each of its elements, each minute aspect produces political and ethical effects, some only as fleeting as a&nbsp;temporary vertigo for&nbsp;the ever-watchful minds of the global panopticon.</p> <p><a name="_GoBack"></a> The image straddling photography and film also creates a&nbsp;very specific sort of time and then uses it to significantly modify the context of these works. Arguing in his essay the relationship between&nbsp;photography and time, Kracauer wrote: “Although time is not part of the photograph like&nbsp;the smile or the chignon, the photograph itself, so it seems to them, is a&nbsp;representation of time. Were it the photograph alone that&nbsp;endowed these details with&nbsp;duration, they would not at all outlast mere time; rather, time would create images for&nbsp;itself out of them.”<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup> According to the German essayist, the technological capabilities of the camera do not determine whether a&nbsp;picture will serve memory or become a&nbsp;foundation for&nbsp;time’s further work upon&nbsp;pictures themselves. It is no different in the case of Loaiza’s pictures in which borrowed time—incompatible with&nbsp;either cinematic duration or photographic instantaneousness—becomes a&nbsp;refuge for&nbsp;the oppressed. It is there that&nbsp;they find shelter because its separateness allows them to disappear. That&nbsp;movement, however, is not unilinear, but&nbsp;becomes a&nbsp;sort of radiating ring,<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup> which both shelters the migrants and liberates time itself from&nbsp;the colonizing power of the gaze. Here, we might paraphrase Godard, substituting image (Estefania Peñafiel Loaiza’s images) for&nbsp;cinema: “the image was not afraid of anything, anyone, not even itself. It did not shield itself from&nbsp;time, it sheltered time itself.”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup> Thus, a&nbsp;minute intervention in the vast machine of visuality, a&nbsp;humble attempt at redirecting the forces at its disposal, leads to—as Walter Benjamin once described it when talking about&nbsp;his dream—the “imageless [becoming] the refuge of all images.”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> The original passage can be found in Emmanuel Sieyès’ 1789 work <em>Qu’est-ce que le tiers-etat?</em>: “What is the Third Estate? Everything. What has it been hitherto in the political order? Nothing. What does it desire to be? Something.” The passage was paraphrased by Jean-Luc Godard: “What is cinema? Nothing. What does it desire to be? Everything. What is it capable of? Something.” See: Paweł Mościcki, <em>Godard. Pasaże</em> (Kraków: ha!art, 2010), 58.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Marc Lenot, <em>Estefanía Peñafiel Loaiza: Politique et poétique de la disparition</em>, <u><a href="http://fragmentsliminaires.net/2016/01/21/estefania-penafiel-loaiza-politique-et-poetique-de-la-disparition/">http://fragmentsliminaires.net/2016/01/21/estefania-penafiel-loaiza-politique-et-poetique-de-la-disparition/</a></u>, accessed January 16, 2017.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Lupe Álvares, <em>Regarder ailleurs, regarder autrement, regarder encore</em>, <u><a href="http://fragmentsliminaires.net/2015/07/23/regarder-ailleurs-regarder-autrement-regarder-encore/">http://fragmentsliminaires.net/2015/07/23/regarder-ailleurs-regarder-autrement-regarder-encore/</a></u>, accessed January 16, 2017.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Marcel Duchamp, <em>Notes</em>, (Paris: Flammarion, Gallimard, 2008). see: <u><a href="https://www.centrepompidou.fr/cpv/resource/cBAg7j9/rEnGq9p">https://www.centrepompidou.fr/cpv/resource/cBAg7j9/rEnGq9p</a></u>, accessed January 16, 2017.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> See: Marc Lenot, <em>Estefanía Peñafiel Loaiza</em>. Some of the films were supposedly captured on the Israeli-Palestinian border.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> See: Michel Foucault, <em>Discipline and Punish. The Birth of the Prison</em>, trans. Alan Sheridan (New York: Vintage Books, 1995), 195–231.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> See: Ana Rodríguez, <em>Poétique de l'effacement</em>, <u><a href="http://fragmentsliminaires.net/2016/01/22/poetique-de-leffacement/">http://fragmentsliminaires.net/2016/01/22/poetique-de-leffacement/</a></u>, accessed January 16, 2017.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Georges Didi-Huberman, <em>Génie du non-lieu. Air, poussièree, empreinte, hantise </em>(Paris: Les Éditions de Minuit, 2001), 34.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> See: Gilles Deleuze, <em>Francis Bacon. Logique de la sensation </em>(Paris: Éditions du Seuil, 2002).</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Marc Lenot, <em>Estefanía Peñafiel Loaiza...</em></p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Siegfried Kracauer, “<em>Photography</em>” in<em> The Mass Ornament. Weimar Essays</em>, trans. T. Y. Levin, (Cambridge: Harvard University Press, 1995), 48.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> ibid., 49.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> The difference between “unilinear” and “radial” understanding of photography is explored in John Berger, “Uses of Photography” in <em>About Looking </em>(New York: Pantheon Books, 1980), 64.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> See: Paweł Mościcki, <em>Godard, </em>189.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Walter Benjamin, “<em>Kurze Schatten</em>” in: <em>Gesammelte Schriften, </em>Vol. 4 (Frankfurt am Main, Suhrkamp Verlag, 1972), 370.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/refugees-fugitive-images-memory-in-motion/shelter-in-the-image" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

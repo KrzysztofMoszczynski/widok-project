@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Dla autorów | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="Przesyłanie tekstów, wytyczne dla autorów, sprawdzenie tekstu przed wysłaniem, prawa autorskie.">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/o-nas/dla-autorow">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Dla autorów | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="Przesyłanie tekstów, wytyczne dla autorów, sprawdzenie tekstu przed wysłaniem, prawa autorskie.">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Dla autorów | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="Przesyłanie tekstów, wytyczne dla autorów, sprawdzenie tekstu przed wysłaniem, prawa autorskie.">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/o-nas/dla-autorow">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Dla autorów | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="Przesyłanie tekstów, wytyczne dla autorów, sprawdzenie tekstu przed wysłaniem, prawa autorskie.">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		
+		
+<style>
+	#header,
+	.form-control,
+	.m-presentation--bgc-issue,
+	.selectric,
+	.selectric-items,
+	.u-typo ul li::before {
+		background-color: #715c56 !important;
+	}
+	
+	.form-control,
+	.selectric {
+		border-color: #715c56 !important;
+	}
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	.m-presentation--audio .m-presentation__caption,
+	.m-presentation--audio .m-presentation__caption * {
+    color: #000 !important;
+  }
+	
+	[data-toggle="popover"],
+	.btn-primary,
+	.c-archive-year,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-title a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-search-results-listheader span,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.sl-wrapper .sl-close,
+	.sl-wrapper .sl-image .sl-caption,
+	.sl-wrapper .sl-navigation button,
+	.c-sitenav__search,
+	.c-subnav li.active span, 
+	.c-subnav a:hover span,
+	.c-team__meta a,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p,
+	.m-presentation__caption,
+	.m-presentation__caption * {
+		color: #715c56 !important;
+	}
+	
+	.c-archive-year span,
+	.c-subnav li.active span, 
+	.c-subnav a:hover span {
+		/*
+		background-image:    -moz-linear-gradient(left, #715c56 0%, #715c56 100%) !important;
+		background-image: -webkit-linear-gradient(left, #715c56 0%, #715c56 100%) !important;
+    background-image:     linear-gradient(to right, #715c56 0%, #715c56 100%) !important;
+		*/
+		border-color: #715c56 !important;
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #715c56 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #715c56 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color:  !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color:  !important;
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    color: #fff !important;
+  }
+}
+</style>
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-4 page-id-285 parent-id-82">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="" data-selected-issue-color="" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/about/submissions">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/about/submissions">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2019/23-sila-kobiet#toc">23</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li class="active">
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li>
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+<section class="m-subnav">
+	<div class="container-fluid">
+		<div class="content-canvas">
+			<div class="c-subnav clearfix">
+				<ul>
+<li>
+	<a href="/pl/o-nas/profil-pisma" title="Pismo" ><span>Pismo</span></a>
+</li>
+<li>
+	<a href="/pl/o-nas/zespol-redakcyjny" title="Zespół" ><span>Zespół</span></a>
+</li>
+<li>
+	<a href="/pl/o-nas/rada-naukowa" title="Rada" ><span>Rada</span></a>
+</li>
+<li>
+	<a href="/pl/o-nas/zasady-etyczne" title="Polityka pisma" ><span>Polityka pisma</span></a>
+</li>
+<li class="active">
+	<a href="/pl/o-nas/dla-autorow" title="Dla autorów" ><span>Dla autorów</span></a>
+</li>
+<li>
+	<a href="/pl/o-nas/recenzenci" title="Recenzje" ><span>Recenzje</span></a>
+</li>
+<li class="last">
+	<a href="/pl/o-nas/kontakt" title="Wydawca i kontakt" ><span>Wydawca i kontakt</span></a>
+</li>
+
+</ul>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div class="container-fluid">
+		<div class="content-canvas content-canvas--small">
+			<div class="content-canvas__inner">
+				<section class="u-typo">
+	<h2>Przesyłanie tekstów</h2>
+<p>Artykuły w formacie .odt, .doc lub .docx należy przesyłać na adres e-mailowy redakcja@pismowidok.org.</p>
+<p>Zapraszamy do zgłaszania artykułów zgodnych z <a href="http://pismowidok.org/index.php/one/about/editorialPolicies">profilem pisma</a> oraz spełniających podane tu wymogi formalne. Zgłoszenia przesłane w inny sposób, niezgodne z podaną konwencją redakcyjną lub niezawierające niezbędnych załączników nie będą przyjmowane.</p>
+<p>Redakcja podejmuje decyzję o rozpoczęciu procesu recenzji i ewentualnej redakcji na podstawie pełnego zgłoszenia. Nie oceniamy abstraktów ani pomysłów na artykuł. Ich pozytywna konsultacja nie oznacza przyjęcia artykułu do druku.</p>
+<p>UWAGA! Przesłanie tekstu oznacza zgodę na jego publikację na warunkach zgodnych z polityką autorską pisma.<br><br></p>
+</section>
+<div class="clearfix"></div><section class="c-collapselist u-typo">
+	<h3 class="c-collapselist__header">Wytyczne dla autorów</h3>
+	<ul class="c-collapselist__items">
+		<li class="c-collapselist__item">
+	<a class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseList_2_1" aria-controls="collapseList_2_1" aria-expanded="false">
+		Redakcja tekstu
+	</a>
+	<div class="c-collapselist__content collapse" id="collapseList_2_1">
+		<div class="c-collapselist__content-inner">
+			<p>Przyjmujemy artykuły o objętości od 0,5 do 1 arkusza (arkusz: 40 tys. znaków ze spacjami). W przypadku recenzji (dział „Migawki”) długość tekstu nie powinna przekraczać 0,5 arkusza.</p>
+<p><b>Format</b> tekstu: czcionka Times New Roman, 12 pkt., interlinia 1,5 pkt., justowanie obustronne.</p>
+<p><b>Tytuły</b> filmów i tekstów należy zaznaczyć kursywą. Wyjątkiem są tytuły czasopism: druk prosty, w cudzysłowie.</p>
+<p>Wyrażenia obcojęzyczne powinny być zapisane kursywą, a podkreślenia – drukiem rozstrzelonym (3 pkt.).</p>
+<p>W <b>datach</b> nazwy miesięcy powinny być podane słowami (np. 23 stycznia 2013), dziesiątki lat oznaczane cyframi z kropką (np. lata 60. XX wieku).</p>
+<p>Krótkie<b> cytaty</b> (do 250 znaków) powinny być włączone w tekst i wyodrębnione za pomocą cudzysłowu (bez kursywy). Dłuższe cytaty, stanowiące autonomiczny fragment, należy wyodrębnić, tworząc osobny akapit, bez cudzysłowu, czcionką 11 pkt. z pojedynczą interlinią.</p>
+<p>Wszędzie, gdzie to możliwe, prosimy o podawanie <b>ł</b><b>ączy URL</b>.</p>
+<p><b>Przypisy</b>, numerowane kolejnymi cyframi arabskimi, należy umieścić na dole strony.</p>
+<p>Obowiązująca konwencja:</p>
+<ul>
+<li>
+<p>pełne imię i nazwisko autora/autorów, inicjał imienia redaktora, tłumacza, autora wstępu itp.;</p>
+</li>
+<li>
+<p>pełny tytuł;</p>
+</li>
+<li>
+<p>podajemy zarówno pełną nazwę wydawnictwa, jak i miejsce wydania;</p>
+</li>
+<li>
+<p>tytuł od śródtytułu oddziela kropka;</p>
+</li>
+<li>
+<p>w odesłaniach do utworów cytowanych następujących po sobie stosujemy formę łacińską „Ibidem”, w przypadku autorów idem/eadem;</p>
+</li>
+<li>w przypadku artykułów z czasopism lub tomów zbiorowych podajemy strony;</li>
+<li>
+<p>w odniesieniach do utworów cytowanych, oddzielonych innymi przypisami, stosujemy wielokropek.</p>
+</li>
+</ul>
+<p>Przykłady:</p>
+<p>- publikacja zwarta:</p>
+<p>Enrico Fubini, <em>Historia estetyki muzycznej</em>, przeł. Z. Skowron, Musica Iagellonica, Kraków 2002, s. 35.</p>
+<p>- artykuł, rozdział w książce:</p>
+<p>Maria Janion, Maria Żmigrodzka, <em>Doktor Faust – prawda i zmyślenie</em>, w: eaedem, <em>Romantyzm i egzystencja. Fragmenty niedokończonego dzieła</em>, słowo/obraz terytoria, Gdańsk 2004, s. 119–126.</p>
+<p>Justin London, <em>Leitmotifs and Musical Reference in the Classical Film Score</em>, w: <em>Music and Cinema</em>, red. J. Buhler, C. Flinn, D. Neumayer, Wesleyan University Press, Hanover–London 2000, s. 91.</p>
+<p>- artykuł w czasopiśmie:</p>
+<p>Børge Trolle, <em>Świat Carla Dreyera</em>, przeł. W. Wertenstein, „Film na Świecie” 1956, nr 6, s. 12–18.</p>
+<p>Dorota Jarecka, <em>Chopin od przodu i z boku</em>, „Gazeta Wyborcza” z 10 marca 2010, s. 9.</p>
+<p>- odesłanie do źródła internetowego wymaga podania autora, tytułu tekstu, nazwy strony / tytułu „portalu” (wszystkie części dużą literą), daty publikacji, adresu dostępu oraz daty dostępu.</p>
+<p>Dorota Jarecka, <em>Chopin od przodu i z boku</em>, „Gazeta Wyborcza” z 10 marca 2010, http://wyborcza.pl/1,75475,7643997,Chopin_od_przodu_i_z_boku.html, dostęp 11 grudnia 2012.</p>
+<p>W przypadku dzieł już cytowanych:</p>
+<p>- rozdzielonych innymi przypisami</p>
+<p>Justin London, <em>Leitmotifs and Musical Reference...,</em> s. 98.</p>
+<p>- następujących po sobie:</p>
+<p>Ibidem, s. 102.</p>
+		</div>
+	</div>
+</li><li class="c-collapselist__item">
+	<a class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseList_2_2" aria-controls="collapseList_2_2" aria-expanded="false">
+		Załączniki do artykułu
+	</a>
+	<div class="c-collapselist__content collapse" id="collapseList_2_2">
+		<div class="c-collapselist__content-inner">
+			<p>Poza artykułem zgłoszenie powinno zawierać:</p>
+<ul>
+<li>Krótki biogram w języku polskim i angielskim (max. 400 znaków): imię i nazwisko autora / autorów, adres e-mail, stopień naukowy, miejsce zatrudnienia / afiliacja, zainteresowania badawcze, najnowsze publikacje, ew. łącze do biogramu w sieci;</li>
+<li>Streszczenie artykułu w języku polskim i angielskim (max. 1000 znaków): ogólny opis problematyki poruszanej w tekście, przyjęta metodologia badań i najważniejsze tezy;</li>
+<li>Słowa kluczowe w języku polskim i angielskim;</li>
+<li>Bibliografię (spis cytowanych opracowań w konwencji zgodnej z <a href="https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html" target="_blank" rel="noopener">the Chicago Manual of Style</a>);</li>
+<li>Ilustracje wraz z wskazaniem ich źródła / właścicieli praw.</li>
+</ul>
+		</div>
+	</div>
+</li><li class="c-collapselist__item">
+	<a class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseList_2_3" aria-controls="collapseList_2_3" aria-expanded="false">
+		Ilustracje
+	</a>
+	<div class="c-collapselist__content collapse" id="collapseList_2_3">
+		<div class="c-collapselist__content-inner">
+			<p>Autorzy przekazujący ilustracje powinni wskazać właścicieli praw do nich i warunki zgody na publikację.<br>Ilustracje powinny być także właściwie opisane według wzoru:</p>
+<p>William Hernett, <em>List artysty</em>, 1879. Olej na płótnie. The Metropolitan Museum of Art, New York</p>
+<p>Widok wystawy <em>Farba znaczy krew</em>. Muzeum Sztuki Nowoczesnej w Warszawie. Fot. Krzysztof Pijarski </p>
+		</div>
+	</div>
+</li><li class="c-collapselist__item">
+	<a class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseList_2_4" aria-controls="collapseList_2_4" aria-expanded="false">
+		Sprawdzanie tekstu przed wysłaniem
+	</a>
+	<div class="c-collapselist__content collapse" id="collapseList_2_4">
+		<div class="c-collapselist__content-inner">
+			<p>Autorzy proszeni są o sprawdzenie, czy artykuł spełnia wskazane tu kryteria. Ich spełnienie jest warunkiem opublikowania tekstu:</p>
+<ul>
+<li>Artykuł nie był wcześniej publikowany ani zgłoszony do innego pisma.</li>
+<li>Artykuł został zapisany w jednym z programów: OpenOffice lub Microsoft Word.</li>
+<li>Tekst stosuje się do wskazówek dla autorów, między innymi: interlinia 1,5; czcionka Times New Roman 12 pkt; justowanie obustronne; rozstrzelenie zamiast kursywy.</li>
+<li>Artykułowi towarzyszą wszystkie niezbędne załączniki (biogram i abstrakt w dwu wersjach językowych, słowa kluczowe, bibliografia zgodna z <a href="https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html" target="_blank" rel="noopener">the Chicago Manual of Style </a>oraz ew. ilustracje).</li>
+</ul>
+		</div>
+	</div>
+</li>
+	</ul>
+</section>
+			</div>
+		</div>
+	</div>
+</section>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+</body>
+</html>

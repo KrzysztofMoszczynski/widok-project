@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>You, Me, We | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/power-of-women/you-me-we">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="You, Me, We | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="You, Me, We | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/power-of-women/you-me-we">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="You, Me, We | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #715c56 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #715c56 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #715c56 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #715c56 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #715c56 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #715c56 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #715c56 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #715c56 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(113,92,86,0.8) !important; */
+			/* background-color:#715c56 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(113,92,86,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#715c56 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(113,92,86,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#715c56; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(113,92,86,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(113,92,86,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#715c56 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#715c56 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#715c56 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1891 parent-id-1838">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1835" data-selected-issue-color="#715c56" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/power-of-women/you-me-we">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/power-of-women/you-me-we">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/power-of-women#toc">23</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/power-of-women/you-me-we?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>You, Me, We: Encountering Art, Autobiography and ‘Potential Space’ in the Present</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/power-of-women/you-me-we?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=1890">Joanne Morra</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p>My paintings are confessions of the moment immersed in the unconscious potions of the night.</p> <p style="text-align: right;">Maria Lassnig<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a></p> </blockquote> <blockquote> <p>It is in playing and only in playing that&nbsp;the individual child or adult is able to be creative and to use the whole personality, and it is only in being creative that&nbsp;the individual discovers the self.</p> <p style="text-align: right;">D.W. Winnicott<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a></p> </blockquote> <h2>You or Me</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/morra/1186-1920x-c1a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/morra/1186-330x-c9b.jpg 330w,assets/cache/images/issues/2019/23/morra/1186-660x-95e.jpg 660w,assets/cache/images/issues/2019/23/morra/1186-768x-4e5.jpg 768w,assets/cache/images/issues/2019/23/morra/1186-1320x-48d.jpg 1320w" src="assets/cache/images/issues/2019/23/morra/1186-660x-95e.jpg" alt="" ></a>    <figcaption><p><em>Du oder Ich</em> (You or Me), 2005 © Maria Lassnig Foundation / Bildrecht, Vienna 2019 Photo: Stefan Altenburger Photography Zurich</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The explosive <em>You or Me</em> (<em>Du oder Ich</em>), from&nbsp;2005, was the first painting that&nbsp;I&nbsp;ever encountered, in the flesh, by Maria Lassnig (1919-2014). With&nbsp;a&nbsp;gun pointed at us, and a&nbsp;second placed firmly to the side of her own head, this&nbsp;powerful self-portrait of a&nbsp;naked Lassnig provokes, in no uncertain terms, a&nbsp;response from&nbsp;us: you or me?</p> <p>How do I&nbsp;approach such a&nbsp;volatile painting? An autobiographical artwork that&nbsp;insists that&nbsp;I&nbsp;am present in the moment: a&nbsp;moment in which I&nbsp;am riveted to the spot by the image and simultaneously attacked by it. An artwork that&nbsp;is visually, emotionally and viscerally demanding and clearly requires something from&nbsp;me: do I&nbsp;engage or turn away from&nbsp;it?</p> <p>This extraordinary painting is both exceptional within&nbsp;Lassnig’s oeuvre and resolutely typical. It is exceptional in its unapologetic provocation of the viewer: a&nbsp;gun is pointed right at us. The painted gun is a&nbsp;singular and extreme instance of the way in which Lassnig’s work engages the viewer and the outside&nbsp;world through&nbsp;the use of objects. More typically, the artist employs household objects, animals, imaginary creatures, or single and multiple self-portraits, as alibis for&nbsp;her critical self-reflection and her relationship to the world.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/morra/0154-1920x-0a0.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/morra/0154-330x-0d0.jpg 330w,assets/cache/images/issues/2019/23/morra/0154-660x-eae.jpg 660w,assets/cache/images/issues/2019/23/morra/0154-768x-3be.jpg 768w,assets/cache/images/issues/2019/23/morra/0154-1320x-5a0.jpg 1320w" src="assets/cache/images/issues/2019/23/morra/0154-660x-eae.jpg" alt="" ></a>    <figcaption><p><em>Die Küchenschürze / Frau in der Klemme / Küchenschürze oder die Eingezwängte</em> (<em>The Kitchen Apron / Trapped Woman</em>), 1992 © Maria Lassnig Foundation / Bildrecht, Vienna 2019</p></figcaption>   </figure>  </section><section class="u-typo">   <p>For instance, <em>Kitchen Apron or Trapped Woman</em> (1992) and <em>Self-Portrait with&nbsp;Cooking Pot</em> (<em>Selbstporträt mit Kochtopf</em>, 1995) employ basic kitchen utensils to remind us of the challenges faced by female artists in today’s world and the more general condition of femininity. In the former painting, an apron pulls up and restrains a&nbsp;distracted and wary woman caught in an act of housekeeping, presumably cooking, while in the latter artwork, an upturned cooking pot spews its contents onto&nbsp;a&nbsp;blinded female figure gasping for&nbsp;or exhaling air. Both of these works are reflections upon, and in their immediacy ask us to consider, the social expectations placed upon&nbsp;women, many of which are related to homemaking and housework. The two figures’ hostility towards&nbsp;their situation is clearly evident in the dread and horror expressed on these women’s faces, and it speaks to their desire to be released from&nbsp;these traditional feminine roles.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/morra/1183-1920x-00b.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/morra/1183-330x-2bd.jpg 330w,assets/cache/images/issues/2019/23/morra/1183-660x-153.jpg 660w,assets/cache/images/issues/2019/23/morra/1183-768x-d4c.jpg 768w,assets/cache/images/issues/2019/23/morra/1183-1320x-9f0.jpg 1320w" src="assets/cache/images/issues/2019/23/morra/1183-660x-153.jpg" alt="" ></a>    <figcaption><p><em>3 Arten zu sein</em> (<em>3 Ways of Being</em>), 2004 © Maria Lassnig Foundation / Bildrecht, Vienna 2019 </p></figcaption>   </figure>  </section><section class="u-typo">   <p><em>3 Ways of Being</em> (<em>3 Arten zu Sein</em>, 2004) continues the more normative, and by no means less powerful, interrogation of femininity in Lassnig’s work as highlighted by <em>Kitchen Apron and Trapped Woman</em>, <em>Self-Portrait with&nbsp;Cooking Pot</em>, and <em>You or Me</em>. <em>3 Ways of Being</em> depicts multiple actualities of feminine existence, and the incompatibilities and contradictions of these different ways of being through&nbsp;several depictions of a&nbsp;typically naked Lassnig. In this&nbsp;painting we encounter a&nbsp;dramatic red-and-green figure, full of turmoil and tension, limbs rent asunder, mouth agape and head pushing upwards and outwards with&nbsp;a&nbsp;great force that&nbsp;expresses a&nbsp;desire to be liberated from&nbsp;her difficult state of being. A&nbsp;startling red, animalistic woman with&nbsp;a&nbsp;large orifice for&nbsp;a&nbsp;nose and a&nbsp;long tail is firmly seated next to her: she stares directly and intently ahead of her, to the left, trapped and immobile in a&nbsp;place and psychological space from&nbsp;which there seems to be no escape. Finally, these two figures are joined by an almost absent and bored (or is she dreaming?), diaphanous white figure who floats aimlessly within&nbsp;the space of the canvas. Typically for&nbsp;Lassnig’s work, we are invited to ponder the dynamics of feminine experience. Two of the figures have a&nbsp;slack, open-mouthed expression which is ubiquitous in Lassnig’s paintings: it is an expression that&nbsp;oscillates between&nbsp;the horrified and a&nbsp;full exhale –&nbsp;between&nbsp;the need to break free of these restrictions, or to assume some form of acceptance within&nbsp;their confines. The decisively outlined female figures –&nbsp;self-portraits, characteristic of the artist’s work –&nbsp;each of whom reflects a&nbsp;different sense of self, are situated within&nbsp;a&nbsp;vast yellow background that&nbsp;refers to no particular context, no specific place, simply a&nbsp;space of existence. Is this&nbsp;a&nbsp;space of consciousness? Or is this&nbsp;luminous space gesturing towards&nbsp;the no-time and no-place of the unconscious? Or is it somewhere in between, or a&nbsp;combination of both? While we move from&nbsp;one articulation of femininity and feminine desire in Lassnig’s work, from&nbsp;one powerful and tumultuous figure to another, we encounter multiple states of mind, multiples ways of being.</p> <p>The painterly, visceral and psychological aspects of Lassnig’s work are a&nbsp;product of the artist’s deeply engaged and tremendously affective artistic process, what she calls her ‘<em>körpergefuhl</em>’ (‘bodily-sensation’) or ‘<em>körperbilder</em>’ (‘body-awareness painting’): the means through&nbsp;which she pursued a&nbsp;life-long autobiographical practice. Lassnig clearly articulates her artistic process at different moments throughout her career. An instance of this&nbsp;is to be found in an entry in her diary dated 1980, where the artist makes an important note concerning&nbsp;the psychological and affective aspects of her body-awareness practice, a&nbsp;process that&nbsp;she began experimenting with&nbsp;in 1949. Lassnig writes,</p> <blockquote>I confront the canvas as if naked, devoid of intention, devoid of a&nbsp;plan, without&nbsp;a&nbsp;model, without&nbsp;photography and I&nbsp;let things happen. I&nbsp;do work from&nbsp;a&nbsp;starting point, though, rooted in the insight that&nbsp;the only real things are the feelings unfolding within&nbsp;the shell that&nbsp;is my body: psychological sensations, a&nbsp;feeling of pressure when sitting or lying, feelings of tension and spatial expansion –&nbsp;aspects that&nbsp;are difficult to put on a&nbsp;canvas.</blockquote> <p>Later in this&nbsp;same diary entry, Lassnig takes care to state that:</p> <blockquote>Painting, as an elemental activity, is my instrument of meditation; I&nbsp;don’t need a&nbsp;shrink or a&nbsp;guru.<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a></blockquote> <p>These thoughts are worth repeating and pondering over. Lassnig confronts the canvas as if naked, devoid of intention, but, with&nbsp;a&nbsp;starting point. She turns to her feelings, psychological sensations, bodily pressures, tensions, and expansions, ways of being that&nbsp;are difficult to put down&nbsp;on canvas –&nbsp;but&nbsp;which she continuously attempts to paint. This&nbsp;practice is one that&nbsp;takes place in the moment -&nbsp;in the present moment of making -&nbsp;and it encourages an emotional, psychological and visceral encounter with&nbsp;the present through&nbsp;painting. Moreover, painting is an elemental activity for&nbsp;Lassnig. It is her instrument of meditation. Because of it, she feels no need for&nbsp;a&nbsp;guru or a&nbsp;shrink.</p> <p>I find this&nbsp;whole statement fascinating and am struck by her final pithy declaration. Why doesn’t Lassnig need a&nbsp;shrink, I&nbsp;wonder? What is it about&nbsp;this form of reflective self-portraiture[this was at the top of page 3]] that&nbsp;enables such a&nbsp;statement?</p> <p>Autobiography is traditionally understood as a&nbsp;literary form that&nbsp;represents one’s own life. Coined in the 18<sup>th</sup> century, the word ‘autobiography’ consists of ‘auto’ (self), ‘bios’ (life), and ‘graphein’ (writing). Taken up by contemporary feminists, autobiography has become a&nbsp;means of articulating one’s life in terms of the larger social, political, and psychological conditions that&nbsp;constitute the irreducibility and complexity of the ‘self’. Thus, the feminist slogan ‘the personal is the political’ is a&nbsp;rallying cry for&nbsp;women intent on giving voice to the complexity of women’s subjectivity –&nbsp;their race, class, gender, sexuality, age and family status -&nbsp;intersectionalities that&nbsp;constitute the contradictory and political agency of women’s lives, desires, memories, traumas and everyday occurrences. Never taking the notion of writing one’s life as a&nbsp;given, feminist autobiographical practices are deeply aware of the shifting psycho-social parameters of one’s subjectivity, of the way in which experience is always already an interpretation, and of its mediated and non-transparent articulation through&nbsp;various forms of cultural representation. Responding to its potential, feminist artists have turned to their own lives as a&nbsp;form of political engagement, of understanding, of resistance to the conditions in which we inhabit the world and the necessity and potential for&nbsp;change. It is within&nbsp;this context that&nbsp;the work of Lassnig resides. Taking a&nbsp;lifelong interest in the self/auto as articulated throughout one’s life/bios, Lassnig’s ‘bodily-sensation’ or ‘body-awareness painting’ project is a&nbsp;radical form of artistic ‘writing’ as self-portraiture: a&nbsp;practice that&nbsp;yields to the complexity of the internal workings of the embodied female self within&nbsp;the present moment. What will become clear in this&nbsp;article is how Lassnig’s practice contributes to the fields of feminist autobiography and a&nbsp;feminist art practice that&nbsp;engages with&nbsp;the personal as a&nbsp;political strategy for&nbsp;understanding the self, the connections with&nbsp;an ‘other’[another? an ‘other’?], and the potential for&nbsp;creating political alliances by remaining extremely close to the representation of the female body within&nbsp;the present moment. In order to achieve this, I&nbsp;will work through&nbsp;how Lassnig’s concentration on the body and its internal workings –&nbsp;psychological, emotional, and visceral (all in the present moment) -&nbsp;enables her to reach an assessment of her needs, and herself as a&nbsp;form of autobiographical practice. In addition, given Lassnig’s deeply internal artistic process, I&nbsp;will ask how and why this&nbsp;form of autobiographical practice produces an affective connection (whether positive or negative) with&nbsp;the artist herself, and with&nbsp;the viewer, and, thereby with&nbsp;a&nbsp;form of collective political potential, a&nbsp;momentary alliance with&nbsp;others, and to what end.</p> <p>In considering&nbsp;Lassnig’s artwork, her diaries, and the various critical writings on her oeuvre, I&nbsp;am struck by the diversity of readings of her work. There are the biographical art-historical appraisals of her life and work that&nbsp;slot her various periods outside&nbsp;Austria within&nbsp;particular art movements: her time in Paris in 1951 where she met various surrealists, members of Art Informel and the Gutai group; her move to New York in 1968 where she lived for&nbsp;about a&nbsp;decade and produced six films while involved with&nbsp;a&nbsp;group of experimental feminist filmmakers working there at that&nbsp;time. Finally she returned to Vienna in 1980 as the first female Professor of Painting at a&nbsp;German-speaking university, the Academy of Applied Arts –&nbsp;where she became interested in the work of the Viennese Actionists while continuing with&nbsp;her own body-awareness paintings. In addition to these art-historical biographical narratives, there are many formalist readings of Lassnig’s use of paint, color and composition; interpretations of her bodily figurations as expressionist paintings of her interior world; and discussions of her work via&nbsp;theories of perception. And then there are the gendered appraisals of her work: from&nbsp;the deeply problematic explanations of her practice as the product of a&nbsp;female painter expressing the chaos of an essentialist, traumatized femininity; to the richly productive analyses of her painterly practice as a&nbsp;means of representing a&nbsp;feminine ontology and subjectivity through&nbsp;philosophical and psychoanalytic frameworks. It is this&nbsp;final group of interpretations –&nbsp;the philosophical and psychoanalytic readings of gender -&nbsp;which offer me the most dynamic context for&nbsp;my own work, and to which I&nbsp;now turn.</p> <p>Literary and cultural critic Elisabeth Bronfen makes a&nbsp;decisive connection in her essay <em>Body Drawings of a&nbsp;Feminine Kind: Maria Lassnig’s Self-Portraits</em> (from the <em>Maria Lassnig</em> exhibition catalog for&nbsp;a&nbsp;show held at the Museum Ludwig, Cologne, in 2009) between&nbsp;Lassnig’s artistic process, the question of femininity, and psychoanalysis. Bronfen argues that&nbsp;Lassnig’s autobiographical practice invokes the possibility of capturing every ‘sensory impression’ and ‘physical sensation’ through&nbsp;lines and colors. Without&nbsp;any ‘empirical recollection’ to guide this&nbsp;process, Lassnig is working with&nbsp;‘concentrated bodily sensations’ in the moment, sensations that&nbsp;Bronfen wishes to align with&nbsp;psychoanalyst Julia Kristeva’s notion of the chora, a&nbsp;space that&nbsp;precedes language and the symbolic. For&nbsp;Bronfen, following&nbsp;Kristeva, access to the chora offers the possibility of disrupting the symbolic, and with&nbsp;that it has the ability to disrupt masculine forms of addressing the body. Bronfen concludes that&nbsp;Lassnig’s artistic practice ‘points towards&nbsp;a&nbsp;feminine deconstruction of visual thought’ and achieves this&nbsp;by slipping into&nbsp;a&nbsp;haptic connection with&nbsp;the unconscious as a&nbsp;means of meditating on femininity and female embodiment.<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a></p> <p>An alternative, but&nbsp;related, understanding of Lassnig’s work as an interrogation of femininity and the gaze is offered by art historian and curator Slivia Eiblmayr in her 2015 essay <em>Maria Lassnig: A&nbsp;Picture Atlas of Turmoil</em> for&nbsp;an exhibition held at the Fundació Antoni Tàpies in Barcelona, included in a&nbsp;catalog that&nbsp;also includes writings by Lassnig. In this&nbsp;essay, Eiblmayr engages with&nbsp;the gaze as a&nbsp;means of understanding Lassnig’s unremittingly critical self-reflection. For&nbsp;Eiblmayr, Lassnig’s work is devoted to an analysis of the gaze “to show its narcissistic, sadistic and voyeuristic agency in a&nbsp;dialectic of seeing and being seen.” Moreover, the writer suggests that&nbsp;the artist does not shy away from&nbsp;such a&nbsp;gaze, rather, she “exposes herself to this&nbsp;gaze, subjects herself to it […] with&nbsp;the goal […] of deconstructing it and taking away its power.” But, the process does not end there, as Eiblmayr concludes, Lassnig does not return the gaze, she “refuses it,” and in doing so “returns the violence of the gaze back onto&nbsp;the observer.” With&nbsp;this, Lassnig “lays the gaze bare and turns it into&nbsp;[…] an imaginary object over&nbsp;which she can exercise her power as a&nbsp;painter.”<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a></p> <p><em> You or Me</em>, <em>Kitchen Apron or Trapped Woman</em>, <em>Self-Portrait with&nbsp;Cooking Pot</em>, and <em>3 States of Being</em> are all powerful instances of the way in which Lassnig works with, and against, the gaze as a&nbsp;means of engaging with&nbsp;the female body, the interrogation or deconstruction of femininity, and those unconscious phantasies that&nbsp;are meant to remain repressed, until&nbsp;they surface and disrupt the seemingly normative workings of gender. For&nbsp;instance, <em>You or Me</em> represents the artist lashing out towards&nbsp;the viewer: the gun is pointed directly at us. The unconscious phantasy of murder has clearly come to the surface. At the same time, Lassnig does not spare herself: there is a&nbsp;gun pointed at her head as well. The lacerating inward gaze is fiercely directed at the artist, revealing her own fantasy of releasing herself from&nbsp;the confines, turmoil, and toil of daily life (something also visible in the other three works mentioned above), and turned towards&nbsp;us. We are in the moment with&nbsp;Lassnig.</p> <p>Each of these four paintings also captures this&nbsp;phantasy through&nbsp;the embodied experience of sensory impressions and physical sensations of femininity: each painting pushes the artist and the viewer towards&nbsp;a&nbsp;moment within&nbsp;that which is unsayable or unknowable, a&nbsp;phantasmatic space that, when touched, offers the possibility of a&nbsp;feminine deconstruction (in Bronfen’s terms) of autobiographical representation. Lassnig’s desire to gain embodied and unconscious access to herself, her experience of herself, and the world in which she lives brings to the foreground the way in which this&nbsp;form of self-reflective and critical practice has been a&nbsp;vital strategy for&nbsp;women who are committed to engaging with&nbsp;autobiographical forms of representation. To reflect critically on one’s self and the world around&nbsp;us, women have come to terms with&nbsp;the complexity of their experience as a&nbsp;means of representing it to themselves and sharing it with&nbsp;others.<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a></p> <p>It is this&nbsp;visceral, emotive and psychological understanding of Lassnig’s work that&nbsp;interests me in this&nbsp;text. In reflecting upon&nbsp;this in conjunction with&nbsp;her self-portraits, alongside her practice of body-awareness painting, I&nbsp;have been prompted to consider, more generally, the space of feminist autobiography and self-portraiture as a&nbsp;“space of potentiality,” a&nbsp;“potential space” (a term taken from&nbsp;the work of psychoanalyst D.W. Winnicott).<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a> As a&nbsp;practice, this&nbsp;is based on the articulation and representation of one’s self -&nbsp;in one’s irreducibility, in one’s specificity, individuality, contradictions, and complexity, in one’s relationship to the world. As such, I&nbsp;ask in this&nbsp;text, how the space of feminist autobiographical practice, as a&nbsp;“potential space,” offers artists and writers the opportunity to engage in a&nbsp;self-critical, interrogative process. A&nbsp;process that&nbsp;is both conscious and unconsciously driven. A&nbsp;process that&nbsp;in its making has a&nbsp;viewer or reader in mind, something that&nbsp;is to be shared. And what of this&nbsp;sharing? Is it in order to form some sort of connection, or highlight differences between&nbsp;one’s own understanding of the specific and general conditions of living, of time and history, and those conditions in the lives of others?</p> <p>These questions are related to a&nbsp;broader interest I&nbsp;have in the question of autobiography and artistic representations of the self and, importantly, their relationship to psychoanalysis. This&nbsp;interest has grown to include what I&nbsp;call “spaces of practice”: the artist’s studio, the writer’s study, the gallery, and the psychoanalytic consulting room. In my work, I&nbsp;am keen to consider what and how we articulate what we do in these spaces and the possibilities offered to us in analyzing them in terms of the affective psychic processes that&nbsp;take place within&nbsp;the consulting room. In the case of this&nbsp;article, I&nbsp;am specifically considering&nbsp;the processes related to Winnicott’s idea of a&nbsp;potential space, however, the relational analyses of the larger project I&nbsp;am working within&nbsp;also include processes of transference, working through, free association, dreaming, failure, the interminability of endings, and how to begin an analysis, and how these processes are related to what occurs within&nbsp;the artist’s studio, writer’s study, and art gallery –&nbsp;such as beginning a&nbsp;work of art, loving and hating it, failing with&nbsp;a&nbsp;piece of writing, or suffering through&nbsp;an interminable artistic project. Without&nbsp;reducing the singularity (and thus differences) of each of these practices and the spaces in which they take place, I&nbsp;have wondered about&nbsp;the psychoanalytic correlation between&nbsp;them and what each can contribute to the others. Is it possible to think of them as singular yet analogous practices and spaces in articulating the self, in representing one’s personal history, in producing transitional practices that&nbsp;change who we are, what we do, and what of sharing this&nbsp;transition with&nbsp;others? The question of autobiography, and the representation of the self, are key to these concerns, and there are many contemporary feminist artists who, like&nbsp;Lassnig, represent and examine their personal experience, thereby requiring us to consider questions such as: What is the purpose of autobiographical practice? How does it affect the maker, and the viewer/reader? What political and social work does it achieve? Can sharing mobilize action, change, offer us a&nbsp;form of feminist community that&nbsp;engenders a&nbsp;better place in which we can live and work with&nbsp;one another?</p> <p>I would like&nbsp;to propose that&nbsp;it is within&nbsp;this form of critical autobiographical practice that&nbsp;Lassnig’s work participates, and to which it adds an important feature poetically articulated in the first epigraph to this&nbsp;article: “My paintings are confessions of <em>the moment</em> immersed in the unconscious potions of the night” (emphasis mine). As we have seen, in my discussion of the four paintings -&nbsp;<em>You or Me</em>, <em>Kitchen Apron or Trapped Woman</em>, <em>Self-Portrait with&nbsp;Cooking Pot</em>, and <em>3 States of Being</em> -&nbsp;the artist is dealing with&nbsp;a&nbsp;very specific form of autobiographical practice that&nbsp;desires to reside in the <em>present moment</em>, in the space of conscious and unconscious life. Lassnig’s body-awareness painting enables her attempts to access the temporal, spatial and historical present. The desire to be in the present, to work in the time of the present, is Lassnig’s vital contribution to feminist autobiographical practice.</p> <h2><b>Me </b><em><b>and</b></em><b> You</b></h2> <p>Between 1951 and 1952, Lassnig made a&nbsp;series of black ink drawings called <em>Static Meditation</em> (<em>Statische Meditation)</em>. These are drawings that&nbsp;outline a&nbsp;space, often an empty space, and sometimes the artist includes a&nbsp;line that&nbsp;moves into&nbsp;or across&nbsp;the space, piercing it, but&nbsp;always representing a&nbsp;singular moment in time. Psychoanalyst and philosopher Luce Irigaray, in her essay <em>How to make feminine self-affection appear?</em> from&nbsp;the 2006 exhibition of Lassnig and Liz Larner’s work at the Kunstmuseum Graz, considers the making of this&nbsp;type of space in Lassnig’s work to be a&nbsp;means of “outlining a&nbsp;place to appear”:<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> a&nbsp;form of “attention to and […] concentration on the borders shared with&nbsp;the surroundings which help Maria Lassnig to perceive her body’s limits with&nbsp;respect to space,” a&nbsp;process that&nbsp;“requires a&nbsp;sort of introversive meditation.”<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a></p> <p>Several years after&nbsp;the ink drawings, in 1958, Lassnig produced another series of line drawings, this&nbsp;time in pencil and charcoal in which this&nbsp;introversive space of meditation that&nbsp;Irigaray highlights for&nbsp;us, is inhabited by a&nbsp;series of self-portraits: critical engagements with&nbsp;the artist’s internal and external worlds, with&nbsp;the present and past, in the moment. These works include: <em>Me as a&nbsp;Child</em> (<em>Ich als kind</em>), <em>My Face with&nbsp;Meditation Opening in my Brainbox</em> (<em>Mein Gesicht mit Meditationsöffnung in der Gehirnschale</em>), <em>Fat Self-Portrait</em> (<em>Fettes Selbsportrait</em>), <em>2 Separated Self-Portraits</em> (<em>2 separierte Selbstportraits</em>), and <em>1</em><sup><em>st</em></sup><em> Phallus Self-Portrait</em> (<em>1. Phallusselbstportrait</em>).</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/morra/4544-1920x-c71.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/morra/4544-330x-29e.jpg 330w,assets/cache/images/issues/2019/23/morra/4544-660x-2d9.jpg 660w,assets/cache/images/issues/2019/23/morra/4544-768x-150.jpg 768w,assets/cache/images/issues/2019/23/morra/4544-1320x-73f.jpg 1320w" src="assets/cache/images/issues/2019/23/morra/4544-660x-2d9.jpg" alt="" ></a>    <figcaption><p><em>2 separierte Selbstportraits</em> (<em>2 Separated Self-Portraits</em>), 1958 © Maria Lassnig Foundation / Bildrecht, Vienna 2019. Photo: Roland Krauss</p></figcaption>   </figure>  </section><section class="u-typo">   <p>In these drawings, the sheet of paper becomes a&nbsp;place within&nbsp;which an other space –&nbsp;the space of the unconscious, of memory, or of desire, for&nbsp;instance -&nbsp;is conceived of and intervenes: the paper frames the perimeters of what is inside&nbsp;and outside&nbsp;of the image, as well as holding and containing the space of the image itself. In this&nbsp;particular series of drawings, the representations perform a&nbsp;narrative function, individually in each single drawing and together as a&nbsp;series of works. These drawings mark moments in a&nbsp;story that&nbsp;touches upon&nbsp;childhood, the meditative present, the size and shape of the female body, the fragmentation of two aspects of the self, and the representation of woman and the question of phallic femininity. In 1958, Lassnig was already concerned with&nbsp;the question of how women represent themselves and the multiplicity of potential self-representations. Writing in her <em>Body Awareness Manifesto</em> (1980), Lassnig discusses the time and nature of drawing: “The drawing is closest to the idea. The drawing is closest to the moment. Every instant has only one possibility.”<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a> Drawings capture the potential of a&nbsp;single moment –&nbsp;whether in the past, present or future. Through&nbsp;the act of drawing, this&nbsp;series of artworks depicts encounters with&nbsp;the different complex aspects of a&nbsp;feminine and female self through&nbsp;a&nbsp;meditative process of historical, corporeal, and psychological alignment.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/morra/4545-1920x-8a3.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/morra/4545-330x-de8.jpg 330w,assets/cache/images/issues/2019/23/morra/4545-660x-63d.jpg 660w,assets/cache/images/issues/2019/23/morra/4545-768x-785.jpg 768w,assets/cache/images/issues/2019/23/morra/4545-1320x-b48.jpg 1320w" src="assets/cache/images/issues/2019/23/morra/4545-660x-63d.jpg" alt="" ></a>    <figcaption><p><em>1. Phallusselbstportrait</em> (<em>Self-Portrait: Phallus I</em>), 1958 © Maria Lassnig Foundation / Bildrecht, Vienna 2019. Photo: Roland Krauss</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The more time I&nbsp;spent engaging with&nbsp;Lassnig’s artworks and her writing, the closer I&nbsp;came to understanding that&nbsp;the way in which she circumscribed her autobiographcial practice reverberates with&nbsp;a&nbsp;very particular idea within&nbsp;psychoanalysis –&nbsp;the idea of a&nbsp;“potential space.” This&nbsp;has led me to propose more generally that&nbsp;in dealing with&nbsp;the autobiographical, whether through&nbsp;art practice or writing –&nbsp;we are entering and working within&nbsp;a&nbsp;psychoanalytic space, known as a&nbsp;potential space. What I&nbsp;am suggesting is that&nbsp;the liminal space of autobiographical artistic practice is a&nbsp;potential space: a&nbsp;space in which our internal and external worlds meet, collide, and are held in a&nbsp;paradoxical relationship of separateness and yet inter-relatedness to provide us with&nbsp;a&nbsp;space of creative potential, rest, and play; a&nbsp;space imbued with&nbsp;the time and history of conscious and unconscious subject formation. In this&nbsp;way, feminist autobiographical practices are able to explore a&nbsp;person’s self, their world, and engage their audience: this&nbsp;forms a&nbsp;practice that&nbsp;brings together and distinguishes between&nbsp;me and you, you or me.</p> <p></p> <h2 style="text-align: center;"><b>****</b></h2> <p></p> <p>The concept of a&nbsp;‘potential space’ comes from&nbsp;the work of child psychoanalyst D.W. Winnicott. For&nbsp;Winnicott, a&nbsp;potential space is an “intermediate area of <em>experiencing</em> to which our inner reality and external life both contribute,” a&nbsp;liminal space that&nbsp;brings together and distinguishes between&nbsp;our internal and external worlds (emphasis in original).<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a> Immediately, this&nbsp;description of a&nbsp;potential space resonates with&nbsp;what we have discovered in Lassnig’s work: the difficulty of experiencing and representing the duality of one’s inner reality and external life; the hard work involved in accessing the liminal or intermediate, area of experience that&nbsp;is required to attend to such a&nbsp;contradictory and complicated reality; and the challenge of reaching and representing the complex position of being both inside&nbsp;and outside&nbsp;of oneself and one’s experience.</p> <p>In order to understand Winnicott’s theorization of a&nbsp;potential space, it is worth taking a&nbsp;look at a&nbsp;series of drawings he made, with&nbsp;some variation, of a&nbsp;mother holding a&nbsp;child. What is so striking about&nbsp;these drawings is that&nbsp;the mother and child are together -&nbsp;a&nbsp;unit, since&nbsp;she holds the baby in her arms -&nbsp;while at the same time, a&nbsp;line, or a&nbsp;bar separates them. They are at once unified and separate. This&nbsp;continuity of being a&nbsp;part of the other, while also being separate from&nbsp;the other, is integral to Winnicott’s understanding of the formation of the human subject, and the life-long struggle to be united and independent. For&nbsp;Winnicott, this&nbsp;paradoxical struggle is a&nbsp;fundamental experience in our lives. It is a&nbsp;transitional experience and one that&nbsp;we continuously negotiate and are involved with&nbsp;from birth through&nbsp;to death. As noted in the second epigraph to this&nbsp;text, it is by engaging within&nbsp;this potential space -&nbsp;with&nbsp;its transitional experience -&nbsp;through&nbsp;“play,” through&nbsp;“being creative that&nbsp;the individual discovers the self.”</p> <p>Separate and yet inter-connected, this&nbsp;is the most precise way of describing what occurs within&nbsp;Winnicott’s potential space and the space that&nbsp;constitutes Lassnig’s feminist autobiographical practice: subjects and objects, parent and child, lovers, friends, are side by side, connected and yet vying to be different. Winnicott’s drawings of a&nbsp;mother and child bring to mind one of Lassnig’s most intriguing representations of this&nbsp;state of being separate and yet inter-connected, <em>Double Figure</em> (<em>Doppelfigur</em>, 1989). In this&nbsp;delicate watercolor painting, Lassnig brings together two figures separated from&nbsp;one another by the boundary that&nbsp;defines each of them, and yet they are connected by the overlapping and overlaying of one figure on top of and with&nbsp;the other.<sup> </sup>Overlapping and yet separate, these two figures, like&nbsp;the mother and child in Winnicott’s drawings, are striving for&nbsp;unity while at the same time requiring separation. Both Winnicott’s drawings and Lassnig’s work speak to the lifelong struggle of self-understanding, to the liminal space of autobiographical practice: the interrogation and representation of that&nbsp;paradoxical and tumultuous space between&nbsp;our interior and exterior worlds.<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a></p> <p>Winnicott’s 1953 essay <em>Transitional Objects and Transitional Phenomena</em> is where he initially discusses the idea of a&nbsp;potential space. Having worked for&nbsp;some time with&nbsp;children in his clinical practice, Winnicott became very curious about&nbsp;how babies and toddlers had special objects –&nbsp;a&nbsp;blanket or stuffed toy, what he called “transitional objects” –&nbsp;that&nbsp;they clung to and to which they became quite attached. This&nbsp;object comes to partially replace the mother or primary caregiver, and aids the child’s detachment from&nbsp;the mother. These objects are not in and of themselves transitional, it is their function that&nbsp;is transitional –&nbsp;their function within&nbsp;the development of the subject that&nbsp;facilitates the transition from&nbsp;“a state of being merged with&nbsp;the mother to a&nbsp;state of being in relation to the mother as something outside&nbsp;and separate.”<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a> These transitions take place within&nbsp;a&nbsp;“potential space,” a&nbsp;space that&nbsp;enables the paradoxical state of being attached and detached, together and separate.<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a> Winnicott defined the potential space of experience as an</p> <blockquote>intermediate area of experiencing, to which our inner reality and external life both contribute. It is an area that&nbsp;is not challenged, because no claim is made on its behalf except&nbsp;that it shall exist as a&nbsp;resting-place for&nbsp;the individual engaged in the perpetual human task of keeping inner and outer reality separate yet inter-related.<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a></blockquote> <p>Winnicott is keen to introduce the creative and reparative aspect of potential spaces, and he talks about&nbsp;our “capacity to create, think up, devise, originate, produce an object” as activities within&nbsp;a&nbsp;potential space.<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a> A&nbsp;potential space is ideally meant to be a&nbsp;safe place of resting, of free association –&nbsp;the space of psychotherapy (and what takes place within&nbsp;the patient and between&nbsp;them and analyst is vital to Winnicott) –&nbsp;but&nbsp;also, and importantly, for&nbsp;Winnicott, it is a&nbsp;space of “artistic creativity,” and of “play.”<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a></p> <p>The way in which Winnicott discusses creative practice as emerging from&nbsp;a&nbsp;resting space that&nbsp;is able to invite in the workings of the unconscious both inside&nbsp;and outside&nbsp;of psychotherapy is intriguingly echoed in a&nbsp;section from&nbsp;Lassnig’s 1998 diaries that&nbsp;she entitled <em>Extreme Confessions.</em> The artist writes that:</p> <p>Because I&nbsp;not only believe, but&nbsp;find it constantly confirmed that&nbsp;everything I&nbsp;have stored, repressed or hidden in my subconscious comes out in my art as long as I&nbsp;have emptied myself properly beforehand, I&nbsp;also believe that&nbsp;all joys and sorrows, larger and less large, can enter art, especially the self-portrait, the path from&nbsp;me to me being the shortest.<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a></p> <p>The circumscribing of a&nbsp;space, a&nbsp;boundary within&nbsp;the present moment (as Irigaray alludes to in Lassnig’s practice), after&nbsp;having ‘emptied myself properly beforehand’ and into&nbsp;which Lassnig can move ‘from me to me’ is something the artist pursued throughout her career. In a&nbsp;diary entry from&nbsp;8<sup>th</sup> August 1994 Lassnig notes that, “Beginning of painting: The boundaries must be in order, i.e. no longer in need of modification –&nbsp;then, within&nbsp;those boundaries, the coloring can be peaceful, nearly monochromatic” (emphasis in original).<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a> The boundaries that&nbsp;Lassnig speaks of are both those within&nbsp;the space of the paper or canvas (as I&nbsp;emphasized in relation to her drawings from&nbsp;the 1950s), as well as those boundaries that&nbsp;are necessary in order for&nbsp;her to access her internal world and the experiences she has with&nbsp;the external world. In 1970, Lassnig writes of this&nbsp;dual form of awareness in relation to a&nbsp;table with&nbsp;apples on it, and she notes:</p> <blockquote>I only partially screen myself from&nbsp;the outside&nbsp;world, i.e. when I&nbsp;sit in front of a&nbsp;table with&nbsp;apples on it, whether I&nbsp;really see it and paint it, while only allowing myself to cling to it like&nbsp;a&nbsp;pair of pliers, i.e. allowing my emotional shoulder blades to extend, as pliers, into&nbsp;the optical table.<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a></blockquote> <p>In this&nbsp;visceral analysis of her relationship to herself –&nbsp;her emotional shoulder blades which are pliers that&nbsp;extend out to the external world -&nbsp;we can understand how Lassnig is both inside&nbsp;her body <em>and</em> aware of the world around&nbsp;her, working on the border of an internal and an external world that&nbsp;resonates with&nbsp;Winnicott’s understanding of the paradoxical aspect of potential space: of being inside&nbsp;and outside, connected and yet separate.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/morra/0274-1920x-bef.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/morra/0274-330x-a0f.jpg 330w,assets/cache/images/issues/2019/23/morra/0274-660x-78e.jpg 660w,assets/cache/images/issues/2019/23/morra/0274-768x-38a.jpg 768w,assets/cache/images/issues/2019/23/morra/0274-1320x-0df.jpg 1320w" src="assets/cache/images/issues/2019/23/morra/0274-660x-78e.jpg" alt="" ></a>    <figcaption><p><em>Innerhalb und außerhalb der Leinwand IV</em> (<em>Inside and Outside&nbsp;the Canvas IV</em>), 1984-5 © Maria Lassnig Foundation / Bildrecht, Vienna 2019</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Her series of paintings <em>Inside and Outside&nbsp;the Canvas</em> from&nbsp;1984-5 is humorous and yet an earnest visual rendering of instances of Lassnig’s struggle to be both inside&nbsp;and outside&nbsp;the world of her body and mind, the world that&nbsp;surrounds her, and the world of painting, all within&nbsp;a&nbsp;single moment in time. In these paintings, the artist is striving to depict herself painting (<em>Inside and Outside&nbsp;the Canvas</em> I), attempting to understand what it means to be both on the canvas and in the canvas, while also being outside&nbsp;of the canvas (<em>Inside and Outside&nbsp;the Canvas II </em>and <em>IV</em>). The canvas is a&nbsp;literal object: the artistic frame within&nbsp;which Lassnig paints. The canvas also works as a&nbsp;metaphor for&nbsp;feminist autobiographical practice: the space of the canvas enables Lassnig to be both the subject and object (in psychoanalytic terms) of this&nbsp;form of autobiographical representation, of being both self-critical and distant, while at the same time attempting to embody the experience being represented.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2019/23/morra/1248-1920x-434.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2019/23/morra/1248-330x-b8e.jpg 330w,assets/cache/images/issues/2019/23/morra/1248-660x-15c.jpg 660w,assets/cache/images/issues/2019/23/morra/1248-768x-23b.jpg 768w,assets/cache/images/issues/2019/23/morra/1248-1320x-f75.jpg 1320w" src="assets/cache/images/issues/2019/23/morra/1248-660x-15c.jpg" alt="" ></a>    <figcaption><p><em>Selbstporträt unter Plastik</em> (<em>Self-Portrait under&nbsp;Plastic</em>), 1972 © Maria Lassnig Foundation / Bildrecht, Vienna 2019</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The paradox of feminist autobiographical practice and potential space is represented differently, but&nbsp;no less powerfully, in Lassnig’s Saran wrap series that&nbsp;she initially began in 1972 and turned to again in 2005. It is a&nbsp;troubling series of paintings: in these works, the artist and other figures are covered in transparent and potentially deadly sheets of plastic. In <em>Self-Portrait under&nbsp;Plastic </em>(1972), the transparent boundary of the Saran wrap covers Lassnig’s face and represents an in-between state in which the figure is both visible and yet trapped: communicating with&nbsp;us and yet uncommunicative, bound up within&nbsp;her own interiority by being enclosed by the plastic sheet, and yet wishing to make a&nbsp;connection with&nbsp;us through&nbsp;its transparent form. Perhaps this&nbsp;is an accurate way of representing this&nbsp;intermediate area, this&nbsp;potential space, that&nbsp;Lassnig is engaging within: an autobiographical practice that&nbsp;works towards&nbsp;self-understanding within&nbsp;oneself and desires to communicate and share it with&nbsp;world around&nbsp;us.</p> <h2>You, Me, We</h2> <p>You, me, we: difference, separation, connection. What is the importance of these subject positions and the relations between&nbsp;them in considering&nbsp;feminist autobiographical practice and potential space? We have seen the workings of you or me, me and you, mother and child, artist and self, artist and viewer, but, what of this&nbsp;“we”? What of difference, separation and connection within&nbsp;the “we”? How does a&nbsp;“we” work, given the history of feminism and the question of collectivity? Does it work at all?</p> <p>Perhaps Lassnig can offer some assistance. In an undated note in Lassnig’s writings, she brings us close to the relationships and differences involved in painting as a&nbsp;practice:</p> <blockquote>A fingertip sensation can be transferred to the tip of a&nbsp;paintbrush; the wetness of a&nbsp;blob of paint can be felt there, or the dryness of the canvas. The brush makes connecting lines between&nbsp;scattered wet blobs of paint, semi-targeted, semi-experimental, and where it hits a&nbsp;wet patch may not cross it, though it is perhaps half in there by now, just don’t damage it but&nbsp;continue on the other side to the next blob of paint. That&nbsp;is the adventure of the paintbrush. With&nbsp;a&nbsp;smile you create a&nbsp;relationship, the paintbrush does it in an instant, too, though it can also enmesh and wound. (Did Sigismund laugh?)<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a></blockquote> <p>This way of painting, connecting fingertip sensation to the tip of a&nbsp;paintbrush, to a&nbsp;wet blob, to the dryness of the canvas, to the next blob of paint as a&nbsp;means of creating a&nbsp;relationship is Lassnig’s working method. It is evident in all of her work: you can see the product of this&nbsp;method, this&nbsp;pushing and connecting of paint around&nbsp;and across&nbsp;the canvas. With&nbsp;a&nbsp;smile an artist can create a&nbsp;relationship with&nbsp;her paintbrush, in an instant it can also enmesh and wound –&nbsp;and here in parentheses, she may well be referring to Freud laughing.</p> <p>The material and psychological aspects of Lassnig’s practical artistic method are expanded upon&nbsp;in one of her diary entries from&nbsp;1970. The artist is speaking about&nbsp;her body-awareness painting process, about&nbsp;her practice of representing the “body house in which I&nbsp;dwell,” with&nbsp;all of its “pressure,” “tension,” “straining,” and “sensations.” She then asks herself a&nbsp;series of questions:</p> <blockquote> <p>the question now is, whether:</p> <p>1 realistic associations of memory should be switched off&nbsp;or used […]</p> <p>2 I&nbsp;only partially screen myself from&nbsp;the outside&nbsp;world</p> <p>3 in a&nbsp;picture, I&nbsp;combine memory’s realistic associations with&nbsp;freely invented sensations.<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a></p> </blockquote> <p>It strikes me that&nbsp;these realistic associations of memory, these relations with&nbsp;the outside&nbsp;world and freely invented sensations, are central to what is being felt, grasped, connected, and embodied throughout Lassnig’s work -&nbsp;and we have already seen how they function and inhabit the space of her paintings and drawings. However, there is a&nbsp;series of paintings, the <em>Be-Ziehungen</em> or <em>Relationships</em> series from&nbsp;the mid-1990s, that&nbsp;offers us something more.</p> <p>The <em>Relationships</em> paintings have mainly been discussed in terms of their formal qualities: their use of paint, the place and space of the backgrounds, their composition and the diagonal lines cutting through&nbsp;and bridging the forms in them. What I&nbsp;find so engaging about&nbsp;these works is their ability to tell us something about&nbsp;relationships: about&nbsp;you, me, we. The paintings are large canvases in which creatures, internal organs, blobs, amorphous shapes, and partial self-portraits, are connected to one or other form by skeins of paint. All of these partial objects represent the multiplicity of objects and the complex and limited relationships between&nbsp;them that&nbsp;constitute who we are, and how we experience our internal and external worlds. Firmly outlined, at times readable, in other instances unknowable, these objects and their partial interconnections speak to the two most important aspects of autobiographical practice: to self-understanding (the partial objects that&nbsp;constitute us), and to recognizing, misrecognizing or not seeing the other (as partial objects). These works, like&nbsp;all of Lassnig’s works, are a&nbsp;process of critical self-appraisal, while also speaking to internal and external connections. They remind us that&nbsp;autobiographical practices are always concerned with&nbsp;the connections that&nbsp;we hope to make with&nbsp;ourselves, and importantly, with&nbsp;our reader and viewer: a&nbsp;partial, limited and often misrecognized connection that&nbsp;springs from&nbsp;our internal psychological, emotional, historical and visceral world, and the way in which we hope to create a&nbsp;bridge within&nbsp;this potential space to another person or environment: in our differences, our separateness, and only through&nbsp;a&nbsp;momentary connection.</p> <p>Feminist writers working through&nbsp;this problematic surrounding the personal and political importance of autobiographical writing can offer us much assistance in considering&nbsp;the you, me, we of autobiographical practices. Literary theorist Jane Gallop in <em>Anecdotal Theory</em> (2002) situates personal experience, and the anecdotal in particular, as a&nbsp;starting point for&nbsp;thinking through&nbsp;the psychoanalytic, political, and ethical dimensions of a&nbsp;complex moment in her own life that&nbsp;required representation in order for&nbsp;her to work through&nbsp;it. Gallop state that&nbsp;‘[t]he anecdotal is exorbitant”: it is a&nbsp;form of analysis and address that&nbsp;is “excessive” and thus deconstructs our normative understandings of experience.<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a> Sharing our personal experience, through&nbsp;the anecdotal, is vital to its political, ethical and psychoanalytic intentions. In <em>Anecdotal Theory</em> Gallop thinks about&nbsp;how women have used the autobiographical form for&nbsp;the purposes of knowing themselves and creating a&nbsp;community with&nbsp;others.</p> <p>Gallop situates her notion of the anecdotal with&nbsp;and against&nbsp;Nancy K. Miller’s use of ‘occasional writing’ in her book from&nbsp;1991 entitled <em>Getting Personal: Feminist Occasions and Other Autobiographical Acts</em>. For&nbsp;Miller, the strategy of occasional writing has offered her the opportunity to “seize the fallout of event: the chance for&nbsp;something to happen in the wedge of unpredictability not yet foreclosed by my own (rhetorically predictable) feminist discourse.”<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a> Both the anecdotal and the occasion form of autobiographical writing respond to events in an author’s life, as a&nbsp;means of rethinking these events for&nbsp;themself, and as a&nbsp;means of understanding what difference the autobiographical form can offer women, feminist discourse, and culture more broadly.</p> <p>Gallop is quite keen to distinguish between&nbsp;the temporalities of occasional writing and the anecdotal. She notes that:</p> <blockquote>The occasional and the anecdotal are not, to be sure, identical. Anecdotes recount incidents: in them discourse <em>follows</em> event, tries to capture the event in language. Occasional writing, on the other hand, <em>precedes</em> event: discourse tries to prepare for, to suit itself in advance to, an event. Whereas occasional writing is always, in a&nbsp;way, prefatory, the anecdotal is always a&nbsp;sort of ‘afterword” (language that&nbsp;comes after).<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a></blockquote> <p>Where “anecdotes” work to belatedly rethink a&nbsp;moment in history, “occasional writing” participates in the event through&nbsp;its retelling. This&nbsp;means that&nbsp;the anecdotal and the occasional “moor discourse to history.”<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a></p> <p>This notion of time and history in relation to the autobiographical is given a&nbsp;further means of expression in Shoshana Felman’s book <em>What Does a&nbsp;Woman Want? Reading and Sexual Difference</em> (1993). For&nbsp;Felman, who also relies on psychoanalysis, “the critical reflection [involved in the autobiographical] is that&nbsp;people tell their stories (which they do not know or cannot speak) through&nbsp;others’ stories.”<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a> Not knowing how, or even that, the autobiographical is driving one’s work and one’s experience (because the work and experience of autobiography always occurs unconsciously), Felman proposes that&nbsp;the autobiographical is “the way in which I&nbsp;was precisely missing my own implication in the texts before&nbsp;me.”<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a> In fact, it is through&nbsp;writing or representation that:</p> <blockquote>We bear witness not to an expectation (ideological or autobiographical) but&nbsp;to a&nbsp;literary process of surprise, to the way in which the Other (and the story of the Other) has addressed us by surprising us, and has, in fact, surprised us all the more that&nbsp;its unexpected revelation –&nbsp;this&nbsp;‘feminine resistance’ in the text –&nbsp;has effectively, unwittingly, addressed some forces, some desires, some events in our own life.<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a></blockquote> <p>For Felman, autobiography happens without&nbsp;us realizing it: it takes place when we are writing about&nbsp;something else, and it is only later that&nbsp;we realize the writing was partially, unconsciously, motivated by autobiographical events in our life. This&nbsp;is autobiography as a&nbsp;form of after-affect, where in encountering (and writing or viewing) a&nbsp;work of literature or art we come to realize –&nbsp;belatedly –&nbsp;that&nbsp;our encounter was motivated by our own personal experience (something that&nbsp;we did not yet know or understand or recognize) during&nbsp;the encounter.<a href="#sdfootnote30sym" name="sdfootnote30anc"><sup>30</sup></a></p> <p>What Miller, Gallop and Felman offer us are three temporalities for&nbsp;understanding how autobiography functions: the prefatory (occasional), the afterword (anecdotal), and a&nbsp;much more distant and unconsciously led form of belatedness (after-effect). All three, despite&nbsp;their differences, are modes of encouraging feminine resistance, where the personal is exposed for&nbsp;political ends. I&nbsp;would like&nbsp;to propose that&nbsp;they are also all practices that&nbsp;take place within&nbsp;the liminal experience of potential spaces: the negotiation of internal and external worlds through&nbsp;the paradox of separateness and connection in the prefatory (occasional), the afterword (anecdotal), and the after-effect (belated, surprise). These forms of feminine deconstruction and psychoanalytic critique remind us of the political reading of Lassnig’s practice that&nbsp;Bronfen and Edylmare locate within&nbsp;her artworks, and which I&nbsp;have developed and extended into&nbsp;an argument for&nbsp;understanding the space of autobiography as a&nbsp;space of potentiality and feminist resistance as a&nbsp;space that&nbsp;makes possible the you, me, we: that&nbsp;offers us a&nbsp;liminal space in which we can bring together, negotiate and distinguish between&nbsp;the collisions and correspondences of our internal and external worlds.</p> <p>Picking up on this&nbsp;notion of feminine resistance and the temporality of the autobiographical, in this&nbsp;article, I&nbsp;have been interested in analyzing the way in which Lassnig’s artistic practice –&nbsp;an autobiographical meditation, a&nbsp;pictorial representation of her life, her embodiment, her psychological and physical existence, and her relationship with&nbsp;others in the world are all forms of engagement within&nbsp;a&nbsp;potential space. This&nbsp;artistic practice, and what it represents for&nbsp;us, offers a&nbsp;contribution to these forms of autobiographical practices: occasional, anecdotal and after-effect, with&nbsp;the time, history and space of the “present moment.” In Lassnig’s work the time of the present moment, in which both the conscious and unconscious mind work together, enable the work of body-awareness to take place: confronting the canvas as if naked, devoid of intention, she takes not of her feelings, psychological sensations, bodily pressures, tensions, and expansions, ways of being that&nbsp;are difficult to put on canvas –&nbsp;but&nbsp;which she attempts to paint. This&nbsp;form of autobiographical practice takes Lassnig into&nbsp;the potential space of the present moment: a&nbsp;present moment that&nbsp;is impacted by the past&nbsp;and future, but&nbsp;one that&nbsp;attempts to remain firmly in the present. This&nbsp;is a&nbsp;liminal space hovering between&nbsp;the liminal temporality of the occasional, the anecdotal and the after-effect. As we have learned from&nbsp;Miller, Gallop, Felman, and now Lassnig, the occasional is the time of prefatory critical reflection, the belated is the time of the anecdotal, the after-effect is the time of belated surprise, and the present moment is the time of memory and sensations. In all of these temporalities, working within&nbsp;the potential space of self-understanding is the personal. The political representation of the personal is both a&nbsp;form of theorizing and the desire to share this&nbsp;with an ‘other’– oneself, a&nbsp;reader, a&nbsp;viewer. These personal and political understandings, collisions and collusions within&nbsp;and between&nbsp;me, you, we as transitions that&nbsp;are enacted and embodied –&nbsp;made manifest –&nbsp;within&nbsp;a&nbsp;potential space may well be a&nbsp;means of forming a&nbsp;partial, momentary bond through&nbsp;difference, separation and connectedness, that&nbsp;allows for&nbsp;a&nbsp;feminist resistance, based in the end upon&nbsp;personal experience, and our ability and desire to share this&nbsp;with others.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Maria Lassnig, “Diaries M.L. 1998 <em>Extreme Confessions</em>,” in <em>Maria Lassnig: Works, Diaries and Writings</em>, ed. Laurence Rassel (Barcelona: Fundació Antoni Tàpies, 2015), 113.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>D.W. Winnicott, “Playing: Creative Activity and the Search for the Self,” in <em>Playing and Reality</em> (London and New York: Routledge, 1971), 72-3.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Maria Lassnig, <em>Maria Lassnig: The Pen is the Sister of the Brush</em>, ed. Hans Ulrich Obrist, trans. Howard Fine with Catherine Schelbert (Zurich and London: Hauser and Wirth, 2009), 75.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Elisabeth Bronfen, “Body Drawings of a Feminine Kind: Maria Lassnig’s Self-Portraits,” in <em>Maria Lassnig: In the Mirror of Possibilities. Watercolours and Drawings from 1947 to the Present</em>, ed. Julia Friedrich (Cologne: Museum Ludwig, 2009), 37.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Silvia Eiblmayr, “Maria Lassnig: A Picture Atlas of Turmoil,” in <em>Maria Lassnig: Works, Diaries and Writings</em>, ed. Laurence Rassel (Barcelona: Fundació Antoni Tàpies, 2015), 215.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>For an analogous reading of this process of self-critical interrogation, psychoanalysis, and the question of autobiography, see, Joanne Morra, “Being in Analysis: On the Intimate Art of Transference,” <em>Journal of Visual Art Practice</em>, special issue, <em>Intimacy Unguarded</em>, ed. with Emma Talbot, 16/3 (2017): 163-84.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>The most relevant texts for my project which take up Winnicott’s notion of potential space are: Lesley Caldwell, <em>Art, Creativity, Living</em> (London: Karnac Books, 2000); Annette Kuhn, ed., <em>Little Madnesses: Winicott, Transitional Phenomena and Cultural Experience</em> (London: I.B. Tauris, 2013); and Jane Rendell, <em>The Architecture of Psychoanalysis: Spaces of Transition</em> (London: I.B. Tauris, 2017).</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Luce Irigaray, “How to make feminine self-affection appear?”, in <em>Two or Three or Something: Maria Lassnig, Liz Larner</em>, ed. Peter Pakesch (Cologne: Walter Konïg, 2006), 45.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Ibid., 46.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Maria Lassnig, “Body Awareness Manifesto,” in <em>Maria Lassnig: Works, Diaries and Writings</em>, 90.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>D.W. Winnicott, “Transitional Objects and Transitional Phenomena,” in <em>Playing and Reality</em> (London and New York: Routledge, 1971), 3.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>The work of the British psychoanalyst, educator and artist Marion Milner plays an important role here. In her autobiography entitled <em>Bothered by Alligators</em>, a text that she began in 1990 soon after she turned 90 years old, Milner reflects upon her time in the United States in 1937, when, having received a Rockefeller Fellowship to study at Harvard Business School – she was working on educational policy – she and her husband decided to rent a car and travel to New Mexico. While on the outskirts of Sante Fe, Milner remembers that</p>
+<blockquote>
+<p>I had an experience to do with reverie, or rather with concentration, that seemed to me afterwards to be just what I had really, unknowingly, come to America to find out about. It was, quite simply, a way of shifting one’s concentrated awareness away from the struggle after logical discursive statements, which I believed was what I had been given the Fellowship for, and directing my awareness into bodily movement, in this case the movement of my hands darning socks, the result being a feeling of great joy and contentment. It seemed like a real achievement of joining up mind and body, an exciting discovery, something new happening to me.</p>
+</blockquote>
+<p>This vision of darning socks while traveling near Santa Fe is an experience that echoes clearly with Lassnig’s body-awareness practice. For Milner, this form of reverie or concentration was vital to her understanding of mental life, everyday life, and artistic practice. On a separate occasion, Milner, while trying to understand the creative process and the freeing of creativity (which she wrote up in the now classic <em>On Not Being Able to Paint</em> (Los Angeles: Torcher/Putnam,1957)), made a drawing of two jugs that came to represent for her the relationship between two objects, two individuals, two aspects of the self, the struggle of being both autonomous and connected to one another. These jugs are so similar to the drawing made by Lassnig as to be almost uncanny. Unfortunately, I do not have the space to elaborate on this connection between these two artists and their understanding of artistic practice and everyday life, but it is something worth spending more time on. Marion Milner, <em>Bothered by Alligators</em> (Hove: Routledge, 2002), 5-6.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>Winnicott, <em>Transitional Objects</em>, 19-20.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Ibid. Winnicott’s definition is as follows: “I have introduced the terms <em>transitional object</em> and <em>transitional phenomena</em> for designation of the intermediate area of experience, between the thumb and the teddy bear, between the oral eroticism and true object relationship, between primary creative activity and projection of what has already been introjected, between primary unawareness of indebtedness and the acknowledgement of indebtedness (“Say: ta!”),” 23.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>Ibid., 3. For Winnicott, a potential space incorporates at least three separate and yet interrelated experiences: firstly, our experience of ourselves (the internal world of “me”); secondly, our experience of the mother/other (the “not-me”); and finally, our experience of an object (its nature, its place “outside, inside, at the border” of our relationships with ourselves and an “other”).</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>Ibid., 2.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>Ibid., 7. Winnicott reiterates this differently on page 19 of <em>Transitional Objects</em> when he writes: “This intermediate area of experience, unchallenged in respect of its belonging to inner or external (shared) reality, constitutes the greater part of the infant’s experience, and throughout life is retained in the intense experiencing that belongs to the arts and to religion and to imaginative living, and to creative scientific work.” In his essay entitled <em>Playing: A Theoretical Statement</em>, Winnicott connects transitional phenomena to playing, and then playing to psychotherapy (pp. 54-56). This is then expanded upon in the text <em>Playing: Creative Activity and the Search for the Self</em>, where Winnicott is firm in his understanding of the importance of play, creativity, and the discovering of the self. Winnicott writes: “The general principle seems to me to be valid that <em>psychotherapy is done in the overlap of the two play areas, that of the patient and that of the therapist</em>. If the therapist cannot play, then he is not suitable for the work. If the patient cannot play, then something needs to be done to enable the patient to become able to play, after which psychotherapy may begin. The reason why playing is essential is that it is in playing that the patient is being creative” (emphasis in original, p. 72). Winnicott goes further still, in this same text, when he makes a claim for the need for play and its connection to an individual’s acceptance of reality, something that s/he struggles with throughout her/his life: “It is assumed that the task of reality-acceptance is never completed, that no human being is free from the strain of relating inner and outer reality, and that relief from this strain is provided by an intermediate area of experience [which] is in direct continuity with the play area of the small child who is <em>lost</em> in play.” (p. 75).</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>Lassnig, “Diaries M.L. 1998 <em>Extreme Confessions</em>,” 113.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>Lassnig, <em>Maria Lassnig: The Pen is the Sister of the Brush</em>, 166.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>Lassnig, <em>Body Awareness Painting</em>, 32.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a>Maria Lassnig, “Letter Painting 1 Relationships. [Be-ziehungen],” <em>Maria Lassnig: Works, Diaries and Writings</em>, 85.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>Lassnig, <em>Maria Lassnig: The Pen is the Sister of the Brush</em>, 28.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a>Jane Gallop, <em>Anecdotal Theory</em> (Durham and London: Duke University Press, 2002), p. 8 and in passim.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a>Nancy K. Miller, <em>Getting Personal: Feminist Occasions and Other Autobiographical Acts</em> (London and New York: Routledge, 1991), xi-xii.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a>Gallop, <em>Anecdotal Theory</em>, 157.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a>Ibid. 157.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a>Shoshana Felman, <em>What Does a Woman Want? Reading and Sexual Difference</em> (Baltimore and London: Johns Hopkins University Press, 1993), 121.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>Ibid. 121-2.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a>Ibid. 133.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a>The psychoanalytic notion of belatedness is from Sigmund Freud, “From the History of an Infantile Neurosis” (1918 [1914]), in <em>The Standard Edition of the Complete Psychological Works of Sigmund Freud</em>, vol. 17, trans. James Strachey, in collaboration with Anna Freud (London: Vintage, The Hogarth Press and the Institute of Pyscho-Analysis, 2001), 3-124.</p></div>
+
+				
+
+				
+	<div class="m-bibliography" style="margin-bottom: 2em;">
+		<a class="c-issue-toc__article-collapse-btn" role="button" data-toggle="collapse" href="#collapseSummary1891" aria-expanded="false" aria-controls="collapseSummary1891" data-lexicon-show="" data-lexicon-hide="">
+			Bibliography
+		</a>
+		<div class="c-issue-toc__article-collapse collapse" id="collapseSummary1891">
+			<div class="c-issue-toc__article-collapse-inner">
+				<div class="m-bibliography__content u-typo">
+	<p>Bronfen, Elisabeth. "Body Drawings of a Feminine Kind: Maria Lassnig’s Self-Portraits." In <em>Maria Lassnig: In the Mirror of Possibilities. Watercolours and Drawings from 1947 to the Present</em>, edited by Julia Friedrich, 34-41. Cologne: Museum Ludwig, 2009.</p>
+<p>Caldwell, Lesley. <em>Art, Creativity, Living</em>. London: Karnac Books, 2000.</p>
+<p>Eiblmayr, Silvia. "Maria Lassnig: A Picture Atlas of Turmoil." In <em>Maria Lassnig: Works, Diaries and Writings</em>, edited by Laurence Rassel, s 209-19. Barcelona: Fundació Antoni Tàpies, 2015.</p>
+<p>Felman, Shoshana. <em>What Does a Woman Want? Reading and Sexual Difference</em>. Baltimore and London: Johns Hopkins University Press, 1993.</p>
+<p>Freud, Sigmund. "From the History of an Infantile Neurosis" (1918 [1914]). In <em>The Standard Edition of the Complete Psychological Works of Sigmund Freud</em>, Vol 17. Translated by James Strachey, in collaboration with Anna Freud, 3-124. London: Vintage, The Hogarth Press and the Institute of Pyscho-Analysis, 2001 [1955]).</p>
+<p>Gallop, Jane. <em>Anecdotal Theory</em>, Durham and London: Duke University Press, 2002.</p>
+<p>Irigaray, Luce. "How to make feminine self-affection appear?." In <em>Two or Three or Something: Maria Lassnig, Liz Larner</em>, edited by Peter Pakesch, 36-67. Cologne: Walter Konïg, 2006.</p>
+<p>Kuhn, Annette, ed. <em>Little Madnesses: Winicott, Transitional Phenomena and Cultural Experience.</em> London: I.B. Tauris, 2013.</p>
+<p>Lassnig, Maria. <em>Maria Lassnig: The Pen is the Sister of the Brush</em>, edited by Hans Ulrich Obrist. Translated by Howard Fine with Catherine Schelbert, Zurich and London: Hauser and Wirth, 2009.</p>
+<p>Lassnig, Maria. <em>Maria Lassnig: Works, Diaries and Writings</em>, edited by Laurence Rassel. Barcelona: Fundació Antoni Tàpies, 2015.</p>
+<p>Miller, Nancy K. <em>Getting Personal: Feminist Occasions and Other Autobiographical Acts. </em>London and New York: Routledge, 1991.</p>
+<p>Milner, Marion. <em>Bothered by Alligators. </em>Hove: Routledge, 2002.</p>
+<p>Milner, Marion.<em> On Not Being Able to Paint. </em>Los Angeles: Torcher/Putnam, 1957.</p>
+<p>Morra, Joanne. "Being In Analysis: On the Intimate Art of Transference." <em>Journal of Visual Art Practice</em>, special issue, <em>Intimacy Unguarded</em>, edited with Emma Talbot, no. 16/3 (2017): 163-84.</p>
+<p>Rendell, Jan. <em>The Architecture of Psychoanalysis: Spaces of Transition.</em> London: I.B. Tauris, 2017.</p>
+<p>Winnicott, D.W. "Playing: A Theoretical Statement." In <em>Playing and Reality</em>, 51-70. London and New York: Routledge, 1971.</p>
+<p>Winnicott, D.W. "Playing: Creative Activity and the Search for the Self." In <em>Playing and Reality</em>, 71-86. London and New York: Routledge, 1971.</p>
+<p>Winnicott, D.W. "Transitional Objects and Transitional Phenomena." In <em>Playing and Reality</em>, 1-34. London and New York: Routledge, 1971.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/power-of-women/you-me-we" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Logika przeciwintuicji. Ćwiczenie ze słuchania obrazów | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2017/historie-fantomowe/logika-przeciwintuicji.-cwiczenie-ze-sluchania-obrazow">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Logika przeciwintuicji. Ćwiczenie ze słuchania obrazów | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Logika przeciwintuicji. Ćwiczenie ze słuchania obrazów | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2017/historie-fantomowe/logika-przeciwintuicji.-cwiczenie-ze-sluchania-obrazow">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Logika przeciwintuicji. Ćwiczenie ze słuchania obrazów | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #9c9c53 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #9c9c53 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #9c9c53 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #9c9c53 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #9c9c53 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #9c9c53 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #9c9c53 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #9c9c53 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(156,156,83,0.8) !important; */
+			/* background-color:#9c9c53 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(156,156,83,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#9c9c53 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(156,156,83,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#9c9c53; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(156,156,83,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(156,156,83,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#9c9c53 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#9c9c53 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#9c9c53 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-606 parent-id-579">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="449" data-selected-issue-color="#9c9c53" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/phantom-histories#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/logics-of-counterintuition-an-exercise-in-listening-to-images">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2017/historie-fantomowe#toc">18</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/2017/historie-fantomowe/logika-przeciwintuicji.-cwiczenie-ze-sluchania-obrazow?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Logika przeciwintuicji. Ćwiczenie ze słuchania obrazów</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/2017/historie-fantomowe/logika-przeciwintuicji.-cwiczenie-ze-sluchania-obrazow?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=607">Agnieszka Więckiewicz</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Tina Campt, <em>Listening to Images. An Exercise in Counterintuition</em>, Duke University Press, Durham-London 2017</h2> <h2>Tina Campt,<em> Image Matters. Archive, Photography</em>, Duke University Press, Durham-London 2014</h2> <blockquote> <p></p> <p>Człowiek milczący jest dla innych nieprzejrzysty. Jego milczenie skłania jednak do różnych prób interpretacji, wyczytania wypowiedzi z&nbsp;ciszy.</p> <p>Susan Sontag, <em>Estetyka ciszy</em></p> <p>Żebyśmy jednak mogli usłyszeć dźwięk, potrzebne są pewne warunki. Pierwszy warunek to istnienie przewodnika dźwięku. Przewodnikiem dźwięku mogą być ciała lotne (gazy), płynne (ciecze) lub stałe (metale, drzewo, szkło itp.), które na&nbsp;zasadzie ruchu falowego przenoszą dźwięk od jego źródła do ucha słuchającego. Jeśli nie ma przewodnika dźwięku, dźwięku nie usłyszymy.</p> <p>Franciszek Wesołowski, <em>Zasady muzyki</em></p> </blockquote> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7116-1-pb-1920x-528.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7116-1-pb-330x-73f.jpg 330w,assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7116-1-pb-660x-a59.jpg 660w,assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7116-1-pb-768x-ef1.jpg 768w,assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7116-1-pb-1320x-bf8.jpg 1320w" src="assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7116-1-pb-660x-a59.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Pytanie o&nbsp;charakter relacji między fotografią wernakularną, wyobrażeniami o&nbsp;czarnoskórych Europejczykach a&nbsp;tym, jak niebiali obywatele państw europejskich wizualizowali samych siebie oraz jak chcieli być widziani, stało się punktem wyjścia prac afroamerykańskiej badaczki wizualności Tiny Campt. Ustanawiające nową teorię obrazu fotograficznego książki <em>Listening to Images. An Exercise in Counterintuition</em><sup></sup> oraz <em>Image Matters. Archive, Photography and the African Diaspora in Europe </em>otwiera autobiograficzna refleksja nad fotografiami, praktykami katalogowania oraz przechowywania zdjęć w&nbsp;tradycji rodzinnej autorki. Podobnie jak dla Rolanda Barthesa kluczowym wydarzeniem dla teoretycznej refleksji Campt była śmierć matki<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>. Rozpoczynanie tekstu teoretycznego od wstępu autobiograficznego wciąż może wydawać się nieodpowiednie, wręcz krępujące. Jakie założenia kryją się więc za&nbsp;powyższą strategią? Dla myślicielki feministycznej, za&nbsp;jaką uważa się Campt, taki wybór wydaje się nie tylko uzasadniony, lecz nawet konieczny — w&nbsp;ten sposób autorka tworzy przestrzeń mniejszościowej narracji destabilizującej ustalone i&nbsp;powszechnie akceptowane „wielkie teorie”. Kolejnym wytłumaczeniem może być przyjęcie założenia o&nbsp;większej szczerości piszącej, nie „ukrywającej się” za&nbsp;swoim wywodem. Odmowa uniwersalności narracji jest również próbą znalezienia nowego języka badań humanistycznych. Rozpoczynanie tekstu teoretycznego od osobistej, nierzadko intymnej refleksji, wiąże się także z&nbsp;porzuceniem pewności na&nbsp;rzecz wahania i&nbsp;niezdecydowania, poczucia niedostatecznej pewności sądu czy niedającej się łatwo poddać strukturyzacji intuicji. W&nbsp;swojej refleksji Campt nie ucieka od zadawania pytań i&nbsp;podkreślania trudności, z&nbsp;jakimi spotyka się badaczka konfrontująca się z&nbsp;jednej strony z&nbsp;fotografią etnograficzną, z&nbsp;drugiej zaś z&nbsp;obrazami wytwarzanymi w&nbsp;wernakularnych praktykach fotograficznych podejmowanych przez czarne mniejszości.</p> <h2>Zwrot przeciwintuicyjny</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7114-1-pb-1920x-376.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7114-1-pb-330x-cbc.jpg 330w,assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7114-1-pb-660x-03c.jpg 660w,assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7114-1-pb-768x-8f1.jpg 768w,assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7114-1-pb-1320x-6fc.jpg 1320w" src="assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7114-1-pb-660x-03c.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Zmianę, która zaszła w&nbsp;teorii fotografii przypadającą na&nbsp;koniec pierwszej dekady XX wieku, proponuję nazwać zwrotem przeciwintuicyjnym. Dekonstrukcja, a&nbsp;następnie poststrukturalizm zasiliły teorie feministyczne, postkolonialne, wpływając na&nbsp;wykształcenie nowych perspektyw badawczych, takich jak <em>queer studies</em>, <em>black studies</em> czy <em>surveillance studies</em>. Dziś stanowią one podstawę nowych i&nbsp;nieustannie rozwijających się teorii fotografii, w&nbsp;których ponownie zadano pytanie o&nbsp;znaczenie i&nbsp;możliwość interpretacji fotografii oraz obrazów uważanych dotychczas za&nbsp;opresyjne i&nbsp;jednoznacznie krzywdzące fotografowane podmioty<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. W&nbsp;zwrocie przeciwintuicyjnym chodziłoby zatem o&nbsp;to, co Susan Sontag określiła „trudnym myśleniem”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>, zaś Ariella Azoulay — parafrazując słowa Barthes’a — opisała jako dostrzeżenie „tego, co było, ale niekoniecznie w&nbsp;taki sposób, jak zostało to zaplanowane”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>. W&nbsp;tym świetle konieczne wydaje się ponowne zbadanie fotografii kolonialnej, etnograficznej, kryminalnej oraz wojennej, by zobaczyć w&nbsp;niej to, co jeszcze nieodkryte — dojrzeć (tzn. świadomie zobaczyć) podmiotowość fotografowanych oraz uznać ich niepełne bądź nieskuteczne uprzedmiotowienie w&nbsp;zdarzeniu fotografii. Przeciwintuicyjność w&nbsp;badaniu obrazu fotograficznego wymaga sproblematyzowania zarówno samego obrazu, jak i&nbsp;pozycji podmiotu badającego oraz przestrzeni, w&nbsp;której archiwizuje i&nbsp;kataloguje się opracowywane materiały. W&nbsp;tej perspektywie archiwum okazuje się nie w&nbsp;pełni podlegać patriarchalnej władzy archonta, jak chciałby Jacques Derrida<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>, lecz zaczyna funkcjonować jako miejsce przechowania zapomnianych historii i&nbsp;obrazów, stając się przestrzenią potencjalnego otwarcia<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>.</p> <p>W teoriach przeciwintuicyjnych do głosu dochodzą co najmniej trzy zestawy problemów. Pierwszy otwiera ponowienie fenomenologicznego pytania o&nbsp;istotę obrazu fotograficznego. Georges Didi-Huberman zachęca do nieodwracania wzroku od „trudnych” obrazów — do patrzenia, widzenia i&nbsp;wyobrażania na&nbsp;podstawie zdjęć, które wyrwane, skradzione rzeczywistości stają się jej świadectwem<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. Z&nbsp;kolei Rebecca Schneider czy Tina Campt rozwijają rozumienie fotografii jako wydarzenia, aktu odgrywania bezruchu<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Fotografia zostaje przez nie ujęta jako wstrzymanie ruchu — pauza w&nbsp;performansie. W&nbsp;języku muzykologicznym pauza nie określa biernej ciszy, lecz odnosi się do wyreżyserowanego i&nbsp;określonego czasowo momentu. W&nbsp;odniesieniu do praktyki fotograficznej byłaby więc momentem szczególnego natężenia uwagi i&nbsp;wytężenia energii zarówno fotografowanego, jak i&nbsp;fotografującego — wymagałaby od portretowanych niepozostawania biernymi i&nbsp;podjęcia przez nich działań, które zostaną później zachowane w&nbsp;obrazie.</p> <p>Kolejną kwestią jest problem patrzenia (widzenia) fotografii. Pojawia się pytanie o&nbsp;to, jak postrzegać fotografowanego? Jak pogłębić spojrzenie kierowane na&nbsp;obraz fotograficzny, by przedrzeć się przez jego wierzchnią warstwę? Żeby odpowiedzieć na&nbsp;te pytania, po&nbsp;raz kolejny rozważyć trzeba związki fotografii z&nbsp;technikami władzy, zwłaszcza pozycjonowania się podmiotu względem i&nbsp;przeciw fotografującemu (odgrywającego rolę „obiektywu” władzy).</p> <p>Trzeci obszar problemowy teorii przeciwintuicji, który można wskazać, to charakterystyka relacji między fotografią a&nbsp;osobą ją oglądającą. W&nbsp;jaki sposób fotografia wpływa na&nbsp;podmiot? Do jakich nowych odkryć może doprowadzić wejście badaczki w&nbsp;powyższy związek oparty na&nbsp;multisensorycznym i&nbsp;pozaintelektualnym doświadczeniu? Starając się odpowiedzieć na&nbsp;powyższe pytania, Tina Campt proponuje odejście od patrzenia (widzenia) fotografii, na&nbsp;rzecz jej słuchania. Spotkanie z&nbsp;fotografią staje się ćwiczeniem z&nbsp;percepcji dźwięków i&nbsp;niesłyszalnych szmerów, dążeniem do stworzenia pola możliwego wsłuchania się w&nbsp;obraz.</p> <h2>(U)słyszeć obrazy</h2> <p>Zmiana głównego przedmiotu zainteresowania z&nbsp;patrzenia na&nbsp;słuchanie obrazów nie oznacza uznania samej praktyki widzenia za&nbsp;czynność prostą, w&nbsp;pełni zrozumiałą czy poddaną refleksji teoretycznej w&nbsp;wystarczającym stopniu. „Pokazanie widzenia”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> jako działania nieneutralnego, zanurzonego w&nbsp;polityczności, interaktywnego i&nbsp;złożonego procesu wymian (pełnego zapętleń i&nbsp;sprzężeń zwrotnych)<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup> stanowi podstawę teoretycznej refleksji Campt. Mówienie o&nbsp;słyszeniu obrazów ma z&nbsp;kolei kierować uwagę podmiotu wchodzącego w&nbsp;relację z&nbsp;fotografią na&nbsp;to, co niewyraźne, na&nbsp;pierwszy rzut oka niedostrzegalne.</p> <p>Poszukiwanie znaczeń obrazów wymykających się patrzącemu i&nbsp;patrzącej jest niezmiernie pociągające przede wszystkim z&nbsp;powodu obietnicy odkrycia nowych znaczeń, niesprzecznej jednak z&nbsp;założeniem o&nbsp;efemeryczności sensu samego obrazu. Koncepcja wymykania się istoty obrazu otwiera możliwości przekroczenia ograniczeń widzenia zarówno na&nbsp;poziomie jednostkowym, jak i&nbsp;zbiorowym. Słyszenie obrazów może być odpowiedzią na&nbsp;niewystarczalność praktyki widzenia wobec wyzwania odczytania nieoczywistych (nienarzucających się) treści obrazów fotograficznych. Otwiera na&nbsp;konieczność ponownego odkrycia sensu fotografii oraz daje szansę na&nbsp;właściwe odebranie rejestru fotografii — jej częstotliwości, na&nbsp;którą składają się dwa elementy: niematerialny obraz oraz konkretny, materialny przedmiot, zdjęcie. Usłyszenie fotografii opiera się z&nbsp;jednej strony na&nbsp;zawieszeniu wcześniejszego sądu, tego, jak obraz był dotychczas widziany i&nbsp;interpretowany, z&nbsp;drugiej na&nbsp;(wy)słyszeniu częstotliwości, na&nbsp;której operuje obraz dzięki dostrojeniu się do niego przez podmiot.</p> <p>Teorię słuchania obrazów jako nową metodę podejścia do fotografii Campt oparła na&nbsp;przeciwintuicyjnym ujęciu ciszy oraz jej związku z&nbsp;fotografią wernakularną. Zarówno cisza, jak i&nbsp;codzienność, pisze badaczka, nieodłącznie kojarzą się z&nbsp;tym, co przemilczane, nie w&nbsp;pełni rozpoznane<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Nie chodzi tu jednak o&nbsp;każdą codzienność i&nbsp;każdą fotografię rodzinną czy nieformalną. Campt pisze o&nbsp;czarnoskórych społecznościach afrykańskich oraz imigrantach do Europy Zachodniej po&nbsp;drugiej wojnie światowej, których zwyczajne, codzienne doświadczenia były formowane przez ciche wykluczenie i&nbsp;opresję. W&nbsp;<em>Listening to Images</em> badaczka analizuje fotografie z&nbsp;różnych rejestrów: przede wszystkim kolonialne zdjęcia Afrykańczyków z&nbsp;wschodniego Kapsztadu z&nbsp;końca XIX wieku, portrety czarnoskórych chrześcijan z&nbsp;południowoafrykańskich miast, które znalazły się w&nbsp;albumie <em>The Black Photo Album / Look at Me: 1890-1950</em> przygotowanym przez południowoafrykańskiego fotografa Santu Mofokenga<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup> oraz portrety czarnoskórych Brytyjczyków zamieszkujących powojenne Birmingham. Według Campt fotografia stała się wernakularną praktyką wykorzystywaną przez czarnoskóre mniejszości do wytwarzania konfrontacyjnych praktyk widzialności. Należy więc rozpatrywać ją jako działanie kontrwizualne podejmowane przeciwko obrazowi czarności narzuconemu przez kolonizację<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Praktyki (auto)fotografowania czarnoskórych mniejszości Campt postrzega jako jednoczesną artykulację zwyczajności (codziennego zbiorowego doświadczenia) i&nbsp;wyjątkowości (wypracowywane indywidualne techniki oraz strategie oporu). Codzienność fotografowanych łączyła się z&nbsp;cichymi — a&nbsp;zatem i&nbsp;trudno dostrzegalnymi — praktykami odmowy i&nbsp;milczącymi strategiami przetrwania oraz emancypacji w&nbsp;często wrogim i&nbsp;nieprzyjaznym środowisku.</p> <p>Cała trudność w&nbsp;patrzeniu na&nbsp;fotografię kolonialną oraz wyzwanie stojące przed patrzącymi wiąże się z&nbsp;dostrzeżeniem niejednoznacznego napięcia między uprzedmiotowieniem, wyobcowaniem — byciem wywłaszczonym z&nbsp;siebie — a&nbsp;aktywną odmową podporządkowania, zatrzymanym w&nbsp;obrazie codziennym wysiłkiem stawiania oporu „obiektywowi władzy”. Dopóki, pisze Campt, postrzegać będziemy owe fotografie jako obrazy-świadectwa w&nbsp;pełni skutecznego działania władzy i&nbsp;ideologii lub modelu niemożliwej do przekroczenia kolonizacji, tak długo ich sens pozostanie dla nas niesłyszalny<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Aby dojrzeć fotografowanych, należy przełamać milczenie obrazu, wy-słyszeć sens w&nbsp;ciszy zachodzącej między podmiotami fotografowanymi a&nbsp;oglądającą lub oglądającym zdjęcie.</p> <p>Jak zdefiniować zatem „ciche obrazy”? Ciszę najczęściej traktuje się jako czas zatrzymania dźwięku, ewentualnie ledwie słyszalny szmer lub szelest. Przeciwintuicyjne rozumienie ciszy badaczka wyprowadza z&nbsp;rozróżnienia pojęć <em>silence</em> (brak dźwięku, słyszenie świadome) i&nbsp;<em>quiet</em> (przestrzeń szmerów, szelestów; nieświadoma percepcja słyszalnego), które w&nbsp;języku polskim oddaje się za&nbsp;pomocą jednego słowa: cisza<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>. Campt opisuje ciszę jako pole niskiej częstotliwości, pozornie niezrozumiałych drgań i&nbsp;wibracji. Wbrew potocznemu ujęciu rozumie ją nie tyle jako wstrzymanie znaczącego czy brak wyrazu, lecz jako szczególny rodzaj wzmożonego przepływu sensu, chociaż wyjątkowo trudnego do uchwycenia.</p> <p>W eseju <em>Estetyka ciszy</em> z&nbsp;1967 roku Sunsan Sontag pisała, że&nbsp;cisza pozostaje formą wypowiedzi, jej pragnienie zaś wynika z&nbsp;potrzeby zaistnienia nowego porządku w&nbsp;domenie percepcji kultury i&nbsp;sztuki. Według Sontag to właśnie cisza — choć niemogąca stać się częścią dzieła (tak literackiego, jak i&nbsp;muzycznego), nieistniejąca jako doświadczenie publiczności — jest narzędziem przewartościowania sztuki oraz wyznaczenia nowych możliwości jej percepcji. „Milczący człowiek jest nieprzejrzysty”<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>, pisze Sontag, dodając, że&nbsp;jego spójność i&nbsp;jednoczesne oddalenie od oglądającego skłaniają do prób interpretacji — przełamania ciszy. Według Sontag:</p> <blockquote>Cisza jest metaforą czystego, nieingerującego spojrzenia, jakie należy kierować na&nbsp;ten rodzaj dzieł, które przemawiają dopiero wtedy, gdy się je ogląda i&nbsp;są tak nienaruszalne, że&nbsp;nawet wnikliwe badanie nie może zakłócić ich wewnętrznej spójności. Odbiorca podchodzi wówczas do dzieła jak do krajobrazu. Krajobraz nie domaga się, by widz go „zrozumiał”, uznał za&nbsp;istotny, przejął się nim lub poczuł do niego sympatię. Woli raczej, by widza w&nbsp;ogóle nie było i&nbsp;by niczego mu nie dodawał. Kontemplacja w&nbsp;ścisłym znaczeniu stanowi zatracenie się odbiorcy. Przedmiot, który jest jej wart, unicestwia oglądający podmiot<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>.</blockquote> <p>Milczący przedmiot powoduje zatracenie się oglądającego podmiotu, a&nbsp;jednocześnie zmusza go do nieustannie ponawianych prób interpretowania: zrozumienia poprzez nazwanie, przyporządkowanie, katalogowanie i&nbsp;hierarchizację. Interpretacja (działanie oglądającej), jak i&nbsp;cisza (milczenie dzieła, fotografii) nigdy nie pozostają neutralne, zarówno według Sontag, jak i&nbsp;Campt. Spojrzenie kierowane na&nbsp;cichą/milczącą fotografię nie może być ani czyste, ani nieingerujące. Nieodparta potrzeba (wy)słyszenia sensu z&nbsp;ciszy, założenie nie tyle o&nbsp;ciszy fotografii, co przekonanie o&nbsp;wymowności jej milczenia wzmaga napięte, „świdrujące” spojrzenie, którym oglądający starają się przebić i&nbsp;przełamać nieprzystępną i&nbsp;hermetyczną warstwę obrazu fotograficznego.</p> <p>Słyszenie fotografii wymaga namysłu nad psychofizjologią słyszenia w&nbsp;równym stopniu, co pochylenia się nad fizykalną stroną materiału dźwiękowego. Akustyka obrazu fotograficznego odnosi się zatem do zjawiska pojawienia się dźwięku (w tym jego grup mniejszych klasyfikowanych jako szmery i&nbsp;szelesty), a&nbsp;psychofizjologia słyszenia określa wrażenia słuchowe wywołane przez drganie i&nbsp;obejmuje przede wszystkim relację zachodzącą między obrazem fotograficznym, przedmiotem-fotografią (jej wymiarem materialnym) a&nbsp;oglądającą i&nbsp;oglądającym. Najważniejszym rozróżnieniem, na&nbsp;jakim oparłabym technikę słyszenia obrazów, jest oddzielenie pojęcia „cisza” (nieokreślone czasowo milczenie; właściwa przestrzeń szmerów, niedosłyszalnych wibracji; bliższa angielskiemu <em>silence</em>) od pauzy (przemyślana i&nbsp;określona czasowo przerwa w&nbsp;dostawie dźwięku; zawieszenie i&nbsp;wstrzymanie brzmienia; bliższa angielskiemu <em>quiet</em>). W&nbsp;tym świetle fotografia staje się nośnikiem dźwięku — koniecznym do przełamania milczenia między oglądającą lub oglądającym fotografię a&nbsp;samym obrazem. Nasycone afektywnie spotkanie podmiotu z&nbsp;fotografią opiera się na&nbsp;zmiennej słyszalności wibracji i&nbsp;brzmień kierowanych w&nbsp;stronę oglądającej — od niesłyszalnych szumów przez dobrze rozpoznawalne (zrozumiałe) dźwięki po&nbsp;ciszę rozumianą nie tyle jako milczenie, co raczej jako szczególna artykulacja sensu. Pauza — pełne napięcia wstrzymanie dźwięku, bezruch w&nbsp;zawieszeniu głosu przynależy samemu obrazowi fotograficznemu, który rozciąga się między nią a&nbsp;produkowanymi dźwiękami.</p> <p><b></b>Dla Campt percepcja cichych obrazów wymaga zmiany częstotliwości słuchania. Umożliwia ona nie tyle zadanie pytania o&nbsp;to, co widać na&nbsp;obrazie, lecz raczej o&nbsp;to, jakie działanie zachowało się w&nbsp;efekcie wykonania fotografii? W&nbsp;rozdziale poświęconym portretom etnograficznym badaczka skoncentrowała się na&nbsp;zdjęciach Afrykańczyków wraz z&nbsp;pocztówkowymi obrazami ich domów oraz rytuałów zrobionych przez austriackich duchownych przybyłych do Afryki Południowej w&nbsp;latach 80. XIX wieku<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. W&nbsp;archiwum w&nbsp;Mariannhill znajduje się około trzy tysiące zdjęć (w tym pocztówki i&nbsp;karty wizytowe) wykonanych przez misjonarzy w&nbsp;okresie 1882-1914; między 1894 a&nbsp;1939 rokiem w&nbsp;założonym w&nbsp;Mariannhill klasztorze funkcjonowało profesjonalne studio fotograficzne obsługiwane przez zakonników<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>. Portrety zuluskich kobiet autorstwa misjonarzy z&nbsp;Mariannhill zaliczają się do fotografii etnograficznej. Ukazane w&nbsp;tradycyjnych strojach na&nbsp;powietrzu bądź w&nbsp;studio, bezimienne kobiety stały się częścią inscenizacji służącej wzmocnieniu wyobrażenia o&nbsp;statecznej, pozbawionej czasowości ludności afrykańskiej, która w&nbsp;procesie nostalgizacji utożsamiona została z&nbsp;utraconą przeszłością. „Bezczasowi Afrykanie” z&nbsp;portretów, jak pisze Campt, zamrożeni są w&nbsp;świecie jeszcze niezniszczonej, czystej natury, którą jednocześnie należy zachować, ale też wyraźnie oddzielić od tego, co współczesne i&nbsp;cywilizowane<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup>. Fotografia wykorzystywana była przez misjonarzy do pokazania europejskiej publiczności „surowego materiału” niepoddanego jeszcze obróbce, lecz już czekającego na&nbsp;chrystianizację.</p> <p>Według Campt fotografie te można jednak odczytać inaczej. Nie do końca bowiem mieszczą się one w&nbsp;typowych pocztówkowych „obrazkach z&nbsp;Afryki”. Badaczka zwraca uwagę, że&nbsp;portrety te w&nbsp;istocie niewiele mówią o&nbsp;tradycjach afrykańskich. Chociaż zostały wykonane w&nbsp;celu klasyfikacji czarnoskórych kobiet, stanowią również wyraz ich autoprezentacji — performansu, który Campt określa jako napięcie w&nbsp;zastoju (ang. <em>the tension of stasis</em>)<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>. Według badaczki tym, co strukturyzuje je od wewnątrz jest wizualne napięcie, funkcjonujące na&nbsp;równi z&nbsp;wymiarem społecznym i&nbsp;historycznym. Portrety działają w&nbsp;rejestrze szczególnego tarcia, rozgrywającego się wewnątrz samego obrazu. Aktywne wstrzymanie ruchu przez portretowane, widoczne w&nbsp;napiętych mięśniach i&nbsp;przybranej pozie jest jednocześnie radykalnym działaniem wycofania się. Powstające w&nbsp;efekcie wstrzymania ruchu oraz podjęcia wysiłku utrzymania konkretnej pozy napięcie ciała przed obiektywem jest strategią odmowy podporządkowania<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>, ucieczką czarnego podmiotu przed zawłaszczeniem; odmową, która nie jest jednak ani subwersywna ani rewolucyjna. Pisanie o&nbsp;niej wymaga wynalezienia nowych kategorii opisu strategii niepodporządkowania. Zachowania, które można określić jako codzienny mikro-opór przypominają poszukiwanie linii ujścia. Jak podkreślali Gilles Deleuze i&nbsp;Félix Guattari, nie prowadzą one do wolności, lecz są strategią cichego wymykania się, umykania w&nbsp;jedynych możliwych i&nbsp;dostępnych kierunkach<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>. Odmowę podporządkowania Campt nazywa aktem ponownego składania się jednostki w&nbsp;obliczu wywłaszczenia lub zawłaszczenia<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>. Widoczne na&nbsp;fotografiach zatrzymanie w&nbsp;bezruchu ukazuje jednoczesny stan bycia tu i&nbsp;teraz, jak i&nbsp;bycia ku — trwania w&nbsp;procesie stawania się; bezruch jest wyrazem napięcia wynikającego z&nbsp;powstrzymywania nawarstwiających się uczuć i&nbsp;afektów. Zawieszenie portretowanych między zawłaszczeniem a&nbsp;oczekiwaniem nowego, nadzieją związaną z&nbsp;tym, co może jeszcze nadejść, wymaga wypracowania umiejętności balansowania, znalezienia równowagi między sprzecznymi afektami. W&nbsp;postawie sfotografowanych kobiet Campt odnajduje ślady codziennie podejmowanych praktyk przetrwania podmiotów podporządkowanych. Badaczka zwraca uwagę, że&nbsp;życie portretowanych Afrykanek z&nbsp;jednej strony strukturyzowała imperialno-kolonialna polityka misjonarska, z&nbsp;drugiej ich codzienna praca w&nbsp;roli farmerek, żon i&nbsp;matek w&nbsp;poligamicznych zuluskich rodzinach<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>. Metoda czytania kolonialnych fotografii proponowana przez afroamerykańską badaczkę opiera się na&nbsp;przeświadczeniu o&nbsp;nieoczekiwanych skutkach działania ideologii<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>. Mówiąc inaczej: między życzeniem władzy kierowanym na&nbsp;podmiot a&nbsp;efektem próby zawłaszczenia podmiotów rozciąga się nieokreślona przestrzeń nieprzewidywalnych skutków. Przestrzeń ta przynależna jest podporządkowanym, którzy w&nbsp;różny sposób — mniej lub bardziej subwersywny bądź rewolucyjny, jednorazowy czy długotrwały — odnajdują szansę na&nbsp;opór w&nbsp;procesie odmowy ciągłego i&nbsp;codziennego wywłaszczania.</p> <p><em>The Black Photo Album / Look at Me: 1890-1950</em> Santu Mofokenga to szczególny zbiór fotografii wernakularnej, przede wszystkim portretów rodzinnych, które południowoafrykański artysta pozyskał od rodzin fotografowanych. W&nbsp;odróżnieniu od wcześniej omawianych fotografii lokalnych społeczności z&nbsp;Afryki Południowej autorstwa misjonarzy z&nbsp;Mariannhill, w&nbsp;albumie Mofokenga nie wszyscy portretowani są anonimowi. Zdjęcia pojawiają się obok krótkich pytań stawianych przez autora, które służą wytrąceniu czytelników z&nbsp;utartego schematu patrzenia i&nbsp;postrzegania Afrykańczyków. Portrety przedstawiają afrykańskie rodziny w&nbsp;klasycznych pozach przybieranych w&nbsp;atelier fotograficznym. Elegancja na&nbsp;modłę europejską łączy się na&nbsp;nich z&nbsp;inscenizowanym zadowoleniem i&nbsp;pewnością siebie. Mofokeng pyta, czy portrety te są dowodem na&nbsp;wewnętrzną kolownizację podmiotów, które na&nbsp;drodze mimikry weszły w&nbsp;struktury wytworzone przez kolonizatorów, czy raczej kwestionują one tradycyjny i&nbsp;stereotypowy obraz „dzikiego”, umożliwiając zarazem przeciwintuicyjne rozumienie owej fotografii<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>? Czy są one jedynie potwierdzeniem imperialnej polityki kolonizatorów czy paradoksalnie ukazują proces emancypacji czarnoskórych rodzin południowoafrykańskich?</p> <p>Większość z&nbsp;portretowanych to Afrykanie wykształceni w&nbsp;misjonarskich szkołach zakładanych pod&nbsp;koniec XIX wieku w&nbsp;Afryce Południowej, fotografujący się z&nbsp;własnej woli<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>. Byli oni mieszkańcami większych miast, którzy dzięki przyjęciu katolicyzmu i&nbsp;wejściu w&nbsp;europejski model kultury stali się przedstawicielami południowoafrykańskiej klasy średniej. Droga asymilacji wiązała się w&nbsp;tym wypadku nie tylko z&nbsp;aktem konwersji, lecz również z&nbsp;wielowymiarowym i&nbsp;złożonym procesem odrzucenia tradycyjnych wierzeń i&nbsp;zachowań, przyjęciem europejskiego stylu ubierania się oraz wejściem w&nbsp;model monogamicznej rodziny nuklearnej<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>. Portrety stanowią szczególną dokumentację tej drogi. W&nbsp;autokreacyjnym geście pokazania siebie jako „progresywnych: wykształconych i&nbsp;obytych Afrykańczyków”, fotografie ujawniają i&nbsp;jednocześnie rejestrują proces porzucania wiosek (i wiążących się z&nbsp;nimi zachowań oraz form pracy) na&nbsp;rzecz wyjazdu do większych miast. Droga przebyta przez fotografowanych ma swój początek we wczesnych, przywołanych już, fotografiach zuluskich kobiet — wykonanych w&nbsp;formie, na&nbsp;jaką zamieszkujące i&nbsp;pracujące w&nbsp;wioskach kobiety nie mogły mieć wpływu.<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>.</p> <p>W <em>The Black Photo Album</em><em>… </em>Mofokeng kataloguje złożone i&nbsp;kreatywne formy kwestionowania kolonialnej władzy w&nbsp;jednoczesnym dążeniu do zamieszkiwania i&nbsp;osiadania w&nbsp;stworzonych przez nią strukturach. Według autorki <em>Listening to Images </em>bunt portretowanych polegał na&nbsp;odmowie kapitulacji i&nbsp;wejścia w&nbsp;rolę outsidera bądź wyrażenia zgody na&nbsp;bycie niewidzialnym. Portrety funkcjonowały dla nich jako drogi ujścia w&nbsp;akcie autokreacji będącej praktyką aktywnego automodelowania (ang. <em>self-fashioning</em>) przed obiektywem<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>. Według Campt:</p> <blockquote>Formy bezruchu zarejestrowane przez Mofokenga w&nbsp;<em>The Black Photo Album</em> ukazują codzienne praktyki odmowy podejmowane przez te rodziny — praktyki bezruchu i&nbsp;ucieczki, poprzez które zamieszkują oni struktury kolonizacji postrzegane jako nieustannie jątrząca rana wywłaszczenia, podczas gdy w&nbsp;tym samym czasie odmawiają oni zgody na&nbsp;niemożliwość zaistnienia i&nbsp;funkcjonowania przestrzeni dla respektowania i&nbsp;poszanowania czarnego życia<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>.</blockquote> <p>Sprzeciw i&nbsp;kontestacja odbywa się tu nie na&nbsp;zasadzie radykalnego odrzucenia struktur wyznaczonych przez imperialną władzę, lecz podążania nimi we własnym rytmie, w&nbsp;nieustannym oscylowaniu między podległością a&nbsp;subwersją oraz, co najważniejsze, na&nbsp;niewybieraniu żadnej z&nbsp;nich.</p> <h2>Ćwiczenie ze słuchania obrazów</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7112-1-pb-1920x-376.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7112-1-pb-330x-cbc.jpg 330w,assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7112-1-pb-660x-03c.jpg 660w,assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7112-1-pb-768x-8f1.jpg 768w,assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7112-1-pb-1320x-6fc.jpg 1320w" src="assets/cache/images/issues/2017/18/logika-przeciwintuicji/526-7112-1-pb-660x-03c.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Teoria słuchania obrazów jest metaforycznym pomysłem teoretycznym otwierającym nowe perspektywy w&nbsp;badaniu fotografii. Dlatego jej wykorzystanie może przynieść intrygujące rezultaty również w&nbsp;badaniach polskiej kultury wizualnej. Około 1927 roku fotograf zakładowy z&nbsp;Zaleszczyk Maurycy Bäumer wykonał zdjęcie <em>Wie</em><em>ś</em><em>niak z&nbsp;Dobrowlan</em><sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>. Przedstawia ono anonimowego, starszego mężczyznę wpatrującego się przed siebie. W&nbsp;jakim celu fotograf wykonał zdjęcie? Kto miał być jego odbiorcą? Bäumer był autorem niezliczonej ilości fotografii przedstawiających miasta i&nbsp;wsie na&nbsp;Podolu. Szczególnie intensywnie działał w&nbsp;okresie międzywojnia, chętnie dokumentował wiejskie oraz zurbanizowane krajobrazy. Portret wieśniaka z&nbsp;Dobrowlan, podobnie jak omówione wcześniej fotografie zuluskich kobiet z&nbsp;okolic Mariannhill, nie ukazuje typowych czynności dla wiejskiego życia; portretowany nie występuje też w&nbsp;tradycyjnym stroju. Niezwykłość tego portretu polega na&nbsp;szczególnym skupieniu fotografa na&nbsp;twarzy i&nbsp;spojrzeniu mężczyzny. Można potraktować go jako przykład cichej fotografii — jej sens nie jest oczywisty, trudno też uznać ją po&nbsp;prostu za&nbsp;fotografię o&nbsp;charakterze etnograficznym. Pozę portretowanego charakteryzuje wstrzymanie aktywności ciała wiążące się z&nbsp;wysiłkiem znalezienia równowagi w&nbsp;bezruchu. Zawieszenie pracy ciała w&nbsp;efekcie procesu fotografowania jedynie pozoruje brak działania. Trajektoria wzroku mężczyzny kieruje uwagę oglądającej na&nbsp;bezczasowość, w&nbsp;której znajduje się portretowany, oraz na&nbsp;jego wycofanie. Napięcie twarzy wyraża się w&nbsp;pauzie — codziennych strategiach przetrwania — które utrzymują podmiot w&nbsp;zawieszeniu pomiędzy tym, co znane, a&nbsp;tym, co ma dopiero nadejść. Cisza charakteryzująca spotkanie z&nbsp;fotografią jest przestrzenią wzmożonego przepływu afektu, poczucia bliskości portretowanego w&nbsp;jego jednoczesnym oddaleniu.</p> <p>Ciche fotografie uniemożliwiają jednoznaczne interpretacje, a&nbsp;jednocześnie zmuszają do przemyślenia zarówno możliwości teoretyzowania i&nbsp;pisania o&nbsp;obrazach, jak i&nbsp;rozumienia samych kategorii podległości czy podporządkowania. Ćwiczenie ze słuchania obrazów jest projektem wykraczającym poza ramy badań nad ontologią obrazu fotograficznego. Stawką jest nie tylko zmiana języka opisu oraz rozszerzenie możliwości percepcji fotografii, lecz także przeformułowanie spojrzenia na&nbsp;władzę oraz mechanizmy działania ideologii. Ostatecznym celem słuchania obrazów nie jest teoria, lecz praktyka prowadząca do radykalnej zmiany w&nbsp;postrzeganiu miejsca samych piszących jako tych, którzy funkcjonują w&nbsp;zawieszeniu między przeszłością, teraźniejszością a&nbsp;przyszłością. Na&nbsp;historię zapisaną w&nbsp;obrazach spojrzeć należy jak na&nbsp;partyturę — jeszcze nieodczytaną i&nbsp;ciągle milczącą. Rolą oglądających jest usłyszenie wymowności ciszy, rozpoznanie znaczenia i&nbsp;struktury pauzy.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Zob. Roland Barthes, <em>Ś</em><em>wiat</em><em>ł</em><em>o obrazu</em>, przeł. J. Trznadel, Wydawnictwo Aletheia, Warszawa 2008, s. 122. Tina Campt, <em> Image Matters. Archive, Photography</em>, Duke University Press, Durham-London 2014, s. 1-15; eadem, <em>Listening to Images. An Exercise in Counterintuition</em>, Duke University Press, Durham-London 2017, s. 3-5.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Wymieniam jedynie kilka najważniejszych publikacji w badaniach nad wizualnością wydanych po 2000 roku: Georges Didi-Huberman,<em> Obrazy mimo wszystko</em>, przeł. M. Kubiak Ho-Chi, Universitas, Kraków 2008; Ariella Azoulay, <em>The Civil Contra</em><em>ct of Photography</em>, The MIT Press, Cambridge-London 2008; Tina Campt, <em>Listening to Images</em>...; Nicholas Mirzoeff,<em> The Right to Look. A Counterhistory of Visuality</em>, Duke University Press, Durham-London 2011; idem, J<em>ak zobaczy</em><em>ć ś</em><em>wiat</em>, przeł. Ł. Zaremba, Wydawnictwo Karakter, Muzeum Sztuki Nowoczesnej w Warszawie, Kraków-Warszawa 2016; Santu Mofokeng, <em>The Black Photo Album / Look at me 1890-1950</em>, Steidl, Göttingen 2013; Rebecca Schneider, <em>Performing Remains. </em><em>Art and War in Times of Theatrical Reenactment</em>, Routledge, London-New York 2011.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Susan Sontag, <em>Estetyka ciszy</em>, w: eadem, <em>Style radykalnej woli</em>, przeł. D. Żukowski, Wydawnictwo Karakter, Kraków 2018., s. 27.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Ariella Azoulay, <em>The Civil Contract of Photography</em>, s. 90.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Jacques Derrida, <em>Gor</em><em>ą</em><em>czka archiwum. Impresja freudowska</em>, przeł. J. Momro, IBL PAN, Warszawa 2016, s. 9-15.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Z ujęciem archiwum przez Derridę polemizuje między innymi Carolyn Steedman. Odejście od postrzegania archiwum jako przestrzeni władzy patriarchalnej pozostającej w opozycji do subwersywnych strategii związanych z performansem rozwija Rebecca Schneider — Carolyn Steedman, <em>Something She Called a Ferver. </em><em>Michelet, Derrida, and Dust</em>, „The American Historical Review” 2001, vol. 106, no. 4; Rebecca Schneider, <em>Performans pozostaje</em>, przeł. D. Sosnowska [w:] <em>Re//mix. Performans i dokumentacja</em>, red. T. Plata, D. Sajewska, Wydawnictwo Krytyki Politycznej, Warszawa 2014.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Georges Didi-Huberman,<em> Obrazy mimo wszystko</em>..., s. 9-16.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Rebecca Schneider, <em>Still Living</em>, w: eadem, <em>Performing Remains</em><em>…</em>; Tina Campt, <em>The Tensions of Stasis</em>, w: eadem, <em>Listening to Images</em>...</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> W. J. T. Mitchell, <em>Czego chc</em><em>ą </em><em>obrazy</em>, przeł. Ł. Zaremba, Narodowe Centrum Kultury, Warszawa 2013.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Nicholas Mirzoeff, <em>Jak zobaczy</em><em>ć ś</em><em>wiat</em>..., s. 93-94.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Tina Campt, <em>Listening to Images</em>…, s. 4.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Santu Mofokeng, <em>The Black Photo Album / Look at me 1890-1950</em>, Steidl, Göttingen 2013.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Tina Campt, <em>Listeing to Images</em>..., s. 7, 10-11.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Tina Campt, <em>Listening</em><em>…</em>, s. 51-52.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Ibidem, s. 6-8.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Susan Sontag, <em>Estetyka ciszy</em><em>…</em>, s. 22.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ibidem, s. 25.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Christoph Rippe, <em>„</em><em>Histrionic Zulus</em><em>” — </em><em>Photographic Heterotopias at the Catholic Mission Mariannhill in Natal</em>, „Safundi. The Journal of South African and American Studies” 2014, vol. 15, no. 2-3.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Tina Campt, <em>Listening</em><em>…</em>, s. 52-53.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Ibidem, s. 57.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Ibidem, s. 51.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Ibidem, <em>Listening</em><em>…</em>, s. 57.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Gilles Deleuze, Félix Guattari, <em>Kafka. </em><em>Ku literaturze mniejszej</em>, przeł. A. Z. Jaksender, K. M. Jaksender, Wydawnictwo Eperons-Ostrogi, Kraków 2016, s. 48.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Tina Campt, <em>Listening</em><em>…</em>, s. 60.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Tina Campt, <em>Listening</em><em>…</em>, s. 58-59.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Nicholas Mirzoeff, <em>The Right to Look</em><em>…</em><em>,</em> s. 24-25.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Santu Mofokeng, <em>The Black Photo Album</em>… ; T. Campt,<em> Listening</em><em>…</em>, s. 63.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Ibidem, s. 63-64.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Ibidem, s. 64.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Ibidem, s. 60.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Tina Campt, <em>Listening</em><em>…</em>, s. 65.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Ibidem, s. 65.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Maurycy Bäumer, <em>Wie</em><em>ś</em><em>niak z Dobrowlan</em>, 1927. Pocztówka odb. na pap. srebrowo-żelatynowym. Biblioteka Narodowa, Warszawa.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2017/historie-fantomowe/logika-przeciwintuicji.-cwiczenie-ze-sluchania-obrazow" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

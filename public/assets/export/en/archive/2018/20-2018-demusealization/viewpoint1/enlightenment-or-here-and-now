@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Oświecenie, czyli tu i teraz | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/20-2018-odmuzealnienie/oswiecenie-czyli-tu-i-teraz">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Oświecenie, czyli tu i teraz | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Oświecenie, czyli tu i teraz | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/20-2018-odmuzealnienie/oswiecenie-czyli-tu-i-teraz">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Oświecenie, czyli tu i teraz | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ce0058 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ce0058 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ce0058 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ce0058 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ce0058 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ce0058 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ce0058 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+			/* background-color:#ce0058 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(206,0,88,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ce0058 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ce0058; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(206,0,88,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(206,0,88,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ce0058 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ce0058 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ce0058 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-395 parent-id-359">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="333" data-selected-issue-color="#ce0058" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/20-2018-demusealization#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/20-2018-demusealization/enlightenment-or-here-and-now">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/20-2018-odmuzealnienie#toc">20</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-20/20-szerszen_ronduda.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Oświecenie, czyli tu i teraz</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-20/20-szerszen_ronduda.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorzy: 
+		<a href="/pl/bio?id=305">Tomasz Szerszeń</a>, <a href="/pl/bio?id=393">Łukasz Ronduda</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p><b><em>Czym jest Oświecenie?</em>, kuratorzy: Goshka Macuga, Łukasz Ronduda, Tomasz Szerszeń, Muzeum Sztuki Nowoczesnej w&nbsp;Warszawie, 18 maja – 17 czerwca 2018</b></p> <p></p> <h2>1.</h2> <p>„Co to jest Oświecenie?”, pytał Immanuel Kant w&nbsp;słynnym tekście ogłoszonym w&nbsp;gazecie „Berlinische Monatsschrift” w&nbsp;1784 roku<sup><a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a></sup>. Dziś, ponad dwieście lat później, powracamy do tego pytania, które jednak musi być postawione inaczej: nie jako coś abstrakcyjnego i&nbsp;ogólnego, ale – wprost przeciwnie – jako konkretna, polityczna kwestia dotycząca kształtu i&nbsp;perspektyw istnienia świata, w&nbsp;którym żyjemy. Pytanie to powinno obejmować również obrazy (i ich życie).</p> <p>Wystawa <em>Czym jest Oświecenie?</em> powstawała w&nbsp;szczególnym momencie, gdy – za&nbsp;sprawą kryzysu demokracji i, szerzej, „kryzysu oświeceniowych wartości” – problem ogólnie rozumianego dziedzictwa tej epoki pojawił się znów w&nbsp;centrum uwagi<sup><a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a></sup>. Dlatego właśnie postanowiliśmy zadać pytanie o&nbsp;Oświecenie i&nbsp;aktualność jego idei. Według nas pytanie to dotyczy tego, co „tu i&nbsp;teraz”; staje się więc pytaniem o&nbsp;kształt świata, w&nbsp;którym żyjemy, i&nbsp;jego dalsze losy. W&nbsp;tym sensie wystawa (i towarzyszący jej proces badawczy) była formą reakcji na&nbsp;wszechobecne poczucie kryzysu, próbą zrozumienia go, umieszczenia w&nbsp;historii, zdefiniowania za&nbsp;pomocą obrazów. Zrozumienie dzisiejszej rzeczywistości bez sięgnięcia do źródeł nowoczesności zawsze będzie niepełne. W&nbsp;sytuacji, gdy projekt nowoczesności jako taki jest kwestionowany i&nbsp;gdy na&nbsp;pierwszy plan powraca dyskusja o&nbsp;podstawowych ideach definiujących kształt nowoczesnego świata, powrót i&nbsp;odczytanie na&nbsp;nowo znaczeń, jakie wiążą się z&nbsp;oświeceniową epifanią – próba ich wyjaśnienia i&nbsp;przybliżenia („upublicznienia”) – wydaje się niezwykle istotne.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/szerszen-ronduda/1-d-1920x-197.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/szerszen-ronduda/1-d-330x-d07.jpg 330w,assets/cache/images/issues/2018/20/szerszen-ronduda/1-d-660x-a1e.jpg 660w,assets/cache/images/issues/2018/20/szerszen-ronduda/1-d-768x-b17.jpg 768w,assets/cache/images/issues/2018/20/szerszen-ronduda/1-d-1320x-501.jpg 1320w" src="assets/cache/images/issues/2018/20/szerszen-ronduda/1-d-660x-a1e.jpg" alt="" ></a>    <figcaption><p><a href="1-d.jpg"><img></a>Widok wystawy. Fot. Daniel Chrobak</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Pytanie: „co to jest Oświecenie?” przekształca się ostatnio w&nbsp;pesymistyczny refren: „co pozostało z&nbsp;Oświecenia?”. Kres tej tradycji głoszą dziś na&nbsp;całym świecie myśliciele przynależący do różnych tradycji intelektualnych i&nbsp;utożsamiani z&nbsp;różnymi opcjami politycznymi. Tymczasem Oświecenie to epoka, w&nbsp;którą wpisane są kryzys, konflikt, ale również epoka, która cały czas trwa: nie jako fantom czy brak, lecz jako żywa rama definiująca kształt naszej teraźniejszości, jako polityka krytycznego myślenia. Na&nbsp;dziedzictwo oświeceniowe można także spojrzeć w&nbsp;inny sposób: nie jako na&nbsp;balast, trupa, którego należy, wedle uznania, reanimować lub dobić, lecz raczej – i&nbsp;to zapewne dla obrońców Oświecenia najbardziej pokrzepiająca perspektywa – jako na&nbsp;coś jeszcze niezrealizowanego, niedopełnionego, coś, co dopiero nadchodzi. W&nbsp;tym sensie nasze pytanie: „czym jest Oświecenie?” odnosi się zarówno do przeszłości, teraźniejszości, jak i&nbsp;do przyszłości, i&nbsp;jako takie jest wyzwaniem dla wszelkich historycznych narracji. To zaburzenie czasu, deformacja historii, należały do najciekawszych problemów, z&nbsp;jakimi przyszło nam się mierzyć.</p> <h2>2.</h2> <p>Kantowski postulat zrozumienia samego siebie wiąże się w&nbsp;przypadku tej wystawy z&nbsp;uświadomieniem sobie polityczności pytania o&nbsp;Oświecenie. Równocześnie staje się on próbą rozpoznania ram, w&nbsp;jakich funkcjonujemy od ponad dwustu lat, bilansem tego, co dopełnione, a&nbsp;co dopiero może nadejść, próbą zrozumienia relacji między tym, co uniwersalne, a&nbsp;tym, co przynależy do „polskiej historii”. Jest wreszcie przyczynkiem do pisania na&nbsp;nowo historii polskiej nowoczesności, wprowadzeniem do tej opowieści nowych (starych) obrazów.</p> <p>Problemy (i spory) z&nbsp;nowoczesnością, słabość i&nbsp;niedopełnienie oświeceniowo-modernizacyjnej tradycji to tematy, które regularnie powracają w&nbsp;polskim kontekście. Mimo że&nbsp;symbole i&nbsp;narracja romantyczna zdominowały i&nbsp;zdławiły w&nbsp;Polsce potencjalny oświeceniowy język, spuścizna tej epoki jest zwykle przywoływana w&nbsp;momentach przemian cywilizacyjnych. Dobrze ilustrują to dzieje klasycznej rozprawy Jerzego Jedlickiego <em>Jakiej cywilizacji Polacy potrzebują</em><sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup><em>.</em> Jej koncepcja zrodziła się w&nbsp;okresie gierkowskiej modernizacji, ale książka została wydana dekadę później, w&nbsp;przeddzień zmiany ustrojowej roku 1989; kolejne wydanie ukazało się w&nbsp;2002 roku, w&nbsp;kontekście polskich starań o&nbsp;wejście do Unii Europejskiej. Również dla nas powrót do oświeceniowej tradycji następuje w&nbsp;sytuacji poważnego kryzysu politycznego, perspektywy niepewnego jutra i&nbsp;towarzyszących temu pytań o&nbsp;to, jak – i&nbsp;czy w&nbsp;ogóle – redefiniować dziś projekt nowoczesności. Kryzys ten dotyka również sfery języka, sfery podstawowych pojęć i&nbsp;ujawnia się jako postprawda historyczna: amnezja, manipulacja czy też zapomnienie, sprawiające, że&nbsp;powrót do historii bywa dziś ruchem regresywnym, objawiającym się niezrozumieniem jej sensu, nieumiejętnością powiązania jej z&nbsp;tym, co „tu i&nbsp;teraz”, i&nbsp;tym, co dopiero nadejdzie. Tymczasem – w&nbsp;przeciwieństwie do wielu historycznych haseł, pojęć i&nbsp;symboli odkurzanych dziś przez obóz rządzący – oświeceniowe kategorie (takie jak choćby „emancypacja”, „praworządność” czy „rewolucja”) są czymś zadziwiająco aktualnym i&nbsp;często niedopełnionym, wyznaczającym jednak nasz aktualny horyzont polityczny. </p> <p>Sięgnięcie do źródeł, swoista genealogia dziejów obozu progresywnego w&nbsp;Polsce, próba zrozumienia na&nbsp;nowo, w&nbsp;dzisiejszym kontekście, oświeceniowej epifanii i&nbsp;pojęć, które wtedy zyskują swój sens, pytanie o&nbsp;rolę tego, co publiczne i&nbsp;wspólne: to wszystko ma naszym zdaniem zasadnicze znaczenie właśnie dziś. Gdzie jednak szukać źródeł polskiej nowoczesności? Do jakich obrazów odwołać się w&nbsp;tym poszukiwaniu? I&nbsp;w jaki sposób ustanowić przestrzeń, w&nbsp;której przeszłość komunikować się będzie z&nbsp;teraźniejszością i&nbsp;przyszłością? </p> <h2>3.</h2> <p>Dwieście lat temu, w&nbsp;1818 roku, Komisja Wyznań Religijnych i&nbsp;Oświecenia Publicznego zakupiła od spadkobierców króla Stanisława Augusta jego słynny Gabinet Rycin – kolekcję rycin i&nbsp;rysunków odzwierciedlającą modernizacyjne pasje i&nbsp;ambicje władcy, będącą też rodzajem prywatnego archiwum nierealizowanych pomysłów, zbiorem artystycznych prób, odbiciem ówczesnej kultury wizualnej. Kolekcja powstała również z&nbsp;myślą o&nbsp;edukacji artystycznej przyszłych pokoleń. Król nie zdążył jej upublicznić (w 1795 roku Rzeczpospolita Obojga Narodów przestała istnieć), nastąpiło to jednak dwadzieścia trzy lata później, już po&nbsp;jego śmierci. Stanisławowski Gabinet Rycin, ulokowany przy Królewskim Uniwersytecie Warszawskim i&nbsp;uzupełniony darem Stanisława Kostki Potockiego, stał się podstawą pierwszego publicznego zbioru grafiki i&nbsp;rysunku na&nbsp;ziemiach polskich, funkcjonując do dziś jako Gabinet Rycin Biblioteki Uniwersyteckiej w&nbsp;Warszawie. Zbiór – w&nbsp;tym również jego najstarsza, królewska część – został poważnie nadwerężony podczas drugiej wojny światowej, gdy zniszczeniu uległo blisko sześćdziesiąt procent kolekcji.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/szerszen-ronduda/2-d-1920x-6c7.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/szerszen-ronduda/2-d-333x-31b.jpg 333w,assets/cache/images/issues/2018/20/szerszen-ronduda/2-d-666x-0e4.jpg 666w,assets/cache/images/issues/2018/20/szerszen-ronduda/2-d-1332x-935.jpg 1332w" src="assets/cache/images/issues/2018/20/szerszen-ronduda/2-d-666x-0e4.jpg" alt="" ></a>    <figcaption><p>Widok wystawy. Fot. Daniel Chrobak</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Dwieście lat istnienia Gabinetu Rycin Biblioteki Uniwersyteckiej w&nbsp;Warszawie, zbioru pionierskiego jak na&nbsp;polskie warunki, pokrywa się niemal z&nbsp;historią obozu modernizatorskiego w&nbsp;Polsce i&nbsp;historią „polskiej wojny domowej”, tego paraliżującego podziału na&nbsp;„dwa narody” (sformułowanie Jerzego Jedlickiego), który sięga przynajmniej do czasów konfederacji barskiej (1768–1772). Choć pierwsze próby reformowania instytucji publicznych nastąpiły pod&nbsp;koniec panowania dynastii saskiej, to właściwy początek polskiego Oświecenia zbiega się w&nbsp;czasie z&nbsp;wyborem na&nbsp;króla Stanisława Augusta Poniatowskiego (1764). Polskie zmagania z&nbsp;nowoczesną formą, problemy, z&nbsp;którymi realnie (nie zaś fantazmatycznie) mierzymy się dziś, wiążą się ściśle z&nbsp;panowaniem ostatniego króla Rzeczypospolitej Obojga Narodów i&nbsp;podjętymi przez niego próbami reform. W&nbsp;tym sensie sięgnięcie do najstarszej, królewskiej części kolekcji Gabinetu Rycin jawiło nam się jako podstawowy archeologiczny gest. Oświeceniowe źródła tej instytucji traktujemy jako najgłębszy poziom „archiwum” polskiej nowoczesności, a&nbsp;także jako punkt wyjścia dla refleksji nad złożoną relacją między tym, co historyczne – pozornie przynależące do odległej epoki – a&nbsp;tym, co „tu i&nbsp;teraz”, a&nbsp;także tym, co dopiero nadejdzie: przyszłością, która jako pewien utopijny model była tak ważnym punktem odniesienia dla oświeceniowego (i, szerzej, każdego modernizacyjnego) projektu. Podobnie jak osiemnastowieczni artyści, filozofowie i&nbsp;kolekcjonerzy, którzy – niczym archeolodzy – badali przeszłość, by wyciągnąć z&nbsp;niej wnioski i&nbsp;lekcje, kreować wizje i&nbsp;proroctwa dla przyszłości, również w&nbsp;przypadku tej wystawy mamy do czynienia z&nbsp;próbą odczytania przez artystów współczesnych, w&nbsp;często złożonych obrazach i&nbsp;znakach tamtej epoki, aktualnych sytuacji i&nbsp;drogowskazów dla współczesnego świata. Wynik tego dialogu nie uwypukla różnicy, lecz pokazuje ich wspólne funkcjonowanie w&nbsp;oświeceniowej ramie. Kolekcja Gabinetu Rycin odczytywana jest między innymi w&nbsp;perspektywie konfliktu historii uniwersalnej opartej na&nbsp;prawach człowieka i&nbsp;demokracji z&nbsp;historią partykularną („historią sprawy polskiej”), napięcia między wiedzą a&nbsp;pseudowiedzą, a&nbsp;także w&nbsp;kontekście genezy współczesnego liberalizmu, definicji tego, co publiczne, walki o&nbsp;emancypację, wreszcie genezy „polskiej wojny domowej”, która definiuje kształt polskiej sfery publicznej od ponad dwustu lat. Oświecenie traktujemy też jako ważny punkt odniesienia dla opowiadania o&nbsp;transformacji ustrojowej ostatnich trzydziestu lat (analogia z&nbsp;modernizacją Polski za&nbsp;czasów panowania Stanisława Augusta jest tu aż&nbsp;nazbyt wyraźna). W&nbsp;tym sensie praca nad rycinami i&nbsp;rysunkami z&nbsp;kolekcji króla jest formą archeologii, takiej jednak, która służyć ma nie tyle rekonstruowaniu przeszłości, ile zrozumieniu tego, kim dziś jesteśmy i&nbsp;co dalej możemy z&nbsp;tą spuścizną zrobić. </p> <p>Równocześnie wystawa dotyka tożsamości dwóch instytucji. Z&nbsp;jednej strony odczytywała na&nbsp;nowo kanon kolekcji Gabinetu Rycin BUW, z&nbsp;drugiej wpisywała się w&nbsp;prowadzony w&nbsp;Muzeum Sztuki Nowoczesnej w&nbsp;Warszawie namysł nad nowoczesnością, opowiadając o&nbsp;samych jej początkach. Ta podwójna perspektywa – dialog dwóch instytucji zajmujących się sztuką i&nbsp;dziedzictwem kulturowym – pozwalał sproblematyzować oświeceniową kwestię upubliczniania wiedzy i&nbsp;tworzenia publicznych kolekcji. Zależało nam też na&nbsp;wyraźnym podkreśleniu, że&nbsp;również widzowie – obywatele – są częścią tej wystawy, częścią tej historii, która pisze się nieustannie od ponad dwustu lat: od nich oraz od ich indywidualnych i&nbsp;zbiorowych decyzji – zależy to, jak się ona wypełni.  </p> <h2>4.</h2> <p>Punktem wyjścia dla naszego rozumienia przedstawianego materiału jest odbicie, podwojenie, lustro. Współczesność i&nbsp;czasy Stanisława Augusta przeglądają się w&nbsp;sobie, podobnie jak prace z&nbsp;kolekcji królewskiej i&nbsp;ich współczesne repliki, wykonane specjalnie na&nbsp;potrzeby tej prezentacji. Równocześnie częścią wystawy było olbrzymie zwierciadło pokrywające całą powierzchnię jednej ze ścian muzeum: całość ekspozycji odbijała się w&nbsp;nim, podwajała, tworząc rodzaj czasoprzestrzennego zawirowania. Decyzja o&nbsp;zmaterializowaniu idei lustra jako spektakularnej, gigantycznej instalacji artystycznej należała do Goshki Macugi. Ma ono dla niej silnie futurystyczny wydźwięk: przywołuje estetykę filmów <em>science fiction</em>, futurystyczno-minimalistyczne wyobrażenia o&nbsp;nowoczesności. To dla nas również otwarcie się na&nbsp;przyszłość jako na&nbsp;stały punkt odniesienia dla oświeceniowej tradycji i&nbsp;autotematyczny moment (wystawa pokazuje kryzys w&nbsp;myśleniu o&nbsp;przyszłości). W&nbsp;tym sensie całość ekspozycji konstruowana jest z&nbsp;perspektywy tego, co dopiero nadejdzie: prace z&nbsp;kolekcji króla i&nbsp;współczesne komentarze artystyczne jawią się jako dokumenty (artefakty) jednej zamkniętej epoki. W&nbsp;lustrze odbijali się też widzowie, stając się automatycznie częścią ekspozycji, wpisując się w&nbsp;nią niczym w&nbsp;obraz. To w&nbsp;naszej koncepcji ważne zaproszenie do autorefleksji: losy oświeceniowej spuścizny – w&nbsp;tym praw człowieka, demokracji oraz państwa prawa – nie są czymś, wobec czego możemy przejść obojętnie. Podwójność dotyczyłaby wreszcie dwóch instytucji, które wzajemnie by się sobie przeglądały.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/szerszen-ronduda/3-d-1920x-2fc.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/szerszen-ronduda/3-d-330x-937.jpg 330w,assets/cache/images/issues/2018/20/szerszen-ronduda/3-d-660x-218.jpg 660w,assets/cache/images/issues/2018/20/szerszen-ronduda/3-d-768x-3bd.jpg 768w,assets/cache/images/issues/2018/20/szerszen-ronduda/3-d-1320x-025.jpg 1320w" src="assets/cache/images/issues/2018/20/szerszen-ronduda/3-d-660x-218.jpg" alt="" ></a>    <figcaption><p><a href="3-d.jpg"><img></a>Widok wystawy. Fot. Daniel Chrobak</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Przyjęcie odbicia jako zasady organizującej wystawę i&nbsp;nasze myślenie sprawiło, że&nbsp;skoncentrowaliśmy się na&nbsp;rysunku. To on był podstawowym artystycznym medium XVIII wieku: oddawał ducha burzliwej epoki, był ściśle związany z&nbsp;poznawczymi celami Oświecenia i&nbsp;jako taki jest reprezentowany w&nbsp;zbiorach Gabinetu Rycin. Dlatego zdecydowaliśmy się zaprosić do udziału w&nbsp;wystawie artystów, dla których z&nbsp;jednej strony bliskie są oświeceniowe idee, z&nbsp;drugiej – którzy w&nbsp;swojej praktyce artystycznej posługują się często właśnie rysunkiem. Chcieliśmy, żeby ich prace stanowiły swego rodzaju współczesne pastisze – aktualizacje historycznych obrazów. Interesował nas też gest przerysowywania (kopiowania), który był charakterystyczny dla osiemnastowiecznych artystów i&nbsp;jako taki został zarchiwizowany w&nbsp;kolekcji królewskiej. Poprosiliśmy kilkunastu współczesnych twórców – polskich i&nbsp;zagranicznych (co oddaje podobne zróżnicowanie kolekcji królewskiej) – o&nbsp;wybranie spośród wyselekcjonowanych przez nas prac tych, które są dla nich inspirujące w&nbsp;dzisiejszym kontekście „kryzysu oświeceniowych wartości” i&nbsp;„końca Oświecenia”. Nie chcieliśmy wprowadzać współczesnych mediów (video, fotografii, instalacji), żeby nie tworzyć konfliktu i&nbsp;wyraźnej nieciągłości między pracami historycznymi i&nbsp;tymi wykonanymi dziś. Zależało nam na&nbsp;podkreśleniu ich wspólnej tożsamości oraz na&nbsp;pokazaniu „oryginałów” i&nbsp;„kopii” jako jednej „kolekcji”. Rysunek był dla nas również interesujący jako medium polityczne: początki takiego rozumienia tego techniki odnaleźć można właśnie w&nbsp;Oświeceniu.</p> <p>Idea odbicia obejmuje wobec tego dwie narracje, które strukturyzują całą wystawę, nieustannie się przecinając: narrację kuratorską (sposób wyboru, uporządkowania i&nbsp;konceptualizacji materiału historycznego) i&nbsp;narrację artystyczną (reakcje współczesnych artystów na&nbsp;historyczne obrazy). Specjalny status miał projekt Goshki Macugi, rozciągający się i&nbsp;komentujący granice między tymi dwiema narracjami. Macuga wykonała serię „rycin” wspólnie z&nbsp;robotem, problematyzując kwestię rysunku po-ludzkiego, życia po&nbsp;końcu człowieka i, szerzej, problem pisania historii z&nbsp;perspektywy przyszłości. Z&nbsp;tego punktu widzenia jej aktualne i&nbsp;polityczne komentarze stają się „skamielinami historii”, znakami zamkniętego czasu.</p> <h2>5.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/szerszen-ronduda/4-d-1920x-cc7.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/szerszen-ronduda/4-d-333x-2ec.jpg 333w,assets/cache/images/issues/2018/20/szerszen-ronduda/4-d-666x-f9c.jpg 666w,assets/cache/images/issues/2018/20/szerszen-ronduda/4-d-1332x-157.jpg 1332w" src="assets/cache/images/issues/2018/20/szerszen-ronduda/4-d-666x-f9c.jpg" alt="" ></a>    <figcaption><p>Giovanni Battista Piranesi, <em>Więzienie XIV (Carcere XIV)</em>, z&nbsp;cyklu <em>Więzienia z&nbsp;wyobraźni (Invenzioni Caprici di Carceri)</em>. Wydanie II, 1761 akwaforta. Gabinet Rycin Biblioteki Uniwersytetu Warszawskiego, Inw.zb.d. 10678</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Ważnym punktem odniesienia była dla nas również koncepcja „muzeum krytycznego”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> Piotra Piotrowskiego, formułowana w&nbsp;kontekście jego działalności w&nbsp;Muzeum Narodowym w&nbsp;Warszawie. Gabinet Rycin BUW, podobnie jak instytucja, której dyrektorem był Piotrowski, jest typowym muzeum historycznym (jednak bez dużej przestrzeni ekspozycyjnej), które w&nbsp;dobrze pojętym konserwatywnym odruchu zbiera i&nbsp;chroni ważne dzieła z&nbsp;przeszłości, klasyfikuje je,  buduje ich hierarchię oraz ma ambicję reprezentować całość rozwoju sztuki. Staraliśmy się w&nbsp;duchu „muzeum krytycznego” zdekonstruować ten spetryfikowany kanon i&nbsp;„wystawiać nie historię sztuki, lecz pokazać świat przez lustro sztuki i&nbsp;jej historii”. Z&nbsp;jednej strony byliśmy zorientowani na&nbsp;krytykę instytucjonalną dotyczącą samego Gabinetu, jego oświeceniowej genezy i&nbsp;późniejszej ewolucji. Z&nbsp;drugiej strony czytaliśmy ten zbiór w&nbsp;sposób preposteryjny, czyli przez pryzmat problemów naszej współczesności i&nbsp;próbowaliśmy wprowadzić go w&nbsp;aktualną debatę społeczno-polityczną.</p> <p>Pomysł, by pokazać prace horyzontalnie, na&nbsp;stołach, odwzorowuje metodę pracy w&nbsp;Gabinecie Rycin. To właśnie na&nbsp;potężnych stołach ryciny są tam rozkładane, oglądane, opisywane, poddawane wstępnej konserwacji, następnie zaś składane i&nbsp;chowane z&nbsp;powrotem do teczek. Stół pozostaje miejscem pracy, patrzenie na&nbsp;obrazy z&nbsp;góry jest zaś podstawowym sposobem ich oglądu. Naszą intencją było zachowanie tego aspektu pracy z&nbsp;obrazami. W&nbsp;przeciwieństwie do układu wertykalnego, układ horyzontalny ma cechy przestrzeni laboratoryjnej<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>, w&nbsp;której interpretacje nie są raz na&nbsp;zawsze dane – jest przestrzenią potencjalności, rozciągającą się pomiędzy archiwum a&nbsp;muzealną ekspozycją dzieła (zazwyczaj na&nbsp;ścianie). Chcieliśmy zachować ten wymiar potencjalności i&nbsp;w odwołaniu do idei atlasu ułożyliśmy prace na&nbsp;dziesięciu rozległych i&nbsp;specjalnie zaprojektowanych stołach-gablotach.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/szerszen-ronduda/5-d-1920x-4b1.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/szerszen-ronduda/5-d-330x-91f.jpg 330w,assets/cache/images/issues/2018/20/szerszen-ronduda/5-d-660x-2b0.jpg 660w,assets/cache/images/issues/2018/20/szerszen-ronduda/5-d-768x-45c.jpg 768w,assets/cache/images/issues/2018/20/szerszen-ronduda/5-d-1320x-3a2.jpg 1320w" src="assets/cache/images/issues/2018/20/szerszen-ronduda/5-d-660x-2b0.jpg" alt="" ></a>    <figcaption><p><a href="5-d.jpg"><img></a>Anna Boghiguian, <em>NMD, #3, Bez tytułu. (Kair)</em>, 2017, gwasz, ołówek, akwarela na&nbsp;papierze. Dzięki uprzejmości artystki oraz Sfeir-Semler Gallery w&nbsp;Berlinie i&nbsp;Hamburgu</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Zdecydowaliśmy się podzielić wybrany przez nas materiał na&nbsp;dziesięć grup, z&nbsp;których każda tworzyła oddzielny stół. Każdej nadana została nazwa wiążąca się z&nbsp;ważnym pojęciem dotyczącym zarówno Oświecenia, jak i&nbsp;współczesności. Dlatego nazwy stołów podaliśmy w&nbsp;liczbie mnogiej, po&nbsp;raz kolejny podkreślając podwójność i&nbsp;wskazując na&nbsp;wspólną tożsamość tych dwóch momentów historycznych. Grupy miały następujące nazwy: Iluminacje, Dystopie, Rewolucje, Kolekcje, Liberalizmy, Kolonializmy, Emancypacje, Rekonstrukcje, Narody. Jedną grupę – złożoną z&nbsp;zamówionych przez Stanisława Augusta projektów pustych ram do obrazów – pozostawiliśmy bez komentarza.</p> <h2>ILUMINACJE</h2> <p>Wiek XVIII lubuje się w&nbsp;rozbudowanych świetlnych widowiskach, spektakularnych feeriach o&nbsp;przemyślanej fabule i&nbsp;skonstruowanej specjalnie na&nbsp;konkretną okoliczność scenografii. Jedna z&nbsp;tek królewskich z&nbsp;kolekcji Gabinetu Rycin poświęcona jest w&nbsp;całości graficznym wyobrażeniom fajerwerków. </p> <p>Metafora światła łączy się ściśle z&nbsp;symboliką Oświecenia i&nbsp;obrazem rodzącej się nowej epoki, blaskiem rozpraszającym ciemności, w&nbsp;których pogrążony jest świat. Równocześnie świetlna epifania wiąże się z&nbsp;momentem oślepienia, ze złudzeniem, iluzją – z&nbsp;urojonym odczytaniem momentu historycznego, obrazem, którego znaczenie nam umyka. </p> <p>Fajerwerk kieruje nas również ku polityczności: uświadomieniu sobie podziału na&nbsp;to, co oświetlane, i&nbsp;na to, co pozostaje w&nbsp;mroku, na&nbsp;widzów i&nbsp;aktorów spektaklu. Równocześnie dziś, za&nbsp;sprawą polityki, oświeceniowa epifania odnawia się, pojawia się na&nbsp;nowo jako próba zrozumienia ram, w&nbsp;jakich funkcjonujemy od ponad dwustu lat.</p> <h2>DYSTOPIE</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/szerszen-ronduda/6-d-1920x-6c9.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/szerszen-ronduda/6-d-333x-bcb.jpg 333w,assets/cache/images/issues/2018/20/szerszen-ronduda/6-d-666x-dda.jpg 666w,assets/cache/images/issues/2018/20/szerszen-ronduda/6-d-1332x-529.jpg 1332w" src="assets/cache/images/issues/2018/20/szerszen-ronduda/6-d-666x-dda.jpg" alt="" ></a>    <figcaption><p>William Hogarth, <em>Tailpiece</em> lub <em>The Bathos</em>, akwaforta, miedzioryt. Z&nbsp;albumu z&nbsp;51 rycinami Williama Hogartha © Gabinet Rycin Biblioteki Uniwersytetu Warszawskiego, Inw.zb.d. 20559 (Vol. 396).</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Świadomość ograniczeń rozumu oświeceniowego, kosztów generowanych przez nieustający postęp, któremu stale zagraża regres, wiedzy, której nadmiar może paradoksalnie prowadzić do wytworzenia czegoś, co tę wiedzę imituje lub nawet, w&nbsp;skrajnym wypadku, do informacyjnej entropii – to lęki epoki. Sugestywne obrazy „więzień rozumu”, labiryntów i&nbsp;murów są wyrazem pesymizmu, ale niosą ze sobą również wiarę w&nbsp;możliwość ich przekroczenia, zachętę do nieustającego wysiłku. </p> <p>Stworzona przez Williama Hogartha tuż przed śmiercią rycina <em>The Bathos</em>, przedstawiająca alegorycznie śmierć człowieka, dotyka podstawowego lęku Oświecenia: czy uda się stworzyć nową, świecką, głęboko humanistyczną moralność poza religią i&nbsp;związanymi z&nbsp;nią systemami moralnymi?</p> <p>Obraz końca wiąże się również z&nbsp;pytaniem o&nbsp;koniec człowieka i&nbsp;ograniczenia naukowego rozwoju. Roboty, sztuczna inteligencja – to, co postludzkie – są emanacją oświeceniowego ducha, wiary w&nbsp;triumf niczym nieograniczonej wiedzy i&nbsp;wolności jej potęgowania, równocześnie jednak wiążą się z&nbsp;pytaniem o&nbsp;samozagładę ludzkości i&nbsp;życie „po człowieku”. Śmierć ostatniego robota w&nbsp;pracy Goshki Macugi jest w&nbsp;tej wizji równoznaczna z&nbsp;końcem Oświecenia, jego ostatnim akordem.</p> <h2>REWOLUCJE</h2> <p>Rewolucja to centralne wydarzenie Oświecenia, doskonale ukazujące jego sprzeczności. Jest świętem i&nbsp;traumą przekształcającą relacje władzy i&nbsp;wiedzy, dzikim i&nbsp;irracjonalnym finałem epoki rozumu, a&nbsp;zarazem początkiem nowoczesnego, laickiego, rozumienia sfery publicznej. Stanowi również archiwum gestów i&nbsp;obrazów, które powracają jako rama wszelkich rewolucyjnych momentów.  </p> <p>W kolekcji Gabinetu Rycin znajduje się obszerny zbiór karykatur z&nbsp;okresu rewolucji francuskiej, zbieranych i&nbsp;przesyłanych królowi na&nbsp;bieżąco z&nbsp;Paryża. Produkowane z&nbsp;myślą o&nbsp;masowym i&nbsp;niewyrobionym odbiorcy po&nbsp;to, by radykalizować i&nbsp;kształtować polityczne postawy, są graficznym odpowiednikiem protestu, antyklerykalną <em>Biblią pauperum</em> zyskującego podmiotowość i&nbsp;samoświadomość ludu, głosem wykluczonych. Pojawienie się karykatury i&nbsp;satyry politycznej wiąże się również z&nbsp;upadkiem cenzury i&nbsp;narodzinami nowoczesnej prasy, kamieniami milowymi w&nbsp;rozwoju wolności słowa i&nbsp;demokracji.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/szerszen-ronduda/7-d-1920x-517.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/szerszen-ronduda/7-d-333x-b17.jpg 333w,assets/cache/images/issues/2018/20/szerszen-ronduda/7-d-666x-91e.jpg 666w,assets/cache/images/issues/2018/20/szerszen-ronduda/7-d-1332x-d18.jpg 1332w" src="assets/cache/images/issues/2018/20/szerszen-ronduda/7-d-666x-91e.jpg" alt="" ></a>    <figcaption><p>Goshka Macuga, <em>Finał</em>, 2018. Made by Goshka Macuga and the machine. Dzięki uprzejmości artystki</p></figcaption>   </figure>  </section><section class="u-typo">   <p>W zainteresowaniu Stanisława Augusta tym, co aktualne, doszukać się można nowoczesnego wymiaru jego kolekcjonerstwa. W&nbsp;marginalizowanej estetycznie karykaturze dostrzega on medium „produkujące polityczność”, źródło rozumienia dokonujących się przemian. Równocześnie zbiór ten pozostaje dla króla obrazem możliwej przyszłości, a&nbsp;także dowodem na&nbsp;radykalną różnicę perspektyw pomiędzy oddolną rewolucją oświeceniową we Francji a&nbsp;tą odgórnie realizowaną w&nbsp;Polsce.</p> <h2>KOLEKCJE</h2> <p>Z działalnością Stanisława Augusta Poniatowskiego wiąże się początek nowoczesnego funkcjonowania sztuk wizualnych w&nbsp;Polsce. Król kolekcjonował ryciny związane z&nbsp;bieżącymi wydarzeniami politycznymi i&nbsp;artystycznymi, które angażowały intelektualne elity Europy. Równocześnie starał się gromadzić ryciny reprezentujące zjawiska, które według niego miały wartość w&nbsp;kontekście procesu modernizacji kraju, sprowadzał do Polski artystów z&nbsp;zagranicy reprezentujących nieobecne tutaj umiejętności i&nbsp;zjawiska artystyczne oraz tworzył i&nbsp;wspierał (wsześniej właściwie nieistniejące) lokalne środowisko artystyczne. Kolekcja królewska – w&nbsp;zamierzeniu pierwsza publiczna kolekcja sztuki w&nbsp;Polsce – miała docelowo pełnić funkcję analogiczną do powołanego przez króla teatru publicznego i&nbsp;do magazynu „Monitor”: miała być miejscem publicznej debaty na&nbsp;temat nowoczesnego rozwoju kraju. Nie doczekała się utworzenia, planowanej wówczas, Akademii Sztuk Pięknych ani Musaeum Polonicum i&nbsp;stała się szerzej dostępna dopiero na&nbsp;początku XIX wieku, funkcjonując w&nbsp;uniwersyteckim Gabinecie Rycin. </p> <p>W XVIII wieku był to jednak ciągle osobisty zbiór króla, pełen jego notatek i&nbsp;dopisków. Polityczność kolekcji łączy się tutaj z&nbsp;intymnością i&nbsp;afektem. Kluczowa rola estetyki w&nbsp;modernizacyjnej zmianie, jaką realizował, była efektem „miękkiej władzy” Stanisława Augusta, który jako jedyny z&nbsp;europejskich oświeconych władców nie miał podobnej im, realnej władzy politycznej. W&nbsp;rezultacie kolekcja odzwierciedla napięcie pomiędzy próbami polityzacji estetyki i&nbsp;nieuchronnie rodzącą się autonomią sztuki.  </p> <h2>NARODY</h2> <p>Polska nowoczesna tożsamość narodowa rodzi się jako podwójność. Symbolicznie pokazuje to porwanie oświeconego króla przez konfederatów barskich. Jest to moment powstania dwóch tradycji myślenia o&nbsp;państwie i&nbsp;narodzie. Jean-Jacques Rousseau widział w&nbsp;zrywie konfederacji element anarchicznej, naturalnej wolności i&nbsp;republikańskiego samostanowienia. Porażka konfederatów stała się założycielskim mitem kolejnych polskich zrywów narodowowyzwoleńczych, źródłem utożsamienia polskiego patriotyzmu z&nbsp;katolicyzmem oraz powiązania nowoczesności z&nbsp;traumą. W&nbsp;zbiorach Gabinetu Rycin odnaleźć można wiele projektów przebudowy Warszawy w&nbsp;oświeceniowym duchu; można je widzieć, wraz z&nbsp;innymi ideami modernizacyjnymi, jako wciąż ponawiane próby przezwyciężenia stanu natury, nadania mu formy. Z&nbsp;kolei serię niezrealizowanych pomników na&nbsp;cześć króla Stanisława Augusta można odczytać jako traumatyczną figurę odrzucenia oświeceniowej tradycji.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/szerszen-ronduda/8-d-1920x-7a9.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/szerszen-ronduda/8-d-333x-757.jpg 333w,assets/cache/images/issues/2018/20/szerszen-ronduda/8-d-666x-212.jpg 666w,assets/cache/images/issues/2018/20/szerszen-ronduda/8-d-1332x-764.jpg 1332w" src="assets/cache/images/issues/2018/20/szerszen-ronduda/8-d-666x-212.jpg" alt="" ></a>    <figcaption><p><a href="8-d.jpg"><img></a>Tadeusz Kościuszko, <em>Triumf Flory</em>, ~1788, rysunek: pędzel, pióro, grafit, akwarela, tusz. Gabinet Rycin Biblioteki Uniwersytetu Warszawskiego, Inw.zb.d. 10065.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Ścieranie się dwóch narodów wiąże się ze schizofrenicznym rozdarciem, rzadziej z&nbsp;syntezą, jak w&nbsp;przypadku Konstytucji 3 Maja i&nbsp;postaci Tadeusza Kościuszki. Stawką polskiej osiemnastowiecznej modernizacji był proces nadawania szlacheckiemu sarmatyzmowi nowoczesnej formy, a&nbsp;także zakorzeniania w&nbsp;polskim kontekście przeszczepionych z&nbsp;Europy Zachodniej idei oświeceniowych. Ruch między schizofrenią a&nbsp;syntezą do dziś wyznacza kształt polskiej sfery publicznej. To rozdarcie nie pozwala na&nbsp;tworzenie projektów przyszłości.</p> <h2>LIBERALIZMY</h2> <p>Stanisław August interesował się miejską kulturą i&nbsp;projektowaniem, za&nbsp;jego panowania Warszawa niebywale się rozwija, zaś mieszczanie po&nbsp;raz pierwszy zaznaczają i&nbsp;zdobywają swoją podmiotowość polityczną. Czarna procesja mieszczan i&nbsp;Konstytucja 3 Maja są zwieńczeniem tego procesu. Podczas insurekcji kościuszkowskiej zradykalizowane mieszczaństwo szło najdalej w&nbsp;żądaniach, tworząc frakcję polskich jakobinów, wieszającą targowiczan i&nbsp;żądającą konstytucji nawet bez króla.</p> <p>W zbiorze Gabinetu Rycin oprócz planów i&nbsp;projektów architektonicznych znajduje się szereg innych dokumentów związanych z&nbsp;życiem miejskim tamtego czasu, z&nbsp;rozwojem kapitalizmu. Seria wizerunków miejskich „nawoływaczy” pokazuje handlarzy – skupionych na&nbsp;własnym przekazie sprzedawców towarów, kultury i&nbsp;politycznych idei. Przestrzeń, w&nbsp;której odnajdujemy te postaci, to prototyp współczesnego wolnego rynku, miejsce, gdzie krzyżują się rozmaite głosy. Od „nawoływaczy” do Szarego Człowieka jesteśmy świadkami ciągłego ruchu w&nbsp;sferze publicznej, nieustającego „nawoływania” – do roli konsumenta lub do roli obywatela. </p> <h2>KOLONIALIZMY</h2> <p>Wśród rycin z&nbsp;kolekcji królewskiej znaleźć można wizerunki Polaka i&nbsp;Mieszczanina z&nbsp;Aleppo. Wbrew podręcznikowej wizji historii podobieństwo strojów każe myśleć o&nbsp;pokrewieństwie tożsamości, o&nbsp;definiujących ją hybrydycznych wpływach. Przypomina również o&nbsp;kolonialnej ramie towarzyszącej polskiemu widzeniu i&nbsp;opisywaniu świata, a&nbsp;równocześnie widzeniu i&nbsp;opisywaniu Polski przez obcych – przejściu w&nbsp;XVIII wieku od roli kolonizatora do bycia kolonizowanym.</p> <p>Pragnienie opisywania i&nbsp;porządkowania świata, nazwania go i&nbsp;sklasyfikowania, stanowi ważny element oświeceniowej wyobraźni. Równocześnie widać wyraźnie, jak bardzo niejasny jest podział na&nbsp;to, co typowe (normalne), i&nbsp;to, co przekracza normę (patologiczne), jak łatwo to, co inne, podlega wykluczeniu lub fetyszyzacji. Pokazanie relacji między pozornie odległymi obrazami, rzeczami i&nbsp;tożsamościami jest zarazem elementem tworzenia historii uniwersalnej: opartej na&nbsp;podobieństwach, a&nbsp;nie na&nbsp;różnicach, na&nbsp;fundamencie wspólnych wartości. Zostaje ona zefiniowana w&nbsp;opozycji do tego, co partykularne, lokalne i&nbsp;jednostkowe. Właśnie w&nbsp;XVIII wieku polska tożsamość rodzi się jako podwójność, w&nbsp;której to, co uniwersalne, i&nbsp;to, co polskie, pozostają w&nbsp;nieustannym napięciu, spotykając się i&nbsp;rozchodząc.</p> <p>Porządkowanie świata jest równocześnie procesem produkcji wiedzy. Jego skutkiem ubocznym jest pojawienie się tego, co tę wiedzę imituje – lustra odbijającego nasze wyobrażenia i&nbsp;uprzedzenia. </p> <h2>EMANCYPACJE</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/szerszen-ronduda/9-d-1920x-499.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/szerszen-ronduda/9-d-333x-a1f.jpg 333w,assets/cache/images/issues/2018/20/szerszen-ronduda/9-d-666x-9aa.jpg 666w,assets/cache/images/issues/2018/20/szerszen-ronduda/9-d-1332x-695.jpg 1332w" src="assets/cache/images/issues/2018/20/szerszen-ronduda/9-d-666x-9aa.jpg" alt="" ></a>    <figcaption><p><a href="9-d.jpg"><img></a>Widok wystawy. Fot. Daniel Chrobak</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Radykalne przemiany czasów Oświecenia nie zmieniły wiele w&nbsp;kwestii praw kobiet. Równocześnie jednak to właśnie wtedy, w&nbsp;XVIII wieku, „kobiecość” jako kategoria pojawiła się w&nbsp;dyskursie publicznym, zaś głos kobiet wybrzmiał pierwszy raz (choć w&nbsp;ograniczony sposób). Obraz zrewoltowanych kobiet maszerujących na&nbsp;Wersal do dziś zawiera w&nbsp;sobie emancypacyjny potencjał i&nbsp;łączy płeć z&nbsp;rewolucją.</p> <p>W kolekcji Gabinetu Rycin znajduje się cykl rysunków przedstawiających pozy Emmy Hamilton – aktorki i&nbsp;tancerki, muzy ówczesnych malarzy i&nbsp;polityków. Jej pozy, bliskie sztuce mimicznej i&nbsp;tradycji „żywych obrazów”, będące w&nbsp;rzeczywistości próbą performowania A3ntyku, wprawienia w&nbsp;ruch czegoś pozornie martwego, lokują ją w&nbsp;punkcie, w&nbsp;którym sfera publiczna i&nbsp;prywatna ulegają przemieszaniu, zaś upodmiotowienie i&nbsp;uprzedmiotowienie dzieli nieostra granica. Emma Hamilton – niczym pierwsza performerka – staje się figurą ruchu, przekraczającą obowiązujące podziały (również klasowe). </p> <p>Król zamawia wykonanie rysunkowych kopii w&nbsp;1795 roku – w&nbsp;momencie ostatniego rozbioru Polski. Pozy Emmy Hamilton stają się w&nbsp;tej optyce żałobnym performansem, znakiem kompensacji niesionej przez sztukę. </p> <h2>REKONSTRUKCJE</h2> <p>Zejście do podziemi jest zawsze decyzją polityczną. To, co pod&nbsp;ziemią, pozostaje w&nbsp;opozycji do tego, co na&nbsp;powierzchni, podkopuje panujący tam porządek, tworząc alternatywny, „undergroundowy” świat. Polskie dzieje ostatnich dwustu lat dobrze pokazują ten ruch między podziemiami i&nbsp;powierzchnią: kolejne fale opozycjonistów, kontestatorów i&nbsp;konspiratorów odmawiających podporządkowania się zaborcom, okupantom i&nbsp;wrogim rządom tworzą ciągłość „polskiego państwa podziemnego”, być może jeden z&nbsp;decydujących elementów polskiej tożsamości.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/20/szerszen-ronduda/10-d-1920x-09e.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/20/szerszen-ronduda/10-d-330x-b27.jpg 330w,assets/cache/images/issues/2018/20/szerszen-ronduda/10-d-660x-d1b.jpg 660w,assets/cache/images/issues/2018/20/szerszen-ronduda/10-d-768x-e6d.jpg 768w,assets/cache/images/issues/2018/20/szerszen-ronduda/10-d-1320x-d75.jpg 1320w" src="assets/cache/images/issues/2018/20/szerszen-ronduda/10-d-660x-d1b.jpg" alt="" ></a>    <figcaption><p>Andrea Bowers, transparent na&nbsp;demonstrację, 30 września 2018, Warszawa.</p> <p>Fot. Sebastian Cichocki</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Zejście do podziemi jest również zagłębieniem się w&nbsp;świat umarłych: próbą doszukania się w&nbsp;szczątkach tego, co minione i&nbsp;schowane głęboko pod&nbsp;ziemią, materiału do konstruowania przyszłości lub, dla odmiany, rekonstruowania historii. Te dwa sprzeczne ze sobą polityczne użycia archeologii rodzą się – jako lustrzane odbicie – wraz z&nbsp;Oświeceniem i&nbsp;trwają do dziś.</p> <p>W kolekcji Gabinetu Rycin odnaleźć można różne obrazy tych fantazji o&nbsp;podziemiach, fantazmatycznej archeologii. Są wśród nich projekty i&nbsp;szkice podziemnego utopijnego ogrodu Franciszka Ksawerego Branickiego, targowiczanina i&nbsp;przeciwnika Konstytucji 3 Maja, a&nbsp;także świadectwa archeologicznych zainteresowań Stanisława Kostki Potockiego – pioniera historii sztuki w&nbsp;Polsce, oświeceniowego polityka i&nbsp;myśliciela. Odmienne rozumienie archeologii prowadzi ich do innego zdefiniowania tego, co polityczne. Podobnie jak artyści i&nbsp;myśliciele Oświecenia szukali w&nbsp;Starożytności źródeł własnego projektu, również tradycja sarmacka widziała tam swoje korzenie.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><h2></h2>
+<p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Immanuel Kant, <em>Co to jest Oświecenie?</em>, przeł. A. Landman, w: idem, <em>Przypuszczalny początek ludzkiej historii i inne pisma historiozoficzne</em>, Comer, Toruń 1995.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Debata na temat kryzysu spuścizny Oświecenia ma aktualnie wiele odsłon i wcieleń. W kontekście dziedzictwa Oświecenia i nowych technologii por. np.: Henry A. Kissinger, <em>How the Enlightenment Ends</em>, „The Atlantic” 2018, June, <a href="https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/" target="_blank" rel="noopener">https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/</a>, dostęp: 19 sierpnia 2018); Andrzej Zybertowicz z zespołem, <em>Samobójstwo Oświecenia? </em><em>Jak neuronauka i nowe technologie pustoszą ludzki świat</em>, Kasper, Kraków 2015; polemicznie wobec tych głosów: Edwin Bendyk, <em>W stronę światła</em>, „Polityka” 2018, nr 24. W kontekście kryzysu uchodźczego por. np.: Nikita Dhavan, <em>Rescuing the Enlightenment from the Europeans</em>, „The European” z 27 kwietnia 2015, <a href="https://www.theeuropean-magazine.com/nikita-dhawan/10063-the-migrant-crisis-and-enlightenment-values" target="_blank" rel="noopener">https://www.theeuropean-magazine.com/nikita-dhawan/10063-the-migrant-crisis-and-enlightenment-values</a>, dostęp 19 sierpnia 2018; Sayed Hassan Akhlaq, <em>European Enlightenment and Humanism in Danger: Refugee Crisis</em>, „Huffington Post” z 22 marca 2016, <a href="https://www.huffingtonpost.com/sayed-hassan-akhlaq/european-enlightenment-an_b_9519986.html" target="_blank" rel="noopener">https://www.huffingtonpost.com/sayed-hassan-akhlaq/european-enlightenment-an_b_9519986.html</a>, dostęp 19 sierpnia 2018. Próbę obrony i dowartościowania dziedzictwa Oświecenia podejmuje Steven Pinker w książce <em>Enlightenment Now. </em><em>The Case for Reason, Science, Humanism, and Progress</em>, Penguin Books Limited, London 2018. O powrocie do wartości Oświecenia jako reakcji na kryzys: Tim Lister, Ariana Williams, <em>At time of crisis, French turn to a beacon of Enlightenment</em>, CNN z 20 stycznia 2015, <a href="https://edition.cnn.com/2015/01/20/world/paris-terror-attacks-voltaire/index.html" target="_blank" rel="noopener">https://edition.cnn.com/2015/01/20/world/paris-terror-attacks-voltaire/index.html</a>, dostęp 19 sierpnia 2018.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Jerzy Jedlicki, <em>Jakiej cywilizacji Polacy potrzebują. Studia z dziejów idei i wyobraźni XIX wieku</em>, Państwowe Wydawnictwo Naukowe, Warszawa 1988.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Piotr Piotrowski, <em>Muzeum krytyczne</em>, Rebis, Poznań 2011.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> W kontekście obrazów o stole jako przestrzeni laboratoryjnej, na której konfrontują się, krzyżują i zlepiają ze sobą różnorodne przestrzenie i czasy, o stole jako przestrzeni heterogenicznej pisał obszernie Georges Didi-Huberman w tekście <em>Atlas ou le gai savoir inquiet. </em><em>L’Oeil de l’histoire, 3</em>, Minuit, Paris 2011; por. też wersja hiszpańska: idem, <em>Atlas ¿ Cómo llevar el mundo a cuestas?</em>, Museo Reina Sofía, Madrid 2010, s. 18–19, 44–52.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/20-2018-odmuzealnienie/oswiecenie-czyli-tu-i-teraz" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

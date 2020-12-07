@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Choreografia dyskretnych przesunięć | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2016/uchodzcy-obrazy-migracji-pamiec-w-ruchu/choreografia-dyskretnych-przesuniec">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Choreografia dyskretnych przesunięć | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Choreografia dyskretnych przesunięć | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2016/uchodzcy-obrazy-migracji-pamiec-w-ruchu/choreografia-dyskretnych-przesuniec">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Choreografia dyskretnych przesunięć | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #808080 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #808080 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #808080 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #808080 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #808080 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #808080 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #808080 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #808080 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(128,128,128,0.8) !important; */
+			/* background-color:#808080 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(128,128,128,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#808080 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(128,128,128,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#808080; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(128,128,128,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(128,128,128,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#808080 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#808080 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#808080 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-787 parent-id-772">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="445" data-selected-issue-color="#808080" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/refugees-fugitive-images-memory-in-motion#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/refugees-fugitive-images-memory-in-motion/choreography-of-discrete-shifts">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2016/uchodzcy-obrazy-migracji-pamiec-w-ruchu#toc">14</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-14/14-konik.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Choreografia dyskretnych przesunięć</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-14/14-konik.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=311">Katarzyna Bojarska</a>, <a href="/pl/bio?id=788">Anna Konik</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Anna Konik w&nbsp;rozmowie z&nbsp;Katarzyną Bojarską</p> <p></p> <p><b>Katarzyna Bojarska</b>: Chciałabym zacząć od pytania, które dotyczy twojej zeszłorocznej wystawy w&nbsp;Zamku Ujazdowskim, <a href="http://csw.art.pl/index.php?action=aktualnosci&amp;s2=1&amp;id=1328&amp;lang=" target="_blank" rel="noopener">„Ziarno piasku w&nbsp;źrenicy oka. Wideoinstalacje 2000–2015”</a>, a&nbsp;właściwie od sposobu, w&nbsp;jaki tę wystawę i&nbsp;twoją twórczość ujmuje towarzyszący jej katalog, w&nbsp;pewnym sensie odstający od tej wystawy. Wystawa miała świetną dynamikę, była dobrze zaprojektowana, zmyślnie prowadziła oglądających od tematu do tematu, zmieniała nastroje, wprowadzała w&nbsp;klimat czegoś, co nazwałabym tu roboczo kobiecym widzeniem i&nbsp;odczuwaniem świata, sposobem organizowania przestrzeni i&nbsp;myślenia o&nbsp;historii. W&nbsp;tym sensie wystawa ta znakomicie oddaje charakter twojej sztuki. Tymczasem ta jej cecha, umyka piszącym o&nbsp;tobie autorom, staje się pomijalna, choć pomijalna nie jest. To tak, jakby w&nbsp;analizie pracy <em>W tym samym mieście, pod&nbsp;tym samym niebem</em> (2011–2015) nie wspomnieć, że&nbsp;jej bohaterkami są kobiety.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/choreografia/417-5748-1-pb-1920x-cdc.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/choreografia/417-5748-1-pb-330x-6aa.jpg 330w,assets/cache/images/issues/2016/14/choreografia/417-5748-1-pb-660x-3ce.jpg 660w,assets/cache/images/issues/2016/14/choreografia/417-5748-1-pb-768x-6ae.jpg 768w,assets/cache/images/issues/2016/14/choreografia/417-5748-1-pb-1320x-edd.jpg 1320w" src="assets/cache/images/issues/2016/14/choreografia/417-5748-1-pb-660x-3ce.jpg" alt="" ></a>    <figcaption><p><em>W tym samym mieście, pod&nbsp;tym samym niebem…</em>, CSW Zamek Ujazdowski, Warszawa. Zdjęcie Bartosz Górka</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>Anna Konik</b>: Interesujące spostrzeżenie. Jest w&nbsp;tym coś, choć wcześniej nie zwróciłam na&nbsp;to uwagi. Swoje wystawy i&nbsp;projekty przygotowuję z&nbsp;matematyczną precyzją, nie tylko jeśli chodzi o&nbsp;przestrzeń, ale też materię wideo, czy już później w&nbsp;fazie montażu obrazu, dźwięku i&nbsp;słowa. To samo dotyczy rysunków, zdjęć, obiektów. W&nbsp;wideo fascynuje mnie konstruowanie obrazu czystego, a&nbsp;jednocześnie otwartego na&nbsp;bodźce zewnętrzne. Powiedziałabym, że&nbsp;w&nbsp;pewnym sensie ta wystawa to próba zbudowania żywego organizmu, a&nbsp;także rodzaj podsumowania i&nbsp;rozstania z&nbsp;pewnym światem; może także zaakceptowania tego, który jest. Nie chcę go nazywać światem męskim, choć chyba poniekąd o&nbsp;to chodzi. Nie przekonuje mnie specjalnie mocny podział na&nbsp;świat męski i&nbsp;świat kobiecy, czy wizja, że&nbsp;jeden z&nbsp;nich dominuje. W&nbsp;swoich ostatnich projektach ukazuję rzeczywistość widzianą i&nbsp;przeżywaną przez kobiety.</p> <p><b>KB</b>: Unikasz feministycznych czy genderowych interpretacji?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/choreografia/417-5747-1-pb-1920x-f8f.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/choreografia/417-5747-1-pb-330x-fb3.jpg 330w,assets/cache/images/issues/2016/14/choreografia/417-5747-1-pb-660x-1b0.jpg 660w,assets/cache/images/issues/2016/14/choreografia/417-5747-1-pb-768x-170.jpg 768w,assets/cache/images/issues/2016/14/choreografia/417-5747-1-pb-1320x-f98.jpg 1320w" src="assets/cache/images/issues/2016/14/choreografia/417-5747-1-pb-660x-1b0.jpg" alt="" ></a>    <figcaption><p>Historia V, Nantes. Kadr z&nbsp;pracy <em>W tym samym mieście, pod&nbsp;tym samym niebem…</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>AK</b>: Nie. Rzadko staram się wpływać na&nbsp;autorki czy autorów. Oczywiście chodzi przede wszystkim o&nbsp;sam ich wybór. Czytanie o&nbsp;swojej sztuce, o&nbsp;sobie nie jest łatwe, choć bywa ciekawe. Czasami pozwala mi to zobaczyć elementy, które dotąd nie były dla mnie istotne albo odkryć je w&nbsp;nowych konfiguracjach. Ta „kobiecość”, o&nbsp;której mówisz, rzeczywiście nie jest opisana czy problematyzowana w&nbsp;katalogu. Znika. Kiedy jednak myślę teraz o&nbsp;różnych moich pracach, nawet tych z&nbsp;okresu studiów, widzę, że&nbsp;masz rację, że&nbsp;nawet na&nbsp;poziomie konceptualnym czy merytorycznym one są bardzo kobiece; to jest cecha mojej wrażliwości czy wręcz nadwrażliwości. W&nbsp;formie prezentacji ta kobiecość nie jest, jak sądzę, wyraźnie obecna. Być może więc tworzona przeze mnie przestrzeń okazuje się myląca, stanowi pewnego rodzaju kamuflaż bezpośredniości, którą często ze sztuką kobiecą się kojarzy, wskazując ją przy tym jako słabość, szczególnie w&nbsp;świecie sztuki zdominowanym przez mężczyzn. Osoby nieuwrażliwione na&nbsp;tę swoistą „grę” łatwo zmylić i&nbsp;to wystarczy, by nie dostrzegły perspektywy, o&nbsp;której mówisz. Najbliższe jej zarysowania, głównie w&nbsp;kontekście instalacji wideo <em>W tym samym mieście, pod&nbsp;tym samym niebem…</em> są Susanne Stich i&nbsp;Judy Fudge. Ta ostatnia sięga do <em>Ram wojny </em>Judith Butler, zwracając uwagę na&nbsp;kobiecą perspektywę wykluczenie.</p> <p><b>KB</b>: Powinnyśmy zadać sobie pytanie, czy kobieta jest uchodźcą. I&nbsp;co to oznacza, jeśli powiemy, że&nbsp;nie, ponieważ jest uchodźczynią? Wydaje mi się, że&nbsp;to konieczny gest, który otwiera perspektywę historiografii inkluzywnej, włączania pewnych doświadczeń, pomijanych dotąd na&nbsp;rzecz najbardziej uniwersalnego czy neutralnego doświadczenia historycznego. Także kobiety są ofiarami wojen i&nbsp;kryzysów, ale są nimi inaczej niż mężczyźni i&nbsp;ta odmienność domaga się uwzględnienia, opisania i&nbsp;pokazania.</p> <p><b>AK</b>: Pisała o&nbsp;tym bardzo pięknie Swiatłana Aleksijewicz w&nbsp;książce <em>Wojna nie ma w&nbsp;sobie nic z&nbsp;kobiety</em>: „Wojna nie ma ludzkiej twarzy. Ja patrzę na&nbsp;nią oczami kobiet. Kobieta pamięta co innego, inaczej pamięta. Pamięta kolor, zapach, więcej emocji, a&nbsp;mężczyzna czyn i&nbsp;zadania. Mężczyzna od dziecka przygotowuje się, że&nbsp;może być wojna. Kobiet tego się nie uczy”. Kobieta jest uchodźczynią i&nbsp;z tego właśnie uczyniono zarzut wobec tej pracy. Podczas jednej z&nbsp;dyskusji w&nbsp;Warszawie pytano mnie, dlaczego nie ma tu mężczyzn, dlaczego nie uwzględniam tego <span class="rozstrzelony"> drugiego </span> głosu, czy wręcz go pomijam.</p> <p><b>KB</b>: Dlatego, że&nbsp;jest to projekt o&nbsp;uchodźczyniach. I&nbsp;chodzi tu już nie tylko o&nbsp;inne doświadczenia, ale też o&nbsp;inne formy pamiętania, inne sposoby rejestrowania tych doświadczeń i&nbsp;inny tryb ich przekazywania.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/choreografia/417-5745-1-pb-1920x-75c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/choreografia/417-5745-1-pb-330x-825.jpg 330w,assets/cache/images/issues/2016/14/choreografia/417-5745-1-pb-660x-637.jpg 660w,assets/cache/images/issues/2016/14/choreografia/417-5745-1-pb-768x-2a6.jpg 768w,assets/cache/images/issues/2016/14/choreografia/417-5745-1-pb-1320x-d18.jpg 1320w" src="assets/cache/images/issues/2016/14/choreografia/417-5745-1-pb-660x-637.jpg" alt="" ></a>    <figcaption><p>Historia NB, Bukareszt. Kadr z&nbsp;pracy <em>W tym samym mieście, pod&nbsp;tym samym niebem…</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>AK</b>: Pamiętanie, przekazywanie i&nbsp;odczuwanie to zbiór stanów dający szansę na&nbsp;zbliżenie. Kilka lat temu spotkałam się w&nbsp;Polsce z&nbsp;zarzutem, że&nbsp;moja twórczość jest nazbyt narracyjna (w domyśle – jak sądzę – niekrytyczna, zbyt wielowarstwowa). Ale rzadko chodzi w&nbsp;niej o&nbsp;samą narrację. Interesują mnie raczej strumienie pamiętania, widzenia, przezywania, siatki przenikających się przestrzeni, w&nbsp;pewnym sensie również fizyczny charakter tych procesów. Oglądając wystawę „Ziarno piasku w&nbsp;źrenicy oka”, wiele osób dziwiło się, że&nbsp;tyle tu oddechu, miejsca i&nbsp;przestrzeni, w&nbsp;której głos moich prac wybrzmiewa mocno i&nbsp;wyraziście (w domyśle, wystawa nie jest przegadana czy sentymentalna). Ta przestrzeń jest częścią moich prac, jest miejscem dla spotkania z&nbsp;odbiorcą, udziela mu/jej głosu; w&nbsp;niej może się zrealizować ich osobista więź z&nbsp;historią, ta więź może stać się żywa i&nbsp;odczuwalna, a&nbsp;także gotowa na&nbsp;powiązania z&nbsp;innymi.</p> <p><b>KB</b>: Zarzut narracyjności czy sentymentalizmu wydaje mi się zupełnie nietrafiony. Wszyscy znamy takie prace i&nbsp;wystawy, które sprawiają, że&nbsp;czujemy się, jakby ktoś nam na&nbsp;głos czytał książkę, ale to z&nbsp;całą pewnością nie twój przypadek. Twoje prace opowiadają w&nbsp;trybie nielinearnym, unikają też prowadzenia odbiorców prostą i&nbsp;niewyboistą ścieżką rozpoznania i&nbsp;utożsamienia. W&nbsp;tym sensie są instalacjami czy konstelacjami i&nbsp;udaje im się uniknąć pułapek, w&nbsp;które wpada niemała część sztuki wideo.</p> <p><b>AK</b>: Zbyt często w&nbsp;myśleniu o&nbsp;sztuce wideo posługujemy się stereotypem kina. W&nbsp;pewnym sensie jest to nieuniknione, jeśli siedzisz w&nbsp;blackboksie, naprzeciwko ekranu. Ja staram się tego unikać, czy też to przełamywać, projektując sytuacje, w&nbsp;których oglądający są w&nbsp;ruchu, a&nbsp;ich ciało staje się punktem określenia i&nbsp;odniesienia w&nbsp;przestrzennej konstelacji różnych elementów. Ważne, by przestrzeń sztuki rozumieć przede wszystkim jako otoczenie i&nbsp;rozszerzenie naszego ciała, które skupia w&nbsp;sobie elementy przestrzeni przeszłych, już przeżytych. W&nbsp;swoich pracach szukam tych konstelacji, szukam możliwości geometrycznego i&nbsp;konstruktywnego kreowania przestrzeni przy użyciu wideo.</p> <p><b>KB</b>: Wyniosłaś to podejście z&nbsp;Kowalni?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/choreografia/417-5743-1-pb-1920x-3bc.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/choreografia/417-5743-1-pb-330x-3f3.jpg 330w,assets/cache/images/issues/2016/14/choreografia/417-5743-1-pb-660x-09d.jpg 660w,assets/cache/images/issues/2016/14/choreografia/417-5743-1-pb-768x-e90.jpg 768w,assets/cache/images/issues/2016/14/choreografia/417-5743-1-pb-1320x-d44.jpg 1320w" src="assets/cache/images/issues/2016/14/choreografia/417-5743-1-pb-660x-09d.jpg" alt="" ></a>    <figcaption><p><em>W tym samym mieście, pod&nbsp;tym samym niebem…</em>, MNAC, Bukareszt. Zdjęcie Larisa Sitar</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>AK</b>: W&nbsp;pewnym sensie. Jednak moje myślenie o&nbsp;przestrzeni wywodzi się przede wszystkim z&nbsp;rzeźby. Podczas studiów na&nbsp;warszawskiej ASP od drugiego roku byłam w&nbsp;pracowni Grzegorza Kowalskiego. Był to dla mnie ważny okres przekraczania własnych ograniczeń, zahamowań i&nbsp;odkrywania innego świata, czas balansowania pomiędzy klasycznym i&nbsp;progresywnym językiem sztuki. Duży wpływ miała na&nbsp;mnie także praca z&nbsp;Krzysztofem M. Bednarskim (zastępował Kowalskiego w&nbsp;latach 1996/1997) i&nbsp;znajomość z&nbsp;Jerzym Jarnuszkiewiczem, mistrzem ich obu. Od każdego z&nbsp;nich starałam się wziąć dla siebie coś istotnego. W&nbsp;tej męskiej sztuce szukałam swojego miejsca. Wizja sztuki Krzysztofa M. Bednarskiego to forma otwarta na&nbsp;odbieranie jej całym sobą: ciałem, przestrzenią, słowem, oraz zmienność, a&nbsp;Jerzy Jarnuszkiewicz to bardzo uważne szukanie i&nbsp;dochodzenie do ostatecznej formy, precyzja obserwacji. Kowalnia była eksperymentem z&nbsp;bardzo konkretnymi zasadami i&nbsp;tematami.</p> <p><b>KB</b>: Jakie to były tematy?</p> <p><b>AK</b>: Chociażby słynny <em>Obszar Wspólny, Obszar Własny</em>, na&nbsp;którym poruszało się kwestie związane z&nbsp;intymnością, cielesnością i&nbsp;nagością, głęboko emocjonalnie wchodziło w&nbsp;siebie, nieustannie oscylowało między wiwisekcją a&nbsp;transgresją. To przestrzeń bardzo ważna poznawczo, ale i&nbsp;bardzo krucha. Czasami, jeśli nie jest się gotowym na&nbsp;takie doznania, ryzyko może okazać się zbyt duże. Mam wrażenie, że&nbsp;udało mi się znaleźć równowagę. Również dlatego, że&nbsp;moja aktywność nie ograniczała się do Kowalni. Współpracowałam także z&nbsp;Teatrem Akademia, z&nbsp;Teatrem Opera Buffa. To wszystko pozwalało mi balansować między niepewnością, nieufnością a&nbsp;ciągłym doświadczeniem przekraczania granic.</p> <p><b>KB</b>: To widać w&nbsp;twoich pracach. W&nbsp;cielesności nie ma przecież nic oczywistego, wręcz przeciwnie. Twoje ciało jest bardzo obecne, ale jego obraz jest wycofany. Dużo miejsca zostawiasz dla ciała oglądających, ale to również nie jest miejsce oczywiste ani wygodne. Nie wiadomo, co i&nbsp;jak robić. Bywa dziwnie, choć nie jest się ani obnażonym, ani nadmiernie stymulowanym. To pośrednie stany przepływania: doświadczenie bardzo silne, choć niejednoznaczne. Widać, jak sprawdzasz różne formy współistnienia ciał w&nbsp;przestrzeni.</p> <p><b>AK</b>: Jest to dla mnie bardzo istotne, tu koncentrują się wszystkie doświadczenia, o&nbsp;których wcześniej mówiłam. Trochę eksperymentuję na&nbsp;widzu i&nbsp;na jego/jej wrażliwości, percepcji, słuchu, afektach, ciele. Traktuję widzów jak aktywnych uczestników tego procesu. Ale kiedy zaczynam pracę, skupiam się najpierw na&nbsp;kontakcie z&nbsp;osobą, która ma być częścią projektu. To jakby schodzenie się dwóch ciał i&nbsp;dwóch przestrzeni (doświadczenia, myślenia, odczuwania). W&nbsp;toku pracy ten kontakt zamienia się we mnie i&nbsp;przechodzi w&nbsp;artystyczne poszukiwanie formy, by w&nbsp;końcu trafić do widza i&nbsp;tam znaleźć swoją kulminację.</p> <p><b>KB</b>: Wydaje mi się, że&nbsp;każda kolejna twoja praca buduje zupełnie inną trajektorię tego „przechodzenia”; jakbyś nie tylko każdorazowo szukała odpowiedniej formy, ale też wchodziła jako ktoś inny w&nbsp;relację z&nbsp;drugim człowiekiem.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/choreografia/417-5741-1-pb-1920x-9e6.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/choreografia/417-5741-1-pb-330x-962.jpg 330w,assets/cache/images/issues/2016/14/choreografia/417-5741-1-pb-660x-b14.jpg 660w,assets/cache/images/issues/2016/14/choreografia/417-5741-1-pb-768x-544.jpg 768w,assets/cache/images/issues/2016/14/choreografia/417-5741-1-pb-1320x-ca9.jpg 1320w" src="assets/cache/images/issues/2016/14/choreografia/417-5741-1-pb-660x-b14.jpg" alt="" ></a>    <figcaption><p>Historia M, Sztokholm. Kadr z&nbsp;pracy <em>W tym samym mieście, pod&nbsp;tym samym niebem…</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>AK</b>: Moja praca z&nbsp;wideo to ciągłe sprawdzanie i&nbsp;przekraczanie; proces, w&nbsp;którym to ja szukam dla siebie właściwego miejsca i&nbsp;właściwego języka do wyrażenia tego, co przeżywam. I&nbsp;tak się składa, że&nbsp;służą mi do tego historie, miejsca i&nbsp;ciała innych osób. Nie chodzi tu jednak o&nbsp;to, by się za&nbsp;nimi chować, czy by ich historie przywłaszczać, ale o&nbsp;doświadczanie relacji, przestrzeni, języka, widzenia, dźwięku: bycie wobec innych ludzi, z&nbsp;nimi i&nbsp;obok nich. Podczas pracy nad konkretnym projektem ta relacyjność gra główną rolę, a&nbsp;potem, kiedy praca już jest gotowa i&nbsp;idzie w&nbsp;świat, do relacji dołączają inni i&nbsp;ona wciąż się zmienia, nigdy nie jest gotowa.</p> <p><b>KB</b>: Dużo wysiłku musisz wkładać, by dystansować się i&nbsp;nieustannie oddalać od historii i&nbsp;sytuacji, które prezentujesz? Wszystkie twoje prace zasadzają się na&nbsp;czymś, co nazwałabym <span class="rozstrzelony"> choreografią dyskretnych przesunię</span>ć. Najczęściej przesunięciu ulega twoja pozycja, choć nie tylko.</p> <p><b>AK</b>: Paradoksalnie ja się nie potrafię dystansować. Jestem w&nbsp;tym wszystkim od początku do końca. To bywa trudne, ale nie potrafię inaczej. Często pozostaję z&nbsp;moimi bohaterami w&nbsp;kontakcie, długo. Te relacje z&nbsp;czasem też się wyciszają. Później jestem gotowa otworzyć się na&nbsp;nowe historie, które niejako są kontynuacją wcześniejszych. Wiele wysiłku wkładam w&nbsp;to, by te historie otworzyć dla odbiorcy, by znaleźć mu/jej miejsce, a&nbsp;przynajmniej stworzyć możliwość miejsca. Oczywiście nigdy nie wiem, czy ktoś to miejsce zajmie. Być może to spotkanie (w sztuce) to tylko iluzja. Jedno jest pewne – moje prace nie są wyłącznie do oglądania.</p> <p><b>KB</b>: Ta subtelna sieć zapośredniczeń stanowi sedno projektu <em>W tym samym mieście, pod&nbsp;tym samym niebem</em>. Odnalezienie się w&nbsp;niej wymaga nie lada cierpliwości. Niby wiemy, co to jest i&nbsp;o czym, ale z&nbsp;każdą chwilą bycia wewnątrz tej instalacji tracimy pewność. Na&nbsp;końcu zaś, kiedy już uda lub nie uda się zobaczyć, czy odczuć większość dokonanych przez Ciebie przesunięć, zdajemy sobie sprawę, że&nbsp;najbardziej jest to o&nbsp;nas samych. Dwie kwestie, które mi się w&nbsp;tej pracy narzucają, to z&nbsp;jednej strony wybór kobiet na&nbsp;bohaterki tej historii, z&nbsp;drugiej zaś wybór tego przesunięcia. Możesz powiedzieć kilka słów o&nbsp;tym, jak ta praca powstawała?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/choreografia/417-5739-1-pb-1920x-90a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/choreografia/417-5739-1-pb-330x-44e.jpg 330w,assets/cache/images/issues/2016/14/choreografia/417-5739-1-pb-660x-ece.jpg 660w,assets/cache/images/issues/2016/14/choreografia/417-5739-1-pb-768x-c04.jpg 768w,assets/cache/images/issues/2016/14/choreografia/417-5739-1-pb-1320x-115.jpg 1320w" src="assets/cache/images/issues/2016/14/choreografia/417-5739-1-pb-660x-ece.jpg" alt="" ></a>    <figcaption><p>Historia M, Bukareszt. Kadr z&nbsp;pracy <em>W tym samym mieście, pod&nbsp;tym samym niebem…</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>AK</b>: <em>W tym samym mieście, pod&nbsp;tym samym niebem</em> to projekt wieloletni i&nbsp;wieloetapowy. Obecnie to instalacja składająca się z&nbsp;trzydziestu pięciu wideo, które powstawały w&nbsp;Sztokholmie, Białymstoku, Bukareszcie, Stambule i&nbsp;Nantes. Bohaterek poszukiwałam w&nbsp;gettach dla uchodźców w&nbsp;pobliżu tych miast. To kobiety, które doświadczyły najbardziej dramatycznych wydarzeń, takich jak wojny, prześladowania na&nbsp;tle rasowym i&nbsp;płciowym między innymi w&nbsp;takich miejscach jak Czeczenia, Inguszetia, Afganistan, Irak, Syria, Somalia, Kongo, Nigeria, Kamerun. Tak więc rozmawiałam z&nbsp;tymi kobietami, niektóre z&nbsp;nich filmowałam na&nbsp;wideo, szczególnie na&nbsp;początku, potem w&nbsp;Turcji, Rumunii i&nbsp;Francji, już nie. Zawsze mam ze sobą kamerę, z&nbsp;nią się pewniej czuję, ale później używałam jej już tylko do rejestrowania dźwięku. W&nbsp;Szwecji zaczęłam od nagrywania obrazu, kobiety siedziały tyłem do kamery. Dość szybko jednak zdałam sobie sprawę, że&nbsp;jest to zbyt… bolesne dla mnie. Ja siedziałam za&nbsp;nimi, one zwrócone przodem do okna, ten dyskomfort okazał się nie do zniesienia. Potem obsesyjnie szukałam sposobu na&nbsp;czyste i&nbsp;bardzo klarowne przesunięcie ich z&nbsp;tych obszarów wykluczenia. To była długa praca, choć wygląda to bardzo prosto. Dopiero w&nbsp;samolocie ze Sztokholmu do Berlina, obserwując obcych ludzi, zdałam sobie sprawę, czym jest „różnica”, czym jest „różnica” pomiędzy widzianymi światami i&nbsp;wiedzeniem świata.</p> <p><b>KB</b>: Jak szukałaś tych „drugich” kobiet?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/choreografia/417-5737-1-pb-1920x-7f6.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/choreografia/417-5737-1-pb-330x-7ca.jpg 330w,assets/cache/images/issues/2016/14/choreografia/417-5737-1-pb-660x-6fa.jpg 660w,assets/cache/images/issues/2016/14/choreografia/417-5737-1-pb-768x-07c.jpg 768w,assets/cache/images/issues/2016/14/choreografia/417-5737-1-pb-1320x-c3c.jpg 1320w" src="assets/cache/images/issues/2016/14/choreografia/417-5737-1-pb-660x-6fa.jpg" alt="" ></a>    <figcaption><p><em>W tym samym mieście, pod&nbsp;tym samym niebem…</em>, CSW Zamek Ujazdowski, Warszawa. Zdjęcie Bartosz Górka</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>AK</b>: Szukałam przede wszystkim kobiet w&nbsp;tym samym wieku, co uchodźczynie. To był dla mnie istotny punkt łączący. Umieszczałam ogłoszenia w&nbsp;gazecie, na&nbsp;portalach społecznościowych, dostawałam też namiary od innych, kontaktowałam się z&nbsp;nimi i&nbsp;opowiadałam im z&nbsp;jednej strony o&nbsp;moim projekcie, z&nbsp;drugiej o&nbsp;tych historiach i&nbsp;o konkretnej „historii”, którą ta kobieta mogłaby dostać. Po&nbsp;pewnym czasie zaskoczyło mnie, że&nbsp;większość kobiet doskonale pasuje do tych historii. W&nbsp;ich zachowaniu, wrażliwości, aparycji, sama nie wiem, było coś takiego, co zaczynało je łączyć. Dawałam im czas na&nbsp;zastanowienie się, czy są gotowe wziąć udział, czy zgodzą się na&nbsp;filmowanie w&nbsp;ich domach – bo&nbsp;to wszystko są prywatne mieszkania, przestrzenie, do których zdecydowały się wpuścić mnie z&nbsp;kamerą i&nbsp;symbolicznie tamte, obce kobiety z&nbsp;ich historiami. Wszystkie te kobiety były niezwykle gościnne. To są oczywiście rzeczy, których nie widać, ale składają się na&nbsp;to przedsięwzięcie. Z&nbsp;niektórymi ze swoich bohaterek wciąż jestem w&nbsp;kontakcie.</p> <p><b>KB</b>: Przejmująca jest tu przede wszystkim struktura zapośredniczenia tych historii: ten niesamowity łańcuch przekazu. Można to także nazwać strukturą gościnności, o&nbsp;której wspomniałaś – dosłownej i&nbsp;symbolicznej. Ogromne znaczenie ma tu sceneria różnych domów i&nbsp;problem wydomowienia, który tak boleśnie wiąże się z&nbsp;uchodźstwem. Dom to przede wszystkim przestrzeń kobiet.</p> <p><b>AK</b>: Masz rację, przestrzeń domu to także przestrzeń rodziny, trwania, pokoleń, pielęgnowania tradycji, bezpieczeństwa etc. Kiedy tracisz kraj, dom staje się twoją ojczyzną, umożliwia zadomowienie, ale nosi też ślady wydomowienia.</p> <p><b>KB</b>: <em>W tym samym mieście…</em> operuje bardzo silnie rozpoznawalnymi figurami retorycznymi i&nbsp;strukturami narracyjnymi, powracającymi motywami i&nbsp;wreszcie efektem obcości, wynikającym z&nbsp;podmiany bohaterek. Z&nbsp;jednej bowiem strony mamy tu do czynienia z&nbsp;jakąś wspólnotą doświadczeń – przerażającą skądinąd – z&nbsp;drugiej zaś z&nbsp;oswojeniem grozy i&nbsp;tego rodzaju świadectw, które nas tak bardzo nie poruszają, czy też nie poruszają od razu. Mówiąc nieco górnolotnie, ta struktura poruszenia, dynamika empatii jest dużo bardziej złożona. Ta praca niesamowicie wręcz rozbraja ramy humanitaryzmu czy tak zwanego ludzkiego współczucia, do których jesteśmy przyzwyczajeni.</p> <p><b>AK</b>: Tak, ale też uświadamia, że&nbsp;bez tych ram nie mielibyśmy nawet od czego zacząć. Te bardzo minimalistyczne, acz rozpoznawalne figury, obsesyjne repetycje, które z&nbsp;jednej strony są przekroczeniem, z&nbsp;drugiej zaś odrzuceniem, były istotne do wizualnego wyartykułowania współczesnych okropności. Pokazania zgrozy, wobec której jako ludzie nie możemy być obojętni. Brzmi również górnolotnie, ale jestem przekonana, że&nbsp;w&nbsp;tym przesunięciu skupia się sens i&nbsp;siła tej pracy.</p> <p><b>KB</b>: Wygląda to jednak trochę tak, jakby wszystkie te gesty, czerpane ze wspólnego repozytorium, były gotowe, a&nbsp;przez to nieautentyczne, wyreżyserowane, więc w&nbsp;jakimś sensie sztuczne.</p> <p><b>AK</b>: Sztuka znaczy sztuczność. Ona jest tu płaszczyzną ochronną dla wszystkich kobiet, jedynie nie dla odbiorców. W&nbsp;pracy nad projektem <em>W tym samym mieście…</em> było wiele spontaniczności i&nbsp;szczerego emocjonalnego udziału czy wręcz zaangażowania, na&nbsp;każdym etapie. Szczególnie właśnie na&nbsp;tym etapie pośrednim, kiedy kobiety, które zaakceptowały wejście w&nbsp;postać uchodźczyń czy też zdecydowały się udzielić im głosu (przepuścić je przez własne ciało: jego obraz i&nbsp;dźwięk), bardzo się angażowały. To jednak obszar poza sztuką, to część już mojej historii.</p> <p><b>KB</b>: Czy one uczyły się tych świadectw-narracji na&nbsp;pamięć? Musiały się nauczyć?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/choreografia/417-5735-1-pb-1920x-e58.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/choreografia/417-5735-1-pb-330x-397.jpg 330w,assets/cache/images/issues/2016/14/choreografia/417-5735-1-pb-660x-f8c.jpg 660w,assets/cache/images/issues/2016/14/choreografia/417-5735-1-pb-768x-db9.jpg 768w,assets/cache/images/issues/2016/14/choreografia/417-5735-1-pb-1320x-a18.jpg 1320w" src="assets/cache/images/issues/2016/14/choreografia/417-5735-1-pb-660x-f8c.jpg" alt="" ></a>    <figcaption><p>Historia G, Istambuł. Kadr z&nbsp;pracy <em>W tym samym mieście, pod&nbsp;tym samym niebem…</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>AK</b>: Niektóre się uczyły, inne nie. Istniała możliwość, żeby podczas nagrywania czytały z&nbsp;ekranu mojego komputera. Wszystkie miały dużo czasu, żeby zbliżyć się do tych historii. To jest skomplikowane, bo&nbsp;wydaje mi się, że&nbsp;gdybym chciała, żeby wszystkie te teksty zostały wypowiedziane z&nbsp;pamięci, musiałabym zatrudnić aktorki. Żadna osoba bez profesjonalnego warsztatu nie zgodziłaby się na&nbsp;udział w&nbsp;takim projekcie. Mam poczucie, że&nbsp;byłby to inny projekt. Ja miałam teksty, żeby dać im pewności siebie i&nbsp;swobodę emocjonalnego zachowania oraz zapewnienie, że&nbsp;nic nie zostanie pominięte. Wszystkie potknięcia, niedoskonałości są częścią ich osobowości. Te kobiety miały dość dużo czasu sam na&nbsp;sam z&nbsp;tekstem. Wiem, że&nbsp;szukały sposobu, jak go powiedzieć. Próbowały się odnaleźć w&nbsp;słowie i&nbsp;w historii. Oczywiście zawsze jest wiele miejsc czy punktów, w&nbsp;których człowiek odnajduje się w&nbsp;historii czy losie innego. Wiele miejsc będzie też obcych, będzie budziło opór, jak na&nbsp;przykład wypowiedzenie głośno, że&nbsp;talibowie zabili ci dziecko. Kobieta, która miała córkę w&nbsp;tym samym wieku, nie była w&nbsp;stanie tego powiedzieć. Tu chodziło o&nbsp;coś więcej niż granice wczucia, mam wrażenie. Tak więc to, że&nbsp;mogły mieć przed oczami tekst, było również rodzajem dystansowania z&nbsp;jednej strony, z&nbsp;drugiej zaś dawało poczucie pewności, że&nbsp;niczego nie zapomną, nie uchybią, że&nbsp;będą mogły się oddać swoim emocjom, że&nbsp;będą mogły być tymi, którymi naprawdę są i&nbsp;tymi, którymi naprawdę chcą być (w tym kontekście, ale też przed kamerą).</p> <p><b>KB</b>: W&nbsp;przypadku niektórych z&nbsp;nich to rzeczywiście widać. Bardzo ostrożnie rzecz jasna, ale można chyba powiedzieć, że&nbsp;w&nbsp;tych historiach przeświecają ich własne historie, ich własne, kobiece doświadczenia. Dotykamy tu sedna empatii: to mogłabym być ja, ale to nie byłam / nie jestem ja. Historią Innej mogę się jedynie zaopiekować, mogę ją przekazać, nie powinnam jej przywłaszczać.</p> <p><b>AK</b>: Tak właśnie było. Myślę, że&nbsp;w&nbsp;jakimś bardzo głębokim sensie, każda z&nbsp;nich opowiadała swoją historię. W&nbsp;niektórych momentach dochodziło do sytuacji kryzysowych, załamania, trudnego do opanowania naddatku emocji. Jest to przecież także historia o&nbsp;wykluczeniu, niezrozumieniu, samotności, opuszczeniu…</p> <p><b>KB</b>: W&nbsp;historii. Czyż to nie esencja doświadczenia historycznego kobiet? Być może te momenty kryzysowe wiązały się też z&nbsp;rozpoznaniem, że&nbsp;nie ma dla ciebie jako kobiety miejsca w&nbsp;historii, że&nbsp;nie masz głosu, albo że&nbsp;o&nbsp;twoim losie opowiada zawsze ktoś inny, że&nbsp;sama siebie nie reprezentujesz, nie decydujesz o&nbsp;formie narracji o&nbsp;swojej przeszłości, o&nbsp;jej obrazie. To oczywiście hiperbola, ale ma ona pomóc dotknąć czegoś bardzo istotnego. Dla mnie, ale myślę, że&nbsp;dla wielu z&nbsp;nas.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/choreografia/417-5733-1-pb-1920x-1b2.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2016/14/choreografia/417-5733-1-pb-330x-bf0.jpg 330w,assets/cache/images/issues/2016/14/choreografia/417-5733-1-pb-660x-665.jpg 660w,assets/cache/images/issues/2016/14/choreografia/417-5733-1-pb-768x-092.jpg 768w,assets/cache/images/issues/2016/14/choreografia/417-5733-1-pb-1320x-75f.jpg 1320w" src="assets/cache/images/issues/2016/14/choreografia/417-5733-1-pb-660x-665.jpg" alt="" ></a>    <figcaption><p><em>W tym samym mieście, pod&nbsp;tym samym niebem…</em>, MNAC, Bukareszt. Zdjęcie Larisa Sitar</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>AK</b>: W&nbsp;pracy <em>W tym samym mieście…</em> wszystkie kobiety reprezentują ogromną jednostkową i&nbsp;kolektywną siłę. Jednocześnie konfrontacja tych różnych historii czy też historii różnego rodzaju traum, wykluczeń czy samotności pozwala zobaczyć, a&nbsp;może przede wszystkim odczuć różnicę i&nbsp;wagę różnicowania. Jedna samotność nie równa się drugiej, analogia nie oznacza tożsamości. Co robić z&nbsp;tą różnicą? <em>W tym samym mieście…</em> to opowieść o&nbsp;obcości i&nbsp;radzeniu sobie z&nbsp;obcością, swoją obcością i&nbsp;obcością Innego / Innej. Pracując nad tym projektem, dużo myślałam o&nbsp;sobie. To pewnie nieuniknione. O&nbsp;tym dobrze znanym byciu poza i&nbsp;radzeniu sobie z&nbsp;wykluczeniem, poszukiwaniu głosu. Bardzo intensywnie myślałam też przy tej okazji o&nbsp;historii mojej matki, która teraz traci pamięć. Nie jest już w&nbsp;zasadzie w&nbsp;stanie mówić. Jej historia to historia repatriantki, osoby, która spod Lwowa musiała przenieść się do Dobrodzienia (Guttentag), poniemieckiego miasteczka na&nbsp;Górnym Śląsku, przed wojną zamieszkanego przez stosunkowo dużą społeczność żydowską, która została w&nbsp;większości zgładzona w&nbsp;obozach. Po&nbsp;wojnie to odzyskane miasteczko zamieszkali głównie ludzie ze Wschodu i&nbsp;mniejszość niemiecka, ludność lokalna tych ziem. Teraz to wszystko, choć niewidzialne, oczywiście jest, tkwi w&nbsp;przestrzeni, w&nbsp;ludziach. To mi uświadamia, jak istotne jest przekazywanie historii, tworzenie i&nbsp;przekazywanie własnych wersji, tworzenie tych trajektorii dziedziczenia, zapisów. Jest w&nbsp;tym tyle powtarzalności. To mnie przeraża i&nbsp;fascynuje jednocześnie. Mam wrażenie, że&nbsp;powraca to w&nbsp;moich pracach, w&nbsp;różnych formach już od dłuższego czasu. Powtarzalność i&nbsp;podwojenie były tematem <em>Toys, Przeźroczystości</em>, a&nbsp;w pracy <em>W tym samym mieście…</em> osiągnęły swoiste apogeum. Ostatecznie więc, jak sama powiedziałaś, ta praca najwięcej mówi o&nbsp;nas samych, oglądających. Jeśli rzeczywiście tak jest, oznacza to, że&nbsp;te subtelne przesunięcia się powiodły.</p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2016/uchodzcy-obrazy-migracji-pamiec-w-ruchu/choreografia-dyskretnych-przesuniec" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

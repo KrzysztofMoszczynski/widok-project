@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>A Creeping Disaster | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/a-creeping-disaster">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="A Creeping Disaster | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="A Creeping Disaster | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/a-creeping-disaster">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="A Creeping Disaster | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #47495b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #47495b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #47495b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #47495b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #47495b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #47495b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+			/* background-color:#47495b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(71,73,91,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#47495b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#47495b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#47495b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#47495b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#47495b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1811 parent-id-1746">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1745" data-selected-issue-color="#47495b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/22-zobaczyc-antropocen/pelzajaca-katastrofa">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/22-zobaczyc-antropocen/pelzajaca-katastrofa">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/22-how-to-see-the-antropocene#toc">22</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/22-how-to-see-the-antropocene/a-creeping-disaster?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>A Creeping Disaster</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/22-how-to-see-the-antropocene/a-creeping-disaster?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=1810">Joanna B. Bednarek </a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Jan Szelągiewicz 
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p></p> <blockquote>Shut down&nbsp;a&nbsp;coal plant, and you can slow global warming for&nbsp;a&nbsp;day; shut down&nbsp;the relations that&nbsp;made the coal plant, and you can stop it for&nbsp;good.</blockquote> <blockquote>Jason W. Moore, <em>The Rise of Cheap Nature</em><sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup></blockquote> <blockquote></blockquote> <blockquote>Pracownia Miejska [The Urban Lab] outlined four possible future development scenarios [for Konin] that&nbsp;could unfold over&nbsp;the next thirty-five years. […] The first and most optimistic one bore the title “A City in Bloom.” […] The word “mine” does not appear in the text even once.</blockquote> <blockquote>Filip Springer, <em>Miasto Archipelag </em>[Archipelago of Cities]</blockquote> <p><br><br>Cute little jars, with&nbsp;minimalist labels (which we’ll look at a&nbsp;little closer in a&nbsp;moment) and <em>de rigeur</em> handmade stickers, stand in a&nbsp;neat row. Bottles and glasses are right next to them –&nbsp;so you can have a&nbsp;sip on the spot. Beside&nbsp;the glassware you’ll find twigs of sea buckthorn –&nbsp;the shrub whose berries were used to make the goods crowding the stall. All of this&nbsp;is laid out on a&nbsp;makeshift table made from&nbsp;upended fruit crates (but never used to hold sea buckthorn berries, as they’re too small) stacked on old wooden pallets. The whole thing looks slightly hipsterish, but&nbsp;fully in line with&nbsp;the latest design trends and principles of ecobranding.</p> <p></p> <p><a href="#sdfootnote1anc" name="sdfootnote1sym"></a></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/lelonek/rokitnik_002-1920x-2fb.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/lelonek/rokitnik_002-330x-d99.jpg 330w,assets/cache/images/issues/2018/22/lelonek/rokitnik_002-660x-256.jpg 660w,assets/cache/images/issues/2018/22/lelonek/rokitnik_002-768x-528.jpg 768w,assets/cache/images/issues/2018/22/lelonek/rokitnik_002-1320x-46b.jpg 1320w" src="assets/cache/images/issues/2018/22/lelonek/rokitnik_002-660x-256.jpg" alt="" ></a>    <figcaption><p>Diana Lelonek, <em>Buckthorn Slag Heap</em>, 2018-ongoing. </p></figcaption>   </figure>  </section><section class="u-typo">   <p>Sea buckthorn is the latest superfood –&nbsp;the most recent addition to the illustrious list that&nbsp;has, at one point or another, featured such delights as avocado, chia seeds, and açaí berries. Its restorative properties have been widely known in folk healing practices, but&nbsp;are now being rediscovered by modern medicine. Rich in antioxidants and antitumor compounds, sea buckthorn juice allegedly improves the strength of the heart muscle and blood flow to it, prevents plaque buildup in the cardiovascular system, enhances the immune system, and has antibacterial and antiviral properties.</p> <p>Drinking this&nbsp;particular concoction, however –&nbsp;slapped with&nbsp;a&nbsp;label spelling out its juxtapositional name, “Buckthorn Slag Heap” –&nbsp;won’t make you feel that&nbsp;well. The first jarring note appears upon&nbsp;closer inspection of the label –&nbsp;rather than&nbsp;berry-laden shrubbery, it features a&nbsp;post-industrial landscape, the picture dominated by an unidentified heavy machine. The harshly geometric logotype implies some sort of circular saw blade, or a&nbsp;ratchet-like mechanism, rather than&nbsp;the disk of the sun.</p> <p>Despite no changes to the health-promoting characteristics of the juice, our wellbeing might have taken a&nbsp;slight hit on account of the fact that&nbsp;the berries used in its manufacture were picked on the grounds of a&nbsp;former coal mine. They are, beyond&nbsp;doubt, the products of disaster.</p> <h2>The local history of mining</h2> <p>This catastrophe unfolds within&nbsp;a&nbsp;specific sliver of space: the eastern part of Greater Poland, near&nbsp;Konin. Diana Lelonek’s <em>Buckthorn Slag Heap</em> contains within&nbsp;itself a&nbsp;nexus of broader problems, and the activity of a&nbsp;nearby lignite strip mine is central to gradually unpacking them. Where, in his book <em>Extracted: How the Quest for&nbsp;Mineral Wealth Is Plundering the Planet</em>,<em> </em>Ugo Bardi argues that&nbsp;the history of human civilization is essentially the saga of mining,<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup> Lelonek transposes Bardi’s assertion from&nbsp;a&nbsp;global into&nbsp;a&nbsp;local context –&nbsp;portraying the complicated fortunes of the Konin area as being primarily underpinned by its history as a&nbsp;mining industry center.</p> <p>Rich lignite deposits were discovered and comprehensively documented in the area during&nbsp;the inter-war period. During&nbsp;World War II, Nazi Germany was primed to exploit the deposits, going so far as to call up ranks of strip mining experts and prefabricate the necessary infrastructure. The first open-pit mine, however, was set up in 1945, after&nbsp;the war had ended, and was intended to cover local demand; new facilities soon followed, and additional installations are still being opened today. In 1955, the mining operation was officially renamed Konin Lignite Mines, and was soon augmented by the construction of the first lignite power stations. In time, the mineworks grew to swallow up a&nbsp;couple of townships and a&nbsp;dozen municipalities, eventually gaining enough momentum to dictate the pace and direction of the economic development of the entire region.</p> <p>Each mine exists on a&nbsp;number of separate planes: aside from&nbsp;performing essential extractive operations and serving as a&nbsp;workplace, it also shapes its surrounding natural (strip mines, working pits, slag heaps, spoil tips) and infrastructural environments, and eventually establishes its own social institutions, cultural sphere, and source of local traditions. After&nbsp;the deposit is depleted, the mine leaves behind&nbsp;material and immaterial space that&nbsp;needs to be processed, handled in some way. This&nbsp;seems much easier to do (although this&nbsp;may only be so at first glance<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>) with&nbsp;coal mines. One popular trend –&nbsp;particularly prevalent in Silesia –&nbsp;involves redeveloping attractive industrial real estate, left over&nbsp;from closed underground mining facilities, into&nbsp;the seats of social and cultural institutions, charged with&nbsp;educational efforts, cultivating miners’ heritage (traditions and customs), and local community activation programs.<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> In light of the currency of similar initiatives, Marcin Wądołowski concluded that&nbsp;“deposit depletion does not spell the ‘death’ of a&nbsp;mine, but&nbsp;rather begins its ‘second life’.”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> Diana Lelonek takes the idea and turns it inside&nbsp;out: the gaping maws of strip mines, never appealing enough to be given the opportunity to serve in a&nbsp;culture-forming capacity, become for&nbsp;the artist a&nbsp;space in which to problematize the notion of (a second) life.</p> <h2>Under/above ground</h2> <p>Diana Lelonek studies the impact of the strip mine on the local ecosystem, topography, and community: “Over the course of my visits, I&nbsp;came to realize the extent of the influence that&nbsp;strip mining has –&nbsp;not just on the environment, but&nbsp;the people too. A&nbsp;mining conglomerate can not only sap lakes and forests dry, it is capable of rearranging the structure of local society.”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> Environmental and social disasters are inextricably linked. Strip mining is one of the most radical forms of exploiting the landscape,<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup> as the extraction protocol calls for&nbsp;“stripping” it of everything that&nbsp;sits atop the desired resources. Thus, tapping a&nbsp;deposit usually requires the resettlement of the population inhabiting the land intended for&nbsp;stripping, and the razing of all infrastructure that&nbsp;covers it, be it buildings or roads. It also means a&nbsp;violent intrusion into&nbsp;the natural environment: woods and orchards are felled, meadows and farmland are bulldozed, and the topsoil is trucked out elsewhere. As noted by Marcin Popkiewicz, “extracting a&nbsp;million tons of lignite means transforming around&nbsp;seven hectares of land beyond&nbsp;recognition, and the lower the thickness of the deposit, the greater the area that&nbsp;needs to be stripped.”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup></p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/lelonek/rokitnik_001-1920x-2fb.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/lelonek/rokitnik_001-330x-d99.jpg 330w,assets/cache/images/issues/2018/22/lelonek/rokitnik_001-660x-256.jpg 660w,assets/cache/images/issues/2018/22/lelonek/rokitnik_001-768x-528.jpg 768w,assets/cache/images/issues/2018/22/lelonek/rokitnik_001-1320x-46b.jpg 1320w" src="assets/cache/images/issues/2018/22/lelonek/rokitnik_001-660x-256.jpg" alt="" ></a>    <figcaption><p>Diana Lelonek, <em>Buckthorn Slag Heap</em>, 2018-ongoing.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>As a&nbsp;result, the environment ends up profoundly transformed, with&nbsp;sweeping changes to the morphology of the terrain and groundwater conditions, as well as significant reduction in vegetation cover and animal diversity. Diana Lelonek explains that&nbsp;“the essence of the problem is […] that&nbsp;for the extraction to proceed, the groundwater must be pumped out. This&nbsp;leads to a&nbsp;phenomenon known as the ‘cone of depression’ –&nbsp;drawing in the water from&nbsp;the surrounding aquifer, drying out nearby land in the process.”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> These changes in water table dynamics have been driving the gradual desertification and steppification of eastern Greater Poland,<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup> and underpin the unnatural aquifer dynamics, with&nbsp;natural lakes drying out and mining pits filling up to become artificial reservoirs. It is no surprise, therefore, that&nbsp;in his <em>Miasto Archipelag</em>, Filip Springer compares the topography of the Konin region to a&nbsp;constellation of extant, vanished lakes:</p> <blockquote>Everything ends abruptly with&nbsp;a&nbsp;shopping mall and a&nbsp;lake. The latter is a&nbsp;former open pit, one of the first to be mined in the area, filled in with&nbsp;water since. There are a&nbsp;lot of places like&nbsp;this here. The farther north we go, the more reservoirs we come across. The lakes, like&nbsp;beads on a&nbsp;string, mark the path the prospectors followed in search of coal. […] the traces of those successfully excavated pockmark the landscape to this&nbsp;day. […] A&nbsp;dozen kilometers north of here begins the land of drying lakes. […] Within&nbsp;barely ten years of monitoring (2000-2010), environmentalists recorded the disappearance of 2,000 waterholes and lakes in the region. […] The lakeland north of Konin has been dying at an astonishing rate.<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup></blockquote> <p>A strip mine, therefore, is a&nbsp;creeping disaster, constantly devouring new land. Diana Lelonek firmly emphasizes that&nbsp;“a mine doesn’t just interfere with&nbsp;the ecosystem ‘for a&nbsp;brief moment,’ and then everything snaps back to the way it was before.” Strip mining degrades the terrain –&nbsp;further land use is impossible without&nbsp;properly preparing it first. Consequently, “after deposit exploitation is over, a&nbsp;recultivation package must be implemented to bring back the land to the state it was in before&nbsp;mining operations began, both in terms of the environment and general land usability.”<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup> Mining companies have been legally obligated to pursue land rehabilitation efforts since&nbsp;the 1960s, when the first land protection regulations were signed into&nbsp;law. The PR reps for&nbsp;PAK Konin Lignite Mines officially emphasize that&nbsp;the company was the first to embrace the recultivation of former open-pit mines, and today continues its four-directional approach (focusing on farmland remediation, reforestation, groundwater rehabilitation, and land redevelopment for&nbsp;recreation purposes), to “balance out the detriment to the environment its operations have caused, and to drive new, much more appealing uses of former mining areas.”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup> One problem with&nbsp;rehabilitation, therefore, is that&nbsp;it is simultaneously an admission of guilt and an alibi. Another is that&nbsp;the crystal-clear image pushed by company PR is often disputed by experts,<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup> environmental activists, and undermined by the testimony of locals.<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup></p> <p>One rehabilitation avenue practiced by the mining company involves seeding the slag heaps produced in the course of coal extraction with&nbsp;sea buckthorn shrubs.</p> <h2>Post-disaster landscape</h2> <p>Because the soil on the slag heaps lacks the humus layer, it is unable to sustain most vegetation. But&nbsp;sea buckthorn has much lower standards –&nbsp;it’s one of very few plants that&nbsp;can thrive even in arid, barren soil. And because it thrives, it has been mass planted along&nbsp;slag heaps to kick-start their recultivation: it enriches the soil, enabling it to sustain other plant species (which, at least theoretically, are expected to repopulate the barren ecosystem at some point in the future). “In such a&nbsp;context, sea buckthorn becomes a&nbsp;post-apocalyptic species,” Diana Lelonek explains.<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup> Today, buckthorn-covered hills stand where once there were open plains, forests, farmland, lakes, and villages –&nbsp;remnants of the rampant exploitation of the ecosystem; post-glacial lakes disappear from&nbsp;the landscape, farmland is bulldozed into&nbsp;the ground, while the forests are either cut down&nbsp;by loggers or, like&nbsp;riparian forests, have atrophied due to hydrological degradation. The scenery swiftly becomes apocalyptic: erstwhile plainlands are replaced by strange hills, forests by steppe, and lakes by tracts of deserted (and desertified) land. Here and there, standing seemingly in the middle of empty fields, we come across&nbsp;rickety wooden piers and signs forbidding swimming. A&nbsp;similar post-apocalyptic impression pervades Filip Springer’s writing: “The land of drying lakes. Jetties sitting abandoned in the reeds, beaches dozens of meters wide, marshes and bogs, empty hulks of former resorts.”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup> Documenting the transformation of the post-mining landscape using photography and footage, Lelonek invokes many well-established disaster tropes. It is no surprise that&nbsp;we associate barren, desert landscapes and endless steppes with&nbsp;post-apocalyptic spaces –&nbsp;these connotations were cemented by popular culture as it drew a&nbsp;line between&nbsp;nuclear detonations in the desert wastelands and the vision of impending doom. Thus, the nuclear programs embraced by world superpowers reshaped not only earthly landscapes, but&nbsp;their cultural representations as well.<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup> Since&nbsp;the mid-20th century, the desert has served as one of the most potent screens onto&nbsp;which humanity projects its collective fears of disaster and apocalypse.</p> <p>The visual center of Diana Lelonek’s project is occupied not by the buckthorn plant or the products it gives rise to, but&nbsp;by the landscape and its metamorphoses. Such a&nbsp;distribution of emphasis does not seem a&nbsp;particularly bad choice –&nbsp;Richard T. T. Forman and Michael Godron, the authors of <em>Landscape Ecology</em>, recognized landscape as “a central focus in many disciplines, from&nbsp;forestry to wildlife management, from&nbsp;geography to planning and art.”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup> They argued that&nbsp;landscape ecology demonstrated how closely linked human interventions into&nbsp;the natural environment are, and how long-lasting their consequences might be: “An action here and now produces an effect there and then.”<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup> Thus, the two American scholars tied the metamorphoses of the landscape to the notion of the Anthropocene over&nbsp;a&nbsp;decade before&nbsp;Paul J. Crutzen first suggested the term.</p> <h2>The artist in the Anthropocene</h2> <p>Commentary on Diana Lelonek’s works –&nbsp;<em>Buckthorn </em><em>Slag Heap</em> and her earlier <em>Center for&nbsp;Living</em> <em>Things</em> [<em>Instytut dla Żywych Rzeczy</em>]<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup> –&nbsp;usually veers towards&nbsp;discussing their particular focus on nature in the Anthropocene. The artist interrogates issues such as overproduction, environmental degradation, climate change, and ecosystem shifts. The Anthropocene is the proposed name for&nbsp;a&nbsp;geological epoch characterized by the widespread impact of mankind on the ecosystem. However, in her book <em>Epoka człowieka. Retoryka i&nbsp;marazm antropocenu</em>, the philosopher Ewa Bińczyk argues that&nbsp;“the ‘Anthropocene’ label is not just the name of a&nbsp;new epoch, but&nbsp;also a&nbsp;metaphor for&nbsp;the planetary climate and ecological crisis.”<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup> The concept organizes much of the contemporary imagination, mobilizes to action (or, conversely, acts as a&nbsp;demobilizing agent), crafts its own discourse, and shapes the narrative about&nbsp;global environmental change, particularly in terms of climate. Leo Elshof argues that&nbsp;climate change is “simply one more example of planetary collateral damage, albeit the most destructive to date, of the ‘engineering ethos of “victory over&nbsp;nature” at all costs.’”<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup> Bińczyk also notes that&nbsp;“climate change is currently one of the most comprehensively documented phenomena in the history of science,”<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup> and continues to stand as one of the greatest, multidimensional (political, economic, existential) challenges of the Anthropocene. However, if the debate on decarbonizing economies around&nbsp;the globe is dominated by climate change alone, then, according to Ugo Bardi, many other, similarly profound consequences, will simply be drowned out. Bardi then points out that&nbsp;all resource extraction necessarily entails some sort of environmental devastation:</p> <blockquote>Even the term “climate change” is only partially true, in the sense that&nbsp;it does not fully include effects such as sea level rise and ocean acidification, as well as reduction in biodiversity. A&nbsp;better term would be “ecosystem disruption” or even “ecosystem destruction.” Either term would better convey the combined effects of the avalanche of pollutants that&nbsp;are accumulating not just in the Earth’s atmosphere, but&nbsp;also in the geosphere and hydrosphere.<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup></blockquote> <p>Talking about&nbsp;shifting and ruined ecosystems also redirects thinking from&nbsp;(abstract) global concepts to more localized nexuses of multiple interlocking contexts –&nbsp;a&nbsp;development that&nbsp;Lelonek considers important.</p> <p>The Anthropocene discourse puts particular emphasis on the problematic character of the very concept of “nature” –&nbsp;there are, after&nbsp;all, many different natures, which sometimes stand in opposition to one another. In the context of <em>Buckthorn Slag Heap</em>, this&nbsp;problematic character becomes highly significant. Working on <em>Center for&nbsp;Living Things</em>, Diana Lelonek went as far as to suggest opening “post-nature” sections in botanical gardens. This&nbsp;concept echoes in <em>Buckthorn </em><em>Slag Heap</em> –&nbsp;since&nbsp;botanical gardens are designed to “showcase the species populating different geographical zones” (which in itself problematizes their “naturalness”), and thus create a&nbsp;panorama of earthly flora, then “why don’t they feature any ruderal species or a&nbsp;post-nature section, with&nbsp;its own post-industrial slag heap?”<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup> The artist argues that&nbsp;most of the nature that&nbsp;surrounds us could be classified as post-nature. A&nbsp;similar sentiment has been expressed by Sverre Raffnsøe, who argues that&nbsp;we’re already living in the post-natural era –&nbsp;on account of mankind’s hyperagency and its broad impact on all the processes we consider natural, we should already be talking about&nbsp;post-nature or post-natural history.<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup></p> <p>In her project, Diana Lelonek problematizes not just nature in the Anthropocene, but&nbsp;the situation of the artist in the epoch as well. Artistic endeavors are increasingly accompanied by the belief in “the necessity to devise new instruments of the performative interpretation of the world.”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup> This&nbsp;manifests itself not just in interventionary pieces illustrating the breadth of global and local environmental issues, but&nbsp;also in the ambition to transform the system and the entanglements of institutions, as well as in postulates calling for&nbsp;closer collaboration between&nbsp;art, politics, and ecology (suggested by Bruno Latour, among&nbsp;others). These issues were explored by Aleksandra Jach, Piotr Juskowiak, and Agnieszka Kowalczyk for&nbsp;the <em>Urban Ecologies</em> program organized by the Museum of Art in Łódź:</p> <blockquote>Our attempts at defining the role of art in the Anthropocene should not necessarily involve creating a&nbsp;whole new realm of ecological art, which would creatively tackle environmental issues, but&nbsp;should focus instead on an ecology of art, wherein ecology becomes a&nbsp;paradigm transforming not merely the content of artworks, but&nbsp;their very functioning and the way they interact with&nbsp;other elements of the environment.<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup></blockquote> <p>Lelonek also admits that&nbsp;the world of art is set for&nbsp;an environmental turn, and that&nbsp;“it should be the responsibility of artists to suggest a&nbsp;new vision for&nbsp;the world.”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup> Her own tactics involve seeking solutions through&nbsp;scale: transposing global phenomena and systemic environmental problems into&nbsp;local contexts. The value in such a&nbsp;feedback loop has already been pointed out by Jill Bennett: “Art practices may derive meaning from&nbsp;local contexts as well as from&nbsp;shared international ones.”<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup> Bennett also suggested a&nbsp;rethinking of ecological aesthetics to trigger a&nbsp;transdisciplinary revolution:</p> <blockquote>Ecological thought is changing the way in which our practices might operate in the future. Thinking ecologically means attuning, perceiving and doing what we know how to do differently, in different spaces, dimensions, relationships. This&nbsp;is what it is to be in the midst of a&nbsp;paradigm shift, to be actively living in the Anthropocene.<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup></blockquote> <p>This project, involving active living in the Anthropocene, can be considered a&nbsp;counterweight to the torpor described by Ewa Bińczyk. If the ecological method were inscribed into&nbsp;the paradigm of art at the structural level, then it would be impossible to reduce ecology, climate change, and ecosystem issues to mere discussion topics or measures, as a&nbsp;topical approach could never guarantee either aesthetic innovation or efficiency in intervention. The active living approach, on the other hand, would define the environment as an incessant experimental project, one that&nbsp;sees the entire earthly ecosystem as public art’s broadened field of action.</p> <h2>Alongside the community</h2> <p>The paradox of the Anthropocene is that&nbsp;mankind is considered to be the all-powerful driving force behind&nbsp;it, yet most people will ultimately fall prey to its depredations. This&nbsp;contradiction is particularly pronounced in the context of climate change –&nbsp;mining and petroleum companies have historically been the biggest offenders while still retaining considerable influence over&nbsp;the fate of humanity, a&nbsp;fact that&nbsp;should compel us to take a&nbsp;closer look at the power relationships in play. This&nbsp;is one reason for&nbsp;Jason W. Moore’s critique of the term “Anthropocene,” and his suggestion to replace it with&nbsp;“Capitalocene.”<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup> This&nbsp;notion considers capitalism, defined here as a&nbsp;specific way of organizing nature, to be the key influence on the ecosystem. Diana Lelonek’s project, therefore, is much closer to the framework of the Capitalocene than&nbsp;the Anthropocene –&nbsp;as it sees the slag heap-dominated landscape as a&nbsp;product of interlocking natural, industrial, and capitalist processes.</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/lelonek/rokitnik_019-1920x-210.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/lelonek/rokitnik_019-330x-378.jpg 330w,assets/cache/images/issues/2018/22/lelonek/rokitnik_019-660x-069.jpg 660w,assets/cache/images/issues/2018/22/lelonek/rokitnik_019-768x-3a4.jpg 768w,assets/cache/images/issues/2018/22/lelonek/rokitnik_019-1320x-91c.jpg 1320w" src="assets/cache/images/issues/2018/22/lelonek/rokitnik_019-660x-069.jpg" alt="" ></a>    <figcaption><p>Diana Lelonek, an abandoned house in Izabelin. From&nbsp;<em>Buckthorn Slag Heap</em>, 2018-ongoing.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Aside from&nbsp;the ecosystem, the Konin strip mines also victimized the local community, the denizens of nearby townships. Designating ever-new sites for&nbsp;exploitation prompted the resettlement of entire villages, which brought about&nbsp;the loss of material property and livelihoods (the displaced were only given compensation), and the rupturing of social ties. Neighborly relations cannot be transplanted or reconstructed. Furthermore, farmers who lost their lands to the strip mines were not the only victims –&nbsp;their fellow smallholders, whose lands neighbored the mining pits, found their harvests shrinking each year due to extensive geological and hydrological degradation.</p> <p><em>Buckthorn Slag Heap </em>is rounded out with&nbsp;additional, non-buckthorn products –&nbsp;jars with&nbsp;peaches and pears from&nbsp;Izabelin in the Kleczew township. Diana Lelonek managed to reach the village, already emptied out, just as it was being prepared for&nbsp;the first phase of stripping. The last fruits picked from&nbsp;the trees left behind&nbsp;are testimony to the despair of the former inhabitants of the village and, at the same time, artifacts included in the archival record documenting the ghost settlements. The labels on the jars feature pictures of abandoned and ruined homes and outbuildings (the photos themselves are also part of the archival record). Lelonek’s archive, meanwhile, is based on snapshots of space recorded in Google Maps: “I began using Google Street View as an archive –&nbsp;it’s the only place where some views are still available. You can drag the little Street View fellow along&nbsp;to a&nbsp;place that’s no longer there. See what the houses looked like. Click on satellite pictures of holes in the ground that&nbsp;still bear the name of a&nbsp;settlement they replaced.”<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup></p> <p>But the archive of disaster can be expanded not just by adding new traces left by ever-more disappeared villages, but&nbsp;by introducing the testimony of their previous residents, since&nbsp;resettled to new homes, into&nbsp;the record. Diana Lelonek admits that&nbsp;she finds their individual fates highly interesting and considers them worthy of retelling. <em>Buckthorn Slag Heap </em>is an ongoing project and far from&nbsp;finished –&nbsp;the artist is already planning upcoming efforts. It seems that&nbsp;one avenue for&nbsp;the project’s development is to include the local community into&nbsp;the effort.<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup></p> <h2>Chances for&nbsp;disaster</h2> <p>Understandably, the locals are unanimously against&nbsp;further mining in the area. But&nbsp;mines aren’t the only object of their scorn –&nbsp;Diana Lelonek says that&nbsp;many of them have a&nbsp;very combative attitude towards… sea buckthorn itself; to them, it stands as a&nbsp;symbol of the disaster that&nbsp;struck their lives. And reshaping this&nbsp;particular imaginary –&nbsp;an initiative that&nbsp;would (at least symbolically) return these lands to their former inhabitants –&nbsp;is one of the tasks the artist decided to take on. Sea buckthorn is a&nbsp;lens that&nbsp;brings local problems into&nbsp;sharp focus, but&nbsp;also serves as a&nbsp;beacon of hope and opportunity. “Why shouldn’t it replace lignite as the symbol of Konin?” Lelonek asks. Drafting a&nbsp;sustainable development strategy for&nbsp;its post-extractive future is one of the region’s greatest challenges.<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup> “In order for&nbsp;the transformation to be successful –&nbsp;meaning fair and offering the locals alternative livelihood options –&nbsp;we can’t simply replace one corporation with&nbsp;another. We need to introduce more of a&nbsp;blend, with&nbsp;smaller initiatives, companies, and cooperatives instead of one monolithic firm.”<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup> This&nbsp;is also where the peculiar nature of sea buckthorn comes into&nbsp;play, which makes it impossible to produce juice (and cosmetics) from&nbsp;its berries on an industrial scale, despite&nbsp;the wide availability of the shrubs themselves. If used for&nbsp;manufacture at all, it can only feed a&nbsp;low-volume output, in stark contrast to the unchecked hegemony of the mining giants. Lelonek attempts to provoke the adoption of sea buckthorn as the seed of a&nbsp;local social economy, which could then offer an alternative to the domination of the Konin mineworks. The artists is fully aware of how utopian such an idea sounds, but&nbsp;does not consider it a&nbsp;drawback <em>per se</em>. If the environmental crisis presents a&nbsp;challenge for&nbsp;our imagination, then we need both “visions that&nbsp;enthrall us with&nbsp;the power of utopian hope, as well as plans commanding respect with&nbsp;their specific solutions.”<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup> The point, after&nbsp;all, isn’t to replace mining operations with&nbsp;a&nbsp;cottage industry built around&nbsp;buckthorn bushes, but&nbsp;instead to use the shrub to illustrate specific systemic issues and the pressing need for&nbsp;transformation.</p> <h2>Postscript</h2> <p>Because the project is still a&nbsp;work in progress, new ideas keep appearing, appropriating ever-new contexts. One involves establishing a&nbsp;designated landscape park for&nbsp;the buckthorn slag heaps. To quote Phil Macnaghten and John Urry, “There is no nature simply waiting to be conserved, but, rather all forms of its conservation entail judgements as to what indeed is nature.”<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup> Thus, the attempt would be doubly subversive –&nbsp;on the one hand, it would strike at the heart of the narrative of protecting wild, primal nature, untouched by mankind and the consequences of its works. Diana Lelonek says: “Globally, these untouched lands, unchanged by human activity, are few and far between, and already under&nbsp;legal protection. The rest of the planet is anthropogenic.”<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup> On the other hand, it would seize the recultivation narrative: although establishing protected nature reserves is one avenue of rehabilitating former mining lands, such reserves are mostly used for&nbsp;recreation and education purposes, rarely used to protect specific areas, and basically never used for&nbsp;the political representation of the ecosystem’s non-human elements and factors. Meanwhile, to paraphrase Bruno Latour, we could argue that&nbsp;employing the rhetoric of protecting unproblematized nature no longer makes any sense. The politics of the Anthropocene must facilitate the development of political representation for&nbsp;non-human factors, the climate, and selected ecosystems or species.</p> <p>This is one of the best possible directions that&nbsp;<em>Buckthorn Slag Heap</em> may take next.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Jason W. Moore, “The Rise of Cheap Nature,” in: <em>Anthropocene or Capitalocene? Nature, History, and the Crisis of Capitalism</em>, ed. Jason W. Moore (Oakland: PM Press/Kairos, 2016), 94.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> See: Ugo Bardi, <em>Extracted: How the Quest for Mineral Wealth Is Plundering the Planet </em>(White River Junction: Chelsea Green Publishing, 2014).</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> The redevelopment efforts described later are generally rather ambivalent. The undeniably positive effects of community engagement projects are consistently undermined by the persistent (because impossible to neutralize with these projects alone) social costs of the mine closures (material and immaterial, including job loss, social standing loss, disintegration of a whole way of life, deterioration of the miners’ identity, collapse of local work ethic, etc.). The ambivalence of these efforts in the cultural sphere in particular calls for further debate (which, unfortunately, lies beyond the scope of this essay); by cultivating regional traditions, they, on the one hand, transform the miners’ experience into the organizing principle of local identities and dignity, while on the other hand cementing the region’s status as (former) mining country and eliminating other potential designations (one example includes the emergence of a new Silesian identity, which sociologists see as positioning itself to replace former professional identities built around mines and ironworks).</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> See: selected essays collected in <em>Nowe życie dziedzictwa przemysłowego – materialne / niematerialne </em>[New Lives of Industrial Heritage - Material/Immaterial], eds. Łukasz <em>Gaweł</em>, Weronika <em>Pokojska</em>, and Agnieszka <em>Pudełko</em> (Kraków: Attyka, 2017).</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Marcin Wądołowski, “Od natury do kultury – kulturotwórcze płaszczyzny działalności kopalni na przykładzie Michałkowic,” [From Nature to Culture - Culture Forming Aspects of Mines in Michałkowice] in <em>Nowe życie dziedzictwa przemysłowego</em>, 269.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> “Rośliny robią swoje. Z Dianą Lelonek rozmawia Anna Cieplak,” [Plants Have Agency. Diana Lelonek in Conversation with Anna Cieplak] <em>Krytyka Polityczna</em>, January 9, 2019, <u><a href="https://krytykapolityczna.pl/kultura/sztuki-wizualne/diana-lelonek-rosliny/">https://krytykapolityczna.pl/kultura/sztuki-wizualne/diana-lelonek-rosliny/</a></u> (accessed May 14, 2019).</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Cf. Wiktoria Sobczyk and Anna Kowalska, <em>Działalność górnicza a środowisko</em> [Mining and the Environment] (Kraków: Wydawnictwa AGH, 2015).</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Marcin Popkiewicz, “Polska bez węgla,” [Poland without Carbon] in <em>Polski węgiel</em>, [Polish Carbon] ed. Michał Sutowski (Warsaw: Wydawnictwo Krytyki Politycznej, 2015), 109-110.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> “Katastrofa klimatyczna to nie sezonowa moda. Z Dianą Lelonek rozmawia Ewa Dyszlewicz,” [Climate Catastrophe Is Not a Fad. Diana Lelonek in Conversation with Eva Dyszlewicz] <em>Magazyn Szum</em>, January 18, 2019, <u><a href="https://magazynszum.pl/katastrofa-klimatyczna-to-nie-sezonowa-moda-rozmowa-z-diana-lelonek/">https://magazynszum.pl/katastrofa-klimatyczna-to-nie-sezonowa-moda-rozmowa-z-diana-lelonek/</a></u> (accessed May 14, 2019).</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> The problem transcends Greater Poland – it’s one of the more serious symptoms of global climate change. The desertification of the planet is so severe that Edward O. Wilson suggested replacing the name “Anthropocene” with “Eremozoic,” the era of deserts. Desertification is also becoming an increasingly serious problem in Poland. See: Marcin Popkiewicz, “Polska się wysusza,” [Poland is Drying Up] <em>Krytyka </em><em>Polityczna</em>, April 26, 2019, <u><a href="https://krytykapolityczna.pl/kraj/burza-piaskowa-nasze-dzielo/">https://krytykapolityczna.pl/kraj/burza-piaskowa-nasze-dzielo/</a></u> (accessed May 14, 2019).</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> See: Filip Springer, <em>Miasto Archipelag. </em><em>Polska mniejszych miast </em>[Archipelago of Cities. Small Towns of Poland] (Krakow: Karakter, 2016).</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Paweł Kasprzyk, “Kierunki rekultywacji w górnictwie odkrywkowym,” [Recultivation Techniques in Opencast Mining] <em>Problemy Ekologii Krajobrazu</em> 24 (2009), 7-15.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> The company alleges to have expert opinion backing this claim. See: “Official website of PAK Konin Lignite Mine,” <u><a href="http://www.kwbkonin.pl/index.php/rekultywacja-terenow-pogorniczych/">www.kwbkonin.pl/index.php/rekultywacja-terenow-pogorniczych/</a></u> (accessed May 14, 2019).</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Cf. Popkiewicz, <em>Polska bez węgla</em>.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> See: Jaś Kapela, “Odkrywki to żaden biznes, tylko zwyczajna katastrofa,” [Opencast Mining is not Business, It's a Catastrophe] <em>Krytyka Polityczna</em>, December 26, 2018, <u><a href="https://krytykapolityczna.pl/kraj/odkrywki-to-zaden-biznes-tylko-zwyczajna-katastrofa/">https://krytykapolityczna.pl/kraj/odkrywki-to-zaden-biznes-tylko-zwyczajna-katastrofa/</a></u> (accessed May 14, 2019).</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> “Katastrofa klimatyczna to nie sezonowa moda.”</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Springer, <em>Miasto Archipelag</em>.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> See: Agnieszka Jelewska, “Radioaktywne pustynie,” [Radioactive Deserts] in <em>Ekotopie. Ekspansja technokultury</em> [Ecotopias. Expansions of Technocultures] (Poznań: Wydawnictwo Naukowe UAM, 2014). Cf. Lech M. Nijakowski, <em>Świat po apokalipsie. Społeczeństwo w świetle postapokaliptycznych tekstów kultury </em>[The World after Apocalypse. Society As Seen Through Postapocalyptics Texts](Warsaw: Wydawnictwo Naukowe Scholar, 2018).</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Richard T. T. Forman and Michael Godron, <em>Landscape Ecology</em> (New York: Wiley, 1986), VII.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Ibid.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> On <em>Center for Living Things</em>, see: Anna Wandzel, “Sztuka roślin,” [Art of Plants] <em>Teksty Drugie </em>2 (2018).</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Ewa Bińczyk, <em>Epoka człowieka. Retoryka i marazm antropocenu</em> [Era of Humans. The Rhetoric and Deadlock of the Anthropocene] (Warsaw: Wydawnictwo Naukowe PWN, 2018).</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Leo Elshof, “Changing Worldviews to Cope with a Changing Climate,” in <em>Climate Change and Philosophy: Transformational Possibilities</em>, ed. Ruth Irwin (London: Continuum, 2010), 91</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Bińczyk, <em>Epoka człowieka</em>.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Bardi, <em>Extracted</em>, 196.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> “Zagłębie rokitnikowe. Z Dianą Lelonek rozmawia Michał Sita,” [Buckthorn Fields. Diana Lelonek in Conversation with Michał Sita] <em>Kultura u Podstaw</em>, January 31, 2019, <u><a href="https://kulturaupodstaw.pl/zaglebie-rokitnikowe-diana-lelonek/">https://kulturaupodstaw.pl/zaglebie-rokitnikowe-diana-lelonek/</a></u> (accessed May 14, 2019).</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Sverre Raffnsøe, <em>Philosophy of the Anthropocene: The Human Turn</em> (Hampshire and New York: Palgrave Macmillan, 2016).</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Aleksandra Jach, Piotr Juskowiak, and Agnieszka Kowalczyk, “Ekologie,” in <em>Ekologie</em>, eds. Aleksandra Jach, Piotr Juskowiak, and Agnieszka Kowalczyk (Łódź: Muzeum Sztuki, 2014).</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Ibid.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> “Katastrofa klimatyczna to nie sezonowa moda.”</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Jill Bennett, <em>Living in the Anthropocene</em> (Ostfildern: Hatje Cantz, 2011).</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Ibid.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> See: Jason W. Moore, <em>Capitalism in the Web of Life</em> (London: Verso, 2015); <em>Anthropocene or Capitalocene? Nature, History, and the Crisis of Capitalism</em>, ed. Jason W. Moore (Oakland: PM Press/Kairos, 2016); Raj Patel and Jason W. Moore, “Cheap Nature,” in <em>A History of the World in Seven Cheap Things: A Guide to Capitalism, Nature, and the Future of the Planet </em>(Carlton:<em> </em>Black Inc., 2018); cf. Christophe Bonneuil and Jean-Baptiste Fressoz, “Capitalocene: A Combined History of Earth System and World-Systems,”<em> </em>in <em>The Shock of the Anthropocene: The Earth, History and Us</em>, trans. David Fernbach (London and New York: Verso, 2016).</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> “Rośliny robią swoje.”</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> On the subject, see: <em>Sztuka ze społecznością</em>, [Community Art] eds. Jaśmina Wójcik, Igor Stokfiszewski, and Izabela Jasińska (Warsaw: Wydawnictwo Krytyki Politycznej, 2018).</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> On alternative scenarios for the future development of Konin and the region, see the report compiled by Pracownia Miejska: <u><a href="http://www.miasta2050.pl/przykladowa-strona/konin-2050">www.miasta2050.pl/przykladowa-strona/konin-2050</a></u> (accessed June 5, 2019).</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> “Rośliny robią swoje.”</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> Edwin Bendyk, “Świat bez węgla,” [World without Carbon] in <em>Polski węgiel, </em>27.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a> Phil Macnaghten and John Urry, <em>Contested Natures</em>,<em> </em>published in association with <em>Theory, Culture &amp; Society</em> (London and Thousand Oaks, CA: Sage Publications, 1998), 23.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a> “Zagłębie rokitnikowe.”</p></div>
+
+				
+
+				
+	<div class="m-bibliography" style="margin-bottom: 2em;">
+		<a class="c-issue-toc__article-collapse-btn" role="button" data-toggle="collapse" href="#collapseSummary1811" aria-expanded="false" aria-controls="collapseSummary1811" data-lexicon-show="" data-lexicon-hide="">
+			Bibliography
+		</a>
+		<div class="c-issue-toc__article-collapse collapse" id="collapseSummary1811">
+			<div class="c-issue-toc__article-collapse-inner">
+				<div class="m-bibliography__content u-typo">
+	<p><span>Bardi, Ugo. </span><em>Extracted: How the Quest for Mineral Wealth Is Plundering the Planet. </em><span>White River Junction: Chelsea Green Publishing, 2014.</span></p>
+<p>Bonneuil, Christophe, Jean-Baptiste Fressoz. <em>The Shock of the Anthropocene. The Earth, History and Us</em>. Translated by David Fernbach. London-New York: Verso, 2016. </p>
+<p>Bińczyk, Ewa. <em>Epoka człowieka. Retoryka i marazm antropocenu. </em>Warszawa: Wydawnictwo Naukowe PWN, 2018.</p>
+<p>Forman, Richard T.T., Michael Godron. <em>Landscape Ecology. </em>New York: Wiley, 1986.</p>
+<p>Gaweł, Łukasz, Weronika Pokojska, Agnieszka Pudełko, ed. <em>N</em>owe<em> życie dziedzictwa przemysłowego – materialne / niematerialne.</em> Kraków: Attyka, 2017.</p>
+<p>Jach, Aleksandra, Piotr Juskowiak, Agnieszka Kowalczyk, ed. <em>Ekologie</em>. Łódź: Muzeum Sztuki, 2014. </p>
+<p>Jasińska, Izabela, Igor Stokfiszewski, Jaśmina Wójcik, ed.<em> Sztuka ze społecznością. </em>Warszawa: Wydawnictwo Krytyki Politycznej, 2018.</p>
+<p>Jelewska, Agnieszka. <em>Ekotopie. Ekspansja technokultury</em>. Poznań: Wydawnictwo Naukowe UAM, 2014. </p>
+<p>Kasprzyk, Paweł. "Kierunki rekultywacji w górnictwie odkrywkowym," <em>Problemy Ekologii Krajobrazu</em>, t. XXIV (2009): 7-15.</p>
+<p>Kowalska, Anna, Wiktoria Sobczyk. <em>Działalność górnicza a środowisko</em>, Kraków: Wydawnictwa AGH, 2015.</p>
+<p>Macnaghten, Phil, John Urry. <em>Contested Natures.</em><span> London and Thousand Oaks, CA: Sage Publications, 1998. </span></p>
+<p>Moore, Jason W. <em>Capitalism in the Web of Life</em>. London: Verso, 2015.</p>
+<p>Moore, Jason W., Raj Patel. <em>Cheap Nature</em>. In <em>A History of the World in Seven Cheap Things. A Guide to Capitalism, Nature and the Future of the Planet.</em> Carlton: Black Inc, 2018: 44-64.</p>
+<p>Moore, Jason W. "The Rise of Cheap Nature<em>.</em>" In <em>Anthropocene or Capitalocene? Nature, History, and the Crisis of Capitalism</em>, edited by J.W. Moore. Oakland: PM Press/Kairos, 2016: 78-116.</p>
+<p>Nijakowski, Lech M. <em>Świat po apokalipsie. Społeczeństwo w świetle postapokaliptycznych tekstów kultury</em>. Warszawa: Wydawnictwo Naukowe Scholar, 2018.</p>
+<p>Raffnsøe, Sverre. <em>Philosophy of the Anthropocene. The Human Turn</em>. Hampshire–New York: Palgrave Macmillan, 2016.</p>
+<p>Springer, Filip. <em>Miasto Archipelag. Polska mniejszych miast</em>. Kraków: Wydawnictwo Karakter, 2016.</p>
+<p>Sutowski Michał, ed. Polski<em> węgiel. </em>Warszawa: Wydawnictwo Krytyki Politycznej, 2015.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/a-creeping-disaster" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

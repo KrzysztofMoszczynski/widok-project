@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Language, Body, Nature | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/body-language-nature">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Language, Body, Nature | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Language, Body, Nature | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/body-language-nature">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Language, Body, Nature | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #47495b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #47495b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #47495b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #47495b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #47495b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #47495b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+			/* background-color:#47495b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(71,73,91,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#47495b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#47495b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#47495b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#47495b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#47495b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1804 parent-id-1758">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1745" data-selected-issue-color="#47495b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/22-zobaczyc-antropocen/jezyk-cialo-natura">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/22-zobaczyc-antropocen/jezyk-cialo-natura">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/22-how-to-see-the-antropocene#toc">22</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/22-how-to-see-the-antropocene/body-language-nature?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Language, Body, Nature: Tackling the Representation of the Kyshtym Disaster in Kate Brown’s Plutopia</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/22-how-to-see-the-antropocene/body-language-nature?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=1799">Kamila Gieba</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Jan Szelągiewicz
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>For years the phrase “nuclear disaster” has been associated with&nbsp;the explosion at Chernobyl’s Unit Four reactor, and since&nbsp;2011 it has also made us think of Japan’s Fukushima Daiichi. And although these incidents remain the two most notorious, and fateful, nuclear accidents in history, they were hardly the first of their kind. Radioactive contamination incidents, resulting in massive doses of radiation being released into&nbsp;the environment, the mass evacuation of afflicted areas, and the establishment of strict exclusion zones, have indeed happened before&nbsp;–&nbsp;with&nbsp;the two deadliest taking place in Mayak, the Soviet plutonium production site, as early as the 1940s and ‘50s. Kate Brown’s <em>Plutopia: Nuclear Families, Atomic Cities, and the Great Soviet and American Plutonium Disasters</em> is an attempt to portray the experience of a&nbsp;post-nuclear-disaster landscape.<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> Furthermore, in light of the crisis of representationthat usually accompanies such disasters, the importance of texts grows exponentially. After&nbsp;the landscape has been scarred by the invisible, elusive horror of ionizing radiation, it is not only in the image but&nbsp;actually more in the written word that&nbsp;the possibility of representation remains.</p> <p></p> <p><a href="#sdfootnote1anc" name="sdfootnote1sym"></a></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/22/gieba/brown-en-1920x-9e3.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/22/gieba/brown-en-330x-a14.jpg 330w,assets/cache/images/issues/2018/22/gieba/brown-en-660x-b67.jpg 660w,assets/cache/images/issues/2018/22/gieba/brown-en-768x-a4b.jpg 768w,assets/cache/images/issues/2018/22/gieba/brown-en-1320x-ce9.jpg 1320w" src="assets/cache/images/issues/2018/22/gieba/brown-en-660x-b67.jpg" alt="" ></a>    <figcaption><p>Kate Brown, <em>Plutopia: Nuclear Families, Atomic Cities, and the Great Soviet and American Plutonium Disasters </em>(Oxford and New York: Oxford University Press, 2015)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Brown interviewed witnesses to the Kyshtym disaster and used their stories to weave her own narrative. Hence, we should make note right away of a&nbsp;fact that&nbsp;is as obvious as it is significant –&nbsp;that&nbsp;the testimonies I&nbsp;will quote should not be treated as either the official record of what happened or reliable sociological data. The book blends Brown’s narrative approach -&nbsp;which sees her act as a&nbsp;“witness to the testimony”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup> (a person receiving, interpreting, and framing the reports of eyewitnesses to the disaster in the Urals) -&nbsp;with&nbsp;one espousing the “scholar as witness,” presenting the results of their work in the form of testimony<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> (after all, the author herself is a&nbsp;history professor at the University of Maryland). Copious footnotes citing numerous archival sources, including official records, reports, protocols, and memoranda, make up nearly 100 pages of the book. But&nbsp;this magisterial piece of non-fiction cannot be examined using the same criteria we would employ for&nbsp;scholarly treatises, as the source material gathered by the author has not been investigated for&nbsp;academic purposes but&nbsp;rhetorical ones. Thus, Brown lends much credibility to her narrative and attempts to convince the reader that&nbsp;her attempt to describe these atomic cities at the opposite&nbsp;ends of the globe included many (at times mutually exclusive) perspectives. Elements of academic and scientific discourse, introduced with&nbsp;the aim of bolstering the credibility of the text, transform the reporting into&nbsp;what readers may perceive as the epitome of objectivity, rooted in credible sources rather than&nbsp;just the experiences of the author. Brown’s reliance on scientific analyses also makes up for&nbsp;any gaps in her own knowledge –&nbsp;she quotes extensively from&nbsp;studies in nuclear physics, chemistry, and biology, i.e. from&nbsp;the natural sciences in which she does not claim to be an expert.</p> <p>The Kyshtym disaster, however, is not <em>Plutopia</em>’s sole subject. The book covers two towns whose primary purpose was to provide the manpower and the industrial base for&nbsp;the production of plutonium for&nbsp;nuclear weapons –&nbsp;the American township of Richland (the Hanford Site) and the Soviet city of Ozyorsk (the Mayak works, now called the Mayak Production Association). Brown sees the two towns as being nearly identical –&nbsp;both sites were top secret, closed off&nbsp;from the public, and built from&nbsp;scratch to house and service the two countries’ nuclear programs. Both were also the titular plutopias –&nbsp;plutonium utopias -&nbsp;well-off municipalities where residents enjoyed privileges and benefits that&nbsp;were far beyond&nbsp;the reach of ordinary citizens. But&nbsp;the blissful natures of Richland and Ozyorsk were a&nbsp;mere facade, concealing the myriad dangers brought about&nbsp;by handling fissile and radioactive material (although the Hanford Site has also left its surroundings contaminated, it has never been the scene of any incident that&nbsp;would come close in either magnitude or severity to the disasters that&nbsp;Mayak caused). Thus, <em>Plutopia </em>is a&nbsp;tale of two cities –&nbsp;mirror images of one other, operating under&nbsp;two distinct political systems, half a&nbsp;world apart, run by two Cold War archenemies. The two closed cities shared a&nbsp;number of similarities: both comprised isolated clusters of structures, had practically no purpose outside&nbsp;of the production of plutonium, prized secrecy above&nbsp;all, made the workplace the same place for&nbsp;leading one’s private life, and severely degraded the natural environment in their vicinity. Listing these analogies can be seen as an attempt to universalize the cultural, social, economic, and political aspects of life in a&nbsp;city that&nbsp;was purpose-built to service nuclear production and nuclear politics. The tales of Richland and Ozyorsk parallel each other, but&nbsp;eventually blend into&nbsp;a&nbsp;single narrative about&nbsp;the early years of the global nuclear era.</p> <p>In this&nbsp;essay, however, I&nbsp;will be focusing primarily on those parts of <em>Plutopia</em> that&nbsp;deal with&nbsp;the city of Ozyorsk. The problems with&nbsp;representing the Kyshtym disaster are part and parcel of the “nuclear discourse,” which emphasizes the impossibility of visualizing radiation. Simultaneously, this&nbsp;invisibility is further augmented by political ramifications: the nuclear incidents in the Urals, one of the Soviet Union’s best kept secrets for&nbsp;over three decades, have never been explored in cultural texts, nor become a&nbsp;significant theme in literature or the cinema, nor have they spawned any recognizable narrative tropes. Thus, they continue to lead a&nbsp;doubly mysterious existence. And Brown’s account does, to some extent, fill that&nbsp;particular gap –&nbsp;in her book, the catastrophe is embodied by three key elements which can be succinctly summed up as language, body, and nature.</p> <p>The first is rooted in metaphor (its cognitive interpretation) –&nbsp;which it uses to bestow names upon&nbsp;things previously unnamed. The second emerges in the radiation sickness trope, usually accompanied by the issue of flesh as a&nbsp;visual medium of memory. Nature, on the other hand, is represented by the post-atomic landscape and its (in)visibility, flowing from&nbsp;the sensory imperceptibility of radiation. These three elements can be considered key strategies of representation employed by Brown in her account of the Kyshtym disaster. The metaphor conjures up substitute linguistic visuals, filling the gaps in language, which itself is often proven lacking in the wake of nuclear disaster. Scarred by radiation sickness, the body is a&nbsp;symbolic archive, preserving an individual memory of the horrifying effects of radiation –&nbsp;a&nbsp;proxy for&nbsp;its collective counterpart, forcibly stymied by Soviet nuclear politics. Finally, the landscape literally accumulates radiation, although the presence of radionuclides leaves no visible trace in and of itself.</p> <h2>The Kyshtym Disaster –&nbsp;Chernobyl’s Elder Sibling</h2> <p>In 1945, the Soviet regime had launched its own large-scale nuclear program –&nbsp;a&nbsp;key element in what came to be the Cold War arms race. In order to mass produce the plutonium needed for&nbsp;the manufacture of nuclear weapons, the Soviets established a&nbsp;city from&nbsp;scratch near&nbsp;the Urals –&nbsp;Ozyorsk, also known as Chelyabinsk-40, modeled after&nbsp;similar closed installations in the US, such as Richmond, Los Alamos, and Oak Ridge,<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> where the Americans produced the fissile material that&nbsp;was used in the bombs dropped on Hiroshima and Nagasaki. The Soviets’ highly secret production facilities that&nbsp;comprised the nascent Soviet nuclear industry were located next to the city in what came to be known as the Mayak Production Association. As a&nbsp;closed administrative-territorial formation (known under&nbsp;the Russian acronym ZATO, for&nbsp;<em>zakrytoye</em><em> administrativno-</em><em>territorialnoye</em><em> </em><em>obrazovaniye</em><sup><em><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></em></sup>), Ozyorsk was not featured on any map. Passage in and out of the city was possible only with&nbsp;a&nbsp;special permit. Surrounded by a&nbsp;closely guarded security zone, the area was completely off&nbsp;limits for&nbsp;ordinary civilians. The everyday operations of the Mayak Production Association,<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> meanwhile, gave rise to post-nuclear landscapes and exclusion zones that&nbsp;became the forerunners to the Chernobyl <em>zona</em>.</p> <p>The poisoning of the environment began soon after&nbsp;the Mayak works commenced operations. The plant was located near&nbsp;a&nbsp;few lakes and the Techa River. The role of these natural water bodies was twofold: to supply coolant to the nuclear reactors and to serve as a&nbsp;dump for&nbsp;nuclear waste. Contamination of the Techa took on a&nbsp;long-term dimension –&nbsp;in this&nbsp;instance, the environmental disaster was not sudden, as both the Kyshtym and Chernobyl incidents were, but&nbsp;drawn out over&nbsp;time. According to Brown, “For two years [from 1949 to 1951 –&nbsp;KG] the river took the blow of about&nbsp;7.8 million cubic yards of toxic chemicals containing 3.2 million curies of radiation. This&nbsp;colossal volume combined with&nbsp;the boggy river system created a&nbsp;radioactive landscape” (192). Nearby Lake Karachai, which took in the plants’ radioactive effluence, also became highly radioactive. The banks of the Techa were home to over&nbsp;forty townships, whose residents, grossly unaware of the perils of radiation, drew water from&nbsp;the river to drink, to cook, wash, and bathe with, and to water their crops. Estimates claim that&nbsp;124,000 people were exposed to radiation coming from&nbsp;the waters of the Techa.<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup></p> <p>Exposure of plant personnel, usually unaware of the radioactive nature of the materials they were tasked with&nbsp;handling, was also routine at the Mayak facilities. Given the wholly unrealistic deadlines imposed upon&nbsp;plant directors by the Soviet leadership, Mayak soon became the scene of almost daily incidents, most of which were never recorded in any official documents. The ruinous impact of the facility reached a&nbsp;peak on September 29, 1957, when an underground nuclear waste tank exploded. The incident was reportedly caused by a&nbsp;cooling systems failure –&nbsp;a&nbsp;buildup of decay heat in the waste caused an explosion so powerful that&nbsp;the 160-ton concrete cover of the tank, buried seven metres deep, was catapulted over&nbsp;twenty metres up into&nbsp;the air. Brown argues that&nbsp;at the time of the explosion and immediately thereafter, no emergency procedures were enacted as none had been drafted beforehand. The first radiation readings were only performed six hours after&nbsp;the blast, and plant personnel were evacuated after&nbsp;ten hours had passed.</p> <p>No one in Mayak knew what to do in the event of a&nbsp;radiation incident, as the plant’s staff toiled under&nbsp;an illusion of safety. Given the utmost secrecy of the Soviet nuclear program and the lack of recognizable danger, the chemical processing facilities felt completely safe: “Nor were there the usual hazards of a&nbsp;factory worker’s life –&nbsp;finger-chopping lathes, bone-crunching cranes, or swinging blades.” (117)</p> <p>In her account of the accident, Brown describes how a&nbsp;mushroom cloud appeared over&nbsp;the explosion site, followed by radioactive ash raining from&nbsp;the sky and covering the plant, the nearby town, and even the surface of Lake Irtiash, from&nbsp;which the Ozyorsk residents obtained their drinking water. The incident spread radioactive contamination over&nbsp;an area of more than&nbsp;39,000 square kilometers. Although Kyshtym itself had nothing to do with&nbsp;the disaster, media reports continued to link the two as Ozyorsk remained a&nbsp;closely guarded secret. The severity of the Kyshtym disaster is evinced by its classification as a&nbsp;level-six incident, the second most severe on the INES scale. Only two accidents in human history, Chernobyl and Fukushima, have been given the higher, level-seven rank, the highest on the scale. In the 1950s, however, Kyshtym was without&nbsp;a&nbsp;doubt the gravest nuclear incident –&nbsp;and it long remained a&nbsp;secret despite&nbsp;its magnitude. The world learned of it only in 1992, after&nbsp;the fall of the Soviet Union.</p> <p>The Kyshtym incident, however, remains incomparable to either Chernobyl or Fukushima. The consequences of the latter two, on the other hand, share a&nbsp;lot of similarities –&nbsp;the establishment of exclusion zones, population resettlement from&nbsp;high-risk areas, decontamination, and officials allegedly falsifying or suppressing the official record<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> –&nbsp;but&nbsp;the analogy falters because of one particular issue, which itself shaped the problems with&nbsp;representation of the incident in the Urals. Brown writes that&nbsp;Chernobyl repeated all the same mistakes “of the plutonium disasters of the previous four decades. The only new feature in 1986 was that&nbsp;the catastrophe occurred while the cameras were running.” (285) There are no official photographs or footage of the 1957 incident and its aftermath, and the practiced reticence of the Soviet regime effectively purged the Kyshtym disaster from&nbsp;history for&nbsp;over three decades.<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a> Meanwhile, the Chernobyl incident has, over&nbsp;the years, accrued its own peculiar patterns of representations, by now ossified to the point of immutability. The Ferris wheel in Pripyat, the Energetik Palace of Culture, the Polesye Hotel, Cafe Pripyat, and a&nbsp;sweeping panorama of the city rising from&nbsp;the marshland as seen from&nbsp;the top of a&nbsp;residential highrise commonly known as Mount Fuji, the Yaniv railway station, the radioactive vehicle graveyard in Burikivka, the concrete sarcophagus, and the recently installed ark –&nbsp;these images are repeatedly reproduced in photographs, in film, and even in video game locations.<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a> Fukushima is likewise present in contemporary visual culture –&nbsp;it has been photographed, filmed, described, and commemorated.<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a> Furthermore, the exclusion zones in both Japan and Ukraine have been partially opened to tourists since&nbsp;the incidents. The Kyshtym disaster was treated much differently. Andrei Tarkovsky’s Stalker could be seen as one exception, as Susan Schuppli has alleged it was created in response to a&nbsp;rumor about&nbsp;a&nbsp;nuclear explosion in the Urals.<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a> In the public consciousness, however, the film is associated mostly with&nbsp;the Strugatsky brothers’ sci-fi novel Roadside Picnic, its spiritual forerunner, so to speak, rather than&nbsp;the Kyshtym incident. Besides, the director failed to include any clues in the film that&nbsp;would steer the viewers toward&nbsp;the disaster.</p> <h2>The Metaphor in Service to Representation</h2> <p>In his seminal book <em>The Making of the Atomic Bomb</em>, Richard Rhodes wrote, “‘Most experiences in life can be comprehended by prior experiences,’ Norris Bradbury comments, "but the atom bomb did not fit into&nbsp;any pre conceptions possessed by anybody,’”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup> and this&nbsp;passage may very well be used as a&nbsp;starting point for&nbsp;an examination of metaphor as the key means of representation for&nbsp;the Kyshtym disaster. Although the incident at the heart of this&nbsp;essay did not involve a&nbsp;nuclear bomb, the consequences of a&nbsp;nuclear explosion and a&nbsp;nuclear accident are fundamentally similar. The phenomena that&nbsp;followed the nuclear waste storage tank explosion, such as the mushroom cloud and the fallout, were fundamentally alien to the locals, impossible to recognize from&nbsp;past experience. The post-disaster experience required them to develop a&nbsp;new language that&nbsp;would allow them to recount the course of the incident itself as well as its harrowing consequences. The accounts quoted by Brown are rife with&nbsp;metaphors: nuclear fallout is called “soot” or “snow.” It was comparison, however, that&nbsp;proved the most effective means of representation: “That evening the villagers watched the opaque cloud linger above&nbsp;the trees […] A&nbsp;light rain the next morning brought down&nbsp;a&nbsp;black snow, thick and flaky, the likes of which no one in the village had ever seen.” (239)</p> <p>Here, the metaphor should be interpreted not as a&nbsp;means of poetic expression, but&nbsp;rather as an essential cognitive instrument, allowing for&nbsp;the “understanding and experiencing of one kind of thing in terms of another.”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup> Ontological metaphors, meanwhile, enable us to craft a&nbsp;verbal representation of a&nbsp;traumatic experience: “Once we can identify our experiences as entities or substances, we can refer to them.”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup> We use metaphors to impart an internal structure to less coherent and more ambiguous concepts by using those with&nbsp;an already established structure which is more grounded in our experience:<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup> a&nbsp;person seeing a&nbsp;radioactive bloom for&nbsp;the first time seeks to compare it with&nbsp;another familiar shape, a&nbsp;mushroom, or perhaps an ordinary cloud, while fallout, by its sheer resemblance, is quickly associated with&nbsp;snow. “Metaphor is thus imaginative rationality,”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup> as it is the product of the imagination and its efforts to understand, at least to some extent, that&nbsp;which cannot be understood in its entirety. Metaphorical representation may also be rooted in substitution: as such, it implies the “replacement of the absent with&nbsp;the present.”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup> The passage of time erodes the event itself, forcing the witness recounting it to reconstruct it from&nbsp;memory. This&nbsp;mechanism essentially underpins the very concept of representation, “the reembodiment of things.”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup> Absence, however –&nbsp;as interpreted under&nbsp;the cognitive theory of the metaphor –&nbsp;applies primarily to the notional, and visual, elusiveness of the phenomenon. This&nbsp;intangibility is further neutralized by the use of “that which is already present,” a&nbsp;familiar, recognizable object against&nbsp;which the unknown can be compared.</p> <p>Kate Brown also draws on metaphor to describe the nuclear explosion –&nbsp;illustrating one of the Soviet Union’s test detonations performed at the Kazakh test site in Semipalatinsk using the following&nbsp;words: “Instead the Soviet bomb lifted thin, twisting fingers of Kazakh soil, like&nbsp;a&nbsp;fist opening to the sky, sending the earth hurtling to the heavens, transcending time.” (133) The image of a&nbsp;fist, opening up towards&nbsp;the sky as if to seize (and swallow) it, along&nbsp;with the notion of the detonation transcending time itself, produces a&nbsp;disturbing vision, one suggesting that&nbsp;atomic energy is an autonomous, non-human entity, beyond&nbsp;mankind’s control and acting on its own and of itself. A&nbsp;nuclear detonation eludes reason: “it is something ‘unthinkable’ and as such it is the closest current approximation of the concept of the sublime.”<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup> In the metaphorical description above, the explosion is associated with&nbsp;destruction of nearly cosmic proportions, and it is portrayed as a&nbsp;manifestation of some inconceivable, mythical devastation.<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup> We ought to note, however, that&nbsp;the metaphor Brown devised to illustrate the detonation –&nbsp;which she had not been witness to –&nbsp;is only an imaginary visual substitute, developed to serve the narrative she was crafting. Brown availed herself of this&nbsp;metaphorical mediation in her account not only because she hasn’t observed the detonation with&nbsp;her own eyes, but&nbsp;because the explosion is, essentially, imperceptible. The moment of nuclear detonation cannot be seen directly because of the blinding flash that&nbsp;accompanies it: “Like the flash, nuclear annihilation is a&nbsp;peculiar non-event. It’s impossible to experience as it unfolds, which precludes, to some extent, future attempts at recounting it,”<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup> wrote Aleksandra Brylska in her analysis of representations of the Hiroshima and Nagasaki bombings, in which Brylska discussed Ulrich Baer’s “poetics of the flash.” Baer argued that&nbsp;the flash is an excess of light that&nbsp;disappears immediately after&nbsp;appearing. It is confusing and the disorientation it produces cannot subsequently be fully integrated within&nbsp;the structure of memory: “The flash cannot be integrated into&nbsp;sensory experience but&nbsp;only registered, belatedly, incompletely, possibly as shock.”<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup> Juxtaposing the flash with&nbsp;a&nbsp;nuclear detonation is surely clear, but&nbsp;aside from&nbsp;illustrating the “invisibility” of an atomic explosion, it is a&nbsp;metaphor in and of itself. Thus, metaphors permeate not only the eyewitness testimony or the <em>post facto</em> accounts of the events drafted by reporters, but&nbsp;also the academic language which facilitates any analysis of the nuclear “non-event.”</p> <p>Brown also points out the very flexible meaning behind&nbsp;another term related to the disaster, namely “liquidation,” which was the popular term for&nbsp;radiological decontamination, and she highlights that&nbsp;radiation cannot itself be liquidated, radioactive isotopes can only be moved “to places where they might do less damage.” (234) One avenue of the liquidation efforts included burying irradiated objects underground. Eyewitness accounts of the liquidation of the Kyshtym disaster often employed the metaphor of the mass grave –&nbsp;not for&nbsp;human remains, but&nbsp;homes and equipment: “As the last residents departed, bulldozers waddled in behind&nbsp;them. They dug trenches and pushed in the cottages, burying them in mass graves.” (201) The same scenario repeated itself in 1986 in villages affected by the explosion of the reactor in Chernobyl’s Unit Four, and the operation was described in depth by Svetlana Alexievich<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup> –&nbsp;the liquidators ended up razing and burying entire homes, wells, food, wood, even the earth itself. In Japan, on the other hand, the decontamination became associated with&nbsp;the black trash bags that&nbsp;were used to collect the irradiated earth from&nbsp;cleaned up gardens, forests, and parks –&nbsp;bags that&nbsp;Katarzyna Boni came to call <em>omiyage</em>,<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup> a&nbsp;Japanese term for&nbsp;a&nbsp;token gift for&nbsp;someone brought back from&nbsp;a&nbsp;journey, thus reframing them to create the most important modern symbol of the Fukushima prefecture.</p> <p>Stockpiled in abandoned villages and towns, the black bags filled with&nbsp;radioactive soil –&nbsp;post-disaster <em>omiyage</em> –&nbsp;testify to the contamination of the surrounding area. The decontamination efforts following&nbsp;the Kyshtym disaster, however, left no such visible mark as entire villages were razed and buried in its wake. The underground burial sites of irradiated objects later came to be known as tombs. Semantically related, the two terms –&nbsp;grave and tomb –&nbsp;primarily refer to a&nbsp;place where the dead are buried, the dead being biological, humans or animals. Basic semantics implies, therefore, that&nbsp;graves and tombs are spaces for&nbsp;what remains of the flesh. Labeling radioactive waste dumping grounds in such a&nbsp;manner anthropomorphizes them and grants autonomy to that&nbsp;buried within&nbsp;–&nbsp;clothes, furniture, everyday objects, vehicles, and even entire homes. They are thus allowed “burial,” once reserved only for&nbsp;humans, and perhaps sometimes animals. Although history is replete with&nbsp;instances of objects being interred along&nbsp;with their owners –&nbsp;the Egyptian pharaohs being the most prominent case thereof –&nbsp;the radioactive tombs have a&nbsp;wholly different nature. As they are interred without&nbsp;their owners, the tomb is theirs alone, a&nbsp;feat which confers upon&nbsp;them a&nbsp;measure of posthumous autonomy. Once indispensable in the lives of the residents who populated the now-irradiated landscape, after&nbsp;their entombment they become objects of mourning. These unconventional graves, however, lack the traditional commemorative element;<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup> stripped of a&nbsp;headstone, their existence is marked only by the unevenness of the terrain, mounds since&nbsp;overgrown with&nbsp;grass and trees, impossible to discern from&nbsp;genuine hills and hillocks.</p> <h2>The Radioactive Body</h2> <p>In 1951, the Soviets conducted a&nbsp;radiological survey in Metlino near&nbsp;Ozyorsk to determine the extent of contamination in the village. Metlino and other settlements dotting the banks of the Techa turned out to be so radioactive that&nbsp;the government decided to evacuate the entire area and established an exclusion zone in the Urals, covering an area of 600 square kilometers. The evacuation dragged on for&nbsp;ten years and was far from&nbsp;efficiently managed –&nbsp;not all of the settlements that&nbsp;were supposed to disappear from&nbsp;maps were ultimately cleared of their residents. And the people who stayed behind&nbsp;were subject to persistent high levels of radiation, which years later led to the development of chronic radiation syndrome and its attendant ailments across&nbsp;the population.</p> <p>The accounts of the resettlement, compiled from&nbsp;witness testimony, indicate that&nbsp;it was a&nbsp;forced expulsion and that&nbsp;the troops directing the operation had not shied away from&nbsp;what we today would call terror. The residents living in contaminated areas were notified mere hours ahead of the evacuation by armed soldiers who, without&nbsp;a&nbsp;word of explanation, then went on to shoot dogs, cats, and livestock, and bulldozed the poor Techa farmers’ property and possessions into&nbsp;freshly dug tombs.</p> <p>Evacuating and razing the irradiated villages, however, failed to improve the health prospects of the resettled residents. They had been exposed to ionizing radiation, whose destructive impact is comprehensive and lasting, affecting every part of the human body. The bombing of Nagasaki and Hiroshima had revealed the existence of a&nbsp;hitherto unknown, powerful force, to which the human body was “transparent” –&nbsp;not only was it powerless to resist it, it was wholly at the whim of this&nbsp;invisible realm.<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup> Brown illustrates the health effects of the disaster using two villages as examples: Russkaia Karabolka and Tatarskaia Karabolka. In the latter, the reporter spoke with&nbsp;Gulnara Ismagilova, who showed her a&nbsp;radiological survey of the area made in the 1990s. According to the chart, Ismagilova’s home sat right in the middle of one of the hot zones. Her reading of the map employs somatic rather than&nbsp;cartographic categories: “Ismagilova, a&nbsp;retired nurse, said the map explained the ‘whole bouquet’ of medical complaints in her village: tumors, cancers, thyroid problems, diabetes, disorders of the circulatory and nervous systems, birth defects, strange and powerful allergies, intense fatigue, and fertility problems.” (243) Ismagilova believes that&nbsp;there was a&nbsp;more sinister motive at play behind&nbsp;the decision not to evacuate her village. Where Russkaia Karabolka, populated by ethnic Russians, was promptly evacuated, Tatarskaia Karabolka, inhabited by Tatars, was not. The retired nurse suggests that&nbsp;the Tatars were deliberately left in place, in order to make them unwitting subjects in a&nbsp;medical experiment that&nbsp;would study the feasibility of living off&nbsp;irradiated land and measure the impact of prolonged radiation exposure on humans, of the sort expected after&nbsp;a&nbsp;nuclear exchange. A&nbsp;similar fate befell the inhabitants of Muslumovo, who also believe they were treated like&nbsp;lab rats. For&nbsp;the locals, illness is an intrinsic, expected part of life.</p> <p>It turns out that&nbsp;the suspicions, harbored by the residents of Tatarskaia Karabolka and Muslumovo, of having been used as unsuspecting guinea pigs are not without&nbsp;basis. Brown develops the notion further by describing the work of the Chelyabinsk branch of the FIB-4 biophysics institute, which has been conducting research on the population of Muslumovo since&nbsp;at least 1962. The scientists have created a&nbsp;collection of irradiated teeth, bones, livers, lungs, hearts, and even deformed fetuses, which have been captured for&nbsp;posterity by Dutch photographer Robert Knoth. It should be noted, however, that&nbsp;the Chelyabinsk facility was not the only site to hold the bodies of victims of radiation. In his piece <em>Magazyn pomocy naukowych</em> (<em>The </em><em>Storage </em><em>of </em><em>Teaching Aids</em>),<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup> Jacek Hugo-Bader wrote about&nbsp;the long-term health impact of the many nuclear explosions carried out at the Semipalatinsk test site in Kazakhstan. The oncological clinic nearby holds its own collection of deformed fetuses, nameless but&nbsp;for the clinical terms for&nbsp;their afflictions: anencephaly, exencephaly, hydrocephaly, sirenomelia. By invoking these labels, Hugo-Bader indicates that&nbsp;the small corpses have been collectively desubjectified, purged from&nbsp;the ranks of the <em>Homo </em>genus, and reduced to mere medical curiosities. According to the testimony of Muslumovo’s residents, similar treatment was afforded to irradiated remains from&nbsp;the Chelyabinsk facility –&nbsp;no longer human, they were mere exhibits and curiosities to experiment on. Brown, however, concludes with&nbsp;her own take on this&nbsp;unambiguous claim, in an attempt to neutralize its accusatory tone: “The experiments in Muslumovo were not premeditated. Rather, it was what police investigators would call ‘a crime of opportunity.’” (300)</p> <p>The people whose health suffered as a&nbsp;result of the Kyshtym disaster and the contamination of the Techa often spoke about&nbsp;their lives in a&nbsp;very medicalized manner. Of one of her interviewees, Brown wrote: “Kuzminova narrated her biography like&nbsp;a&nbsp;medical and reproductive record.”<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup> Those resettled were considered potential health hazards, and those who remained in the irradiated villages were collectively labeled as contaminated and separated from&nbsp;the rest of society. This, in turn, stripped them of their subjectivity, a&nbsp;process rooted in culturally-determined dichotomies: “Drawing a&nbsp;line between&nbsp;the edible and inedible, pure and impure, useful and useless, establishes the separation of subject and object.”<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup> This&nbsp;is also an exclusionary mechanism, as it automatically marks the contagious as dangerous and thus warranting isolation.<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup></p> <p>Anna and Dusia, both from&nbsp;the village of Sludorudnik, in conversation with&nbsp;Brown listed the ailments afflicting their various family members and acquaintances. These included mental disorders and suicides, a&nbsp;connection that&nbsp;Brown initially opposed, unwilling to paint a&nbsp;direct link between&nbsp;radiation and mental illness. Although at first she considered their assertions a&nbsp;symptom of radiophobia, Brown later admitted that&nbsp;research reports compiled after&nbsp;Chernobyl revealed that&nbsp;radiation damaged the nervous system, which could possibly lead to neuropsychiatric disorders. This&nbsp;particular passage in <em>Plutopia </em>emphasizes the position and credibility of the witness-protagonist, portrayed as a&nbsp;source more valuable than&nbsp;academic studies compiled by scientists –&nbsp;people from&nbsp;the “outside”:</p> <blockquote>I learned something from&nbsp;my dismissal of the villagers’ observations. Researchers, medical or historical, pass through&nbsp;a&nbsp;settlement such as Sludorudnik quickly, gather data, and return home. Why did I&nbsp;not assume that&nbsp;people also study their own environments and communities up close on a&nbsp;daily basis? And that&nbsp;perhaps their insights, born of a&nbsp;long, painful examination, might be legitimate? After&nbsp;that, I&nbsp;started to listen more carefully. (203)</blockquote> <p>The ailing body is both testimony and evidence: Brown argues that&nbsp;scarred flesh is as significant a&nbsp;proof of nuclear disaster as the landscape, if not more so.<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup> The scars and deformations of an irradiated body are the most meaningful visual medium carrying memory of a&nbsp;disaster. As pointed out by Dorota Sajewska, however, the body –&nbsp;ephemeral, and as such impractical in the role of a&nbsp;medium for&nbsp;the enduring historical record –&nbsp;is often treated in a&nbsp;second-class way in Western culture, and its memory-forming role is habitually distrusted: “Thus the body, ostensibly incapable of leaving enduring traces, has been purged from&nbsp;the archive and, consequently, stripped of any influence over&nbsp;historical narrative and identity politics.”<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup> Sajewska suggests replacing the concept of body-as-memory with&nbsp;that of the body-as-archive, its primary function not to remember but&nbsp;to document. Such a&nbsp;perspective would allow us to treat the body as a&nbsp;medium revealing “those aspects of the event that&nbsp;elude the tightly controlled forms of recording and preserving history”.<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup> It may also be sufficient with&nbsp;respect to the irradiated body, itself a&nbsp;canvas for&nbsp;the visual record of the disaster’s many consequences.</p> <h2>The Post-Atomic Landscape</h2> <p>Within the context of these deliberations, landscape should be understood not from&nbsp;an aesthetic perspective (as “a picturesque view”) but&nbsp;rather from&nbsp;a&nbsp;cultural standpoint: as a&nbsp;space subject to cultural and civilizational influences, including specific evaluations, a&nbsp;space constantly in the process of creating meanings, and a&nbsp;nexus where the past&nbsp;and the present intersect.<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup> The landscape may also be a&nbsp;part of imagined geographies, shaped by stereotypes related to certain types of space, often perpetuated by popular cultural texts. Landscapes ruined by nuclear explosions are often linked with&nbsp;apocalyptic visions and the radical destruction of the world they entail: “Powerful detonations wipe out civilization and reshape the landscape. […] The flora and fauna that&nbsp;managed to escape ruination turn feral and the recovering nature, mutated by ubiquitous radiation, takes on a&nbsp;starkly different appearance.”<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup> Mutated plant and animal life, sterile wastelands, and decaying ruins of cities are all cardinal points that&nbsp;organize the depictions of post-atomic landscapes, examples of which abound in film (2012’s <em>Chernobyl Diaries </em>by Bradley Parker) and video games (the <em>Fallout</em> franchise and the Ukrainian studio GSC Game World’s S.T.A.L.K.E.R. series, set in the Chernobyl <em>zona</em>).</p> <p>In stark contrast to those visions of nuclear apocalypse that&nbsp;prevail in popular culture, Brown’s reporting focuses on descriptions that&nbsp;emphasize absence –&nbsp;the total lack of customary post-apocalyptic signatures. In contrast to long-established clichés, Brown attempts to portray the normalcy and ordinariness of the radioactive landscape: “Usually when you are looking at an environmental catastrophe, you know it. Disasters have the look and feel of the natural order disassembled. In my mind, disasters should smell, smoke, or produce ugly scars.” (305) The horribly radioactive Techa, meanwhile, looks nothing of the sort:</p> <blockquote>The air was fresh. Swallows darted back and forth over&nbsp;the current. The afternoon was turning hot and, as if a&nbsp;siren were calling me, I&nbsp;had a&nbsp;desire to slip down&nbsp;and run my feet over&nbsp;the smooth stones on the river bottom. There were no fences or warning signs to stop me. I&nbsp;had to remind myself that&nbsp;I&nbsp;stood before&nbsp;the world’s most radiated river. I&nbsp;had never encountered a&nbsp;disaster more lovely and tempting, one less worthy of its name. (305)</blockquote> <p><a name="_GoBack"></a> The radioactive banks of the Techa are “lovely and tempting,” and lack any signage that&nbsp;would warn of the dangers lurking within. From&nbsp;this particular standpoint, the post-atomic landscape in the Urals is wholly different from&nbsp;that of the Chernobyl Exclusion Zone, the latter overflowing with&nbsp;checkpoints and warning signs. In Chernobyl, the radioactivity of the landscape is emphasized (to the point where it seems an important element of the marketing strategy employed by Ukraine’s booming disaster tourism industry), whereas nothing of the sort is true for&nbsp;the Techa basin. Were the casual observer unaware of what happened in the area in the 1940s and ‘50s, nothing on the riverbanks would signal to him or her that&nbsp;this was once the site of a&nbsp;major nuclear disaster. That&nbsp;impression is further augmented by the fact that&nbsp;the Techa looks more like&nbsp;a&nbsp;stream than&nbsp;a&nbsp;river, so much so that&nbsp;Brown finally asked her guide: “‘Is this&nbsp;it,’ I&nbsp;asked, ‘or just a&nbsp;branch?’ Marat assured me that&nbsp;the creek in front of us was the infamous, feared, highly radioactive Techa.” (305)</p> <p>The most striking feature of the contaminated landscapes of the Urals is the emptiness, born of the forced resettlement and the razing of the dozens of irradiated villages and rooted in the utter lack of any community inhabiting the affected area: “in a&nbsp;spatial sense, it’s seen as an inverse or antithesis of the ecumene; understood as such, the wastelands, although not entirely void of people, become the stage of ‘non-human’ action, where the other, alongside all the positive and negative manifestations of the <em>sacrum</em>, are given a&nbsp;voice.”<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup> Emptiness is a&nbsp;key category in the description of the post-nuclear landscape –&nbsp;and it is precisely this&nbsp;characteristic that&nbsp;Andrzej Stasiuk chose to accentuate in his study of the Kazakh test site: “Nowhere else have I&nbsp;seen such unsophisticated emptiness. A&nbsp;flat void. […] Chagan reeked of annihilation. It was as dead and as bleached as a&nbsp;skull.”<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup> But&nbsp;in order for&nbsp;emptiness to be subject to representation, it has to take on some kind of form.<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup> These may include elements of space and spatial qualities, such as: a&nbsp;desert, a&nbsp;maritime horizon, a&nbsp;wilderness, endlessness, abyssal depths, remoteness.<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup> From&nbsp;these, Stasiuk chose the desert, both literal (the Soviet nuclear test sites were located in the desert, as was the main American test installation, the Nevada Test Site) and figurative (the desert as emptiness, a&nbsp;place of loss and lack). In the case of the Kyshtym area, the void is evoked by the Russian term “zona” –&nbsp;a&nbsp;space purged of people and isolated, shut off&nbsp;from the rest of the world, marked by the stigma of invisible contamination.</p> <p>When speaking of post-atomic landscapes, we should take note of one other issue. There is no footage or photographs documenting what happened in the days immediately following&nbsp;the explosion at the Mayak plant. The cleanup of Chernobyl, on the other hand, was comprehensively chronicled –&nbsp;the decontamination operations were photographed by Igor Kostin and filmed by Volodymyr Shevchenko.<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup> Aside from&nbsp;the subject matter and the timeframe they were created in, the two efforts share one other particular characteristics –&nbsp;both Kostin’s pictures and Shevchenko’s film include overexposures, smudging, and a&nbsp;lot of extraneous noise, artifacts left on photosensitive media by ionizing radiation. Susan Schuppli contended that&nbsp;it was precisely these artifacts that&nbsp;reified the nuclear disaster, arguing that&nbsp;the catastrophe was best embodied by “damaged” representations, ideally suited to pointing out the corrosive impact of radiation.<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup> But&nbsp;what kind of representation would best fit the <em>zona</em> in Kyshtym, which has been neither photographed, nor filmed, nor furnished with&nbsp;appropriate warning signs? The radiological contamination in Ozyorsk is not illustrated by the ruin of the surrounding landscape or damaged photos of celluloid frames, but&nbsp;preserved within&nbsp;the memory of the witness, particularly given the fact that&nbsp;without any human presence, the zona is being gradually and inexorably reclaimed by nature.</p> <p>As the years pass, the post-atomic landscape is losing its industrial character. Nature has begun to devour the work of man, slowly returning it to its pre-plutopian shape. To describe the transformation, Brown uses the metaphor of the map, taking a&nbsp;topographic view of the space. The only genuine map of Ozyorsk dates back to 1947. Brown introduces a&nbsp;measure of dynamism into&nbsp;the chart, creating an imagined cartography of the plutopian landscape:</p> <blockquote>Looking at the area covered by the map over&nbsp;the course of the subsequent decade, say from&nbsp;the view of a&nbsp;spy satellite, an analyst would notice an increasing naturalization of the nuclear landscape as populations receded, evacuated to make room first for&nbsp;the plutonium plant and later to clear contaminated territories. Time-lapse photos would show hamlets fading away, fields turning into&nbsp;forest, roads overtaken by brush and swamp –&nbsp;nature winning handily, or at least a&nbsp;ghostly postnuclear version of it. (189)</blockquote> <p>But this&nbsp;grand return of nature only ostensibly “winds the clock” back to pre-1947 conditions. Although visual perception may not register any danger lurking within&nbsp;the zone, it is there all the same –&nbsp;in the form of invisible radiation:</p> <blockquote>After five decades of nuclear production and unregulated dumping of radioactive waste, the lake region surrounding the plutonium plant appears nearly as untouched as the first scouts found it in 1945. Yet in 1990, to stand on the windswept, reedy shores of Lake Karachai for&nbsp;an hour was to get a&nbsp;fatal dose. The difference from&nbsp;1947 is that&nbsp;the landscape, still beautiful to behold, is now dangerous to traverse. (189)</blockquote> <p>The post-atomic landscape, therefore, will necessarily be a&nbsp;cultural landscape as well, produced by the united forces of mankind and nature. It will also be a&nbsp;place marked by absence, emptiness, lack –&nbsp;of community and traces of contamination, the latter beyond&nbsp;human sensory perception, in contrast to ossified representations of the post-atomic world that&nbsp;prevail in popular culture. Finally, the establishment of exclusion zones in disaster areas ultimately brings about&nbsp;not just depopulation, but&nbsp;prompts the reclamation of said zones by nature itself.</p> <h2><em>In Lieu</em> of a&nbsp;Conclusion</h2> <p>The impossibility of portraying the post-disaster experience is brought up primarily within&nbsp;the context of the explosion in Chernobyl. The disaster in Ukraine was a&nbsp;pivotal moment in 20th century history –&nbsp;Tamara Hundorowa<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup> has gone so far as to argue that&nbsp;it was as significant as the Shoah. The Ukrainian scholar contended that&nbsp;both these experiences verge on the inexpressible, this&nbsp;very quality stemming from&nbsp;the intensely traumatic character of the event itself. In her view, the word “Chernobyl” became a&nbsp;symbol of the “postmodern reality brought on by disaster,” a&nbsp;shift which necessitated the tackling of the crisis of representation, an inherent element of this&nbsp;newfangled reality which demands the employment of new narrative means: “times of post-disaster uncertainty often produce new languages and new forms of expression”<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup> –&nbsp;the language of art quickly turns out to be incapable of describing the post-nuclear reality, and fictional narratives are gradually supplanted by documentary efforts, augmented with&nbsp;pregnant pauses, ellipses, and visually-marked interruptions, wherein witnesses seem to run out of words that&nbsp;could properly articulate their post-atomic experience. Hundorowa goes so far as to argue that&nbsp;together these tropes make up what she has come to call the new Chernobyl school –&nbsp;characterized by crafting documentary narratives out of interviews and montages.</p> <p>In contrast to Chernobyl, however, the Kyshtym disaster seems much more elusive –&nbsp;and for&nbsp;a&nbsp;number of reasons. First and foremost, the Mayak explosion remains an unexplored subject, and underrepresented in cultural texts, whereas Chernobyl has been established as an easily recognizable motif, and one with&nbsp;an enduring presence in contemporary culture.<sup><a href="#sdfootnote45sym" name="sdfootnote45anc">45</a></sup> Secondly, the discourse on Chernobyl has ossified around&nbsp;characteristic, oft-reproduced images of Pripyat and its surroundings. Consequently, “it’s difficult not to get the impression that&nbsp;many of the ‘sights’ in Chernobyl have been seared into&nbsp;our memories –&nbsp;regardless of whether we’ve actually visited the exclusion zone. We are thus subject to a&nbsp;process often reported by tourists visiting other famous places across&nbsp;the globe”.<sup><a href="#sdfootnote46sym" name="sdfootnote46anc">46</a></sup></p> <p>In contrast to the land surrounding Chernobyl and Fukushima –&nbsp;both partially open to tourists –&nbsp;the tainted areas around&nbsp;Ozyorsk and on the banks of the Techa remain unrecognized, lacking spatial elements that&nbsp;would carry clear connotations with&nbsp;the disaster that&nbsp;unfolded in the Urals over&nbsp;six decades ago. To devise a&nbsp;form of representation of the disaster, itself one of the best kept secrets of the Soviet nuclear industry, Brown decided to reach for&nbsp;witness testimony—although meticulously selected and edited for&nbsp;reporting purposes. The testimonies, characterized by extensive use of metaphor and permeated by a&nbsp;sense of emptiness and loss, focus not so much on the landscape as on the ailing, debilitated body. Drawing on the concept of body-as-archive, we must note that&nbsp;when placed in such a&nbsp;role, the body does not aspire to compile a&nbsp;complete, exhaustive record of the past. On the contrary: “[…] it emphasizes the patchy, frail, and fragmentary nature of memory, and lays bare the relativity of historical narrative based upon&nbsp;it.”<sup><a href="#sdfootnote47sym" name="sdfootnote47anc">47</a></sup> Within&nbsp;the context of the Kyshtym disaster, the three elements I&nbsp;have discussed –&nbsp;language, body, landscape –&nbsp;share a&nbsp;common characteristic, namely a&nbsp;certain deficiency. In the case of language, it is the lack of an appropriate vocabulary that&nbsp;would facilitate a&nbsp;more literal description of the disaster in the Urals, which, in turn, forces writers to base their own narratives on metaphor-laden accounts. Read as a&nbsp;record of the disaster, on the other hand, the body is characterized primarily by the damage sustained due to radiation exposure, a&nbsp;testimony of its lethal impact. Finally, the deficiencies in the landscape are embodied by the absence of visible signs and symbols implying, directly or otherwise, the presence of radiological contamination. In light of the insufficiency of language and the invisibility of the irradiated landscape, it is the ailing, scarred body that&nbsp;becomes the symbol of and witness to the Kyshtym disaster.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Kate Brown, <em>Plutopia: Nuclear Families, Atomic Cities, and the Great Soviet and American Plutonium Disasters </em>(Oxford and New York: Oxford University Press, 2015)<em>.</em> Given the number of passages from the book I will be quoting here, subsequent citations will be marked in the main body of the text with the page number in parentheses.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> This phrase was coined by Agnieszka Dauksza, in her study of the mechanisms of appointing a witness by observers, cf. Agnieszka Dauksza, “Ustanawianie świadka,” <em>Teksty Drugie </em>3 (2018): 90.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Cf. Małgorzata Sugiera, “Badacz jako świadek: między wiedzą uniwersalną a lokalną,” <em>Teksty Drugie</em> 3 (2018): 253–266.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Oak Ridge has been the subject of reporting from Denise Kiernan, who wrote, among other things, about the inner structure of the closed city, cf. Denise Kiernan, The Girls of Atomic City: the Untold Story of the Women Who Helped Win World War II (New York: Gale, 2014).</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> From 1945 through 1966, Ozyorsk was called Chelyabinsk0-40, and later Chelyabinsk-65 from 1966 to 1994. In the Soviet Union, secret cities were given the name of the nearest big city appended with the last digits of the postal code for the closed town, eg. Tomsk-7 (Seversk). Krasnoyarsk-45 (Zelenogorsk), Krasnoyarsk-26 (Zheleznogorsk), Arzamas-16 (Sarov). Chelyabinsk-65 was only renamed Ozyorsk in 1994.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> For precise statistics on the poisoning of the Techa river, the Kyshtym catastrophe, and the radioactive pollution of Lake Karachai – see Jim Thompson, The Mayak Plant, Chelyabinsk – a brief historical review, “Nuclear Future” 2016, no. 12, 50–59.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7 </a>Laurel Sefton MacDowell, <em>Nuclear Portraits: Communities, the Environment, and Public Policy</em> (Toronto: University of Toronto Press, 2017), 31.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8 </a>According to Piotr Bernardyn, officials at the Fukushima plant also engaged in sequestering documentation and the results of radiation surveys from the public, supposedly at the behest of the Japanese nuclear lobby, cf. Piotr Bernardyn, <em>Słońce jeszcze nie wzeszło </em>(Gliwice: Helion, 2014).</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9 </a>Susan Schuppli, “The Most Dangerous Film in the World” in: <em>Tickle Your Catastrophe! Imagining Catastrophe in Art, Architecture and Philosophy</em>, ed. F. Le Roy, N. Wynants, D. Hoens, R. Vanderbeeken (Gent: Academia Press, 2011), 137.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10 </a>The Chernobyl setting is often used in cultural texts, eg. in film (<em>Return of the Living Dead: Necropolis</em>, <em>Chernobyl Diaries</em>, <em>Transformers 3</em>, <em>Blinded by the Lights</em>)), music videos (Alosha, <em>Sweat People</em>; Pink Floyd, <em>Marooned</em>; Zenek, <em>Prypiat</em>; Fractures<em>, It’s Allright</em>, Zavod, <em>Pripyat</em>; Torture of Hypocrisy, <em>Evacuation from Prypiat</em>; Suede, <em>Life is Golden</em>; Elektronikt, <em>Czarnobyl</em>; Projekt nasłuch, <em>Memento mori</em>), and video games (the S.T.A.L.K.E.R. franchise; <em>Call of Duty 4: Modern Warfare</em>)</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11 </a>These include the photographs of Donald Weber and Arkadiusz Podniesieński, Dorris Dörrie’s film <em>Greetings from Fukushima</em>, the exhibition <em>If Only Radiation Had Color: The Era of Fukushima </em>(Copenhagen, 2017), and the joint Polish-Japanese concert <em>Fukushima Tree</em>, held on the fifth anniversary of the incident (Wrocław, 2016).</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12 </a>Schuppli, “The Most Dangerous Film in the World,” 137.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13 </a>Richard Rhodes, <em>The Making of the Atomic Bomb</em> (New York: Simon &amp; Schuster, 1995), 674.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14 </a>George Lakoff and Mark Johnson, <em>Metaphors we Live By </em>(London: University of Chicago Press, 2003), 5<em>.</em></p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15 </a>Ibid.,<em> </em>25.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16 </a>Ibid., 118.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17 </a>Ibid., 193.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18 </a>Michał Paweł Markowski, “Reprezentacja i ekonomia,” <em>Teksty Drugie</em> 4 (2004): 19.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19 </a>Agata Maksimowska, “Kryzys reprezentacji. O niemożliwym przedstawieniu rzeczywistości i urzeczywistnionych przedstawieniach” in: <em>Antropolog wobec współczesności</em>, ed. A. Malewska-Szałygin and M. Radkowska-Walkowicz (Warsaw: Instytut Etnologii i Antropologii Kulturowej UW, 2010), 77.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20 </a>Tamara Hundorowa, “Czarnobyl, nuklearna apokalipsa i postmodernizm,” trans. I. Boruszkowska, <em>Teksty Drugie</em> 6 (2014), 261. The author drew on Ferguson’s take which framed “the nuclear as the unthinkable,” cf. Frances Ferguson, “The Nucear Sublime,” <em>Diacritics</em> 2 (1984): 5.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21 </a>Daniel Wójcik, <em>The End of the World as We Know It: Faith, Fatalism and Apocalypse in America</em> (New York: New York University Press, 2007),<em> </em>101.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22 </a>Aleksandra Brylska, “Katastrofa, której (nie) zobaczysz. O wizualności nuklearnego kresu” in: <em>Po Czarnobylu. miejsce katastrofy w dyskursie współczesnej humanistyki</em>, ed. I. Boruszkowska, K. Glinianowicz, A. Grzemska, and P. Krupa (Krakow: Wydawnictwo Uniwersytetu Jagiellońskiego, 2017), 144.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23 </a>Ulrich Baer, "Photography and Hysteria: Toward a Poetics of the Flash” in <em>Spectral Evidence: The Photography of Trauma </em>(Cambridge, MA: The MIT Press, 2005), 34.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24 </a>Svetlana Alexievich, <em>Chernobyl Prayer: A Chronicle of the Future</em>, trans. A. Gunin and A. Tait (London: Penguin Classics, 2016)</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25 </a>Katarzyna Boni, <em>Ganbare! Warsztaty umierania</em> (Warsaw: Wydawnictwo Agora, 2017), 230.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26 </a>Przemysław Czapliński, Małgorzata Quinkenstein, and Robert Traba, “Cmentarz” in: <em>Modi Memorandi. Leksykon kultury pamięci</em>, ed. M. Saryusz-Wolska, R. Traba, and J. Kalicka (Warsaw: Scholar, 2014), 80.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27 </a>Cf. Akira Mizuta Lippit, <em>Atomic Light (Shadow Optic) </em>(Minneapolis and London: University of Minnesota Press, 2005), 5.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28 </a>Jacek Hugo-Bader, “Magazyn pomocy naukowych” in: <em>W rajskiej dolinie wśród zielska </em>(Wołowiec: Czarne, 2010), 257‒284.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29 </a>Kate Brown, “The Last Sink: the Human Body as the Ultimate Radioactive Storage Site” in: <em>Out of Sight, Out of Mind: the Politics and Culture of Waste</em>, ed. C. Mauch, <em>RCC Perspectives: Transformations in Environment and Society</em> 1 (2016): 42.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30 </a>Anna Chromik-Krzykawska, “Odpad w obiegu: strategie symbolicznego recyklingu,” <em>Er(r)go. </em><em>Teoria – Literatura – Kultura</em> 1 (2007): 11.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31 </a>Susan Sontag points out that metaphors of disease have often been exploited by totalitarian systems to discredit and exclude specific groups of the population, the most prominent example of which is the comparison of Jews to cancer or syphilis. The metaphor portraying them as an infection was supposed to sanction the extermination of the “contagion,” cf. Susan Sontag, <em>Illness as Metaphor</em> (New York: Farrar, Straus and Giroux, 1977), 71.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32 </a>Kate Brown, “The Last Sink,”<em> </em>45.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33 </a>Dorota Sajewska, “Ciało-pamięć, ciało-archiwum,” <em>Didaskalia</em> 127-128 (2015): 49.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34 </a>Ibid., 55.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35 </a>Cf. Beata Frydryczak, “Dystans i zaangażowanie. Próba aplikacji „gramatyki kultury” do badań nad krajobrazem,” <em>Filo-Sofija</em> 36 (2017): 239‒248.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36 </a>Lech Nijakowski, “Popularne postapokalipsy późnej nowoczesności,” <em>Colloquia Anthropologica et Communicativa</em> 3 (2011): 262.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37 </a>Małgorzata Czapiga, <em>Po-widoki pustki. O sposobach konceptualizowania pustki w kulturze współczesnej </em>(Krakow: Universitas, 2017), 53.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38 </a>Andrzej Stasiuk, “Pod Gwiazdą Piołun” <em>Tygodnik Powszechny</em>, Sep. 25, 2017, <u><a href="https://www.tygodnikpowszechny.pl/pod-gwiazda-piolun-150091" target="_blank" rel="noopener">https://www.tygodnikpowszechny.pl/pod-gwiazda-piolun-150091</a></u> (accessed March 8, 2019). Chagan is the name of an abandoned city in Kazakhstan and also the name of a nearby lake, created during a Soviet test detonation in 1965.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39 </a>Cf. Ewa Rewers, <em>Post-polis</em>. <em>Wstęp do filozofii ponowoczesnego miasta </em>(Krakow: Universitas, 2005), 43.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40 </a>Cf. Iwona Ostrowska, “W objęciach pustki. Kilka spojrzeń na puste przestrzenie w XX-wiecznej kulturze” in: <em>Miejsca od-miejscowione</em>, ed. K. Rdzanek, A. Wójtowicz, and A. Wróbel (Warsaw: Wydawnictwo IBL PAN, 2015), 247‒260.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41 </a>Cf. Igor Kostin, <em>Czarnobyl. Spowiedź reportera</em>, trans. W. Melech (Warsaw: Albatros, 2006); <em>Chernobyl: Chronicle of Difficult Weeks</em>, directed by Volodymyr Shevchenko (1990, Ukraine). <em> </em></p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42 </a>Schuppli, “The Most Dangerous Film in the World,” 127‒129.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43 </a>Hundorowa, “Czarnobyl, nuklearna postapokalipsa i postmodernizm,” 249–263.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44 </a>Ibid., 253.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45 </a>Examples include: Svetlana Alexievich, <em>Chernobyl Prayer: A Chronicle of the Future</em>, trans. A. Gunin and A. Tait (London: Penguin Classics, 2016); Mary Mycio, <em>Wormwood Forest: A Natural History of Chernobyl </em>(Washington, D.C.: John Henry, 2007); Merle Hilbk, <em>Czarnobyl Baby. </em><em>Reportaże z pogranicza Ukrainy i Białorusi</em>, trans. B. Tarnas (Warsaw: Carta Blanca, 2012); Francesco Cataluccio, <em>Czarnobyl</em>, trans. P. Bravo (Wołowiec: Czarne, 2013); Piers Paul Read, <em>Ablaze: The Story of the Heroes and Victims of Chernobyl</em> (New York: Random House, 2013).</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46 </a>Czapiga, <em>Po-widoki pustki,</em> 119.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47 </a>Sajewska, <em>Ciało-pamięć, ciało-archiwum</em>, 53.</p></div>
+
+				
+
+				
+	<div class="m-bibliography" style="margin-bottom: 2em;">
+		<a class="c-issue-toc__article-collapse-btn" role="button" data-toggle="collapse" href="#collapseSummary1804" aria-expanded="false" aria-controls="collapseSummary1804" data-lexicon-show="" data-lexicon-hide="">
+			Bibliography
+		</a>
+		<div class="c-issue-toc__article-collapse collapse" id="collapseSummary1804">
+			<div class="c-issue-toc__article-collapse-inner">
+				<div class="m-bibliography__content u-typo">
+	<p>Alexievich, Svietlana. <em>Chernobyl Prayer: A Chronicle of the Future. </em>Translated by Anna Gunin and Arch Tait. London: Penguin Classics, 2016. </p>
+<p>Baer, Ulrich. "Photography and Hysteria: Toward a Poetics of the Flash”. In <em>Spectral Evidence: The Photography of Trauma</em>. Cambridge, MA: The MIT Press, 2005. </p>
+<p>Bernandyn, Piotr. <em>Słońce jeszcze nie wzeszło. Tsunami. Fukushima</em>. Gliwice: Helion, 2014. </p>
+<p>Boni, Katarzyna. <em>Ganbare! Warsztaty umierania</em>. Warszawa: Wydawnictwo Agora, 2017. </p>
+<p>Brown, Kate. <em>Plutopia: Nuclear Families, Atomic Cities, and the Great Soviet and American Plutonium Disasters.</em> Oxford and New York: Oxford University Press, 2015.</p>
+<p>Brown, Kate. "The Last Sink: the Human Body as the Ultimate Radioactive Storage Site<em>.</em>" <em>RCC Perspectives: Transformations in Environment and Society</em>, no. 1 (2016): 41-47.</p>
+<p>Brylska, Aleksandra. <em>Katastrofa, której (nie) zobaczysz. O wizualności nuklearnego kresu.</em> In: <em>Po Czarnobylu. miejsce katastrofy w dyskursie współczesnej humanistyki</em>. Ed. I. Boruszkowska, K. Glinianowicz, A. Grzemska, P. Krupa, Kraków: Wydawnictwo Uniwersytetu Jagiellońskiego, 2017: 138-145.</p>
+<p>Cataluccio, Francesco. <em>Czarnobyl</em>. Translated by Paweł Bravo. Wołowiec: Czarne, 2013. </p>
+<p>Chromik-Krzykawska, Anna. "Odpad w obiegu: strategie symbolicznego recyklingu." <em>Er(r)go. Teoria – Literatura – Kultura</em>, no. 1 (2007): 9-21.</p>
+<p>Czapiga, Małgorzata. <em>Po-widoki pustki. O sposobach konceptualizowania pustki w kulturze współczesnej</em>. Kraków: Universitas, 2017.</p>
+<p>Czapliński, Przemysław, Małgorzata Quinkenstein, Robert Traba. <em>Cmentarz.</em> In <em>Modi Memorandi. Leksykon kultury pamięci</em>. Ed. M. Saryusz-Wolska, R. Traba, cooperation J. Kalicka, Warszawa: Wydawnictwo Scholar, 2014: 79-84.</p>
+<p>Dauksza, Agnieszka. "Ustanawianie świadka." <em>Teksty Drugie</em>, no. 3 (2018): 69-96.</p>
+<p>Ferguson, Frances. "The Nuclear Sublime." <em>Diacritics</em>, no. 2 (1984): 4-10.</p>
+<p>Frydryczak, Beata. "Dystans i zaangażowanie. Próba aplikacji <em>gramatyki kultury</em> do badań nad krajobrazem." <em>Filo-Sofija, </em>no. 36 (2017): 239-248.</p>
+<p>Hilbk, Merle. <em>Czarnobyl Baby. Reportaże z pogranicza Ukrainy i Białorusi.</em> Translated by Barbara Tarnas. Warszawa: Carta Blanca, 2012.</p>
+<p>Hugo-Bader, Jacek. <em>Magazyn pomocy naukowych. W rajskiej dolinie wśród zielska</em>. Wołowiec: Czarne, 2010. </p>
+<p>Hundorowa, Tamara. "Czarnobyl, nuklearna apokalipsa i postmodernizm." Translated by Iwona Boruszkowska. Teksty Drugie, no. 6 (2014): 249-263.</p>
+<p>Kiernan, Dennise. <em>The Girls of Atomic City: the Untold Story of the Women Who Helped Win World War II</em>. New York: Gale, 2014.</p>
+<p>Kostin, Igor. <em>Czarnobyl. Spowiedź reportera</em>. Translated by Wojciech Melech. Warszawa: Albatros, 2006.</p>
+<p>Lakoff, George, Mark Johnson. <em>Metaphors we Live By</em>. London: University of Chicago Press, 2003.</p>
+<p>Lippit, Akira Mizuta. <em>Atomic Light (Shadow Optic)</em>. Minneapolis–London: University of Minnesota Press, 2005.</p>
+<p>MacDowell, Laurel Sefton. <em>Nuclear Portraits: Communities, the Environment, and Public Policy</em>. Toronto: University of Toronto Press, 2017.</p>
+<p>Maksimowska, Agata. <em>Kryzys reprezentacji. O niemożliwym przedstawieniu rzeczywistości i urzeczywistnionych przedstawieniach. </em>W <em>Antropolog wobec współczesności</em>. Ed. A. Malewska-Szałygin, M. Radkowska-Walkowicz, Warszawa: Instytut Etnologii i Antropologii Kulturowej UW, 2010: 77-89.</p>
+<p>Markowski, Michał Paweł. "Reprezentacja i ekonomia." <em>Teksty Drugie</em> 4 (2004): 11-27.</p>
+<p>Mycio, Mary. <em>Piołunowy las. Historia Czarnobyla</em>. Poznań: Wydawnictwo RK, 2006.</p>
+<p>Nijakowski, Lech. "Popularne postapokalipsy późnej nowoczesności." <em>Colloquia Anthropologica et Communicativa</em>, no. 3 (2011): 243-269. </p>
+<p>Ostrowska, Iwona. <em>W objęciach pustki. Kilka spojrzeń na puste przestrzenie w XX-wiecznej kulturze. </em>W<em> Miejsca od-miejscowione</em>. Ed. K. Rdzanek, A. Wójtowicz, A. Wróbel. Warszawa: Wydawnictwo IBL PAN, 2015. </p>
+<p>Read, Piers Paul. <em>Czarnobyl. Zapis faktów</em>. Translated by Jerzy Kubowski. Warszawa: Świat Książki, 1996.</p>
+<p>Rewers, Ewa. <em>Post-polis. Wstęp do filozofii ponowoczesnego miasta</em>. Kraków: Universitas, 2005.</p>
+<p>Rhodes, Richard. <span><em>The Making of the Atomic Bomb</em></span>, New York: Simon &amp; Schuster, 1995.</p>
+<p>Sajewska, Dorota. "Ciało-pamięć, ciało-archiwum." <em>Didaskalia</em>, no. 127‒128 (2015): 48-56.</p>
+<p>Schuppli, Susan. <em>The Most Dangerous Film in the World.</em> In T<em>ickle Your Catastrophe. Imagining Catastrophe in Art</em>,<em> Architecture and Philosophy</em>. Ed. F. Le Roy, N. Wynants, D. Hoens, R. Vanderbeeken, Gent: Academia Press, 2011: 130-145.</p>
+<p>Sontag, Susan. <em>Illness as Metaphor</em>. New York: Farrar, Straus and Giroux, 1977. </p>
+<p>Stasiuk, Andrzej. "Pod Gwiazdą Piołun." <em>Tygodnik Powszechny </em>(Sept. 25th 2017),  <a href="https://www.tygodnikpowszechny.pl/pod-gwiazda-piolun-150091">https://www.tygodnikpowszechny.pl/pod-gwiazda-piolun-150091</a>.</p>
+<p>Sugiera, Małgorzata. "Badacz jako świadek: między wiedzą uniwersalną a lokalną."  <em>Teksty Drugie</em>, no. 3 (2018): 253-266.</p>
+<p>Shevchenko, Vladimir. <em>Chernobyl: Chronicle of Difficult Weeks</em>. Ukraine, 1990. <em></em></p>
+<p>Thompson, Jim. "The Mayak Plant, Chelyabinsk – a brief historical review." <em>Nuclear Future</em> 12 (2016): 50-59.</p>
+<p>Wójcik, Daniel. <em>The End of the World as We Know It. Faith, Fatalism and Apocalypse in America</em>. New York: New York University Press, 2007.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/22-how-to-see-the-antropocene/body-language-nature" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

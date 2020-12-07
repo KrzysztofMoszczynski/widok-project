@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Auto-photo-biographies | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/13-auto-foto-biografie/auto-photo-biographies">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Auto-photo-biographies | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Auto-photo-biographies | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/13-auto-foto-biografie/auto-photo-biographies">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Auto-photo-biographies | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #669 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #669 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #669 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #669 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #669 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #669 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #669 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #669 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(102,102,153,0.8) !important; */
+			/* background-color:#669 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(102,102,153,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#669 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(102,102,153,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#669; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(102,102,153,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(102,102,153,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#669 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#669 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#669 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-875 parent-id-869">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="790" data-selected-issue-color="#669" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2016/auto-foto-biografie/auto-foto-biografie">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2016/auto-foto-biografie/auto-foto-biografie">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/13-auto-foto-biografie#toc">13</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/13-auto-foto-biografie/auto-photo-biographies?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Auto-photo-biographies</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/13-auto-foto-biografie/auto-photo-biographies?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=311">Katarzyna Bojarska</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p></p> <blockquote> <p style="text-align: right;">Here it is, at last: <br> secret meeting in Karl-Marx-Stadt cafeteria, Widzew -<br> she puts a&nbsp;finger in his mouth, he keeps her finger in his mouth,<br> with&nbsp;blurred background behind&nbsp;someone still counts <br> on memory, someone backs the stage,<br> any minute now a&nbsp;shot of light will turn bones into&nbsp;paper<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a>.</p> <p style="text-align: right;">Jerzy Jarniewicz</p> </blockquote> <p></p> <h2>The Stream of Life</h2> <p>In the era of social media and virtual communities such as Instagram, creating one’s auto-photo-biography seems as evident and indispensable as cleaning one’s teeth. This&nbsp;activity is almost thoughtless, undisputed and automatic; necessary not only for&nbsp;becoming a&nbsp;certain some-body, but&nbsp;even for&nbsp;being as such. Equally evident (if not essential) is the creative dimension of these kinds of visual narratives. The emergent image, and personal story that&nbsp;follows, become filtered by desires, dreams and concepts of oneself and of the ways others see us: self-portrait and autobiography reveal what we want to share with&nbsp;others, how we want to be seen and perceived. Creating a&nbsp;record of one’s history equals –&nbsp;to a&nbsp;large extent –&nbsp;creating one’s own “stream of images”; today, more than&nbsp;ever –&nbsp;though in a&nbsp;slightly altered context –&nbsp;Walter Benjamin’s claim that&nbsp;“history decays into&nbsp;images and not stories”<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> stands in accordance with&nbsp;reality; and these are very particular images: images which participate in life, record it, dictate and organize it, sometimes even erase or destroy. On the other hand, however, as our lives and images are ceaselessly registered by the apparatus of power in its diverse forms, such self-record, or record of the self, can be perceived as a&nbsp;gesture of resistance, –&nbsp;an attempt at saving oneself vis-à-vis absolute subjugation and control. However, there remain those who do not share this&nbsp;auto-photo-biographical passion, or possibly, they are faithful to other modes of recording their personal stories and images, or maybe in a&nbsp;more or less conscious way they escape this&nbsp;omnipresent “recording.” Whatever its means and form, every autobiography faces the same question: is it the “I” that&nbsp;creates the story of the I’s past&nbsp;or rather, is it the story that&nbsp;creates the “I” as a&nbsp;protagonist of history and fiction alike<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a>.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/13/auto-foto-biografie/06-1920x-bd5.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/13/auto-foto-biografie/06-330x-20e.jpg 330w,assets/cache/images/issues/2016/13/auto-foto-biografie/06-660x-dff.jpg 660w,assets/cache/images/issues/2016/13/auto-foto-biografie/06-768x-1cd.jpg 768w,assets/cache/images/issues/2016/13/auto-foto-biografie/06-1320x-963.jpg 1320w" src="assets/cache/images/issues/2016/13/auto-foto-biografie/06-660x-dff.jpg" alt="" ></a>    <figcaption><p>Aneta Grzeszykowska, <em>Untitled (Portraits)</em>, 2005 (<a href="http://en.rastergallery.com/prace/bez-tytulu-portrety/" target="_blank" rel="noopener">source</a>)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Taking the above&nbsp;and other reasons into&nbsp;consideration, now seems to be the right time to pursue a&nbsp;kind of archeology of auto-photo-biography, and to return to autobiographic projects in which the interplay of (literary) text and (photographic) image uncovers not only some specificities of the genre, but&nbsp;also the crisis of representation and historical experience from&nbsp;the second half of the 20<sup>th</sup> century onwards. Such critical and politically self-conscious archeology allows for&nbsp;readdressing problems around&nbsp;“history writing” and living among, and in relation to, photographic images, as well as life and photography in general. It thus seems worthwhile to revisit such theories and projects without&nbsp;which –&nbsp;as I&nbsp;claim –&nbsp;neither autobiography (nor biography for&nbsp;that matter) nor photography (both analogue and digital) would mean what they do today. I&nbsp;am thinking in particular of Vladimir Nabokov’s<em> Speak, Memory</em>, <em>Roland Barthes par Roland Barthes </em>and his <em>Camera Lucida</em>, of Georges Perec’s <em>W ou le souvenir d’enfance </em>(actually his oeuvre as a&nbsp;whole), of W.G. Sebald’s prose writings read as a&nbsp;very peculiar kind of auto-photo-biography, of Virginia Woolf’s <em>Orlando</em>, writings and photographs by Ewa Kuryluk, Aneta Grzeszykowska’s photographic projects (as well as her dolls!), of the work of Roni Horn, Sophie Calle, Cindy Sherman, Francesca Woodman, Chantal Akerman or Claude Cahun<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a>. Each of them develops his/her own auto-photo-biography in a&nbsp;distinctive and unparalleled way.</p> <p><a name="_GoBack"></a> The works of literary criticism, especially written in French, devoted to the question of autobiography and photography are countless, while the vocabulary developed in this&nbsp;field is abundant and confusing<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a>. The terminological inconsistency is somewhat organized by Laurence Petit in her essay devoted to Nabokov’s <em>Speak, Memory</em>, where she stresses a&nbsp;growing awareness of fictionalization of autobiographical projects and a&nbsp;critical approach to their “photographic” character. Following&nbsp;her research one should bear in mind Hervé Guibert’s concept of “photobiography,”<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a> Johnny Gratton’s “photographic autofiction,”<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a> parallel to French <em>nouveau roman –&nbsp;</em>“new autobiography”<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> (Mounir Laouyen, Alex Hughes) and Maria Louise Asher’s “meta-autobiography”<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a>. I&nbsp;have decided to mention these terms here without&nbsp;analyzing in detail subtle differences between&nbsp;them, in order to point to a&nbsp;certain need, if not desire, on the part of critics and theoreticians to set in order and name this&nbsp;fugitive, hybrid, limited and heterogenic ‘genre.’ I&nbsp;am interested most of all in a&nbsp;constellation of artifacts (of visual culture), which in another context or reading would possibly have little to do with&nbsp;one another. And, most importantly, from&nbsp;a&nbsp;researcher’s perspective: there exists no one methodology which would allow one to discuss, analyze and compare them all. I&nbsp;am aiming thus at producing (by performed readings) a&nbsp;methodology, at expanding the research field and refreshing some of the already outdated (or concluded, one would have thought), discussions: such as those addressing the relationship and difference between&nbsp;document and fiction, or creation and authenticity/sincerity.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/13/auto-foto-biografie/mirror-deb-1920x-b56.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/13/auto-foto-biografie/mirror-deb-330x-b4d.jpg 330w,assets/cache/images/issues/2016/13/auto-foto-biografie/mirror-deb-660x-9ee.jpg 660w,assets/cache/images/issues/2016/13/auto-foto-biografie/mirror-deb-768x-931.jpg 768w,assets/cache/images/issues/2016/13/auto-foto-biografie/mirror-deb-1320x-71d.jpg 1320w" src="assets/cache/images/issues/2016/13/auto-foto-biografie/mirror-deb-660x-9ee.jpg" alt="" ></a>    <figcaption><p>Claude Cahun and Marcel Moore, <em>Untitled: Cahun and a&nbsp;mirror reflection</em>, 1928 (<a href="https://tiffobenii.wordpress.com/performing-gender/claude-cahun/" target="_blank" rel="noopener">source</a>)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>In this&nbsp;article my aim is thus neither to offer a&nbsp;systematic and exhaustive description of the existing research field, nor to analyze any specific artistic trend or detailed case studies of works mentioned above. Instead, I&nbsp;would like&nbsp;to look at –&nbsp;through&nbsp;the prism of text-image –&nbsp;constructions of the present tense of identity; narratives of individual his/herstories inscribed in collective histories which at the same time question the conditions of possibility of the construction of any narrative about&nbsp;the past&nbsp;and the self. I&nbsp;am interested in what way textual-visual selves exist and move across&nbsp;media, formats, and strategies of telling and showing. To a&nbsp;certain extent this&nbsp;is about&nbsp;a&nbsp;‘photographic turn’ in autobiography and an ‘autobiographic turn’ in photography –&nbsp;as much as I&nbsp;am skeptical of any ‘turn’ in critical thinking –&nbsp;in artistic practices which use and subvert the photographic medium. Even though one could think that&nbsp;in the visual field there is no generic equivalent to auto-fiction, because self-portraiture assumes the reference between&nbsp;the person and the image, artists have long struggled to introduce diverse estranging operations aimed at fictionalizing and problematizing not only portraiture as such, but&nbsp;the very identity of the portrayed (bringing to life a&nbsp;kind of “self-portrait of somebody else”).<br><br>Most urgent questions reach, on the one hand, in the direction of the meaning of photography for&nbsp;narratives about&nbsp;one’s past&nbsp;and for&nbsp;creating one’s history (both as a&nbsp;single image and a&nbsp;series of images –&nbsp;an album or an archive; photography as a&nbsp;very specific kind of “text”; photography as a&nbsp;very specific kind of being; photography as memory and/or oblivion; photography as a&nbsp;specter and as matter). On the other hand, questions extend towards&nbsp;what is creating and making history by means of photographic images, whether a&nbsp;picture shows or tells. What is the role of verbal commentary in the case of such photography (or photographic project)? What should one make of its lack, the withdrawal or at times rendering null and void of language? And there is another mode of photography’s being in autobiographic projects: when it operates by its absence, or lack: having been removed, erased, or annihilated, yet active and effective. I&nbsp;am thus concentrating more than&nbsp;anything on such cases when auto-photo-biographic (artistic / literary) projects are at the same time theoretical projects which introduce “weak” or “soft” theories of photography and autobiography (sometimes also subjectivity, representation and language).</p> <h2>A Moment of History</h2> <p>An important moment for&nbsp;auto-photo-biography is the second half of 1970s, i.e. a&nbsp;time when the authority of grand narratives about&nbsp;the past&nbsp;was painfully questioned. In 1973 American intellectual historian, Hayden White published his <em>Metahistory: The Historical Imagination in Nineteenth-Century Europe<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a></em> in which he claimed that&nbsp;any historical tale about&nbsp;the past&nbsp;is precisely a&nbsp;narrative authored by a&nbsp;historian, and that&nbsp;there exists the “poetics of historical writing” based on rhetorical rules and figures. White discovered the literary within&nbsp;the scientific and claimed authorial agency for&nbsp;historians as writers. What is more, as many, Dominick LaCapra among&nbsp;them, would argue afterwards, a&nbsp;historian always narrates a&nbsp;story which implicates him/her, is always motivated by a&nbsp;personal (even if not acknowledged) choice, and always for&nbsp;a&nbsp;reason, even if that&nbsp;reason remains obscure (for that&nbsp;person). After&nbsp;this discovery of historical writing as writing was made, it has become a&nbsp;matter of essential scholarly honesty, writerly sincerity and authorial ethical politics not to negate it and to make it available to readers. New historicism invited not so much more “open-ended” historical narratives (or less rigorously academic ones), but&nbsp;rather created a&nbsp;space for&nbsp;emergence of new theories of autobiography and autofiction. If it became “clear” that&nbsp;historiography has its own poetics, the poetics of personal histories could now become more metapoetic and open to other media (including photography as critical and artistic image, not so much as visual evidence) and to questioning their referentiality.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/13/auto-foto-biografie/74-1600x1066-1920x-93c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/13/auto-foto-biografie/74-1600x1066-330x-088.jpg 330w,assets/cache/images/issues/2016/13/auto-foto-biografie/74-1600x1066-660x-072.jpg 660w,assets/cache/images/issues/2016/13/auto-foto-biografie/74-1600x1066-768x-b29.jpg 768w,assets/cache/images/issues/2016/13/auto-foto-biografie/74-1600x1066-1320x-f66.jpg 1320w" src="assets/cache/images/issues/2016/13/auto-foto-biografie/74-1600x1066-660x-072.jpg" alt="" ></a>    <figcaption><p>Aneta Grzeszykowska, <em>Iranian Film Stills</em>, 2015 (<a href="http://en.rastergallery.com/prace/iranian-film-stills/" target="_blank" rel="noopener">source</a>)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The questions of authenticity, truth, faithfulness and sincerity as well as a&nbsp;crisis of reference, identity and likeness in autobiographical writing (recording one’s past&nbsp;and transferring it to others), all come together in Roland Barthes’ <em>Roland Barthes par Roland Barthes</em> and Philippe Lejeune’s <em>The</em><em>Autobiographical Pact</em>, both from&nbsp;1975. Autobiography like&nbsp;photography (according to their most traditional, though still common, definition) is supposed to refer to something beyond&nbsp;itself, or to a&nbsp;reality beyond&nbsp;its own pictorial reality. According to Lejeune, the essence of the pact between&nbsp;the reader and the author is accepting the fact that&nbsp;the author, narrator and textual “I” of autobiography are one, this&nbsp;identity is more than&nbsp;just likeness<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a>. In other words, the one who writes, narrates and is being talked about&nbsp;is the exact same person. What is at stake in such a&nbsp;framework is most of all the reader’s sense of safety: the person who narrates his/her story existed or exists for&nbsp;real and as such guarantees that&nbsp;also history existed and exists (a past&nbsp;framed by this&nbsp;or that&nbsp;tale, frozen in/as this&nbsp;or that&nbsp;image). Lejeune is not interested in the visual, his reflection concentrates on textual narratives only. At the same time, creating the story of himself with&nbsp;the use of text and (photographic) images, Barthes disturbs if not breaks the connection not so much between&nbsp;the “I” who narrates his past&nbsp;and the “I” living in a&nbsp;real and material actuality, but&nbsp;the “I” whose image was recorded by a&nbsp;photographic camera in the past, the experiencing I, the I&nbsp;of memory acts and the I&nbsp;who is writing. This&nbsp;multiplicity will not become one, because this&nbsp;subject is insofar as he is not one<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a>.<br><br>Two years after&nbsp;Lejeune’s theory of the pact was published, French writer and critic, Serge Doubrovsky, introduces the term <em>auto-fiction </em>to describe his own autobiographical practice as well as many other (critical and self-critical) personal histories published at that&nbsp;time. According to Doubrovsky, the fact that&nbsp;the author of the text is identical with&nbsp;its narrator and protagonist does not necessarily mean that&nbsp;the reality depicted is not a&nbsp;product of literature, i.e. imagined rather than&nbsp;faithfully rendered. Memory as a&nbsp;vehicle of this&nbsp;kind of text works hand in hand with&nbsp;imagination to create literary fiction.<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a><br><br>Producing the self and reproducing this&nbsp;self’s history is an artistic creation <em>par excellence</em>, a&nbsp;continuous performance of a&nbsp;variable being, elusive, hybrid, estranged from&nbsp;oneself (or only discovered in the process of writing): self from&nbsp;a&nbsp;distance, detached, seen in a&nbsp;photo from&nbsp;the past. Let us recall <em>Camera Lucida, </em>published in 1980, in which Barthes writes that&nbsp;the photographic portrait is the birth of I&nbsp;as somebody else<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a>. Autobiography deals with&nbsp;a&nbsp;hybrid and is a&nbsp;hybrid itself; it refers to the past, and to the present, to that&nbsp;which is ours and that&nbsp;which belongs to somebody else, to documents and fictions, to the desire for&nbsp;authenticity and to the need of fiction (of happiness or mastering). Autobiography rests on a&nbsp;multidirectional pact between&nbsp;present I&nbsp;and numerous I’s from&nbsp;the past, between&nbsp;textual I&nbsp;and the I&nbsp;beyond the text, between&nbsp;I&nbsp;watching itself on pictures and I&nbsp;photographed in every single space-time, between&nbsp;every one of these I’s and the looking/reading I/eye. Just as with&nbsp;photography. So, the encounter between&nbsp;these two hybrids –&nbsp;both in theory and in auto-historiographical practice –&nbsp;seems not so much inescapable, but&nbsp;rather indispensable.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/13/auto-foto-biografie/p11519_10-1920x-b56.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/13/auto-foto-biografie/p11519_10-330x-b4d.jpg 330w,assets/cache/images/issues/2016/13/auto-foto-biografie/p11519_10-660x-9ee.jpg 660w,assets/cache/images/issues/2016/13/auto-foto-biografie/p11519_10-768x-931.jpg 768w,assets/cache/images/issues/2016/13/auto-foto-biografie/p11519_10-1320x-71d.jpg 1320w" src="assets/cache/images/issues/2016/13/auto-foto-biografie/p11519_10-660x-9ee.jpg" alt="" ></a>    <figcaption><p>Cindy Sherman, <em>Untitled Film Still #53</em>, 1980 (<a href="http://www.tate.org.uk/art/artworks/sherman-untitled-film-still-53-p11519" target="_blank" rel="noopener">source</a>)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>In <em>Autobiography as De-facement</em>, a&nbsp;text from&nbsp;1979, Paul de Man writes that&nbsp;the genre’s theory is monotonous and predictable, and that&nbsp;it repeatedly gets stranded with&nbsp;claims, frames and definitions taken for&nbsp;granted yet problematic. De Man argues that&nbsp;autobiography is an uncertain genre whose representatives “seem to shade off&nbsp;into neighboring or even incompatible genres.”<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a> However, he takes into&nbsp;consideration only textual genres. And when he writes about&nbsp;the image, the photographic image to be precise, it is with&nbsp;ignorance not only of photographic theory but&nbsp;also with&nbsp;contemporary artistic practices which at that&nbsp;time overtly questioned referentiality and transparency of the photographic medium. “But are we so certain that&nbsp;autobiography depends on reference, as a&nbsp;photograph depends on its subject or a&nbsp;(realistic) picture on its model?”<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a> –&nbsp;he writes. The dependence of photography on its object, just like&nbsp;the dependence of the subject on his/her photographic image, have been systematically deconstructed by the artists of the Pictures Generation<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a>, such as Cindy Sherman (her <em>Untitled Film Stills </em>come from&nbsp;1977!), Richard Prince, Sherrie Levine and Louise Lawler. Thus one could claim with&nbsp;much polemical vigor that&nbsp;what de Man writes about&nbsp;literary autobiography relates equally to photography:</p> <blockquote>And since&nbsp;the mimesis here assumed to be operative is one mode of figuration among&nbsp;others, does the referent determine the figure, or is it the other way round: is the illusion of reference not a&nbsp;correlation of the structure of the figure, that&nbsp;is to say no longer clearly and simply a&nbsp;referent at all but&nbsp;something more akin to fiction, which then however, in its own turn, acquires a&nbsp;degree of referential productivity?<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a></blockquote> <p>De Man is convinced that&nbsp;there can be no clear division between&nbsp;fiction and autobiography. Moreover, to decide whether a&nbsp;work is one or the other is simply impossible, while what is most intriguing from&nbsp;the point of view of theory and criticism is precisely this&nbsp;impossibility. In the context of auto-photo-biography all this&nbsp;seems even more complicated and fascinating. In cases which I&nbsp;find of interest, photography does not guarantee reference of the autobiographical text, quite to the contrary, it problematize it even more, at the same time problematizing the referentiality of the medium and of the genre. The photographic image does not contribute to fixing the subject of biography, neither does it materialize it; it does little to root literature in the material and visual experience of the past, it does not support certainty but&nbsp;rather multiplies and forces doubts. At most it contributes to create more powerful affective bond between&nbsp;the author and the recipient of this&nbsp;history. It confirms the subject of biography insofar as it extracts his/her ambiguities, uncertainties, and heterogeneity, as the objects of his/her and the reader’s cognition. Photography like&nbsp;autobiography privileges a&nbsp;kind of double consciousness: a&nbsp;need for&nbsp;and impossibility of rooting oneself in that&nbsp;which is beyond&nbsp;the text, and beyond&nbsp;the image. Moreover, and possibly a&nbsp;more fundamental fear, that&nbsp;there is no “beyond” at all, or an anxiety that&nbsp;even if it exists, it is only as a&nbsp;constellation of realities produced by others, as a&nbsp;mutual intertwining of narratives, gestures, and images of and by others, as something inaccessible and obscure, as a&nbsp;product of phantasy, memory and angst.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/13/auto-foto-biografie/1239296074_francesca-woodman-from-polka-dots-providence-rhode-island-1976-p025_web_2-jpg-700x730-1920x-582.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/13/auto-foto-biografie/1239296074_francesca-woodman-from-polka-dots-providence-rhode-island-1976-p025_web_2-jpg-700x730-330x-15b.jpg 330w,assets/cache/images/issues/2016/13/auto-foto-biografie/1239296074_francesca-woodman-from-polka-dots-providence-rhode-island-1976-p025_web_2-jpg-700x730-660x-5bf.jpg 660w,assets/cache/images/issues/2016/13/auto-foto-biografie/1239296074_francesca-woodman-from-polka-dots-providence-rhode-island-1976-p025_web_2-jpg-700x730-768x-11a.jpg 768w,assets/cache/images/issues/2016/13/auto-foto-biografie/1239296074_francesca-woodman-from-polka-dots-providence-rhode-island-1976-p025_web_2-jpg-700x730-1320x-812.jpg 1320w" src="assets/cache/images/issues/2016/13/auto-foto-biografie/1239296074_francesca-woodman-from-polka-dots-providence-rhode-island-1976-p025_web_2-jpg-700x730-660x-5bf.jpg" alt="" ></a>    <figcaption><p>Francesca Woodman, <em>Francesca Woodman, Polka Dots, Providence, Rhode Island</em>, 1976 (<a href="http://www.cvltnation.com/through-the-eyes-of-ghost-francesca-woodman-photography-spotlight-2/" target="_blank" rel="noopener">source</a>)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>As the authors of the introduction to <em>Textual and Visual Selves </em>rightly point out, “images of objects or people may not function straightforwardly as attestation of what has been, but&nbsp;rather serve as the repository of an inner life and as an inscription of what might have been, an imagined rather than&nbsp;a&nbsp;lived past.”<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a> Photography thus serves not only to question the time of the story and the time of experience, the time of living-on and of memory, but&nbsp;also to estrange the subject of autobiography, and as such, it was especially pertinent for&nbsp;various feminist conceptions of autobiography. A&nbsp;crisis of reference contributed greatly to reclaiming or re-appropriating this&nbsp;genre by female narrations of the past&nbsp;and of identity, which allowed for&nbsp;an exposing of the space of exclusion (of the female voice as the other of traditional autobiography), and for&nbsp;making their voice heard immediately on other terms.<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a> According to Lionnet, writing enabled the bringing to life of a&nbsp;heterogeneous, pluralist I, who profited from&nbsp;this multiplicity and ambivalence, and gained power to fight and refuse “polarized and polarizing notions of identity, culture, race or gender”<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a>. Female autobiography –&nbsp;as a&nbsp;gesture of claiming control over&nbsp;one’s history, telling this&nbsp;history in one’s own voice and by one’s own means, forms and figures –&nbsp;has also become a&nbsp;weapon to fight enforced images, roles, muteness and subjugation. Writing autobiography, i.e. conscious inscription of one’s history, is an expression of one’s agency and power to become oneself, a&nbsp;re-appropriation of one’s image and gaining control over&nbsp;it, and, last but&nbsp;not least, offering it to the world according to one’s needs and rules. As Sidonie Smith and Julia Watson, editors of <em>Interfaces: Women, Autobiography, Image, Performance</em>, rightly claim, one should think about&nbsp;female autobiography not in the context of referentiality but&nbsp;performativity. Female identity and personal history emerge in “a performative act constituting subjectivity in the interplay of memory, experience, identity, embodiment and agency”<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a>.</p> <h2>Still, Life</h2> <p>In what follows –&nbsp;an analysis of a&nbsp;single work of literature and several work-life projects –&nbsp;I&nbsp;would like&nbsp;to show how a&nbsp;polyphonic theory of auto-photo-biography presents itself from&nbsp;a&nbsp;perspective which grows out of ‘mixed-media’ readings. It is polyphonic and mixed media because it has been co-shaped by numerous artists, writers and theoreticians and it is ‘mixed media’ because I&nbsp;do not stick to one media –&nbsp;such as literary –&nbsp;but&nbsp;rather, dive into&nbsp;this porous space where not only verbal and visual; meet up, but&nbsp;also diverse forms and formats of visuality and textuality. As has already been mentioned, I&nbsp;am interested in authors of autobiographical projects who are aware of and include complex influence of photography, problematic nature of memory and their complicated relationships with&nbsp;identity in its numerous dimensions. In literary (auto)biographies I&nbsp;concentrate mostly on cases when photography (sometimes absent as an image) turns out to be a&nbsp;crucial element in the construction of narrative, as that&nbsp;which enables or blocks it, as that&nbsp;which replaces memory, as nearly bodily object, a&nbsp;prosthesis of an absent, dead or annihilated body, as remnants, ruins, and last but&nbsp;not least, as a&nbsp;prosthesis of reality; photography as a&nbsp;support but&nbsp;also opponent of history (photography reaches deeper), as a&nbsp;material witness and as a&nbsp;companion of life, all burden of this&nbsp;multidimensional relation notwithstanding<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a>. What organizes the majority of “photographic narratives” is fascination, if not obsession, with&nbsp;the limited character of the medium: the photographic image is located at the boundaries (and questions them) between&nbsp;limitless possibility of reproduction (preservation, conservation or even rescue), and the equally limitless and unrestricted possibility of erasure (destruction, loss and manipulation) of history.</p> <h2>G.P.</h2> <p>In his afterward to Georges Perec’s <em>W or the Memory of Childhood </em>(1975) the author of the Polish translation describes this&nbsp;autobiographical narrative as a&nbsp;“jigsaw” which Perec uses to create his “self-portrait,” or rather “a sketch for&nbsp;a&nbsp;self-portrait”, and a&nbsp;“peculiar autobiography,” whose mechanism works for&nbsp;the sake of extracting one’s life from&nbsp;oblivion<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a>. It is worth pointing out that&nbsp;in order to grasp the essence of Perec’s work, the translator makes use of visual metaphors, moreover, at one point Wawrzyniec Brzozowski claims that&nbsp;the first edition of <em>W</em> included photographs described in the text which were removed from&nbsp;subsequent editions<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a>. The desire to “see” is so strong –&nbsp;Brzozowski is “burning with&nbsp;desire”, to use Geoffrey Bachten’s words –&nbsp;that&nbsp;it misleads him. The lack of these images is constitutive for&nbsp;Perec’s narrative of his own, and his family’s past, and for&nbsp;his work with&nbsp;and on memory; simply, they could not have been placed in the text!<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a>. <em>W</em> is made of two parallel narratives: a&nbsp;fictitious story about&nbsp;an island named W&nbsp;(this story is a&nbsp;disguise for&nbsp;his own story, or the History Perec “invented, described and drew” at the age of 13), and a&nbsp;narrative about&nbsp;the author’s childhood and the fate of his family –&nbsp;a&nbsp;narrative, or should one rather say, an attempt at narrating, constantly threatened by doubt and failure. The latter is also a&nbsp;tale about&nbsp;writing as such, or rather, again, an impossibility to write and an attempt to fight this&nbsp;impasse. Personal narrative is as fragmentary, broken and imperfect as the narrator’s knowledge of the past. Fictitious counterpart accompanies it and supports it courageously.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/13/auto-foto-biografie/262-1920x-b56.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/13/auto-foto-biografie/262-330x-b4d.jpg 330w,assets/cache/images/issues/2016/13/auto-foto-biografie/262-660x-9ee.jpg 660w,assets/cache/images/issues/2016/13/auto-foto-biografie/262-768x-931.jpg 768w,assets/cache/images/issues/2016/13/auto-foto-biografie/262-1320x-71d.jpg 1320w" src="assets/cache/images/issues/2016/13/auto-foto-biografie/262-660x-9ee.jpg" alt="" ></a>    <figcaption><p>W.G. Sebald, Jacquot im Monat Feber 1939, <em>Austerlitz</em>, 2001 (<a href="http://www.wgsebald.de/austbibu.html" target="_blank" rel="noopener">source</a>)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Perec writes that&nbsp;he has long deluded himself with&nbsp;the lack of his own history. It was something he was “spared,” because “other history, the grand history with&nbsp;its axe, replaced it –&nbsp;war and concentration camps” (11). Paradoxically, he was able to hide in the shadow of the grand narrative of catastrophe, which not only granted him peace (he did not have to look for&nbsp;his own story, recreate or create it), but&nbsp;also identity –&nbsp;he was a&nbsp;Holocaust child, a&nbsp;child survivor, an orphan who survived his annihilated parents. He lived in the world of –&nbsp;as he himself called it –&nbsp;dry, transparent and simple facts –&nbsp;one could add –&nbsp;deprived of any affect: he lost his mother at the age of 6 and his father at age 4. “I have one photograph of my father and five of my mother” (37) –&nbsp;this&nbsp;sentence opens Chapter 8 of <em>W</em>. In the second paragraph Perec informs us that&nbsp;the idea to write his own history (to finally have it!), came to him when he realized he wanted to become a&nbsp;writer. (37). Writing as such made sense insofar as it served inventing or regaining his own history (and by the same token, the history of his parents). In the subsequent part of the book he provides a&nbsp;narrative divided in two, which he had written 15 years prior –&nbsp;a&nbsp;kind of attempted autobiography. He introduces 26 footnotes to this&nbsp;text: corrections, explanations, comments. We learn the things he invented, mistook or would have written otherwise because he clearly remembers them differently at the time of writing <em>W</em>. And when it comes to the aforementioned photographs of his parents, he writes: “In the photograph, my father looks as the father should look like” (38). This&nbsp;and the following&nbsp;pictures are described in detail: who is depicted, what the background looks like, how the elements are located in the frame, as well as how these photographs look like&nbsp;as material objects. In Chapter 10 three photographs of/with his mother “emerge” (in one of them one can possibly spot a&nbsp;bit of the father’s coat), a&nbsp;fourth one in Chapter 15. One could say everyone looks as they should, or are expected to. Placed in proper sites and poses; classic iconographic motifs such as a&nbsp;woman with&nbsp;a&nbsp;child notwithstanding. Nothing suggests what is going to happen, nothing betrays what happened. Photographs do not make things easier for&nbsp;Perec, neither do they help to remember nor to write. As such they have no content of their own, they do not trigger memories or emotions; although the narrator tries to animate them, to grab onto&nbsp;their living flesh, they remain paper remnants of other (past) time and other (absent) people.</p> <p>The drama of writing is played out in the following&nbsp;way:</p> <blockquote>I am not sure whether I&nbsp;really have nothing to say –&nbsp;I&nbsp;know that&nbsp;I&nbsp;am not saying it. I&nbsp;am not sure whether what I&nbsp;would have to say had not been expressed because it is unspeakable (I am not talking about&nbsp;the writer’s limitations but&nbsp;about the unspeakability of what triggered writing) –&nbsp;I&nbsp;know that&nbsp;what I&nbsp;write is transparent, pale, meaningless, and once and for&nbsp;all annihilates it (52–53).</blockquote> <p>And here is how the drama of live, traumatically bond to the past&nbsp;is played out:</p> <blockquote>I do not write, however, to claim that&nbsp;I&nbsp;can say nothing. I&nbsp;write because we lived together, because I&nbsp;was with&nbsp;them –&nbsp;my shadow among&nbsp;their shadows, my body next to their bodies. I&nbsp;write, because they left a&nbsp;mark, whose trace is my writing –&nbsp;their memory dies in writing, and writing is the memory of their death and a&nbsp;confirmation that&nbsp;I&nbsp;am alive. (53).</blockquote> <p>Memory which disappears in writing, disappears even more so in the photographs, there it has never been in the first place. What seems most important (as well as most ironic, paradoxical and sad), is the fact that&nbsp;they are, they remained instead of people. A&nbsp;chance that&nbsp;they bear traces of the latter offers no consolation (hope that&nbsp;it is the mother’s handwriting!). If anything is inscribed in these images-as-objects, it surely is not what they depict (scenes, faces, relationships), but&nbsp;rather the bare fact of their existence, of their loss and of Perec’s being there while they are not. This&nbsp;is precisely why the photographs cannot be in the text <em>W</em> and why they are so essential for&nbsp;this text’s becoming: they operate by means of their not-being-there. Perec has no photographic family album, nothing to choose from; in his case the “family frames” point to gaps and voids in memory and in family history, they are burnt-out holes becoming photographs, snapshots from&nbsp;the past. They are pieces of the world that&nbsp;exists no more, something puzzling and at the same time a&nbsp;kind of abjection, a&nbsp;thing touched by immaterial corpses; they are a&nbsp;souvenir not because they depict the dead, but&nbsp;because they survived in their place. Material presence of these images in the narrator’s life seems to be something exceptional: they are impossible to reproduce or reprint, they are singular and exceptional and as such they negate the very essence of photography (which is mass and reproducible). And thus, their essence is not for&nbsp;display, impossible to be presented. One may attempt to describe them, or –&nbsp;more adequately –&nbsp;to write with&nbsp;or from&nbsp;them (rather than&nbsp;about them), and this&nbsp;is what Perec did in <em>W </em>as an auto-photo-biography and in his literature as such.</p> <h2>R.H.</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/13/auto-foto-biografie/02_lebovici_white_0-1920x-c0e.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/13/auto-foto-biografie/02_lebovici_white_0-330x-91f.jpg 330w,assets/cache/images/issues/2016/13/auto-foto-biografie/02_lebovici_white_0-660x-0c8.jpg 660w,assets/cache/images/issues/2016/13/auto-foto-biografie/02_lebovici_white_0-768x-68a.jpg 768w,assets/cache/images/issues/2016/13/auto-foto-biografie/02_lebovici_white_0-1320x-c18.jpg 1320w" src="assets/cache/images/issues/2016/13/auto-foto-biografie/02_lebovici_white_0-660x-0c8.jpg" alt="" ></a>    <figcaption><p>Roni Horn, <em>This is Me, This&nbsp;is You</em>, 1998–2000 (<a href="http://www.tate.org.uk/context-comment/articles/faces-speak-volumes" target="_blank" rel="noopener">source</a>)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>For Roni Horn life, private history and image (of/as) a&nbsp;woman meet up to become the essence of her oeuvre. Consistently she looks for&nbsp;her reflection in the faces of other females, in other faces and herstories<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a>. She makes images of relationships between&nbsp;various moments in time, representations and experiences. Horn reaches into&nbsp;childhood –&nbsp;or rather girlhood –&nbsp;and invites us to see it in ways both melancholic, autonomous and humorous. In <em>This Is Me, This&nbsp;Is You </em>(1998–2000) we look at everyday photographic portraits of 8-10-year-old Georgia, exhibited in two gridded sets of 48 images each<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a>. Crucially, every image in each grid has an equivalent in the other, they were taken at almost the same time, but&nbsp;on the level of expression they are strikingly different. However, this&nbsp;is not something one spots immediately, the two grids cannot be seen at the same time. So, we are deceived that&nbsp;these are sets of Georgia’s portraits from&nbsp;various moments of her life (and it is the temporal difference that&nbsp;explains different facial expressions). There is no chronology in these sets, thus it is not a&nbsp;<em>bildung </em>kind of visual narrative. Transformations, rather than&nbsp;being squeezed into&nbsp;the frame of individual’s progress, are being celebrated here as such, are a&nbsp;source of joy and <em>jouissance</em>. We see Georgia playfully making “faces”, we see various faces of the same girl, or different girls with&nbsp;a&nbsp;similar face, we see her looking into&nbsp;the camera and the face of another woman, her aunt. We enter between&nbsp;the two, and by doing so we enter a&nbsp;relationship which remains equally obscure as the girl herself, as girlhood, as adolescence which culminates in self-awareness or, one should rather say, in the awareness of one’s image or oneself as image. Childhood –&nbsp;to paraphrase another protagonist of Roni Horn’s pictures, Hélène Cixous –&nbsp;is the time of ceaseless quest for&nbsp;the self and of curiosity of the world<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a>. The artist allows the “I” and “you” to remain suspended in-between undecidability and complete lack of certitude: who is Georgia, who was she and whom has she become.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/13/auto-foto-biografie/roni-horn-aka-31-1920x-b56.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/13/auto-foto-biografie/roni-horn-aka-31-330x-b4d.jpg 330w,assets/cache/images/issues/2016/13/auto-foto-biografie/roni-horn-aka-31-660x-9ee.jpg 660w,assets/cache/images/issues/2016/13/auto-foto-biografie/roni-horn-aka-31-768x-931.jpg 768w,assets/cache/images/issues/2016/13/auto-foto-biografie/roni-horn-aka-31-1320x-71d.jpg 1320w" src="assets/cache/images/issues/2016/13/auto-foto-biografie/roni-horn-aka-31-660x-9ee.jpg" alt="" ></a>    <figcaption><p>Roni Horn, <em>Roni Horn aka Roni Horn: Subject Index</em>, 2009 (<a href="https://standickinson.com/2014/07/04/double-androgyny/" target="_blank" rel="noopener">source</a>)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>What if Georgia is Horn as a&nbsp;girl? In her <em>Roni Horn aka Roni Horn </em>(2008–2009) we see portraits (possibly also self-portraits) of the artist from&nbsp;different moments and periods of her life put in pairs. We see her as a&nbsp;girl, a&nbsp;teenager, young woman, a&nbsp;tomboy and almost not-a-woman –&nbsp;Roni Horn plays with&nbsp;her image and with&nbsp;the image of a&nbsp;female or femininity, its numerous variants. Is identity as uncertain as the portrait, do we always look like&nbsp;the one we are, or do we try to look like&nbsp;somebody similar to us or to our image? Do we recall ourselves, do we recognize ourselves or do we rather appear to ourselves like&nbsp;a&nbsp;specter flickering in the dark past&nbsp;(even if not so very ancient)? Horn piles up questions and paradoxes, putting together this&nbsp;visual reflection on the very essence of her identity and the photographic image. As Thierry de Duve rightly put it in writing about&nbsp;her <em>You Are the Weather</em> –&nbsp;and I&nbsp;would claim that&nbsp;this relates to all the works by Roni Horn mentioned here –&nbsp;the form and the content become one, and this&nbsp;is the measure of true art. The artist rejects “the conventions of both representation (in the third person) and portrait (in the first person), and [invents] figurative images addressing their viewers in such a&nbsp;way that&nbsp;the figure they contain presents itself –&nbsp;herself –&nbsp;neither as addresser nor as referent but&nbsp;as addressee. A&nbsp;‘you’ addressing a&nbsp;‘you’ indeed deserves to be called a&nbsp;new form.”<a href="#sdfootnote30sym" name="sdfootnote30anc"><sup>30</sup></a> These projects should be considered not only meta-artistic, but&nbsp;also quintessentially political. Horn creates her own look, her own way of seeing, allowing her to look at female faces and see female faces, as well as femininity as something not self-evident, untamed and at those moments when there is still a&nbsp;lot to be decided, a&nbsp;lot about&nbsp;to happen.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/13/auto-foto-biografie/portait-of-an-image_0-1920x-b56.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/13/auto-foto-biografie/portait-of-an-image_0-330x-b4d.jpg 330w,assets/cache/images/issues/2016/13/auto-foto-biografie/portait-of-an-image_0-660x-9ee.jpg 660w,assets/cache/images/issues/2016/13/auto-foto-biografie/portait-of-an-image_0-768x-931.jpg 768w,assets/cache/images/issues/2016/13/auto-foto-biografie/portait-of-an-image_0-1320x-71d.jpg 1320w" src="assets/cache/images/issues/2016/13/auto-foto-biografie/portait-of-an-image_0-660x-9ee.jpg" alt="" ></a>    <figcaption><p>Roni Horn, <em>Portrait of an Image (with Isabelle Huppert)</em>, 2005 (<a href="http://www.tate.org.uk/context-comment/articles/faces-speak-volumes" target="_blank" rel="noopener">source</a>)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The auto-photo-biography of Roni Horn also includes an amazing series of portraits of faces or of “portraits of portraits” as Cixous called them, and –&nbsp;to use her phrasing again –&nbsp;“auto-hetero-portraits of Roni Horn as face”<a href="#sdfootnote31sym" name="sdfootnote31anc"><sup>31</sup></a>: <em>Index Cixous </em>and <em>Portrait of an Image (with Isabelle Huppert)</em>, both made in 2005.<a href="#sdfootnote32sym" name="sdfootnote32anc"><sup>32</sup></a> In brief, one could say that&nbsp;Cixous impersonates herself (Writer? Philosopher? Woman? Algerian Jew? French? Mother?) while Huppert impersonates the filmic characters whom she has become in the past&nbsp;30 years of her life as an actress. We see faces of these two women in close-up, quite densely packed in the frame, one next to another, composed in series. The way Horn framed and presented these images makes one doubt whether it is about&nbsp;Cixous / Huppert at all, or rather about&nbsp;the face –&nbsp;as the author of <em>Medusa’s Laughter </em>had it<em></em>– moreover, the face of a&nbsp;woman –&nbsp;because she is a&nbsp;multitude, never identical with&nbsp;herself.<a href="#sdfootnote33sym" name="sdfootnote33anc"><sup>33</sup></a> The encounter Horn arranges and documents with&nbsp;her camera is one of equality, where the photographed and the photographer are on the same level and thus become co-authors. Whenever she is taking a&nbsp;picture of somebody she is also taking a&nbsp;picture of herself, and the other way round. Her photographs and her photographing do not violate nor subjugate the photographed bodies (faces). The artist does not reach for&nbsp;that which they would rather hide or simply not share, and by doing so she makes them share more than&nbsp;we expect, or in a&nbsp;way that&nbsp;provides a&nbsp;new encounter with&nbsp;photography as well as the character herself. She does not undress them and does not turn them into&nbsp;metaphors (does not make them be instead of something that&nbsp;is absent, or in place of somebody who is not)<a href="#sdfootnote34sym" name="sdfootnote34anc"><sup>34</sup></a>. Women-faces are portrayed and their stories remain with&nbsp;them and are shared for&nbsp;a&nbsp;moment.</p> <h2 style="text-align: center;">***</h2> <p>In her book devoted to female autobiography, which she published in mid 1990s, Shoshana Felman famously wrote:</p> <blockquote>None of us, as women, has as yet, precisely, an autobiography. Trained to see ourselves as objects and to be positioned as the Other, estranged to ourselves, we have a&nbsp;story that&nbsp;by definition cannot be self-present to us; a&nbsp;story that&nbsp;in other words, is not a&nbsp;story, but&nbsp;must become a&nbsp;story. And it cannot become a&nbsp;story except&nbsp;through the <em>bond of reading</em>, that&nbsp;is, through&nbsp;the story of the Other (the story read by other women, the story of other women, the story of women told by others) in so far as this&nbsp;story of the Other as our own autobiography, has as yet precisely to be owned.<a href="#sdfootnote35sym" name="sdfootnote35anc"><sup>35</sup></a></blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/13/auto-foto-biografie/18918_0274_1_lg-1920x-b56.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/13/auto-foto-biografie/18918_0274_1_lg-330x-b4d.jpg 330w,assets/cache/images/issues/2016/13/auto-foto-biografie/18918_0274_1_lg-660x-9ee.jpg 660w,assets/cache/images/issues/2016/13/auto-foto-biografie/18918_0274_1_lg-768x-931.jpg 768w,assets/cache/images/issues/2016/13/auto-foto-biografie/18918_0274_1_lg-1320x-71d.jpg 1320w" src="assets/cache/images/issues/2016/13/auto-foto-biografie/18918_0274_1_lg-660x-9ee.jpg" alt="" ></a>    <figcaption><p>Sophie Calle, <em>Appointment with&nbsp;Sigmund Freud</em>, 1999 (<a href="http://withwhowhere.blogspot.com/2011/10/sophie-calle-appointment-with-sigmund.html" target="_blank" rel="noopener">source</a>)</p></figcaption>   </figure>  </section><section class="u-typo">   <p>What Felman considers to be some sort of burden or misery, or at least a&nbsp;limitation or toil of female autobiography –&nbsp;the fact that&nbsp;it must come to life through&nbsp;the histories of others –&nbsp;Roni Horn takes as a&nbsp;blessing, an opening up, a&nbsp;liberation and a&nbsp;possibility. To find in oneself the histories of others and to tell them, as well as to tell one’s history by the stories of the others or others’ stories, and to weave them together for&nbsp;the benefit of all –&nbsp;this&nbsp;is what happens here with&nbsp;the participation of the photographic camera: the possibility of finding oneself, one’s true image and appropriate tone, to finally get hold of one’s past&nbsp;in the present. Such as happened to Tacita Dean, for&nbsp;example, when she was reading W.G. Sebald’s <em>Rings of Saturn</em>. She came across&nbsp;a&nbsp;thread of the fabric of her family history, her ancestors, and by appropriating Seblad’s tool, she wove herself into&nbsp;his visual-textual narrative. It was possibly only because Sebald in his text-image opened up a&nbsp;space for&nbsp;such a&nbsp;quest and such an encounter, a&nbsp;space for&nbsp;polyvocal interventions in the past&nbsp;and its present image<a href="#sdfootnote36sym" name="sdfootnote36anc"><sup>36</sup></a>.</p> <p>Georges Perec and Roni Horn have rather little in common. Their projects originate from&nbsp;different biographical experiences and adopt different media and strategies. In putting them together in my narrative I&nbsp;wanted to highlight that&nbsp;only doubt in one’s possibilities (as a&nbsp;human being and as an artist), in one’s identity and the identity of the medium one works in (and for), makes it possible to overcome distrust or even despair and to create with&nbsp;others always in mind (and heart), as well as other histories and the histories of others. Both of them resort to seriousness and playfulness to get access to and transmit their histories in ways that&nbsp;are aware of their historicity, and to portray without&nbsp;appropriating and doing harm to those who look and those who are being looked at. Today we know more than&nbsp;ever before&nbsp;that there is no auto-photo-biography without&nbsp;exposure to a&nbsp;public and that&nbsp;any body –&nbsp;even the most sensual and desired –&nbsp;can be frozen in a&nbsp;frame and killed on paper.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Jerzy Jarniewicz, <em>A Poem De-Composed</em>, trans. Katarzyna Bojarska, in Krzysztof Pijarski / Jerzy Lewczyński, <em>Gra w archiwum / Playing the Archive</em> (Warszawa: Fundacja Archeologia Fotografii, 2011), unnumbered.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Walter Benjamin, <em>The Arcades Project</em>, ed. Richard Tiedmann, trans. Howard Eiland, and Kevin McLaughlin (Cambridge, MA and London: Belknap Press/Harvard University Press, 1999), 476 [N10a, 3].</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Paul de Man points to this possibility in the following manner: “the autobiographical project may itself produce and determine the life and that whatever the writer <em>does</em> is in fact governed by the technical demands of self-portraiture.” Paul de Man, “Autobiography as De-facement”<em> MLN</em>, 5 (1979): 920.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> On the auto-photo-biographical projects of Aneta Grzeszykowska see: Katarzyna Bojarska, “Widmowość a możliwość widzenia (utraty). Fotografia przeciw referencjalności historii,” <em>Opposite</em> 3, <a href="http://opposite.uni.wroc.pl/2012/bojarska.htm">http://opposite.uni.wroc.pl/2012/bojarska.htm</a>. Accessed October, 30 2016; Katarzyna Bojarska, <em>Patos codzienności (kobieta – biografia – fotografia)</em>, in <em>Kultura afektu, afekt w kulturze</em>, eds. Agnieszka Dauksza, Anna Łebkowska, Ryszard Nycz, (Warszawa:Wydawnictwo IBL PAN, 2014), 524–538.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> See among others Timothy Dow Adams, <em>Light Writing and Life Writing: Photography in Autobiography</em> (Chapel Hill: University of North Carolina Press, 2000); <em>La Photographie et l’(auto)biographie</em>, ed. Sylvie Jopeck (Paris: La Bibliothèque Gallimard, 2004); <em>Phototextualities: Intersections of Photography and Narrative</em>, eds. Alex Hughes, Andrea Noble, (Nebrasca: University of New Mexico Press, Nebraska 2003); Danièle Méaux, Jean-Bernard Vray, <em>Traces photographiques, traces autobiographiques</em> (Saint-Etienne: Université de Saint-Etienne, 2004).</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Alex Hughes, <em>Hervé Guibert’s Photographic Autobiography: Self-Portraiture in L’Image fantôme</em>, in <em>Phototextualities</em>, 175. This term is also used by Gilles Mora in his description of the works of French photographers developing the medium from the beginning of 1980s in order to become more self-aware and subjective. Combining photography and text allowed them to create autobiographic reconstructions. As he wrote in <em>Écrit sur l’image. L’été dernier. Manifeste photobiographique </em>(eds. Gilles Mora, Claude Nori [Éditions de l’Étoile, Paris 1983]), photography is a medium mostly of life; a medium which confirms and affirms our existence (and the existence of others), multiplies it. See also issue 13 of <em>Cahiers de la photographie</em> from 1984 devoted to <em>La photobiographie</em>.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Johnnie Gratton, <em>Sophie Calle’s </em>Des histoires vraies<em>: Irony and Beyond</em>, in <em>Phototextualities</em>, 184.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Mounir Laouyen, “Préface L’Autobiographie post-moderne, post-mortem,” <em>New Autobiographies</em> 2002, issue 4, 3.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Mary Louise Ascher, <em>The Exile as Autobiographer: Nabokov’s Homecoming</em>, in: <em>Realms of Exile: Nomadism, Diasporas, and Eastern European Voices</em>, ed. Domnica Radulescu (Lanham: Lexington Books, 2002), 70.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Hayden White, <em>Metahistory: The Historical Imagination in Nineteenth-Century Europe</em> (Baltimore: Johns Hopkins University Press, 1975).</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> See Philippe Lejeune, <em>Le Pacte autobiographique</em> (Paris: Seuil, 1975). On autobiography and the problem of reference see Paul John Eakin, <em>Touching the World: Reference in Autobiography</em> (Princeton: Princeton University Press, 1992).</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> An exceptional instance of this concept of subjectivity and identity of the protagonist of a biography is Todd Haynes’ <em>I am Not There </em>(2007), a film offering a multidimensional, hybrid portrait (and a history at the same time) of Bob Dylan. Another example worth mentioning in this context is Virginia Woolf’s <em>Orlando</em>. The figure of Orlando as the object of this literary biography (as well as numerous visual “portraits” Woolf added to her narrative) serves as a good case and point of reference in thinking about this new, auto-photo-biography, whose protagonist flourishes in a fluid merging between the personae. See among others Sara Villa, “The Photograph, the Portrait and Orlando’s Double Nature,” <em>CULTURE. Annalidell’Istituto di Lingue della facoltà di Scienze Politiche dell’Università degli studi di Milano</em>, 19 (2005–2006): 189-198.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Dubrovsky’s <em>Fils</em> (Paris Éditions Galilée, 1977) is considered the first work of autofiction and at the same time the manifesto of the genre. See also Mounir Laouyen, “L'autofiction: une réception problématique,” <em>Fabula. La recherche en littérature</em>, <a href="http://www.fabula.org/forum/colloque99/208.php">http://www.fabula.org/forum/colloque99/208.php</a>. Accessed October 30, 2016.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> See Roland Barthes<em>, Camera Lucida—Reflections on Photography, </em>trans. Richard Howard (New York: Hill and Wang, 1981). Barthes’ book and his theory of photography have been discussed widely, see among others <em>Photography Degree Zero: Reflections on Roland Barthes's Camera </em>Lucida, ed. Geoffrey Batchen (MIT Press, Cambridge 2009).</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> De Man, 920.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Ibidem.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> See among others Douglas Eklund, <em>The Pictures Generation, 1974–1984</em>,<em> exhibition catalogue</em>, Metropolitan Museum of Art, New York 2009; Douglas Crimp, “Pictures,” <em>October</em> 8 (1979): 75–88, as well as <em>Cindy Sherman</em>, “October Files”, ed. Johanna Burton, (Cambridge: MIT Press, 2006).</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> De Man, 920-921.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Natalie Edwards, Amy L. Hubbell, Ann Miller, <em>Introduction</em>, in <em>Textual and Visual Selves. Photography, Film, and Comic Art in French Autobiography</em> (Lincoln: University of Nebraska Press, 2011), 16.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> See among others, Françoise Lionnet, <em>Autobiographical Voices: Race, Gender, Self-Portraiture</em> (Ithaca: Cornell University Press, 1989); <em>Women, Autobiography, Theory: A Reader</em>, eds. Sidonie Smith, Julia Watson, (Madison: University of Wisconsin Press, 1998); <em>Interfaces: Women, Autobiography, Image, Performance, </em>eds. Sidonie Smith, Julia Watson (Ann Arbor: University of Michigan Press, 2002).</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a> Lionnet, 16.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Sidonie Smith, Julia Watson, <em>Mapping Women’s Self Representation at Visual/Textual Interfaces</em>, in <em>Interfaces,</em> 4.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> See Leigh Gilmore, <em>The Limits of Autobiography: Trauma and Testimony</em> (Ithaca-London: Cornell University Press, 2001); and Celia Lury, <em>Prosthetic Culture: Photography, Memory, Identity</em> (London-New York: Routledge, 1998).</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Wawrzyniec Brzozowski, <em>Posłowie</em>, in Georges Perec, <em>W albo wspomnienia z dzieciństwa, </em>trans. Wawrzyniec Brzozowski, (Kraków: Lokator, 2014), 203–206. Further references to Perec’s texts, translated to English after Polish translation and consulted with the French edition, in parenthesis in the main text.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Ibid., 205.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> On the meaningful lack of photographs in Perec see Gunnthórunn Gudmundsdóttir<em>, Borderlines. Autobiography and Fiction in Lifewriting</em> (Amsterdam–New York: Rodopi 2003). Although no photographs are placed within the narrative of <em>W</em>, they were published in another book, (they exist!) Jacques Neefs’ and Hans Hartj’s <em>Georges Perec Images</em> (Paris: Éditions du Seuil, 1993).</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> See: Elisabeth Lebovici, <em>Faces that speak volumes</em>, <a href="http://www.tate.org.uk/context-comment/articles/faces-speak-volumes">http://www.tate.org.uk/context-comment/articles/faces-speak-volumes</a>. Access October 30, 2016.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> All in all the work includes 96 photographs; the girl depicted is Horn’s niece, Georgia Loy, who is the author of the title and dedication: “For Everyone.”</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Hélène Cixous, <em>Portraits of Portraits. The Very Day/Light of Roni Horn</em>, in <em>A Kind of You</em> (Göttingen: Steidl &amp; Partners, 2008), 8.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Thierry de Duve, <em>You are the Weather</em>, in <em>Roni Horn </em>(London: Phaidon, 2000), 85.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> Cixous, 7.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> The subtitle: <em>Isabelle Huppert impersonating herself in her film roles,</em> 100 images.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Hélène Cixous is co-author of an amazing auto-photo-biography, published in French in 1994. I refer here to the English translation: Hélène Cixous, Mireille Calle-Gruber, <em>Hélène Cixous Rootprints. Memory and Lifewriting</em>, trans. Eric Prenowitz (Routledge, London–New York 1997). The book begins with conversations (inter-views) of the two authors. What follows is an exchange of Cixous with Jacques Derrida, Calle-Gruber’s essay <em>Portrait of the Writing,</em> and, what is most interesting from my perspective, a part entitled <em>Albums and Legends</em>, where on 40 or so pages Cixous narrates the photo-story of her life and the lives of her family members, on the lives of Jews in Eastern Europe and in Northern Africa, on torments and persecutions, personal dramas, love, kids, etc., on herself as a woman and as a Jewess. The pictures depict people, places, and documents. From 1955 on – Cixous writes in the last sentence of this section – “I adopted an imaginary nationality which is literary nationality.” (204). Finally, there are two chronicles: that of her life and that of her writing (bibliography).</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> See: Susan Sontag, <em>On Photography</em> (New York: Picador, 2001), 59.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Shoshana Felman, <em>What Does a Woman Want? The Question of Autobiography and the Bond of Reading</em> (Baltimore: Johns Hopkins University Press, 1993), 14. (emphasis SF)</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> See: Tacita Dean, “W.G. Sebald,” <em>October </em>106 (2003): 122–136.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/13-auto-foto-biografie/auto-photo-biographies" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

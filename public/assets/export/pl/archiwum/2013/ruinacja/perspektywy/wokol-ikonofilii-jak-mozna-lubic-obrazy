@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Wokół "Ikonofilii": Jak można lubić obrazy? | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/ruinacja/wokol-ikonofilii-jak-mozna-lubic-obrazy">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Wokół &quot;Ikonofilii&quot;: Jak można lubić obrazy? | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Wokół &quot;Ikonofilii&quot;: Jak można lubić obrazy? | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/ruinacja/wokol-ikonofilii-jak-mozna-lubic-obrazy">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Wokół &quot;Ikonofilii&quot;: Jak można lubić obrazy? | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ffb300 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ffb300 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ffb300 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ffb300 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ffb300 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ffb300 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+			/* background-color:#ffb300 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,179,0,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ffb300 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ffb300; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ffb300 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ffb300 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ffb300 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1239 parent-id-1190">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="422" data-selected-issue-color="#ffb300" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/4-ruin#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/4-ruin/on-iconophilia.-how-can-one-like-images">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/ruinacja#toc">4</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/ruinacja/wokol-ikonofilii-jak-mozna-lubic-obrazy?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Wokół "Ikonofilii": Jak można lubić obrazy?</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/ruinacja/wokol-ikonofilii-jak-mozna-lubic-obrazy?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=318">Łukasz Zaremba</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Andrzej Leśniak, <em>Ikonofilia. Francuska semiologia pikturalna i&nbsp;obrazy,</em> Wyd. IBL PAN, Warszawa 2013</p> <p></p> <p>Łukasz Zaremba</p> <h1>Jak można lubić obrazy?</h1> <p>W eseju otwierającym potężny katalog wystawy <em>Iconoclash</em> Bruno Latour przedstawia poręczną typologię „ikonoklastów”:</p> <p>A) ci, którzy wierzą w&nbsp;całkowitą możliwość (konieczność!) zniesienia wszelkiego pośrednictwa, uniemożliwiającego dotarcie do prawdy i&nbsp;rzeczywistości;</p> <p>B) ci, którzy nie zakładają możliwości zniszczenia wszelkich obrazów, ale za&nbsp;wszelką cenę walczyć będą z&nbsp;wyrwaniem obrazu z&nbsp;obiegu, nadmiernym skupieniu się na&nbsp;nim; jest to typ paradoksalny, „ikonofilski”: „nie pragnie świata wolnego od obrazów [...], lecz przeciwnie – świata wypełnionego aktywnymi obrazami, pośrednictwami w&nbsp;ruchu”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>;</p> <p>C) ci, którzy nie sprzeciwiają się wszelkim obrazom czy obrazowi jako takiemu, lecz jedynie obrazom ważnym dla swoich wrogów; krzywdząc obrazy, zamierzają oni jedynie dotknąć przeciwnika;</p> <p>D) „niewinni wandale”, którzy – pragnąc chronić obrazy i&nbsp;oddawać im cześć – w&nbsp;rzeczywistości je niszczą;</p> <p>E) ci, którzy kpią zarówno z&nbsp;ikonoklastów, ikonoduli, ikonofilii, jak i&nbsp;z ich obrazów.</p> <p>Celem Latoura, opierającego ten podział na&nbsp;domniemanych intencjach ikonoklastów, jest przede wszystkim podkreślenie praktycznej niemożliwości dokonania podobnego rozróżnienia oraz niepewności towarzyszącej gestom ikonoklastycznym czy też po&nbsp;prostu wszelkim zachowaniom dotyczącym obrazów. Zatem nigdy nie wiadomo, czy A&nbsp;nie jest w&nbsp;istocie B lub C, D – A, a&nbsp;E – B czy nawet A&nbsp;itd. Bywa też, że&nbsp;w&nbsp;wyjętych z&nbsp;kontekstu gestach angażujących obrazy dostrzega się intencje dalekie od rzeczywistych albo, opierając się na&nbsp;deklarowanych intencjach, przegapia różniące się od nich działania wobec obrazów.</p> <p style="text-align: center;">***</p> <p>Książka Andrzeja Leśniaka, <em>Ikonofilia</em>, wokół której toczy się ta dyskusja, podejmuje przede wszystkim dwa najważniejsze wątki metodologii badań obrazów. Główny, tytułowy, o&nbsp;którym w&nbsp;swoich artykułach piszą Mateusz Salwa i&nbsp;częściowo Krzysztof Pijarski (zwracający między innymi uwagę na&nbsp;sposób ujęcia w&nbsp;rozprawie historii sztuki), przyjmuje formę drobiazgowej autorskiej rekonstrukcji semiologii pikturalnej, „francuskiego wyjątku”, unikalnego, zdaniem badacza, historycznego sposobu wytwarzania wiedzy o&nbsp;obrazach. Jej rozwój w&nbsp;twórczości Louisa Marina i&nbsp;Huberta Damischa zostaje w&nbsp;<em>Ikonofilii</em> odtworzony w&nbsp;porządku mniej więcej chronologicznym, w&nbsp;sposób zarazem precyzyjny i&nbsp;oryginalny, choć, by zapewnić przejrzystość wywodu, projekt został zakrojony dość wąsko i&nbsp;wybiórczo (co autor uczciwie zapowiada), a&nbsp;także (co trudniej usprawiedliwić) pozbawiony rozważań o&nbsp;zasadniczych ograniczeniach opisywanej i&nbsp;interpretowanej teorii. Tej części, przyjmującej formę „retroaktywnego manifestu” – sugerującej zatem przydatność założeń semiologii pikturalnej we współczesnych badaniach (również badaniach współczesnych obrazów?) – wiele uwagi poświęcono w&nbsp;pozostałych głosach publikowanej dyskusji (zwłaszcza w&nbsp;tekście Mateusza Salwy), wskazując jej liczne ważne rozpoznania teoretyczne, przekonującą w&nbsp;wielu miejscach argumentację i&nbsp;nagradzając autora niewątpliwie należnymi mu pochwałami. Dlatego w&nbsp;swojej wypowiedzi skupię się jedynie na&nbsp;innym wątku snutym w&nbsp;<em>Ikonofilii</em> – na&nbsp;krytyce współczesnych studiów nad kulturą wizualną (<em>visual culture studies</em>), zagadnieniu otwierającym książkę i&nbsp;stanowiącym niemal wyłączny kontekst prezentacji rozwoju semiologii pikturalnej (wątek ten podejmuje w&nbsp;swoim artykule również Tomasz Majewski). Pominiętego w&nbsp;tytule i&nbsp;podtytule książki problemu nie można zbywać, przyznając mu zaledwie funkcję elementu retorycznej strategii budowania własnego wywodu w&nbsp;negatywnym odniesieniu do wygodnie ustawionego przeciwnika. Jego obecność w&nbsp;rozprawie jest bowiem zaskakująca, a&nbsp;rola nieoczywista.</p> <p style="text-align: center;">***</p> <p>Gdyby skorzystać z&nbsp;Latourowskiej klasyfikacji zachowań wobec obrazów – klasyfikacji, w&nbsp;której niestety nie do końca chodzi o&nbsp;obrazy (lub jakikolwiek pojedynczy obraz), ale o&nbsp;pośrednictwa, mediacje i&nbsp;reprezentacje, o&nbsp;czym chwilowo zapominam – studia nad kulturą wizualną w&nbsp;ujęciu Andrzeja Leśniaka należałoby być może umieścić na&nbsp;przecięciu zbiorów A&nbsp;i C. Podstawowe zarzuty stawiane <em>visual culture studies</em> w&nbsp;<em>Ikonofilii</em> dotyczą bowiem między innymi „niejasnego statusu przedmiotu” badań (obrazu) i&nbsp;skupieniu na&nbsp;przedmiocie zastępczym (ideologiach wpajanych, ucieleśnianych czy przesłanianych przez obrazy). Odpowiadają zatem postawie, którą można oceniać albo jako tylko pozorne zainteresowanie obrazami i&nbsp;atakowanie wybranych obrazów, by w&nbsp;ten sposób zaatakować związanego z&nbsp;nimi wroga (C), albo jako dalej idącą próbę odsłonięcia złudzenia ideologii, zdarcia bielma z&nbsp;oczu i&nbsp;ukazania prawdziwej rzeczywistości, skrywanej przez łudzące obrazy (A). Dodatkowo zarzut „naiwnego konstruktywizmu” każe uznać badaczy kultury wizualnej za&nbsp;zapalczywych ikonoklastów, czyli – mówiąc słowami Latoura z&nbsp;innego tekstu, <em>A Few Steps Toward the Archeology of the Iconoclastic Gesture</em> – wątpiących w&nbsp;wątpliwości innych, wierzących w&nbsp;naiwną wiarę innych (tych, których należy oświecić – w&nbsp;tym przypadku historyków sztuki) w&nbsp;fetysze/idole/obrazy/ideologie, a&nbsp;także możliwe do ustabilizowania znaczenia obrazów...<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup> Istotę tego zarzutu opisuje jednak przede wszystkim następstwo tego zapalczywego zwalczania jakiegokolwiek zakotwiczenia interpretacji w&nbsp;dziele, oddane za&nbsp;pomocą sformułowania „metodologiczny ikonoklazm”, opisującego odebranie obrazowi aktywnej roli w&nbsp;procesie wytwarzania znaczeń. Ostatecznie zarzuty sprowadzają się do formuły „niepoważnego traktowania obrazów” w&nbsp;studiach nad kulturą wizualną, braku „szacunku wobec sytuacji, w&nbsp;której mediatorami są obrazy” (s.64), a&nbsp;zatem niewypracowania „efektywnej” propozycji metodologicznej badania obrazów czy wręcz usunięcia obrazu z&nbsp;pola widzenia nauki – „metodologicznego ikonoklazmu”, któremu towarzyszy wytwarzanie bałaganu w&nbsp;dyskursie o&nbsp;obrazach, a&nbsp;może nawet maskowanie swojego „ikonoklazmu” i&nbsp;pozorowanie „poważnego” zainteresowania obrazami.</p> <p>Studia nad kulturą wizualną zostają w&nbsp;<em>Ikonofilii</em> opisane jako niezainteresowane obrazami, rozproszone i&nbsp;niepewne własnych granic, metod, języka oraz przedmiotu (choć Krzysztof Pijarski słusznie zauważa w&nbsp;tym opisie pewne podobieństwo do charakterystyki semiologii pikturalnej). Zarazem wybór akurat tego nurtu współczesnych badań wizualności sugeruje ich dominację w&nbsp;tym obszarze humanistyki – ikonoklastyczne studia nad kulturą wizualną są nie tylko niepoważne (nie tyle niepoważnie traktują obrazy, ile są łatwe, słabe teoretycznie), ale też wpływowe: rozprzestrzeniają się i&nbsp;„przyczyniają do proliferacji dyskursu, który tylko zaciemnia najważniejsze obszary problemowe” (s.32).</p> <p>Niektóre spośród zarzutów stawianych w&nbsp;<em>Ikonofilii</em> wybranym przedstawicielom <em>visual culture studies</em> i&nbsp;tezom wypowiadanym pod&nbsp;szyldem tej dyscypliny wydają się słuszne i&nbsp;przekonywujące, kilka z&nbsp;nich należałoby zniuansować, a&nbsp;pewne wręcz wzmocnić. Jeśli w&nbsp;roli postaci reprezentatywnej dla <em>vcs</em> stawia się Mieke Bal, można nie tylko zwrócić uwagę na&nbsp;jej obsesyjną, opartą na&nbsp;poststrukturalnych założeniach co do źródła znaczenia (na naiwnym konstruktywizmie) walkę z&nbsp;klasyczną ikonologią, która czasami pożera jej własne interpretacje i&nbsp;przysłania obrazy, którym autorka powinna się przyglądać, ale można również opisać jej ucieczkę od wizualności ku semiotycznie ugruntowanej analizie kulturowej (byłaby to porażka dyscypliny przez Bal współzakładanej, albo, nieco wbrew wymowie <em>Ikonofilii</em>, właśnie zwycięstwo jakiegoś typu „wizualnego esencjalizmu”, na&nbsp;który Bal nie jest w&nbsp;stanie się zgodzić). Jeśli źródłowym tekstem reprezentatywnym dla studiów nad kulturą wizualną ma być <em>Zwrot obrazowy</em> Mitchella, wówczas – oprócz słusznego wykazania jego wybranych słabości (obszerne ramy czasowe zwrotu, niejasna relacja ze zwrotem lingwistycznym czy ogólna nieoczywistość opisywania przemian nauki schematem zwrotów) – można by opisać także jeden z&nbsp;największych grzechów początków studiów nad kulturą wizualną, czyli skupienie na&nbsp;obrazie jako zjawisku czysto teoretycznym (u źródła „zwrotu obrazowego” stać miał przecież obraz jako problem teoretyków sztuki lub filozofów kultury). Dodatkowo <em>vcs</em> należy się z&nbsp;pewnością krytyka – i&nbsp;to nie tylko dotycząca początków dyscypliny – za&nbsp;projektowanie tego, co zachodnie w&nbsp;rozumieniu obrazu, jego funkcji i&nbsp;zachowań, na&nbsp;to, co globalne. To z&nbsp;pewnością jeden z&nbsp;największych błędów Mitchella, który powtarza się zwłaszcza w&nbsp;jego najnowszych publikacjach (<em>Czego chcą obrazy?</em> czy <em>Cloning Terror</em>). Studia nad kulturą wizualną dopiero niedawno dostrzegły, że&nbsp;globalna cyrkulacja obrazów zakłada również lokalne rozumienie globalnego obrazu (a nawet lokalne istnienie/nieistnienie samej kategorii obrazu) i&nbsp;lokalne praktyki obrazowe.</p> <p>Z pewnością nie należy również bagatelizować praktycznego, instytucjonalnego wymiaru „mody” na&nbsp;kulturę wizualną, która w&nbsp;polskim kontekście czasami owocuje autokolonizacyjnymi gestami w&nbsp;nauce, odtwórczym kalkowaniem teorii przesłaniającym brak rozpoznań osadzonych w&nbsp;jakimkolwiek materiale badawczym, a&nbsp;czasem tak niezrozumiałymi zjawiskami, jak wstęp Piotra Sztompki do antologii <em>Fotospołeczeństwo</em>, powtarzający niemal wszystkie frazezy na&nbsp;temat wizualności wyśmiewane przez W.J.T. Mitchella w&nbsp;artykule <em>Pokazać widzenie</em>.</p> <p>Warto jednak przypomnieć, że&nbsp;stawiane w&nbsp;<em>Ikonofilii</em> zarzuty nie są nieznane badaczom identyfikującym się ze studiami nad kulturą wizualną – znaczną liczbę wątpliwości sformułowali sami (czego dowodem choćby wspomniany esej Mitchella <em>Pokazać widzenie</em> czy debata wokół <em>Wizualnego esencjalizmu</em> Mieke Bal), inne starannie przepracowali po&nbsp;oskarżeniach, płynących zwłaszcza ze strony historyków sztuki (ankieta pisma „October”, uświadamiająca między innymi, że&nbsp;uregulowania relacji kultury wizualnej z&nbsp;historią sztuki, którego brak wyrzuca <em>vcs</em> autor <em>Ikonofilii</em>, potrzebuje bardziej ta druga dziedzina). Niektóre zarzuty stawiane w&nbsp;książce Leśniaka, nie tyle mglistemu bytowi występującemu pod&nbsp;szyldem „studiów nad kulturą wizualną”, ile konkretnym badaczom mającym ten byt reprezentować (w tej roli występują właśnie Bal i&nbsp;Mitchell), wydają się jednak dyskusyjne, a&nbsp;„mglistość” jest nie tylko rzeczywistą cechą rozproszonej metodologicznie i&nbsp;geograficznie dyscypliny, lecz wynika również z&nbsp;intencji krytyka, który nie wkłada należytego wysiłku w&nbsp;opisanie instytucjonalnych, chronologicznych czy metodologicznych ram <em>vcs</em>. Nie da się bowiem ukryć, że&nbsp;Andrzej Leśniak nie oddaje sprawiedliwości wskazanym przez siebie – arbitralnie (brak choćby Mirzoeffa, Crary’ego, Holly, Cartwright czy Brysona) – autorkom i&nbsp;autorom. Wybiera zaledwie fragmenty ich tekstów i&nbsp;tworzy kolaż fragmentów, wątpliwy chronologicznie oraz upraszczający wewnętrzne różnice i&nbsp;prądy metodologiczne dyscypliny. Przedstawia przeciwnika w&nbsp;formie spójnego obrazka, który łatwo zaatakować. Dlatego Mieke Bal nieuchronnie znajdzie się na&nbsp;przegranej pozycji, gdy czytać będziemy (inaczej niż w&nbsp;przypadku Marina i&nbsp;Damischa) jedynie jej deklaracje metodologiczne, pomijając skupione na&nbsp;obrazach i&nbsp;niezwykle precyzyjnym ich oglądzie, rozbudowane interpretacje konkretnych dzieł Vermeera, Rembrandta czy Caravaggia<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Przy uważniejszej lekturze mogłoby się okazać, że&nbsp;bardzo wiele stosowanych przez nią „pojęć” ma swoje źródło w&nbsp;oglądanym obrazie (a nie w&nbsp;skrzynce z&nbsp;narzędziami) i&nbsp;kończy swój byt wraz z&nbsp;interpretacją, co chroni je przed skostnieniem i&nbsp;oderwaniem od przedmiotu (a zarazem zbliża do założeń projektowanej „ikonofilii”). Ta różnica pomiędzy deklaracjami (wyrażonymi choćby w&nbsp;<em>Wędrujących pojęciach</em>) a&nbsp;praktyką mogłaby zresztą być interesującym punktem wyjścia do bardziej zniuansowanej analizy porównawczej, która zestawiłaby „lekturę” wychodzącą od znaków „proponowanych” przez obrazy (Bal) z&nbsp;teoretyzowaniem na&nbsp;podstawie materii obrazu (semiologia pikturalna).</p> <p>Sprawy komplikuje jeszcze przedstawiona w&nbsp;<em>Ikonofilii</em> krytyka twórczości innego przedstawiciela studiów nad kulturą wizualną – W.J.T. Mitchella. Wybór tego autora jako reprezentanta <em>vcs</em> wydaje się trafny. Autor <em>Picture Theory</em> pozostaje związany z&nbsp;tą dyscypliną od jej instytucjonalnych początków jako najaktywniejszy krytyk jej błędów, autor programów i&nbsp;postulatów badawczych, członek założonego dwa lata temu The International Association for Visual Culture, regularnie występujący na&nbsp;wystawach i&nbsp;konferencjach, organizowanych jak dotąd w&nbsp;USA i&nbsp;w Europie (ostatnią, w&nbsp;Nowym Jorku, prowadził pominięty w&nbsp;książce Nicholas Mirzoeff). O&nbsp;ile jednak zarzuty postawione wspomnianemu artykułowi <em>Zwrot obrazowy</em> wydają się zasadniczo trafne, o&nbsp;tyle w&nbsp;zakłopotanie wprawia nieobecność odniesień do innych tekstów Mitchella (poza esejem <em>Pokazać widzenie</em>). Nieuchronnie prowadzi to do braku zniuansowania i&nbsp;budzi wątpliwości dotyczące reprezentatywności wybranych fragmentów dla twórczości tego autora, nie mówiąc o&nbsp;całej dyscyplinie badawczej. Wspomnienie ledwie o&nbsp;wykorzystaniu przez Mieke Bal kategorii „obiektu teoretycznego”, zapożyczonej <em>nomen omen</em> od Huberta Damischa, można uznać za&nbsp;efekt selekcji materiału źródłowego, ale brak najmniejszej wzmianki o&nbsp;podstawowym, kontynuowanym przez niemal 30 lat projekcie „ikonologii” Mitchella trudno zrozumieć. Można tylko ubolewać nad utraconą szansą na&nbsp;zestawienie dwóch projektów w&nbsp;„poważny” sposób odnoszących się do obrazów, choć inaczej rozumiejących swoje cele i&nbsp;zadania wobec nich. Jest to brak tym bardziej zaskakujący, jeśli przypomnimy sobie postulowany w&nbsp;<em>Ikonofilii</em>, za&nbsp;Georges’em Didi-Hubermanem, ideał uprawiania nauki:</p> <blockquote>W myśli francuskiej same modele teoretycznej nowości pojawiały się dzięki powrotom i&nbsp;nadłożeniom drogi: dzięki pracy ponownej lektury, a&nbsp;nie ogłoszeniu czegoś zupełną nowością. To Foucault czytający Biswangera, Derrida czytający Husserla i&nbsp;Heideggera, Lacan czytający Freuda, Deleuze czytający Spinozę... (s.39)</blockquote> <p>Nie próbując nawet stawiać Mitchella obok Foucaulta czy Derridy, nie można odmówić jego projektowi realizacji podobnego modelu czasowego. Ikonologia – nauka o&nbsp;obrazach – w&nbsp;punkcie wyjścia powraca przecież do projektu Erwina Panofskiego, a&nbsp;wręcz do „sceny pierwotnej” historii sztuki, gdy historyk sztuki spotyka na&nbsp;ulicy znajomego w&nbsp;kapeluszu... Otóż, zamiast brnąć w&nbsp;kolejne fazy analizy ikonologicznej, Mitchell zatrzymuje się przy samym tym dziwacznym porównaniu – spotkanego na&nbsp;ulicy człowieka do obrazu – i&nbsp;odwraca je, przyznając obrazowi pewien rodzaj życia. W&nbsp;projekcie tym badacz powróci później choćby do Durkheima (w <em>Czego chcą obrazy?</em> z&nbsp;2005 roku), Marksa (w założycielskiej <em>Iconology</em> z&nbsp;1986 roku) czy Wittgensteina (w <em>Picture Theory</em> z&nbsp;1994 roku), stale poszukując ujęcia obrazu jako swoistego przedmiotu, wyposażonego w&nbsp;moce sprawcze, niemożliwego do opanowania i&nbsp;podporządkowania. Podstawowym zadaniem będzie jednak dla Mitchella nic innego jak „poważne” potraktowanie obrazów, tego, co się o&nbsp;nich mówi, i&nbsp;tego, w&nbsp;jaki sposób one same komunikują i&nbsp;stawiają opór komunikacji, jak odnoszą się do własnej kondycji (metaobrazy) i&nbsp;uczestniczą w&nbsp;teoretyzowaniu (<em>picture theory</em>, obraz-teoria), nie w&nbsp;roli ilustracji teorii, lecz samodzielnych form istnienia teorii. Nie ma tu miejsca, by dłużej opisywać możliwe relacje i&nbsp;liczne punkty sporne pomiędzy semiologią pikturalną a&nbsp;ikonologią Mitchella. Niewątpliwie jednak zestawienie to pozwoliłoby skuteczniej sproblematyzować tak ważne kategorie manifestu <em>Ikonofilii</em>, jak materia, obraz, przedmiot (czy nawet sprawczość), które zostały zredukowane przez Leśniaka do określenia „wizualny” lub „materialny konkret”.</p> <p>Najważniejszy zarzut stawiany w&nbsp;<em>Ikonofilii</em> studiom nad kulturą wizualną dotyczy ich niezrealizowanej źródłowej obietnicy – poważnego potraktowania swojego przedmiotu badań. Paradoksalnie można powiedzieć, że&nbsp;zarzut ten będzie w&nbsp;pełni słuszny dopiero, gdy rozważymy możliwość innego wyboru tego przedmiotu zainteresowania dyscypliny. Owszem, jedna z&nbsp;narracji o&nbsp;<em>vcs</em> mówi o&nbsp;potrzebie rozpoznania obrazu i&nbsp;to ją postanowił zarysować Andrzej Leśniak. Nie jest ona jednak ani jedyną możliwą opowieścią o&nbsp;historii i&nbsp;rozwoju dyscypliny, ani też, jak się wydaje, najbardziej oczywistą. Zdecydowanie konkuruje z&nbsp;nią bowiem – i&nbsp;to już poczynając od nazwy dyscypliny – wątek wizualności i&nbsp;kultury wizualnej, symbolicznie rozpoczęty w&nbsp;1988 roku podczas prowadzonego przez Hala Fostera seminarium <em>Vision and Visuality. </em>Wątek ten, otwierający się od historii poprzedników (choćby <em>Sposobów widzenia</em> Bergera, „oka epoki” i&nbsp;„kultury wizualnej” Baxandalla), kontynuowany potem za&nbsp;sprawą rekonstrukcji historycznych „reżimów skopicznych” w&nbsp;pismach Svetlany Alpers, Martina Jaya czy Jonathana Crary’ego, prowadzi aż&nbsp;do najnowszej książki Nicholasa Mirzoeffa poświęconej kategorii wizualności i&nbsp;przedstawiającej metodę analizy praktyk wizualnych konkurencyjną wobec propozycji Jaya. Wśród możliwych narracji o&nbsp;studiach nad kulturą wizualną jest to ścieżka w&nbsp;istocie zasługująca na&nbsp;najsilniejszą krytykę. Wypełniają ją bowiem przede wszystkim niejasne określenia przedmiotu badań (kultura wizualna), który przy bliższym wejrzeniu nieuchronnie się rozmywa się, oraz niespełnione obietnice badaczek i&nbsp;badaczy kultury wizualnej, poczynając od postulowanych jedynie poszukiwań sposobu powiązania w&nbsp;widzeniu tego, co naturalne, z&nbsp;tym, co kulturowe, po&nbsp;niezrealizowane zapowiedzi wypracowania metody opisu praktyk spojrzenia, które zasadniczo wykraczałyby poza oparte na&nbsp;opozycjach modele odziedziczone z&nbsp;filmoznawstwa.</p> <p>Wróćmy jednak do obrazów, bo&nbsp;nawet o&nbsp;nich – a&nbsp;nie tylko o&nbsp;widzeniu, wizualności i&nbsp;kulturze wizualnej – da się w&nbsp;obrębie <em>vcs</em> opowiedzieć inną narrację niż ta, którą proponuje <em>Ikonofilia</em>. Gdy bowiem chodzi o&nbsp;„poważne” potraktowanie obrazu, studia nad kulturą wizualną, choć oskarżane o&nbsp;„metodologiczny ikonoklazm”, proponują postawę z&nbsp;gruntu ikonofilską (typ B) – jeśli tylko wolno dosłownie potraktować sformułowania Latoura z&nbsp;przywołanej tu typologii.</p> <blockquote>Ikonofilia nie jest skupieniem na&nbsp;samym obrazie, lecz na&nbsp;ruchu obrazu. Uczy nas, że&nbsp;<span class="rozstrzelony">niczego nie dostrzeżemy</span>, wyjmując zatrzymany kadr z&nbsp;praktyk nauki lub religii i&nbsp;skupimy się na&nbsp;tym, co wizualne, zamiast na&nbsp;ruchu obrazu, przechodzeniu, przemianie z&nbsp;jednej formy obrazu w&nbsp;inną. Z&nbsp;kolei idolatria oznaczałaby skupienie na&nbsp;samej wizualności<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> (s.65).</blockquote> <p>W odróżnieniu od skupionej na&nbsp;dziełach sztuki semiologii pikturalnej studia nad kulturą wizualną, zainteresowane wszelkimi obiegami obrazów, najskuteczniej być może opisały właśnie zagadnienie ich obiegu – przede wszystkich dotyczy to obrazów współczesnych, ich ruchu w&nbsp;przestrzeni, przemieszczania się pomiędzy rejestrami, mediami, nośnikami, gatunkami itd.<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> Być może zatem w&nbsp;zbiorze postaw ikonofilskich znajdzie się miejsce na&nbsp;dwie dziedziny „poważnie” traktujące obrazy?</p> <p></p> <p><b>Publikacja powstała przy wsparciu finansowym Fundacji na&nbsp;rzecz Nauki Polskiej.</b></p> <p><b>Projekt został sfinansowany ze środków Narodowego Centrum Nauki przyznanych na&nbsp;podstawie decyzji numer DEC-2012/05/N/HS2/00566.</b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Bruno Latour, <em>What is Iconoclash?</em>, w: <em>Iconoclash, Beyond the Image Wars in Science, Religion and Art</em>, red. P. Weibel, B. Latour, MIT Press, Cambridge 2002, s. 21.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Bruno Latour, <em>A Few Steps Towards the Anthropology of the Iconoclastic Gesture</em>, „Science in Context” 1996, nr 1, vol. 10.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Odnoszę się również do innego artykułu Andrzeja Leśniaka: <em>Współczesne studia nad kulturą wizualną. Poststrukturalistyczne klisze i krytyka anachroniczna</em>, „Przegląd Kulturoznawczy” 2010, nr 2 (8).</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Bruno Latour, <em>How To Be Iconophilic in Art, Science, and Religion?</em>, w: <em>Picturing Science, Producing Art</em>, red. C.A. Jones, P. Galison, Routledge, New York–London 1998, s. 421.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Aby nie pozostać gołosłownym, wymienię przykładowe prace: książki Mitchella, <em>Cloning Terror</em> oraz wcześniejszą <em>The Last Dinosaur Book</em>, książkę Mirzoeffa <em>Watching Babilon</em>, Irit Rogoff <em> Terra Infirma</em> czy prace Lisy Cartwright na temat medycznych obrazów ciała.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/ruinacja/wokol-ikonofilii-jak-mozna-lubic-obrazy" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

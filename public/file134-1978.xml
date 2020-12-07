@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.4.2" xsi:schemaLocation="http://www.crossref.org/schema/4.4.2  http://www.crossref.org/schemas/crossref4.4.2.xsd">
+	<head>
+		<doi_batch_id>10.36854.2</doi_batch_id>
+		<timestamp>20200422230304</timestamp>
+		<depositor>
+			<depositor_name>wfkw</depositor_name>
+			<email_address>redakcja@pismowidok.org</email_address>
+		</depositor>
+		<registrant>Widok. Fundacja Kultury Wizualnej</registrant>
+	</head>
+	<body>
+	<journal>
+	<journal_metadata language="pl">
+				<full_title>Widok. Teorie i Praktyki Kultury Wizualnej</full_title>
+				<abbrev_title>Widok</abbrev_title>
+				<issn media_type="electronic">2300-200X</issn>
+				<doi_data>
+					<doi>10.36854/widok/</doi>
+					<resource>http://pismowidok.org</resource>
+				</doi_data>
+			</journal_metadata>
+			<journal_issue><contributors>
+  					<person_name sequence="first" contributor_role="editor">
+						<given_name>François</given_name>
+						<surname>Hartog</surname>
+						<affiliation/>
+						<ORCID>https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hartog</ORCID>
+					</person_name>
+				</contributors><titles>
+  					<title>History Is Present</title>
+					<original_language_title language="pl">Historia obecna</original_language_title>
+				</titles>
+				<publication_date media_type="online">
+					<year>2019</year>
+				</publication_date>
+				<issue>12</issue>
+				<doi_data>
+					<doi>10.36854/widok/2015.12</doi>
+					<resource>https://www.pismowidok.org/en/archive/2015/12-photography-and-the-efficacy-of-gesture</resource>
+				</doi_data>
+			</journal_issue>
+			
+		</journal>
+	</body>
+</doi_batch>

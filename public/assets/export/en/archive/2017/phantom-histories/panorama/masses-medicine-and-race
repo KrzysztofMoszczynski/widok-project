@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Masses, Medicine and Race.  | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/masses-medicine-and-race">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Masses, Medicine and Race.  | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Masses, Medicine and Race.  | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/masses-medicine-and-race">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Masses, Medicine and Race.  | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #9c9c53 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #9c9c53 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #9c9c53 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #9c9c53 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #9c9c53 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #9c9c53 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #9c9c53 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #9c9c53 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(156,156,83,0.8) !important; */
+			/* background-color:#9c9c53 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(156,156,83,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#9c9c53 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(156,156,83,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#9c9c53; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(156,156,83,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(156,156,83,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#9c9c53 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#9c9c53 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#9c9c53 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-615 parent-id-584">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="581" data-selected-issue-color="#9c9c53" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2017/historie-fantomowe#toc">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2017/historie-fantomowe/masses-medicine-and-race">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/phantom-histories#toc">18</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/masses-medicine-and-race?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Masses, Medicine and Race. The Biopolitics of Monstrosity in Third Reich Propaganda Films</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/masses-medicine-and-race?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=505">Jan Borowicz</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6931-1-pb-1920x-c5c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6931-1-pb-330x-8fb.jpg 330w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6931-1-pb-660x-c94.jpg 660w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6931-1-pb-768x-587.jpg 768w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6931-1-pb-1320x-2c3.jpg 1320w" src="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6931-1-pb-660x-c94.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>British photography scholar Janina Struk, in her <em>Photographing the Holocaust: Interpretations of the Evidence</em>, remarks on a&nbsp;peculiar obsession amongst German soldiers with&nbsp;a&nbsp;so-called "Jewish type"<a href="#sdendnote1sym" name="sdendnote1anc"><sup>1</sup></a>. The Wehrmacht soldiers occupying the territories of Eastern Europe were particularly fond of photographing traditional Jews; indeed, many photographs depicting single or small groups of men (women were rarely photographed) were taken, along&nbsp;with documents ordering the transfer of photographic documentation to the Reich's anthropological institutes for&nbsp;archiving and research. Physiognomy –&nbsp;anthropological facial analysis –&nbsp;was one of the naturalistic passions of the science of the time. Measuring, calculating, determining proportions and comparing statistical data proliferated in anthropological institutes, not only in the Third Reich, with&nbsp;the body itself ceasing to be a&nbsp;medium of identity, instead becoming a&nbsp;case against&nbsp;the norm. At the same time, projects for&nbsp;the great archive emerged, which would collect all possible "types" in order to create an all-encompassing collective portrait, an image of the entire nation. This&nbsp;self-observation quickly began to serve control techniques, as a&nbsp;statistical standard means, as well as an ontological and moral standard<a href="#sdendnote2sym" name="sdendnote2anc"><sup>2</sup></a>.</p> <p>This "peculiar stare into&nbsp;the face", as German cultural historian Claudia Schmölders put it, was particularly intense in the Third Reich, where "saving face" after&nbsp;"Versailles' dictate" began to constitute a&nbsp;biological necessity<a href="#sdendnote3sym" name="sdendnote3anc"><sup>3</sup></a>. The obsession can also be seen in the propaganda films which can be considered as physiognomic training, teaching observation and recognition techniques for&nbsp;the body, and in particular –&nbsp;the face. A&nbsp;subsequent method of making the Jewish body visible was by pinning yellow stars to the clothes, but&nbsp;in reality the project aimed to teach the techniques of the Nazi gaze as early as possible, preferably to schoolchildren<a href="#sdendnote4sym" name="sdendnote4anc"><sup>4</sup></a>. This&nbsp;constituted the purpose of the "portraits" –&nbsp;probably the most common representation of the non-German body in propaganda films: static images caught by the camera, typically from&nbsp;the chest up, most often <em>en face</em>. These usually captured one person in the frame, so the viewer can watch him or her with&nbsp;attention, observing and learning the ways of recognising the "type".</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6919-1-pb-1920x-564.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6919-1-pb-330x-d64.jpg 330w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6919-1-pb-660x-63b.jpg 660w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6919-1-pb-768x-5bc.jpg 768w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6919-1-pb-1320x-340.jpg 1320w" src="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6919-1-pb-660x-63b.jpg" alt="" ></a>    <figcaption><p>Contrast: a&nbsp;wealthy woman turns her head away from&nbsp;a&nbsp;poor woman; Warsaw ghetto film materials</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Unreleased film material aimed at the Polish population<a href="#sdendnote5sym" name="sdendnote5anc"><sup>5</sup></a>, depicting the enclosing of Jews in the ghettos, contains an important scene built by a&nbsp;sequence of portraits –&nbsp;close-ups on faces of Jews arranged in pairs according to their social class: next to the beggar stands a&nbsp;handsome, elegant man; next to an old, poor woman, a&nbsp;well-dressed woman from&nbsp;the higher classes, turning her head slightly, apparently appalled by this&nbsp;proximity. This&nbsp;juxtaposition points to the great contrasts occurring among&nbsp;the Jewish population, but&nbsp;also signals another important issue: sometimes Jews resemble normal people –&nbsp;they can blend in, pretend to be someone they are not. In other words, they can evade clearly established definitions, even the scientific discourse of race biology.</p> <p>In <em>The Eternal Jew </em>(1940), a&nbsp;documentary by Fritz Hippler –&nbsp;one of the most important directors of Nazi propaganda and the author of the short, evocatively titled essay <em>Film as a&nbsp;Weapon</em> –&nbsp;the key is the concept of "recognition". Eastern European Jews wearing caps and kaftans, with&nbsp;characteristic payot and beards, are fairly easy to recognise. In contrast, this&nbsp;is not the case with&nbsp;assimilated Jews in Western Europe. The film depicts a&nbsp;scene in which, standing against&nbsp;a&nbsp;wall, with&nbsp;a&nbsp;twisted, wry smile, "Jewish types" are first found in "Eastern" costumes, and then, after&nbsp;an edit, in "European" ones. The camera allows the viewer to look at the first few individually, then all in a&nbsp;row, their faces "before" and "after" the transformation, the game of mimicry. The stranger who –&nbsp;thanks to a&nbsp;disguise –&nbsp;became familiar constituted one of the greatest dangers (or silent threats) to the German body.</p> <p>This contrast perhaps most clearly illustrates the Nazi concept of "type", but&nbsp;the film does not stop there. As the narrator informs the viewer, all Jewish faces are in fact the single face of the Wandering Jew, who, whether in Poland or Palestine, always remains the same figure of Otherness. In <em>The Eternal Jew</em>, an unpleasant sequence of portraits of Jews is accompanied by the narrator's comment that&nbsp;"physiognomies undermine the liberal belief in the equality of those who have a&nbsp;human face".</p> <p>Georges Didi-Huberman, in his classic <em>Invention of Hysteria</em>, asks why the photographs of hysteric patients at the Salpêtrière Hospital so often depicted their faces. He reconstructs the logic of the hospital's director, Charcot, claiming that&nbsp;"in the face the corporeal surface makes visible something of the movements of the soul, ideally (...) [this] perhaps also explains why, from&nbsp;the outset, psychiatric photography took the form of an <em>art of the portrait</em>"<a href="#sdendnote6sym" name="sdendnote6anc"><sup>6</sup></a>. The Jewish face was the opposite&nbsp;of the German one, which could not become an object of the clinical gaze. Propaganda films often make use of these visual contrasts: in <em>The Eternal Jew</em>, after&nbsp;an hour of watching and learning how to recognise repulsive Jewish faces, the viewer has the opportunity to look at the beautiful German faces –&nbsp;unsmiling, rigid and focused. These are completely disciplined faces, kept in the grip of indomitable will. In the short film <em>Every Life is Struggle </em>[<em>Alles Leben ist Kampf</em>] (1937), German athletes, organised in rows, fill the entire frame. Their bodies seem to perform the same harmonised movements, as if governed by the same thoughts. The person-machine, or "the steely, warlike type of the future with&nbsp;a&nbsp;metallic mask [instead of a&nbsp;face] under&nbsp;his steel helmet creates social distance and saves face only as a&nbsp;shape"<a href="#sdendnote7sym" name="sdendnote7anc"><sup>7</sup></a>.</p> <p>The German face does not know any uncoordinated facial expressions, which can only be found in children, the mentally ill and Jews; it has a&nbsp;pure form, reduced only to the "saved face" after&nbsp;the First World War<b>. </b>The German body also knows no pointless gestures. One example of the controlled behaviour of the body is the gestural greeting of "Sieg Heil", often repeated in the films, especially <em>Triumph of the Will</em>. Such gestures, along&nbsp;with chanting, performatively established the Third Reich. The intention was that&nbsp;the rigid raising of the arm in greeting would enter everyday life. Hitler himself boasted that, thanks to his morning workouts, he was able to hold his raised hand for&nbsp;hours –&nbsp;while, in contrast, one of the signs of resistance to the system was to raise one's arm for&nbsp;just a&nbsp;short period of time, not too high, and to mumble, near-silently: "Heil Hitler!"<a href="#sdendnote8sym" name="sdendnote8anc"><sup>8</sup></a></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6923-1-pb-1920x-564.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6923-1-pb-330x-d64.jpg 330w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6923-1-pb-660x-63b.jpg 660w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6923-1-pb-768x-5bc.jpg 768w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6923-1-pb-1320x-340.jpg 1320w" src="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6923-1-pb-660x-63b.jpg" alt="" ></a>    <figcaption><p>A doctor makes a&nbsp;boy stay within&nbsp;the frame. A&nbsp;boy turns his head away; <em>The Hereditary Defective</em>, 1936</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Consequently, Nazi propaganda films present a&nbsp;wide range of uncontrolled gestures. <em>The Hereditary Defective </em>[<em>Erbkrank</em>] (1936) considers the terminally ill as one of the largest "problems" and threats to German society. To convince the viewer, it presents not only a&nbsp;clear image contrasting the poor, neglected buildings in which healthy families live with&nbsp;the beautiful palaces surrounded by parks for&nbsp;the mentally ill, but&nbsp;also depicts the ill themselves as physically abnormal. The film presents a&nbsp;whole array of "abnormal" bodies: shaking, nodding, jumping, dancing, twirling, squatting, laughing uncontrollably or staring blankly. Twisted silhouettes of patients, excessively elongated or stunted, moving pointlessly –&nbsp;such as when a&nbsp;seated woman nods and simultaneously performs meaningless finger movements, touching her knees, then her nose and back –&nbsp;determine the condition of the Other. These images deliberately resemble photographs taken in Salpêtrière of patients at different stages of hysterical attacks. Charcot's clinical gaze upon&nbsp;the uncoordinated spasms of a&nbsp;woman's body was meant to subdue hysterics, to control their sexuality<a href="#sdendnote9sym" name="sdendnote9anc"><sup>9</sup></a>. In <em>The Hereditary Defective</em>, the shaking woman gestures so much that&nbsp;she must be stopped by nurses; she tries to escape their grasp, she cries, and she is eventually restrained. The film shows a&nbsp;number of garments aimed at reducing the hazardous movements of a&nbsp;patient's body. Keeping the body on a&nbsp;tight leash posed a&nbsp;challenge for&nbsp;the German body, and was addressed both by disciplining the bodies of the sick and by self-discipline.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6925-1-pb-1920x-564.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6925-1-pb-330x-d64.jpg 330w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6925-1-pb-660x-63b.jpg 660w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6925-1-pb-768x-5bc.jpg 768w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6925-1-pb-1320x-340.jpg 1320w" src="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6925-1-pb-660x-63b.jpg" alt="" ></a>    <figcaption><p>Dirty legs; Warsaw ghetto film materials</p></figcaption>   </figure>  </section><section class="u-typo">   <p>It is surprising to note how much attention propaganda films paid to legs and feet. In almost every one there is a&nbsp;close-up of these body parts. In <em>The Hereditary Defective</em>, for&nbsp;example, the camera carefully follows the crooked limbs of the patients, often registering in portrait not only the face, but&nbsp;also the feet. In the film material from&nbsp;the Warsaw Ghetto the camera frames the dirty feet of Jews going to the showers in order to be subjected to delousing. Viewers quickly realised how repulsive those bodies were; their associations may have gone further if they recalled folk wisdom about&nbsp;typical Jewish flat feet and medieval images of a&nbsp;Jew with&nbsp;the foot of the devil<a href="#sdendnote10sym" name="sdendnote10anc"><sup>10</sup></a>. The belief in feeble Jewish legs was then scientifically proven and backed by statistics: Jews could neither walk well nor maintain proper posture. Flat feet prevented them from&nbsp;serving in the military and, therefore, from&nbsp;achieving full citizenship. This&nbsp;defect also hampered physical work, but&nbsp;Jews didn't like&nbsp;that anyway, as <em>The Eternal Jew </em>depicts<a href="#sdendnote11sym" name="sdendnote11anc"><sup>11</sup></a>. The limping Jew is a&nbsp;figure known before&nbsp;Nazism, occurring in neurological studies on diabetes and intermittent claudication<a href="#sdendnote12sym" name="sdendnote12anc"><sup>12</sup></a>. The causes of intermittent claudication were sought in apparent excessive smoking by Jews, which in turn was associated with&nbsp;the image of the Jew as a&nbsp;tumour within&nbsp;the healthy German body<a href="#sdendnote13sym" name="sdendnote13anc"><sup>13</sup></a>. Disability was the "normal" state of a&nbsp;Jew, and a&nbsp;faulty foot constituted a&nbsp;synecdoche of the Jewish body which, as a&nbsp;"foreign body", must be amputated, so that&nbsp;the German body could continue to live<a href="#sdendnote14sym" name="sdendnote14anc"><sup>14</sup></a>.</p> <h2>From hysteria to genetics</h2> <p>The medical film constitutes a&nbsp;special type of Nazi propaganda. This&nbsp;kind of film uses a&nbsp;distinctive medical and criminological gaze, and directly concerns the problematic issue of corporeality. In <em>Invention of Hysteria</em> Didi-Huberman describes a&nbsp;series of observation techniques of hysterics used by Jean-Martin Charcot in his Salpêtrière clinic in Paris. Charcot wanted to teach his treatment methods to other physicians; thus every Tuesday he held performances in front of an audience at which a&nbsp;presented hysteric showed "the dirty secret" of her attacks. In addition, each phase of the hysterical attack was carefully photographed and archived in medical records in order to develop a&nbsp;medical theory. Charcot, just before&nbsp;bringing the hysteric onstage, claimed: "in a&nbsp;moment I&nbsp;will give you a&nbsp;first-hand experience, so to speak, of this&nbsp;pain; I&nbsp;will help you to recognize all its characteristics"<a href="#sdendnote15sym" name="sdendnote15anc"><sup>15</sup></a>. The introduction of the sick body into&nbsp;the field of visibility constitutes the first step towards&nbsp;diagnosis and, consequently, treatment –&nbsp;especially since&nbsp;hysteria is a&nbsp;disease primarily betrayed by sudden body movements. Charcot, as a&nbsp;physician and neurologist, was not yet in a&nbsp;position to go further; he could only observe the surface of the body carefully, for&nbsp;that is where symptoms occurred<a href="#sdendnote16sym" name="sdendnote16anc"><sup>16</sup></a>. Hence, he had to take care of the purity of his gaze, which guaranteed him clinical distance: "truth to tell, in this&nbsp;I&nbsp;am nothing more than&nbsp;a&nbsp;photographer; I&nbsp;inscribe what I&nbsp;see"<a href="#sdendnote17sym" name="sdendnote17anc"><sup>17</sup></a>. Photography –&nbsp;and nothing more. The photo says it all, as everything spreads out under&nbsp;the clinical gaze.</p> <p>Three documentary films –&nbsp;<em>The Hereditary Defective </em>(1936), <em>Every Life is Struggle</em> (1937) and <em>Victims of the Past&nbsp;</em>[<em>Opfer der Vergangenheit</em>] (1937) –&nbsp;share a&nbsp;similar construction, and are characterised by an extremely rich commentary, delivered by the narrator and shown on intertitles. The films' construction is not overly complicated –&nbsp;their aim is merely to present the bodies of the sick –&nbsp;and although the images are sometimes extremely violent and suggestive, they ought to have a&nbsp;discursive frame and are thus always discussed. That&nbsp;is the role of the "case studies" where, before&nbsp;presenting a&nbsp;portrait of a&nbsp;given patient, different charts are shown in order to describe him or her. The description is usually carried out in a&nbsp;repeating pattern: age, identity ("idiot", "madman", "hereditarily ill", "black crossbreed-idiot"), sometimes also with&nbsp;the time spent in hospital and the total cost of hospitalisation.</p> <p>In their design, these films resemble crime photographs in which the combination of portraits of criminals and descriptions of committed crimes was supposed to determine a&nbsp;possible link between&nbsp;criminal tendencies and body structure<a href="#sdendnote18sym" name="sdendnote18anc"><sup>18</sup></a>. This&nbsp;association is meant to appear plausible –&nbsp;it is even inscribed in these films as, next to the filmed patients, criminals also appear. In <em>Every life is Struggle</em>, after&nbsp;an intertitle proclaiming that&nbsp;the "healthy community of the people struggles with&nbsp;the criminals and less-valuable individuals", there follows a&nbsp;short sequence in which police officers climb in an orderly fashion into&nbsp;the cars carrying them off&nbsp;to battle against&nbsp;the dangers lurking within&nbsp;the healthy body of the <em>Volk</em>. In <em>The Hereditary Defective</em>, after&nbsp;the "case studies" of mental patients, portraits of criminals appear, especially murderers, sex offenders and pimps, as if to convince the viewer that&nbsp;there is no essential difference between&nbsp;the two groups. Foucault writes that&nbsp;in modern society the two trends of biopolitics –&nbsp;medicine and the military –&nbsp;are absolutely consistent<a href="#sdendnote19sym" name="sdendnote19anc"><sup>19</sup></a>, just as psychiatry and criminology intertwine in these films. It should be noted that&nbsp;both groups include Jews, who allegedly make up a&nbsp;disproportionate share of the mentally ill and criminals –&nbsp;<em>The Eternal Jew</em> informs us that&nbsp;among various criminals, Jews constitute 98% of pimps (it is no accident that&nbsp;crimes associated with&nbsp;sexuality seem to be over-represented in propaganda films).</p> <p>Furthermore, we should consider the result of a&nbsp;specific direction of the development of psychiatry in the Third Reich which, from&nbsp;the mid-1930s (concurrent with&nbsp;these films), changed the status of the patient along&nbsp;with treatment techniques. Next to the increasingly stringent health standards of the body of the <em>Volk</em>, two phenomena occur simultaneously: the number of patients grows, and patients who do not recover from&nbsp;illness cease to be regarded as "treatment failures" but&nbsp;instead as "constitutionally inferior"<a href="#sdendnote20sym" name="sdendnote20anc"><sup>20</sup></a>. The increasing number of incurably ill patients slowly becomes a&nbsp;threat to the entire healthcare system, which cannot cope with&nbsp;hospital overcrowding and insufficient personnel, and therefore begins to pose a&nbsp;deadly threat to the whole of society. As the statistics included in <em>The Hereditary Defective</em> and <em>Victims of the Past</em> inform us, German society in recent decades has grown by 50%, while the number of patients by as much as 450%. Calculations indicate that&nbsp;in fifty years the incurably ill will constitute one fifth of the population, transmitting their crippled genes to the next generations. Statistical mania had formed part of a&nbsp;general trend in psychiatry since&nbsp;the end of the nineteenth century, and developed numerous theories about&nbsp;the heredity of mental illness; the description of patients began to include descriptions of the bodies of their parents, ancestors and their entire families. Psychiatry legitimised itself as a&nbsp;science of justice and health, which was supposed to protect society from&nbsp;the abnormal<a href="#sdendnote21sym" name="sdendnote21anc"><sup>21</sup></a>. Nazi psychiatry claimed legitimacy from&nbsp;a&nbsp;scientific discourse that&nbsp;was already racist and anti-Semitic –&nbsp;medical films merely popularised what were then considered plausible theories of genetics and inheritance.</p> <p>In addition to statistics contained in charts and diagrams, statistical mania determined the basic frame of reference in these films. <em>The Hereditary Defective</em>, for&nbsp;example, presents a&nbsp;"defective" family structure: the relationship between&nbsp;members of a&nbsp;family in which the mother is "inferior" [<em>minderwertig</em>] and the father is a&nbsp;drunkard, their marriage resulting in two children with&nbsp;intellectual dysfunctions, and a&nbsp;third child plainly described as "an idiot". Further complicated diagrams indicate the high fertility of patients –&nbsp;a&nbsp;number of their numerous children will survive and become a&nbsp;burden on state finances. Graphs are always accompanied by portraits of "clans" (not families) which group together parents, children and siblings. They are lined up in rows, standing beside&nbsp;each other, without&nbsp;intimacy, staring directly at the camera. It passes over&nbsp;their faces, showing not only the lack of normal relations between&nbsp;them, but&nbsp;the specifics of their terrifying physiognomy.</p> <p>Impending biological catastrophe required changes in therapeutic techniques –&nbsp;towards&nbsp;more active methods, usually involving physical work –&nbsp;but&nbsp;for those who seemed hopeless, there would be no space in society. The intent of elimination is not explicit in the films from&nbsp;the second half of the 30s, although their thesis –&nbsp;the need for&nbsp;intervention in the healthcare system –&nbsp;implies a&nbsp;belief that&nbsp;patients suited for&nbsp;treatment and work shall receive it, while everybody else will be dealt with&nbsp;by other methods<a href="#sdendnote22sym" name="sdendnote22anc"><sup>22</sup></a>. In <em>The Hereditary Defective</em> one of the intertitles states that&nbsp;"reproduction prevention of the hereditarily ill is a&nbsp;moral imperative. It means the love of the neighbour and the highest divine commandment: laws of nature". Therefore, it becomes necessary to sterilise, castrate and prohibit marriage, as well as, eventually, exterminate (in different waves, culminating in Aktion T4, the programme of systematic killing of so-called "life unworthy of life" –&nbsp;the mentally and physically ill).</p> <p>I discussed the importance of bodily gestures that&nbsp;appear in "medical" Nazi films. These bodies –&nbsp;shaking and spinning in circles, curved and spasmodic –&nbsp;are usually presented at the beginning, followed by more-static scenes designed to evoke increasing disgust. One of the "Darwinist" intertitles in <em>The Hereditary Defective</em> states that&nbsp;"idiots are standing deep below&nbsp;the animals, incomprehensible and generally unclean". Subsequent scenes of eating aim to convince viewers of this&nbsp;statement. In<em> Victims of the Past</em> patients sitting at a&nbsp;long table receive plates of a&nbsp;slimy, revolting pulp, and begin to eat –&nbsp;the camera follows people bent over&nbsp;their dishes, eating on the ground and devouring directly from&nbsp;bowls without&nbsp;the use of cutlery. In <em>The Hereditary Defective </em>viewers are confronted with&nbsp;close-ups of food pouring into&nbsp;patients' mouths and the remnants of it on their faces. Followed by the explanation that&nbsp;"not everyone can take care of themselves", nurses help with&nbsp;feeding the patients. There is a&nbsp;further shocking and violent scene where an old woman, a&nbsp;mentally ill patient who has been tied to the bed, is fed through&nbsp;a&nbsp;tube inserted into&nbsp;her nose.</p> <p>Viewers are informed that&nbsp;some of the terminally ill can live for&nbsp;a&nbsp;long time, kept by the state, and this&nbsp;is backed by a&nbsp;series of portraits of elderly people. Standardisation and efficiency served to scientifically capture specific forms of deviance<a href="#sdendnote23sym" name="sdendnote23anc"><sup>23</sup></a>, as required by the "pure clinical gaze". In many cases patients do not want to enter the frame: they turn away or try to get out of the camera's sight; more empathetic viewers can sometimes spot the hand of a&nbsp;doctor or a&nbsp;nurse holding or supporting the sick, or preventing them from&nbsp;avoiding the gaze.</p> <p>The camera does not stop at portraits taken in the courtyards of closed psychiatric institutions –&nbsp;it also enters inside, penetrating the closed rooms of bedridden patients. In the dimly lit wards viewers have the opportunity to see patients who spend their entire lives in their beds. A&nbsp;nurse pulls up a&nbsp;patient's quilt, exposing a&nbsp;sick body. <em>Victims of the Past</em> shows near-skeletal humans, the emaciated ill barely noticing the presence of cameras or other people. A&nbsp;doctor, for&nbsp;the purpose of demonstration, raises a&nbsp;patient's leg, which then falls freely, unsupported by the weak patient's will. A&nbsp;close-up of twisted legs deepens the sense of cruelty in the camera's medical gaze.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6927-1-pb-1920x-c5c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6927-1-pb-330x-8fb.jpg 330w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6927-1-pb-660x-c94.jpg 660w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6927-1-pb-768x-587.jpg 768w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6927-1-pb-1320x-2c3.jpg 1320w" src="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6927-1-pb-660x-c94.jpg" alt="" ></a>    <figcaption><p>Sick masses enter through&nbsp;a&nbsp;gate –&nbsp;monsters attack the city; <em>Victims of the Past</em>, 1937</p></figcaption>   </figure>  </section><section class="u-typo">   <p>The monstrosity reaches its peak in <em>Victims of the Past</em>, in the scene of an unorganised, grim march of patients who fill the entire frame –&nbsp;gliding slowly, dragging their feet and limping legs to the sounds of sombre music. Subtitles and statistics emerge, indicating that&nbsp;this "endless swarm of terror" will soon penetrate the German people, bringing society to financial ruin and genetic degeneration. A&nbsp;polymorphous monster composed of a&nbsp;mass of crippled bodies incompatible not only with&nbsp;each other, but&nbsp;especially with&nbsp;the healthy German body, becomes a&nbsp;grave danger. It seems that&nbsp;despite the fragmentations and analytical attempts to scientifically segregate the sick and Jewish bodies –&nbsp;through&nbsp;rigid, standard portraits of the ill separated from&nbsp;each other –&nbsp;a&nbsp;stronger image emerges: a&nbsp;powerful monstrous mass with&nbsp;the ability to dissolve the healthy German body. Foucault believed that&nbsp;because of nineteenth-century criminal psychiatry there was a&nbsp;significant transition from&nbsp;the concept of "monstrosity" to "abnormality" in the discourse around&nbsp;sick bodies<a href="#sdendnote24sym" name="sdendnote24anc"><sup>24</sup></a> –&nbsp;these films seem to dialectically join these two moments in the history of ideas. Abnormal, crippled bodies come back again to haunt with&nbsp;their monstrosity in the great propaganda freak show.</p> <p>Nazi psychiatric policy created a&nbsp;paradoxical situation: it produced many new closed psychiatric institutions, but&nbsp;also opened them for&nbsp;viewers to see who became confined in them. This&nbsp;is a&nbsp;tradition known since&nbsp;the Middle Ages<a href="#sdendnote25sym" name="sdendnote25anc"><sup>25</sup></a>; however, in the Third Reich it expanded on a&nbsp;large scale. Although more-traditional ways of looking at Otherness disappeared, such as traveling circuses (banned in 1938, when preparations for&nbsp;T4 were already underway), medical films and guided tours of mental institutions emerged<a href="#sdendnote26sym" name="sdendnote26anc"><sup>26</sup></a>. Such trips were recommended for&nbsp;engaged couples, to make them aware of the need to create racially pure marriages –&nbsp;and, from&nbsp;a&nbsp;broader perspective, in order to instruct society, so that&nbsp;the public could form an overview (<em>Anschauung</em>) of who the mentally ill really were. The only salvation for&nbsp;patients soon became the avoidance of being seen, as the sphere of public visibility began to mean the danger of death, as with&nbsp;Jews hiding from&nbsp;physiognomic identification.</p> <p>Medical films from&nbsp;the 40s explicitly express the intention of extermination –&nbsp;the T4 action was by then fully introduced. One interesting example in this&nbsp;context is <em>Existence Without&nbsp;Life</em> (1942), whose director remains anonymous, although it is known that&nbsp;the script was developed by psychiatrists working within&nbsp;T4. The film footage was destroyed –&nbsp;only small fragments and part of the script survive. The reconstructed beginning shows a&nbsp;lecture conducted by a&nbsp;professor of medicine stating that&nbsp;"euthanasia" (although the killing of patients was carried out without&nbsp;their or their families' permission) is really an act of mercy, because the patients' everyday experience is of great suffering which prevents them leading full, dignified lives. One of the audience –&nbsp;a&nbsp;sentimental, naive woman –&nbsp;points at Goya's painting <em>House of Fools</em> hanging on the auditorium wall and whispers that&nbsp;the painter probably exaggerated what was happening in the closed institutions. Her neighbour's reply shocks her, as he claims that&nbsp;the reality is even worse –&nbsp;which is then presented in visual sequences included in the narration of the lecture. Other fragments present similar images of faces lit sharply from&nbsp;below, which grotesquely and demonically deforms the bodies. The professor concludes his lecture with&nbsp;a&nbsp;personal remark that&nbsp;he cannot imagine himself leading such a&nbsp;"lifeless existence" and that&nbsp;he would prefer to die. He persuades us that&nbsp;every rational person should share his sentiment. Even the ill, if they were able to understand their position, would not want to be deprived by society of "the right to die"<a href="#sdendnote27sym" name="sdendnote27anc"><sup>27</sup></a>.</p> <p>Genetic protection turned out to be of paramount importance to the German people. Negative eugenics –&nbsp;the elimination of the non-German body –&nbsp;was combined with&nbsp;positive eugenics, care and attention devoted to further development of the German body<a href="#sdendnote28sym" name="sdendnote28anc"><sup>28</sup></a>. Healing the body in order to defend it against&nbsp;degeneration was a&nbsp;serious task for&nbsp;healthy parents, who –&nbsp;as <em>Every life is Struggle </em>explains –&nbsp;could not selfishly stop at one or two children. Otherwise, they would be responsible for&nbsp;the entrance of the monstrous march of the mentally ill into&nbsp;the German people (so different from&nbsp;the organised parade of troops in Leni Riefenstahl's <em>Triumph of the Will</em>), just like&nbsp;a&nbsp;virus that&nbsp;attacks the immune system of a&nbsp;healthy body. "Act!" –&nbsp;says another intertitle in the film: only active work (and reproduction) could enable the German body to defend itself against&nbsp;invading foreign bodies so that&nbsp;it became clean and healthy. Just as in the final frame of <em>The Hereditary Defective</em>, which shows endless fields of wheat, and several rows of fair, blond children protecting their eyes from&nbsp;the summer sun.</p> <h2>Dead Bodies</h2> <p>The film <em>Human Life in Danger </em>[<em>Życie ludzkie w&nbsp;niebezpieczeństwie</em>] (1941) explains in Polish why it became necessary to create a&nbsp;ghetto (founded in Warsaw in November 1940). Jews, regardless of their financial status, are always dirty and careless about&nbsp;hygiene. Inadequate sanitation leads to the outbreak of diseases, especially epidemics of typhus, as is expressed by the use of statistics: 92% of the total number of infected are Jewish. Furthermore, due to unspecified features of their organisms, only 10% of Jews die from&nbsp;the disease, while this&nbsp;ratio increases to 40% among&nbsp;Poles. The construction of the ghetto therefore turned out to be necessary for&nbsp;the survival of the Polish residents of Warsaw, to protect them from&nbsp;their dangerous neighbours. The film does not stop there –&nbsp;its purpose is to link as closely as possible the medical nature of the disease with&nbsp;the Jewish body itself. Its final sequence shows keywords appearing on the screen, which are supposed to directly encode a&nbsp;chain of associations: "Jews –&nbsp;filth –&nbsp;lice –&nbsp;typhus". When viewers heard the Polish narrator's warning: "Beware of the filth and vermin!", they understood the implication.</p> <p>In the short documentary film <em>Jews, Lice, Bugs</em> [<em>Juden, Laus, Wanzen</em>] (1941) the association of Jews with&nbsp;animality is already included in the title. Its footage was shot in the Kraków Ghetto; the film begins with&nbsp;images of houses in poor conditions, in which five people sleep in the same bed and sewage pours directly onto&nbsp;the dirty backyards. The subsequent scene is interrupted by an intertitle showing the anatomy of lice, followed by a&nbsp;scene depicting the delousing of an indigent flat. The Jewish Service unceremoniously throw smoking linens into&nbsp;a&nbsp;special, closed room, and the Jews living there slowly undress while the camera captures all the details, changing shot and perspective. After&nbsp;getting undressed, their clothes are locked in a&nbsp;chamber with&nbsp;hot steam; this&nbsp;is followed by the shaving of the entire body, as any hair could become a&nbsp;hotbed of lice.</p> <p>Lice and rats are common images in Nazi propaganda; Heinrich Himmler claimed that&nbsp;"Anti-Semitism is exactly the same as delousing. Getting rid of lice is not a&nbsp;question of ideology –&nbsp;it is a&nbsp;matter of cleanliness. In just the same way anti-Semitism for&nbsp;us has not been a&nbsp;question of ideology but&nbsp;a&nbsp;matter of cleanliness"<a href="#sdendnote29sym" name="sdendnote29anc"><sup>29</sup></a>. Himmler summed up the intentions of the propaganda films well –&nbsp;their task was not to present the Jewish body being <em>as</em> dirty as an insect or rat; they rather convince viewers that&nbsp;the Jewish body is exactly <em>the same</em> as the insect or rat. Here we encounter the collapse of metaphor and the symbolic structure of language: own and foreign body, German and Jewish body, are not treated as metaphorical opposites, but&nbsp;as entities representing biological reality. Nazism from&nbsp;this perspective is not an abstract ideology developed to fight a&nbsp;political opponent, but&nbsp;a&nbsp;literal struggle with&nbsp;mortal danger. Traditional anti-Semitism utilised animal metaphors, associating Jews with&nbsp;dogs or pigs, but&nbsp;when the figure of the Jew as parasite is introduced, it produces an ontological difference, situating the Jew on the border of the human and non-human<a href="#sdendnote30sym" name="sdendnote30anc"><sup>30</sup></a>. In <em>The Eternal Jew</em> the narrator states that&nbsp;"when a&nbsp;wound appears on the body of the people, Jews attach themselves to it and destroy the body –&nbsp;prolonging the illness and leading to the destruction of the body". Jews with&nbsp;typhus had become indistinguishable from&nbsp;non-human carriers of disease, as they both fed on the healthy body of the German people.</p> <p>Delousing in propaganda films is accompanied by further hygienic treatments, as in the collective scenes of showering that&nbsp;form the core of the films' significance. In <em>Jews, Lice, Bugs</em> the camera records the body from&nbsp;the feet to the head, trying to present all age groups –&nbsp;from&nbsp;small children to the elderly. A&nbsp;shower scene also appears in the Warsaw Ghetto materials, announced by the narrator's slogan: "The only cure for&nbsp;the filthy people's hydrophobia is coercion". The represented bodies lose their individual characteristics –&nbsp;aside from&nbsp;gender –&nbsp;when the frame tries to encompass the crowds washing themselves in the shower: young and old, short and tall, men and women alike.</p> <p>The footage from&nbsp;the Warsaw Ghetto also opens with&nbsp;a&nbsp;showering scene. This&nbsp;film provides even more far-reaching images. The camera shoots only fragments of bodies, which seem independent, not integrated into&nbsp;the image of a&nbsp;whole body, and can therefore only create disgust: close-ups of dirty feet, the shaving of lice-infected hair, medical examinations which viewers accompany via&nbsp;slow camera movements showing to the fullest the bites left on the body. One striking image is the close-up of the body of a&nbsp;small boy who has lost his identity and become merely an assemblage of parts of an abject Jewish body. <em>Jews, Lice, Bugs</em> uses similar techniques in the final part of the film: first a&nbsp;whole frame of hospital rooms, children in their beds and men with&nbsp;gynecomastia, then close-ups on the diseased parts of the body. A&nbsp;man with&nbsp;typhus struggles to release himself from&nbsp;medical examination; viewers are shown deformations and wounds with&nbsp;precision. The close-ups multiply the sense of disgust because of the isolation of the abnormally enlarged and amended body parts: the entire frame seems to be focused on a&nbsp;sick organ, as if the image could not contain the tension, and then collapses into&nbsp;monstrosity<a href="#sdendnote31sym" name="sdendnote31anc"><sup>31</sup></a>. This&nbsp;seems to reveal the dynamics of the body itself –&nbsp;the beginning lies in hygienic intention, seeing in baths and sanitary treatments a&nbsp;cure for&nbsp;filth and disease, but&nbsp;the <em>real</em> confrontation with&nbsp;the disgusting Jewish body suddenly makes all treatment impossible.</p> <p>A documentary filmed by the SS three months before&nbsp;the beginning of the liquidation of the Warsaw Ghetto was supposed to show its necessity, stemming from&nbsp;images of the degeneration of the areas inhabited by Jews. This&nbsp;illustrates how quickly films followed political decisions, from&nbsp;the creation of the ghettos until&nbsp;their liquidation. Documentary material had to be carefully selected and in some parts even staged<a href="#sdendnote32sym" name="sdendnote32anc"><sup>32</sup></a>. The staged scenes primarily showed the contrasts of life in the ghetto –&nbsp;juxtaposing images of extreme poverty with&nbsp;orgiastic debauchery: the poor eat in the courtyards while the rich, well-dressed Jews eat in restaurants. In such a&nbsp;situation it had become impossible to manage the ghetto rationally: Jews were not guided by human impulses; they had no empathy or pity; Jews could not help themselves –&nbsp;therefore they required German administration.</p> <p>However, films depict poverty even more often than&nbsp;class contrasts (<em>The Eternal Jew</em> expresses it directly by combining the image of flies on a&nbsp;wall with&nbsp;the narrator's comment that&nbsp;viewers can see the inside&nbsp;of a&nbsp;rich bourgeois home). The camera travels through&nbsp;the most ruined courtyards and outbuildings, peeps into&nbsp;the life of the poor in their hovels, and focuses on the bodies of the sick and the mad. The conclusion: Jews by nature tend to collapse into&nbsp;chaos and ruin, no matter at what level of wealth or which way the ghetto is managed (viewers also visit the office of the head of the Warsaw Ghetto Jewish Council [Judenrat], Adam Czerniaków). The key image seems to be that&nbsp;of a&nbsp;corpse lying in the street which people pass with&nbsp;indifference. The mass and the Jewish body are reduced to thin corpses loaded onto&nbsp;trucks (some of which, as seen, fall back into&nbsp;the gutter) and laid on heaps of others dead from&nbsp;starvation, in the cemetery sheds on Gęsia Street. Shocking close-ups of piles of naked corpses show masses of entangled arms, legs and heads, bodies stacked carelessly without&nbsp;gender or age. Included in the film materials, the "elimination intention" is framed by categories of the bodily health of the nation. As Foucault suggests: "entire populations are mobilized for&nbsp;the purpose of wholesale slaughter in the name of life necessity: massacres have become vital […] one had the right to kill those who represented a&nbsp;kind of biological danger to others"<a href="#sdendnote33sym" name="sdendnote33anc"><sup>33</sup></a>. This&nbsp;has a&nbsp;very concrete dimension –&nbsp;the ultimate counterbalance to the German body was the Jewish body treated as a&nbsp;pile of flesh, stripped of all meaning.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6929-1-pb-1920x-c5c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6929-1-pb-330x-8fb.jpg 330w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6929-1-pb-660x-c94.jpg 660w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6929-1-pb-768x-587.jpg 768w,assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6929-1-pb-1320x-2c3.jpg 1320w" src="assets/cache/images/issues/2017/18/masses-medicine-and-race/472-6929-1-pb-660x-c94.jpg" alt="" ></a>    <figcaption><p>Cemetery sheds on Gęsia Street in the Warsaw ghetto. Legs and dead bodies –&nbsp;Nazi frames prefigure documentary and artistic images of the extermination camps; Warsaw ghetto film material</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Images of corpses in a&nbsp;Gęsia Street shed captured in the film frame become, in this&nbsp;sense, the prefiguration of the Holocaust. The ghetto for&nbsp;German filmmakers had by now become more than&nbsp;the space for&nbsp;documenting the exotic life of the Jews, not merely an interesting attraction, "a kind of Baedeker sight with&nbsp;picturesque scenes to be photographed"<a href="#sdendnote34sym" name="sdendnote34anc"><sup>34</sup></a>. One may ask in fact why the soldiers had decided to cross the threshold of the cemetery shed in order to capture the gruesome pile of corpses in photographs. Although Sontag claims that&nbsp;through a&nbsp;camera one may separate him/herself from&nbsp;the photographed reality<a href="#sdendnote35sym" name="sdendnote35anc"><sup>35</sup></a>, as far as it is possible to close one's eyes it is impossible not to smell the stench or to hear the sound made by corpses thrown into&nbsp;a&nbsp;pit. The ghetto became an experimental field for&nbsp;confrontation with&nbsp;the disgusting, abject anti-body.</p> <p>Philosopher Roberto Esposito points out that&nbsp;elimination intention does not stem from&nbsp;an individual decision of the sovereign<a href="#sdendnote36sym" name="sdendnote36anc"><sup>36</sup></a>: it comes from&nbsp;the natural essence of a&nbsp;certain kind of life, as the discussed films seem to explain. Created in the Third Reich, the concept of "existence without&nbsp;life" [<em>Dasein ohne Leben</em>] means that&nbsp;some forms of life naturally tend toward&nbsp;death, due to ontological and biological reasons. In the reconstructed part of the film that&nbsp;develops this&nbsp;concept, <em>Existence Without&nbsp;Life</em>, a&nbsp;professor of medicine gives a&nbsp;lecture under&nbsp;the same title which describes that&nbsp;working in a&nbsp;psychiatric institution is, for&nbsp;a&nbsp;healthy man, like&nbsp;"being buried alive". The terminally ill are the "living dead": they are formally dead, even before&nbsp;their actual, biological death. In <em>Every life is Struggle</em> the title is rephrased over&nbsp;and over: "the struggle for&nbsp;life". Life is not given from&nbsp;the beginning –&nbsp;it must be granted through&nbsp;biopolitical process.</p> <p>Biology and law overlap –&nbsp;German and non-German (ill, Jewish) bodies are not just vitalistic metaphors, as politics emerge directly from&nbsp;the application of biological criteria<a href="#sdendnote37sym" name="sdendnote37anc"><sup>37</sup></a>. In order to continue functioning, the healthy body ought to deny the foreign body; conversely, however, it cannot function without&nbsp;it. The final transformation into&nbsp;something non-human requires constant confrontation –&nbsp;the continued presence of the non-body in the field of vision. This&nbsp;non-body appears <em>en masse</em>: firstly as the ill enter through&nbsp;the unguarded borders of the body/nation; finally as the piles of dead Jews.</p> <p>Naked dead bodies, both repulsive and fascinating in their non-humanity, "reveal him as victor, a&nbsp;man who has successfully externalised that&nbsp;which is dead within&nbsp;him, who remains standing when all else is crumbling"<a href="#sdendnote38sym" name="sdendnote38anc"><sup>38</sup></a> –&nbsp;as in the scenes filmed by German soldiers in the ghetto or the ecstatic scenes of execution (e.g. at the end of infamous <em>Jew Süss </em>[1940], directed by Veit Harlan). Psychoanalytical historian Klaus Theweleit explains that&nbsp;the soldier, in order to construct himself, projects from&nbsp;his borders everything that&nbsp;he cannot dominate with&nbsp;his willpower. Standing next to a&nbsp;pile of naked corpses fills him with&nbsp;a&nbsp;feeling of triumph, makes him think that&nbsp;he has ultimately conquered <em>himself</em>, and that&nbsp;there is nothing beyond&nbsp;his totality. The sick and Jewish bodies constructed in Third Reich propaganda essentially become offshoots of the production of the German body. The German body, in order to constitute itself, must reject the non-German body, which poses a&nbsp;mortal threat to it but&nbsp;at the same time is inextricably intertwined with&nbsp;it. Therefore, Jewish nudity appeared to be necessary for&nbsp;building the system of the Third Reich. The German body achieves total victory, ultimately solidifying when the Jewish body has vanished. The soldier's gaze at a&nbsp;pile of naked Jewish corpses makes him stronger and harder. A&nbsp;mere gaze, however, does not eliminate fully the lurking danger to the soldier's and to the people's collective body.   <br><br></p> <h2>The author’s translation of an excerpt of his book <em>Nagość i&nbsp;mundur. Ciało w&nbsp;filmie Trzeciej Rzeszy</em> published in Warsaw in 2015 by Książka i&nbsp;Prasa</h2>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p>&lt;p&gt;Images of corpses in a&amp;nbsp;Gęsia Street shed captured in the film frame become, in this sense, the prefiguration of the Holocaust. The ghetto for German filmmakers had by now become more than the space for documenting the exotic life of the Jews, not merely an interesting attraction, "a kind of Baedeker sight with picturesque scenes to be photographed"&lt;a href="#sdendnote34sym" name="sdendnote34anc"&gt;&lt;sup&gt;34&lt;/sup&gt;&lt;/a&gt;. One may ask in fact why the soldiers had decided to cross the threshold of the cemetery shed in order to capture the gruesome pile of corpses in photographs. Although Sontag claims that through a&amp;nbsp;camera one may separate him/herself from the photographed reality&lt;a href="#sdendnote35sym" name="sdendnote35anc"&gt;&lt;sup&gt;35&lt;/sup&gt;&lt;/a&gt;, as far as it is possible to close one's eyes it is impossible not to smell the stench or to hear the sound made by corpses thrown into a&amp;nbsp;pit. The ghetto became an experimental field for confrontation with the disgusting, abject anti-body.&lt;/p&gt;<br>&lt;p&gt;Philosopher Roberto Esposito points out that elimination intention does not stem from an individual decision of the sovereign&lt;a href="#sdendnote36sym" name="sdendnote36anc"&gt;&lt;sup&gt;36&lt;/sup&gt;&lt;/a&gt;: it comes from the natural essence of a&amp;nbsp;certain kind of life, as the discussed films seem to explain. Created in the Third Reich, the concept of "existence without life" [&lt;em&gt;Dasein ohne Leben&lt;/em&gt;] means that some forms of life naturally tend toward death, due to ontological and biological reasons. In the reconstructed part of the film that develops this concept, &lt;em&gt;Existence Without Life&lt;/em&gt;, a&amp;nbsp;professor of medicine gives a&amp;nbsp;lecture under the same title which describes that working in a&amp;nbsp;psychiatric institution is, for a&amp;nbsp;healthy man, like "being buried alive". The terminally ill are the "living dead": they are formally dead, even before their actual, biological death. In &lt;em&gt;Every life is Struggle&lt;/em&gt; the title is rephrased over and over: "the struggle for life". Life is not given from the beginning &amp;ndash; it must be granted through biopolitical process.&lt;/p&gt;<br>&lt;p&gt;Biology and law overlap &amp;ndash; German and non-German (ill, Jewish) bodies are not just vitalistic metaphors, as politics emerge directly from the application of biological criteria&lt;a href="#sdendnote37sym" name="sdendnote37anc"&gt;&lt;sup&gt;37&lt;/sup&gt;&lt;/a&gt;. In order to continue functioning, the healthy body ought to deny the foreign body; conversely, however, it cannot function without it. The final transformation into something non-human requires constant confrontation &amp;ndash; the continued presence of the non-body in the field of vision. This non-body appears &lt;em&gt;en masse&lt;/em&gt;: firstly as the ill enter through the unguarded borders of the body/nation; finally as the piles of dead Jews.&lt;/p&gt;<br>&lt;p&gt;Naked dead bodies, both repulsive and fascinating in their non-humanity, "reveal him as victor, a&amp;nbsp;man who has successfully externalised that which is dead within him, who remains standing when all else is crumbling"&lt;a href="#sdendnote38sym" name="sdendnote38anc"&gt;&lt;sup&gt;38&lt;/sup&gt;&lt;/a&gt; &amp;ndash; as in the scenes filmed by German soldiers in the ghetto or the ecstatic scenes of execution (e.g. at the end of infamous &lt;em&gt;Jew S&amp;uuml;ss &lt;/em&gt;[1940], directed by Veit Harlan). Psychoanalytical historian Klaus Theweleit explains that the soldier, in order to construct himself, projects from his borders everything that he cannot dominate with his willpower. Standing next to a&amp;nbsp;pile of naked corpses fills him with a&amp;nbsp;feeling of triumph, makes him think that he has ultimately conquered &lt;em&gt;himself&lt;/em&gt;, and that there is nothing beyond his totality. The sick and Jewish bodies constructed in Third Reich propaganda essentially become offshoots of the production of the German body. The German body, in order to constitute itself, must reject the non-German body, which poses a&amp;nbsp;mortal threat to it but at the same time is inextricably intertwined with it. Therefore, Jewish nudity appeared to be necessary for building the system of the Third Reich. The German body achieves total victory, ultimately solidifying when the Jewish body has vanished. The soldier's gaze at a&amp;nbsp;pile of naked Jewish corpses makes him stronger and harder. A&amp;nbsp;mere gaze, however, does not eliminate fully the lurking danger to the soldier's and to the people's collective body.&amp;shy;&amp;shy;&amp;shy;&lt;br&gt;&lt;br&gt;&lt;/p&gt;<br>&lt;h2&gt;The author&amp;rsquo;s translation of an excerpt of his book &lt;em&gt;Nagość i&amp;nbsp;mundur. Ciało w&amp;nbsp;filmie Trzeciej Rzeszy&lt;/em&gt; published in Warsaw in 2015 by Książka i&amp;nbsp;Prasa&lt;/h2&gt;</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/masses-medicine-and-race" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

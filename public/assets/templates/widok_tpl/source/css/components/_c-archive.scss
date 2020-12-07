@@ -1,0 +1,14 @@
+.m-archive {
+  > section {
+    margin-bottom: 0;
+  }
+}
+
+.c-archive-year {
+  margin-top: 0;
+  margin-bottom: 2em;
+  color: $color_primary;
+  span {
+    @include underline-bg($color_primary,2px,1.2em);
+  }
+}

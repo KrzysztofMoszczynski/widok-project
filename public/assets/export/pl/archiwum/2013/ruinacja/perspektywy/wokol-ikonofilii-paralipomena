@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Wokół "Ikonofilii": Paralipomena | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/ruinacja/wokol-ikonofilii-paralipomena">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Wokół &quot;Ikonofilii&quot;: Paralipomena | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Wokół &quot;Ikonofilii&quot;: Paralipomena | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/ruinacja/wokol-ikonofilii-paralipomena">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Wokół &quot;Ikonofilii&quot;: Paralipomena | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ffb300 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ffb300 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ffb300 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ffb300 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ffb300 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ffb300 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+			/* background-color:#ffb300 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,179,0,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ffb300 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ffb300; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ffb300 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ffb300 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ffb300 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1233 parent-id-1190">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="422" data-selected-issue-color="#ffb300" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/4-ruin#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/4-ruin/on-iconophilia-paralipomena">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/ruinacja#toc">4</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/ruinacja/wokol-ikonofilii-paralipomena?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Wokół "Ikonofilii": Paralipomena</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/ruinacja/wokol-ikonofilii-paralipomena?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=317">Mateusz Salwa</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Andrzej Leśniak, <em>Ikonofilia. Francuska semiologia pikturalna i&nbsp;obrazy,</em> Wyd. IBL PAN, Warszawa 2013</p> <p></p> <p><br><br></p> <p>Mateusz Salwa</p> <h1>Paralipomena</h1> <p>Należy uznać, że&nbsp;w&nbsp;swojej książce Andrzej Leśniak podjął się zadania interesującego, niełatwego, a&nbsp;zarazem ważnego, zwłaszcza, jeśli weźmie się pod&nbsp;uwagę to, że&nbsp;od kilku lat kolejne teksty współczesnych francuskich historyków sztuki (czy też, jak on sam o&nbsp;nich pisze, filozofów obrazu) są dość systematycznie tłumaczone na&nbsp;język polski. Koncepcje te są bez wątpienia frapujące i&nbsp;wykraczają daleko poza obszar historii sztuki, czego przykładem może być, rzecz jasna, omawiana przez autora semiologia pikturalna wraz z&nbsp;obecną w&nbsp;niej kategorią reprezentacji. Daleko im także do prostoty, co wynika tak z&nbsp;ich treści, jak i&nbsp;francuskiej retoryki. Należy to podkreślić, gdyż łatwo o&nbsp;tym zapomnieć w&nbsp;trakcie lektury <em>Ikonofilii</em>, którą czyta się bardzo dobrze, co niewątpliwie jest zasługą stylu pisania i&nbsp;myślenia autora, potrafiącego skomplikowane – by nie rzec: nieprzejrzyste – teorie przedstawić klarownie, nie pomijając przy tym rozmaitych pęknięć, rys czy napięć. Książka ta zatem będzie lekturą obowiązkową dla wszystkich zainteresowanych współczesną historią sztuki czy kulturą wizualną, podobnie jak jest nią wcześniejsza praca Andrzeja Leśniaka, <em>Obraz płynny</em><sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>.</p> <p>Bez wątpienia autorowi udało się zrekonstruować logikę – zarówno w&nbsp;jej aspekcie synchronicznym, jak i&nbsp;diachronicznym, jeśli wolno tutaj przywołać te strukturalistyczne określenia – semiologii pikturalnej w&nbsp;taki sposób, że&nbsp;rekonstrukcja ta nie potrzebuje korekt czy uzupełnień. Jest samowystarczalną strukturą. Z&nbsp;tej racji poniższe uwagi należy potraktować jako zapiski na&nbsp;marginesie lektury, sugestie dotyczące tego, co ewentualnie można by jeszcze wziąć pod&nbsp;uwagę, a&nbsp;co – być może – rzuciłoby nieco inne światło na&nbsp;projekt semiologii pikturalnej. Nie chodzi w&nbsp;nich zarazem o&nbsp;to, by „punktować” autora bo&nbsp;wszystkie wątki, które za&nbsp;chwilę zostaną poruszone, są właściwie przez niego sygnalizowane, choćby <em>implicite. </em>Moje uwagi należy więc raczej potraktować jako postulaty rozbudowania pewnych myśli czy intuicji, postulaty wynikłe z&nbsp;apetytu rozbudzonego lekturą. Nie mają one też być systematycznym komentarzem, ale raczej <em>cicer cum caule...</em></p> <p>Niech mi będzie wolno zacząć od kwestii najogólniejszej i&nbsp;właściwie kosmetycznej, ale zarazem otwierającej margines, na&nbsp;którym chciałbym umieścić swoje addenda. Podtytuł książki brzmi <em>Francuska semiologia pikturalna i&nbsp;obrazy</em>. Sam termin „semiologia pikturalna” nie rodzi żadnych pytań, ponieważ kryje się pod&nbsp;nim rekonstruowany projekt Louisa Marina. Jednak mniej oczywisty jest towarzyszący mu przymiotnik „francuska”, gdyż może sugerować, że&nbsp;istniała lub istnieje także jakaś inna, nie francuska semiologia pikturalna. W&nbsp;tym miejscu rodzą się więc już pewne pytania, mianowicie: czy „semiologia pikturalna” to nazwa własna odnosząca się jedynie do koncepcji Marina? Jeśli tak, to z&nbsp;oczywistych względów przymiotnik wydaje się zbędny. Czy też może jest to pewien ukuty przez tego francuskiego teoretyka idiom, którego desaussurowskie korzenie są oczywiste, ale który może funkcjonować <em>toutes proportions gardées </em>jako synonim np.&nbsp;„semiotyki malarstwa”? W&nbsp;tym wypadku przymiotnik jest jak najbardziej na&nbsp;miejscu, ale rodzi oczekiwanie, że&nbsp;projekt ten zostanie skonfrontowany z&nbsp;innymi propozycjami mieszczącymi się w&nbsp;obszarze semiotyki malarstwa czy, szerzej, sztuki. Tak się niestety nie dzieje, a&nbsp;przecież Marin i&nbsp;przywołany w&nbsp;książce Jean-Louis Scheffer nie byli jedynymi, którzy postulowali stosowanie metod strukturalistycznych w&nbsp;analizach sztuki. Dość wspomnieć chociażby Jana Mukařovskiego czy Borysa Uspieńskiego (swoją drogą godne uwagi jest to, że&nbsp;Jan Białostocki znamienitą część swoich wykładów wygłoszonych w&nbsp;Collège de France i&nbsp;tworzących książkę <em>Historia sztuki wśród nauk humanistycznych</em> poświęcił zagadnieniom struktury i&nbsp;znaku). Tak czy owak, teoria Marina została potraktowana jako zamknięty system, możliwy do rozpracowania bez odwoływania się do czynników zewnętrznych. Można się również zastanawiać, czy stosowany przez autora w&nbsp;odniesieniu do semiogii pikturalnej termin „dyscyplina” nie jest użyty nieco na&nbsp;wyrost. Jak dowodzi tego <em>Ikonofilia</em>, był to pomysł autorski, odosobniony, który nigdy się nie zinstytucjonalizował i&nbsp;raczej nie skupił wokół siebie na&nbsp;tyle licznych naśladowców, by można było mówić przynajmniej o&nbsp;szkole (a o&nbsp;niczym takim Andrzej Leśniak nie pisze). Jeśli nawet Marin zamierzał uczynić z&nbsp;semiologii pikturalnej dyscyplinę, to raczej mu się to nie udało, co nie zmienia tego, że&nbsp;jest klasykiem.</p> <p>Można się więc zastanawiać, czy przypadkiem autor <em>Ikonofilii </em>nie dał się uwieść strukturalizmowi, od którego zresztą krytycznie się dystansuje, oraz wierze w&nbsp;możliwość wyabstrahowania systemu z&nbsp;okoliczności historycznych, przez co dodatkowo <span class="rozstrzelony">zreifikował</span> pewną koncepcję. Bo&nbsp;choć semiologia pikturalna, jak podkreśla, jest dzieckiem swego czasu i&nbsp;owocem fascynacji strukturalizmem, to właściwie jej historyczność sprowadza się w&nbsp;jego ujęciu do dwóch czynników: po&nbsp;pierwsze, jest ona pewną „kryzysową” fazą strukturalistycznego myślenia o&nbsp;sztuce, a&nbsp;po drugie – z&nbsp;tej racji stanowi ona antypozytywistyczną reakcję na&nbsp;wcześniejszy <em>mainstream</em> historii sztuki, utożsamiony przez autora z&nbsp;ikonologią Panofskiego. Te dwa ujęcia wyczerpują właściwie zagadnienie teoretycznego usytuowania koncepcji Marina. Tym, czego brakuje, jest właśnie kontekst historyczny, rozumiany po&nbsp;pierwsze, jako zbiór odmiennych teorii na&nbsp;temat obrazu i&nbsp;jego znaczeń, po&nbsp;drugie, po&nbsp;prostu jako rekonstrukcja stanu dyscypliny w&nbsp;chwili, gdy Marin zarysował swoją <em>sémiologie picturale</em>.</p> <p>Nie chodzi mi przy tym o&nbsp;to, że&nbsp;brak w&nbsp;książce „wpływologii” i&nbsp;badania, jak „zewnętrzne” czynniki doprowadziły do powstania tego projektu i&nbsp;jak potem przyczyniły się do jego przemian, ale o&nbsp;skonfrontowanie tej koncepcji z&nbsp;innymi semiotycznymi teoriami (nie tylko strukturalistycznymi). Dla przykładu można przywołać nazwiska Maxa Bensego, Normana Brysona, Umberta Eco czy Nelsona Goodmana. Wydaje się, że&nbsp;prześledzenie podobieństw i&nbsp;różnic pozwoliłoby uchwycić pełniej swoistość Marinowskiej koncepcji. Bez tych punktów odniesienia semiologia pikturalna jawi się bowiem jako „obiekt teoretyczny” całkowicie ahistoryczny, a&nbsp;przez to bezprecedensowy. A&nbsp;takim przecież nie jest: czy przypadkiem nie można zauważyć podobieństw między sposobem, w&nbsp;jaki Marin opisuje mechanizm reprezentacji (przez co – jak słusznie zauważa Andrzej Leśniak – podkreśla on materialność obrazu), a&nbsp;teoriami praskich strukturalistów, a&nbsp;wcześniej formalistów rosyjskich? To, że&nbsp;znak łączy w&nbsp;sobie funkcję reprezentowania, tj. odsyłania do czegoś, a&nbsp;zarazem prezentowania siebie jako reprezentującego, nie jest ustaleniem jedynie Marina. Ponadto problematyka reprezentacji jest zagadnieniem wykraczającym daleko poza perspektywę semiotyczną. Równie wiele interesujących kwestii mieli w&nbsp;tej sprawie do powiedzenia Ernst H. Gombrich i&nbsp;Richard Wollheim. Zwłaszcza ten pierwszy wydaje się istotny, jeśli weźmie się pod&nbsp;uwagę rozgłos jego <em>Sztuki i&nbsp;złudzenia</em>, książki, którą Marin bodaj się zajmował.</p> <p>Podobnie przedstawia się sprawa z&nbsp;głównym osiągnięciem semiologii pikturalnej, które zdaniem Andrzeja Leśniaka stanowi o&nbsp;jej odmienności od studiów wizualnych –z odkryciem jednostkowości obrazu wynikającej przede wszystkim z&nbsp;jego materialności, która ma ścisły związek z&nbsp;sensem obrazu, który powstaje w&nbsp;nim samym, a&nbsp;nie jest „projektowany” nań przez teksty, oraz że&nbsp;w&nbsp;związku z&nbsp;tym obrazy są obiektami teoretycznymi, czyli wytwarzają teorię pozwalającą je odczytać. Niewątpliwie ma on rację, podkreślając ten aspekt projektu Marina, ale warto jednak zauważyć, że&nbsp;te koncepcje rozwijali właściwie równolegle do francuskiego historyka sztuki tacy filozofowie jak Michel Henry, Henry Maldiney (wspomniany w&nbsp;książce) czy wreszcie Jean-Luc Marion (wzmiankowany jako jeden z&nbsp;bohaterów książki Michała Pawła Markowskiego <em>Pragnienie obecności</em>). Zgoda, posługują się oni odmiennym idiomem, bo&nbsp;wszyscy są fenomenologami, nie mniej wszyscy zgodnie uznają, że&nbsp;do istoty sztuki – przede wszystkim malarstwa, bo&nbsp;ta dziedzina ich głównie interesowała – należy to, że&nbsp;sens dzieła rodzi się „od wewnątrz”, że&nbsp;bycie dziełem sztuki nie polega na&nbsp;ilustrowaniu tekstów czy zwykłym odzwierciedlaniu rzeczywistości. Inaczej mówiąc, dość zgodnie zakładają, że&nbsp;sensy rodzą się nie gdzie indziej tylko w&nbsp;warstwie formalnej, czyli w&nbsp;tym, co – mówiąc po&nbsp;marinowsku – w&nbsp;znaku malarskim prezentuje się jako reprezentacja. <em>Notabene</em> zauważają oni, że&nbsp;ów sensotwórczy wymiar medium formy (chciałoby się powiedzieć forma jako <em>signifiant</em>) daje się uchwycić tylko i&nbsp;wyłącznie za&nbsp;sprawą sztuki XX wieku, w&nbsp;której forma zyskała autonomiczność. Tak więc i&nbsp;anachronizm, pojęty jako strategia lektury obrazów, o&nbsp;której wspomina w&nbsp;pewnym miejscu Andrzej Leśniak, nie jest odosobnionym pomysłem Marina czy Didi-Hubermana. Przywołanie tutaj francuskiej fenomenologii nie jest także od rzeczy z&nbsp;racji historycznych: jak wiadomo, Damisch był uczniem Maurice’a Merleau-Ponty’ego, zaś Didi-Huberman w&nbsp;jednym z&nbsp;wywiadów przyznaje się do inspiracji Maldineyem. Nawiasem mówiąc, Damisch krytykował Husserla między innymi za&nbsp;to, że&nbsp;nie doceniał formalnego wymiaru dzieł, który jest kluczowy dla zrozumienia znakowej funkcji obrazów malarskich. W&nbsp;tym miejscu można także dodać, że&nbsp;to nie kto inny niż fenomenolog, mianowicie Mikel Dufrenne, zapytywał, czy sztuka jest językiem, i&nbsp;odpowiadał negatywnie, wskazując ograniczenia tej analogii. Jedną z&nbsp;postaci, która walnie przyczyniła się do szczególnego pojmowania relacji między formą (znaczącym) i&nbsp;treścią (znaczonym) był w&nbsp;Polsce właściwie zapomniany Henri Focillon, który powiadał, że&nbsp;w&nbsp;dziele sztuki forma jest swoją własną treścią, i&nbsp;którego cytują wymienieni wyżej teoretycy. Owa skłonność do „formalizmu” znalazła też swój wyraz w&nbsp;sięganiu do Aloisa Riegla i&nbsp;Heinricha Wöllflina (do których sięgał także Gilles Deleuze). Jest to o&nbsp;tyle interesujące, że, jak przekonująco ukazał to Lambert Wiesing w&nbsp;<em>Widzialności obrazu</em>, ich propozycje wpisują się w&nbsp;szeroko rozumianą estetykę formalną, do której niemiecki autor zalicza Merleau-Ponty’ego oraz Bensego i&nbsp;która podkreśla, że&nbsp;to warstwa formalna, rozumiana przede wszystkim jako warstwa wizualna konkretnego dzieła, jest obszarem generującym znaczenia. Można w&nbsp;tym miejscu pokusić się także o&nbsp;tezę, że&nbsp;właśnie w&nbsp;pracach obu przedstawicieli wiedeńskiej szkoły historii sztuki dochodzi do głosu przekonanie, że&nbsp;teorii interpretacji obrazu należy szukać (czy raczej należałoby powiedzieć: wypatrywać) w&nbsp;samych dziełach. Czymże innym są wizualne kategorie, którymi obaj operują, jeśli nie pewnym schematem wypracowanym dzięki uważnej obserwacji obiektów. Czy zatem i&nbsp;w przypadku ich teorii nie należałoby mówić o&nbsp;„obiektach teoretycznych”?</p> <p>Wydaje się więc, że&nbsp;Marin nie jest odosobniony w&nbsp;geście zwracania uwagi na&nbsp;mechanizmy reprezentacji, a&nbsp;zarazem jednostkowości obrazu. Dodać do tego jeszcze można jedynie wzmiankowane przez Andrzeja Leśniaka niemieckie koncepcje, które można objąć mianem hermeneutyczno-egzystencjalnej historii sztuki, a&nbsp;które wydają się, mimo odmiennej perspektywy i&nbsp;założeń, interesującym kontekstem porównawczym, zwłaszcza dla rozważań na&nbsp;temat relacji słowo/obraz. Nawiasem mówiąc, do analizy tej relacji mogłaby się okazać przydatna figura kaligramu, zastosowana przez Michela Foucaulta w&nbsp;<em>To nie jest fajka</em>; swoją drogą jedna z&nbsp;antologii, mająca na&nbsp;celu zaprezentowanie anglosaskiemu czytelnikowi francuskiej współczesnej historii sztuki, w&nbsp;której znalazł się tekst Marina nosi tytuł <em>Calligram, </em><em>Essays in New Art History from France</em><sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>; zredagowana została przez Normana Brysona, kolejnego autora, z&nbsp;którym chciałoby się skonfrontować myśl Francuza. Wracając zaś do niemieckiej myśli o&nbsp;obrazie, można zauważyć, że&nbsp;autor <em>Ikonofilii</em> sygnalizuje ją, ale niestety nie poświęca jej wiele miejsca, a&nbsp;osadzając semiologię pikturalną w&nbsp;kontekście zwrotu obrazowego, bierze pod&nbsp;uwagę koncepcje anglosaskie, wyrastające z&nbsp;teorii W.J.T. Mitchella. A&nbsp;czy jednak właściwszym kontekstem nie byłyby koncepcje Gottfrieda Boehma?</p> <p>Przywołane tu przed chwilą nazwisko Focillona pozwala wskazać jeszcze jedną kwestię. Autor <em>Ikonofilii</em> zauważa, że&nbsp;semiologia pikturalna przyczyniła się, jeśli nie do rozpadu historii sztuki, to co najmniej do nadwątlenia jej homogenicznego charakteru. Nie zarysowuje jednak stanu dyscypliny w&nbsp;latach sześćdziesiątych we Francji, a&nbsp;przecież obok wciąż wówczas wpływowego, choć już nieżyjącego autora <em>Vie de formes</em>, ważną pozycję zajmowali André Chastel, Robert Klein czy Pierre Francastel, nie wspominając o&nbsp;André Malraux, by wymienić jedynie tych, dla których uprawianie historii sztuki powiązane było z&nbsp;teorią, przy czym każdy z&nbsp;nich prezentował nieco inną optykę. Goła diagnoza stanu historii sztuki z&nbsp;połowy XX wieku, sprowadzająca ją do tak czy inaczej rozumianych badań ikonograficznych czy ikonologicznych, utrzymanych w&nbsp;pozytywistycznym duchu i&nbsp;skoncentrowanych na&nbsp;odszyfrowywaniu sensów, które pochodzą skądinąd niż z&nbsp;samego dzieła, także pozostawia uczucie niedosytu. Istotnie, jest to obraz, jaki wyłania się z&nbsp;lektury tekstów Arasse’a i&nbsp;Didi-Hubermana, ale choć obaj w&nbsp;tym, co piszą, są przekonujący, to warto jednak zastanowić się, czy istotnie właściwie rekonstruują oni ten obszar. Podobnie warto zastanowić się, czy semiologia pikturalna przynosi w&nbsp;praktyce odmienne rezultaty, czy też różnice między nią a&nbsp;innymi projektami (w tym również ikonologicznym) mają wymiar „jedynie” teoretyczny.</p> <p>Chciałoby się także poczytać o&nbsp;wpływie koncepcji Marina na&nbsp;innych badaczy – pozwoliłoby to jakoś go osadzić w&nbsp;kontekście zwrotu obrazowego i&nbsp;studiów nad kulturą wizualną, tak samo jak – być może wbrew zdrowemu rozsądkowi, za&nbsp;to ulegając czarowi swoistej naukowej kabale – chciałoby się znaleźć zestawienie <em>Pouvoirs de l’image </em>Marina z&nbsp;<em>Potęgą wizerunków</em> Davida Freedberga. Obie książki wydane zostały mniej więcej w&nbsp;tym samym czasie (choć książka Marina ukazała się już pośmiertnie), ich tytuły są niemal identyczne, a&nbsp;smaczku dodaje symetria, jeśli chodzi o&nbsp;liczbę pojedynczą i&nbsp;mnogą rzeczowników.</p> <p>Kończąc te <em>paralipomena</em>, wypada stwierdzić, że&nbsp;Andrzej Leśniak ma rację, kiedy pisze, że&nbsp;„Mateusz Salwa ma rację, kiedy pisze »połączenie spojrzenia historycznego z&nbsp;teoretycznym (czy też filozoficznym) jest jedną z&nbsp;charakterystycznych cech współczesnej francuskiej myśli o&nbsp;sztuce, przy czym połączenie to nadaje jej rys odmienny od tego, z&nbsp;jakim mamy do czynienia w&nbsp;równie teoretycznie zorientowanej współczesnej myśli anglosaskiej czy niemieckiej«. Jednak tego rodzaju opis wymaga dopowiedzenia”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Istotnie, wymaga i&nbsp;<em>Ikonofilia</em> czyni ważny krok w&nbsp;tę stronę. Dopowiedzenie jednak, podobnie jak interpretacja, ma do siebie to, że&nbsp;jest procesem nieskończonym i&nbsp;dopowiadać można nieustannie. Oto skąd się wzięły moje uwagi.</p> <p></p> <p><em>Post Scriptum</em></p> <p>Ponieważ Andrzeja Leśniaka znam już od ładnych paru lat, niech mi będzie wolno porzucić sztucznie bezosobowy, „recenzyjny” ton i&nbsp;po prostu napisać: Andrzeju, czekamy na&nbsp;kolejne tomy!!!</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Andrzej Leśniak, <em>Obraz płynny. Georges Didi-Huberman i dyskurs historii sztuki</em>, Universitas, Kraków 2010.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a><em>Calligram. </em><em>Essays in New Art History from France</em>, red. N. Bryson, Cambridge University Press, Cambridge–New York 1988.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Mateusz Salwa, <a href="http://pismowidok.org/index.php/one/article/view/12/6" target="_blank" rel="noopener"><em>Nie mam oka ikonografa</em>, „Widok” 2013, nr 1</a>, dostęp 10 stycznia 2014.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/ruinacja/wokol-ikonofilii-paralipomena" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

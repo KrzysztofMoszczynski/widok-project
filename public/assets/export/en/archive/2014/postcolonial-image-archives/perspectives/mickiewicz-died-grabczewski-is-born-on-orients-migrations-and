@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>„Umarł Mickiewicz, narodził się Grąbczewski…”.  | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/umarl-mickiewicz-narodzil-sie-grabczewski">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="„Umarł Mickiewicz, narodził się Grąbczewski…”.  | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="„Umarł Mickiewicz, narodził się Grąbczewski…”.  | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/umarl-mickiewicz-narodzil-sie-grabczewski">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="„Umarł Mickiewicz, narodził się Grąbczewski…”.  | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #228b22 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #228b22 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #228b22 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #228b22 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #228b22 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #228b22 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #228b22 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #228b22 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(34,139,34,0.8) !important; */
+			/* background-color:#228b22 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(34,139,34,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#228b22 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(34,139,34,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#228b22; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(34,139,34,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(34,139,34,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#228b22 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#228b22 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#228b22 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1100 parent-id-1078">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="426" data-selected-issue-color="#228b22" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/postcolonial-image-archives#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/postcolonial-image-archives/mickiewicz-died-grabczewski-is-born-on-orients-migrations-and">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/postkolonialne-archiwa-obrazow#toc">7</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/umarl-mickiewicz-narodzil-sie-grabczewski?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>„Umarł Mickiewicz, narodził się Grąbczewski…”. O migrowaniu do Orientu i migrowaniu Orientu</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/umarl-mickiewicz-narodzil-sie-grabczewski?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorzy: 
+		<a href="/pl/bio?id=1101">Max Cegielski</a>, <a href="/pl/bio?id=311">Katarzyna Bojarska</a>, <a href="/pl/bio?id=901">Katarzyna Czeczot</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>O migrowaniu do Orientu i&nbsp;migrowaniu Orientu</h2> <p></p> <blockquote><b>O realizowanym w&nbsp;Stambule projekcie badawczo-artystycznym „Migrujący Uniwersytet Mickiewicza” i&nbsp;wizualno-narracyjnym odtwarzaniu historii topografa, etnografa i&nbsp;podróżnika Bronisława Grąbczewskiego Katarzyna Bojarska i&nbsp;Katarzyna Czeczot rozmawiają z&nbsp;pisarzem i&nbsp;kuratorem, Maksem Cegielskim.</b></blockquote> <p></p> <h2>Muzeum</h2> <p><b>Katarzyna Bojarska</b>: Pisałeś na&nbsp;swoim blogu: „Jak widać, Mickiewicza nie ma. Wyprowadził się. Nie tyle do kolejnych grobowców, ile raczej uciekł przed Polską. Jego stambulskie muzeum znajduje się w&nbsp;dzielnicy Tarlabaşı, odizolowanej od reszty miasta”. Czym jest tamtejsze Muzeum Mickiewicza? Co to za&nbsp;twór, kto odpowiada za&nbsp;ekspozycję, co się na&nbsp;niej znajduje, kto je odwiedza?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3239-1-pb-1920x-770.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3239-1-pb-330x-f4a.jpg 330w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3239-1-pb-660x-87c.jpg 660w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3239-1-pb-768x-e71.jpg 768w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3239-1-pb-1320x-422.jpg 1320w" src="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3239-1-pb-660x-87c.jpg" alt="" ></a>    <figcaption><p>Tarlabaşı. Fot. Justyna Chmielewska</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>Max Cegielski</b>: W&nbsp;sensie instytucjonalnym Muzeum Mickiewicza to dziwaczny twór. Za&nbsp;kwestie merytoryczne odpowiada warszawskie Muzeum Literatury, a&nbsp;zarządzane jest przez stronę turecką, Zarząd Muzeów Sztuki Tureckiej i&nbsp;Muzułmańskiej. Od samego początku swojego istnienia instytucja ta jest rozdarta między tę parę „właścicieli”. Największy paradoks polega na&nbsp;tym, że&nbsp;muzeum nie mieści się dokładnie w&nbsp;tym domu, w&nbsp;którym poeta mieszkał i&nbsp;umarł w&nbsp;Konstantynopolu jesienią 1855 roku. To znamienne przesunięcie wydaje się dość typowe dla tych naszych obciążonych narracji dotykających kwestii zasadniczych, w&nbsp;tym przypadku biografii poety narodowego, wieszcza. Stanisław Rosiek w&nbsp;książce <em>Mickiewicz (po śmierci)</em> pisze o&nbsp;„domu pamiątkowym”. Taka umowność miejsca pozwala w&nbsp;istocie na&nbsp;umowne traktowanie samego Mickiewicza.<br><br><b>Katarzyna Czeczot</b>: A&nbsp;dlaczego nie jest to ten sam dom?<br><br><b>MC</b>: Dlatego że&nbsp;w&nbsp;1870 roku był wielki pożar, który strawił dużą część dzielnicy Pera. Do udziału w&nbsp;Migrującym Uniwersytecie Mickiewicza zaprosiliśmy ludzi, którzy w&nbsp;Stambule analizują teksty i&nbsp;dokumenty osmańskie – myślę tu przede wszystkim o&nbsp;Paulinie Dominik, historyczce zajmującej się XIX wiekiem i&nbsp;badającej obecność Polaków w&nbsp;Konstantynopolu. Niestety do tej pory nie udało nam się znaleźć dokumentacji tej dzielnicy sprzed pożaru. To nie daje mi spokoju i&nbsp;w kolejnej edycji projektu chciałbym doprowadzić do wnikliwej kwerendy archiwalnej, żeby dokładnie sprawdzić plan ulic, układ i&nbsp;własność działek. W&nbsp;połowie XIX wieku Imperium Osmańskie się modernizowało, popadając w&nbsp;coraz większe długi. Polegało to na&nbsp;tym, że&nbsp;sprowadzano różnych specjalistów z&nbsp;zagranicy lub dawano zlecenia Europejczykom, którzy byli na&nbsp;miejscu i&nbsp;proponowali nowe rozwiązania urbanistyczne. Dokładnie w&nbsp;tym okresie zaczął się spór o&nbsp;poszerzanie ulic. Z&nbsp;jednej strony chodziło o&nbsp;proste sprawy komunikacyjne, z&nbsp;drugiej zaś o&nbsp;kwestie wizerunku. Wszystko to było bardzo skomplikowane, głównie ze względu na&nbsp;prawo własności. Jeśli jakiś fragment miasta spłonął, wówczas tworzono dla tej okolicy nowy plan: szersze ulice, bardziej zmodernizowany układ (siatka ulic, a&nbsp;nie plątanina zaułków). I&nbsp;to właśnie stało się w&nbsp;tej części Pery, gdzie mieszkał Mickiewicz, a&nbsp;która w&nbsp;tej chwili nazywa się Tarlabaşı. Wiemy więc, jak to wszystko wyglądało po&nbsp;1870 roku, wcześniej – nie. Wydaje mi się jednak, że&nbsp;te plany gdzieś muszą być. Nie bardzo wiadomo, w&nbsp;jakiej relacji do poprzedniego, drewnianego domu jest dzisiejsza siedziba muzeum – Polonia w&nbsp;Stambule zarzekała się zawsze, że&nbsp;dom stoi w&nbsp;tym samym miejscu, ale to nieprawda. Jeszcze w&nbsp;XIX wieku Polacy usiłowali go wykupić, prawdopodobnie prowadzący interesy w&nbsp;Konstantynopolu przemysłowiec Groppler dał na&nbsp;to pieniądze swojemu podwładnemu, Ratyńskiemu. Ten, owszem, kupił działkę, ale na&nbsp;swoje nazwisko, po&nbsp;czym zbudował na&nbsp;niej duży murowany dom, który następnie przekazał swoim spadkobiercom. Powstała więc nie publiczna instytucja, tylko całkowicie prywatna kamienica. To ciekawe, że&nbsp;tę spuściznę po&nbsp;Mickiewiczu od początku dotykały takie „typowo polskie" problemy.<br><br><b>KB</b>: Ale co tak naprawdę zostało tam, na&nbsp;miejscu? Chodzi mi o&nbsp;pamiątki po&nbsp;wieszczu.<br><br><b>MC</b>: Nic, kompletnie nic.<br><br><b>KC</b>: A&nbsp;co tam jest?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3241-1-pb-1920x-770.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3241-1-pb-330x-f4a.jpg 330w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3241-1-pb-660x-87c.jpg 660w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3241-1-pb-768x-e71.jpg 768w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3241-1-pb-1320x-422.jpg 1320w" src="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3241-1-pb-660x-87c.jpg" alt="" ></a>    <figcaption><p>Muzeum Adama Mickiewicza, Stambuł</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>MC</b>: Ekspozycja multimedialna, powstała w&nbsp;ramach obchodów Roku Polskiego w&nbsp;Turcji (600-lecia nawiązania polsko-tureckich stosunków dyplomatycznych). Jej koncepcja wynika stąd, że&nbsp;warszawskie Muzeum Literatury nie posiada żadnych pamiątek ze stambulskiego okresu życia Mickiewicza. Można by niby wstawić tam jakieś inne materiały, ale na&nbsp;to nie pozwalają przepisy dotyczące wywożenia z&nbsp;kraju na&nbsp;dłużej tego rodzaju „pamiątek”. W&nbsp;ostatnim roku doszło nawet do sporu między stroną turecką a&nbsp;polską, ponieważ Turcy uważali, że&nbsp;w&nbsp;muzeum powinny znaleźć się autentyczne przedmioty należące do Mickiewicza, że&nbsp;ekspozycja powinna być tradycyjna – chcieli, by muzeum działało jako izba pamięci poety.<br><br><b>KB</b>: Do jakiego widza adresowana jest ta wystawa?<br><br><b>MC</b>: Jej twórcy starali się wpisać losy Mickiewicza w&nbsp;historię Imperium Osmańskiego, opowiedzieć dzieje kontaktów polsko-tureckich. Tak, żeby przyciągnąć lokalną publiczność. Prawdą jest, że&nbsp;do tej pory muzeum odwiedzali właściwie tylko Polacy – a&nbsp;i tak tym nielicznym polskim wycieczkom niełatwo jest dotrzeć do muzeum ze względu na&nbsp;warunki panujące w&nbsp;dzielnicy, napady i&nbsp;kradzieże.<br><br><b>KB</b>: Rozumiem, że&nbsp;do tego muzeum nie da się zabłąkać.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3243-1-pb-1920x-044.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3243-1-pb-330x-863.jpg 330w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3243-1-pb-660x-eaf.jpg 660w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3243-1-pb-768x-2a1.jpg 768w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3243-1-pb-1320x-f72.jpg 1320w" src="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3243-1-pb-660x-eaf.jpg" alt="" ></a>    <figcaption><p>Tarlabaşı. Fot. Justyna Chmielewska</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KB</b>: Rozumiem, że&nbsp;do tego muzeum nie da się zabłąkać.<br><br><b>MC</b>: Absolutnie nie. Trafiają tam ludzie, którzy naprawdę chcą tam pójść. Do kwartału rozciągniętego poniżej bulwaru Tarlabaşı nie docierają mieszkańcy innych dzielnic, choć to ledwie dziesięć minut spacerem od serca miasta – placu Taksim i&nbsp;alei İstiklal. Kolejny paradoks polega na&nbsp;tym, że&nbsp;ponieważ jest to dość niebezpieczna okolica (podczas niedawnych zamieszek kurdyjskich zniszczono kamerę zamontowaną na&nbsp;fasadzie budynku oraz zerwano flagi polską i&nbsp;turecką), ochroniarze nie wpuszczali do muzeum ludzi niewyglądających jak turyści.<br><br><b>KB</b>: A&nbsp;na czym polegały „badania terenowe”, które prowadziliście z&nbsp;artystami, przygotowując się do realizacji projektu?<br><br><b>MC</b>: Do Stambułu jeździliśmy kilkakrotnie, w&nbsp;różnych składach. W&nbsp;maju 2014 polecieliśmy z&nbsp;Justyną Chmielewską, współkuratorką tego projektu, przy okazji otwarcia polskiej wystawy w&nbsp;galerii Kuad, i&nbsp;wówczas ściągnęliśmy do Muzeum Mickiewicza kilku biorących w&nbsp;niej udział artystów, między innnymi Wojtka Doroszuka, który się absolutnie zakochał w&nbsp;tym miejscu i&nbsp;jego historii, i&nbsp;został włączony do projektu. W&nbsp;czerwcu przylecieliśmy z&nbsp;Tomkiem Szerszeniem, Mikołajem Długoszem i&nbsp;Jankiem Simonem, mając świadomość, że&nbsp;nie mamy czasu na&nbsp;dogłębne poznawanie przestrzeni, półroczny pobyt badawczy. Chodziło raczej o&nbsp;pewne skojarzenia, wyczucie klimatu, impresje. Trochę nas to martwiło, bo&nbsp;wiedzieliśmy, że&nbsp;nie możemy pominąć politycznego i&nbsp;społecznego kontekstu dzielnicy (problemu dokonywanych tam od kilku lat wyburzeń, gentryfikacji, biedy etc.) i&nbsp;wciąż mieliśmy poczucie niedosytu, że&nbsp;jesteśmy na&nbsp;miejscu zbyt krótko i&nbsp;nie dość intensywnie, by móc mocno osadzić w&nbsp;lokalnym kontekście prace artystyczne powstające w&nbsp;projekcie. W&nbsp;przyszłorocznej edycji chcemy skupić się na&nbsp;pogłębieniu tego, co dotychczas wypracowaliśmy.<br><br><b>KB</b>: W&nbsp;tym roku zatem zasadniczo badaliście teren?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3245-1-pb-1920x-044.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3245-1-pb-330x-863.jpg 330w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3245-1-pb-660x-eaf.jpg 660w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3245-1-pb-768x-2a1.jpg 768w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3245-1-pb-1320x-f72.jpg 1320w" src="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3245-1-pb-660x-eaf.jpg" alt="" ></a>    <figcaption><p>Tarlabaşı. Fot. Justyna Chmielewska</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>MC</b>: Tak, chcieliśmy przymierzyć się do tego, sprawdzić, co w&nbsp;istocie z&nbsp;tym muzeum można zrobić, co można zrobić z&nbsp;tą historią wieszcza, ze współczesnym kontekstem tego miejsca i&nbsp;dzisiejszą ramą tamtej przeszłej narracji. Wszyscy zaproszeni przez nas goście i&nbsp;uczestnicy zgodnie twierdzili, że&nbsp;ta przestrzeń ma niezwykły potencjał, który się w&nbsp;pewnym sensie marnuje. Coś w&nbsp;tym jest, bo&nbsp;to jedyna stała polska placówka w&nbsp;Stambule (poza konsulatem mieszczącym się w&nbsp;wieżowcu pełnym korporacyjnych biur, daleko od centrum). Niedługo ma ruszyć Instytut Polski, ale póki co, jesteśmy tam, że&nbsp;tak powiem, „Mickiewiczem”.<br><br><b>KB</b>: Chyba jednak nie jednym Mickiewiczem, lecz Mickiewiczami?<br><br><b>MC</b>: Cały problem polega właśnie na&nbsp;tym, że&nbsp;na temat tego miejsca pojawiają się różne i&nbsp;często konkurujące ze sobą wizje. Z&nbsp;jednej strony konsulat chciał, aby było to miejsce dla „Polonii stambulskiej”, na&nbsp;przykład ludzi z&nbsp;Polonezköy<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup>, którzy nie mają już w&nbsp;zasadzie nic wspólnego z&nbsp;Polakami, z&nbsp;drugiej jest Muzeum Literatury, z&nbsp;trzeciej zarząd turecki… i&nbsp;jest zamieszanie. A&nbsp;kiedy poszliśmy tam z&nbsp;Justyną Chmielewską i&nbsp;Orhanem Esenem, krytykiem architektury i&nbsp;człowiekiem bywającym w&nbsp;świecie, ten rozejrzał się i&nbsp;powiedział, że&nbsp;należałoby tam zorganizować „art and research center”. Trudno się nie zgodzić. Nawet jeśli miałaby tam być jakaś stała ekspozycja, trzeba ją cały czas ożywiać. Inną, nieco bardziej radykalną propozycją jest przerobienie muzeum na&nbsp;„dom pracy twórczej”, gdzie odbywałyby się pobyty rezydencyjne artystów, pisarzy i&nbsp;innych twórców.<br><br><b>KB</b>: Ale czy to się uda w&nbsp;tej okolicy, w&nbsp;Tarlabaşı?<br><br><b>MC</b>: Najważniejsze jest to, że&nbsp;ta dzielnica nieustannie się zmienia. Kiedy byliśmy tam w&nbsp;lutym 2014, wyglądała zupełnie inaczej niż w&nbsp;październiku tego samego roku. Tempo zmian jest zawrotne, gentryfikacja postępuje lawinowo i&nbsp;raczej się nie zatrzyma. Orhan Esen powiedział, że&nbsp;za rok wokół muzeum staną kawiarnie i&nbsp;sieciowe sklepy, napłyną zupełnie nowi ludzie. Większość tych zmian dokonuje się jednak przemocą, przez wyburzenia, ale nie tylko. Część domów jest po&nbsp;prostu remontowana i&nbsp;zamieniana na&nbsp;pensjonaty.</p> <h2>Mickiewicz</h2> <p><b>KB</b>: Ale przecież to nie dzielnica i&nbsp;nie sam budynek otwierają możliwość uruchomienia wielodyscyplinarnego centrum badawczo-artystycznego, ale – jeśli dobrze zrozumiałam twoje intencje i&nbsp;założenia pierwszej edycji Migrującego Uniwersytetu – to sama postać Mickiewicza jest tu nie tyle nawet nie bez znaczenia, ile wręcz kluczowa.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3247-1-pb-1920x-044.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3247-1-pb-330x-863.jpg 330w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3247-1-pb-660x-eaf.jpg 660w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3247-1-pb-768x-2a1.jpg 768w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3247-1-pb-1320x-f72.jpg 1320w" src="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3247-1-pb-660x-eaf.jpg" alt="" ></a>    <figcaption><p>Janek Simon, <em>Adam Janek Mickiewicz Simon</em>. Fot. Justyna Chmielewska</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>MC</b>: Mickiewicz jest w&nbsp;pełni uprawnionym pretekstem. Tak było w&nbsp;przypadku wszystkich tych interwencji artystycznych – każda z&nbsp;nich w&nbsp;ten czy inny sposób wychodziła od postaci Mickiewicza, czy to jego biografii, twórczości, polityki, czy poetyki. Istotne było dla nas również to, jak dziś historia tego człowieka i&nbsp;konstantynopolitański epizod w&nbsp;jego życiorysie rezonują w&nbsp;kontekście lokalnych przekształceń Tarlabaşı. Tureccy artyści zaproszeni do projektu niezwykle się zainteresowali, kiedy zdali sobie sprawę z&nbsp;tego, kim w&nbsp;Konstantynopolu był Mickiewicz, że&nbsp;był biednym artystą i&nbsp;politycznym wizjonerem. W&nbsp;czasach Mickiewicza dzielnica była w&nbsp;znacznej mierze europejska, ale wciąż wielonarodowa i&nbsp;wielokulturowa, a&nbsp;także wieloetniczna. To wszystko wydaje się bardzo współczesne.<br><br><b>KB</b>: Czy podczas tych „badań terenowych” z&nbsp;artystami czytaliście sobie Mickiewicza?<br><br><b>MC</b>: Nie czytaliśmy poezji, bo&nbsp;w&nbsp;czasie, kiedy przebywał w&nbsp;Konstantynopolu, Mickiewicz już żadnych poezji nie pisał. Pracował wtedy nad tekstem, którego nigdy nie skończył – o&nbsp;dwóch oficerach, z&nbsp;których jeden jest chory na&nbsp;cholerę. Tekst pełen jest nie tylko medycznych spekulacji, ale i&nbsp;rozważań o&nbsp;śmierci. Zaprezentowany w&nbsp;ramach Migrującego Uniwersytetu wykład dr Agnieszki Ayşen Kaim traktował między innymi o&nbsp;tym, że&nbsp;można w&nbsp;tej wypowiedzi Mickiewicza dostrzec ogromne wpływy tureckie, przede wszystkim inspiracje teatrem cieni Karagöz, w&nbsp;którym jest zazwyczaj sporo dość dosadnych sformułowań. Mamy więc protest klasycystów warszawskich przeciwko Mickiewiczowi na&nbsp;początku jego kariery, ponieważ wprowadził do języka całą tę litewskość i&nbsp;ludowość; tuż przed śmiercią natomiast pisze tekst, do którego wprowadza kolokwializmy i&nbsp;naturalizmy nie do przyjęcia. Rzeczywiście czytałem <em>Rozmowy chorych</em>, ale nie mają one przecież wiele wspólnego z&nbsp;<em>Dziadami…<br><br></em><b>KB</b>: Z&nbsp;tego, co mówiłeś dotąd, wynika, że&nbsp;interesuje cię przede wszystkim Mickiewicz nieliteracki.<br><br><b>MC</b>: Tak. Zaczynając ten projekt, wychodziliśmy przede wszystkim od jego biografii i&nbsp;zajęliśmy pozycję, powiedziałbym, kulturoznawczą. Wynikało to przede wszystkim z&nbsp;tego, że&nbsp;w&nbsp;ostatnim okresie życia Mickiewicz znacznie więcej robił, niż pisał, a&nbsp;jeśli już pisał, to na&nbsp;przykład o&nbsp;socjalizmie w&nbsp;swojej „Trybunie Ludów”.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3249-1-pb-1920x-eb8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3249-1-pb-330x-a61.jpg 330w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3249-1-pb-660x-1a0.jpg 660w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3249-1-pb-768x-47e.jpg 768w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3249-1-pb-1320x-200.jpg 1320w" src="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3249-1-pb-660x-1a0.jpg" alt="" ></a>    <figcaption><p>Ania Kuczyńska, <em>Mundur legionisty żydowskiego</em>, Fot. Justyna Chmielewska</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KC</b>: Wydaje mi się, że&nbsp;to, co robicie, świetnie wpisuje się w&nbsp;poszukiwanie trzeciej drogi mówienia o&nbsp;Mickiewiczu: po&nbsp;Boyu i&nbsp;brązownikach nastąpił taki impas, że&nbsp;albo buduje się pomnik, albo wyciąga się jakieś „brudy” z&nbsp;jego biografii. Za&nbsp;próbę znalezienia tej trzeciej drogi należałoby pewnie uznać książki Marii Janion. Zastanawiam się jednak, czy przedstawianie Mickiewicza jako „biednego artysty w&nbsp;Stambule” nie grozi popadnięciem w&nbsp;nieco inną – ale jednak – próbę postawienia mu pomnika, takiego jakby pomnika na&nbsp;nasze czasy. Czy nie miałeś takich obaw?<br><br><b>MC</b>: Tak, tylko musimy pamiętać o&nbsp;tym, że&nbsp;ja przychodzę zupełnie skądinąd. Nie jestem ani literaturoznawcą, ani historykiem, moje stawki w&nbsp;tej grze o&nbsp;Mickiewicza są więc zupełnie inne. Nie ogarniają mnie zatem lęki, które dotyczą profesjonalistów. To jest właśnie przywilej sztuki współczesnej, że&nbsp;może sobie ona pozwolić na&nbsp;bycie „ponad”, co oczywiście czasem może oznaczać banalizowanie czy upraszczanie, ale daje też niezwykłą wolność i&nbsp;otwiera przestrzeń na&nbsp;powiedzenie czegoś nowego i&nbsp;czegoś naprawdę ważnego. Świetnym przykładem tego są wykłady Slavs and Tatars, którzy z&nbsp;jednej strony wykorzystują konwencję akademicką, czyli wykład, z&nbsp;drugiej zaś wygłaszają prelekcję w&nbsp;konwencji artystycznej, czyli z&nbsp;dużą swobodą i&nbsp;starannie zakomponowaną oprawą wizualną. Wychodząc od wiedzy akademickiej, pozwalają sobie na&nbsp;pewną naiwność, która dla części przedstawicieli dyskursu akademickiego może być nieznośna. To pozorne uproszczenie pozwala im na&nbsp;zderzenie na&nbsp;przykład rewolucji w&nbsp;Iranie z&nbsp;„Solidarnością”, albo procesji szyickich z&nbsp;procesjami drogi krzyżowej. Dla mnie jako człowieka, który lokuje się gdzieś pomiędzy tymi światami, to jest fascynujące i&nbsp;niezwykle zapładniające. Podoba mi się, jak te dwie sfery wzajemnie się wykorzystują i&nbsp;wzbogacają. Byłem teraz w&nbsp;Zakopanem na&nbsp;Konferencji Tatrzańskiej<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>, gdzie występowali m.in. Slavs and Tatars, i&nbsp;obserwowałem, z&nbsp;jakim zainteresowaniem akademicy przyjmowali ich wykład – zrobili bowiem to, na&nbsp;co oni/one nie mogą sobie pozwolić. Ta wolność interpretowania wynika z&nbsp;tego, że&nbsp;można czerpać z&nbsp;całej masy źródeł, nie będąc ekspertem w&nbsp;każdej z&nbsp;dziedzin. Artyście wolno! Sztuka bazuje na&nbsp;potencjalności, na&nbsp;tym, co mogło i&nbsp;mogłoby być.</p> <h2>Migrowanie</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3251-1-pb-1920x-eb8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3251-1-pb-330x-a61.jpg 330w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3251-1-pb-660x-1a0.jpg 660w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3251-1-pb-768x-47e.jpg 768w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3251-1-pb-1320x-200.jpg 1320w" src="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3251-1-pb-660x-1a0.jpg" alt="" ></a>    <figcaption><p>Mikołaj Długosz, <em>Neon Adam</em>. Fot. Justyna Chmielewska</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>MC</b>: Przede wszystkim takie, które za&nbsp;punkt wyjścia miały Mickiewicza. Projektantka mody Ania Kuczyńska stworzyła współczesną wersję munduru dla legionisty żydowskiego. Mikołaj Długosz zrobił neon, nawiązujący do polskiej szkoły z&nbsp;okresu PRL: słowo „Adam”, które po&nbsp;turecku oznacza po&nbsp;prostu człowieka, pomiędzy dwoma pistoletami. Pomysł wziął się stąd, że&nbsp;z&nbsp;powodu sporów o&nbsp;to, gdzie pochować wieszcza, a&nbsp;także dlatego, że&nbsp;mieszkańcy dzielnicy bali się zarazy, ciało Mickiewicza po&nbsp;śmierci było pilnowane z&nbsp;bronią w&nbsp;ręku przez jego towarzyszy, Armanda Lévy’ego i&nbsp;Henryka Służalskiego. Tomek Szerszeń, tworząc swe kolaże, wychodził z&nbsp;kolei od niszczonych przez poetę kolejnych wersji jego <em>Historii przyszłości</em>, prekursorskiego tekstu <em>science fiction</em>. Janek Simon stworzył rodzaj „antypopiersia”, łączącego jego własną głowę i&nbsp;głowę Mickiewicza, wskazując na&nbsp;wspólny „marny los” wszystkich artystów. Wojtek Doroszuk nakręcił film o&nbsp;lokalnym poecie amatorze. Ta praca pozwalała na&nbsp;symboliczne wejście Tarlabaşı do Muzeum Mickiewicza, tak jak film tureckiego artysty Özgüra Demirci <em>Podzielony ekran</em>. Özgur ma pracownię parę kroków od muzeum, jest stamtąd, jego praca pokazywała wyburzenia dzielnicy i&nbsp;jej „świetlaną przyszłość” przez pryzmat <em>Społeczeństwa spektaklu</em> Guy Deborda. Podczas wernisażu wystawy naszych – jak je nazwaliśmy – interwencji artystycznych odbył się też performance kulinarny stambulskiego artysty: Tunca Subaşı gotował wariacje na&nbsp;temat kurczaka, ostatniego posiłku Mickiewicza. Były też prace Slavs and Tatars: instalacja dźwiękowa <em>Lektor</em> o&nbsp;sile i&nbsp;możliwościach języka oraz plakat <em>Za wolność naszą i&nbsp;waszą</em>.<br><br><b>KB</b>: W&nbsp;całym tym projekcie bardzo mi się podobają liczne przesunięcia, które albo odkrywacie, albo sami ich dokonujecie. Z&nbsp;jednej strony, o&nbsp;czym już mówiliśmy, trafiacie do miejsca, które nie jest do końca<span class="rozstrzelony"> tym </span>miejscem, z&nbsp;drugiej sięgacie po&nbsp;postać niezwykle ważną dla tożsamości i&nbsp;kultury, ale nie szukacie w&nbsp;niej pisarza, szukacie jakby obok, a&nbsp;do tego w&nbsp;innym medium, czy wręcz innych mediach; przemieszcza się biografia, literatura i&nbsp;legenda. Wreszcie, co bardzo mnie zastanawia, nazywasz całe przedsięwzięcie „uniwersytetem”. Dlaczego? Czy to nie ograniczający wybór z&nbsp;szerokiej gamy możliwości?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3253-1-pb-1920x-eb8.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3253-1-pb-330x-a61.jpg 330w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3253-1-pb-660x-1a0.jpg 660w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3253-1-pb-768x-47e.jpg 768w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3253-1-pb-1320x-200.jpg 1320w" src="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-3253-1-pb-660x-1a0.jpg" alt="" ></a>    <figcaption><p>Tomasz Szerszeń, <em>Historie przyszłości</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>MC</b>: Po&nbsp;pierwsze dlatego, że&nbsp;tu jednak chodzi o&nbsp;wiedzę. Po&nbsp;drugie dlatego, że&nbsp;chodzi o&nbsp;proces, a&nbsp;nie o&nbsp;stworzenie jakiegoś wielkiego dzieła. Chodzi o&nbsp;takie działania, w&nbsp;których sztuka okazuje się kluczowa w&nbsp;procesie tworzenia i&nbsp;przetwarzania wiedzy. Działania te miały nam pokazać, gdzie jesteśmy, kim był Mickiewicz, co dziś nam on daje w&nbsp;tym kontekście, jakie są możliwości tej przestrzeni (dzielnica) i&nbsp;tego miejsca (muzeum). Tego chyba nikt wcześniej nie sprawdzał, tak mi się przynajmniej wydaje. Mój osobisty stosunek do uniwersytetu jest niezwykle złożony: z&nbsp;jednej strony jestem synem historyków, wychowanym w&nbsp;starym BUW-ie, z&nbsp;drugiej nie znoszę tej instytucji, nigdy nie uzyskałem dyplomu, choć studiowałem orientalistykę. Konwencje akademickie mnie odrzucają, ale też pociągają. Sztuka za&nbsp;to mnie fascynuje, a&nbsp;szczególnie to, w&nbsp;jaki sposób przenika się z&nbsp;dyskursem akademickim – dlatego zdecydowaliśmy się połączyć wystawę z&nbsp;wykładami i&nbsp;dyskusjami. Prawda jest taka, że&nbsp;rozczarowują mnie wszystkie dyscypliny, żadna z&nbsp;nich nie wydaje mi się wystarczająca, dlatego za&nbsp;wszelką cenę dążę do tego, by je ze sobą spotykać czy mieszać. Jako człowiek z&nbsp;zewnątrz mogę sobie na&nbsp;to pozwolić.<br><br><b>KC</b>: Jak było z&nbsp;odbiorem?<br><br><b>MC</b>: Na&nbsp;otwarcie przyszło mnóstwo ludzi, wiemy też, że&nbsp;dużo więcej osób – i&nbsp;to Turków – odwiedzało potem muzeum, ponieważ o&nbsp;nim usłyszeli. Na&nbsp;wernisażu <em>artworld</em> mieszał się więc z&nbsp;mieszkańcami dzielnicy. Tych ostatnich nie przyszły jeszcze tłumy, ale zrobiliśmy dobry pierwszy krok  – to może być początek osadzania muzeum w&nbsp;lokalnym kontekście.<br><br><b>KB</b>: Przy okazji promocji waszych działań pisaliście o&nbsp;wskrzeszaniu pewnych idei związanych z&nbsp;Mickiewiczem, o&nbsp;tym już trochę mówiliśmy. Ale teraz, kiedy cię słucham, wydaje mi się, że&nbsp;udało wam się też wskrzesić pewną alternatywną ideę uniwersytetu, co w&nbsp;dzisiejszych czasach, czasach kryzysu akademii, wydaje się niezwykle ciekawe.<br><br><b>KC</b>: Wasz projekt przesuwa miejsce, w&nbsp;którym produkuje się wiedzę i&nbsp;z którego miałaby ona „spływać” na&nbsp;resztę świata. Nie ma centrum, a&nbsp;to, co jest centrum – Muzeum Mickiewicza – nie jest centrum w&nbsp;mocnym sensie.<br><br><b>MC</b>: Podczas inauguracji serii wykładów w&nbsp;ramach projektu odwołałem się do dwóch tradycji: z&nbsp;jednej strony do Wolnego Uniwersytetu Warszawy, który organizował Kuba Szreder – uniwersytetu idącego w&nbsp;stronę <em>bar campu</em> – a&nbsp;z drugiej do Latającego Uniwersytetu, a&nbsp;więc form, które sięgają korzeniami XIX wieku i&nbsp;nauczania oraz uczenia się jako formy oporu wobec opresora (zaborcy). Wówczas chodziło rzecz jasna o&nbsp;powody patriotyczne, kwestie tożsamości i&nbsp;języka. Później kontynuowano tę tradycję w&nbsp;okresie PRL, również w&nbsp;duchu emancypacyjnym, gdzie wiedza staje się przestrzenią wolności. Z&nbsp;założenia praktyki te były interdyscyplinarne, co dziś jest niemal naturalne.</p> <h2>Orient</h2> <p><b>KC</b>: Porozmawiajmy o&nbsp;miejscu polskich podróżników w&nbsp;tradycji pisania o&nbsp;Oriencie.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2944-1-pb-1920x-91e.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2944-1-pb-330x-0fb.jpg 330w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2944-1-pb-660x-fd6.jpg 660w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2944-1-pb-768x-4f4.jpg 768w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2944-1-pb-1320x-d5b.jpg 1320w" src="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2944-1-pb-660x-fd6.jpg" alt="" ></a>    <figcaption><p>Użwenty, Litwa. Dwór, którego folwarkiem zarządzał ojciec Bronisława Grąbczewskiego, drobny szlachcic. Fot. Mikołaj Długosz</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>MC</b>: W&nbsp;pokoleniu Mickiewicza, pokoleniu filomatów i&nbsp;filaretów, wielu służyło Imperium Rosyjskiemu. Produkowanie wiedzy o&nbsp;Azji nie było pozbawione wymiaru saidowskiego, ale orientalizm rosyjski był różny od angielskiego. W&nbsp;Petersburgu i&nbsp;Kazaniu rozwijały się słynne studia orientalistyczne, Rosja się rozrastała i&nbsp;przygotowywała się do tej ekspansji również od strony akademickiej. Wielu orientalistów rosyjskich to byli ludzie, którzy przyjeżdżali na&nbsp;studia właśnie z&nbsp;regionów wcielanych do imperium, co jest bardzo charakterystyczne. W&nbsp;orientalizmie europejskim długo nie zdarzało się, by powiedzmy Hindus przyjeżdżał do Londynu uczyć się o&nbsp;swojej kulturze i&nbsp;potem z&nbsp;takiej perspektywy pisał książki. A&nbsp;w Rosji właśnie tak się działo. Pokolenie Mickiewicza – Chodźko, Sękowski i&nbsp;wielu innych – to ludzie, którzy wychowywali się w&nbsp;miejscach wieloetnicznych, na&nbsp;przykład studiowali w&nbsp;Wilnie. Oprócz tych tak zwanych Polaków – mówię: „tak zwanych”, bo&nbsp;to jest złożona kwestia tożsamości spolonizowanej szlachty, która była „polska” w&nbsp;różnym stopniu – mamy też Żydów czy Tatarów, społeczność muzułmańską etc. Rosja cały czas przesuwała swoje granice, anektowała przyległe tereny, a&nbsp;nie poruszała się skokowo, jak Anglia czy Francja. Pisząc <em>Oko świata</em>, czyli książkę o&nbsp;Stambule, czytałem narracje Chateaubrianda, Lamartine’a, Amicisa. Nikt z&nbsp;nich nie uczył się tureckiego, nawet nie wpadł na&nbsp;ten pomysł, a&nbsp;Mickiewicz, który był tam dość krótko, jednak brał lekcje tego języka! To oczywiście jest rozwinięcie jego zainteresowań z&nbsp;czasów studiów. Znamy też jego list do Lelewela, inicjatora tych studiów orientalistycznych jeszcze w&nbsp;Wilnie, wysłany z&nbsp;Petersburga. Pisze w&nbsp;nim: „Rzuciłem się do języków wschodnich”. On i&nbsp;jego towarzysze, koledzy, ludzie z&nbsp;tego pokolenia rzeczywiście mieli takie ambicje.<br><br><b>KB</b>: Co jednak z&nbsp;tą służbą imperialną?<br><br><b>MC</b>: Weźmy na&nbsp;przykład takiego Jana Witkiewicza – jest młodszy od autora <em>Sonetów krymskich</em> i&nbsp;od filomatów, uczy się w&nbsp;gimnazjum w&nbsp;Krożach i&nbsp;pod wpływem wydarzeń w&nbsp;Wilnie zakłada swoją organizację Czarnych Braci. Zostaje złapany i&nbsp;zesłany do twierdzy w&nbsp;Orienburgu. Ma wówczas około 14–15 lat. Trafia tam jako szeregowy żołnierz, a&nbsp;potem robi nieprawdopodobną karierę jako specjalista od języków i&nbsp;agent polityczny w&nbsp;Kabulu. Ginie w&nbsp;tajemniczych okolicznościach w&nbsp;Petersburgu w&nbsp;1839 roku, po&nbsp;powrocie z&nbsp;tajnej misji w&nbsp;Afganistanie. W&nbsp;źródłach angielskich podobnie jak Bronisław Grąbczewski wymieniany jest jako groźny przeciwnik. Witkiewicz ginie dzień po&nbsp;zdaniu raportu, w&nbsp;nocy przed audiencją u&nbsp;cara. Do dziś trwa spór o&nbsp;to, czy został zabity przypadkowo (oficjalnie jako przyczyna śmierci podawane jest samobójstwo, ale wiadomo, że&nbsp;to nieprawda), czy też zabili go Rosjanie lub Anglicy. Dlaczego o&nbsp;tym mówię? Polska narracja ukazuje go jako Wallenroda, który usiłował wciągnąć Rosję w&nbsp;konflikt z&nbsp;Anglią w&nbsp;Afganistanie, żeby osłabić Rosję i&nbsp;zwiększyć szanse Polski na&nbsp;wyzwolenie. Grąbczewskiego zwierzchnicy oskarżali o&nbsp;to samo, ale zrobił wielką karierę w&nbsp;imperium. Dziewiętnastowieczni „Moskale” to zatem nie tylko „zaborcy”, którzy zsyłają na&nbsp;Sybir, ale też pracodawcy. W&nbsp;służbie cara wielu Polaków dokonywało ważnych rzeczy, np.&nbsp;odkryć geograficznych.<br><br><b>KB</b>: Skąd pomysł, żeby ruszyć szlakiem akurat Grąbczewskiego?<br><br><b>MC</b>: Jego główny adwersarz, Francis Younghusband, oficer w&nbsp;armii brytyjskiej, odbywa wyprawy oficjalnie naukowe, ale oczywiście służące do gromadzenia wiedzy na&nbsp;użytek podbojów. Sprawdza między innymi, czy armia rosyjska mogłaby przejść przez przełęcze Hindukuszu i&nbsp;Pamiru i&nbsp;dokonać inwazji na&nbsp;Indie Brytyjskie. Kiedy czytam jego wspomnienia z&nbsp;tych wypraw, nigdy nie pojawiają się w&nbsp;nich nazwiska jego przewodników, porterów, miejscowych. On zawsze pisze z&nbsp;typową brytyjską imperialną wyższością, nieustannie pobrzmiewa tam ton niesienia kaganka cywilizacji. Younghusband praktycznie nie wchodzi w&nbsp;relacje z&nbsp;miejscowymi. U&nbsp;Grąbczewskiego co chwila znajdujemy opisy jego relacji z&nbsp;lokalną ludnością: z&nbsp;Kirgizami, Kandżutami etc. Widać, że&nbsp;ma zupełnie inne podejście.<br><br><b>KB</b>: Czemu byś to przypisywał?<br><br><b>MC</b>: Teraz właśnie próbuję się tego dowiedzieć. Sprawdzam, z&nbsp;czego to wynika. Wydaje mi się, że&nbsp;trochę z&nbsp;tego, że&nbsp;jest outsiderem, pomimo że&nbsp;robi wielką karierę, łącznie z&nbsp;tym, że&nbsp;zostaje hetmanem kozackim. Cieszy się ogromną popularnością i&nbsp;poparciem gmin ormiańskiej i&nbsp;żydowskiej, kiedy obejmuje funkcję zarządcy w&nbsp;Astrachaniu. W&nbsp;jego zapiskach są niesamowite fragmenty dotyczące rewolucji 1905 roku. Grąbczewski opisuje swoje negocjacje z&nbsp;robotnikami. Pisze o&nbsp;pochodach socjalistycznych, które widział w&nbsp;Berlinie i&nbsp;Wiedniu, o&nbsp;konieczności poprawy sytuacji robotników. On, szlachcic ze Żmudzi na&nbsp;służbie rosyjskiej, identyfikuje się z&nbsp;robotnikami. Nie ma przecież żadnych powodów, żeby robić z&nbsp;siebie socjalistę. Co ciekawe, na&nbsp;Żmudzi, skąd pochodzi rodzina Grąbczewskiego, panują wyjątkowo dobre relacje między chłopami a&nbsp;szlachtą. Stąd też znaczne poparcie włościan dla powstania 1862 roku. Być może ta empatia Grąbczewskiego wobec Kirgizów jest związana z&nbsp;tym kontekstem, z&nbsp;którego on wyrasta.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2946-1-pb-1920x-91e.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2946-1-pb-330x-0fb.jpg 330w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2946-1-pb-660x-fd6.jpg 660w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2946-1-pb-768x-4f4.jpg 768w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2946-1-pb-1320x-d5b.jpg 1320w" src="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2946-1-pb-660x-fd6.jpg" alt="" ></a>    <figcaption><p>Plinksze, Litwa. Żmudzki dwór Broel Platerów, lokalnych potentatów ziemskich, niedaleko od posiadłości Grąbczewskich. Fot. Mikołaj Długosz</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KC</b>: To byłaby świetna genealogia! Pokazywałaby przekładalność tych relacji.<br><br><b>MC</b>: To dopiero hipoteza. Mam nadzieję, że&nbsp;uda się ją rozwinąć. Mój problem na&nbsp;razie polega na&nbsp;tym, że&nbsp;nie znalazłem żadnych związków Grąbczewskiego z&nbsp;orientalizmem rosyjskim. On był żołnierzem. Po&nbsp;prostu. Interesuje mnie, do jakiego stopnia mógł się zetknąć z&nbsp;polskimi orientalistami w&nbsp;służbie rosyjskiej. Na&nbsp;razie nie mam na&nbsp;to dowodów. Grąbczewski pochodzi z&nbsp;innego świata. Niemal nie studiuje. Idzie do wojska i&nbsp;szybko trafia do Azji. Muszę jeszcze pogrzebać.<br><br><b>KB</b>: Nad książką poświęconą Grąbczewskiemu pracujesz wspólnie z&nbsp;fotografem Mikołajem Długoszem. Czy mógłbyś powiedzieć, jak to będzie wyglądało, jaką rolę mają do odegrania fotografie w&nbsp;twojej narracji i&nbsp;jakie to będą fotografie?<br><br><b>MC</b>: Pojechaliśmy wspólnie w&nbsp;te miejsca, gdzie Grąbczewski pracował. Najbardziej interesowały mnie te punkty, gdzie zderzał się z&nbsp;Anglikami; interesuje mnie napięcie między podejściem brytyjskim i&nbsp;rosyjskim. W&nbsp;kwietniu 2015 roku mamy w&nbsp;końcu jechać do Petersburga, by zbadać archiwa Grąbczewskiego – znajduje się tam prawdopodobnie kolekcja oryginalnych zdjęć, które robił. Mam nadzieję, że&nbsp;Długosz ze swoim podejściem <em>found footage</em> będzie wiedział, co z&nbsp;tym zrobić.<br><br><b>KB</b>: Czy będzie to rodzaj fotoeseju, coś na&nbsp;kształt <em>Za ostatnim niebem </em>Saida i&nbsp;Mohra?<br><br><b>MC</b>: O&nbsp;czymś takim myślimy. Z&nbsp;jednej strony mamy ten materiał zebrany do tej pory, materiał z&nbsp;podróży, z&nbsp;drugiej liczymy na&nbsp;materiał archiwalny i&nbsp;że będziemy w&nbsp;stanie coś z&nbsp;tym zrobić, jakoś te dwie rzeczy połączyć.<br><br><b>KC</b>: Wróćmy na&nbsp;moment do Mickiewicza, Turcji i&nbsp;w ogóle politycznych sympatii romantyków. Czy to nie jest ciekawe, że&nbsp;Mickiewicz jedzie wspierać Turków 30 lat po&nbsp;tym, jak Byron pojechał wspierać greckie powstanie przeciw Turkom? Pokazuje to, jak na&nbsp;przestrzeni jednego pokolenia to, co było imperium i&nbsp;podporządkowywało sobie kolejne społeczności, pada ofiarą innego imperium. Wraz z&nbsp;tym, jak zmieniają się zupełnie relacje władzy, romantycy zmieniają swoje sympatie.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2948-1-pb-1920x-de5.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2948-1-pb-330x-177.jpg 330w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2948-1-pb-660x-090.jpg 660w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2948-1-pb-768x-76e.jpg 768w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2948-1-pb-1320x-6bf.jpg 1320w" src="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2948-1-pb-660x-090.jpg" alt="" ></a>    <figcaption><p>Szajmak, Tadżykistan. Meczet zbudowany przez mieszkańców w&nbsp;ostatniej wsi przed granicą z&nbsp;Afganistanem na&nbsp;jednej z&nbsp;tras Grąbczewskiego. Fot. Mikołaj Długosz</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>MC</b>: Jest taki moment w&nbsp;życiu Mickiewicza, kiedy i&nbsp;on sympatyzuje z&nbsp;Grekami i&nbsp;opowiada się przeciwko Turcji. Zwrot następuje podczas wojny krymskiej, co oczywiście pokazuje utylitarny charakter tych sympatii. Tak mi się zdaje. W&nbsp;narracji Mickiewiczowskiej jest jednak coś więcej. Spróbujmy sobie to wyobrazić: stary Mickiewicz, siedzący w&nbsp;jakimś zakurzonym archiwum i&nbsp;dający wykłady, staje się urzędnikiem, który ledwie łączy koniec z&nbsp;końcem. Przez chwilę „odleciał” z&nbsp;Towiańskim, ale to się już skończyło, potem była „Trybuna Ludów”, legion we Włoszech, a&nbsp;potem nic. Stagnacja w&nbsp;Paryżu. We wszystkich listach z&nbsp;tego okresu wyraźnie da się wyczuć wielką ekscytację z&nbsp;powodu wyjazdu do Turcji. Mickiewicz rozstawia namiot w&nbsp;pokoju w&nbsp;Paryżu, namiot podróżny. Oczywiście dziś wydaje się to śmieszne.<br><br><b>KC</b>: Można to widzieć nie tyle utylitarnie, ile idealistycznie, bardziej w&nbsp;kontekście tego Lelewelowskiego „za wolność naszą i&nbsp;waszą”. Nieważne są antypatie między narodami, ale sam mechanizm ucisku. Biografia Mickiewicza to biografia człowieka, który opowiada się zawsze po&nbsp;stronie uciskanych, i&nbsp;z nimi właśnie się solidaryzuje.<br><br><b>MC</b>: Oczywiście. Do tego dochodzi jeszcze kwestia osób takich jak Józef Bem czy Michał Czajkowski, którzy przeszli na&nbsp;islam. W&nbsp;opublikowanym w&nbsp;„Midraszu” artykule <em>Legion żydowski</em><em> Mickiewicza</em> Maria Janion pisze, że&nbsp;zniesmaczenie postawą Watykanu było wówczas ogromne. Natomiast Imperium Osmańskie dawało większą wolność. Oni nie musieli przechodzić na&nbsp;islam. Mnie się wydaje, że&nbsp;zrobili to z&nbsp;narastającej niechęci wobec katolicyzmu, no i&nbsp;oczywiście to zwiększało możliwości kariery w&nbsp;armii osmańskiej. Mickiewicz cieszy się, bo&nbsp;wreszcie jedzie na&nbsp;ten swój upragniony Wschód. Nie wiem, czy myśli o&nbsp;tym w&nbsp;ten sposób, że&nbsp;Konstantynopol jest bardziej wschodni od Krymu, nie wiem. Śpi na&nbsp;pokładzie statku, rozkoszuje się świeżym powietrzem. Oddycha pełną piersią po&nbsp;duchocie Paryża. W&nbsp;Burgas żyje z&nbsp;Kozakami w&nbsp;obozie, żyje niezdrowo, ale żyje, uciekłszy od wszystkich domowych, rodzinnych problemów.</p> <h2>Azjopa</h2> <p><b>KB</b>: Bardzo mi się podoba również to, co pisałeś w&nbsp;książce pod&nbsp;twoją redakcją <em>Polska &amp; Azja. Od Rzeczpospolitej Szlacheckiej do Nangar Khel</em>, poszukując innej narracji o&nbsp;„Wschodzie” w&nbsp;historii Polski, innego Wschodu, a&nbsp;w związku z&nbsp;tym innej relacji między Wschodem a&nbsp;Zachodem. To wracanie czy sięganie na&nbsp;Wschód pomaga odkryć i&nbsp;krytycznie przepracować pewne wątki historii i&nbsp;tożsamości, które zostały albo nieuświadomione, albo wyparte ze świadomości. Czy idea Azjopy ma szansę ożyć dziś jako projekt polityczny, a&nbsp;nie tylko estetyczny?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2950-1-pb-1920x-de5.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2950-1-pb-330x-177.jpg 330w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2950-1-pb-660x-090.jpg 660w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2950-1-pb-768x-76e.jpg 768w,assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2950-1-pb-1320x-6bf.jpg 1320w" src="assets/cache/images/issues/2014/7/umarl-mickiewicz/226-2950-1-pb-660x-090.jpg" alt="" ></a>    <figcaption><p>Sary Tasz, Kirgistan. Jaki na&nbsp;zielonych łąkach doliny Wielkiego Ałaju, którą podróżował i&nbsp;opisywał Grąbczewski. Fot. Mikołaj Długosz</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>MC</b>: Dobre pytanie. To, o&nbsp;czym mówisz, wiąże się z&nbsp;dwiema podstawowymi sprawami. Pierwsza to są kompleksy polskie: Warszawa zwana Paryżem Wschodu, tak można by to najkrócej ująć – Zachód jako nasz kompleks, jedyny punkt odniesienia. Druga to skojarzenia historyczne: nasze kontakty ze Wschodem szły w&nbsp;XIX wieku przez Imperium Rosyjskie, a&nbsp;w czasach PRL przez ZSRR, zaś rzeczpospolita Szlachecka jest czymś tak strasznie odległym, że&nbsp;wydaje się zupełnie abstrakcyjna. Polski problem wielokulturowości?! Raczej szuka się w&nbsp;przeszłości potwierdzenia fałszywej tezy, że&nbsp;wszyscy pochodzimy ze szlachty, że&nbsp;wszyscy straciliśmy majątki i&nbsp;będziemy do nich wzdychać. Interesuje mnie zdekonstruowanie tych fantazmatów i&nbsp;dostrzeżenie na&nbsp;Wschodzie możliwie najbardziej różnorodnej narracji o&nbsp;Polsce. Wielu historyków przyznaje, że&nbsp;paradoksalnie zesłanie „na Syberię” wielu ludziom poszerzało horyzonty, wygnanym z&nbsp;prowincjonalnych zaścianków szlacheckich otwierało oczy na&nbsp;świat, zmieniało ich pozytywnie.</p> <p>Polska zawsze była na&nbsp;pograniczu światów: kultur Azji i&nbsp;Europy, ale od wieków wypieramy to ze świadomości. Dokonujemy jakiejś „samokolonizacji”, udając, że&nbsp;jesteśmy tylko Europejczykami, starając się ich grać za&nbsp;wszelką cenę, fałszując tożsamość. Zarówno Adam Mickiewicz, szczególnie w&nbsp;Stambule, jak i&nbsp;Bronisław Grąbczewski, nad którego biografią teraz pracuję, mogą stać się przyczynkiem do zaakceptowania azjatyckiego elementu naszej „duszy”.</p> <p><br> <b>Dziękujemy Justynie Chmielewskiej za&nbsp;pomoc w&nbsp;przygotowaniu rozmowy oraz za&nbsp;udostępnienie zdjęć ze Stambułu.</b> <br> <b>Dziękujemy Mikołajowi Długoszowi za&nbsp;udostępnienie zdjęć z&nbsp;wypraw na&nbsp;Wschód.</b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Polonezköy (pol. Adampol) – wieś położona na północny wschód od Stambułu, założona w połowie XIX wieku przez polskich emigrantów związanych ze środowiskiem Hotelu Lambert, zasiedlona głównie przez uczestników powstania listopadowego. Dziś znana jest głównie jako kurort.</p>
+<p><a href="#sdfootnote1anc" name="sdfootnote2sym">2</a> Konferencja Tatrzańska, Zakopane, 4–6 grudnia 2014, <a href="http://www.openartprojects.org/projekty/127" target="_blank" rel="noopener">http://www.openartprojects.org/projekty/127</a>, dostęp 30 grudnia 2014.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/umarl-mickiewicz-narodzil-sie-grabczewski" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

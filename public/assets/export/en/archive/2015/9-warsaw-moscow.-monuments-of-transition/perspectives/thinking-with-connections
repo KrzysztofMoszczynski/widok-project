@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Thinking-with-Connections | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/9-warsaw-moscow.-monuments-of-transition/thinking-with-connections">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Thinking-with-Connections | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Thinking-with-Connections | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/9-warsaw-moscow.-monuments-of-transition/thinking-with-connections">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Thinking-with-Connections | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #606 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #606 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #606 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #606 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #606 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #606 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #606 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #606 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(102,0,102,0.8) !important; */
+			/* background-color:#606 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(102,0,102,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#606 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(102,0,102,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#606; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(102,0,102,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(102,0,102,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#606 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#606 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#606 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1183 parent-id-1154">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1147" data-selected-issue-color="#606" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/9-warsaw-moscow.-monuments-of-transition#toc">9</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/9-warsaw-moscow.-monuments-of-transition/thinking-with-connections?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Thinking-with-Connections</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/9-warsaw-moscow.-monuments-of-transition/thinking-with-connections?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Authors: 
+		<a href="/en/bio?id=308">Paweł Mościcki</a>, <a href="/en/bio?id=314">Adam Lipszyc</a>, <a href="/en/bio?id=1181">Sigrid Weigel</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <h2>Sigrid Weigel in conversation with&nbsp;Adam Lipszyc and Paweł Mościcki</h2> <p></p> <p><b>The first question we would like&nbsp;to ask you concerns the institution you have been running for&nbsp;the last sixteen years. Could you tell us about&nbsp;the premises and intellectual assumptions behind&nbsp;the Zentrum für Literatur- und Kulturforschung?</b></p> <p>I developed the current interdisciplinary research program of the ZfL, but&nbsp;I&nbsp;did not found the institution. The starting point was a&nbsp;group of scholars coming from&nbsp;the Academy of Science in the DDR, mainly people who were then in their fifties and sixties, enormously educated in the history of philosophy, history of literature, etc. When I&nbsp;became the director of the ZfL in 1999, I&nbsp;had to develop an overall <a href="http://www.harianregional.com">warta berita terkini</a> research profile and at the same time relate to the existing expertise, competences, and research interests of the scholars. When I&nbsp;became aware that&nbsp;this group had great intellectual potential and serious historical knowledge, but&nbsp;–&nbsp;due to academic policy in the former DDR –&nbsp;was not developing ground-breaking and far-reaching theoretical perspectives or questions, I&nbsp;initiated collaborative teams with&nbsp;younger scholars from&nbsp;the West, and –&nbsp;amazingly enough –&nbsp;it worked. In the humanities in the old Bundesrepublik, there were plenty of young scholars with&nbsp;unconventional ideas, whose only deficiency was not being rooted sufficiently in historical sources. The cooperation of scholars from&nbsp;both groups was a&nbsp;kind of experiment, but&nbsp;an exciting one –&nbsp;and perhaps one of the few examples of successful East-West-unification in post ‘89 German academia. Another premise was given by the research principles formulated by the <em>Wissenschaftsrat</em> (the National Committee of Science) when it was recommending the foundation of six research centers in the humanities (<em>Geisteswissenschaftliche Zentren</em>) that&nbsp;would be autonomous from&nbsp;universities, which was something new in West Germany. According to these principles, the centre was to work in an interdisciplinary way, <em>kulturwissenschaftlich</em>, internationally, and was to conduct research that&nbsp;could only be done in teams transcending the boundaries between&nbsp;university disciplines. This&nbsp;was exactly what I&nbsp;wanted to do, as I&nbsp;had been engaged in interdisciplinary research for&nbsp;years. My work was based in the competences and epistemological possibilities of philology; of reading, deciphering, and analyzing the historically determined modes and symbolic systems of producing meaning, and using this&nbsp;not just to study literature, but&nbsp;also applying it to the history of knowledge, culture, and science. I&nbsp;was trained in literary history and theory (besides political science), but&nbsp;I&nbsp;had studied the works of Benjamin, Warburg, Arendt, and other authors of <em>Kulturwissenschaft </em>(cultural sciences) intensely, and I&nbsp;was engaged with&nbsp;the so-called cultural turn in the humanities that&nbsp;took place during&nbsp;the eighties in several European countries.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/thinking-with-connections/285-3686-1-pb-1920x-4b3.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/9/thinking-with-connections/285-3686-1-pb-330x-050.jpg 330w,assets/cache/images/issues/2015/9/thinking-with-connections/285-3686-1-pb-660x-429.jpg 660w,assets/cache/images/issues/2015/9/thinking-with-connections/285-3686-1-pb-768x-f1f.jpg 768w,assets/cache/images/issues/2015/9/thinking-with-connections/285-3686-1-pb-1320x-d37.jpg 1320w" src="assets/cache/images/issues/2015/9/thinking-with-connections/285-3686-1-pb-660x-429.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Year by year, the research profile of the ZfL became more specific and precise. At first, the center was meant to last for&nbsp;twelve years and nobody expected the institution to exist longer. But&nbsp;then I&nbsp;asked for&nbsp;a&nbsp;formal evaluation, and the result was that&nbsp;the jury said: “the center has established a&nbsp;unique profile that&nbsp;has to continue but&nbsp;should be funded in a&nbsp;better way”. This&nbsp;opened up a&nbsp;great possibility to develop longer-term research programs. So I&nbsp;wrote the concept of the whole institution consisting of two departments, one concentrated on the history of European culture, and the second on cultural approaches to the history of science. One of the main commitments in the European cultural history part is to deal with&nbsp;the afterlife of the cult and religion in modernity. The notion of <em>culture</em> I&nbsp;am dealing with&nbsp;is based on the assumption that&nbsp;it emerges from&nbsp;a&nbsp;twofold origin, from&nbsp;cult and from&nbsp;<em>techne</em>, in the sense of the ancient Greek. The idea of the other part is to do research on topics situated at the threshold of the humanities and the natural sciences. This&nbsp;is the main goal: to analyze phenomena that&nbsp;cannot be framed by only one discipline, but&nbsp;are rather situated, either on the threshold of the disciplines, or between&nbsp;Eastern Europe and Western Europe, or between&nbsp;pre-modern and modern times, etc.</p> <p>For example, for&nbsp;years we have worked on the notions of heritage and inheritance, generations and genealogy, examining the knowledge from&nbsp;biology, law, culture, and literature, and analyzing the modifications of the idea of inheritance and heritage throughout the history. This&nbsp;has turned into&nbsp;a&nbsp;quite systematic research project. The idea to deal with&nbsp;the problem of <em>generation</em>, not just metaphorically, but&nbsp;to examine its constitutions, functions, and modifications in culture and science in a&nbsp;differentiated way has now become quite an important approach in Germany. There are several Ph.D. programs working on the question of generation in antiquity, in medieval times, in modernity, etc. Another example that&nbsp;was also very important for&nbsp;the profile of the ZfL is a&nbsp;research group devoted to figures of martyrdom. We established it shortly after&nbsp;9/11. I&nbsp;observed that&nbsp;many people in Germany and other Western countries always reacted in the same way when terrorists called themselves “martyrs”. They used to say: “They are not martyrs. Martyrdom is something else”, and it was clear that&nbsp;this “something else” was in fact a&nbsp;Christian-based idea of martyrdom. That&nbsp;was the initial impetus for&nbsp;starting the project of a&nbsp;comparative analysis of martyrdom in different cultures and religions. In order to avoid sticking to general comparisons of “the Muslim” or “the Christian” notion of martyrdom, eventually there were four different Islamic scholars involved in the research team, analyzing Sunni history, Shi’a history, and notions of martyrdom coming from&nbsp;Iran and from&nbsp;Turkey. It was enormously enlightening for&nbsp;me to discover that, for&nbsp;instance, there exist more connections between&nbsp;the Shi’a and Christian notions of martyrdom than&nbsp;between the Shi’a and Sunni ones. A&nbsp;crucial point for&nbsp;me in this&nbsp;research was also to discover the afterlife of these religious notions in secular, modern reality: in science, art, or literature. Another important aspect was to address the historiography of martyrdom, because when I&nbsp;started to read studies devoted to martyrdom I&nbsp;realized that&nbsp;the main narrative is very much influenced by, if not dependent on, the Christian bias. Its simplistic version says that&nbsp;martyrdom only appeared in early Christianity and is alien to Jewish and Greek cultures. However, this&nbsp;is a&nbsp;very wrong idea: when Christian martyrs appeared on the historical stage they were denoted by the Greek term <em>martys</em>, the equivalent of <em>testis</em> in Latin, but&nbsp;nobody ever asked why the Greek term for&nbsp;witness was used for&nbsp;them. So I&nbsp;started reading the testimonies of early Christianity, the Greek texts and Latin texts, and there are some of them published concurrently in both languages. In short, the result is that&nbsp;one can discover important and interesting preconditions for&nbsp;the Christian idea of martyrdom in Greek and Jewish cultures. This&nbsp;is just an example illustrating the development of different methods, different approaches, that&nbsp;make it possible to bring together research and insights from&nbsp;different fields and deal, not just with&nbsp;the history of the phenomena, but&nbsp;also with&nbsp;the phenomena <em>avant la lettre</em>, to search for&nbsp;the preconditions for&nbsp;the emergence of something.</p> <p><b>Would it be possible to identify the theoretical framework, or frameworks, of such projects?</b></p> <p>When I&nbsp;tried to find a&nbsp;conclusion in our projects after&nbsp;all these years I&nbsp;thought it would be interesting to assemble the crucial theoretical concepts we work with, i.e. to create a&nbsp;book presenting a&nbsp;series of <em>Kulturwissenschaftliche Schlüsselbegriffe</em>, key concepts in cultural sciences. These concepts are theoretical in that&nbsp;they frame the field of analyses and determine a&nbsp;specific approach, a&nbsp;way of dealing with&nbsp;things. Benjamin is very important here. His idea of <em>Schwellenkunde</em>, threshold-knowledge, which means, to analyze phenomena situated in-between, and furthermore to analyze it from&nbsp;both sides. For&nbsp;example, the drive in Freud’s psychoanalysis is a&nbsp;threshold concept; he calls it <em>Grenzbegriff</em>, boundary concept. One can only grasp its meaning, relevance, and function when analyzing both the biological and the cultural, psychic, or humanities perspective –&nbsp;and the tensions between&nbsp;them. Here the work of <em>Kulturwissenschaft</em> shows its fundamental utility. Let us stick to the example of the drive. There is an ongoing misunderstanding between&nbsp;scholars from&nbsp;neuroscience and scholars closer to psychoanalysis. Even the committed exchange of neuropsychology and psychoanalysis that&nbsp;recently emerged under&nbsp;the heading of <em>neuro-psychoanalysis</em> is confronted with&nbsp;a&nbsp;heavy problem of misunderstanding, due to their different languages and concepts, because scholars from&nbsp;neuroscience tend to translate the concepts of Freud into&nbsp;neurobiological, chemical terminology, whereas many scholars in psychoanalysis resist any idea of reformulating Freud’s concepts into&nbsp;terms from&nbsp;biology or neuroscience. During&nbsp;the last few years I&nbsp;have established a&nbsp;regular encounter between&nbsp;scholars from&nbsp;the fields of neuroscience, psychoanalysis, and the humanities who are interested in deepening cross-disciplinary dialogue by discussing it within&nbsp;the broader framework of a&nbsp;culturally informed history of knowledge. I&nbsp;guess the work of <em>Kulturwissenschaft</em> grows more and more important today because there is an increasing need, even more, a&nbsp;necessity, for&nbsp;mediating between&nbsp;the fields, and to do so not in order to harmonize, but&nbsp;rather to illuminate the epistemic differences, the blind spots and open problems. Naturally, this&nbsp;is not easy and it requires an advancement of our own methods.</p> <p>After so many years working with&nbsp;younger colleagues, I&nbsp;am now at a&nbsp;point where I&nbsp;think we have also to reflect and redefine the meaning of <em>Kulturwissenschaft</em>. I&nbsp;am very concerned with&nbsp;a&nbsp;tendency in the humanities in general, but&nbsp;especially in cultural science, or critical theory, to criticize everything on a&nbsp;very high theoretical level, but&nbsp;from an external point of view. It seems to be seductive; that&nbsp;the means of critical theory enable us to analyze, in a&nbsp;very sophisticated way, almost everything. I&nbsp;also observed that&nbsp;many colleagues tend to use abstract discourses as a&nbsp;kind of protective shield against&nbsp;reality, i.e. against&nbsp;the mode and form in which the problems appear in real-time.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/thinking-with-connections/285-3688-1-pb-1920x-606.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/9/thinking-with-connections/285-3688-1-pb-330x-070.jpg 330w,assets/cache/images/issues/2015/9/thinking-with-connections/285-3688-1-pb-660x-582.jpg 660w,assets/cache/images/issues/2015/9/thinking-with-connections/285-3688-1-pb-768x-023.jpg 768w,assets/cache/images/issues/2015/9/thinking-with-connections/285-3688-1-pb-1320x-a2d.jpg 1320w" src="assets/cache/images/issues/2015/9/thinking-with-connections/285-3688-1-pb-660x-582.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p><b>From what you have just said, I&nbsp;have the impression that&nbsp;the Centre that&nbsp;you run is trying to reinvent or to develop </b><em><b>Kulturwissenschaft</b></em><b>, and maybe also philology, in some modern or contemporary sense. I&nbsp;wonder who is in the circle of “father figures” inspiring your work in the Centre. Some of them have been mentioned, for&nbsp;instance, the idea of the afterlife, after&nbsp;Aby Warburg. Benjamin and Freud also appeared as important authors for&nbsp;your projects… Are there any others? How is your own research, not just the Center as an institution, linked to this&nbsp;constellation –&nbsp;or this&nbsp;heritage?</b></p> <p>It is sometimes difficult for&nbsp;me to separate these two things… (laugh)</p> <p><b>I am not forcing you to do so.</b></p> <p>The theoretical references or “father figures” are what I&nbsp;call <em>erste Kulturwissenschaft</em>, first cultural science. The “cultural turn” in the 90s was called <em>Kulturwissenschaft</em> in German, and that&nbsp;is why I&nbsp;go back to the first one, developed around&nbsp;1900. The term <em>Kulturwissenschaft</em> was used by Warburg and others. I&nbsp;refer to many scholars from&nbsp;the end of the 19<sup>th</sup> century and the beginning of the 20<sup>th</sup> century who tried to go beyond&nbsp;the opposition of natural sciences and humanities. In my view, this&nbsp;kind of approach responded to the invention of the <em>Geisteswissenschaften</em> by Dilthey, which was quite an ambivalent enterprise, because it was an attempt to strengthen historic-hermeneutic scholarship by turning it into&nbsp;a&nbsp;“real” science as rigorous as natural sciences. And I&nbsp;think that&nbsp;this is a&nbsp;kind of trap. There were others who tried to deal with&nbsp;concepts from&nbsp;natural sciences in order to analyze objects and problems from&nbsp;the humanities, like&nbsp;Warburg did in his early years. However, he figured out that&nbsp;it doesn’t work, so he started to create his own institution of <em>Kulturwissenschaft</em>. I&nbsp;see <em>Kulturwissenschaft</em> as an approach that&nbsp;transgresses the boundaries of both <em>Geisteswissenschaft </em>and <em>Naturwissenschaft</em> in order to create something different. Another important aspect was the discovery of the so-called “savage” origins of culture in anthropology, and the important role of the history of religion –&nbsp;religion in the sense of cult rather than&nbsp;theology. Many people still mix these two ideas. Religion originates in practices, in cult or ritual, which also remains important for&nbsp;its afterlife within&nbsp;modernity. Here Warburg, Benjamin, Freud, Cassirer, Simmel, and others are involved. This&nbsp;is, say, the realm or domain of thinking that&nbsp;I&nbsp;call first cultural science. It is the main reference point for&nbsp;the challenge I&nbsp;set to myself; namely to develop this&nbsp;approach further vis à vis current contemporary “hot” problems. My work is mainly committed to hot problems of today in order to analyze their historical and epistemological –&nbsp;often hidden or unconscious –&nbsp;implications and connotations. That&nbsp;is why I&nbsp;engaged in the project on martyrdom, and why I&nbsp;have recently begun studying the history of caricature. Controversial, or even dangerous, highly regarded phenomena have to be reread and analyzed in light of their multifaceted preconditions. The research program that&nbsp;I&nbsp;developed for&nbsp;the ZfL may be regarded as a&nbsp;kind of archeology of current problems and concepts in science and culture.</p> <p><b>Would you say that&nbsp;this rediscovery of </b><em><b>erste Kulturwissenschaft</b></em><b> is a&nbsp;kind of polemic about&nbsp;the cultural turn, or the way cultural studies are understood, mainly in the United States? </b></p> <p>I would not say it is polemical. It is simply alternative. Cultural studies, especially as postcolonial studies, are not sufficiently based in history. And it is a&nbsp;problematic approach for&nbsp;European topics, because it is mostly developed by scholars coming from&nbsp;India or other former colonized countries and educated in the U.S. Thus, the legitimacy of the theory comes from&nbsp;the place where they were born, but&nbsp;the mode of thinking comes from&nbsp;U.S., from&nbsp;the theoretical discourse established in American university culture. Today, Anglo-American <em>critical theory</em> has turned into&nbsp;a&nbsp;paradox: it is a&nbsp;homogeneous globalized monolingual approach that&nbsp;is obsessed with&nbsp;difference, otherness, and alterity; it is legitimized by its reference to other, excluded cultures but&nbsp;distributed by the U.S. academic market. I&nbsp;think that&nbsp;this approach does not fit with&nbsp;many other cultures, at least not European ones, and definitely not with&nbsp;the problems of Eastern or Southern European plural cultures, with&nbsp;multilingual, multi-religious, and multiethnic societies stemming, not from&nbsp;immigration, but&nbsp;from an eventful history of migrations, occupations, wars, revolts, and economic and cultural exchange. Many of them are today not postcolonial but&nbsp;post-imperial cultures. Because critical theory develops and circulates in the English language, it became so important and fashionable that&nbsp;now young scholars in so many countries tend to work with&nbsp;concepts from&nbsp;postcolonialism, even though their own cultural conditions are quite different. I&nbsp;am convinced that&nbsp;we have to develop a&nbsp;theory that&nbsp;is more grounded in history and in cultural and religious differences and the plurality of European history. For&nbsp;me class, race, and gender are not the holy trinity they are often considered to be. When we confront conflicts in East Europe today, in Georgia or Ukraine for&nbsp;example, there are wholly different questions that&nbsp;can be not analyzed in those categories. And the post-Holocaust problem must also be approached in another way. It requires a&nbsp;different topography of political and cultural memory.</p> <p><b>Would you criticize visual studies as they are practiced in U.S. in the same way that&nbsp;you criticize cultural studies established in American academia? Should we also look for&nbsp;an alternative, one that&nbsp;is more involved in historically grounded research?</b></p> <p>I am not that&nbsp;critical of visual studies, because they deal mainly with&nbsp;popular culture, and visual practices in very recent culture. There is an alternative, which in Germany is called <em>Bildwissenschaft</em>, an image science that&nbsp;emerged from&nbsp;a&nbsp;critique of art history as being an approach dealing only with&nbsp;epochs in which pictures are conceptualized as art: this&nbsp;started, let’s say, around&nbsp;the Renaissance, and it concerned only a&nbsp;certain part of visual production. But&nbsp;the world of images is much broader. Prior to the idea of art, beyond&nbsp;the art world, for&nbsp;example in the history of religion and in the sciences, also in modernity and in the epoch of reproduction or digital production of pictures, there is no longer a&nbsp;clear distinction between&nbsp;art and other kinds of images. Therefore, the science of images refers to all sorts of pictures; it analyzes the notions, practices, and arguments of images in various fields. It also touches upon&nbsp;changes and modifications in the modes of creating, regarding, and distributing images. And it includes a&nbsp;critique of images, because images are not innocent. Take the example of caricature today. Many people say “it is just an image” and these stupid Arabs don’t know that, because they are full of archaic and pre-modern ideas. However, caricature works precisely with&nbsp;the tension between&nbsp;the image and the likeness of a&nbsp;living subject; it functions only as a&nbsp;kind of play with&nbsp;the idea that&nbsp;the image <em>is</em> the portrayed person. The emergence and development of caricature is closely linked to European history. It has two main sources: one is connected with&nbsp;the disfigured portraits called caricature from&nbsp;the 17<sup>th</sup> to the 19<sup>th</sup> century, based on a&nbsp;combination of an exaggeration of a&nbsp;certain trait of the depicted person, and a&nbsp;formal reduction. My thesis is that&nbsp;its structure is analogous to the king’s two bodies described by Ernst Kantorowicz. This&nbsp;is why I&nbsp;talk about&nbsp;the “two bodies of the caricature”, because caricature depicts the body of a&nbsp;person in a&nbsp;disfigured or distorted way in order to criticize the political body he or she embodies. Therefore, caricature was really radical when it was used to criticize a&nbsp;monarch, or a&nbsp;new government acting like&nbsp;a&nbsp;monarch while allegedly being something different. So, the most productive and creative period of caricature was the 19<sup>th</sup>, century which, at the same time, was the high period of publicity and the public sphere. And caricature was strongly engaged in the struggle for&nbsp;the public sphere. But&nbsp;there is another, earlier source, namely, the fight between&nbsp;competing religions, when pictures were used to degrade the other religion. This&nbsp;kind of image war was particularly intense in the time of the Reformation, when the Pope and Luther were in a&nbsp;real war. Here, caricature is a&nbsp;discriminating image of the enemy. For&nbsp;me it is obvious that&nbsp;the drawings published in <em>Charlie Hebdo</em> function more or less in this&nbsp;line, originating in pre-modern times and not in the tradition of political caricature. They also don’t play with&nbsp;the double status of the monarchial body or the body of another authority. And last but&nbsp;not least, caricature only works when the author and the audience share a&nbsp;moral order or some cultural principles, at very least. Caricature is strong when it is used as a&nbsp;strategy to oppose or to criticize your own internalized moral principles. If, however, the objects of caricatures are members of a&nbsp;different ethnicity, religion, or culture the pictures tend to turn into&nbsp;simply discriminatory images, i.e. into&nbsp;a&nbsp;violent and aggressive act. There exists yet another interesting historical source for&nbsp;such discriminative practices –&nbsp;<em>pitture infamanti</em>, common in Italian cities in the 14<sup>th</sup>-15<sup>th</sup> centuries. <em>Infamante </em>means the negation of the <em>fama</em> of the subject, its dignity or honor. It was a&nbsp;quasi-legal act to depict a&nbsp;person in the public domain in a&nbsp;strange way: hang him for&nbsp;example <em>in effigie</em>. So, there are different origins of caricatures, and one has to deal with&nbsp;this genre very carefully.</p> <p><b>Maybe it is time to ask a&nbsp;straightforward question: what is a&nbsp;grammatology of images? This&nbsp;is the title of your most recent book, and it immediately states a&nbsp;problem. For&nbsp;we are used to thinking that&nbsp;grammatology is all about&nbsp;scripture.</b></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/9/thinking-with-connections/285-3690-1-pb-1920x-58e.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2015/9/thinking-with-connections/285-3690-1-pb-330x-16a.jpg 330w,assets/cache/images/issues/2015/9/thinking-with-connections/285-3690-1-pb-660x-a6a.jpg 660w,assets/cache/images/issues/2015/9/thinking-with-connections/285-3690-1-pb-768x-ff4.jpg 768w,assets/cache/images/issues/2015/9/thinking-with-connections/285-3690-1-pb-1320x-b49.jpg 1320w" src="assets/cache/images/issues/2015/9/thinking-with-connections/285-3690-1-pb-660x-a6a.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>I mainly refer to the concept of trace and the way in which Jacques Derrida has developed it in reference to Freud. The first sentence of my book is a&nbsp;quotation from&nbsp;Derrida’s <em>On Grammatology</em>, which has become more and more important to me over&nbsp;the years. “It is necessary to think the trace that&nbsp;precedes that&nbsp;which exists”. As you know, in Derrida the whole idea of the trace is not just referring to scripture, but&nbsp;to everything that&nbsp;participates in the production of meaning, though before&nbsp;it has been turned into&nbsp;a&nbsp;clear symbol. From&nbsp;the perspective of <em>Grammatology</em>, as opposed to the “Circumstantial paradigm”, traces precede the sign, the symbol, and I&nbsp;add: also the image. My aim is to illuminate the transition from&nbsp;traces to images, and to ask how phenomena that&nbsp;are not visual as such (for example, emotions) can be transformed into&nbsp;images. There are many strategies and techniques to transform something a-visual into&nbsp;images. In my book there are theoretical chapters on the concept of trace and line, on indexicality, on <em>effigie</em> (turning the body into&nbsp;image), on cult images, on Benjamin and the role of the lightning in his epistemology. There are also chapters with&nbsp;case studies devoted to specific phenomena and their historical modifications: faces, tears, caricature, angels, etc. I&nbsp;mainly deal with&nbsp;images that&nbsp;precede art, both in historical terms and in the process of production. The point of departure is the question of images after&nbsp;the end of art history. The book highlights a&nbsp;kind of correspondence between&nbsp;images in contemporary science and pre-modern visual practices. When I&nbsp;analyzed current, empirical, experimental research on faces, I&nbsp;suddenly became aware that&nbsp;the problems involved are quite similar to the concept of the <em>vera icon</em>; it functions in a&nbsp;comparable way. <em>Vera icon</em> refers to a&nbsp;remnant of something corporeal, which is not there any longer but&nbsp;gets turned into&nbsp;an iconic image. The same procedure takes place in a&nbsp;laboratory when scholars from&nbsp;empirical psychology try to deal with&nbsp;what they call covered expressions of emotions, when they measure phenomena that&nbsp;they define as indicators of emotions and then transform the data into&nbsp;a&nbsp;picture, namely a&nbsp;depiction based on the principle of similarity or mimesis. This&nbsp;is what I&nbsp;call the <em>vera icon</em>-problem of the sciences. The overall question of the book, to sum up, is how something that&nbsp;is in itself not an image becomes an image.</p> <p><b>As far as I&nbsp;understand, Benjamin is also behind&nbsp;it with&nbsp;the idea of dialectic image…</b></p> <p>Yes, what I&nbsp;do is a&nbsp;kind of threshold research that&nbsp;is very close to Benjamin’s threshold-knowledge.</p> <p><b>And tears as subject is a&nbsp;link between&nbsp;this book and your future project on compassion?</b></p> <p>Exactly.</p> <p><b>So, perhaps our last question would be: why did you decide to deal with&nbsp;compassion?</b></p> <p>I am not sure whether there was a&nbsp;moment of decision involved.</p> <p><b>Were there any images that&nbsp;preceded it, then?</b></p> <p><a name="_GoBack"></a> The project emerged step by step when I&nbsp;was studying the philosophy of pity and the current return of the concept of empathy in neuroscience. I&nbsp;noticed that&nbsp;there is a&nbsp;blind spot in all of this. There are so many books on emotions now, but&nbsp;I&nbsp;have the impression that&nbsp;here, it is not really a&nbsp;question of emotions. I&nbsp;wanted to take a&nbsp;step back and see how fellow feelings developed, how they were shaped and became part of our embodied knowledge –&nbsp;a&nbsp;heritage not of evolution but&nbsp;of cultural practices. I’m convinced that&nbsp;texts on pity from&nbsp;the past&nbsp;may tell us how authors in former periods thought that&nbsp;people should behave, but&nbsp;they don’t tell us how they actually behaved and felt. Probably, this, we will never know. However, my idea is to focus on performative cultures and practices as an archive of embodied knowledge or pathos-formula, to refer to Warburg. The idea is to examine the emergence of fellow feelings from&nbsp;the development of mourning rituals and the invention of shared practices of mourning. The project is not so much dedicated to the <em>concepts</em> of compassion, pity, and empathy, but&nbsp;to certain constellations in cultural history where specific practices and meanings of fellow feelings emerged. It is again a&nbsp;chance to deal with&nbsp;threshold phenomena between&nbsp;different disciplines. <em>Kulturwissenschaft</em> is a&nbsp;kind of, as Warburg says, <em>Zusammenhangsdenken</em>, thinking-with-connections. I&nbsp;totally agree with&nbsp;that.</p> <p></p> <h2>The interview was conducted within&nbsp;the research project “Affective Turn after&nbsp;1989. Strategies and Styles of Representation in an Interdisciplinary Research Perspective” funded by the National Science Centre (DEC-2011/03/B/HS2/05729).</h2>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/9-warsaw-moscow.-monuments-of-transition/thinking-with-connections" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

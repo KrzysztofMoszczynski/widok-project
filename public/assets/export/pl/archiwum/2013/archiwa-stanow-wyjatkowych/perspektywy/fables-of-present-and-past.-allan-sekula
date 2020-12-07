@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Fables of Present and Past.  | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/3-archiving-states-of-exception/fables-of-present-and-past">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Fables of Present and Past.  | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Fables of Present and Past.  | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/3-archiving-states-of-exception/fables-of-present-and-past">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Fables of Present and Past.  | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #25aa93 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #25aa93 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #25aa93 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #25aa93 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #25aa93 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #25aa93 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #25aa93 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #25aa93 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(37,170,147,0.8) !important; */
+			/* background-color:#25aa93 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(37,170,147,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#25aa93 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(37,170,147,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#25aa93; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(37,170,147,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(37,170,147,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#25aa93 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#25aa93 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#25aa93 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1382 parent-id-1376">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1372" data-selected-issue-color="#25aa93" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/archiwa-stanow-wyjatkowych#toc">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/archiwa-stanow-wyjatkowych/fables-of-present-and-past.-allan-sekula">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/3-archiving-states-of-exception#toc">3</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/3-archiving-states-of-exception/fables-of-present-and-past?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Fables of Present and Past. Allan Sekula in conversation with Krzysztof Pijarski</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/3-archiving-states-of-exception/fables-of-present-and-past?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Authors: 
+		<a href="/en/bio?id=1383">Allan Sekula</a>, <a href="/en/bio?id=301">Krzysztof Pijarski</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>New York, January 31<sup>st</sup>, 2010</p> <blockquote> <p style="text-align: right;"><em>To Sally Stein.<br><br></em></p> </blockquote> <h2>I. points of departure</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-944-1-pb-1920x-b0c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-944-1-pb-330x-5be.jpg 330w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-944-1-pb-660x-13e.jpg 660w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-944-1-pb-768x-506.jpg 768w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-944-1-pb-1320x-00f.jpg 1320w" src="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-944-1-pb-660x-13e.jpg" alt="" ></a>    <figcaption><p>Allan Sekula, <em>My father, brother and his son. Sacramento, December 1998, from&nbsp;Polonia and Other Fables, 2007-2009</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>Krzysztof Pijarski:</b> Since&nbsp;we are going to talk primarily about&nbsp;<em>Polonia and other Fables</em>, I&nbsp;would like&nbsp;to start with&nbsp;what you wrote in a&nbsp;text accompanying your project: “Polonia is an imaginary Poland which exists everywhere there is a&nbsp;Pole, it is everywhere and nowhere at the same time”. What is that&nbsp;Fable and how did it come into&nbsp;being?<br><br><b>Allan Sekula:</b> Well, I&nbsp;think that&nbsp;over the last few years I&nbsp;did a&nbsp;couple of projects on national identity, in a&nbsp;way. Consciously, these began with&nbsp;a&nbsp;project I&nbsp;did about&nbsp;Canada. I&nbsp;was interested in parallelisms between&nbsp;the United States and Canada, and the fact that&nbsp;for most Americans Canada is an invisible partner to the North that&nbsp;could easily be the 51<sup>st</sup> state. Of course, this&nbsp;is something that&nbsp;has been said about&nbsp;Poland as well, although it is more remote. So I&nbsp;think I&nbsp;began with&nbsp;a&nbsp;project on subtle shades of difference, as we are speaking here about&nbsp;anglophone Canada and United States. And I&nbsp;was attracted to Margaret Atwood saying that&nbsp;the US-Canadian border is “the longest undefended one-way mirror in the world.” And then I&nbsp;had also done works about&nbsp;the Cold War and its spaces, particularly the Fulda Gap in West Germany in the 80s, during&nbsp;the time of the intermediate-range missile race. I&nbsp;think the Polonia project was something that&nbsp;was always potentially there for&nbsp;me because of my Polish background on my father’s side. I&nbsp;certainly grew up with&nbsp;the whole imaginary Poland. For&nbsp;my father, Polish was his first language and yet, he had never lived in Poland. He was born in the United States. And he took on a&nbsp;certain Polish literary culture in his twenties and transformed himself from&nbsp;a&nbsp;typical Polish emigrant to a&nbsp;kind of very isolated Polish intellectual of a&nbsp;sort. I&nbsp;grew up with&nbsp;some of the consequences of that. I&nbsp;even had the idea in 1980, when the Gdansk strikes happened, that&nbsp;we should go to Poland, and take my father as an interpreter, but&nbsp;he did not want to go. So I&nbsp;did not go to Poland until&nbsp;1990, the time of the first presidential elections. At the time I&nbsp;was working on a&nbsp;chapter of my project <em>Fish Story</em>. I&nbsp;was interested in the Polish ship-building industry, and how it had been a&nbsp;side of this&nbsp;pivot point of the end of the Socialist Bloc in Eastern Europe. But&nbsp;I&nbsp;was also interested in the material conditions of this&nbsp;industry, how ship-building was moving to Korea in the 80s from&nbsp;Scotland, Northern England, Northern Ireland and other places. And I&nbsp;was curious how the shipyards on the Baltic coast might fare in a&nbsp;more integrated capitalist world economy. But&nbsp;to come to the immediate juncture that&nbsp;led me to Polonia project: I&nbsp;was simultaneously invited by the Zacheta Gallery in Warsaw and by the Renaissance Society in Chicago to do projects that&nbsp;could have been totally different and independent of each other, but&nbsp;I&nbsp;decided to bring the two together because of the fact that&nbsp;Chicago was such a&nbsp;Polish city. It is certainly the second biggest concentration of Poles in the world. So I&nbsp;started thinking how to structure a&nbsp;project that&nbsp;would work between&nbsp;Warsaw and Chicago, but&nbsp;really embracing more of Poland than&nbsp;simply Warsaw and perhaps my family’s history, some of the aspects of language, the space between&nbsp;Polish and English that&nbsp;could be somehow played out in the work. So between&nbsp;2007 and 2009 I&nbsp;made repeated trips to both Poland and to Chicago. I&nbsp;did not know Chicago that&nbsp;well, so I&nbsp;was really challenged, it was a&nbsp;chance to read authors such as Nelson Algren and to think about&nbsp;that specific working class Polonia, to reread <em>The Jungle </em>by Upton Sinclair, that&nbsp;kind of thing.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-946-1-pb-1920x-b0c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-946-1-pb-330x-5be.jpg 330w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-946-1-pb-660x-13e.jpg 660w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-946-1-pb-768x-506.jpg 768w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-946-1-pb-1320x-00f.jpg 1320w" src="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-946-1-pb-660x-13e.jpg" alt="" ></a>    <figcaption><p>Allan Sekula, <em>Polish Airforce base outside&nbsp;of Poznan, June 2009, from&nbsp;Polonia and Other Fables, 2007-2009</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KP:</b> What is your fable about?<br><br><b>AS:</b> It is about&nbsp;everything from&nbsp;the geopolitical to family history. The fables are operative at every level. One of the things I&nbsp;learned doing <em>Fish Story</em> is that&nbsp;you can introduce historical figures –&nbsp;in the case of Polonia, someone like&nbsp;Brzezinski, or Rousseau giving his advice for&nbsp;the first Polish constitution. In a&nbsp;kind of open, polyphonic narrative, their voices are not less important than&nbsp;the voice of someone who appears on a&nbsp;photograph. All these become semiotic elements of a&nbsp;kind, and one can play with&nbsp;that: re-associate, align them differently, bring them into&nbsp;conjunction, take them apart. They are all in the work: a&nbsp;quotation, a&nbsp;portrait, a&nbsp;landscape view, a&nbsp;fragment of text that&nbsp;has been written differently than&nbsp;other fragments...<br><br><b>KP:</b> When you talk about&nbsp;the sources of inspiration for&nbsp;this project you also mention two films: Stanley Kubrick’s <em>Dr Strangelove</em> and Andrzej Wajda’s <em>Ashes and Diamonds</em>. I&nbsp;wonder how that&nbsp;inspiration plays out in the project.<br><br><b>AS:</b> At some point I&nbsp;told myself it was a&nbsp;motivating fable, if you will. But&nbsp;I&nbsp;am not sure if the evidence bears out the assertion. It is a&nbsp;work that&nbsp;is based on notes, and working notes are the sort of thing that&nbsp;is highly revisable. What is valid at some point of the process is no longer valid two months later when you are thinking about&nbsp;these things in quite a&nbsp;different way. So, one of the things I&nbsp;allow myself in this&nbsp;work is to be open to that&nbsp;kind of provisional state, and to the possibility that&nbsp;its validity might be challenged by a&nbsp;reader who is able to view the work in its completed form. I&nbsp;am not sure I&nbsp;would even say this&nbsp;now, but&nbsp;at some point it seemed right.<br><br>When you think about&nbsp;it, <em>Ashes and Diamonds</em> has a&nbsp;sense of this&nbsp;historical moment before&nbsp;Socialist Poland has completely congealed. It is the open situation of the end of war, and powers in flux. One sees elements of the forces in struggle, all of this&nbsp;in this&nbsp;night of celebration and exuberant behavior. Kubrick is very different of course. I&nbsp;also had a&nbsp;thread about&nbsp;the Cold War that&nbsp;I&nbsp;wanted to follow, and the origins of the Eastern Bloc in the wake of the Allied victory over&nbsp;Germany is a&nbsp;great part of it. I&nbsp;guess I&nbsp;always had in mind this&nbsp;sense that&nbsp;Poland was between&nbsp;the Russian hammer, the Prussian thongs and the Austro-Hungarian anvil for&nbsp;such a&nbsp;significant part of its history and its non-history as a&nbsp;nation. And so someone like&nbsp;Brzezinski saying: Poland is a&nbsp;small nation and it was always aligned with&nbsp;a&nbsp;great power. Saying that&nbsp;with an apparent, kind of fraternal sympathy for&nbsp;the Polish situation, and yet one must imagine that&nbsp;as a&nbsp;Polish émigré, first Canadian, then American, he knows where power lies, he is on the side of a&nbsp;unipolar <em>Realpolitik.</em> So how sincere is his advice to the Poles? Is he not interested in making the best deals for&nbsp;buying American fighter jets, or something like&nbsp;this? I&nbsp;was interested in that&nbsp;whole complex of relations, and picking things up.</p> <h2>II. questions of history</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-948-1-pb-1920x-b0c.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-948-1-pb-330x-5be.jpg 330w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-948-1-pb-660x-13e.jpg 660w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-948-1-pb-768x-506.jpg 768w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-948-1-pb-1320x-00f.jpg 1320w" src="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-948-1-pb-660x-13e.jpg" alt="" ></a>    <figcaption><p>Allan Sekula, <em>Fragment of a&nbsp;painting by Stanisław Batowski, “Pulaski at Savannah” (1932), Polish Museum of America. Chicago, August 2007</em>, from&nbsp;<em>Polonia and Other Fables</em>, 2007-2009</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KP:</b> I&nbsp;would like&nbsp;to go back to <em>Walking on Water</em>, which is a&nbsp;series of photographs you took at the time of the first free presidential elections in Poland in 1990, and that&nbsp;you incorporated into&nbsp;<em>Fish Story</em>. Why did you decide to include them in the <em>Polonia</em> show? What was the idea behind&nbsp;it?<br><b><br>AS:</b> Well it seemed wise to revisit this&nbsp;time of 20 years ago. I&nbsp;do not particularly like&nbsp;the idea of anniversaries of historical events, because it seems arbitrary. I&nbsp;can understand human birthdays, but&nbsp;birthdays of technologies, inventions, diplomatic accords, or political events always seem to produce more heat than&nbsp;light, and yet it seemed to me that&nbsp;this one gives us the possibility of a&nbsp;vantage point.<br><br><b>KP:</b> Was any of this&nbsp;kind of thinking behind&nbsp;your decision to see how the situation has changed since&nbsp;then?<br><br><b>AS:</b> At the level of motives, yes, but&nbsp;there are obvious differences between&nbsp;a&nbsp;slide show made over&nbsp;a&nbsp;period of about&nbsp;two weeks traveling between&nbsp;Warsaw and Gdansk in the dead of winter and photos made during&nbsp;repeated visits usually in the spring or summer months, and made with&nbsp;a&nbsp;view toward&nbsp;enlargement and framing them on the wall in a&nbsp;sequence. So there were formal differences in the approaches to these two projects. In some ways the exhibition follows from&nbsp;the character of <em>Fish Story</em>, where I&nbsp;have the slide projections in a&nbsp;dark room and pictures displayed in a&nbsp;sequence in a&nbsp;light room, with&nbsp;interspersed texts. There are two different temporalities in these two bodies of work, and the images look rather different: there 35 mm pictures, often taken with&nbsp;flash, and here –&nbsp;because the photographs were to be enlarged and printed –&nbsp;I&nbsp;made the decision that&nbsp;most of them would be made with&nbsp;a&nbsp;square format camera which I&nbsp;never use. I&nbsp;was very aware that&nbsp;many interesting documentary or street photographs from&nbsp;Chicago were made with&nbsp;this square camera. One can associate this&nbsp;with the training at the Institute of Design that&nbsp;came out of Bauhaus influence but&nbsp;also, I&nbsp;think, in Poland and in the Eastern Bloc you would have these cameras like&nbsp;Pentacon with&nbsp;a&nbsp;square format. First of all Janda hefting a&nbsp;Pentacon when she can no longer shoot her film in <em>Man of Iron</em>.<br><br><b>AS:</b> At the level of motives, yes, but&nbsp;there are obvious differences between&nbsp;a&nbsp;slide show made over&nbsp;a&nbsp;period of about&nbsp;two weeks traveling between&nbsp;Warsaw and Gdansk in the dead of winter and photos made during&nbsp;repeated visits usually in the spring or summer months, and made with&nbsp;a&nbsp;view toward&nbsp;enlargement and framing them on the wall in a&nbsp;sequence. So there were formal differences in the approaches to these two projects. In some ways the exhibition follows from&nbsp;the character of <em>Fish Story</em>, where I&nbsp;have the slide projections in a&nbsp;dark room and pictures displayed in a&nbsp;sequence in a&nbsp;light room, with&nbsp;interspersed texts. There are two different temporalities in these two bodies of work, and the images look rather different: there 35 mm pictures, often taken with&nbsp;flash, and here –&nbsp;because the photographs were to be enlarged and printed –&nbsp;I&nbsp;made the decision that&nbsp;most of them would be made with&nbsp;a&nbsp;square format camera which I&nbsp;never use. I&nbsp;was very aware that&nbsp;many interesting documentary or street photographs from&nbsp;Chicago were made with&nbsp;this square camera. One can associate this&nbsp;with the training at the Institute of Design that&nbsp;came out of Bauhaus influence but&nbsp;also, I&nbsp;think, in Poland and in the Eastern Bloc you would have these cameras like&nbsp;Pentacon with&nbsp;a&nbsp;square format. First of all Janda hefting a&nbsp;Pentacon when she can no longer shoot her film in <em>Man of Iron</em>.</p> <p>Speaking of differences between&nbsp;the two Polands: when I&nbsp;first came in 1990, advertisements were just beginning to appear. There was a&nbsp;British company that&nbsp;was putting up billboards and they had this&nbsp;rather grotesque name: Maiden Poland, which struck me as openly admitting that&nbsp;there was going to be commercial rape of virgin territory. And of course it was this&nbsp;clever English pun that&nbsp;would have been lost on most of the Poles. But&nbsp;then Poles were busily abandoning Russian as their second language and embracing English at the time. I&nbsp;remember people lining up for&nbsp;English lessons in 1990, so everybody was preparing to understand the puns of sophisticated English language advertisements. Even if that&nbsp;was yet to come in a&nbsp;way. And now you go and you see these vinyl curtains pulled over&nbsp;the facades of most of the major buildings in Warsaw, replaced periodically with&nbsp;yet another vinyl curtain. There is a&nbsp;lot of free-for-all advertising and very little of the typographic environment of Socialist Poland, which often remains as a&nbsp;kind of trace, the letters having been pulled down&nbsp;from the buildings. So that&nbsp;was quite striking to me. Another difference is obviously the number of automobiles, and more expensive cars. At first the appearance is that&nbsp;of a&nbsp;Western European country, but&nbsp;after a&nbsp;second look one realizes that&nbsp;prosperity has its limits and also that&nbsp;there are those who prosper and those who don’t. And I&nbsp;would say that&nbsp;Poland has had one of the more successful national experiences of the 2008 crisis of the eastern European countries.</p> <h2>III. emblematicity</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-950-1-pb-1920x-589.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-950-1-pb-330x-619.jpg 330w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-950-1-pb-660x-871.jpg 660w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-950-1-pb-768x-a1e.jpg 768w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-950-1-pb-1320x-396.jpg 1320w" src="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-950-1-pb-660x-871.jpg" alt="" ></a>    <figcaption><p>'Allan Sekula, <em>Aerial view of pig farm owned by the American multinational Smithfield. Located on site of a&nbsp;former collective farm. Więckowice, Poland</em>, from&nbsp;<em>Polonia and Other Fables</em>, 2007-2009</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KP:</b> What really interests me in the context of your incorporating <em>Walking on Water</em> into&nbsp;<em>Polonia and Other Fables </em>(and taking into&nbsp;consideration the fact that&nbsp;work and workers have always been a&nbsp;recurrent theme in your art) is how do you think of the place of this&nbsp;theme in this&nbsp;particular project?<br><br><b>AS:</b> Certainly in the newer pictures from&nbsp;the <em>Polonia</em> project work appears in two ways really: in Chicago you have a&nbsp;workers’ occupation of a&nbsp;factory, and maybe some of these workers are Polish, but&nbsp;my impression is that&nbsp;they were almost all either Mexican or African-American. They occupied a&nbsp;factory that&nbsp;was going to be closed, and that&nbsp;was essentially the first sit-in at an American factory since&nbsp;the Great Depression. And in the end they succeeded, which is quite amazing, not only in saving their jobs, well — not only in getting the severance pay that&nbsp;they were supposed to get from&nbsp;the owner, but&nbsp;then also being rehired by the new owner of the factory after&nbsp;the owner they worked for&nbsp;departed under&nbsp;a&nbsp;cloud of fiduciary suspicion. So that’s on the Chicago side, and there is also of course a&nbsp;young woman working in the Mercantile Exchange, working with&nbsp;the trade of commodity futures and securities futures. There is a&nbsp;May Day march in Chicago, the return of a&nbsp;holiday founded on the basis of events that&nbsp;took place in Chicago; the struggle for&nbsp;the 8-hour day, the Haymarket fight, but&nbsp;a&nbsp;holiday more or less banished in the United States because of the power of capital and later reimported by immigrant workers from&nbsp;Latin America. And then on the Polish side there is a&nbsp;factory owned by Americans –&nbsp;a&nbsp;Smithfield pig farm. You do not see the workers, we get close to the factory, but&nbsp;never inside&nbsp;it, it is sort of a&nbsp;distant target you might say, seen from&nbsp;the air, seen from&nbsp;a&nbsp;rye field, across&nbsp;this sea of grain. And then you have these homeless former shipyard workers who are building a&nbsp;ship or boat for&nbsp;themselves in order to take this&nbsp;fantastic voyage around&nbsp;the world, so they are the veterans of the very shipyards that&nbsp;I&nbsp;was photographing 20 years earlier, and their history goes back in fact to the 70s and the 1970 strike and the depression that&nbsp;followed. And there is a&nbsp;blacksmith who is a&nbsp;figure of an ancient craft, my grandfather’s craft that&nbsp;he brought with&nbsp;him to America from&nbsp;Poland. And the blacksmith is performing this&nbsp;labour as a&nbsp;kind of ethnographic exercise. I&nbsp;photographed the door, which is a&nbsp;replica of the original door, which is in an ethnographic museum. In fact, it is the door of his shed but&nbsp;also the blueprint for&nbsp;his tools, so it is a&nbsp;kind of template for&nbsp;his labour, which raises questions: which is an original, which is a&nbsp;copy; the functional version is in fact a&nbsp;replica of the original, which is defunctionalized to stand as an example of Polish folkloric artisanal expression. Labour appears here very much in quotes, as a&nbsp;kind of problematized framework, while it is depicted much more directly in the pictures from&nbsp;1990.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-952-1-pb-1920x-589.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-952-1-pb-330x-619.jpg 330w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-952-1-pb-660x-871.jpg 660w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-952-1-pb-768x-a1e.jpg 768w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-952-1-pb-1320x-396.jpg 1320w" src="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-952-1-pb-660x-871.jpg" alt="" ></a>    <figcaption><p>Allan Sekula, <em>Farmer threshing grass at abandoned airport used by CIA for&nbsp;transport of clandestine high value terrorism suspects. Szymany, Poland, June 2009</em>, from&nbsp;<em>Polonia and Other Fables</em>, 2007-2009</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KP:</b> What struck me very much, especially in that&nbsp;allegorical picture of the homeless former shipyard workers in Ursus, one of the striking factories back then, was a&nbsp;certain bitterness, which I&nbsp;find very much to the point. In Poland at the moment there is this&nbsp;disillusionment felt by the workers who actually made the revolution, which was appropriated by the intelligentsia, who then forgot about&nbsp;the workers. So this&nbsp;absence of work in the literal sense in your project in a&nbsp;way mirrors the absence of the worker in contemporary Poland. And therefore the image of workers trying to build a&nbsp;ship on the mainland, not on the seashore, and planning to circumnavigate the world, is a&nbsp;very strong image. And going back to the traditional crafts — they are also seen as a&nbsp;kind of future for&nbsp;countries where there was no deep industrialization in agriculture. For&nbsp;example in many places we do not have to go back to organic farming, because we have never left it in the first place. This&nbsp;to me shows a&nbsp;very accurate picture of the countries on the borders of the real industrialized, developed world.<br><br><b>AS:</b> Still it seems to me that&nbsp;the blacksmith I&nbsp;visited used to work in a&nbsp;metalworking factory. His main occupation in the later years of his life was as metallurgical worker and blacksmith was a&nbsp;kind of artisanal practice that&nbsp;he conducted in his home workshop for&nbsp;his friends and neighbors. I&nbsp;do not think that&nbsp;it was his main source of income. And in that&nbsp;way he was very much like&nbsp;my grandfather in the 1950s and in fact going back to the 1910s. His occupation was as a&nbsp;toolmaker and tool repairer in the railroad yards and workshops, but&nbsp;then he kept his forge at home for&nbsp;more personal work. So he carried with&nbsp;him some of that&nbsp;village artisan culture. I&nbsp;was very struck that&nbsp;the first tool the blacksmith we visited in Krakow hammered, was a&nbsp;sickle; as if he was commenting on the past&nbsp;in a&nbsp;very emphatic way. And I&nbsp;quickly made a&nbsp;decision because I&nbsp;was making those photos in black and white and I&nbsp;wasn’t interested in the fire as such, in the orange glow of the forge. Rather, I&nbsp;wanted to photograph this&nbsp;in a&nbsp;more anachronistic way, by using monochrome. But&nbsp;I&nbsp;was also thinking of Warhol’s hammer and sickle pictures from&nbsp;‘76. These were paintings and prints that&nbsp;I&nbsp;discounted but&nbsp;now I&nbsp;think they were quite clever, because they were suffused with&nbsp;red, silkscreened over&nbsp;the basic drawing. There is a&nbsp;surplus of red; while the hammer and sickle usually were not red — they could have been gold on a&nbsp;red background — but&nbsp;red suffuses the image of the tool and they begin to look like&nbsp;there is a&nbsp;kind sanguinary aspect to them. And he is doing this&nbsp;in 76! I&nbsp;think Tom Crow is right, that&nbsp;Warhol was often very astute topically — you know, he talks about&nbsp;the Tunafish Disasters. And with&nbsp;his hammer and sickle pictures Warhol might have been thinking about&nbsp;the Khmer Rouge and the slaughters in Cambodia that&nbsp;were going on at that&nbsp;time. Here was Communism yet again demonstrating its truly brutal nature and that&nbsp;pushes it almost beyond&nbsp;what Robert Pincus-Witten said, that&nbsp;Warhol was a&nbsp;sort of blue-collar patriot of Eastern European extraction, the implication being that&nbsp;he had a&nbsp;special anti-communist animus because of his national background. So I&nbsp;was thinking of those images and what it means that&nbsp;someone actually performs this&nbsp;fleeting instant of the hammer and the sickle as the sledge comes down&nbsp;on a&nbsp;heated metal plate and at some point you can actually photograph the alignment of the two tools: the subject and the object of the work action as an emblem that&nbsp;was frozen in this&nbsp;timeless, seemingly transcendental iconography. What fascinated me was, at what moment does a&nbsp;hammer and sickle become a&nbsp;“hammer and sickle” in quotes. To me, somehow there is a&nbsp;fable there about&nbsp;the relationship of the immediacy or contingency of a&nbsp;photograph, and that&nbsp;which is emblematic. I&nbsp;mean, what can be more emblematic than&nbsp;a&nbsp;political emblem of that&nbsp;sort?</p> <h2>IV. making sense with&nbsp;pictures</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-954-1-pb-1920x-589.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-954-1-pb-330x-619.jpg 330w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-954-1-pb-660x-871.jpg 660w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-954-1-pb-768x-a1e.jpg 768w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-954-1-pb-1320x-396.jpg 1320w" src="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-954-1-pb-660x-871.jpg" alt="" ></a>    <figcaption><p>Allan Sekula, <em>CIA Black Site seen from&nbsp;the bushes. Kiejkuty, Poland, June 2009, </em>from <em>Polonia and Other Fables</em>, 2007-2009</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KP:</b> In the titles of your works you often refer to oral tradition, like&nbsp;folk tales, fables, fish stories etc., stressing their narrative character. Others point to a&nbsp;certain fragmentariness, as in notes, sketches, etc. In your projects it always seems that&nbsp;there is a&nbsp;lot to be read into&nbsp;or out of the specific pictures and at the same time, in the texts that&nbsp;go with&nbsp;them, a&nbsp;kind of analogous strategy seems to be at work: they are sequences of suggestive images. I&nbsp;wanted to ask you about&nbsp;the relation of image and text in your work, or in this&nbsp;particular work. In a&nbsp;way, your projects always result in narratives that&nbsp;condense into&nbsp;images.<br><br><b>AS:</b> The texts which are always closest to the images are the titles, and that&nbsp;is very often for&nbsp;me the very last piece of writing, to lock in the title in such a&nbsp;way that&nbsp;the image is not locked into&nbsp;the title. The title has to work in a&nbsp;particular way, which is not to say too much about&nbsp;the image and at the same time not to reduce it. What we need to break with&nbsp;in works which use both text and image is both the idea of the illustration and that&nbsp;of the caption, where there is a&nbsp;kind of functional and reductive relation between&nbsp;text and image one way or the other: the illustration is a&nbsp;sort of functional translation of the text and the caption is a&nbsp;functional reduction of the image. Let us put it this&nbsp;way: the illustration is the functional reduction of the text to periods of visual immediacy, while in the caption the temporality of the text is compressed into&nbsp;the atemporality of the image, which gives you all at once either a&nbsp;moment in the narrative of the text or enough elements to infer key transitions in the narrative. I&nbsp;think they are instantaneous illustrations or high points, ones that&nbsp;encode the before&nbsp;and the after&nbsp;as the event is narrated in the text. And then, on the other side, the caption, as Roland Barthes has pointed out, has a&nbsp;largely anchoring function, as if to say: this&nbsp;is what is important about&nbsp;this image, that&nbsp;it was Henry Kissinger and Lê Ðức Thọ who shook hands in Paris on this&nbsp;date and everything else that&nbsp;might be inferred; that&nbsp;one man is Asian, one man is occidental, and whatever else might be suppressed by the shortness of the caption. I&nbsp;always wanted the caption to be more like&nbsp;what Barthes called the relay function, where you produce a&nbsp;third effect of some kind through&nbsp;the association of text and image which is neither illustrative nor is the text a&nbsp;caption. But&nbsp;at the same time, I&nbsp;like the idea, it is an interesting thought experiment for&nbsp;me to say: could a&nbsp;list of notes be a&nbsp;caption, could you write a&nbsp;caption for&nbsp;a&nbsp;whole series of photographs? In other words, could a&nbsp;caption be a&nbsp;poem? Could it be a&nbsp;prayer? Could it be a&nbsp;letter? Could it be an essay? Could it be a&nbsp;polemic? A&nbsp;laundry list? And probably I&nbsp;want to break with&nbsp;the reiterative formal structure of the list, which seems to me very strong in the visual arts of the linguistic orientation. There is a&nbsp;kind of incantatory quality to repetition. Or if you take, let’s say, Lawrence Weiner, you have a&nbsp;kind of gnomic utterance, succinct and mysterious at the same time. Maybe I&nbsp;have the vice of being prolix, but&nbsp;I&nbsp;think text can be more extended, it doesn’t have to be as iterative or repetitious. If one can vary photographic styles within&nbsp;a&nbsp;work and still be for&nbsp;all intents and purposes the author of the work, even though one abandons or rejects ideas of stylistic consistency or signature style, could one also do the same with&nbsp;the text? So what happens if you bring a&nbsp;post-stylistic text into&nbsp;conjunction with&nbsp;post-stylistic photography? Because what is really important is occurring on a&nbsp;meta-discursive level, which does not mean that&nbsp;I&nbsp;am saying that&nbsp;the work is a&nbsp;work of theory, but&nbsp;I&nbsp;do mean that&nbsp;the unity of the work is achieved at some rather more abstract level…</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-956-1-pb-1920x-df7.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-956-1-pb-330x-ae1.jpg 330w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-956-1-pb-660x-8e4.jpg 660w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-956-1-pb-768x-408.jpg 768w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-956-1-pb-1320x-538.jpg 1320w" src="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-956-1-pb-660x-8e4.jpg" alt="" ></a>    <figcaption><p>Virginio Ferrari’s sculpture, <em>Dialogo</em> (1971) casting a&nbsp;hammer-and-sickle shadow, Image taken at 12 noon, May 1<sup>st</sup> 2007, Source: <a href="http://en.wikipedia.org/wiki/Virginio_Ferrari_(artist)" target="_blank" rel="noopener">Wikipedia</a>.</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KP:</b> Not on the level of some rigid formal equivalence…<br><br><b>AS:</b> To me it was a&nbsp;rather perverse compliment when a&nbsp;curator asked me once: did you make all those photos? She thought perhaps I&nbsp;got them from&nbsp;other sources, and it betrayed both a&nbsp;misunderstanding of what I&nbsp;do and suggested to me that&nbsp;I&nbsp;was doing something right, that&nbsp;I&nbsp;faced the principle of authorship and that&nbsp;the work defied her categories. I&nbsp;thought about&nbsp;the style of street photography, I&nbsp;thought about&nbsp;the style of jazz photography, and so on. Style in photography very often attaches itself to motives. When you think about&nbsp;these fundamental mimetic genre categories like&nbsp;portrait and landscape, of course they are related to orientations of the rectangle, but&nbsp;they are also related to motives, and that&nbsp;is also why it was interesting for&nbsp;me in this&nbsp;context; there is no precoding for&nbsp;genres, which I&nbsp;think is the appeal of square format.<br><br><b>KP:</b> And at the same time it is a&nbsp;format that&nbsp;seems to be outmoded.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-958-1-pb-1920x-df7.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-958-1-pb-330x-ae1.jpg 330w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-958-1-pb-660x-8e4.jpg 660w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-958-1-pb-768x-408.jpg 768w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-958-1-pb-1320x-538.jpg 1320w" src="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-958-1-pb-660x-8e4.jpg" alt="" ></a>    <figcaption><p>Allan Sekula, <em>Blacksmith (hammering sickle). Ochojno, Poland, June 2009</em>, from&nbsp;<em>Polonia and Other Fables</em>, 2007-2009</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>AS:</b> Yes, because everything is tending towards&nbsp;the panoramic. I&nbsp;have made panoramas and I&nbsp;am fascinated by panoramas, and I&nbsp;can always give myself the task of exploring panorama, but&nbsp;my basic feeling about&nbsp;that convention is that&nbsp;it is a&nbsp;paranoid mode of sorts. That&nbsp;is what I&nbsp;argue in <em>Fish Story</em>: talking about&nbsp;the sea battle, where you think there is an enemy on the horizon and that&nbsp;enemy can always flank you, I&nbsp;am thinking of the limits of the panorama; so the most paranoid form of the panorama is the 360°, the rotating camera, it tells you what is behind&nbsp;your head, and of course it is only giving you a&nbsp;thin vertical slice of what is around&nbsp;you, so if you are being attacked by a&nbsp;Peregrine Falcon from&nbsp;above or you are in the position of the actors in Hitchcock’s <em>The Birds</em>, the panorama does you no good, you need to be tilting the camera to see the threat. The square is probably very contented in a&nbsp;way.</p> <h2>V. imagined identities</h2> <p><b>KP:</b> How do you photograph an imagined community?<br><br><b>AS:</b> I&nbsp;think I&nbsp;was open to things like&nbsp;physiognomies. To me, Chicago people smoking outside&nbsp;in the winter under&nbsp;the pressure of anti-smoking legislation was the key emblematic image of the toughness and perseverance in Chicago. And on the other side, Polish people walking on Marszałkowska Street in the summer, middle-aged women wearing characteristic Polish print dresses and men in dark leather shoes and white socks, reading books as they walk. These things were to me somehow emblematically Polish. Had I&nbsp;seen them outside&nbsp;of Poland, I&nbsp;would have thought I&nbsp;was encountering Polonia because they seem so characteristic. I&nbsp;was drawn to that. Again, to me, these were emblematic images, and when they came up by chance I&nbsp;was really happy to encounter them and to be able to record them. But&nbsp;I&nbsp;do not know if there is any rule. I&nbsp;do not think there is any “how to”, I&nbsp;just think one has to be attuned.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-960-1-pb-1920x-df7.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-960-1-pb-330x-ae1.jpg 330w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-960-1-pb-660x-8e4.jpg 660w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-960-1-pb-768x-408.jpg 768w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-960-1-pb-1320x-538.jpg 1320w" src="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-960-1-pb-660x-8e4.jpg" alt="" ></a>    <figcaption><p>Allan Sekula, <em>My father with&nbsp;his list. Sacramento, December 1979</em>, from&nbsp;<em>Polonia and Other Fables</em>, 2007-2009</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KP:</b> I&nbsp;have a&nbsp;question about&nbsp;your position in this&nbsp;fable. <em>Polonia</em> is the first work in 30 years where this&nbsp;autobiographic moment arises, and images of your family reappear, so your presence in this&nbsp;work is also of a&nbsp;different order. How do you see yourself in this&nbsp;fable? What position do you assume: that&nbsp;of an observer? Outsider? Family member?<br><br><b>AS:</b> I&nbsp;end the piece with&nbsp;the former shipyard workers building the boat in the former Ursus factory, but&nbsp;just before&nbsp;that you see the picture of my mother outside&nbsp;the empty house, and the Polish priest who gave the last rites to my father in the hospital in Sacramento, California, and you see them probably 11 months after&nbsp;my father’s death, after&nbsp;the priest has celebrated Christmas Mass. And yes, I&nbsp;think the death of my father happening in the middle of the project had a&nbsp;great effect on how the project unfolded. I&nbsp;think one of the more grievous things I&nbsp;experienced during&nbsp;my father’s decline was his loss of language, because the puzzle of his relation to language fascinated me and terrified me, his strange relation to logic and language. Once I&nbsp;was able to come to terms with&nbsp;some of that&nbsp;after his death, it gave me a&nbsp;kind of clarity about&nbsp;this project. Maybe it was a&nbsp;mad clarity of sorts but&nbsp;somehow I&nbsp;felt able to be more autobiographical and start doing things like&nbsp;play with&nbsp;the family name in this&nbsp;kind of tone piece, playing with&nbsp;the pronunciation. Oddly enough I&nbsp;thought that&nbsp;I&nbsp;was really right about&nbsp;that, especially after&nbsp;a&nbsp;recent family visit when my nephew started talking about&nbsp;how in the first year of his college his class-mates were mocking his name. And I&nbsp;thought — it does not go away, it is repeated. So I&nbsp;felt that&nbsp;I&nbsp;was actually speaking to something. It is strange to have a&nbsp;name with&nbsp;almost Japanese consonant vowel alternation, when the joke about&nbsp;Polish is that&nbsp;it is a&nbsp;language without&nbsp;vowels, with&nbsp;a&nbsp;surplus of consonants. I&nbsp;was thinking about&nbsp;the beauty of vowel-consonant alternations and this&nbsp;strange hardness and difficulty of Polish. Somehow the language question brought me back. I&nbsp;know that&nbsp;years ago when I&nbsp;read Henry Roth’s <em>Call It Sleep</em>, it struck me like&nbsp;a&nbsp;bolt of lightening. The character, an immigrant, is suspended between&nbsp;Yiddish and English in the narrative of that&nbsp;novel and that&nbsp;gave me some insight into&nbsp;my father’s formation, of someone suspended between&nbsp;Polish and English in the years of his impressionable childhood, at the age of 7-8, first learning English. And I&nbsp;think that&nbsp;is something that&nbsp;Benedict Anderson is also sensitive to in his book <em>Imagined Communities</em>,<em></em>where he talks about&nbsp;Indonesian poetry and the beauty of it in such a&nbsp;way that&nbsp;even a&nbsp;non Indonesian speaker can grasp the musical beauty of that&nbsp;writing and the specialness of language to national identity. That&nbsp;is really key. And yet I&nbsp;remained outside&nbsp;that just as I&nbsp;remained outside&nbsp;of so much of my father’s imaginary world, because it was conducted in a&nbsp;language that&nbsp;I&nbsp;never bothered to learn even though it would have been his greatest pleasure for&nbsp;me to learn it and to have conversed with&nbsp;him in it. Then we could have fought about&nbsp;politics in Polish. Which was part of my fantasy, in a&nbsp;way, when imagining this&nbsp;trip in 1980. I&nbsp;think he was just afraid of being arrested as a&nbsp;spy, because he worked for&nbsp;the American Air Force.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-962-1-pb-1920x-df7.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-962-1-pb-330x-ae1.jpg 330w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-962-1-pb-660x-8e4.jpg 660w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-962-1-pb-768x-408.jpg 768w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-962-1-pb-1320x-538.jpg 1320w" src="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-962-1-pb-660x-8e4.jpg" alt="" ></a>    <figcaption><p>Allan Sekula, <em>Passersby 1. Warsaw, June 2009,</em> from&nbsp;<em>Polonia and Other Fables</em>, 2007-2009</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KP:</b> This&nbsp;translatability and untranslatability is something I&nbsp;found very interesting about&nbsp;your project. The issue of translation between&nbsp;languages and cultures, and the fact that&nbsp;a&nbsp;diaspora might not be acknowledged as same by the people it comes from. Sometimes there are huge differences, although its members are perceived, and they perceive themselves, as part of the same imagined community. This&nbsp;dialectic of closeness and distance also seems to be inscribed in this&nbsp;project. What is this&nbsp;space between&nbsp;Chicago and Warsaw?<br><br><b>AS:</b> We are in New York, and I&nbsp;just had lunch today in a&nbsp;place called “Polonia” on 1<sup>st</sup> Av and the waitress was totally in between, some of her mannerisms were completely Polish but&nbsp;at the same time she had this&nbsp;almost clichéd Americanness about&nbsp;her: “hey honey, would you like&nbsp;more coffee?” That&nbsp;American coffee-shop waitress kind of thing. And I&nbsp;thought, this&nbsp;is that&nbsp;in-between where things are already transformed. Or even small things, like, it is difficult to get bad coffee in Warsaw, but&nbsp;it is almost guaranteed you will get it here in Polonia in NYC. The emigrants lag behind&nbsp;the developments of home, if there is any progress in the capitalist sense. The imagined communities live in another time zone, time world. Ernst Bloch talks about&nbsp;that: it is a&nbsp;time where everybody lives in the same now. There is something in imagined communities that&nbsp;is shared and yet imaginations are individual, they are ideological. They are structured according to the work of desire and the unconscious, if one wants to be a&nbsp;bit Freudian. But&nbsp;then there is a&nbsp;lot of what is shared, of what gets negotiated in the inter-subjective sphere. That&nbsp;was a&nbsp;sub-theme of what I&nbsp;was working with. I&nbsp;guess the image of jazz had something to do with&nbsp;that for&nbsp;me. Jazz as a&nbsp;fully articulated non-verbal, non-linguistic temporal sign system, and the idea of free jazz with&nbsp;its indeterminacy and openness being translated from&nbsp;American sources to Poland and picked up. That&nbsp;is what led me from&nbsp;the picture of Ornette Coleman playing in Chicago to an elderly couple talking in Tygmont Jazz Club in Warsaw. It did not have to be strictly comparative, it is just two different moments of culture.<br><br><b>KP:</b> What about&nbsp;your own reception of the products of this&nbsp;culture? You related this&nbsp;to Krzysztof Komeda and <em>Knife in the Water</em> and Polish jazz that&nbsp;you experienced through&nbsp;that movie.<br><br><b>AS:</b> And I&nbsp;think when I&nbsp;made <em>Walking on the Water</em>, back in the 90s — it was the 7<sup>th</sup>, last chapter of <em>Fish Story —</em> I&nbsp;think I&nbsp;came up with&nbsp;that name, of course thinking of the New Testament association, but&nbsp;somehow I&nbsp;must have had in mind that&nbsp;wonderful scene in <em>Knife in the Water </em>where the boy –&nbsp;a&nbsp;Christ figure –&nbsp;has really figured out how to hang from&nbsp;the lanyards and run on the Masurian lakes. That&nbsp;is a&nbsp;beautiful scene. Kind of the counterpart to the knife play, which is so central to that, that&nbsp;kind of phallic anxiety, which is so central to much what Polanski seems to be about. Later you see it in Chinatown.</p> <h2>VI. a&nbsp;matter of understanding</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-964-1-pb-1920x-df7.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-964-1-pb-330x-ae1.jpg 330w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-964-1-pb-660x-8e4.jpg 660w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-964-1-pb-768x-408.jpg 768w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-964-1-pb-1320x-538.jpg 1320w" src="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-964-1-pb-660x-8e4.jpg" alt="" ></a>    <figcaption><p>Allan Sekula, <em>Vinyl curtain-wall adverising. Warsaw, June 2009</em>, from&nbsp;<em>Polonia and Other Fables</em>, 2007-2009</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KP:</b> From&nbsp;what we have been talking about&nbsp;one can see that&nbsp;in <em>Polonia</em> many threads are coming together, and that&nbsp;it is a&nbsp;very polyphonic work. In this&nbsp;sense it is hard to really say what it is about.<br><br><b>AS:</b> But&nbsp;I&nbsp;hope it is not just noise or nonsense. People have to work with&nbsp;that. I&nbsp;think I&nbsp;was very much more gratified with&nbsp;the reception in Warsaw because I&nbsp;felt that&nbsp;people –&nbsp;although I&nbsp;was only getting translated fragments of people’s responses –&nbsp;and I&nbsp;did feel that&nbsp;in Chicago, as positive as these responses were, there was a&nbsp;feeling that&nbsp;the hegemony of identity politics limited the readings of the show, but&nbsp;I&nbsp;am not sure, it is hard to say. The critical reviews of the show tended to focus on the indeterminacy of the show in a&nbsp;good way; things were not commensurate and yet they were set in play. Now I&nbsp;am waiting for&nbsp;the Hungarian and the Irish test. It is not a&nbsp;work that&nbsp;I&nbsp;feel I&nbsp;have to return to; it is done. And yet I&nbsp;found myself recently in a&nbsp;bookshop in Ann Arbor picking up a&nbsp;rather obscure literary study of Polish-American writing, and found myself suddenly drawn in. And this&nbsp;was a&nbsp;writer who is interested in questions of Ethnic literature but&nbsp;understands that&nbsp;some of the best writing on Polonia, the US Polonia, has been by non-Poles, by American authors, including Nelson Algren. So I&nbsp;tell myself the project is done, and then I&nbsp;find this&nbsp;book and I&nbsp;become curious, and hey, I&nbsp;am in the midst of things again. But&nbsp;I&nbsp;know that&nbsp;working in a&nbsp;country that&nbsp;is not your own, one has to understand what is at stake there. That&nbsp;is the old Marxist study-group ideal: you have to understand the historic conjuncture, what is at play, what is at stake, what class is rising, which one is falling, what is the imaginary life that&nbsp;goes with&nbsp;that. I&nbsp;have always thought that&nbsp;I&nbsp;was working with&nbsp;the material conditions and fables that&nbsp;people tell each other about&nbsp;their country and their possibilities. I&nbsp;am telling myself, one doesn’t have to be encyclopedic; I’d let the incompleteness of this&nbsp;project be sufficient unto itself. But&nbsp;I&nbsp;still have a&nbsp;feeling that&nbsp;I&nbsp;have not read enough Witkiewicz, because I&nbsp;find him so difficult. One thing I&nbsp;confess to in this&nbsp;work is that&nbsp;maybe my family romance is the Polish avant-garde. (I propose that&nbsp;at some point.) My father’s romance was this&nbsp;kind of szlachta, gentry world, that&nbsp;he never came from&nbsp;or never inhabited and which, I&nbsp;think, informed Polish expatriate culture both in North America, and in England certainly, and probably also in France.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-966-1-pb-1920x-982.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-966-1-pb-330x-3cb.jpg 330w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-966-1-pb-660x-e3b.jpg 660w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-966-1-pb-768x-cdb.jpg 768w,assets/cache/images/issues/2013/03/fables-of-present-and-past/103-966-1-pb-1320x-7d2.jpg 1320w" src="assets/cache/images/issues/2013/03/fables-of-present-and-past/103-966-1-pb-660x-e3b.jpg" alt="" ></a>    <figcaption><p>Allan Sekula, <em>Boat builders who hope to circumnavigate the globe, at Lazarus shelter for&nbsp;homeless men, former Ursus Tractor Factory. Warsaw, August 2009</em>, from&nbsp;<em>Polonia and Other Fables</em>, 2007-2009</p></figcaption>   </figure>  </section><section class="u-typo">   <p><b>KP:</b> And also, for&nbsp;various reasons, the national culture in Poland.<br><br><b>AS:</b> It is like&nbsp;the myths of the American South that&nbsp;the interests of the yeoman farmers would be the same as that&nbsp;of the slave owners. Historian are beginning to demolish that&nbsp;and talk about&nbsp;how much resentment there was on the part of the yeoman troops in the Confederate Army towards&nbsp;the laziness and opportunism of the planter class, who got military exemptions for&nbsp;growing food and yet kept their crops in cotton because that&nbsp;was the cash profit. So these classic forms of neo-feudal or late feudal dependency, gentry-peasant antagonism. One should be able, as good sociologists or anthropologists are, to understand the same structure in various cultural models. Benedict Anderson is a&nbsp;specialist in South Asia and what he has to say about&nbsp;peasants in Malaysia and Indonesia and their relation, say, to the Chinese petty village merchant class, the Chinese diaspora, can be also applied to questions of anti-Semitism in Europe and questions of national identity. And probably for&nbsp;artists that&nbsp;is the most useful thing about&nbsp;those scholarly works, that&nbsp;they can be drawn out of their specificities and provide a&nbsp;toolkit. But&nbsp;I&nbsp;was telling my students recently that&nbsp;I&nbsp;do not know what one should read. There is no one reading list. I&nbsp;can understand the desire for&nbsp;canonical works that&nbsp;constitute the limits of critical post-modern discourse. For&nbsp;something like&nbsp;this Polonia project I&nbsp;found that&nbsp;reading Sienkiewicz was as important as anything I&nbsp;might have been reading 10 or 15 years ago. And I&nbsp;hate to think of what a&nbsp;Foucauldian reading of Poland would be, that&nbsp;seems like&nbsp;a&nbsp;joke.<br><br><b>KP:</b> Thank you very much for&nbsp;our conversation.<br><br><em>[All images courtesy of the artist]</em></p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/3-archiving-states-of-exception/fables-of-present-and-past" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

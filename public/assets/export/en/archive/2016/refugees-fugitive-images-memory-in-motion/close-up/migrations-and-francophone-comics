@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Migrations and Francophone Comics | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/refugees-fugitive-images-memory-in-motion/migrations-and-francophone-comics">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Migrations and Francophone Comics | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Migrations and Francophone Comics | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/refugees-fugitive-images-memory-in-motion/migrations-and-francophone-comics">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Migrations and Francophone Comics | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #808080 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #808080 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #808080 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #808080 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #808080 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #808080 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #808080 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #808080 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(128,128,128,0.8) !important; */
+			/* background-color:#808080 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(128,128,128,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#808080 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(128,128,128,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#808080; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(128,128,128,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(128,128,128,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#808080 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#808080 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#808080 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-842 parent-id-833">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="830" data-selected-issue-color="#808080" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2016/uchodzcy-obrazy-migracji-pamiec-w-ruchu/migracje-i-komiks-frankofonski">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2016/uchodzcy-obrazy-migracji-pamiec-w-ruchu/migracje-i-komiks-frankofonski">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/refugees-fugitive-images-memory-in-motion#toc">14</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-14/14-steckiewicz_en.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Migrations and Francophone Comics</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-14/14-steckiewicz_en.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=783">Martyna Steckiewicz</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Jan Szelągiewicz
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>Comics have always been in some way associated with&nbsp;migration. The majority of illustrators and writers working in the American industry in the first half of the 20<sup>th</sup> century had immigrant experiences, and their everyday lives were marred by the economic, social, and cultural consequences of migration and the resulting need to redefine identity. Immigrants (or their children) created visual narratives that&nbsp;reached America’s ethnically diverse society. This&nbsp;transfer was facilitated by the dynamic evolution of popular culture, itself a&nbsp;sort of universal, widely understood language.</p> <p>If the experiences of the creators and producers shaped the content of texts of mass culture, then we should also emphasize that&nbsp;their work, in turn, deeply affected the consciousness and lives of immigrants themselves. Rachel Rubin and Jeffrey Melnick, scholars investigating the relationship between&nbsp;migration and popular culture, state that: “immigrants were at the very heart of popular culture imagery and production … and popular culture helped produce and define various moments of immigration history.”<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a> This&nbsp;aforementioned content was transmitted mostly in a&nbsp;rather covert manner, coded in associations and recognizable themes; they never talked about&nbsp;migration directly but&nbsp;never failed to give it visibility.</p> <p>The effect that&nbsp;migration has had on comic narratives created in Europe—at the very least in Francophone Europe, where migration narratives are one of the most commonly explored themes, one that&nbsp;comic writers and illustrators have had much practice with—is no less interesting. Given the common language, the work of comic book artists from&nbsp;different parts of the region is often lumped together under&nbsp;the term “Franco-Belgian comics.” For&nbsp;historical and linguistic reasons, works produced in other Francophone countries, including former French and Belgian colonies, are also often covered by that&nbsp;term. That&nbsp;is why the concept of Franco-Belgian comics is slowly but&nbsp;surely giving way to the more broad term that&nbsp;is “Francophone comics”.</p> <p>After an in-depth examination of characters hailing from&nbsp;other cultural milieus that&nbsp;have appeared in Francophone comics, Olivier Terrades, a&nbsp;French scholar investigating the representation of intercultural contacts in comics, has identified a&nbsp;number of major trends that&nbsp;have emerged over&nbsp;the past&nbsp;couple of decades.<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> As Terrades notes, immigrants were more or less absent from&nbsp;Francophone comics’ narratives until&nbsp;the 1970s. This&nbsp;absence is truly surprising, especially given the fact that&nbsp;basically over&nbsp;the whole time that&nbsp;the medium has been developing in France and Belgium, immigrants have been arriving in both countries from&nbsp;all over&nbsp;the world.</p> <h2>From Hergé to Abouet: Stages in the Development of Francophone Comics</h2> <p>In the first phase of the evolution of Francophone comics, that&nbsp;is until&nbsp;the start of World War II, portrayals of people of non-European extraction were highly ethnocentric and marked with&nbsp;a&nbsp;very specific view of the Other. The narratives from&nbsp;that period usually revolved around&nbsp;some quasi-anthropological expedition to some exotic region of the world. The protagonists of these stories—representatives of the West—journeyed into&nbsp;the unknown and later reported what they had found and experienced, like&nbsp;veritable members of ethnographic expeditions. The main characters were usually depicted as national heroes, whereas the natives they encountered were portrayed as alien Others, their strangeness and practices—the latter usually considered “barbarian”—engendering unease.</p> <p>The comics from&nbsp;that period clearly framed a&nbsp;contrast between&nbsp;European cultures and the cultures of whatever native peoples were depicted in the narrative. This&nbsp;framing expressly emphasized the superiority of the West and the Occidental way of life, while the portrayals of the natives were always founded on stereotypes and emphasized differences in clothing, customs, religious practices, and their supposed cultural backwardness.<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a> This&nbsp;particular group of narratives includes the <em>Tintin</em> stories developed by Georges Remi, better known as Hergé, whose protagonist, a&nbsp;young reporter, often finds himself on great adventures in the remotest corners of the world. The portrayal of the natives he encountered was supposed to reflect the swashbuckling tone of the narrative, so they were mostly depicted as mysterious, primal peoples whose representatives resembled fantastic creatures, their strange behavior infusing the narrative with&nbsp;much needed color. They were an illustrated embodiment of the ideas about&nbsp;the exotic Other held by the Westerners and the mixture of fascination and fear they felt towards&nbsp;them.</p> <p>In response to one of Hergé’s stories that&nbsp;painted native peoples in a&nbsp;particularly controversial way—<em>Tintin in the Congo</em>—another Belgian illustrator, Joseph Gillain (working under&nbsp;the pseudonym Jijé), created the 1939 title <em>Blondin et Cirage</em>, with&nbsp;two boys as the main characters: a&nbsp;white one, somewhat resembling Tintin, and a&nbsp;black one who usually served as the focus of the story. This&nbsp;was a&nbsp;conscious attempt by the author to subvert and weaken the paternalistic perspective usually employed by Hergé in his portrayals of the subjugated peoples of the colonies. Comics from&nbsp;that period usually depicted migration from&nbsp;the global North towards&nbsp;the South, undertaken by privileged individuals leading interesting, unique lives typical of members of exotic overseas expeditions.</p> <p>During World War II, comics came under&nbsp;the strict control of censorship, therefore all official publications in France were subordinated to Nazi ideology. In that&nbsp;period, comic books were dominated by characters from&nbsp;totalitarian societies, while the representation of people hailing from&nbsp;other cultural backgrounds was not only stereotypical, it was marred by open racism and anti-Semitism. In those narratives, the figure of the Other served as a&nbsp;scapegoat and was portrayed as an enemy of the state that&nbsp;had to be purged as quickly as possible. Many authors were openly censored, including Jijé and his 1941 volume, <em>Blondin et Cirage contra les gangsters</em>, which turned out to be the final one in the series.</p> <p>In the postwar period, comics were dominated by a&nbsp;classic, Manichean approach to good and evil, reinforced in the past&nbsp;by superhero narratives and later by the realities of the Nazi occupation and post-liberation France. However, the image and portrayal of the Other in comics underwent a&nbsp;gradual change as the years passed, and mainstream publications were purged of clearly colonialist language and perspectives. And although non-Europeans were still stigmatized from&nbsp;time to time, from&nbsp;the 1950s onwards an increasing number of mainstream titles featured positive examples of intercultural interactions. These included René Goscinny’s <em>Asterix</em> and <em>Lucky Luke</em>, as Dino Attanasio’s <em>Signor Spaghetti</em>, released in 1957, just before&nbsp;the collapse of the French colonial empire, which featured the first immigrant protagonist in Francophone comics.</p> <p>After a&nbsp;decade of radical social and moral change, the early 1970s saw rapid development in Francophone comics. Aside from&nbsp;the emergence of adult-oriented genres, filled with&nbsp;violence and eroticism, the comics market witnessed the rise of the anti-heroes: flawed individualists devoid of the heroic characteristics that&nbsp;defined their predecessors. Overturning the classic and widespread division into&nbsp;purely good and purely evil characters allowed comics artists to experiment and create new types of stories that&nbsp;put ambiguous identities and the imperfect characters of their protagonists front and center. Curiously, artists working in that&nbsp;period weren’t all that&nbsp;keen on exploring immigration-related themes. There were, however, some harbingers that&nbsp;may have suggested that&nbsp;a&nbsp;shift was in the works, including Roger Leloup’s 1970 title <em>Yoko Tsuno</em>, a&nbsp;story about&nbsp;the adventures of a&nbsp;Chinese woman living in Belgium.<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a></p> <p>It was only after&nbsp;fundamental changes in the medium itself, as well as in the social and political realities of France, that&nbsp;narratives about&nbsp;immigrants coming to their new home could take root. This&nbsp;major shift required one additional transformation—of the publishing industry and distribution networks—that took place in the 1990s with&nbsp;the establishment of L’Association, an alternative publishing house that&nbsp;promoted and released primarily independent artists and which later published critically-acclaimed work by Marjane Satrapi and Joann Sfar. The artists themselves started associating themselves in groups to promote comics of high artistic value and diverse subject matters. These changes opened up a&nbsp;slate of new opportunities for&nbsp;illustrators who didn’t feel part of the comics mainstream in France. The market now included titles created by artists hailing from&nbsp;Northern and Sub-Saharan Africa, Iran, Lebanon, and Syria. The majority of them were either immigrants or children of immigrants who had settled in France and experienced all of the troubles of immigrant life, instilling in their children and grandchildren highly complex multicultural identities. Thus, somewhere around&nbsp;the year 2000, migration became one of the central themes in Francophone comics, while the immigrant was named the “new comic book hero.” Where once we had a&nbsp;heroic protagonist who journeyed south towards&nbsp;exotic lands in the early years of the 20th century to gaze at the Others populating the <em>outremer </em>colonies, now there was someone traveling in the exact opposite&nbsp;direction. Reaching their destination, they remain the Other, now gazing back curiously at modern Western society.</p> <h2>The New Comic Book Hero</h2> <p>The shift in status of the protagonist-Other—from the subject of the post-colonial gaze to the observer—is not merely a&nbsp;symptom of the evolution of the portrayal of migration in contemporary Francophone comics. According to scholars studying the medium, we have witnessed the birth of a&nbsp;“new comic book hero.” Although stereotypical divisions and at least some of the characteristics of the typical comic book protagonist have been abolished and subverted in past&nbsp;decades, some of the relationships have remained unchanged, and white men from&nbsp;Western countries still represent the majority of comics artists. What form does this&nbsp;new hero take in Francophone comics? Autobiographical tendencies are typical in migrant narratives—the vast majority of such stories are based on the personal experiences of the authors. The authors themselves can be divided into&nbsp;three groups according to age: immigrants, children of immigrants, and grandchildren of immigrants, and comics are an area where the memories and experiences of these individual generations intersect and intertwine. Obviously, the experiences associated with&nbsp;each of these three types of immigrant condition are vastly different. The fact that&nbsp;they’re all variations on one single theme does not imply a&nbsp;homogeneity of narratives stemming from&nbsp;them—each generation explores its own issues: the experience of war trauma and its effects, migrating from&nbsp;one country to another and starting a&nbsp;new life in a&nbsp;new environment, bearing the mark of otherness, and the difficulty in reconciling the world of one’s parents with&nbsp;the world of one’s peers in the new homeland, and, finally, coming back to the old countries in search of one’s roots.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/migracje/362-5638-1-pb-1920x-cc2.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/14/migracje/362-5638-1-pb-330x-c99.jpg 330w,assets/cache/images/issues/2016/14/migracje/362-5638-1-pb-660x-6f0.jpg 660w,assets/cache/images/issues/2016/14/migracje/362-5638-1-pb-768x-a78.jpg 768w,assets/cache/images/issues/2016/14/migracje/362-5638-1-pb-1320x-5fc.jpg 1320w" src="assets/cache/images/issues/2016/14/migracje/362-5638-1-pb-660x-6f0.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>The ethnicity and cultural affiliation of contemporary characters in Francophone comics exhibits a&nbsp;high degree of overlap with&nbsp;the how migration has happened and is happening in reality. Therefore, although migrant narratives were basically absent from&nbsp;comics in the period of intensified population movement after&nbsp;the Second World War, they have resurfaced in recent years as an important subject, explored either in the form of first-person accounts of resettlement and migration or the memories of the journeys of past&nbsp;generations told by their children or grandchildren. In his volume <em>Les années Spoutnik</em>,<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a><em></em>Baru depicts Italian immigration from&nbsp;the 1930s, basing his portrayals on the accounts of his grandfather, a&nbsp;laborer forced to leave his country for&nbsp;economic reasons. Spaniards looking for&nbsp;safe haven after&nbsp;fleeing Franco’s Spain serve as the protagonists of Serguei Dounovetz and Paco Roca’s <em>L'ange de la retirada<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a></em>and Julio Ribéra’s <em>Paris Liberté</em>,<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a><em></em>while Portuguese migration is explored in-depth in Cyril Pedrosa’s <em>Portugalia</em>.<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a></p> <p>The situation of immigrants from&nbsp;Northern African countries, who have been settling in France in high numbers ever since&nbsp;the 1980s, was depicted by Halim Mahmoudi in <em>Arabico<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a></em>and Farid Boudjellal in <em>Le Beurgeois<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a></em> as well as in <em>Petit Polio</em>.<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a><em></em>The characters in their stories struggle with&nbsp;intolerant societies, racial prejudices, and stereotypes linked with&nbsp;their Arabic backgrounds. But&nbsp;interrogating one’s own identity shouldn’t merely be the task of those amongst the comics’ characters that&nbsp;are of Maghrebi extraction—the authors themselves have to find their own answers to the question of “What does it mean to be an Arab?” In the documentary <em>Bulles d’exile</em>, Farid Boudjellal recounts how as he began working on one of his characters, he realized that&nbsp;there was a&nbsp;huge discrepancy between&nbsp;how “Arabs” were represented graphically in visual storytelling and what his family and friends really looked like.<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a></p> <p>Authors hailing from&nbsp;Subsaharan Africa are another important group of newcomers on the comic book scene, whose emergence reflects a&nbsp;separate chapter in the history of immigration to Europe, one that&nbsp;has been picking up in recent decades. The legal and social situations of the immigrant characters in their comics are highly varied: there are students legally residing in Western countries, others have unclear legal status, while still others are migrants who fled home and came to Europe across&nbsp;the Mediterranean in rickety boats. Their protagonists also include new types of characters heretofore rather absent from&nbsp;Europe-centric narratives, such as black athletes, subverting the trope of the passive and immigrant, or people who are both immigrants and members of some sort of minority: LGBT persons, albinos—people shunned by both European and African societies.</p> <p>Characters like&nbsp;Pahé from&nbsp;<em>La Vie de Pahé<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a></em>by the Gabonese author Patrick Essono, or Malamine,<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a> the protagonist created by Christophe N'Galle Edimo and Simon-Pierre Mbumbo, reflect the difficult, sometimes tragic reality of the immigrants, whose experience of otherness is immensely exacerbated not only by the radical change in their surroundings, but&nbsp;also their different appearance, and daily encounters with&nbsp;racist prejudices coming from&nbsp;their new compatriots. Their stories also highlight the difficulties that&nbsp;immigrants encounter when looking for&nbsp;a&nbsp;job or a&nbsp;place to stay, and how harsh European winters can be for&nbsp;many of them. The first couple of years in a&nbsp;new reality are usually spent rebuilding one’s life, struggling to adapt, and embracing cross-cultural compromises at the risk of losing one’s own individual identity.</p> <p>Another notable change brought on by the increased prominence of migrant-centered comics is the improved position of women in the contemporary publishing market. Once nearly absent from&nbsp;the world of comics and graphics novels, women have taken to the industry in force, and many of them have produced works that&nbsp;are nowadays considered to be canon. Even though female illustrators still remain in the minority (according to the l’ABCD, the French association of comic book critics and journalists, the percentage of women among&nbsp;illustrators in the industry has been hovering around&nbsp;You 12% for&nbsp;the past&nbsp;couple of years<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a>), they continue to give much needed voice to the issues discussed in this&nbsp;essay. Examples include works by Marjane Satrapi, Zeina Abirached, and writer Marguerite Abouet.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/migracje/362-5636-1-pb-1920x-953.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/14/migracje/362-5636-1-pb-330x-c23.jpg 330w,assets/cache/images/issues/2016/14/migracje/362-5636-1-pb-660x-bdd.jpg 660w,assets/cache/images/issues/2016/14/migracje/362-5636-1-pb-768x-c0e.jpg 768w,assets/cache/images/issues/2016/14/migracje/362-5636-1-pb-1320x-08e.jpg 1320w" src="assets/cache/images/issues/2016/14/migracje/362-5636-1-pb-660x-bdd.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Marjane Satrapi remains the most widely known female comics artist outside&nbsp;France. In her critically-acclaimed series <em>Persepolis</em>, she recounted her life in Tehran in the middle of the Islamic revolution and her flight to Europe, which was supposed to save&nbsp;her from&nbsp;a&nbsp;life in a&nbsp;country that&nbsp;was sliding ever deeper into&nbsp;religious and moral radicalism. Most of <em>Persepolis</em>’ storylines are of interest to anyone involved with&nbsp;migration studies, but&nbsp;some seem particularly relevant, including the one in which her parents, increasingly worried by the deteriorating situation in Iran, send Marjane off&nbsp;to boarding school in Vienna. Satrapi depicts the painful clash of two radically different worlds and the author’s/main character’s desperate attempts to find her bearings in her new situation. Although she hailed from&nbsp;a&nbsp;deeply pro-Western family, reconciling her own cultural patterns with&nbsp;her new reality turned out to be much more difficult than&nbsp;she could ever anticipate.</p> <p>Although there definitely is some overlap between&nbsp;the experiences of a&nbsp;teenage girl arriving in an unfamiliar country to learn and experience life in the West and similar stories with&nbsp;male characters, some of the elements weaved by Satrapi into&nbsp;her narrative clearly mark it as a&nbsp;female experience of migration. The author emphasizes the issues surrounding her adolescent protagonist’s sexuality and corporeality, particularly when puberty and its changes force her to reevaluate her own gender identity and then to redefine it, according to the social customs she absorbed in childhood, on the one hand, and the rules and principles espoused by her adopted homeland on the other. Satrapi also portrays a&nbsp;strong, intergenerational bond linking the female line of her family, the particularly close relationship that&nbsp;the protagonist enjoys with&nbsp;her grandmother, whose sage pieces of advice serve the girl as guidelines that&nbsp;help her navigate life both at home and abroad.</p> <p>Aya—the protagonist created by the Ivory Coast native Marguerite Abouet for&nbsp;her <em>Aya de Yopougon</em><a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a> series—gives us a&nbsp;deeper look into&nbsp;the everyday life of one of the districts of Abuja in the late 1970s and early 1980s. And although Abouet’s protagonist isn’t fully based on herself, she contains some autobiographic traces of her creator, including a&nbsp;childhood spent in the Ivory Coast and later emigration to France. The goal of the writer was to portray the everyday life of young people living in a&nbsp;large African metropolis without&nbsp;invoking any of the typical tropes highlighting African poverty and backwardness. As Inno, one of the series’ main characters, arrives in France, he can’t help but&nbsp;express his incredible disappointment with&nbsp;Europe: “Pathetic, eh! I&nbsp;am Inno, the greatest dandy in Yop City [the colloquial term for&nbsp;Yopougon—author’s note] and here I’m worth less than&nbsp;a&nbsp;dead goat,”<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a> he laments as he stands in the middle of a&nbsp;barely hospitable Paris in winter. Abouet also tries to subvert traditional stereotypes about&nbsp;gender roles in African societies—Aya’s goal is to get a&nbsp;solid education, rather than&nbsp;live according to traditional models that&nbsp;restrict women to nothing more than&nbsp;homemaking. The author also deftly weaves issues of discrimination into&nbsp;her narratives, including discrimination based on sexual orientation: Inno is gay and that&nbsp;still carries a&nbsp;significant stigma in many African societies. In the works of the Lebanese-born Zeina Abirached, the subject of emigrating to France is linked directly to the recurring interrogation of identity. Her volume <em>Paris n'est pas une île déserte</em><a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a> (<em>Paris Is Not a&nbsp;Deserted Island</em>) is dedicated in its entirety to exploring this&nbsp;particular issue. The author emphasizes the difficulties that&nbsp;people brought up in two different cultures have with&nbsp;defining their cultural affiliation. She demonstrates how her own ambiguous identity is often simplified and flattened by the French who automatically ascribe to her a&nbsp;set of specific traits as soon as they learn about&nbsp;her background, trying to get her to live up to the image of a&nbsp;“model Lebanese.” Abirached herself used a&nbsp;fabric-weaving metaphor to describe the process of building her own cultural and linguistic identity. One of the panels in <em>Paris n'est pas une île déserte</em>, depicting a&nbsp;pair of knitting hands, features the following&nbsp;description: “I learned/French/at the same time/I learned Arabic./I always spoke both.”<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a> The interlocking eyes create rows and then a&nbsp;flexible knit surface, a&nbsp;metaphor for&nbsp;languages in which individual words come together to create sentences and thoughts: “Ever since&nbsp;I&nbsp;was a&nbsp;kid, I’ve knitted my language from&nbsp;two different threads of yarn.”<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a> Each subsequent language enriches and broadens imagination and consciousness. According to Abirached, her languages cannot exist separately from&nbsp;each other, while she herself is unable to unambiguously define her identity by choosing only one of them.</p> <p>The aforementioned volumes pose very important questions that&nbsp;often serve as through-lines in immigrant-authored narratives—questions about&nbsp;who they really are and where they really come from. In an interview, Marguerite Abouet said: “I’m Ivorian first, even if I’ve been living in France for&nbsp;a&nbsp;very long time.”<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a> Zeina Abirached, on the other hand, declares: “I’m both Lebanese and French, I’m also Arab, European, Maronite, lay person, my parent’s daughter, my grandparent’s granddaughter, and an anonymous rootless nomad; all of it at the same time.”<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a> Regardless of whether the answer is simple or complex and unambiguous, the questions return time and time again.</p> <h2>Mapping and Population Shifts</h2> <p>Migration as depicted in comic books and graphic novels can divided into&nbsp;three individual stages.<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a> The first entails leaving one’s homeland, the departure accompanied by a&nbsp;feeling of being brutally ripped from&nbsp;everything that&nbsp;is familiar and a&nbsp;fear of leaving for&nbsp;unknown territories. The reasons forcing migrant comic book characters to leave their homes often mirror the motives of real-life immigrants and are just as varied, while the risks associated with&nbsp;the transition depend primarily on the political situation that&nbsp;their home countries are in. Usually, the decision to leave is motivated by political or economic reasons, while emigration appears to be the only way of fleeing repression or finding a&nbsp;source of income. Often enough, however, the departure itself is omitted by the authors, and the readers do not learn anything about&nbsp;the characters’ pasts in their home countries. Conversely, authors who do dedicate a&nbsp;portion of the narrative to exploring the life of their characters prior to departure usually do so in order to subvert the popular perception of these countries and portray the everyday lives of average citizens, like&nbsp;Marguerite Abouet did.</p> <p>The second stage entails the portrayal of migration itself—which can range from&nbsp;a&nbsp;couple of textless panels up to a&nbsp;fully-developed episode used to emphasize the dramatic character of the journey, portraying its dangers and risks.<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a> The migrants depicted in these comics travel using a&nbsp;variety of means of transport, they travel in various conditions and for&nbsp;different reasons. Some possess the required travel documents, others are planning to cross into&nbsp;Europe illegally and only later secure their right to residency via&nbsp;legal means—asylum or the requisite visas—sometimes living in the shadow of their unclear status for&nbsp;many years.</p> <p>The transition is often portrayed in the form of a&nbsp;retrospective resembling a&nbsp;drawn-out journey of ancient mythical heroes, as migrants are most vulnerable when they’re in transit. In capturing the individual stages of these wanderings, the illustrators often portray locations that&nbsp;have heretofore been either poorly described or unidentified altogether. These non-places,<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a> which sometimes can turn into&nbsp;long, protracted layovers, allow the reader to reconstruct the routes that&nbsp;the migrants took, thus offering them a&nbsp;new perspective on the relationship and interdependence of the global North and South. It’s also a&nbsp;way for&nbsp;artists to advance a&nbsp;different migrant narrative, an alternative to those offered by the media which often omit or mythologize the motives that&nbsp;drive migrants to suddenly and unexpectedly arrive on European shores and instead focus on the problems that&nbsp;their arrival will cause for&nbsp;EU states.</p> <p>The third stage in the journey begins with&nbsp;the arrival of the migrants in their adopted homeland and a&nbsp;description of their initial reactions and emotions accompanying their entrance into&nbsp;a&nbsp;new and unknown reality. This&nbsp;is often the key moment in comic narratives as it marks the beginning of a&nbsp;long and arduous process of integration and rebuilding one’s life and one’s social support network. Comics artists portray a&nbsp;wide variety of adaptation strategies employed by their characters and often depict them struggling with&nbsp;situations that&nbsp;they never had to deal with&nbsp;back home.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2016/14/migracje/362-5640-1-pb-1920x-018.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2016/14/migracje/362-5640-1-pb-330x-997.jpg 330w,assets/cache/images/issues/2016/14/migracje/362-5640-1-pb-660x-330.jpg 660w,assets/cache/images/issues/2016/14/migracje/362-5640-1-pb-768x-3de.jpg 768w,assets/cache/images/issues/2016/14/migracje/362-5640-1-pb-1320x-f8e.jpg 1320w" src="assets/cache/images/issues/2016/14/migracje/362-5640-1-pb-660x-330.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>A common thread—the powerful feeling of alienation—runs through&nbsp;all three stages. As they are detached from&nbsp;their friends and loved ones and ripped from&nbsp;their prior habitat, the migrants are stripped of the basic support provided by their community. Their journey can be described as a&nbsp;shift from&nbsp;what is perfectly familiar to what is completely unknown but&nbsp;unquestioningly imagined as being better. The reality, however, has a&nbsp;way of being very different from&nbsp;what we would want it to be.</p> <p>The arrival in their new home, believed to be <em>the</em> destination of their journey, rarely concludes their wanderings. Immigrants remain forever in a&nbsp;state of suspension between&nbsp;two places. They return to their home countries both figuratively, in their imaginations, and literally. The depiction of the former is possible thanks to the medium’s polychronicity—two panels sitting side-by-side on a&nbsp;single page can easily refer to completely different time periods, and their simultaneous presence on one page allows the reader to simulate the genuine trains of thoughts that&nbsp;naturally coexist in the minds of the migrant characters despite&nbsp;the time shift.</p> <p>Contemporary comics dealing with&nbsp;migration clearly demonstrate that&nbsp;an individual once forced to migrate will forever remain suspended between&nbsp;different locations, as migration is a&nbsp;form of continuous relocation. This&nbsp;particular situation is perfectly illustrated by one of the characters in Alain Gomis’ <em>L’afrance </em>(2001), who tells El Hadj, the main character, a&nbsp;Senegalese man living in Paris: “We’re like&nbsp;flamingos. One leg in the water, the other up in the air. And the wings always ready for&nbsp;flight.” In the scene, El Hadj wanders the streets of Paris at night, desperate and without&nbsp;a&nbsp;safe place to return to. Having no safe haven, no constant point of reference (a place to stay, a&nbsp;family, a&nbsp;job)—also a&nbsp;frequent theme in immigrant narratives—means that&nbsp;for migrants, their stay in Europe translates into&nbsp;a&nbsp;constant search for&nbsp;a&nbsp;way to ensure their own survival, however temporarily.</p> <p>Being always “ready for&nbsp;flight” is later instilled in the children of immigrants, and so on. The next stage in the migrant’s journey, somewhat deferred in time, is the return of the children and grandchildren of immigrants to the countries of their ancestors. Many contemporary authors—those born and raised in Europe—were often inspired to explore themes like&nbsp;migration by the stories of their own families. Their work usually starts with&nbsp;long, detailed conversations with&nbsp;first-generation migrants and concludes with&nbsp;deep dives into&nbsp;state archives and discoveries of individual histories that&nbsp;often force them to rebuild their relationship with&nbsp;the countries that&nbsp;their ancestors hailed from, even if they themselves feel citizens of the countries they were born in and have defined their identity accordingly. Clément Baloup created <em>Quitter Saigon. Mémoire de Viet Kieu, Volume 1 </em>(2006) and <em>Little Saigon. Mémoire de Viet Kieu, Volume 2 </em>(2012) after&nbsp;extensive conversations with&nbsp;his father, a&nbsp;so-called <em>Viet kieu</em>, which is an informal term for&nbsp;French people of Vietnamese extraction. Baloup has portrayed the exodus of Vietnamese fleeing their homes after&nbsp;the First Indochina War and their later immigrant lives. Cyril Perosa’s <em>Portugal </em>(2013) and Jérémie Dres’ <em>We Won’t See Auschwitz</em> (2013) are both examples of this&nbsp;generational deferral that&nbsp;occurs in the memory of migration. Although using different forms of autobiographical narrative—autofiction in Pedrosa’s case, and autobiographical reportage in Dres’—both authors use it as a&nbsp;vehicle for&nbsp;their return to the countries of their grandparents, to seek traces of their pasts, and to ponder the role that&nbsp;these places play in their modern lives.</p> <p>There is one other type of population shift that&nbsp;has been a&nbsp;result of migration, but&nbsp;this type is more figurative, although directly related to the reasons that&nbsp;force people to migrate. Population shifts, in the geographical sense, also imply a&nbsp;social shift. The French historian Gilles Ollivier<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a> discusses this&nbsp;particular subject in detail using the works of Baru, including <em>Les années Spoutnik</em> (1999-2009). Baru portrays the life of Italian factory workers, weaving his narrative around&nbsp;stories and memories of his father, who left Italy for&nbsp;France in the 1950s when the factory he worked in closed. Although for&nbsp;first-generation immigrants upward social mobility was hard or flat-out impossible, immigrants portrayed in Baru’s work hold out hope that&nbsp;their children, born in France, will fare much better in this&nbsp;respect, primarily due to their French citizenship, granted to them on the basis of <em>jus soli</em>.</p> <h2>Comics as a&nbsp;Nomadic Genre</h2> <p>The roads of comics and migration do not diverge—on the contrary, comics have become an excellent vehicle to discuss global population changes and the identity shifts of contemporary nomads, who the natives see as troublemakers, threatening the economic stability and security of their adopted homelands. This&nbsp;is probably one of most important drivers of many authors’ pressing need to craft migrant micronarratives. The stories of some of the characters they create may disprove the media’s one-sided and unambiguous portrayal of the migrant community and depict the reality of their situation from&nbsp;the perspective of the migrants themselves. Using the distinction proposed by Erving Goffman, authors of contemporary comics are trying to shift the emphasis from&nbsp;social identity, defined by a&nbsp;plethora of visible traits (even in the second or third generations), to personal identity, based on the facts of a&nbsp;given individual’s life.<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a></p> <p>Narratives telling the stories of rootless and desperate immigrants are also highly critical of postcolonial societies and their belief in the power of former colonial powers, as well as of the immigration policies of EU member states. By portraying the lives of individual immigrants, comic book authors refuse to push immigrants to the sidelines of society and clearly demonstrate the consequences of putting individuals behind&nbsp;a&nbsp;sort of social “glass door.”</p> <p>What remains is the question of relocation. The essence of migration lies in changing one’s place of residence facilitated by movement—physical passage that&nbsp;allows an individual or a&nbsp;group to relocate from&nbsp;one place to another. Migration, therefore, seems a&nbsp;perfect theme to be explored in comic books, because movement is one of the most common subjects in the medium. Authors can choose from&nbsp;a&nbsp;variety of methods that&nbsp;their predecessors devised over&nbsp;the years, used to denote movement and dynamism in seemingly static comic book panels and combine individual panels into&nbsp;a&nbsp;consistent and logical narrative. Reading the mosaic-like pages of the comic book allows a&nbsp;reader to freely “move” between&nbsp;individual panels, even those that&nbsp;mix different times and spaces. As Scott McCloud claims in<em> Understanding Comics</em>, as they move along&nbsp;the panels and pages, the reader’s eyes transcend the limitations of time.<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a> It is not about&nbsp;infusing individual panels with&nbsp;dynamism, although that&nbsp;is important as it punches up the dramatic nature of the narrative and binds them into&nbsp;a&nbsp;cohesive whole, but&nbsp;rather it is about&nbsp;the whole idea of movement and relocation. In the words of Krzysztof Teodor Toeplitz, comics finds themselves “in motion, because they direct our attention towards&nbsp;ever novel situations and events, forcing us to wait and see how they play out.”<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a> If these situations and events are related to global population shifts, then the concept of movement is broadened to include issues related to movement both in terms of geographical space as well the social and economic mobility of these modern nomads. Thus, comics become a&nbsp;record of these quests and a&nbsp;witness to their wanderings between&nbsp;times, spaces, and deep into&nbsp;their own selves.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>Jeffrey Melnick, Rachel Rubin, <em>Immigration and American Popular Culture. An Introduction</em> (New York: New York University Press, 2007), 3.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Olivier Terrades, “De l'étranger à l'immigré, panorama d'une figure de papier dans la bande dessinée franco-belge (1913-2013),”<em></em>in: M. Vincent, O. Gilles , <em>Albums. Des histoires dessinées entre ici et ailleurs, Bande dessinée et immigration 1913-2013 </em>exhibition catalog (Paris: Musée de l’immigration/ Futuropolis, 2013), 128-135.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>ibid., 128-129.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>ibid., 132.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Baru, <em>Les années Spoutnik </em>(Paris: Casterman, 1999-2009).</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Serguei Dounovetz, Paco Roca,<em> L'ange de la retirada</em> (Montpellier: 6 Pieds Sous Terre éditions, 2010).</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Julio Ribéra,<em> Paris Liberté</em> (Charnay-lès-Mâcon: Bamboo Édition), 2006.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Cyril Pedrosa, <em>Portugalia</em>, trans. W. Birek (Warszawa: timof i cisi wspólnicy, 2013).</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>Halim Mahmoudi, <em>Arabico</em> (Toulon: Soleil Productions, 2009).</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Farid Boudjellal, <em>Le Beurgeois</em>, Soleil Productions, Toulon 1997.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>Farid Boudjellal, <em>Petit Polio</em>, Soleil Productions, Toulon 1998–2002.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Boudjellal’s personal statement, <em>Bulles d'exil</em>, directed by Vincent Marie and Antoine Chosson, 2014.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>Patrick Essono, <em>La Vie de Pahé </em>(Genève: Paquet<em>, </em>2006-2008).</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Christophe N'Galle Edimo, Simon-Pierre Mbumbo, <em>Malamine, un africain à Paris </em>(Vallauris: Les Enfants rouges, 2009).</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>According to data collected by the French organization l’ABCD (Association of Comic Book Critics and Journalists), in 2015, women accounted for 12.4% of all illustrators and 18% of all writers working in the comic book industry. See <em>Rapport sur la production d'une année de bande dessinée dans l'espace francophone européen. 2015: l’année de la rationalisation</em>, <a href="http://www.acbd.fr/wp-content/uploads/2016/01/Rapport-Ratier-ACBD-2015.pdf" target="_blank" rel="noopener">http://www.acbd.fr/wp-content/uploads/2016/01/Rapport-Ratier-ACBD-2015.pdf, accessed September 10, 2016.</a></p>
+<p><a href="http://www.acbd.fr/wp-content/uploads/2016/01/Rapport-Ratier-ACBD-2015.pdf" target="_blank" rel="noopener"></a><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>Marguerite Abouet, Clément Oubrerie, <em>Aya de Yopougon</em> (Paris: Gallimard, 2005-2013).</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>ibid., 4, 16.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>Abirached Zeina, <em>Paris n'est pas une île déserte (</em>2013)<em>. </em>The comic was developed for <em>La France et le Liban</em>, an exhibition organized at the Les Rencontres du 9e comic book festival in Aix-en-Provence. It was also published online on the Cité nationale de l'histoire de l’immigration website as part of the <em>Albums, Des histoires dessinées entre ici et ailleurs. Band dessinée et immigration 1913-2013</em> exhibition: <a href="http://www.histoire-immigration.fr/musee/expositions-temporaires/albums-bd-et-immigration/paris-n-est-pas-une-ile-deserte" target="_blank" rel="noopener">http://www.histoire-immigration.fr/musee/expositions-temporaires/albums-bd-et-immigration/paris-n-est-pas-une-ile-deserte</a>, accessed August 9, 2016.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>ibid., 7.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>ibid., 8.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a>Renaud de Rochebrune, Marguerite Abouet, “Les Ivoiriennes sont moins libres qu’avant,” <em>Jeune Afrique</em>, Jul. 17, 2013, <a href="http://www.jeuneafrique.com/Article/JA2740p106.xml0/" target="_blank" rel="noopener">http://www.jeuneafrique.com/Article/JA2740p106.xml0/</a>, accessed August 9, 2016.<sup></sup></p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>As quoted in: Marie Vincent “Quand la bande dessinée témoigne des migrations: entre autobiographie et reportage,” in: Vincent and Gilles, <em>Albums</em>, 86.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a>Marie Vincent, Olivier Gilles, “D'ici et là-bas: parcours de migrants dans l'univers du 9<sup>e</sup> art,” in: Vincent and Gilles, <em>Albums</em>, 152.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a>ibid., 152.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a>Marc Augé, <em>Non-Places: An Introduction to Supermodernity</em>, trans. J. Howe (London: Verso, 2009).</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a>Gilles Olivier, “Baru. Mémoire(s) d'immigrés ou mémoire ouvrière?” in: Vincent and Gilles, <em>Albums</em>, 46.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a>Erving Goffman,<em> Stigma: Notes on the Management of Spoiled Identity </em>(New York: Touchstone, 1986), 87.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>Scott McCloud, <em>Understanding Comics. The Invisible Art</em> (New York: William Morrow Paperbacks, 1994), 92.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a>Krzysztof Teodor Toeplitz, <em>Sztuka komiksu</em> (Warszawa: Czytelnik, 1985), 109.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/refugees-fugitive-images-memory-in-motion/migrations-and-francophone-comics" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

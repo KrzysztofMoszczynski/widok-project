@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Submissions | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="Przesyłanie tekstów, wytyczne dla autorów, sprawdzenie tekstu przed wysłaniem, prawa autorskie.">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/about/submissions">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Submissions | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="Przesyłanie tekstów, wytyczne dla autorów, sprawdzenie tekstu przed wysłaniem, prawa autorskie.">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Submissions | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="Przesyłanie tekstów, wytyczne dla autorów, sprawdzenie tekstu przed wysłaniem, prawa autorskie.">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/about/submissions">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Submissions | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="Przesyłanie tekstów, wytyczne dla autorów, sprawdzenie tekstu przed wysłaniem, prawa autorskie.">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		
+		
+<style>
+	#header,
+	.form-control,
+	.m-presentation--bgc-issue,
+	.selectric,
+	.selectric-items,
+	.u-typo ul li::before {
+		background-color: #715c56 !important;
+	}
+	
+	.form-control,
+	.selectric {
+		border-color: #715c56 !important;
+	}
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	.m-presentation--audio .m-presentation__caption,
+	.m-presentation--audio .m-presentation__caption * {
+    color: #000 !important;
+  }
+	
+	[data-toggle="popover"],
+	.btn-primary,
+	.c-archive-year,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-title a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-search-results-listheader span,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.sl-wrapper .sl-close,
+	.sl-wrapper .sl-image .sl-caption,
+	.sl-wrapper .sl-navigation button,
+	.c-sitenav__search,
+	.c-subnav li.active span, 
+	.c-subnav a:hover span,
+	.c-team__meta a,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p,
+	.m-presentation__caption,
+	.m-presentation__caption * {
+		color: #715c56 !important;
+	}
+	
+	.c-archive-year span,
+	.c-subnav li.active span, 
+	.c-subnav a:hover span {
+		/*
+		background-image:    -moz-linear-gradient(left, #715c56 0%, #715c56 100%) !important;
+		background-image: -webkit-linear-gradient(left, #715c56 0%, #715c56 100%) !important;
+    background-image:     linear-gradient(to right, #715c56 0%, #715c56 100%) !important;
+		*/
+		border-color: #715c56 !important;
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #715c56 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #715c56 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color:  !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color:  !important;
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    color: #fff !important;
+  }
+}
+</style>
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-4 page-id-295 parent-id-289">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="" data-selected-issue-color="" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/o-nas/dla-autorow">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/o-nas/dla-autorow">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/power-of-women#toc">23</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li class="active">
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li>
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+<section class="m-subnav">
+	<div class="container-fluid">
+		<div class="content-canvas">
+			<div class="c-subnav clearfix">
+				<ul>
+<li>
+	<a href="/en/about/journal-profile" title="Journal profile" ><span>Journal profile</span></a>
+</li>
+<li>
+	<a href="/en/about/editorial-team" title="Editorial Team" ><span>Editorial Team</span></a>
+</li>
+<li>
+	<a href="/en/about/editorial-board" title="Board" ><span>Board</span></a>
+</li>
+<li>
+	<a href="/en/about/our-politics" title="Our Politics" ><span>Our Politics</span></a>
+</li>
+<li class="active">
+	<a href="/en/about/submissions" title="Submissions" ><span>Submissions</span></a>
+</li>
+<li>
+	<a href="/en/about/reviewers" title="Reviews" ><span>Reviews</span></a>
+</li>
+<li class="last">
+	<a href="/en/about/contact" title="Publisher and Contact" ><span>Publisher and Contact</span></a>
+</li>
+
+</ul>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div class="container-fluid">
+		<div class="content-canvas content-canvas--small">
+			<div class="content-canvas__inner">
+				<section class="u-typo">
+	<h2>Online Submissions</h2>
+<p><span>Articles in the .odt, .doc or .docx formats are to be submitted to the e-mail address: </span>redakcja@pismowidok.org.</p>
+<p><span>eel invited to submit articles relevant to the </span><a href="http://pismowidok.org/index.php/one/about/editorialPolicies"><span>journal profile</span></a><span> and meeting the formal requirements stated here. Contributions submitted otherwise, incompatible with the stated editorial standard or not accompanied by necessary attachments will not be accepted.</span></p>
+<p>The editorial team decides on the launch of the peer review process and potential copy editing on the basis of a complete submission. We do not evaluate abstracts or ideas for articles. A positive result of a consultation of such material is not equivalent to accepting an article for publication.</p>
+<p>PLEASE NOTE! Submission of a text is equivalent to consent to its publication regulated by conditions stipulated in the journal’s editorial policy.<br><br></p>
+</section>
+<div class="clearfix"></div><section class="c-collapselist u-typo">
+	<h3 class="c-collapselist__header">Author Guidelines</h3>
+	<ul class="c-collapselist__items">
+		<li class="c-collapselist__item">
+	<a class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseList_2_1" aria-controls="collapseList_2_1" aria-expanded="false">
+		Editing
+	</a>
+	<div class="c-collapselist__content collapse" id="collapseList_2_1">
+		<div class="c-collapselist__content-inner">
+			<p>We welcome papers 4400 words to 8800 words in length. As for reviews (section “Snapshots”) the length of an article should not exceed 4400 words.</p>
+<p><b>Format</b>: font Times New Roman, 12, line spacing 1,5, justified.</p>
+<p><b>Titles<span> </span></b>of films and texts should be italicised with an exception of journals’ titles: regular font in quotation marks.</p>
+<p>Expressions in foreigns languages as well as emphasis should be italicised.</p>
+<p>Where available, <b>URL</b>s for the references have been provided.</p>
+<p><b>Footnotes<span> </span></b><span><a href="https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html" target="_blank" rel="noopener">https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html</a></span></p>
+<p></p>
+		</div>
+	</div>
+</li><li class="c-collapselist__item">
+	<a class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseList_2_2" aria-controls="collapseList_2_2" aria-expanded="false">
+		Attachments to articles
+	</a>
+	<div class="c-collapselist__content collapse" id="collapseList_2_2">
+		<div class="c-collapselist__content-inner">
+			<p><span>In addition to the article, the submission is to include:</span></p>
+<ul>
+<li><span>Short biographical note (max. 400 characters): name and surname of the author / authors, e-mail address, academic degree, place of employment / affiliation, research interests, latest publications, potentially a link to an online biographical note;</span></li>
+<li><span>Abstract of the article (max. 1000 characters): general description of the problematic addressed in the text, adopted research methodology and main arguments;</span></li>
+<li><span>Keywords;</span></li>
+<li><span>Bibliography (list of quoted publications according to</span><span> </span><a href="https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html" target="_blank" rel="noopener"><span>the Chicago Manual of Style</span></a><span>);</span></li>
+<li><span>Illustrations with indicated sources / copyright owners.</span></li>
+</ul>
+		</div>
+	</div>
+</li><li class="c-collapselist__item">
+	<a class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseList_2_3" aria-controls="collapseList_2_3" aria-expanded="false">
+		Illustrations
+	</a>
+	<div class="c-collapselist__content collapse" id="collapseList_2_3">
+		<div class="c-collapselist__content-inner">
+			<p><span>Authors submitting illustrations are to indicate illustration copyright owners and conditions of consent to publication.</span></p>
+<p><b>Illustrations<span> </span></b><span>should be signed according to the following example: William Hernett, </span><em>The Artist’s Letter Rack</em><span>, 1879. Oil on canvas. The Metropolitan Museum of Art, New York</span></p>
+		</div>
+	</div>
+</li><li class="c-collapselist__item">
+	<a class="c-collapselist__toggle" role="button" data-toggle="collapse" href="#collapseList_2_4" aria-controls="collapseList_2_4" aria-expanded="false">
+		Submission Preparation Checklist
+	</a>
+	<div class="c-collapselist__content collapse" id="collapseList_2_4">
+		<div class="c-collapselist__content-inner">
+			<p><span>As part of the submission process, authors are required to check off their submission's compliance with all of the following items, and submissions may be returned to authors that do not adhere to these guidelines.</span> </p>
+<ul>
+<li>The submission has not been previously published, nor is it before another journal for consideration (or an explanation has been provided in Comments to the Editor).</li>
+<li>The submission file is in OpenOffice or Microsoft Word document file format.</li>
+<li>The text is single-spaced; uses a 12-point font; employs italics, rather than underlining (except with URL addresses); and all illustrations, figures, and tables are placed within the text at the appropriate points, rather than at the end.</li>
+<li><span>Articles are accompanied by all necessary attachments (biographical note and abstract, keywords, bibliography according to </span><a href="https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html" target="_blank" rel="noopener"><span>the Chicago Manual of Style</span></a> <span>and illustrations if submitted).</span></li>
+</ul>
+		</div>
+	</div>
+</li>
+	</ul>
+</section>
+			</div>
+		</div>
+	</div>
+</section>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+</body>
+</html>

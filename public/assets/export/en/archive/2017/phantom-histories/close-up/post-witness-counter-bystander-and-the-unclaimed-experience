@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Post-witness, counter-bystander and the (unclaimed) experience | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/post-witness-counter-bystander-and-the-unclaimed-experience">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Post-witness, counter-bystander and the (unclaimed) experience | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Post-witness, counter-bystander and the (unclaimed) experience | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/post-witness-counter-bystander-and-the-unclaimed-experience">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Post-witness, counter-bystander and the (unclaimed) experience | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #9c9c53 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #9c9c53 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #9c9c53 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #9c9c53 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #9c9c53 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #9c9c53 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #9c9c53 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #9c9c53 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(156,156,83,0.8) !important; */
+			/* background-color:#9c9c53 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(156,156,83,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#9c9c53 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(156,156,83,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#9c9c53; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(156,156,83,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(156,156,83,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#9c9c53 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#9c9c53 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#9c9c53 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-613 parent-id-583">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="581" data-selected-issue-color="#9c9c53" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2017/historie-fantomowe/poswiadek-przeciw-postronny-i-niczyja-trauma">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2017/historie-fantomowe/poswiadek-przeciw-postronny-i-niczyja-trauma">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/phantom-histories#toc">18</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/post-witness-counter-bystander-and-the-unclaimed-experience?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Post-witness, counter-bystander and the (unclaimed) experience</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/post-witness-counter-bystander-and-the-unclaimed-experience?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=399">Roma Sendyka</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Łukasz Mojsak 
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p><em>Postcards</em>, <em>MapL</em>, <em>Smoke</em>, <em>T.turn</em>, <em>Apple T.</em>, <em>Uhuuuu</em>, <em>Why in this&nbsp;Basement</em>, and <em>Nacht und Nebel</em>: these short films only last several minutes each and their titles fail to suggest any leitmotif. Only the last one may perhaps briefly bring to mind a&nbsp;specific historical context, hinting at a&nbsp;distant era and a&nbsp;genocidal ideology. I&nbsp;would like&nbsp;to consider this&nbsp;selection of films, presented in the above-stated running order by the curator of the cycle <em>Trauma and Revival</em>,<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a> as a&nbsp;particular kind of “cinema-installation”. It is shown to the public in a&nbsp;different space and in different conditions than&nbsp;is usually the case with&nbsp;works by Mirosław Bałka. The screening space and the objects that&nbsp;surround the videos are usually arranged with&nbsp;precision. The paths followed by the viewer are normally pre-meditated, as is the light which will make viewing easier, or on the contrary –&nbsp;distorts it, and the screens to project the footage: the films are conceived as <em>video-sculptures</em>. In this&nbsp;case, the circumstances in which a&nbsp;relationship emerges between&nbsp;the viewers and the work are conventional and familiar: we are watching a&nbsp;series of films, the entire screening lasts merely half an hour, and it has a&nbsp;beginning and an end.<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> The conditions for&nbsp;encountering the work are exceptionally user-friendly: the viewer –&nbsp;motionless, safe –&nbsp;may tap into&nbsp;the privilege of a&nbsp;cinemagoer’s anonymity and exercise their right to gain insight into&nbsp;a&nbsp;different reality without&nbsp;facing up to personal consequences. Yet, such a&nbsp;position is the very thing that&nbsp;they will be forced to rethink in the coming minutes.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/poswiadek/512-7033-1-pb-1920x-c92.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/poswiadek/512-7033-1-pb-330x-c73.jpg 330w,assets/cache/images/issues/2017/18/poswiadek/512-7033-1-pb-660x-591.jpg 660w,assets/cache/images/issues/2017/18/poswiadek/512-7033-1-pb-768x-c4f.jpg 768w,assets/cache/images/issues/2017/18/poswiadek/512-7033-1-pb-1320x-ce4.jpg 1320w" src="assets/cache/images/issues/2017/18/poswiadek/512-7033-1-pb-660x-591.jpg" alt="" ></a>    <figcaption><p><em>Postcards</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Although such well-known works by the artist as <em>Winterreise</em> (2003), <em>Carrousel</em> (2004) and <em>BlueGasEyes</em> (2004) are missing from&nbsp;the selection, it is easy to predict the Holocaust context of the cycle. I&nbsp;am referring not only to the strong presence of this&nbsp;theme in Bałka’s works since&nbsp;at least 1995,<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a> when the artist exhibited <em>Soap Corridor<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a></em>at the Zachęta National Gallery of Art in Warsaw, but&nbsp;specifically to the “orientation signs”, hints for&nbsp;those who are viewing the cycle without&nbsp;a&nbsp;reference to the sculptor’s exhibitions. The minimalist, nearly monochrome aesthetics (although only <em>T.turn</em> and <em>Postcards</em> are clearly black and white, the technique used in the other films is difficult to determine immediately) proposes a&nbsp;frame that&nbsp;automatically sends the viewer back to the past, while scattered tropes, located here and there in the visual field, organise cognitive work. Insofar as multiple viewing of the still shots in <em>Postcards</em> fails to explain anything –&nbsp;we do not know where we are, what is this&nbsp;place? –&nbsp;the next film allows us to determine the <em>location</em>: the camera pans over&nbsp;a&nbsp;map close to the paper, as if imitating extreme short-sightedness –&nbsp;we pass streets named Lipowa, Buczka, and finally we catch a&nbsp;glimpse of Martyrs of M... Road. Further reading is prevented by a&nbsp;large, irregular dark shape captured by the camera. We will follow the same route again seven times.<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a> We do not know much, but&nbsp;we can resort to guesswork: we are near&nbsp;“a site of martyrdom whose name begins with&nbsp;M”, in a&nbsp;city whose name begins with&nbsp;L. Majdanek, Lublin.</p> <p>The “cinema-installation” begins with&nbsp;<em>Postcards </em>(2008), a&nbsp;landscape study, as it were, made up of wide shots of “postcards”. It then goes on to introduce the medium of the map (in the work <em>MapL –&nbsp;</em>1999/2010) which embraces the “image of the land” within&nbsp;a&nbsp;symbolic frame, and provides the city names and sets the distances, defining the “setting”. We thus realise that&nbsp;the videos are all set in a&nbsp;certain specific world where we may encounter such streets as Lipowa, Buczka, and Męczenników. The <em>here</em> is Poland, even though the minimalist and austere images may initially appear to form part of a&nbsp;universal narrative. The following&nbsp;work –&nbsp;<em>Smoke </em>(2012/2013) –&nbsp;surrounds the viewer with&nbsp;smoke: greenish, light, billowing against&nbsp;the background of the dark sky. Although the brighter sections of this&nbsp;unquestionably beautiful image seem to float like&nbsp;the northern lights, our thoughts return to the dark shape of M. from&nbsp;the map. <em>Smoke</em>. The word itself triggers a&nbsp;series of associations: <em>smoke over&nbsp;Birkenau</em> –&nbsp;smoke over&nbsp;M. –&nbsp;over&nbsp;Majdanek: “On 3 November 1943 billows of <em>smoke</em> travelled in the direction of Lublin, the <em>sky</em> turned black...”.<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a></p> <p>In a&nbsp;world covered by billows of smoke to the extent that&nbsp;one cannot be sure of what has caused darkness –&nbsp;is it the time of day or the amount of smoke? –&nbsp;we try to discern something, turning and looking around: the effect is a&nbsp;spinning vision, akin to an attack of vertigo. Bits of conversation reach the viewer, someone is speaking in Hebrew. A&nbsp;forest, a&nbsp;meadow, a&nbsp;group of people, the sky, is that&nbsp;a&nbsp;bird flying by? This&nbsp;is <em>T.turn </em>(2004). <em>Turn in T. </em>Images captured in postcards from&nbsp;the first film begin to connect with&nbsp;a&nbsp;specific space, and with&nbsp;a&nbsp;journey between&nbsp;places. From&nbsp;M. to T. From&nbsp;Majdanek to... Treblinka. Of course.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/poswiadek/512-7031-1-pb-1920x-c92.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/poswiadek/512-7031-1-pb-330x-c73.jpg 330w,assets/cache/images/issues/2017/18/poswiadek/512-7031-1-pb-660x-591.jpg 660w,assets/cache/images/issues/2017/18/poswiadek/512-7031-1-pb-768x-c4f.jpg 768w,assets/cache/images/issues/2017/18/poswiadek/512-7031-1-pb-1320x-ce4.jpg 1320w" src="assets/cache/images/issues/2017/18/poswiadek/512-7031-1-pb-660x-591.jpg" alt="" ></a>    <figcaption><p><em>MapL</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p><em>Apple T.</em> (2009/2010) is a&nbsp;film in which the frame is filled by an apple tree from&nbsp;T. (the apple tree grows on railway tracks, and we become more and more skilled at reading the traces: there is already no doubt that&nbsp;camp T., Treblinka, is the one in question) and it keeps the viewer, for&nbsp;a&nbsp;moment, in the same place where <em>T.turn </em>is set<em>.</em> The temporal distance between&nbsp;the two works (five years) introduces a&nbsp;rhythm of returns in the cinema-installation –&nbsp;this&nbsp;is important, I&nbsp;believe, in the search for&nbsp;a&nbsp;general meaning for&nbsp;the projection. The one who looks, the one who films, is not a&nbsp;one-off visitor to post-camp sites<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a>; s/he does not “collect” Holocaust landscapes or museums built on the premises of former death camps. His/her movement between&nbsp;these places means something else.</p> <p>The anxiety and shakiness of <em>T.turn </em>stands in contrast to the stillness of <em>Apple T.</em> The vitality and fertility (fruit hanging from&nbsp;the branches) of the filmed organism inspire ambivalent feelings: has life won? Is the fact of hundreds of thousands of dead supposed to be represented by the vitality of vegetation? The next film engages with&nbsp;the same question of how to assess the biological status of life in an area “contaminated by death”. <em>Uhuuuu </em>(2006) records life that&nbsp;has found a&nbsp;home at a&nbsp;crematorium. A&nbsp;tawny owl heard by the crematorium grates at Majdanek is reminiscent of a&nbsp;ghostly echo from&nbsp;another world or the mocking noise of kids’ games played amidst the furnaces: you choose. The camera seems to be frozen in disbelief as to what is happening right in front of it. The projection loop sends us back to the bright square of the window, to the bird’s chirping, nine times.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/poswiadek/512-7029-1-pb-1920x-c92.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/poswiadek/512-7029-1-pb-330x-c73.jpg 330w,assets/cache/images/issues/2017/18/poswiadek/512-7029-1-pb-660x-591.jpg 660w,assets/cache/images/issues/2017/18/poswiadek/512-7029-1-pb-768x-c4f.jpg 768w,assets/cache/images/issues/2017/18/poswiadek/512-7029-1-pb-1320x-ce4.jpg 1320w" src="assets/cache/images/issues/2017/18/poswiadek/512-7029-1-pb-660x-591.jpg" alt="" ></a>    <figcaption><p><em>Smoke</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p>A human voice –&nbsp;this&nbsp;time Polish -&nbsp;can be heard, reaching us again only towards&nbsp;the end of the projection. In the following&nbsp;video we look into&nbsp;the dark abyss of a&nbsp;basement, reached via&nbsp;a&nbsp;raised trapdoor in the floor. A&nbsp;spotlight floods the opening with&nbsp;light, yet it is unable to pierce the darkness inside. A&nbsp;vehemently articulated reproach can be heard: “Why didn’t you hide Jews in this&nbsp;basement?” –&nbsp;and it now becomes clear who the “I” of this&nbsp;cycle is: the one who looks and talks is not a&nbsp;peer of those who witnessed the Holocaust. Whatever we have seen before&nbsp;is not archival footage or a&nbsp;simulation of a&nbsp;historical image, it is an image that&nbsp;originates “from now”. Yet, the cinema-installation does not conclude with&nbsp;that explicit reproach: there is still <em>Nacht und Nebel</em> (2014) –&nbsp;the only film with&nbsp;an overtly “war-like” title,<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> which echoes Bałka’s typical “peculiar lesson of German”.<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a> The image is blurred, unclear light patches hurt the eyes -&nbsp;are we near&nbsp;a&nbsp;forest? There is smoke, again, which separates us from&nbsp;it. Is it fog? The impossibility of recognising, a&nbsp;lack of knowledge, and doubt and disorientation: this&nbsp;is what we are left with.</p> <h2>Post-Witness</h2> <p>Considering the film cycle as a&nbsp;cinema-installation, I&nbsp;combine the positions from&nbsp;which the shots were taken and ascribe them to one subject: a&nbsp;single one but&nbsp;not necessarily individual, as will be discussed further. Who is the one who looked? Why did their eyes focus on those very images? Why did they sometimes stare at us while at other times they looked around? What were they able to notice?</p> <p>“I make pilgrimages to such places as Majdanek, Auschwitz, Treblinka and I&nbsp;film. I&nbsp;believe that’s what I&nbsp;need to do as a&nbsp;‘post-witness’”<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a> –&nbsp;explained the artist in an interview around&nbsp;the time when the above&nbsp;discussed films came into&nbsp;being. The one who looks at the films in the cycle also travels between&nbsp;the camps, between&nbsp;Majdanek and Treblinka, and therefore indeed makes a&nbsp;“pilgrimage”: they can therefore become the very “post-witnesses” Bałka mentioned.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/poswiadek/512-7027-1-pb-1920x-455.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/poswiadek/512-7027-1-pb-330x-f8f.jpg 330w,assets/cache/images/issues/2017/18/poswiadek/512-7027-1-pb-660x-9fb.jpg 660w,assets/cache/images/issues/2017/18/poswiadek/512-7027-1-pb-768x-b05.jpg 768w,assets/cache/images/issues/2017/18/poswiadek/512-7027-1-pb-1320x-322.jpg 1320w" src="assets/cache/images/issues/2017/18/poswiadek/512-7027-1-pb-660x-9fb.jpg" alt="" ></a>    <figcaption><p><em>T.turn</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Who is a&nbsp;“post-witness”? In Poland, we encounter a&nbsp;major problem with&nbsp;specifying the meaning of this&nbsp;term<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a> and I&nbsp;would like&nbsp;to consider Bałka’s practice as a&nbsp;voice in the ongoing debate. In the Polish translation of Raul Hilberg’s book,<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a> the word “świadek” (witness) was used to refer to a&nbsp;“bystander” to describe the members of the “community that&nbsp;complements” the stage of Holocaust violence, where the perpetrator dominates over&nbsp;the victim. Giorgio Agamben however, in his powerful meditation on the figure of the “witness” made us see that&nbsp;person as someone who “has lived through&nbsp;something”,<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a> a&nbsp;survivor (they would then be a&nbsp;super-witness, <em>superstes</em>), or “the person who, in a&nbsp;trial or lawsuit between&nbsp;two rival parties, is in the position of a&nbsp;third party (<em>terstis</em>)”.<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a> Therefore, in the global Holocaust vocabulary “witness” refers predominantly to “victims”, not bystanders. Polish usage of the term “witness” could be explained by the supposition that&nbsp;the local population was a&nbsp;“impartial third party”. This&nbsp;claim, however, proves dysfunctional in the context of wartime Poland: the potential local <em>terstes</em> –&nbsp;the community that&nbsp;surrounded the perpetrators and their victims –&nbsp;were not “neutral enough”<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a> to adopt the post-war function of a&nbsp;“lawsuit” witness. They were implicated in the conflict, they feared the same violence that&nbsp;was experienced by the most exposed community; they sometimes supported those who “managed to survive”, at other times –&nbsp;quite the opposite&nbsp;–&nbsp;they made the aggressor’s actions possible, they helped the aggressor, and they profited from&nbsp;the results of the aggressor’s activity. Beneficiaries? Facilitators?<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a> “Helpers of death”?<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a> “Initiated observers”?<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a> Rescuers? Whoever appeared on the stage of violence inevitably co-created it –&nbsp;can we therefore talk at all about&nbsp;a&nbsp;neutral person -&nbsp;a&nbsp;<em>terstis</em> -&nbsp;in a&nbsp;genocide context?</p> <p>Bałka’s declaration, in which the artist presents himself as an heir to the “witnesses,” compels us to ask a&nbsp;question about&nbsp;this sort of basic reference. Would Bałka’s post-witness therefore be a&nbsp;successor to the survivors (<em>post</em>-<em>super-stes</em>): witnesses in the universal understanding of the now globalised knowledge of the Holocaust? Or an heir to the bystanders in the particular Polish understanding, i.e. the descendant of the “third party”? If the latter is the case, what bystanders do we mean: those scarce bystanders who <em>stood by</em> the victims? Or those who claim their witness status in an attempt to divert attention from&nbsp;their alliances with&nbsp;the perpetrator? Or those who now, belatedly, “reclaim their position as an eyewitness to the Holocaust”?<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a> Or someone else?</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/poswiadek/512-7025-1-pb-1920x-455.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/poswiadek/512-7025-1-pb-330x-f8f.jpg 330w,assets/cache/images/issues/2017/18/poswiadek/512-7025-1-pb-660x-9fb.jpg 660w,assets/cache/images/issues/2017/18/poswiadek/512-7025-1-pb-768x-b05.jpg 768w,assets/cache/images/issues/2017/18/poswiadek/512-7025-1-pb-1320x-322.jpg 1320w" src="assets/cache/images/issues/2017/18/poswiadek/512-7025-1-pb-660x-9fb.jpg" alt="" ></a>    <figcaption><p><em>Apple T</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p>The first film in the cinema-installation that&nbsp;allows one to speculate about&nbsp;the identity of the post-witness is <em>Postcards</em>. We are shown twelve slides, black and white, nearly indistinguishable, with&nbsp;generic winter-time images of a&nbsp;rural landscape: buildings visible in the distance, sometimes dirt roads, sometimes clumps of trees. The photographs move back and forth in front of our eyes –&nbsp;the video runs uninterrupted, yet the principle of the repetition is peculiar: the circular form of the projection, typical of this&nbsp;cinema-installation (and many other of Bałka’s works) is absent, the returns occur somewhat to the rhythm of a&nbsp;pendulum. Back –&nbsp;and forth; back –&nbsp;and forth. Thus, the viewer is captured in a&nbsp;space between&nbsp;point 1 (rural buildings in the background, a&nbsp;pole and power lines in the foreground) and point 12 (a dirt road with&nbsp;buildings in the distance, nearly unrecognisable). The images bear a&nbsp;resemblance to familiar views from&nbsp;the window of a&nbsp;train on a&nbsp;journey through&nbsp;central Poland: a&nbsp;monotonous landscape, overcast sky, no hills in sight. The shots are strikingly similar to those filmed by Andrzej Brzozowski in the opening section of one of the most shocking Polish films about&nbsp;the Holocaust. The thirteen-minute-long piece <em>By the Railway Track </em>(<em>Przy torze kolejowym</em>, 1963), based on a&nbsp;story by Zofia Nałkowska from&nbsp;her collection <em>Medallions</em>, begins with&nbsp;a&nbsp;sequence of nearly identical landscapes seen from&nbsp;the window of a&nbsp;train. In Bałka’s work, the views change rhythmically more or less every two seconds, while the silent sound of the image recording device underscores the nearly regular rhythm, which in Brzozowski’s film was determined by the clatter of train wheels. The views in<em> By the Railway Track</em> and <em>Postcards</em> share the same light, the same distance between&nbsp;the observer and the horizon and the same objects in the field of vision.</p> <p>It is not only <em>Postcards</em>, but&nbsp;also<em> Smoke</em> and <em>Nacht und Nebel</em> –&nbsp;two films in which we gaze at blurred outlines in the dark –&nbsp;that&nbsp;may suggest the point of view of the victims, the “true witnesses”.<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a> Does it therefore mean that&nbsp;Bałka’s post-witness simulates the victim’s position? Does he permit an idiopathic overlap between&nbsp;the consciousness of the victims and his own consciousness in an act that&nbsp;cancels out the difference of experience? Or is it rather a&nbsp;more indirect gesture: “the one who comes later” attempts to come closer to the original traumatic event, yet he stops “at a&nbsp;safe distance” –&nbsp;where only smoke can be seen? Objects seen from&nbsp;afar? Beyond&nbsp;doubt, the one who looks in Bałka’s works is someone who “keeps his/her distance”. It now becomes clear that&nbsp;a&nbsp;critical analysis of Poland’s post-Holocaust society, as pursued by the artist, has nothing in common with&nbsp;the naive and dangerous hyper-identification with&nbsp;the sublimated victim: it is contemporary and it pertains to today’s observers. “You are talking about&nbsp;the present”, says Zygmut Bauman diagnosing Mirosław Bałka’s work in a&nbsp;conversation from&nbsp;2011; “at the centre of your art you situate the viewer”.<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a> It is only a&nbsp;“post-Holocaust” observer who can see the apple tree growing on Treblinka’s railway tracks, the crematorium at Majdanek turned into&nbsp;a&nbsp;museum, and only he or she may study a&nbsp;map with&nbsp;a&nbsp;street called Martyrs of M... marked on it. Even <em>Postcards</em>, coming so dangerously close to the views that&nbsp;could be seen by the victims, clearly differs from&nbsp;the images from&nbsp;Brzozowski’s film. In <em>By the Railway Track</em>, the observer is separated from&nbsp;the landscape by tangles of barbed wire. In Bałka’s work, the passenger on the train and the winter landscape are separated by a&nbsp;not entirely transparent window pane.<br><br></p> <h2>Bystander and counter-bystander</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/poswiadek/512-7023-1-pb-1920x-455.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/poswiadek/512-7023-1-pb-330x-f8f.jpg 330w,assets/cache/images/issues/2017/18/poswiadek/512-7023-1-pb-660x-9fb.jpg 660w,assets/cache/images/issues/2017/18/poswiadek/512-7023-1-pb-768x-b05.jpg 768w,assets/cache/images/issues/2017/18/poswiadek/512-7023-1-pb-1320x-322.jpg 1320w" src="assets/cache/images/issues/2017/18/poswiadek/512-7023-1-pb-660x-9fb.jpg" alt="" ></a>    <figcaption><p><em>Uhuuuu</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p>Nevertheless, Bałka’s strategy may be even more complex. “The fact that&nbsp;we live in a&nbsp;post-Holocaust world is understood to compel us to deal with&nbsp;Holocaust memory, and to account for&nbsp;the ways in which the Holocaust has touched us either directly or indirectly” –&nbsp;wrote Jill Bennet in her analysis of the relations between&nbsp;art and traumatic experience.<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a> Bałka takes on this&nbsp;challenge in his own unique way: he neither follows a&nbsp;representational script of the traumatic event nor does he seek opportunities to reveal an affect built around&nbsp;the source event; he also does not intend to use “art as therapy or exorcism”<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a>. Rejecting the path of representation, emotion and redemption, Bałka implements a&nbsp;strategy that&nbsp;could be described as “investigative” or analytical, and which consists at the practical level in scanning reality in search of “signs” left after&nbsp;the Holocaust: “Isn’t our generation supposed to ask the very question: is the touch of evil infectious? Does it leave a&nbsp;trace in people and things? What is this&nbsp;material world after&nbsp;the Holocaust in which there no longer seem to be any innocent objects, any homely objects?”<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a> –&nbsp;asked the artist. In this&nbsp;sense, he taps into&nbsp;the medium of art in order to engage in the same work as the authors of the volume <em>Ślady Holokaustu w&nbsp;imaginarium kultury polskiej </em>(Traces of the Holocaust in the Imaginarium of Polish Culture, 2017), who actually openly borrow inspiration from&nbsp;what he practices<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a>: “We were looking for&nbsp;discursive, performative and visual signs that&nbsp;would refer to the Holocaust on the one hand, while relating to the everyday dimension of life on the other hand”<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a> –&nbsp;they declared. From&nbsp;the artist’s perspective, such activity appears trivial: “When I&nbsp;make films, I&nbsp;use the camera as a&nbsp;hoover. I&nbsp;take it to different places, collect dirt and dust, I&nbsp;clean. Later, I&nbsp;come back home and spill everything from&nbsp;the hoover onto&nbsp;a&nbsp;big clean table. And I&nbsp;begin to rummage in the dirt”.<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a></p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/poswiadek/512-7021-1-pb-1920x-455.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/poswiadek/512-7021-1-pb-330x-f8f.jpg 330w,assets/cache/images/issues/2017/18/poswiadek/512-7021-1-pb-660x-9fb.jpg 660w,assets/cache/images/issues/2017/18/poswiadek/512-7021-1-pb-768x-b05.jpg 768w,assets/cache/images/issues/2017/18/poswiadek/512-7021-1-pb-1320x-322.jpg 1320w" src="assets/cache/images/issues/2017/18/poswiadek/512-7021-1-pb-660x-9fb.jpg" alt="" ></a>    <figcaption><p><em>Why in this&nbsp;Basement...</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p>“Rummaging” activates the “ossified sediment of memory”, bringing the viewers to the “eye of the cyclone”, “it positions, corners, overpowers and paralyses [them]”.<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a> “Rummaging” in images abounds in a&nbsp;specific kind of excess: the observer makes numerous “pilgrimages”, gazes piercingly, rearranges the “postcards” back and forth, repeats the images, views the sequences over&nbsp;and over, as if they wanted to extract something from&nbsp;beyond the image, conjure, discern. They want to force the visual field to surrender, to reveal the facts. However, manifested through&nbsp;a&nbsp;looped projection, the multiplicity of such gestures suggests that&nbsp;this work is performed in vain.</p> <p>The gesture of demanding from&nbsp;the image, landscape, objects, interiors that&nbsp;they unveil the past&nbsp;may bear testimony to the fact that&nbsp;the observer has no other partners to discuss the memory of the Holocaust. Fields, trees, and smoke are interrogated because the predecessors of the post-witness stay mute (today as well as decades ago). “Why in this&nbsp;basement didn’t you hide Jews?” –&nbsp;repeated many times, the question falls dully in the abyss of the cellar, and remains unanswered. The post-witness is therefore not an heir to the memory of bystanders in the same successive and absorptive way in which the “post-memory” generation, the children of Holocaust survivors, inherit from&nbsp;their parents. The post-witness does not absorb the disturbing signs of the past&nbsp;through family relations and practices: they distil them with&nbsp;a&nbsp;conscious volitional gesture “from the world” since&nbsp;their relatives refuse to communicate. In this&nbsp;sense –&nbsp;as is emphatically expressed in the video <em>Why in this&nbsp;Basement...</em> –&nbsp;they appear not as their successor but&nbsp;as their verifier: the post-witness is a&nbsp;“counter-bystander” in a&nbsp;similar sense to Michael Rothberg’s “counterpublic witness” who opposed the silence with&nbsp;which society shrouded colonial issues in the post-war years.<a href="#sdfootnote29sym" name="sdfootnote29anc"><sup>29</sup></a></p> <p>By revealing what the post-witness sees, the camera delivers a&nbsp;counter-testimony. It is actually not worth much –&nbsp;as is plain to see –&nbsp;it does not see too much, the frame (besides <em>Postcards</em>) is usually radically narrowed, the captured image is unclear, blurred. Bałka does not allow an illusion of unmediated vision to form: something is always stuck between&nbsp;the eye and the object, some kind of obstacle, a&nbsp;piece of dirt, a&nbsp;crack, a&nbsp;stain on the camera lens, a&nbsp;hazy window pane. The technique chosen to produce the discussed videos serves to ostentatiously define the post-witness as a&nbsp;subject that&nbsp;does not see “enough” and whose vision is imperfect and fragmentary, as an infirm observer forced to use machines and prostheses to support their sense of sight. The post-witness also always sees “too little”, they gaze, try to correct their focus, constantly mapping the field of vision anew: the looped films produce a&nbsp;feeling of obstinacy, tenacity, all the way through&nbsp;to frustration. Reality needs to surrender; only then may it reveal what was happening here seventy years ago. Yet this&nbsp;demand obviously remains unsatisfied. The observer in Bałka’s films is essentially brimming with&nbsp;an overwhelming desire to come closer to the past&nbsp;experience of violence and to take an ethical stance (such an approach validates the name “post-witness”,<a href="#sdfootnote30sym" name="sdfootnote30anc"><sup>30</sup></a> as opposed to a&nbsp;post-bystander, who would wish to escape the necessity of moral self-evaluation), coupled with&nbsp;the thematised impossibility of implementing such a&nbsp;plan.</p> <p>The disturbance of the field of vision in the artist’s films lends itself to clarification not only as an act of <em>individual</em> failure, but&nbsp;also as a&nbsp;manner of consciously shaping statements in the public space. Defacements, blurs, anxiety and gazing at the hazy images can therefore be understood as a&nbsp;gesture of resistance to belief –&nbsp;dominant in the public space –&nbsp;in the aptness of rational-critical dialogue pursued in a&nbsp;common transparent and comprehensible language. The post-witness as a&nbsp;“counter-bystander” challenges the status quo with&nbsp;the risky bizarreness of “rustlings, lumps and pathways”,<a href="#sdfootnote31sym" name="sdfootnote31anc"><sup>31</sup></a> s/he undermines the supposed neutrality and transparency of what fills the space between&nbsp;us in the world following&nbsp;the Holocaust. “Dirt” is everywhere: the sediment from&nbsp;“that time” has remained. We have merely grown accustomed to not noticing it. Bałka’s camera captures, records and shows it to the viewer.</p> <p>Bałka situates “the one who looks” in his video works in an ambivalent space between&nbsp;the victim (smoke, views from&nbsp;the train) and the desire to develop a&nbsp;kinship with&nbsp;their heirs (in <em>T.turn</em> he eavesdrops on Israeli youths at Treblinka, the camera movement bearing a&nbsp;striking resemblance to an attack of vertigo or a&nbsp;swoon, as if one’s sensations were too strong) and –&nbsp;at the other extreme –&nbsp;with&nbsp;the heirs of the “uninformed” (the clumsy search for&nbsp;directions in <em>MapL</em>., the reproach shouted out in <em>Why in this&nbsp;Basement…</em>). The identity of the post-witness is therefore uncertain. What is more certain is his/her location between&nbsp;the towns of M. and T., somewhere near&nbsp;the railway line, in the middle of a&nbsp;cold, empty landscape. The looped images, loops and tides, suggest that&nbsp;there is no exit from&nbsp;this world. But&nbsp;who is the viewer of these images? In particular, the viewer of the cinema-installation? Projected on the cinema screen, Bałka’s videos affect the audience in a&nbsp;different way than&nbsp;the same works exhibited in the form of video-sculptures. In the gallery, the viewer is in motion, illuminated by the light; they openly face the evidence presented to them, the splinters of the Holocaust. They cannot hide in the dark and pretend that&nbsp;the exclaimed question “Why didn’t you hide Jews in this&nbsp;basement?” is not addressed to them as well. They can leave at any moment and individually dose themselves with&nbsp;exposure to the video (the works in question are always looped in the exhibitions –&nbsp;they can theoretically be viewed for&nbsp;any desired duration, even for&nbsp;very long). The participant in the cinema-installation could, in turn, tap into&nbsp;the privilege of the cinema viewer: the possibility of unpunished voyeurism, the secretive experience of pleasure, anonymity and passivity. The central energy accumulated in Bałka’s videos is invested in attacking such a&nbsp;position –&nbsp;attacking those who kept themselves “out of the frame” in the past&nbsp;and continue to do so now, refusing to accept responsibility for&nbsp;what happened between&nbsp;M. and T.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/18/poswiadek/512-7019-1-pb-1920x-455.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/18/poswiadek/512-7019-1-pb-330x-f8f.jpg 330w,assets/cache/images/issues/2017/18/poswiadek/512-7019-1-pb-660x-9fb.jpg 660w,assets/cache/images/issues/2017/18/poswiadek/512-7019-1-pb-768x-b05.jpg 768w,assets/cache/images/issues/2017/18/poswiadek/512-7019-1-pb-1320x-322.jpg 1320w" src="assets/cache/images/issues/2017/18/poswiadek/512-7019-1-pb-660x-9fb.jpg" alt="" ></a>    <figcaption><p><em>Nacht und Nebel</em></p></figcaption>   </figure>  </section><section class="u-typo">   <p>On the other hand, a&nbsp;viewer who watches the artist’s works at the cinema is under&nbsp;a&nbsp;much stronger obligation to remain in contact with&nbsp;the image. They cannot shape the form, pace and duration of the interaction with&nbsp;the artwork as freely as in the gallery space. By leaving the screening before&nbsp;the end of the projection, before&nbsp;the lights go on and “publicly reveal” the viewers, they can potentially escape the obligation to offer an engaged reply –&nbsp;in this&nbsp;sense, the change in the presentation format is burdened with&nbsp;a&nbsp;major risk –&nbsp;yet such a&nbsp;possibility is diminished by the manner in which Bałka operates with&nbsp;the traumatic in his videos.</p> <p><a name="__DdeLink__19889_1917961086"></a> For&nbsp;if we consider the artist’s cinema-installation as a&nbsp;statement made by a&nbsp;researcher into&nbsp;“the locally traumatic”, then the ultimate claim expressed in a&nbsp;straightforward manner, beyond&nbsp;the language of images, could be that&nbsp;trauma “is never simply one’s own [and] that&nbsp;history is precisely the way we are implicated in each other’s traumas”.<a href="#sdfootnote32sym" name="sdfootnote32anc"><sup>32</sup></a> What hovers between&nbsp;T. and M. is something that&nbsp;we could call “unclaimed experience”, to quote Cathy Caruth –&nbsp;nobody’s experience, a&nbsp;stray experience –&nbsp;an experience of violence that&nbsp;cannot be ascribed exclusively to the historical victims. In Bałka’s works, “the ownerless experience” becomes an <span class="rozstrzelony">environment</span> of those who live in the former setting of violence. The collective character of trauma, according to Bałka, would therefore consist in something different from&nbsp;what was diagnosed by Maria Orwid, who wrote that&nbsp;“In Poland, society is essentially wholly post-traumatic”.<a href="#sdfootnote33sym" name="sdfootnote33anc"><sup>33</sup></a> The Polish trauma, as recognised by the artist, is not the sum of individual traumas, but&nbsp;rather an “extra-referential” phenomenon –&nbsp;something “unassigned, ownerless”, and yet it exists amongst us, it is shared. The pathology of the world from&nbsp;which <em>Postcards</em> originate challenges the theory of “wound culture” pertaining to “wounded societies”.<a href="#sdfootnote34sym" name="sdfootnote34anc"><sup>34</sup></a> The inhabitants of this&nbsp;part of Europe, in which Nazi crematoria were once built, experience trauma in a&nbsp;way that&nbsp;has not yet been fully recognised. Bałka suggests that&nbsp;trauma determines not so much the flow of meanings between&nbsp;the somatic and the social, the individual and the communitarian, at the intersection of these two orders, but&nbsp;that it has a&nbsp;total environmental character in the sense of the ecosystem in which we live, whether we want it or not, breathing, looking and travelling between&nbsp;M. and T.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> “Trauma &amp; Revival. Cultural Relations between Western and Eastern Europe” – a project of the Palais des Beaux-Arts (BOZAR) in Brussels realized in collaboration with the Bunkier Sztuki Contemporary Art Gallery in Krakow in the autumn of 2016, curated by Katarzyna Bojarska.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> As was the case when the artist, in agreement with curator Łukasz Ronduda, chose to show one of the films that form the work <em>Winterreise </em>in a cinema hall (as part of the cycle <em>Visions of the Holocaust</em>), the film was also supposed to be screened on a loop, “without end”, until the last viewer left the cinema; see: Łukasz Ronduda, “Rozmawiajmy poważnie o projekcji ‘Wyobrażenia Holocaustu’”. Odpowiedź Katarzynie Bojarskiej”, <a href="http://archiwum-obieg.u-jazdowski.pl/recenzje/9613"><u><em>Obieg</em></u></a>, accessed: 10 August 2017.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Commentary on the theme of the Holocaust in Bałka’s artistic practice in Rafał Jakubowicz, “Archeologia. Cień traumy Zagłady w sztuce Mirosława Bałki”, <em>Midrasz</em> 2011/2; the text is also available online at: <u><a href="http://wiadomosci.onet.pl/kiosk/archeologia-cien-traumy-zaglady-w-sztuce-miroslawa-balki/95scf">http://wiadomosci.onet.pl/kiosk/archeologia-cien-traumy-zaglady-w-sztuce-miroslawa-balki/95scf</a></u>, accessed: 10 August 2017.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> As part of the exhibition <em>Where is Abel thy brother?</em>, curated by Anda Rottenberg. See: exhibition catalogue <em>Gdzie jest brat twój, Abel? / Where is Abel thy brother?</em>, ed. T. Rostkowska (Warsaw: Zachęta, 1995).</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> The number of repetitions was determined by the curator.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Helena Boguszewska, <em>Nigdy nie zapomnę</em> (Warszawa: Spółdzielnia Wydawnicza Wiedza, 1946), 72.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> I provide a more precise definition of this term (inspired by Jacek Leociak’s post-ghetto site) in: “Płaszów, czyli skandalon. Społeczne życie ‘miejsca-po-obozie’”,<em></em>in <em>Płaszów: odkrywanie</em>, ed. M. Baran (Kraków: Muzeum Historyczne Miasta Krakowa, 2016).</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a><em>Nacht und Nebel</em> is the code name for the deportation of Jews, as used by the representatives of the anti-Nazi opposition, in Western Europe in 1941 as well as the German title of the film by Alain Resnais from 1956 (<em>Nuit et Brouillard</em>).</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Jakubowicz, “Archeologia”.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> “Nie ma już artystów ze Wschodu”, Mirosław Bałka in conversation with Dorota Jarecka, <em>Gazeta Wyborcza</em>, 10-11 October 2009, 19.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> I elaborate on this question in the text “Postronni przemocy: świadek, obserwator, patrzący, widz, gap. Analiza wizualna” in the conference volume <em>Świadek: jak się staje, czym jest?</em> (Faculty of Polish Studies, Krakow, 11-12 January 2018.)</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Raul Hilberg, <em>Perpetrators, Victims, Bystanders. The Jewish Catastrophe 1933–1945</em> (New York: HarperCollins Publishers, 1992). Polish translation: <em>Sprawcy, ofiary, świadkowie: zagłada Żydów 1933-1945</em>, translated by. J. Giebułtowski (Centrum Badań nad Zagładą Żydów, Wydawnictwo Cyklady) 2007.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Giorgio Agamben, <em>Remnants of Auschwitz. The Witness and the Archive</em>, trans. by Daniel Heller-Roazen (New York: Zone Books, 2002), 17.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Ibid.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Ibid.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> See: Jan Tomasz Gross, “Sprawcy, ofiary i inni”, <em>Zagłada Żydów</em>, 2014 no. 10.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> A phrase from Czesław Miłosz’s poem <em>A Poor Christian Looks at the Ghetto</em> (1943).</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Elżbieta Janicka, “Mord rytualny z aryjskiego paragrafu: o książce Jana Tomasza Grossa ‘Strach. Antysemityzm w Polsce tuż po wojnie. Historia moralnej zapaści’”, <em>Kultura i Społeczeństwo</em> 2008, no. 2.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Grzegorz Niziołek, <em>Polski teatr Zagłady</em>, (Warszawa: Instytut Teatralny im. Z. Raszewskiego, Wydawnictwo Krytyki Politycznej, 2013), 65.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> See: Agamben, <em>Remnants of Auschwitz</em>, 33.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a><em> Bauman / Bałka</em>, ed. K. Bojarska (Warsaw: Narodowe Centrum Kultury, 2012), 34.</p>
+<p><a name="__Fieldmark__3935_1917961086"></a><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a> Jill Bennett, <em>Empathic Vision: Affect, Trauma, and Contemporary Art</em> (Stanford: Stanford University Press, 2005), 6.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Ibid., 3</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> <em> Bauman / Bałka</em>, 26.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> See: Justyna Kowalska-Leder, “Wstęp”, in <em>Ślady Holokaustu w imaginarium kultury polskiej</em>, eds. J. Kowalska-Leder, P. Dobrosielski, I. Kurz, M. Szpakowska (Warsaw: Wydawnictwo Krytyki Politycznej, 2017), 17: “Working on the volume <em>Ślady Holokaustu w imaginarium kultury polskiej</em>, we followed a similar direction to the one indicated in works by Mirosław Bałka”.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Ibid.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> <em> Bauman / Bałka</em>, 34.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Ibid<em>.</em>, 20.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> See: Michael Rothberg <em>Multidirectional Memory. Remembering the Holocaust in the Age of Decolonization</em> (Stanford: Stanford University Press, 2009). In the article “Between Auschwitz and Algeria: Multidirectional Memory and the Counterpublic Witness” (<em>Critical Inquiry</em>, Vol. 33, No. 1, Autumn 2006) and in the seventh chapter of <em>Multidirectional Memory... </em>Rothberg constructs the notion of a “counterpublic witness”, based on Michael Warner’s concept (text “Publics and Counterpublics”, <em>Public Culture</em> 2002 no. 14). This is a person who imbues public discourse (dominant, rational, transparent) with “idioms of foreignness”, disturbing dissonance, and conflict. The counterpublic witness demands the disclosure of what is hidden behind the polished manner of communication: it is most often something invisible, something related to violence and exclusion. The counterpublic witness is the voice of the non-normative, repressed, stigmatised, of something that is tolerated only in the private sphere.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> A witness becomes a participant in a court trial only if they are deemed “neutral enough” – as Agamben writes in <em>Remnants of Auschwitz</em> (17), commenting on an ancient tragedy. Bystanders are just such participants in events – those who do not belong to the group most closely connected to violence, but who were drawn into the events (they are “implicated subjects”, as Michael Rothberg calls them: see Michael Rothberg, “Multidirectional memory and the implicated subject: On Sebald and Kentridge”, in: <em>Performing Memory in Art and Popular Culture</em>, eds. L. Plate, A. Smelik (New York: Routledge, 2013.)</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a><em>Bauman / Bałka</em>, 39.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Cathy Caruth, “Unclaimed Experience: Trauma and the Possibility of History (Freud, <em>Moses and Monotheism</em>), in eadem, <em>Unclaimed Experience. Trauma, Narrative and History </em>(Baltimore and London: The Johns Hopkins University, 1996), 24.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Maria Orwid, <em>Trauma</em> (Kraków: Wydawnictwo Literackie, 2009), 129.</p>
+<p><a name="__Fieldmark__4799_1917961086"></a><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Mark Seltzer, "Wound Culture: Trauma in the Pathological Public Sphere", <em>October</em> 1997, no. 80: 3-26. Described by Seltzer, maintaining the state of community trauma, which manifests itself through fascination with commodified macabre, “the shock contact between bodies and technologies” (3), typical of Western societies in late modernity, clearly differs from the practice of social celebration of wounds in the Polish society. The difference in the attitude to community trauma is radical and thought-provoking: the Polish variant undoubtedly merits further research.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/post-witness-counter-bystander-and-the-unclaimed-experience" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

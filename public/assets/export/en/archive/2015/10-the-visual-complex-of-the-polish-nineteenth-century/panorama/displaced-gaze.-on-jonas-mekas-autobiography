@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Wysiedlone spojrzenie. O autobiografii Jonasa Mekasa | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/2015/10-polski-wiek-xix.-kompleks-wizualny/wysiedlone-spojrzenie.-o-autobiografii-jonasa-mekasa">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Wysiedlone spojrzenie. O autobiografii Jonasa Mekasa | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Wysiedlone spojrzenie. O autobiografii Jonasa Mekasa | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/2015/10-polski-wiek-xix.-kompleks-wizualny/wysiedlone-spojrzenie.-o-autobiografii-jonasa-mekasa">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Wysiedlone spojrzenie. O autobiografii Jonasa Mekasa | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #002db3 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #002db3 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #002db3 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #002db3 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #002db3 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #002db3 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #002db3 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #002db3 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(0,45,179,0.8) !important; */
+			/* background-color:#002db3 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(0,45,179,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#002db3 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(0,45,179,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#002db3; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(0,45,179,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(0,45,179,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#002db3 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#002db3 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#002db3 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-989 parent-id-937">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="933" data-selected-issue-color="#002db3" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/en">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="http://www.pismowidok.org/en">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2015/10-polski-wiek-xix.-kompleks-wizualny#toc">10</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="assets/files/article-pdf/issue-10/10-moscicki.pdf"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Wysiedlone spojrzenie. O autobiografii Jonasa Mekasa</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="assets/files/article-pdf/issue-10/10-moscicki.pdf"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=308">Paweł Mościcki</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;">Co mi, banicie, ciśnie się przed oczy?</p> <p style="text-align: right;">Bertolt Brecht<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup></p> </blockquote> <p></p> <h2><br>Wygnanie i&nbsp;awangarda</h2> <p>Z pewnością, jak pisze Enzo Traverso w&nbsp;swej książce <em>La pensée dispersée</em>, „należałoby kiedyś przeczytać ponownie historię XX wieku przez pryzmat emigracji: społecznej i&nbsp;politycznej, ale także i&nbsp;przede wszystkim intelektualnej”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. Oznaczałoby to próbę uchwycenia tego, jak historia dwudziestowiecznego wygnania – wypędzeń, przesiedleń, przymusowej emigracji – odbija się w&nbsp;dynamice sporów politycznych, relacji społecznych i&nbsp;wreszcie jak wpływa na&nbsp;intelektualne transformacje ubiegłego stulecia. Z&nbsp;pewnością należałoby w&nbsp;tej perspektywie uwzględnić również związki pomiędzy doświadczeniem, zarówno indywidualnym jak i&nbsp;zbiorowym, emigracji a&nbsp;praktykami artystycznymi w&nbsp;całej ich złożoności. Wiek XX to przecież wiek, w&nbsp;którym rewolucje wszelakiego rodzaju i&nbsp;masowe migracje szły ze sobą w&nbsp;parze i&nbsp;decydowały w&nbsp;dużym stopniu zarówno o&nbsp;kształcie naszej historii, jak i&nbsp;o tym, co z&nbsp;niej dzisiaj zostało.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4391-1-pb-1920x-8b4.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4391-1-pb-330x-55a.jpg 330w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4391-1-pb-660x-214.jpg 660w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4391-1-pb-768x-5da.jpg 768w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4391-1-pb-1320x-a6d.jpg 1320w" src="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4391-1-pb-660x-214.jpg" alt="" ></a>    <figcaption><p>Jonas Mekas na&nbsp;Litwie (1971).</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Z pewnością należałoby kiedyś przeczytać przez pryzmat emigracji również historię awangardy XX wieku. Nie tylko dlatego zresztą, że&nbsp;najważniejsze ruchy awangardowe ubiegłego stulecia były w&nbsp;większości dziełem imigrantów, którzy w&nbsp;dodatku wobec oficjalnej sztuki i&nbsp;jej instytucji przyjmowali, świadomie, ale i&nbsp;pewnie z&nbsp;konieczności, pozycję obcego. Również dlatego, że&nbsp;sama awangarda ulegała przemieszczeniom, jej idee oraz techniki migrowały między całymi kontynentami, ulegając rozmaitym przeobrażeniom i&nbsp;transformacjom. Nie da się pomyśleć jej historii bez uwzględnienia socjologii migracji oraz bez uważności na&nbsp;migrację form, stylów i&nbsp;postaw<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Już słowo <em>avant-garde</em> zakłada dramatyczny ruch do przodu, rodzaj zerwania, uwolnienia, na&nbsp;które zazwyczaj decydują się ci, którzy mają niewiele do stracenia. Muszą bowiem wziąć na&nbsp;siebie ryzyko wyjścia przed szereg, ekspozycji, której recepcja z&nbsp;definicji zostaje kwestią enigmatyczną. Źródłowy ruch awangardy przypomina więc poniekąd doświadczenie emigranta, który zbliżając się do granic swojego nowego miejsca zamieszkania, nic jeszcze o&nbsp;nim nie wie, musi wynaleźć całą swoją egzystencję na&nbsp;nowo. W&nbsp;przypadku artystów oznacza to także konieczność gruntownej rewizji całego języka sztuki oraz miejsca jej instytucji w&nbsp;systemie społecznym. Przemieszczenie jakiemu podlega i&nbsp;jakim jest awangarda przypomina więc raczej ruch wygnania, niż romantyczną wędrówkę. Być może to ono stanowi najlepszą ilustrację dwudziestowiecznej „transcendentalnej bezdomności”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>, której głównym nowoczesnym przejawem Geörgy Lukács uczynił powieść.</p> <p>Chcąc pomyśleć awangardową wędrówkę raczej jako część doświadczenia uchodźctwa niż mityczną, nomadyczną przygodę, trzeba zwrócić uwagę na&nbsp;fakt, jak kusząca wydaje się pospieszna estetyzacja jej ruchu, która z&nbsp;bólu migracji czyni swobodną przechadzkę, a&nbsp;z ryzyka inwencji - oczywisty przymiot każdego artysty. Obraz tego ostatniego jako niestrudzonego wędrowca, którego każda kolejna podróż wzbogaca i&nbsp;daje okazję do nowych doświadczeń, stanowi stały punkt odniesienia dla wszystkich teoretycznych refleksji na&nbsp;temat specyfiki doświadczenia artystycznego. Refleksja Petera Sloterdijka, filozofa, który z&nbsp;połączenia błyskotliwości i&nbsp;banału uczynił swój znak rozpoznawczy, odzwierciedla dyskusyjny status podobnych wyobrażeń. W&nbsp;jednym ze swych esejów poświęconych współczesnej sztuce pisze on:</p> <blockquote>W naszym stuleciu Maurice Merleau-Ponty zapisał zdanie, z&nbsp;którego biorą początek wszystkie rozważania dotyczące zmysłowego bycia-w-świecie człowieka: Ciało (człowieka) nie znajduje się w&nbsp;przestrzeni, ono w&nbsp;niej mieszka“ (<em>Le corps n’est pas dans l’espace, il l’habite</em>). Wielcy artyści są tymi, którzy tak dziś, jak wczoraj uwidaczniają prawdę tego zdania. Jako mieszkańcy głębin świata przypominają nam o&nbsp;pytaniu, co znaczy w&nbsp;ogóle zamieszkiwać świat<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>.</blockquote> <p>Trudno nie zgodzić się z&nbsp;tym stwierdzeniem, choć jego konkretne znaczenie zależy od tego, jak zrozumiemy ten ogólny obraz artysty jako kogoś, kto uczy nas zamieszkiwania przestrzeni świata. Sloterdijk pisze dalej: „Artyści są ekologami niesamowitego, domo-sceptykami oraz inno-bylcami. Ich mieszkanie pośród rzeczy oznacza współpracę z&nbsp;wyłaniającymi się formami, które mogą pochodzić z&nbsp;natury, kultury albo kosmosu naukowych znaków i&nbsp;modeli. Dom inno-bylca pełen jest obcych gości – to punkt na&nbsp;mapie świata, magiczna cyfra, punkt widzenia na&nbsp;surowe barwy”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. Niemiecki filozof wyraźnie oscyluje między dwoma wyobrażeniami o&nbsp;artyście jako inno-bylcu. Z&nbsp;jednej strony to ktoś wykorzeniony, roztaczający wokół siebie alternatywną topologię świata, która zdolna jest odwrócić jego dominujący obraz. To także ktoś, kto w&nbsp;związku z&nbsp;tym pozostaje w&nbsp;intymnym związku ze wszystkim, co dopiero wyłania się z&nbsp;niebytu, majaczy na&nbsp;horyzoncie historii i&nbsp;geografii, domaga się elementarnego rozpoznania, pierwszych imion nadanych przez człowieka. Z&nbsp;drugiej jednak strony artysta to ktoś, kto ma dobrze rozpoznawalne miejsce zamieszkania, stabilny punkt oparcia w&nbsp;świecie, ale różni się od innych tym, że&nbsp;zaprasza do niego obcych gości, otwiera drzwi temu, co nowe. Być może mit artysty-wędrowca, szalonego i&nbsp;szczęśliwego włóczykija, bierze się właśnie z&nbsp;pomieszania tych obrazów, założenia, że&nbsp;można oddać się niespotykanym wędrówkom, pozostając w&nbsp;cieple własnego domostwa. Tymczasem nowatorstwo oznacza wygnanie, niemożliwość bycia u&nbsp;siebie w&nbsp;żadnej z&nbsp;dotychczasowych form życia, skazanie na&nbsp;walkę o&nbsp;elementarne formy przetrwania. Owe surowe barwy, które artysta nazywa nowymi imionami, to nic innego jak to, co w&nbsp;sytuacji bez wyjścia okazało się ciasną furtką pozwalającą na&nbsp;ocalenie.</p> <p></p> <p>Wypada więc zgodzić się z&nbsp;Edwardem W. Saidem, który w&nbsp;swych <em>Myślach o&nbsp;wygnaniu</em> przestrzegał przed nadmierną mitologizacją figury migracji. Zwłaszcza że&nbsp;według niego kluczowym pytaniem w&nbsp;tym kontekście jest właśnie pozycja, jaką zajmuje się względem doświadczenia wygnania. „Współczesne zainteresowanie tą problematyką ma swoje korzenie w&nbsp;nieco wyblakłej idei, że&nbsp;autochtoni mogą mieć udział w&nbsp;korzyściach płynących z&nbsp;wygnania (rozumianego jako motyw odkupieńczy). [...] »My« w&nbsp;naturalny sposób skupiamy się na&nbsp;tym oświecającym aspekcie »ich« obecności wśród nas, nie zaś na&nbsp;ich nieszczęściu i&nbsp;potrzebach”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. Właśnie to przesunięcie między wygnaniem jako doświadczeniem a&nbsp;wygnaniem jako obiektem kontemplacji sprawia, że&nbsp;tak łatwo można potraktować je jako błogosławieństwo, otwarcie zapoznając tym samym wszystko to, co w&nbsp;nim mroczne, gorzkie i&nbsp;ograniczające.</p> <blockquote>Wygnanie jest niezwykle zajmujące jako przedmiot refleksji, ale doświadczać go na&nbsp;własnej skórze jest czymś strasznym. [...] Kondycji wygnania nieuchronnie towarzyszy przemożny smutek. I&nbsp;choć w&nbsp;literaturze i&nbsp;historii nie brakuje bohaterskich, romantycznych, chwalebnych czy nawet triumfalnych epizodów z&nbsp;wygnańczego życia, są one tylko próbami przezwyciężenia paraliżującej melancholii, jaka nierozerwalnie wiąże się z&nbsp;wyobcowaniem. Zdobycze wygnania są nieustannie podważane przez świadomość, że&nbsp;człowiek na&nbsp;zawsze coś utracił<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>.</blockquote> <p>Wydaje się jednak, że&nbsp;i&nbsp;Said pozwala sobie w&nbsp;tej wypowiedzi na&nbsp;uproszczenia, ponieważ słusznie dekonstruując pozór błogiej włóczęgi zasłaniający ból wygnania, czyni z&nbsp;tego ostatniego jednoznaczne i&nbsp;nieodwołalne nieszczęście, a&nbsp;tym samym wszelkie próby jego przezwyciężenia lub opowiedzenia stają się jedynie nieudanymi wysiłkami terapeutycznymi. Nie chodzi oczywiście o&nbsp;to, że&nbsp;wygnanie nie jest nieszczęściem i&nbsp;nie wywołuje trudno gojących się urazów. Ale nie można w&nbsp;ten sposób jednoznacznie zamknąć ich w&nbsp;zbyt skrótowej formule, gdyż właśnie one stanowią treść samego doświadczenia tułaczki. Jeśli nie zwrócimy uwagi, nie poddamy szczegółowej analizie tego, jak uchodźca próbuje nazywać swoją sytuację, przekształcać swoje rozumienie korzystając ze swego doświadczenia, wówczas musimy ograniczyć się jedynie do odnotowania faktu wygnania. I&nbsp;wtedy będziemy tworzyć język równie abstrakcyjny i&nbsp;arogancki wobec historycznego konkretu jak mityczne dyskursy o&nbsp;wspaniałościach podróży bez celu.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4393-1-pb-1920x-7c2.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4393-1-pb-330x-87b.jpg 330w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4393-1-pb-660x-b03.jpg 660w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4393-1-pb-768x-ba6.jpg 768w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4393-1-pb-1320x-31d.jpg 1320w" src="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4393-1-pb-660x-b03.jpg" alt="" ></a>    <figcaption><p><em>Walden: Diaries, Notes and Sketches</em> (1969).</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Historia XX wieku zbliżyła wszystkie migrujące ludy do centrum uniwersalnego doświadczenia. Jak zauważyła Hannah Arendt w&nbsp;swym słynnym artykule <em>My, uchodźcy</em> w&nbsp;XX wieku „za wykluczeniem narodu żudowskiego z&nbsp;Europy przyszło wykluczenie większości narodów europejskich”. Dlatego „przeganiani z&nbsp;kraju do kraju uchodźcy żydowscy stanowią awangardę swoich narodów [...]. Pierwszy raz historia żydowska nie jest osobna, lecz spleciona z&nbsp;historią innych narodów”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>. Ta uniwersalizacja wygnańczego losu europejskich Żydów jest faktem historycznym i&nbsp;trzeba nieustannie wskazywać na&nbsp;to, jak bardzo zależy ona od przemian politycznych, jakie zaszły w&nbsp;XX wieku. Zwłaszcza jeśli chodzi o&nbsp;relację między powszechnością emigracji i&nbsp;losami współczesnego nacjonalizmu oraz rozwojem i&nbsp;upadkiem pojęcia państwa narodowego<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. Dopiero wtedy zdanie Giorgia Agambena, głoszące, że&nbsp;dziś „pozornie marginalna postać uchodźcy zasługuje raczej na&nbsp;to, by traktować ją jako centralną dla naszej historii politycznej”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>, nabierze pełnego sensu, w&nbsp;którym uniwersalne „wszyscy jesteśmy uchodźcami” nie będzie pustym narcystycznym sloganem, lecz hasłem wskazującym centralny problem polityczny naszych czasów.</p> <p>Sprowadzenie problematyki wygnania do historycznego konkretu daje przede wszystkim możliwość pokazania złożoności kondycji emigranta, zwrócenia uwagi na&nbsp;niejednoznaczność jego pozycji<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Wówczas jasne stanie się dlaczego, jak zauważa Enzo Traverso, „nasza wizualna percepcja wygnania opiera się na&nbsp;sprzecznych obrazach obejmujących nędzę i&nbsp;chwałę, tragedię i&nbsp;szczęście”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Emigracja do obcego miejsca, zerwanie kontaktu z&nbsp;rodzinnymi stronami oraz konieczność odtworzenia całej swojej egzystencji w&nbsp;nowych warunkach mogą być szansą na&nbsp;odrodzenie nie dzięki zapomnieniu o&nbsp;nieszczęściu wygnania, ale <span class="rozstrzelony">pomimo</span> jego nieusuwalnej świadomości i&nbsp;realnych skutków. Jak zauważa Svetlana Boym w&nbsp;swojej książce <em>The Future of Nostalgia</em>, poświęconej różnym literackim i&nbsp;wizualnym zapisom tęsknoty za&nbsp;porzuconą ojczyzną, „niemożliwość powrotu do domu jest zarówno osobistą tragedią, jak i&nbsp;otwierającą siłą [<em>enabling force</em><u>]</u>”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Napięcie między nieszczęściem a&nbsp;otwarciem nowych możliwości czyniłoby więc z&nbsp;wygnania taki rodzaj traumatycznego doświadczenia, które niesie w&nbsp;sobie oprócz rozlicznych ran i&nbsp;zniszczeń – a&nbsp;w zasadzie poprzez owe rany i&nbsp;zniszczenia – szansę na&nbsp;zupełnie nową konfigurację doświadczenia. Tylko odwołując się do tego samego pojęcia otwierania [<em>enabling</em>], Boym mogła dokonać w&nbsp;swojej książce rozróżnienia między nostalgią pokrzepiającą, która za&nbsp;wszelką cenę chce zrekonstruować pierwotny, utracony dom, ulegając w&nbsp;ten sposób uwiedzeniu figurą początku, a&nbsp;nostalgią refleksyjną, która „uwydatnia ambiwalencję ludzkiej tęsknoty i&nbsp;zakorzenienia, i&nbsp;nie lęka się sprzeczności charakteryzujących nowoczesność“ i&nbsp;w związku z&nbsp;tym „może okazać się etycznym i&nbsp;twórczym wyzwaniem, a&nbsp;nie zwykłym pretekstem do nocnej melancholii”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>.</p> <p>Różnie próbowano nazywać nowe możliwości, jakie otwiera traumatyczne doświadczenie wygnania. W&nbsp;swym słynnym eseju <em>Obcy</em> Georg Simmel uznał, że&nbsp;ponieważ emigrant jest jednocześnie w&nbsp;środku i&nbsp;na zewnątrz wspólnoty, którą z&nbsp;wyboru lub z&nbsp;konieczności uznał za&nbsp;swój nowy dom, dysponuje on obiektywnym punktem widzenia. „Obcy ma większą swobodę praktyczną i&nbsp;teoretyczną, obserwuje sytuację bardziej bezstronnie, ocenia ją, stosując bardziej ogólne i&nbsp;obiektywne kryteria, w&nbsp;swym działaniu pozostaje nieskrępowany przyzwyczajeniem, nabożnym szacunkiem ani tradycją”<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. Wytrącony ze swojego naturalnego środowiska, uchodźca posiada czystą kartę, świeżość w&nbsp;spotkaniu z&nbsp;nową rzeczywistością. Jego relacje z&nbsp;członkami nowej wspólnoty wydają się też bardziej ludzkie niż w&nbsp;obrębie danej społeczności. „Z cudzoziemcem łączą nas cechy bardziej ogólne, podczas gdy stosunek do osób, z&nbsp;którymi jesteśmy związani organicznie, opiera się na&nbsp;podobieństwie tego, co różni nas od ogółu. Wszystkie stosunki osobiste są tylko różnymi wariantami ogólnego schematu”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. Wydaje się więc jakby Simmel wierzył, że&nbsp;opuszczenie rodzinnego domu kasuje wszystkie jego elementy zakodowane w&nbsp;naszym doświadczeniu. Tak jakby wspomnienia, doświadczenia, odruchy, przyzwyczajenia i&nbsp;oczekiwania zostały jednym gestem usunięte z&nbsp;naszej egzystencji i&nbsp;czynily emigranta niezapisaną tablicą o&nbsp;niemal nieograniczonej podatności na&nbsp;wpływy nowej sytuacji. Tymczasem wydaje się, że&nbsp;kondycja obcego ma charakter bardziej dialektyczny. Musi on bowiem wynaleźć sposób na&nbsp;pogodzenie ze sobą – albo przynajmniej współistnienie – skamielin dawnej rzeczywistości (zapisanych w&nbsp;gestach, mimice, skojarzeniach, języku i&nbsp;wielu innych rzeczach) a&nbsp;tym, co stanowi nową, dynamiczną, ale nieprzejrzystą sytuację. To zderzenie tego, co obumarłe, z&nbsp;tym, co żywe, ale jeszcze nieprzyswojone, krucha równowaga między przywiązaniem do skamielin porzuconego domu a&nbsp;gotowością wypracowania nowych nawyków stanowi jądro kondycji wygnania.</p> <p>Wydaje się zatem, że&nbsp;stanowisko Simmla należałoby nieco zniuansować, rezygnując ze stabilnej kategorii obiektywności dostępnej obcemu, na&nbsp;rzecz bardziej subtelnych mocy, jakie może otwierać przed nim trauma wygnania. Enzo Traverso zauważa, że&nbsp;przybywając do obcego kraju, emigrant dysponuje pewnego rodzaju „epistemologicznym przywilejem”: „wygnańcy, jako obcy, wykorzenieni i&nbsp;zmarginalizowani, mogą uniknąć wielu instytucjonalnych, politycznych, kulturowych, psychologicznych ograniczeń, które wynikają z&nbsp;narodowego kontekstu, w&nbsp;który są włączeni, ale do którego nie przynależą. To odrobinę skrzywione spojrzenie może stać się zaletą: pozwala widzieć coś, czego inni nie widzą”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. Wygnańcy mieliby zatem szansę na&nbsp;odnowienie swojego widzenia, poszerzenie granic swojej percepcji. Podobną uwagę formułuje Said, wspominając o&nbsp;specyficznej „świadomości kontrapunktowej”<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup>, która obdarza emigranta zdolnością specyficznego widzenia otaczającej go rzeczywistości. Być może więc dialektyczne napięcie między tragedią a&nbsp;odnową, ogołoceniem a&nbsp;otwarciem nowych możliwości, jakie zawarte jest w&nbsp;doświadczeniu uchodźctwa, może dojść do głosu przede wszystkim w&nbsp;spojrzeniu i&nbsp;pozwala uznać wygnanie za&nbsp;rodzaj „intrygi patrzenia”. Jak patrzy emigrant? – to pytanie które powinien stawiać sobie każdy, kto chce podążać za&nbsp;meandrami kluczowego wydarzenia w&nbsp;historii XX wieku.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4395-1-pb-1920x-7c2.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4395-1-pb-330x-87b.jpg 330w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4395-1-pb-660x-b03.jpg 660w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4395-1-pb-768x-ba6.jpg 768w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4395-1-pb-1320x-31d.jpg 1320w" src="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4395-1-pb-660x-b03.jpg" alt="" ></a>    <figcaption><p><em>Walden: Diaries, Notes and Sketches</em> (1969).</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Dylemat uchodźcy, który musi wypośrodkować między przywiązaniem do swojej rodzimej, utraconej kultury a&nbsp;akceptacją nowej sytuacji, przypomina dylemat awangardowych twórców, którzy próbują dokonać artystycznego przełomu. Peter Bürger w&nbsp;swojej kanonicznej rozprawie poświęconej awangardzie zwraca uwagę, że&nbsp;nie da się zrozumieć problemu awangardy bez rozróżnienia między krytyką immanentną a&nbsp;samokrytyką. Ta pierwsza stanowi normalną procedurę wpisaną w&nbsp;historyczną zmienność sztuki. Każda epoka buduje swoje zasady i&nbsp;idee poprzez krytyczne odniesienie do tego, co zastaje. Rewizja kanonu jest bowiem sposobem podtrzymania żywotności sztuki. „Od tego odróżniamy typ krytyki, który odnosi się do instytucji sztuki jako całości, a&nbsp;mianowicie samokrytykę sztuki”<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup> pisze Bürger i&nbsp;przypisuje awangardzie intensyfikację gestu autokrytycznego. Innymi słowy awangarda odpowiada w&nbsp;przestrzeni sztuki pozycji obcego w&nbsp;nowym społeczeństwie. Nie broni prawomocnej modyfikacji systemu, ale wypowiada się z&nbsp;pozycji wyrzutka, który stoi na&nbsp;jego granicach i&nbsp;wypowiada posłuszeństwo jego regułom. Awangardowe zakwestionowanie już nie tylko poszczególnych elementów artystycznego <em>status quo</em>, ale sztuki jako całości, sprawia jednak – jak chce Bürger – że&nbsp;staje się ono medium poznawalności poprzednich epok i&nbsp;ich postulatów.</p> <blockquote>Dopiero awangarda pozwoliła poznać pewne ogólne kategorie dzieła sztuki w&nbsp;ich ogólności, a&nbsp;zatem, że&nbsp;wcześniejsze stadia rozwoju fenomenu możemy zrozumieć, wychodząc właśnie od awangardy, a&nbsp;nie odwrotnie. [...] Dopiero awangrada umożliwia poznanie środków artystycznych w&nbsp;ich ogólności. Nie wybiera bowiem środków artystycznych według jakiejś zasady stylistycznej, ale dysponuje nimi jako środkami artystycznymi<sup><a href="#sdfootnote21sym" name="sdfootnote21anc">21</a></sup>.</blockquote> <p>Negacja sztuki w&nbsp;jej całości sprawia, że&nbsp;jej dotychczas wewnętrzne i&nbsp;zróżnicowane kryteria uniwersalizują się, stają się wersjami urzeczywistnienia sztuki jako takiej, czyli dokładnie tego, co uległo zanegowaniu. Stają obok siebie niczym bezczasowe procedury wyznaczające warunki możliwości uprawiania sztuki. Tak jak uchodźca może dzięki niepełnemu udziałowi w&nbsp;społeczeństwie ucieleśniać problem socjalizacji jako takiej, tak też artysta awangardowy dokonując gestu radykalnego zerwania, stawia pytanie o&nbsp;samą możliwość sztuki. I&nbsp;tak jak los żydowskiego wygnańca uległ w&nbsp;XX wieku upowszechnieniu i&nbsp;został utożsamiony z&nbsp;losem każdego obywatela, tak też każdy artysta musi w&nbsp;epoce postawangardowej odpowiedzieć na&nbsp;pytanie o&nbsp;sztukę w&nbsp;ogóle. Tak chyba należy rozumieć intencje Bürgera, gdy pisze: „Dzięki prądom awangardowym historyczne następstwo procedur i&nbsp;stylów artystycznych zamieniło się w&nbsp;równoczesność tego, co radykalnie różne. Konsekwencją jest fakt, że&nbsp;żaden prąd artystyczny nie może już dzisiaj w&nbsp;sposób uzasadniony postulować, że&nbsp;jest jako sztuka historycznie bardziej postępowy niż inne prądy”<sup><a href="#sdfootnote22sym" name="sdfootnote22anc">22</a></sup>. Hannah Arendt i&nbsp;Giorgio Agamben pochylali się nad doświadczeniem dwudziestowiecznej tułaczki bezpaństwowców, aby w&nbsp;konkluzji uznać równoczesny koniec specyfiki żydowskiego wygnania, ustroju państwa narodowego i&nbsp;wszelkich dyskursów wybraństwa. Analogicznie wiek postawangardowy to moment pewnej demokratyzacji stylów i&nbsp;idei, który jednocześnie bierze się z&nbsp;awangardowego gestu samokrytyki i&nbsp;który powtórzenie tego gestu czyni niemożliwym. Tym, co staje się udziałem każdego artysty jest jednak pewna osobliwa pozycja wygnańca, o&nbsp;której wspominał w&nbsp;swoim eseju Simmel. Określał on w&nbsp;swych rozważaniach emigranta jako „potencjalnego wędrowca, który, aczkolwiek nie wyruszył dalej, nie zrezygnował też całkowicie z&nbsp;owej swobody przychodzenia i&nbsp;odchodzenia”<sup><a href="#sdfootnote23sym" name="sdfootnote23anc">23</a></sup>, którą musiał wypracować, próbując radzić sobie ze swoim położeniem. Współcześni artyści tkwią w&nbsp;ścisłym związku z&nbsp;awangardą nie dlatego, że&nbsp;imitują jej samokrytykę, ale że&nbsp;funkcjonują niczym wędrowiec w&nbsp;stanie quasi-spoczynku. Niby nigdzie się nie ruszają, ale wciąż ćwiczą swoją mobilność, szlifują umiejętność znikania i&nbsp;przemieszczania się, chociaż nie podejmują żadnej dalekiej podróży. Nie są w&nbsp;stanie wytrzymać ani w&nbsp;ramach klasycznych artystycznych hierarchii, ani zdobyć się na&nbsp;odwagę całkowitej rewizji. Być może dlatego tak bliski jest im obraz i&nbsp;motyw wygnańca, z&nbsp;którym próbują się utożsamić, jednak nigdy nie mogą utożsamić się z&nbsp;nim w&nbsp;pełni. Odwrotną stroną tego utożsamienia jest jednak to, że&nbsp;nawet niedokonujący radykalnych przekroczeń artyści pozostają dziś z&nbsp;boku, niczym obcy, który tkwi czasem na&nbsp;marginesie wbrew własnej woli adaptacji.</p> <h2>Rozterki dipisa i&nbsp;nauka patrzenia</h2> <p><b></b>Biografia młodzieńczych lat Jonasa Mekasa przebiega według schematu, który dotyczył tysięcy artystów z&nbsp;Europy dotkniętych szaleństwem II wojny światowej i&nbsp;jej reperkusji. Urodzony w&nbsp;1922 roku w&nbsp;małej litewskiej wiosce Siemieniszki, bardzo wcześnie poznaje zarówno – co zrozumiałe – uroki sielskiego życia na&nbsp;wsi, jak i, co odrobinę bardziej zaskakujące dla otoczenia, powab literatury. Zanim jego chłonny umysł zdoła w&nbsp;pełni się ukształtować, wybuchła wojna a&nbsp;on musi poruszać się po&nbsp;skomplikowanym labiryncie sojuszy i&nbsp;animozji obowiązujących w&nbsp;ugrupowaniach ruchu oporu. Wybór między stronnictwem komunistycznym i&nbsp;nacjonalistycznym nie wydaje mu się możliwy. Dlatego wraz z&nbsp;bratem Adolfasem podejmuje w&nbsp;końcu ucieczkę, obawiając się aresztowania ze strony gestapo. Wyruszają pociągiem do Wiednia, do którego nigdy jednak nie dotrą. W&nbsp;ten sposób rozpoczyna się ich kilkuletnia tułaczka, w&nbsp;trakcie której trafią do obozu pracy przymusowej w&nbsp;Elmshorn; Flensburga, gdzie będą się ukrywać, a&nbsp;potem po&nbsp;zakończeniu wojny znajdą się w&nbsp;obozie dla dipisów; Oschenzohl, Würzburga, Hanau, Tübingen, Mannheim, Wiesbaden, Mainza, Kassel, gdzie będą podejmować studia, pierwsze próby pisarskie i&nbsp;edytorskie, pozostając wciąż osobami o&nbsp;niejasnym statusie państwowym. Wreszcie w&nbsp;1949 roku uzyskają odpowiednie papiery potrzebne do wyjazdu za&nbsp;ocean, gdzie dotrą w&nbsp;październiku tego samego roku, aby zmienić planowany cel podróży, jakim było Chicago, na&nbsp;Nowy Jork, gdzie osiądą i&nbsp;będą mieszkać przez resztę życia.</p> <p>Historia powojennej tułaczki naznaczona jest oczywiście wątpliwościami i&nbsp;gorączkowym poszukiwaniem sensu, elementu pozwalającego na&nbsp;zakorzenienie we wrogiej i&nbsp;chaotycznej rzeczywitości. Jeszcze w&nbsp;1950 roku, w&nbsp;pierwszych miesiącach po&nbsp;dotarciu do Ameryki, Jonas pisze w&nbsp;swym pamiętniku:</p> <blockquote>Pytam siebie: po&nbsp;co to wszystko? Jaki jest sens mojego życia, tego, co tutaj robię? Żyć po&nbsp;to, żeby pracować? Ta praca nic nie tworzy. Jest jak tyranie w&nbsp;obozie pracy przymusowej w&nbsp;Elmshorn. Dni mijają, tydzień za&nbsp;tygodniem; i&nbsp;będą mijały dalej, podczas gdy ja pracuję jak niewolnik w&nbsp;fabryce, warsztacie, łykając miedziany pył, pośród nieskończonej samotności. I&nbsp;nie ma żadnych aliantów, którzy mogliby mnie wyzwolić<sup><a href="#sdfootnote24sym" name="sdfootnote24anc">24</a></sup>.</blockquote> <p>W tych słowach pobrzmiewa nie tylko normalne dla imigranta zagubienie, ale także pewien rodzaj przyzwyczajenia do kondycji wygnania, rodzaj dipisowskiej nostalgii, która choć nie prowadzi do żadnej idealizacji, pozwala zrozumieć, jak trudno było Mekasowi odnaleźć się w&nbsp;Nowym Jorku. Należy przy tym pamiętać, że&nbsp;był on dzieckiem prowincji, wychowanym na&nbsp;wsi i&nbsp;przywiązanym do życia blisko natury i&nbsp;bez ograniczeń narzuconych na&nbsp;nowoczesność. Dziecko to nie tylko zostało brutalnie wyrwane ze swojego otoczenia, ale po&nbsp;latach włóczęgi trafiło do jednej z&nbsp;największych metropolii świata, w&nbsp;której nie tylko uroki, ale i&nbsp;trudy wielkomiejskiego życia można odczuć szczególnie dobitnie. Jeszcze przed wyjazdem do Ameryki Mekas dostrzegał wyrwę między swym wiejskim pochodzeniem a&nbsp;miejskim otoczeniem, w&nbsp;jakim musiał się odnaleźć. W&nbsp;kwietniu 1949 roku pisał:</p> <blockquote>Dla Vladasa, Algisa, Leo obecna egzystencja jest kontynuacją dawnego życia w&nbsp;Kownie, niewiele się zmieniło. Ale my z&nbsp;Adolfasem przyjechaliśmy z&nbsp;zupełnie innego świata. Ze świata chłopów do świata inteligencji, literatów, ludzi wykształconych... To wielka, ogromna zmiana... A&nbsp;teraz spróbuj, człowieku, skleić te dwie rzeczywistości w&nbsp;jedną... Staramy się wybierać to, co najlepsze z&nbsp;jednej i&nbsp;drugiej, nie zdradzając naszych korzeni. Czasem górę bierze stare życie, innym razem nowe. Dwadzieścia jeden lat. Dwadzieścia jeden lat żyłem i&nbsp;myślałem inaczej niż dzisiaj. To nowe życie jest tak kuszące, że&nbsp;człowiek chce się nim zachłysnąć – podczas gdy przyjaciele, którzy znają je od urodzenia, sączą je powoli, naturalnie, normalnie. Chwyta więc to i&nbsp;tamto, pełnymi garściami, z&nbsp;całej siły, próbując wchłonąć wszystko w&nbsp;jak najkrótszym czasie... Tak, nam się udało. Teraz niektórzy biorą nas za&nbsp;ludzi urodzonych w&nbsp;mieście... Ale za&nbsp;tą fasadą kryje się chłopski syn, który nocą, kiedy nikt nie patrzy, zasłania okno i&nbsp;skacze po&nbsp;pokoju w&nbsp;samej bieliźnie, rozkoszując się wolnością chodzenia boso... Nie inaczej niż jakikolwiek więzień w&nbsp;jakimkolwiek innym więzieniu...<sup><a href="#sdfootnote25sym" name="sdfootnote25anc">25</a></sup>.</blockquote>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4397-1-pb-1920x-7c2.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4397-1-pb-330x-87b.jpg 330w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4397-1-pb-660x-b03.jpg 660w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4397-1-pb-768x-ba6.jpg 768w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4397-1-pb-1320x-31d.jpg 1320w" src="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4397-1-pb-660x-b03.jpg" alt="" ></a>    <figcaption><p><em>Walden: Diaries, Notes and Sketches</em> (1969).</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Czego tak naprawdę brakuje Mekasowi? Co rzeczywiście utracił w&nbsp;trakcie swojej wędrówki? W&nbsp;eseju poświęonym litewskiemu filmowcowi i&nbsp;poecie Czesław Miłosz zauważył: „Wygnańcy nie tracą tylko swojego dobytku. Odbierane są im także drzewa, łąki i&nbsp;pola z&nbsp;lat dzieciństwa”<sup><a href="#sdfootnote26sym" name="sdfootnote26anc">26</a></sup>. A&nbsp;więc traci się przede wszystkim to, co zmysłowe, przypisane do ciała, które dorastając, uczy się odbierać intensywność bodźców, dostosowuje się do kolorów i&nbsp;orientuje w&nbsp;charakterystycznym uniwersum dźwięków. Powracając do tego tematu nieustannie w&nbsp;swych wspomnieniach, Mekas pokazuje utraconą ojczyznę przede wszystkim jako zbiór drobin, małych rzeczy, do których przywiązujemy się tak mocno, że&nbsp;żadna logika nie jest w&nbsp;stanie nas od nich oddzielić, wytłumaczyć straty.</p> <blockquote>Idee? Książki? – pisze w&nbsp;kwietniu 1948 roku - Znalazłem je też tutaj. Ale tym, co sprawia prawdziwy, głęboki ból, jest brak ziemi, którą tam zostawiłem, tamtego nieba, tamtych wzgórz. Wspomnienia letnich wieczorów tkwią w&nbsp;moim sercu głęboko niczym cierń. Są bolesne jak otwarte rany. [...] I&nbsp;nie chodzi mi o&nbsp;generalne różnice kształtów, kolorów, faktur – raczej rzeczy drobne, niemal niedostrzegalne szczegóły... To w&nbsp;nich tkwi esencja, to one odróżniają duszę jednego narodu od innego<sup><a href="#sdfootnote27sym" name="sdfootnote27anc">27</a></sup>.</blockquote> <p>A więc utrata tożsamości przez wygnańca nie oznacza konieczności wyzbycia się przekonań, ideologicznych identyfikacji. Raczej dotyczy operacji na&nbsp;samym ciele, jego przyjemnościach i&nbsp;przyzwyczajeniach. Jest naprawdę zmianą osobowości w&nbsp;jej najbardziej elementarnych odruchach. „Nasze ruchy, to jak chodzimy. Nasz akcent, sposób mówienia. Wszystko jest zdeterminowane i&nbsp;naznaczone przez klimat, słońce, krajobraz, w&nbsp;którym się wychowaliśmy. To coś więcej niż wspomnienie”<sup><a href="#sdfootnote28sym" name="sdfootnote28anc">28</a></sup>. Drobne elementy doświadczenia, z&nbsp;jakich dla Mekasa składa się ojczyzna, to nie tylko zbiór zapamiętanych doznań i&nbsp;przeżyć – to także sama matryca pamiętania, wrażliwość przyzwyczajona do odpowiedniego porządkowania percepcji. Dlatego wraz z&nbsp;ojczyzną tracimy również jakiś rodzaj odniesienia do niej, tak jakbyśmy tracili ją dwa razy. Najpierw po&nbsp;prostu, gdy dosłownie znika nam z&nbsp;oczu, a&nbsp;potem jeszcze raz, gdy wraz z&nbsp;jej jakościami tracimy również możliwość nawiązania z&nbsp;nią kontaktu za&nbsp;pomocą mechanizmów, które ona sama w&nbsp;nas wytworzyła. Po&nbsp;tej drugiej katastrofie już trudno nawet do niej tęsknić, ponieważ nasze w&nbsp;niej zadomowienie samo uległo rewizji.</p> <p></p> <p>Mekas stracił w&nbsp;pierwszych latach powojennych nie jedną, a&nbsp;wiele ojczyzn. Najpierw – idylliczny krajobraz litewskiej wsi, a&nbsp;potem całą Europę, która pomimo różnic narodowościowych może dawać poczucie bardziej ogólnej tożsamości. Na&nbsp;statku zmierzającym do Stanów Zjednoczonych Mekas zapisuje: „Teraz naprawdę czuję, że&nbsp;oddalam się od Europy. Ogarnia mnie zwierzęcy lęk. Podpowiada mi on, że&nbsp;nie powinienem opuszczać Europy, że&nbsp;popełniam grzech, porzucając ziemię bliską memu duchowi i&nbsp;ciału. Jest coś w&nbsp;przyrodzie, w&nbsp;roślinach i&nbsp;zwierzętach, co każe im trzymać się blisko miejsca urodzenia. Czepiają się pazurami, wracają uparcie, wrastają korzeniami“<sup><a href="#sdfootnote29sym" name="sdfootnote29anc">29</a></sup>. Wykorzenienie prowadzi Mekasa do gorączkowej próby skonstruowania mitu utraconej ojczyzny. Napisanie <em>Idylli semeniszkiańskich</em> stanowiło próbę zatrzymania rodzinnych stron w&nbsp;pamięci, poprzez uruchomienie europejskiego kodu poetyckiego, w&nbsp;którym dałoby się pomieścić coraz bardziej blaknące wspomnienia<sup><a href="#sdfootnote30sym" name="sdfootnote30anc">30</a></sup>. Ten rodzaj uporczywego trwania przy starym świecie, który nigdy już nie powróci<sup><a href="#sdfootnote31sym" name="sdfootnote31anc">31</a></sup>, sprawi, że&nbsp;pierwsze lata pobytu w&nbsp;Nowym Jorku będą dla Mekasa dodatkowo bolesne.</p> <p>We wspomnieniach z&nbsp;tego okresu dominuje przede wszystkim nastrój izolacji. „Jestem nieskończenie, boleśnie i&nbsp;beznadziejnie samotny”, napisze Mekas w&nbsp;sierpniu 1950 roku<sup><a href="#sdfootnote32sym" name="sdfootnote32anc">32</a></sup>. Obcość potęguje z&nbsp;pewnością nieznajomość angielskiego oraz fakt, że&nbsp;dla wielu mieszkańców Ameryki Litwa była krajem trudno identyfikowalnym na&nbsp;mapie, a&nbsp;jego ojczysty język brzmiał dla ich uszu szczególnie obco. Dlatego jeszcze w&nbsp;<em>Self-portait</em>, filmie z&nbsp;1980 roku, Mekas będzie przypominał, że&nbsp;w&nbsp;jego nowej ojczyźnie większość ludzi nie potrafi poprawnie wymówić jego nazwiska. Nawet zresztą pozostali imigranci wydają mu się obcy, ponieważ szybko zapomnieli o&nbsp;swoich korzeniach, a&nbsp;przede wszystkim jako ludzie praktyczni mają inne inspiracje niż zafascynowani sztuką bracia Mekas. „Dlaczego do diaska, dlaczego nie jesteśmy tacy, jak inni imigranci, dlaczego nie zadowalają nas ich przyjemności i&nbsp;rozrywki? Oto stoimy pośrodku Brooklynu, dwie zagubione dusze”<sup><a href="#sdfootnote33sym" name="sdfootnote33anc">33</a></sup>. Jonas czuje się więc podwójnie wyizolowany, ponieważ społeczność litewskich imigrantów staje się mu coraz bardziej obca. Nie potrafi podzielić swojego życia między całkowitą akceptację warunków życia panujących w&nbsp;Nowym Jorku a&nbsp;doraźne i&nbsp;powierzchowne kultywowanie tradycji. Potrzebuje pewnego rodzaju nowej energii, ponieważ ani jedna, ani druga ojczyzna nie wydają mu się same z&nbsp;siebie wystarczająco dostępne, aby mógł czerpać z&nbsp;nich siłę.</p> <p>Impasu, w&nbsp;jakim znalazł się Mekas w&nbsp;pierwszych miesiącach pobytu w&nbsp;Ameryce, nie dało się rozładować w&nbsp;języku. W&nbsp;Nowym Jorku nie ma już sensu pisać kolejnych idylli sławiących utraconą litewską wieś, a&nbsp;innego idiomu Mekas po&nbsp;prostu nie zna. Dlatego potrzebę ekspresji musiał na&nbsp;początek zastąpić przez obserwację, ćwicząc przede wszystkim swoje spojrzenie. Znamienna wydaje się w&nbsp;tym kontekście chwila, w&nbsp;której Mekas postanawia pozostać na&nbsp;stałe w&nbsp;Nowym Jorku, chociaż pierwotnie pobyt w&nbsp;tym mieście miał stanowić tylko krótki przystanek w&nbsp;drodze do Chicago.</p> <blockquote>Staliśmy na&nbsp;wysokim betonowym nabrzeżu, spoglądając na&nbsp;sylwetkę Nowego Yorku. I&nbsp;nagle, w&nbsp;tej samej chwili, obaj, Adolfas i&nbsp;ja, powiedzieliśmy to samo: „Zostajemy tutaj. To jest to. To jest Nowy York. Tu jest centrum świata. Bylibyśmy głupcami jadąc do Chicago, skoro jesteśmy w&nbsp;Nowym Jorku!”. Decyzja była szybka i&nbsp;ostateczna. Myśleliśmy przez chwilę o&nbsp;czekającej na&nbsp;nas w&nbsp;Chicago pracy w&nbsp;piekarni, o&nbsp;mieszkaniu i&nbsp;o wszystkich dobrych ludziach gotowych nam pomóc. O&nbsp;wyborze między bezpieczeństwem i&nbsp;skokiem w&nbsp;nieznane. Spojrzeliśmy znowu na&nbsp;sylwetkę Nowego Yorku i&nbsp;powiedzieliśmy: „Nie, nigdzie stąd nie jedziemy. Dość już się napodróżowaliśmy. Zostajemy tutaj”<sup><a href="#sdfootnote34sym" name="sdfootnote34anc">34</a></sup>.</blockquote> <p>Ta nagła decyzja, podjęta pod&nbsp;wpływem chwili, jest przede wszystkim <span class="rozstrzelony">decyzją wizualną</span>. To widok panoramy Nowego Jorku stał się dla niej podłożem i&nbsp;ostatecznym argumentem. To spojrzenie zadecydowało o&nbsp;końcu wędrówki, a&nbsp;jednocześnie o&nbsp;kolejnym skoku w&nbsp;nieznane. Decyzja ta być może była także <span class="rozstrzelony">wyborem wizualności</span>, zdecydowaniem się na&nbsp;to, że&nbsp;ona będzie odtąd wskazywać im drogę.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4399-1-pb-1920x-809.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4399-1-pb-330x-1dd.jpg 330w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4399-1-pb-660x-cc5.jpg 660w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4399-1-pb-768x-a1e.jpg 768w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4399-1-pb-1320x-1f5.jpg 1320w" src="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4399-1-pb-660x-cc5.jpg" alt="" ></a>    <figcaption><p><em>Walden: Diaries, Notes and Sketches</em> (1969).</p></figcaption>   </figure>  </section><section class="u-typo">   <p>To powiązanie kondycji wygnania ze specyficznym rodzajem patrzenia, będzie naznaczało całą twórczość i&nbsp;całą egzystencję Mekasa. W&nbsp;<em>Lost, Lost, Lost</em>, jednym ze swych najważniejszych filmów, tłumaczy on swoje filmowanie w&nbsp;ten sposób: „Tak, byłem tam i&nbsp;nagrałem to dla innych, dla historii, dla tych, którzy nie znają bólu wygnania. Wiem, że&nbsp;jestem sentymentalny. Chcielibyście może, aby te obrazy były bardziej abstrakcyjne. Dobrze, nazywajcie mnie sentymentalnym. Siedzicie sobie w&nbsp;swoich własnych domach a&nbsp;ja mówię z&nbsp;akcentem i&nbsp;nie wiecie nawet skąd pochodzę. Oto kilka obrazów i&nbsp;dźwięków nagranych przez kogoś, kto przebywa na&nbsp;wygnaniu”. Ale Mekas nie tylko mówi z&nbsp;akcentem – tak że&nbsp;wszyscy od razu poznają jego obce pochodzenie – ale także z&nbsp;akcentem patrzy. I&nbsp;jego przygoda z&nbsp;filmem właśnie w&nbsp;tej wizualnej odrębności bierze swój początek.</p> <p>Doświadczenie wykorzenienia sięga w&nbsp;przypadku Mekasa samych podstaw percepcji, tego w&nbsp;jaki sposób doświadcza się zmysłowego świata. Wielokrotnie wyrażane przez niego rozczarowanie Europą ma charakter moralny i&nbsp;intelektualny. Cywilizacja, która dopuściła do – a&nbsp;nawet zorganizowała – okropności II wojny światowej, uległa w&nbsp;jego oczach ostatecznej kompromitacji. Udowodniła swoją bezsilność, a&nbsp;w wielu miejscach okazała się po&nbsp;prostu zwyrodniała. Jednocześnie jednak jej zmysłowość pozostawiła po&nbsp;sobie głęboką wyrwę, ślady, które choć blakną wraz z&nbsp;upływem lat, pozostawiają dotkliwe poczucie straty. W&nbsp;umyśle Mekasa doszło więc do swoistego <span class="rozstrzelony">sporu fakultetów</span>, w&nbsp;którym zmysłowa tęsknota i&nbsp;moralne potępienie nie mogą ze sobą pokojowo współistnieć. Dlatego musi on od samego <span class="rozstrzelony">początku swojej wędrówki liczyć się</span> z&nbsp;koniecznością akceptacji nieprzewidywalności.</p> <blockquote>Wolę iść w&nbsp;przyszłość na&nbsp;ślepo. Nie chcę dźwigać obciążającego bagażu waszych koncepcji. Ta ślepa wędrówka to nie mój wybór. Poprzednie pokolenie, wasze pokolenie, pokolenie, które wysłało mnie w&nbsp;tę podróż, nie stworzyło żadnych wiarygodnych map ani wskazówek, którym mógłbym zaufać. Nie, nie chcę żadnych kamizelek ratunkowych. Skaczę w&nbsp;najgłębszą otchłań nienazwanego. Ci, którzy się boją – niech trzymają się trupa zachodniej cywilizacji<sup><a href="#sdfootnote35sym" name="sdfootnote35anc">35</a></sup>.</blockquote> <p>Ta rzadka we wspomnieniach Mekasa bojowa odwaga odkrywania nowych kontynentów bez żadnych map ani wskazówek, ustępuje z&nbsp;czasem świadomości, że&nbsp;los wygnańca wymaga akceptacji stanów bliskich zmysłowemu wyzerowaniu, dopuszczeniu do siebie ślepoty jako koniecznego etapu przejściowego, który może prowadzić do odrodzenia. „Czasem dobrze jest zanurzyć się w&nbsp;pustkę. Być innym człowiekiem albo sobą, albo śmietnikiem... Błogosławione są godziny pustki. Moje życie oscyluje między tymi dwoma stanami, pustką i&nbsp;... tym, co stanowi jej przeciwieństwo. Cokolwiek to jest, nie jest pełnią”<sup><a href="#sdfootnote36sym" name="sdfootnote36anc">36</a></sup>. Wyjście z&nbsp;impasu wykorzenienia nie oznacza radosnego powrotu do dziecięcej <em>pleromy</em> ani żadnego triumfalnego odkrycia nowych horyzontów. To raczej powolne odbudowywanie swojego świata, przełamywanie pustki małymi krokami. Wszystkie te żmudne zabiegi składają się na&nbsp;trudny proces <span class="rozstrzelony">nauki patrzenia</span>, koniecznej dla obcego praktyki otwierania oczu na&nbsp;nowo.</p> <p></p> <p>Jak patrzy emigrant? Jakie są właściwości jego spojrzenia? To pytania, które dotykają samych podstaw tego, co dla Mekasa oznacza bycie filmowcem. Właściwie nigdy nie opuścił on obozu dla dipisów i&nbsp;wiódł życie tak samo prowizoryczne i&nbsp;pełne materialnej niepewności, jak wówczas gdy po&nbsp;zakończeniu wojny szukał dla siebie odpowiedniego miejsca na&nbsp;ziemi. W&nbsp;jego wspomnieniach wielokrotnie powraca identyfikacja z&nbsp;uchodźcą. „Czy jestem Cyganem, obywatelem świata, wiecznym dipisem? Przyjmuję wszystkie doświadczenia i&nbsp;– w&nbsp;odróżnieniu od wielu Litwinów, których tutaj znam – sprawiam, że&nbsp;stają się częścią mnie, bez względu na&nbsp;to, gdzie jestem. Gdyby ktokolwiek próbował teraz rozdzielić mnie z&nbsp;Nowym Jorkiem, to wiem, że&nbsp;takie rozstanie pozostawiłoby otwartą ranę, a&nbsp;przynajmniej bliznę – tak jak zawsze wcześniej było“<sup><a href="#sdfootnote37sym" name="sdfootnote37anc">37</a></sup>, pisał w&nbsp;sierpniu 1950 roku. Mekas nie jest w&nbsp;stanie oddzielić od siebie statusu wygnańca i&nbsp;doświadczenia. Dla niego wykorzenienie jest podstawowym elementem wszelkiego doświadczenia, do tego stopnia, że&nbsp;żadne kolejne przywiązanie do określonego miejsca nie jest w&nbsp;stanie go zakwestionować. Czasem nawet uznaje ten niezbywalny status uchodźcy za&nbsp;rodzaj przywileju. „Siedzę i&nbsp;myślę. Dzisiaj mija dokładnie rok od mojego przyjazdu do Ameryki, do Nowego Yorku. Mieliśmy luksus bycia dipisami. Mieliśmy luksus smakowania Nowego Yorku od środka, jako imigranci. Imaliśmy się wielu zajęć, pracując ramię w&nbsp;ramię z&nbsp;robotnikami różnych zawodów”<sup><a href="#sdfootnote38sym" name="sdfootnote38anc">38</a></sup>. Poznawanie nowych miejsc „jako imigrant“ wydaje się dla Mekasa – przy całym dramatyzmie sytuacji – zbyt pociągające, aby jego twórczość uznać za&nbsp;realizację „strategii zadomowienia”, która miałaby go uczynić pełnoprawnym mieszkańcem Ameryki<sup><a href="#sdfootnote39sym" name="sdfootnote39anc">39</a></sup>. Jego aspiracją nie jest wcale przezwyciężenie obcości, ale uczynienie z&nbsp;niej nowego punktu widzenia, nowego sposobu doświadczania. To między innymi dlatego w&nbsp;<em>Self-portrait</em> mówił: „Nowy York jest moim nowym domem. Wciąż nowym nawet dzisiaj”.</p> <p>Analizując własną sytuację imigranta, Mekas zdaje sobie doskonale sprawę z&nbsp;tego, że&nbsp;pełne przystosowanie do nowej rzeczywistości jest jedynie iluzją, której hołdowanie przysporzyć może raczej dodatkowych cierpień, niż naprawdę pozwolić pogodzić się ze sobą. Dlatego w&nbsp;wyrzuceniu poza koleiny akceptowanego przez większość scenariusza życia widzi szansę dla siebie. Ironizuje często na&nbsp;temat standaryzacji szczęścia, w&nbsp;które nie jest w&nbsp;stanie uwierzyć. „Tak, oto klucz do szczęścia: bądź jak wszyscy, żyj jak wszyscy, kochaj jak wszyscy, myśl, zachowuj się, jedz, i, na&nbsp;koniec, umrzyj jak wszyscy. Jest w&nbsp;tym jednak pewien haczyk: musisz się w&nbsp;tym kraju urodzić, musisz czuć się u&nbsp;siebie”<sup><a href="#sdfootnote40sym" name="sdfootnote40anc">40</a></sup>. Jednak spojrzenie Mekasa – choć dalekie od błogiego zakorzenienia – nie jest po&nbsp;prostu pozbawione punktów zaczepienia. Jego zaletą nie jest absolutna wolność od przywiązania, ale coś zgoła przeciwnego: zdolność do niego. W&nbsp;jednym z&nbsp;najbardziej intrygujących fragmentów swoich wspomnień Mekas tak ujmuje swoją nieumiejętność trwania przy jednym wybranym zawodzie. „Może to dlatego, że&nbsp;życie nauczyło mnie nie przywiązywać się do miejsca. A&nbsp;może raczej chodzi o&nbsp;to, że&nbsp;przywiązuję się zbyt łatwo. Każde miejsce uznaję za&nbsp;swoje. Zostaw mnie na&nbsp;środku pustyni, wróć po&nbsp;roku, a&nbsp;zdążę zapuścić korzenie. Dlatego jestem w&nbsp;ciągłym ruchu”<sup><a href="#sdfootnote41sym" name="sdfootnote41anc">41</a></sup>. A&nbsp;zatem w&nbsp;spojrzeniu Mekasa na&nbsp;obcy świat, w&nbsp;którym przyszło mu żyć, zawarty jest pewien podstawowy dialektyczny element. Z&nbsp;jednej strony nie może on patrzeć na&nbsp;to, co go otacza, jako na&nbsp;własną przestrzeń, daną raz na&nbsp;zawsze i&nbsp;dobrze rozpoznaną. Z&nbsp;drugiej strony nie wytrzymuje w&nbsp;sytuacji jednoznacznego dystansu, w&nbsp;którym wszelkie próby oswojenia znikają bezpowrotnie. Szybko zawiązuje relacje, przylega do rzeczy, aby potem równie szybko się od nich oddzielić. W&nbsp;ten sposób zyskuje unikalny wgląd w&nbsp;ich zmienność, pulsujący rytm swojskości i&nbsp;obcości, bliskości i&nbsp;dali.</p> <p>W chwili początkowego ruchu ku rzeczom spojrzenie imigranta jest więc <span class="rozstrzelony">wygłodniałe</span>. Wspominając swoje lata obozowe, Mekas zauważa ścisły związek między niedożywieniem a&nbsp;doświadczeniem wizualnym. „Zapewne kiedy człowiek nie je dzień czy dwa, widzi rzeczy, których normalnie by nie zobaczył. A&nbsp;jeżeli ma pełny brzuch, po&nbsp;co miałby cokolwiek oglądać”<sup><a href="#sdfootnote42sym" name="sdfootnote42anc">42</a></sup>. Z&nbsp;tych słów wyczytać można nawet rodzaj etycznej maksymy, która każe bronić się przed sytością, która stępia wrażliwość i&nbsp;oducza patrzenia. Tylko wieczny głód pokazuje jak patrzeć, jak pragnąć widzieć rzeczy. Przymieranie głodem stanowi dla Mekasa, jak wielokrotnie powtarza, stały element życia, nawet wówczas gdy osiągnął on już międzynarodową sławę<sup><a href="#sdfootnote43sym" name="sdfootnote43anc">43</a></sup>. „To jest prawdziwa historia awangardowych artystów – a&nbsp;nie ta, którą czytacie w&nbsp;krajowych czasopismach: proste codzienne przetrwanie, próba uniknięcia śmierci głodowej. A&nbsp;co dopiero kupienie nowej rolki filmu!”<sup><a href="#sdfootnote44sym" name="sdfootnote44anc">44</a></sup>. Doświadczenie głodu, jego przekształcenie w&nbsp;rodzaj etycznego wymogu uważności, wiąże się ściśle z&nbsp;samą kondycją wygnania, której nieodłącznym elementem jest umiejętność zdobywania nowych przestrzeni i&nbsp;godzenia się z&nbsp;utratą starych oraz tym, że&nbsp;tego, co zdobyte, nigdy nie posiada się w&nbsp;pełni na&nbsp;własność. W&nbsp;trakcie jednej z&nbsp;rozmów ze znajomymi, na&nbsp;ich niepokój, że&nbsp;skończy jako włóczęga, Mekas odpowiedział: „Jeżeli według ciebie włóczęga to ktoś, kto nie chce nic mieć, nie chce wykorzystywać ludzi i&nbsp;niszczyć planety – to jestem nim, a&nbsp;włóczędzy są moimi prawdziwymi przyjaciółmi”<sup><a href="#sdfootnote45sym" name="sdfootnote45anc">45</a></sup>.</p> <p>Patrzeć jak ktoś, kto niczego nie posiada, nie oznacza jednak patrzeć bez chęci zaspokojenia głodu. Wręcz przeciwnie, pragnienie nasycenia jest stale obecne w&nbsp;tym spojrzeniu, a&nbsp;gdy natrafia ono na&nbsp;szczęście ludzi urodzonych na&nbsp;miejscu, staje się nawet spojrzeniem podglądacza. Tak myśli o&nbsp;sobie Mekas, gdy samotnie przemierza ulice Nowego Jorku. „Dipis jako voyeur. Imigrant jako podglądacz. Niezły tytuł mojej obecnej egzystencji”<sup><a href="#sdfootnote46sym" name="sdfootnote46anc">46</a></sup>, zapisuje w&nbsp;swoich wspomnieniach z&nbsp;1950 roku. Pięć lat później to nienasycone spojrzenie nie słabnie.</p> <blockquote>Obserwowałem dziewczyny i&nbsp;chłopców na&nbsp;Linden Street, ach, jakże pragnąłem być jednym z&nbsp;nich, wysiadywać w&nbsp;drugstorach i&nbsp;grać na&nbsp;automatach – być kimś takim jak oni. Jakże chciałem czuć ulicę, tak jak oni ją czuli, rozpoznawać każdy kąt, każdego sklepikarza, barmana, listonosza – czuć się częścią tego wszystkiego – żartować, śmiać się i&nbsp;wołać z&nbsp;okna po&nbsp;imieniu do dziewczyn po&nbsp;drugiej stronie ulicy – tak jak robili to chłopcy z&nbsp;sąsiedztwa. Jednak mogłem tylko siedzieć w&nbsp;kącie pustego mieszkania, samotny, w&nbsp;wytartej marynarce dipisa, i&nbsp;patrzeć na&nbsp;nich z&nbsp;zazdrością<sup><a href="#sdfootnote47sym" name="sdfootnote47anc">47</a></sup>.</blockquote> <p>Gdy spojrzenie wygnańca zostanie uzbrojone w&nbsp;kamerę, nawet ta zazdrość zmieni się w&nbsp;rodzaj medium doświadczenia, którego nikt z&nbsp;zadomowionych mieszkańców Nowego Jorku nie mógłby w&nbsp;sobie odnaleźć. Wydaje się, jakby szczęście zakorzenienia było dostępne tylko w&nbsp;osamotnionym i&nbsp;tęsknym spojrzeniu dipisa.</p> <p></p> <p>Dlatego wygłodniałe, zazdrosne patrzenie Mekasa jest także patrzeniem maksymalnie <span class="rozstrzelony">empatycznym</span>, gdyż w&nbsp;sytuacji zazdrości wydobywa, niekoniecznie rzucającą się w&nbsp;oczy, intensywność doświadczenia innego. Nie przypadkiem pierwsze kroki z&nbsp;kamerą w&nbsp;ręku skierował on ku imigrantom, których los chciał objąć swoim współczującym spojrzeniem. Również dzięki skupieniu i&nbsp;głodowi był w&nbsp;stanie dostrzec w&nbsp;mechanicznych czynnościach pracowników biura pośrednictwa pracy coś więcej niż tylko chłód i&nbsp;bezwzględność. „Przyjrzałem się im. Niesprawiedliwie byłoby oskarżać ich o&nbsp;to, że&nbsp;są robotami, pomyślałem. Gdy wykonują mechaniczne gesty, nieustannie nękani przez kolejnych petentów, pod&nbsp;naporem tego tłumu głodnych, obdartych, zdesperowanych ludzi – ta mechaniczność nabiera nieco ludzkich oznak, subtelnie człowieczeje. Nawet maszyny wykształciłyby serca i&nbsp;oczy, gdyby miały do czynienia z&nbsp;takim bezmiarem nędzy i&nbsp;nieszczęścia”<sup><a href="#sdfootnote48sym" name="sdfootnote48anc">48</a></sup>. Jakkolwiek paradoksalnie mogłoby to zabrzmieć, u&nbsp;Mekasa podglądactwo stanowi rodzaj pomostu łączącego go z&nbsp;obcymi i&nbsp;pozwalającego dostrzec w&nbsp;nich nie tylko to, co inne, ale również pewien wspólny rdzeń, który trwa pomimo dystansu i&nbsp;różnic. Empatia rodzi się wówczas, gdy zazdrość i&nbsp;głód intensyfikują samo patrzenie zamiast pchać imigranta ku natychmiastowemu zaspokojeniu.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4401-1-pb-1920x-809.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4401-1-pb-330x-1dd.jpg 330w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4401-1-pb-660x-cc5.jpg 660w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4401-1-pb-768x-a1e.jpg 768w,assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4401-1-pb-1320x-1f5.jpg 1320w" src="assets/cache/images/issues/2015/10/wysiedlone-spojrzenie/299-4401-1-pb-660x-cc5.jpg" alt="" ></a>    <figcaption><p><em>Walden: Diaries, Notes and Sketches</em> (1969).</p></figcaption>   </figure>  </section><section class="u-typo">   <p>W ten sposób rodzi się w&nbsp;ramach doświadczenia wygnania pewien rodzaj samoświadomości, który sprawia, że&nbsp;spojrzenie Mekasa jest również spojrzeniem <span class="rozstrzelony">poetyckim</span>. Próbując wyjaśnić przyjacielowi, na&nbsp;czym polega specyfika życia w&nbsp;Stanach Zjednoczonych i&nbsp;dlaczego w&nbsp;gruncie rzeczy zdecydował się w&nbsp;nich pozostać, pisze:</p> <blockquote>Gdybyś był zwykłym, prostym robotnikiem, napisałbym ci tak: jedź do Australii, Brazylii, gdziekolwiek. Zapomnij o&nbsp;Ameryce, wykreśl ją ze swoich planów. Chcesz wysiadywać godzinami w&nbsp;agencjach zatrudnienia i&nbsp;oglądać tłumy ludzi szukających pracy, bezradnie ściskająycch w&nbsp;ręku gazetę z&nbsp;ogłoszeniami? Każdy dzień pracy jest tutaj na&nbsp;wagę złota, oznacza przetrwanie. [...] Ale pracy nie ma. Światowe rynki się kurczą. [...] Ale ty jesteś poetą. Mówię ci więc: Przyjeżdżaj do Ameryki! Doświadczysz ciemnej strony pewnego wielkiego marzenia: kapitalizmu. Warto. W&nbsp;Europie zawsze czułem, że&nbsp;jestem jakimś wyjątkiem, kimś niepodobnym do innych. Byłem dipisem, Litwinem, poetą. Tutaj dla odmiany, gdy stoję w&nbsp;kolejce, siedzę w&nbsp;zadymionym biurze pośrednictwa pracy na&nbsp;Warren Street lub gdy wtopię się w&nbsp;tłum na&nbsp;Czterdziestej Drugiej Ulicy, jestem tylko jeszcze jednym pozbawionym pracy robotnikiem. Nieróżniącym się od pozostałych. Jednym z&nbsp;tłumu. Jednym z&nbsp;milionów, którzy co wieczór, wróciwszy do domu bez pracy, ciskają marynarkę w&nbsp;kąt, rzucają się na&nbsp;łóżko i&nbsp;przeglądają najświeższą gazetę, czytają artykuł o&nbsp;wakacjach na&nbsp;Florydzie...<sup><a href="#sdfootnote49sym" name="sdfootnote49anc">49</a></sup>.</blockquote> <p>Bolesna inicjacja, jaką przechodzi Mekas, który musi w&nbsp;swych własnych oczach przejść od bycia poetą do bycia człowiekiem z&nbsp;tłumu, jest jednocześnie, paradoksalnie, inicjacją w&nbsp;poetycki sposób patrzenia, ponieważ tylko dzięki niemu można dostrzec różnicę między Ameryką dla robotnika a&nbsp;Ameryką dla poety. Dostrzeżenie pospolitości swojej pozycji wymaga takiej uwagi, która zdejmie nam bielmo z&nbsp;oczu, pokaże we właściwym świetle wzniosłe marzenia rozgrzewane przez kapitalistyczną ideologię. Nawet krytyczny ogląd własnej pozycji społecznej oraz systemu, który opiera się na&nbsp;niesprawiedliwości, możliwy jest więc dzięki spojrzeniu poetyckiemu, stanowi w&nbsp;gruncie rzeczy jedną z&nbsp;jego odmian.</p> <p></p> <p>Nauka patrzenia, której poddaje się uchodźca nie kończy się jeszcze w&nbsp;tym miejscu. Kolejnym wymiarem spojrzenia, którego się uczy jest bowiem coś, co należałoby nazwać <span class="rozstrzelony">spojrzeniem rozbieżnym</span>. To rodzaj scysji widzenia, konfliktu, który zachodzi w&nbsp;samej percepcji patrzenia, i&nbsp;czyni ją aktem na&nbsp;wskroś niejednoznacznym, ale dzięki temu zdolnym do przekazania tak skomplikowanego i&nbsp;dramatycznego losu, jak los emigranta. I&nbsp;tylko w&nbsp;tej rozbieżnej perspektywie rozprasza się odrobinę mrok najsilniejszej pokusy wygnańca, jaką jest nostalgia. Wiadomo, jak bardzo męczyła ona Mekasa.</p> <blockquote>Ach, ale co tęsknota za&nbsp;domem ma wspólnego z&nbsp;wygodnym życiem? Nie to staje mi przed oczami, kiedy dopada mnie nostalgia. Widzę co innego. Rzeczy, których nie znalazłem nigdzie indziej, w&nbsp;żadnej z&nbsp;dolin, gór, jezior, rzek, jakie od tamtego czasu poznałem – nigdzie. I&nbsp;kiedy przewracam stronice książek, one zmieniają się w&nbsp;ból. Nie da się tego znaleźć w&nbsp;wersach Mallarmégo ani Rilkego. Ani w&nbsp;błękitnym, rozedrganym świetle obrazów d’Annunzia. Nie ma tego w&nbsp;smaganych wichrami północnych równinach Verhaerena ani Hamsuna. Nie ma w&nbsp;surowej zieleni Faulknera ani w&nbsp;bagiennych krajobrazach Wiecherta. Nigdzie<sup><a href="#sdfootnote50sym" name="sdfootnote50anc">50</a></sup>.</blockquote> <p>Desperacka próba wskrzeszenia utraconej ojczyzny sprawia, że&nbsp;Mekas jest gotów zrezygnować ze swojego losu wygnańca i&nbsp;na siłę uczynić Nowy Jork drugą Litwą, chociaż w&nbsp;gruncie rzeczy świetnie zdaje sobie sprawę, że&nbsp;jest to tylko mechanizm obronny przed dotkliwym poczuciem straty.</p> <blockquote>Nie wiem, od jak dawna jestem w&nbsp;tym mieście, ale czuję, że&nbsp;jego ulice, parki, wieczory stały się częścią mnie. Czuję, że&nbsp;nie chciałbym go nigdy opuścić. Nigdy. Czuję się, jakbym na&nbsp;nowo odnalazł swój dom. Mam nadzieję, że&nbsp;nigdy nie będę musiał go opuszczać. A&nbsp;może wciąż próbuję go nie opuścić... Rozpaczliwie próbuję stworzyć nowy zestaw wspomnień, dzięki ktoremu będę mógł oprzeć się tym słodkim głosom, przyzywającym mnie do domu. Do domu, do którego, wiem to, nie ma już powrotu<sup><a href="#sdfootnote51sym" name="sdfootnote51anc">51</a></sup>.</blockquote> <p>Strategia obrony przed powracającymi wspomnieniami ojczystych stron nie ma jednak wyłącznie negatywnego charakteru, a&nbsp;ulepienie z&nbsp;Nowego Jorku nowej Litwy, nowego bloku wspomnień, analogicznego do prześladującej pamięci ojczyzny, stanowi zaczątek tego, co nazwaliśmy tutaj spojrzeniem rozbieżnym.</p> <p></p> <p>Konieczność oparcia się pokusie nostalgii celnie dostrzegł Miłosz, próbując uczynić z&nbsp;Mekasa patrona wszystkich pisarzy tworzących na&nbsp;emigracji.</p> <blockquote>Dochodzimy tutaj do sedna poezji tworzonej na&nbsp;wygnaniu. By pisać dobrze, trzeba dotrzeć głębiej niż warstwa nostalgii. I&nbsp;w tym właśnie leży siła dystansu. „Dystans jest duszą piękna”. To zdanie Simone Weil wyraża starą prawdę: jedynie poprzez dystans, w&nbsp;przestrzeni i&nbsp;w czasie, rzeczywistość zostaje oczyszczona. Nasze pierwotne obawy, które czyniły nas ślepymi na&nbsp;piękno rzeczy powszednich, znikają, a&nbsp;spojrzenie za&nbsp;siebie ujawnia rzeczy w&nbsp;szczegółach każdej chwili<sup><a href="#sdfootnote52sym" name="sdfootnote52anc">52</a></sup>.</blockquote> <p>Choć wydaje się, że&nbsp;los wygnańca zawiera w&nbsp;sobie poważniejsze dramaty i&nbsp;w związku z&nbsp;tym poważniejsze wymogi, niż ten by „pisać dobrze” i&nbsp;dostrzec piękno drobnych rzeczy, Miłosz wydaje się chwytać rzecz kluczową dla poetyki Mekasa. Poetyki, która – wbrew estetyzującemu obrazowi pokonanej nostalgii stworzonemu przez polskiego poetę – ściśle wiąże się z&nbsp;indywidualnym ocaleniem oraz możliwością ratunku przed czarną dziurą owego Nigdy i&nbsp;Nigdzie, które powtarzają się we wspomnieniach. Spojrzenie rozbiene jest, jak pisze Miłosz, „spojrzeniem za&nbsp;siebie”, które jednocześnie ujawnia „rzeczy w&nbsp;szczegółach każdej chwili”. Choć druga część zdania może wydać się z&nbsp;początku niezrozumiała, jej sens okazuje się jasny w&nbsp;kontekście całej nauki patrzenia, jaką staraliśmy się tutaj zrekonstruować. Chodzi bowiem o&nbsp;umiejętność łączenia ze sobą spojrzenia na&nbsp;całą złożoność i&nbsp;bogactwo tego, co nas otacza, ze spojrzeniem na&nbsp;to, co intensywnie wzywa nas z&nbsp;przeszłości. Mekas często daje wyraz swojej nieumiejętności dokonania takiego połączenia.</p> <blockquote>Uparcie idę w&nbsp;nieznane, byle tylko zapomnieć, nie słyszeć głosów przeszłości, podstawową zasadą i&nbsp;sposobem mojego życia czyniąc poszukiwanie nowego. Czasami udaje mi się uciec od przeszłości i&nbsp;zaczynam żyć teraźniejszością, wreszcie świadom tego, co widzę, słyszę, czego dotykam. Potem znowu wsysa mnie przeszłość i&nbsp;tracę kontakt z&nbsp;rzeczywistością<sup><a href="#sdfootnote53sym" name="sdfootnote53anc">53</a></sup>.</blockquote> <p>W słowach tych wciąż mamy do czynienia z&nbsp;nieprzekraczalną alternatywą: albo uważność na&nbsp;konkret „tu i&nbsp;teraz”, albo oglądanie się za&nbsp;siebie ku temu, co utracone. Ale patrzenie rozbieżne byłoby takim rodzajem patrzenia, w&nbsp;którym te dwa kierunki mieszają się ze sobą, nawzajem się wzmacniając. Nostalgia nie odrywałaby nas już wtedy od teraźniejszości, lecz stanowiłaby jej intensyfikację, podobnie jak każde uważne spojrzenie wokół siebie syciłoby się tym, co widziane było kiedyś. Stawałaby się w&nbsp;ten sposób polem napięć, w&nbsp;którym patrzenie za&nbsp;siebie i&nbsp;przed siebie są nierozdzielne i&nbsp;przyprawiając patrzącego o&nbsp;zawrót głowy, otwierałaby przed nim perspektywy nowego rodzaju widzenia. Właśnie w&nbsp;tym momencie pomieszania nowego ze starym, nostalgii z&nbsp;intensywnym zaangażowaniem w&nbsp;teraźniejszość rodzi się awangarda według Jonasa Mekasa. Rodzi się z&nbsp;biograficznego, cielesnego, zmysłowego doświadczenia, które stopniowo przekształca się w&nbsp;film.</p> <p></p> <p><b>Artykuł stanowi fragment pracy o&nbsp;roboczym tytule </b><em><b>Obrazy uchodźcze</b></em><b>.</b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Bertolt Brecht, <em>Sonet na emigracji</em>, w: <em>Ten cały Brecht</em>, przeł. J.S. Buras, J. Ekier, A. Kopacki, P. Sommer, Biuro Literackie, Wrocław 2012, s. 122.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Enzo Traverso, <em>La pensée dispersée. Figures de l’exil judéo-allemand</em>, Lignes &amp; Manifestes, Paris 2004, s. 7.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Na temat emigracji ludzi kultury i sztuki, por. Hörst Moller, <em>Exodus der Kultur. Schriftsteller, Wissenschaftler un Künstler in der Emigration nach 1933, </em>C.H. Beck, München 1984; <em>Exil. Flucht und Emigration europäischer Künstler 1933-1945</em>, red. S. Barron, S. Eckmann, Prestel, München &amp; New York 1997. Na polskim rynku wydawniczym problematykę tę podjęli ostatnio autorzy tomu <em>Migracje modernizmu</em>, red. T. Majewski, W. Marzec, A. Rejniak-Majewska.<em></em>Na temat związku między historią XX wieku a emigracją, por. też: Hans Magnus Enzensberger, <em>Die grosse Wanderung. 33 Markierungen</em>, Suhrkamp Verlag, Frankfurt am Main 1992.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Por. Geörgy Lukács, <em>Sztuka powieści. Esej historyczno-filozoficzny o wielkich formach powieści</em>, przeł. J. Goślicki, PIW, Warszawa 1968, s. 33.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Peter Sloterdijk, <em>Versuch über das Leben der Künstler</em>, w: idem, <em>Der ästhetische Imperativ</em>, Fundus Verlag, Hamburg 2007, s. 309.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Ibidem, s. 309.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Edward W. Said, <em>Myśli o wygnaniu</em>, przeł. J. Gutorow, „Literatura na Świecie“, 2008, nr 9-10, s. 52.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Ibidem, s. 40.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Hannah Arendt, <em>My uchodźcy</em>, przeł. H. Bortnowska, „Przegląd Polityczny” 2002, nr 55, s. 75.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Na zależność między tymi dwoma zjawiskami wskazuje nie tylko Arendt, ale również Said. Por. Edward W. Said, <em>Myśli o wygnaniu</em>..., s. 44-45 oraz Hannah Arendt, <em>Korzenie totalitaryzmu</em>, przeł. M. Szawiel, D. Grinberg, WAiP, Warszawa 2008, s. 374-404.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Giorgio Agamben, <em>My, uchodźcy</em>, przeł. K. Gawlicz, w: <em>Agamben. Przewodnik Krytyki Politycznej</em>, Wydawnictwo Krytyki Politycznej, Warszawa 2010, s. 30-31.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Pozwala także dokonać istotnych rozróżnień, na przykład między wygnańcem, uchodźcą, ekspatriantem i emigrantem, jak czyni to Said. Por. Edward W. Said, <em>Myśli o wygnaniu</em>..., s. 49.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Enzo Traverso, <em>La pensée dispersée</em>..., s. 7.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Svetlana Boym, <em>The Future of Nostalgia</em>, Basic Groups, New York 2001, s. 252.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Svetlana Boym, <em>Nostalgia i postkomunistyczna pamięć</em>, w: <em>Nostalgia. Eseje o tęsknocie za komunizmem</em>, red. F. Modrzejewski, M. Sznajderman, Wydawnictwo Czarne, Wołowiec 2002, s. 277.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Georg Simmel, <em>Obcy</em>, w: idem, <em>Most i drzwi. Wybór esejów</em>, przeł. M. Łukasiewicz, Oficyna Naukowa, Warszawa 2006, s. 208.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ibidem, s. 209.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Enzo Traverso, <em>La pensée dispersée</em>..., s. 10-11.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Edward W. Said, <em>Myśli o wygnaniu</em>..., s. 56.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Peter Bürger, <em>Teoria awangardy</em>, przeł. J. Kita-Huber, Universitas, Kraków 2006, s. 27.</p>
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a><em>Ibidem</em>, s. 23 i 24.</p>
+<p><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a><em>Ibidem</em>, s. 81.</p>
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a> Georg Simmel, <em>Obcy</em>..., s. 204.</p>
+<p><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a> Jonas Mekas, <em>Nie miałem dokąd iść</em>, przeł. M. Wawrzyńczak, Pogranicze, Sejny 2007, s. 311.</p>
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a> Ibidem, s. 208.</p>
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a> Czesław Miłosz, <em>Mekas</em>, „Krasnogruda” 2001, nr 14, s. 77.</p>
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a> Jonas Mekas, <em>Nie miałem dokąd iść</em>..., s. 168-169.</p>
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a> Ibidem, s. 426-427.</p>
+<p><a href="#sdfootnote29anc" name="sdfootnote29sym">29</a> Ibidem, s. 288.</p>
+<p><a href="#sdfootnote30anc" name="sdfootnote30sym">30</a> Cykl poetyckich idylli wydaje się jednak dowodzić, że utrata jest ostateczna. Por. Vyt Bakaitis, <em>Itaka nie istnieje. O poezji Jonasa Mekasa</em>, „Krasnogruda” 2001, nr 14, s. 78-79.</p>
+<p><a href="#sdfootnote31anc" name="sdfootnote31sym">31</a> W liście do Vileisisa Mekas broni tezy, według której „prawdziwy Litwin jest rolnikiem i powinien nim pozostać”, nazywając jednocześnie gówniarzami wszystkich swoich kompatriotów, którzy entuzjastycznie integrują się z życiem nowoczesnych metropolii. Por. Jonas Mekas, <em>Nie miałem dokąd iść</em>..., s. 176-177.</p>
+<p><a href="#sdfootnote32anc" name="sdfootnote32sym">32</a> Ibidem, s. 331.</p>
+<p><a href="#sdfootnote33anc" name="sdfootnote33sym">33</a> Ibidem, s. 317.</p>
+<p><a href="#sdfootnote34anc" name="sdfootnote34sym">34</a> Ibidem, s. 294.</p>
+<p><a href="#sdfootnote35anc" name="sdfootnote35sym">35</a> Ibidem, s. 109.</p>
+<p><a href="#sdfootnote36anc" name="sdfootnote36sym">36</a> Ibidem, s. 153.</p>
+<p><a href="#sdfootnote37anc" name="sdfootnote37sym">37</a> Ibidem, s. 330.</p>
+<p><a href="#sdfootnote38anc" name="sdfootnote38sym">38</a> Ibidem, s. 353-354.</p>
+<p><a href="#sdfootnote39anc" name="sdfootnote39sym">39</a> Taką hipotezę przedstawia Magdalena Podsiadło w swoim artykule poświęconym życiu i twórczości Mekasa. Zob. Magdalena Podsiadło, <em>Jonas Mekas – przybysz trwale przemieszczony</em>, w: <em>Bunt i nostalgia</em>, red. Ł. A. Plesnar, R. Syska, Rabid, Kraków 2007, s. 158-162. Tezę rozwinęła w rozdziale swojej książki poświęconej filmowemu autobiografizmowi. Zob. Magdalena Podsiadło, <em>Autobiografizm filmowy jako ślad podmiotowej egzystencji</em>, Universitas, Kraków 2013, s. 137-162.</p>
+<p><a href="#sdfootnote40anc" name="sdfootnote40sym">40</a> Ibidem, s. 326.</p>
+<p><a href="#sdfootnote41anc" name="sdfootnote41sym">41</a> Ibidem, s. 398.</p>
+<p><a href="#sdfootnote42anc" name="sdfootnote42sym">42</a> Ibidem, s. 66.</p>
+<p><a href="#sdfootnote43anc" name="sdfootnote43sym">43</a> Por. <em>Jak cień... </em>z Jonasem Mekasem rozmawia Jérôme Sans, „Krasnogruda” 2001, nr 14, s. 87.</p>
+<p><a href="#sdfootnote44anc" name="sdfootnote44sym">44</a> Jonas Mekas, <em>Movie Journal: The Rise of the New American Cinema 1959-1971</em>, Collier Books, New York 1972, s. 162.</p>
+<p><a href="#sdfootnote45anc" name="sdfootnote45sym">45</a> Jonas Mekas, <em>Nie miałem dokąd iść</em>..., s. 344.</p>
+<p><a href="#sdfootnote46anc" name="sdfootnote46sym">46</a> Ibidem, s. 328.</p>
+<p><a href="#sdfootnote47anc" name="sdfootnote47sym">47</a> Ibidem, s. 460.</p>
+<p><a href="#sdfootnote48anc" name="sdfootnote48sym">48</a> Ibidem, s. 302.</p>
+<p><a href="#sdfootnote49anc" name="sdfootnote49sym">49</a> Ibidem, s. 304.</p>
+<p><a href="#sdfootnote50anc" name="sdfootnote50sym">50</a> Ibidem, s. 191.</p>
+<p><a href="#sdfootnote51anc" name="sdfootnote51sym">51</a> Ibidem, s. 468.</p>
+<p><a href="#sdfootnote52anc" name="sdfootnote52sym">52</a> Czesław Miłosz, <em>Mekas</em>..., s. 77.</p>
+<p><a href="#sdfootnote53anc" name="sdfootnote53sym">53</a> Jonas Mekas, <em>Nie miałem dokąd iść</em>..., s. 466-467.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/2015/10-polski-wiek-xix.-kompleks-wizualny/wysiedlone-spojrzenie.-o-autobiografii-jonasa-mekasa" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

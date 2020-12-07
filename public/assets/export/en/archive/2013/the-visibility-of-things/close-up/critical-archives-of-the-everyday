@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Krytyczne archiwa codzienności | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/krytyczne-archiwa-codziennosci">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Krytyczne archiwa codzienności | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Krytyczne archiwa codzienności | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/krytyczne-archiwa-codziennosci">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Krytyczne archiwa codzienności | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ff5239 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ff5239 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ff5239 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ff5239 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ff5239 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ff5239 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ff5239 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+			/* background-color:#ff5239 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,82,57,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ff5239 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ff5239; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,82,57,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,82,57,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ff5239 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ff5239 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ff5239 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1339 parent-id-1332">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="419" data-selected-issue-color="#ff5239" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/the-visibility-of-things#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/the-visibility-of-things/critical-archives-of-the-everyday">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/widzialnosc-rzeczy#toc">1</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/krytyczne-archiwa-codziennosci?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Krytyczne archiwa codzienności</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/widzialnosc-rzeczy/krytyczne-archiwa-codziennosci?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=308">Paweł Mościcki</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p>Konsumpcja jest mitem. Oznacza to, że&nbsp;jest ona wypowiedzią współczesnego społeczeństwa o&nbsp;sobie samym, językiem, w&nbsp;jakim mówi o&nbsp;sobie samym i&nbsp;jakim się ze sobą porozumiewa.</p> <p style="text-align: right;">Jean Baudrillard<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a><br><br></sup><sup></sup></p> </blockquote> <p>Projekt artystyczny <em>Ty. Ja. Rzeczy</em> Tomasza Szerszenia odwołuje się przede wszystkim do założonego w&nbsp;latach 60. pisma, które stawiało sobie za&nbsp;cel pokazywanie społeczeństwu PRL obrazu zachodniego stylu życia, prezentując najnowsze trendy w&nbsp;modzie, sztuce użytkowej, fotografii, itd. Artysta wykorzystał ikonografię zawartą w&nbsp;numerach periodyku do stworzenia własnych kolaży, które mają stanowić rodzaj indywidualnej lektury tego, co wówczas prezentowano polskiemu społeczeństwu jako szansę na&nbsp;życie pełne luksusu i&nbsp;zadowolenia.</p> <p>Oprócz fotomontaży projekt obejmuje także ścieżkę dźwiękową, na&nbsp;której kobieta i&nbsp;mężczyzna czytają fragmenty pierwszego rozdziału powieści <em>Rzeczy</em> Georges'a Pereca, której tematem jest między innymi zmieniający się świat konsumpcji oraz pragnienie posiadania. Tytuł projektu nawiązuje więc nie tylko do konkretnego czasopisma, ale również do powieści, a&nbsp;co za&nbsp;tym idzie także do pewnego intelektualno-artystycznego kontekstu, z&nbsp;którego wyrosła. Właśnie ów kontekst wydaje mi się ciekawym punktem odniesienia dla pracy Tomasza Szerszenia i&nbsp;chciałbym, na&nbsp;podstawie jego krótkiej rekonstrukcji, wskazać możliwe ścieżki interpretacji. Skupię się na&nbsp;trzech postaciach, które w&nbsp;latach 60. XX wieku tworzyły zbliżoną do siebie, choć wyrażaną na&nbsp;różne sposoby, wizję nowoczesnego społeczeństwa. Oprócz samego Pereca będą to również Henri Lefebvre i&nbsp;Guy Debord. Postaram się także pokazać, w&nbsp;jaki sposób każda z&nbsp;tych koncepcji pozwala analizować projekt Tomasza Szerszenia oraz w&nbsp;jaki sposób problematyzuje relacje pojęcia archiwum i&nbsp;codzienności.</p> <h2>Henri Lefebvre – archiwum jako skrypt</h2> <p>Z kontekstem powstania <em>Rzeczy </em>Pereca Henri Lefebvre‘a łączy przede wszystkim chwilowa znajomość z&nbsp;początkującym pisarzem oraz to, że&nbsp;pomógł mu znaleźć pracę analityka rynkowego. Niewątpliwie mogło to wpłynąć na&nbsp;fakt, iż&nbsp;Jerôme, bohater <em>Rzeczy,</em> zajmuje się sporządzaniem ankiet dla agencji reklamowych badających upodobania i&nbsp;oczekiwania konsumentów. Jednak wpływ Lefebvre’a na&nbsp;wyobraźnię Pereca był z&nbsp;pewnością znacznie większy niż ta anegdotyczna informacja. Jako jeden z&nbsp;pierwszych podjął on bowiem systematyczne badania nad życiem codziennym, które doprowadziły do powstania szeregu rozpraw tworzących fundament socjologii codzienności. Przede wszystkim mowa tu o&nbsp;trylogii zatytułowanej <em>Krytyka życia codziennego</em>: <em>Critique de la vie quotidienne</em> (1947), <em>Critique de la vie quotidienne II. Fondements d'une sociologie de la quotidienneté</em> (1961), <em>Critique de la vie quotidienne III. De la modernité au modernisme</em> (1981). Oprócz tego Lefebvre jest również autorem książki <em>La vie quotidienne dans le monde moderne</em>, której ton oraz rok wydania (1968) każe uznać ją – obok <em>Rewolucji życia codziennego</em> Raoula Vaneigema – za&nbsp;pomnik epoki rewolucyjnego zrywu.</p> <p>Stworzona przez niego w&nbsp;tej ostatniej pracy wizja codzienności dowodzi, że&nbsp;słowo „krytyka” traktuje on nie tyle, albo nie tylko, jako kantowską z&nbsp;ducha próbę nakreślenia warunków możliwości i&nbsp;granic funkcjonowania życia codziennego, ile jako zadanie poddania samej formy codzienności radykalnej dekonstrukcji. Zgodnie z&nbsp;najbardziej lapidarną i&nbsp;dobitną definicją codzienność jest bowiem, według Lefebvre'a, „przestrzenią społeczną i&nbsp;gruntem dla zorganizowanej konsumpcji oraz bierności podtrzymywanej za&nbsp;pomocą terroryzmu”<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>. W&nbsp;społeczeństwach nowoczesnych życie codzienne zostało niemal w&nbsp;całości utożsamione z&nbsp;konsumpcją towarów oferowanych przez rynek. Jednostki są poddawane ciągłej perswazji, która za&nbsp;pomocą obrazów, dźwięków, haseł reklamowych, ma utrzymywać je w&nbsp;przekonaniu, że&nbsp;oferowane im rzeczy są niezbędne. Życie codzienne można więc uznać za&nbsp;rodzaj gigantycznego i&nbsp;stale powiększającego się archiwum gestów nakłaniających do kupowania, różnego rodzaju interpelacji, które wpisują jednostki w&nbsp;system nowoczesności. Archiwum to funkcjonuje jako rodzaj skryptu zachowań, przeznaczonego dla podmiotów pojawiających się w&nbsp;polu społecznym. Odwołując się do stworzonego przez Michela Foucaulta na&nbsp;potrzeby <em>Historii seksualności </em>terminu, można powiedzieć, że&nbsp;według Lefebvre’a istotą życia codziennego w&nbsp;nowoczesności jest „dyskursywizacja odruchów”, która z&nbsp;powszednich czynności czyni elementy ściśle przewidzianego skryptu.</p> <p>Mnożenie przedstawień rzeczy jako nośników przyjemności, oznak statusu społecznego albo po&nbsp;prostu niezbędnych elementów codziennej praktyki życiowej, zmusza wychowywane w&nbsp;ten sposób jednostki do pewnego rodzaju pasywności, która trwa nawet wówczas, gdy w&nbsp;obrębie zakreślonego pola konsumpcji wykazują się one „kreatywnością”. Sam dyskurs na&nbsp;temat kreatywności – rozpowszechniający się coraz bardziej w&nbsp;późnym kapitalizmie – można zresztą odczytać jako przewrotną definicję codzienności, która realizuje skrypt konsumpcyjny. „Bądź maksymalnie twórczy, aby żaden z&nbsp;punktów skryptu nie pozostał niezrealizowany” – tak można by najkrócej sparafrazować mitotwórczą funkcję pojęcia kreatywności. Nawiązanie do współczesnej ideologii kreatywności wydaje się o&nbsp;tyle ważne, że&nbsp;poszukując alternatyw wobec krytykowanego przez siebie obrazu życia codziennego, sam Lefebvre zwracał się w&nbsp;stronę sztuki jako możliwości twórczego przełamania tendencji epoki nowoczesnej. Późniejszy rozwój kapitalizmu problematyzuje ten wybór, czyniąc jego oczekiwania mniej oczywistymi, niż mogło się wydawać w&nbsp;drugiej połowie lat 60.</p> <p>W końcówce swojej książki Lefebvre formułuje postulat „rewolucji kulturalnej”, która miałaby doprowadzić do rozpadu życia codziennego w&nbsp;jego ówczesnym kształcie. Podstawowym warunkiem i&nbsp;wymogiem tej rewolucji jest według niego „całkowite zrehabilitowanie pojęć: dzieła, twórczości, wolności, uwłaszczenia, stylu, wartości (użytkowej), bycia człowiekiem. Nie sposób tego dokonać bez rygorystycznej krytyki ideologii produkcji, gospodarczej racjonalności i&nbsp;ekonomizmu, podobnie jak mitów i&nbsp;pseudo-pojęć partycypacji, integracji, kreatywności, a&nbsp;także ich praktycznych zastosowań”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>. Nie oznacza to jednak powrotu do kategorii, które nowoczesność – zarówno w&nbsp;sensie zjawiska historycznego, jak i&nbsp;artystycznego – podała w&nbsp;wątpliwość, lecz raczej próbę ich przeformułowania. Jak pisze Lefebvre, należy „zrehabilitować dzieło nie deprecjonując produktu, odtworzyć czas jako najwyższe dobro (czas życia)”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>.</p> <p>Podstawą przywrócenia dawnych pojęć do użytku jest całkowite przeorientowanie życia codziennego tak, aby stało się ono przestrzenią praktyki: otwartej, ciągłej, przygodnej. „Nasza rewolucja kulturalna ma na&nbsp;celu stworzenie kultury, która nie będzie instytucją, ale stylem życia”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Ma ona „skierować kulturę w&nbsp;stronę praktyki: przekształconej codzienności”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>. Zamiast realizować z&nbsp;góry nakreślony skrypt, oparty na&nbsp;stale powtarzających się technikach konsumpcyjnej perswazji, skupionych na&nbsp;maskowaniu i&nbsp;estetyzowaniu zawartego w&nbsp;systemie kapitalistycznym strukturalnego wymiaru wyzysku, życie codzienne po&nbsp;rewolucji kulturalnej ma stać się przestrzenią swobodnie tworzoną i&nbsp;przekształcaną przez podmioty, których nieciągłe praktyki nie będą już podlegać żadnej odgórnej dyskursywizacji.</p> <p>Henri Lefebvre wymienia w&nbsp;swej książce trzy podstawowe postulaty szkicowanej przez siebie rewolucji. Pierwszym z&nbsp;nich jest reforma i&nbsp;rewolucja seksualna, drugim – rewolucja miejsca, która zwróci społeczeństwu przestrzeń miast, trzecim natomiast – uczynienie z&nbsp;życia codziennego permanentnego święta. W&nbsp;pewnym sensie powodzenie tego trzeciego punktu warunkuje realizację dwóch pozostałych. Chodzi bowiem o&nbsp;samą możliwość innego kodowania zachowań niż to, które obserwujemy w&nbsp;kapitalistycznej nowoczesności. „Odnaleziona, wzmocniona zabawa, przekraczająca opozycję między codziennością a&nbsp;świętem, to przejście od codzienności do zabawy dokonujące się w&nbsp;społeczeństwie miejskim i&nbsp;poprzez nie – tak brzmi ostatni artykuł tego projektu”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. Czy z&nbsp;dzisiejszej perspektywy nie brzmi on jednak nieco podejrzanie? Wszak już od Waltera Benjamina, autora słynnego szkicu <em>Kapitalizm jako religia</em>, wiemy, że&nbsp;„kapitalizm jest czystą religią kultu, być może najskrajniejszą z&nbsp;istniejących do tej pory. (...) Nie ma w&nbsp;nim ani jednego «dnia powszedniego», ani jednego dnia, który nie byłby dniem świątecznym, budzącym grozę przejawem całej sakralnej pompy, dniem najwyższego napięcia wyznawców”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Dziś nie ma więc sensu znoszenie opozycji między dniem powszednim i&nbsp;świętem, bo&nbsp;od dawna czyni to sam system kapitalistyczny, którego działanie opiera się przecież na&nbsp;ciągłości, która nie pozwala na&nbsp;dystans, refleksję, uświadomienie. Co więcej, czy postulat „praktyka zamiast instytucji”, oznaczający również konieczność permanentnej transformacji, podobnie jak pewien rodzaj permanentnej zabawy, nie stał się w&nbsp;międzyczasie charakterystyką samego świata konsumpcji? I&nbsp;czy w&nbsp;związku z&nbsp;tym styl może być naszą ostatnią ucieczką, skoro i&nbsp;on stał się niewątpliwie elementem skryptu?</p> <p>Z punktu widzenia tych wątpliwości należałoby powiedzieć, że&nbsp;powodzenie rewolucji życia codziennego zależy od tego, czy uda się nam, jak pisał Giorgio Agamben, „przywrócić zabawie jej czysto świeckie przeznaczenie”<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>, które czyniłoby ją wolną od kultu kapitalistycznej konsumpcji. Lefebvre upatrywałby takiej możliwości najprawdopodobniej w&nbsp;świecie sztuki, gdzie styl i&nbsp;konsumpcja nie wchodzą ze sobą w&nbsp;konieczną zależność (co wcale nie znaczy, jak wiemy, że&nbsp;nie wchodzą w&nbsp;nią faktycznie). Dlatego też projekt Tomasza Szerszenia można potraktować jako dwojakiego rodzaju przeciw-archiwum wymierzone w&nbsp;konsumpcyjny skrypt. Po&nbsp;pierwsze, fotomontaże mozna uznać za&nbsp;rodzaj otwartego archiwum form dyskursywizacji naszych odruchów, w&nbsp;którym sama jawność zmieniałaby funkcję i&nbsp;dynamikę zawartych w&nbsp;nim form. Ujawnić zasady skryptu, umożliwić nam przyjrzenie się „sklejkom”, które w&nbsp;naszej wyobraźni kształtuje dominująca ideologia – to już program ambitny i&nbsp;krytyczny. Po&nbsp;drugie, przeciw-archiwum zmierza tutaj do utrzymania napięcia między przestrzenią konsumpcji a&nbsp;przestrzenią sztuki, które stale się ze sobą mieszają, ale też umożliwiają sztuce przyjęcie krytycznej postawy wobec kapitalistycznego skryptu. Jeśli powidoki konsumpcyjnych rojeń można przechowywać w&nbsp;innym miejscu niż bezpośrednio atakowana przez system wrażliwość podmiotu, oznacza to, że&nbsp;można poddać ją próbie alternatywnego usensownienia, które rekontekstualizuje ich obowiązywanie.</p> <h2>Guy Debord – archiwum jako pole bitwy</h2> <p>Guy Debord i&nbsp;jego rozważania nad pojęciem społeczeństwa spektaklu oraz słynna książka <em>Społeczeństwo spektaklu, </em>która ujrzała światło dzienne w&nbsp;gorącym roku 1968, stanowią nieodłączny kontekst zarówno analiz Lefebvre’a, jak i&nbsp;pisarstwa Pereca. Już samo pojęcie spektaklu jako czegoś, co „nie jest zwykłym nagromadzeniem obrazów, ale zapośredniczonym przez obrazy stosunkiem między osobami”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup> odsyła zarówno do koncepcji życia codziennego Lefebvre’a, jak i&nbsp;do klasycznej marksowskiej koncepcji alienacji. Tyle tylko, że&nbsp;nośnikiem urzeczowienia stosunków międzyludzkich jest tutaj pewien rodzaj przedstawienia, a&nbsp;nie kapitał. Jak dodaje Debord „spektakl to kapitał, który osiągnął taki stopień akumulacji, że&nbsp;stał się obrazem”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. I&nbsp;według wytycznych tego obrazu działa życie codzienne naszych społeczeństw.</p> <p>Z naszego punktu widzenia ciekawy wydaje się jednak komentarz, jaki Debord po&nbsp;latach dopisał do swojego najsłynniejszego dzieła. W&nbsp;<em>Rozważaniach o&nbsp;społeczeństwie spektaklu</em> próbował opisać różnicę między światem zachodniego kapitalizmu a&nbsp;krajami bloku sowieckiego, a&nbsp;następnie nazwać system, który wyłonił się po&nbsp;upadku „żelaznej kurtyny”. Podział między dwoma reżimami politycznymi, toczącymi ze sobą od końca II wojny światowej mniej lub bardziej otwartą wojnę, Debord przełożył na&nbsp;opozycję między spektakularnością skoncentrowaną i&nbsp;rozproszoną. „Pierwsza, faworyzując ideologię skupioną wokół jakiegoś dyktatora, towarzyszyła totalitarnej kontrrewolucji, zarówno nazistowskiej, jak i&nbsp;stalinowskiej. Druga, nakłaniająca pracowników najemnych do swobodnego wybierania między olbrzymią rozmaitością nowych, konkurujących ze sobą towarów, była przejawem amerykanizacji świata, budzącej wprawdzie przerażenie kilkoma swoimi aspektami, ale potrafiącej uwieść te kraje, w&nbsp;których najdłużej zachowały się warunki tradycyjnej mieszczańskiej demokracji”<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>. Rozróżnienie to może również odnosić się do dwóch faz samego systemu kapitalistycznego, który od bardziej centralistycznej i&nbsp;przemysłowej formy działania przekształca się w&nbsp;kapitalizm oparty na&nbsp;decentralizacji i&nbsp;akumulacji wiedzy.</p> <p>Upadek ZSRR oznacza dla Deborda triumf zasad spektaklu rozproszonego, ale również jego wkroczenie w&nbsp;całkiem nową fazę. „Po zwycięstwie spektakularności rozproszonej, która dowiodła swojej przewagi, ukonstytuowała się trzecia postać spektakularności, będąca racjonalną syntezą obu wcześniejszych form. Ta spektakularność zintegrowana zmierza obecnie do ogarnięcia całego świata”<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Jest to faza znacznie bardziej złożona i&nbsp;elastyczna niż dwie poprzednie.</p> <blockquote>Spektakularność zintegrowana występuje jednocześnie jako skoncentrowana i&nbsp;rozproszona, od czasu owocnej syntezy tych dwóch elementów nauczyła się je wykorzystywać ze wzmożoną skutecznością. Ich wcześniejsze zastosowanie uległo znacznym przeobrażeniom. Jeśli chodzi o&nbsp;aspekt skoncentrowany, to ośrodek kierowniczy spektakularności zintegrowanej jest obecnie skryty: obywa się ona bez znanych przywódców i&nbsp;sprecyzowanej ideologii. Co się zaś tyczy aspektu rozproszonego, to wpływ spektaklu nigdy jeszcze nie naznaczał w&nbsp;takiej mierze niemal wszystkich społecznie wytwarzanych zachowań i&nbsp;przedmiotów. Ostatecznym rezultatem spektaklu zintegrowanego jest bowiem to, że&nbsp;zintegrował się on z&nbsp;rzeczywistością, w&nbsp;miarę jak o&nbsp;niej mówił i&nbsp;przebudował ją tak, jak o&nbsp;niej mówił”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>.</blockquote> <p>Stąd już tylko mały krok ku światu całkowitej symulacji, który znamy z&nbsp;apokaliptycznych opisów Jeana Baudrillarda.</p> <p>W perspektywie opozycji między spektaklem skoncentrowanym a&nbsp;rozproszonym oraz jej późniejszych dziejów, ciekawe wydają się paradoksy funkcjonowania przedsięwzięć podobnych do <em>Ty i&nbsp;Ja</em>, które Tomasz Szerszeń obrał za&nbsp;przedmiot swojego krytycznego opracowania. Pismo to można czytać dziś – i&nbsp;być może taki jest również sens lektury fotografa-badacza – jako archeologię polskiego społeczeństwa spektaklu. Pewien rodzaj genealogii pragnień konsympcyjnych, które stanowiły przygotowanie dla mającej nadejść transformacji. Takie odczytanie wskazywałoby także, że&nbsp;system PRL, pozwalając na&nbsp;powstanie swojej konsumpcyjnej odnogi, wszedł w&nbsp;pewien rodzaj odroczonego aliansu ze światem neoliberalnych przemian, jakie zaszły w&nbsp;Polsce po&nbsp;1989 roku. Zaaplikował spragnionemu wolności społeczeństwu trening w&nbsp;odruchach konsumpcyjnych, skutecznie osłabiający możliwości oporu wobec aplikowanej później terapii szokowej, której powodzenie w&nbsp;dużej mierze opierało się na&nbsp;oczywistości samego modelu życia codziennego.</p> <p>W latach działalności <em>Ty i&nbsp;Ja</em> treści prezentowane w&nbsp;piśmie mogły wydawać się rewolucyjne, ponieważ przeciwstawiały się skrycie (bo raczej nie oficjalnie) propagowanym przez reżim socjalistyczny wartościom. Po&nbsp;latach ta opozycyjność zyskuje cokolwiek gorzki posmak. Ale być może istnieje też możliwość innego odczytania roli tego pisma, możliwość, na&nbsp;którą wskazuje projekt Tomasza Szerszenia. Czy ten, kto zobaczył w&nbsp;przeszłej utopii dzisiejszą ideologię, może także dokonać odwrotnego gestu i&nbsp;w przeszłej ideologii (<em>in spe</em>) zobaczyć dzisiejszą utopię? To znaczy, że&nbsp;sny konsumpcyjne ówczesnych artystów – choć odegrały rolę ideologiczną – mogą dziś pełnić funkcję utopijnych obrazów, ponieważ w&nbsp;obliczu aktualnych form spektakularności wydają się niemal bezcennym dziedzictwem. Również chałupniczość, materialność tworzonych w&nbsp;piśmie obrazów, zachowana do pewnego stopnia w&nbsp;kolażach Szerszenia, wskazuje na&nbsp;niewinny rodzaj konsumpcji, ktory z&nbsp;punktu widzenia dzisiejszych machin spektaklu wydaje się niemal idylliczny.</p> <p>Jest jeszcze jeden aspekt tej ewentualnej, emancypacyjnej lektury archiwum polskiej konsumpcji. <em>Ty i&nbsp;Ja</em> wytwarzało marzenia o&nbsp;zachodnim modelu luksusu, ale jednak realizowanym w&nbsp;ramach państwa socjalistycznego, co może sugerować postulat innej syntezy tych dwóch systemów niż ta, do której doszło w&nbsp;spektaklu zintegrowanym. A&nbsp;to już stanowi prawdziwą utopijną wizję, którą można znaleźć tylko w&nbsp;ambiwalentnych archiwach konsumpcji poddanych polemicznej i&nbsp;dekonstrukcyjnej obróbce.</p> <h2>Georges Perec – archiwum jako los</h2> <p>Kilka lat po&nbsp;swoim powieściowym debiucie Georges Perec sformułował dość efemeryczny, choć niezwykle frapujący projekt analizy życia codziennego. Zauważył w&nbsp;nim, że&nbsp;społeczeństwo poddane władzy mediów skupia się niemal wyłącznie na&nbsp;wydarzeniach niecodziennych, wyjątkowych, tak jakby <span class="rozstrzelony">być</span> miało oznaczać <span class="rozstrzelony">być wyjątkiem</span>.</p> <blockquote>„Tym, co do nas przemawia, jak się wydaje, jest zawsze wydarzenie, niezwykłe, nad-zwyczajne. (...) Za&nbsp;wydarzeniem musi kryć się skandal, pęknięcie, niebezpieczeństwo, tak jakby życie nie mogło się przed nami odsłonić inaczej jak tylko poprzez to, co spektakularne, tak jakby to, co mówi, co ma znaczenie – katastrofy naturalne albo wstrząsy historyczne, konflikty społeczne, polityczne skandale – było zawsze czymś anormalnym”<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>.</blockquote> <p>W ten sposób umyka wszystko to, co nie pojawia się jako nadzwyczajne, pozbawiając ogromne przestrzenie naszego życia refleksji.</p> <blockquote>„W naszej pogoni za&nbsp;uchwyceniem tego, co historyczne, znaczące, olśniewające zostawiamy na&nbsp;boku to, co najistotniejsze: naprawdę nieznośne, dosłownie niedopuszczalne: skandalem nie jest metan, ale praca w&nbsp;kopalni. «Niepokoje społeczne» nie są «zajmujące» w&nbsp;trakcie strajku, ale są nieznośne dwadzieścia cztery godziny na&nbsp;dobę przez trzysta sześćdziesiąt pięć dni w&nbsp;roku”<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>.</blockquote> <p>Żeby móc dostrzec to, co niepozorne, trzeba odwrócić się od wyjątków i&nbsp;skupić na&nbsp;codzienności w&nbsp;jej najbardziej banalnym i&nbsp;powszednim wymiarze. Dopiero wówczas i&nbsp;ona może ujawnić swoje znaczenia.</p> <blockquote>„Jak oddać sprawiedliwość, jak badać, w&nbsp;jaki sposób opisać to, co dzieje się każdego dnia, to, co banalne, powszednie, oczywiste, pospolite, zwyczajne, pod-zwyczajne, dźwięk tła, zwyczajowość? Ale właśnie do tego jesteśmy przyzwyczajeni. Nie pytamy o&nbsp;to, ono nie stawia przed nami pytań, wydaje się nie sprawiać problemu, żyjemy tym bezmyślnie, jakby nie przekazywało ani pytań, ani odpowiedzi, jakby nie zawierało w&nbsp;sobie żadnej informacji. To nie jest już uwarunkowanie, ale anestezja. Nasze życie jest snem bez śnienia. Gdzie jednak jest nasze życie? Gdzie nasze ciało? Gdzie nasza przestrzeń?”<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup></blockquote> <p>Z tych refleksji Perec wysnuwa wniosek, że&nbsp;potrzebna nam jest antropologia badająca codzienność, skupiona nie na&nbsp;tym co nad-zwyczajne (<em>extra-ordinaire</em>), ale pod-zwyczajne (<em>infra-ordinaire</em>). Opisująca zachowania, praktyki, przyzwyczajenia, które na&nbsp;co dzień w&nbsp;ogóle nie wkraczają w&nbsp;obręb naszej refleksji.</p> <p>Projekt takiej antropologii miałby zrekonstruować życie nowoczesnych społeczeństw od dołu i&nbsp;poczynając od tego, co aż&nbsp;nazbyt znajome. „Być może chodzi o&nbsp;to, aby wreszcie ustanowić naszą własną antropologię: taką, która będzie mówiła o&nbsp;nas, która będzie szukała w&nbsp;nas, tego, co chcieliśmy zrabować innym. Antropologia już nie egzotyczna, lecz endotyczna”<sup><a href="#sdfootnote18sym" name="sdfootnote18anc">18</a></sup>. Tylko taka antropologia będzie w&nbsp;stanie „badać to, co wydaje się nas już nie dziwić”, a&nbsp;co nie przestaje warunkować naszych postaw, wpływać na&nbsp;nasze wybory i&nbsp;kształtować nasze emocje.</p> <p>Wydaje się, że&nbsp;pomysł antropologii codzienności naszkicowany przez Pereca można uznać za&nbsp;jedną z&nbsp;ważnych inspiracji w&nbsp;jego twórczości literackiej, realizowanej w&nbsp;dwojaki sposób. Jeden z&nbsp;nich stanowiłyby prozatorskie odpowiedniki beznamiętnych inwentarzy przedmiotów, zdarzeń i&nbsp;wspomnień, których nie brakuje w&nbsp;jego twórczości: opis najdrobniejszych faktów mających miejsce na&nbsp;jednej z&nbsp;paryskich ulic<sup><a href="#sdfootnote19sym" name="sdfootnote19anc">19</a></sup> czy długa lista napojów i&nbsp;dań spożytych w&nbsp;jednym roku<sup><a href="#sdfootnote20sym" name="sdfootnote20anc">20</a></sup> – to najbardziej wyraziste przykłady. Zmysł do wyczerpujących inwentarzy, pewien rodzaj matematycznej obsesji stanowi jednak cechę charakterystyczną również najbardziej ambitnych projektów Pereca. Alternatywną formą realizacji postulatu antropologii codzienności oferuje sama powieść <em>Rzeczy</em>. Perecowi nie chodzi w&nbsp;niej już o&nbsp;serię zdań protokolarnych, które opisują fizyczne zdarzenia na&nbsp;ulicy, ani gromadzenie czysto faktograficznej wiedzy na&nbsp;temat własnego życia. W&nbsp;powieści tej francuski pisarz stara się ni mniej, ni więcej, tylko zawrzeć obraz tego, na&nbsp;jakim etapie świadomości znajdują się otaczający go ludzie. Antropologia ta łączy w&nbsp;sobie to, co najbardziej ogólne i&nbsp;zewnętrzne z&nbsp;tym, co intymne i&nbsp;uwewnętrznione. Precyzja opisów Pereca nie ma sobie równych w&nbsp;całej literaturze krytycznej tamtych lat, ponieważ, mając w&nbsp;pamięci teorie społeczeństwa konsumpcyjnego, jednocześnie przygląda się pracy wyobraźni konkretnych jednostek, w&nbsp;których ogólne tendencje znajdują swoje odbicie. Na&nbsp;przykładzie losów Jerôme’a i&nbsp;Sylwii oddaje on dylematy współczesnego podmiotu, rozpiętego między nieusuwalnym pragnieniem posiadania rzeczy a&nbsp;wszystkim tym, co wydaje się od nich ważniejsze i&nbsp;niezależne, a&nbsp;co w&nbsp;tej „historii z&nbsp;lat sześćdziesiątych”, jak głosi podtytuł powieści, okazuje się od nich nieoddzielne. Obecność pożądanych przedmiotów jest więc w&nbsp;tej powieści równie nieodwołalna i&nbsp;intensywna jak ponawiane przez bohaterów próby ucieczki od losu konsumentów. Wszędzie jednak dopada ich to samo archiwum wyobrażeń i&nbsp;klisz własnego luksusu, stając się współczesną formą losu, rozbijającego wszelkie próby autonomicznej i&nbsp;jednostkowej decyzji. Nieudane przedsięwzięcia życiowe Jerôme’a i&nbsp;Sylwii – choć banalne w&nbsp;swojej codzienności – mają ciężar tragedii na&nbsp;miarę naszych czasów.</p> <p>Ciekawe, że&nbsp;w&nbsp;<em>Ty. Ja. Rzeczy</em> Tomasza Szerszenia słyszymy w&nbsp;głośnikach właśnie fragmenty pierwszego rozdziału powieści Pereca, gdzie odwiedzamy wraz z&nbsp;narratorem ich wyśnione, idealne mieszkanie. Tutaj jednak, w&nbsp;przeciwieństwie do pierwowzoru, mamy do czynienia z&nbsp;dialogiem. Rzeczy, dosłownie i&nbsp;w przenośni, stają pomiędzy dwojgiem ludzi, którzy próbują ze sobą rozmawiać. Być może w&nbsp;ten sposób rzeczy, które w&nbsp;tytule zostały zestawione z&nbsp;zaimkami osobowymi, sugerują zderzenie znacznie bardziej dotkliwe niż trafnie rozpoznana synchronia między czasem wydania powieści Pereca i&nbsp;uruchomieniem polskiego czasopisma. Chodzi raczej o&nbsp;antropologiczną, albo nawet egzystencjalną, formę alienacji, w&nbsp;której status podmiotów staje się nieodróżnialny od statusu rzeczy. Ten rodzaj równorzędności sugerują również niektóre kolaże, na&nbsp;których postaci ludzkie wmontowywane są w&nbsp;obrazy rzeczy równie wielkich jak one; albo wówczas gdy wydaje się, że&nbsp;rozradowana kobieta siedzi na&nbsp;sukience, niczym na&nbsp;gigantycznej, a&nbsp;przez to nieco niepokojącej, sofie czy na&nbsp;dywanie. Oglądając te obrazy i&nbsp;słuchając czytanego fragmentu z&nbsp;Pereca, trudno nie pomyśleć, że&nbsp;w&nbsp;tytule tego projektu zaszyfrowane jest również poniekąd odwołanie do rozprawy <em>Ja i&nbsp;Ty</em> Martina Bubera, który w&nbsp;zupełnie innych okolicznościach – i&nbsp;bez krytycznej świadomości współczesnych ideologii – próbował stawiać pytania o&nbsp;możliwość nieurzeczowionej relacji między ludźmi. I&nbsp;własnie w&nbsp;konfontacji z&nbsp;tymi obrazami trudno nie zadać sobie pytania, czy taka wolna od alienacji forma codzienności daje się jeszcze dzisiaj w&nbsp;ogóle pomyśleć.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Jean Baudrillard, <em>Społeczeństwo konsumpcyjne. Jego mity i struktury</em>, przeł. S. Królak, Wydawnictwo Sic!, Warszawa 2006, s. 271.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Henri Lefebvre, <em>La vie quotidienne dans le monde moderne</em>, Gallimard, Paris 1968, s. 360.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Ibidem, s. 364.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Ibidem, s. 369.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Ibidem, s. 371.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Ibidem, s. 372.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Ibidem, s. 375.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Walter Benjamin, <em>Kapitalizm jako religia</em>, przeł. P. Mościcki, „Krytyka Polityczna”, 2007, nr 11-12, s. 132.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Giorgio Agamben, <em>Profanacje</em>, przeł. M. Kwaterko, Państwowy Instytut Wydawniczy, Warszawa 2006, s. 98.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Guy Debord, <em>Społeczeństwo spektaklu</em> oraz <em>Rozważania o społeczeństwie spektaklu</em>, przeł. M. Kwaterko, Państwowy Instytut Wydawniczy, Warszawa 2006, s. 34.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Ibidem, s. 44.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Ibidem, s. 152.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Ibidem, s. 152.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Ibidem, s. 152-153.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Georges Perec, <em>Approches de quoi?</em>, w: idem, <em>L’infra-ordinaire</em>, Seuil, Paris 1989, s. 9-10.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Ibidem, s. 10.</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> Ibidem, s. 11.</p>
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a> Ibidem, s. 11-12.</p>
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a> Por. Georges Perec, <em>Tentative d’épuisement d’un lieu parisien</em>, Christian Bourgois, Paris 1988.</p>
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a> Georges Perec, <em>Tentative d’inventaire des aliments liquides et solides que j’ai ingurgités au cours de l’année mille neuf cent soixante-quatorze</em>, w: idem, <em>L’infra-ordinaire</em>..., s. 97-107.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/widzialnosc-rzeczy/krytyczne-archiwa-codziennosci" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

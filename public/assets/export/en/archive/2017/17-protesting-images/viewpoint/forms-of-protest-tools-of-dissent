@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Forms of Protest, Tools of Dissent | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/forms-of-protest-tools-of-dissent">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Forms of Protest, Tools of Dissent | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Forms of Protest, Tools of Dissent | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/forms-of-protest-tools-of-dissent">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Forms of Protest, Tools of Dissent | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #e8733d !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #e8733d !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #e8733d !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #e8733d !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #e8733d !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #e8733d !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #e8733d !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #e8733d !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(232,115,61,0.8) !important; */
+			/* background-color:#e8733d !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(232,115,61,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#e8733d !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(232,115,61,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#e8733d; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(232,115,61,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(232,115,61,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#e8733d !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#e8733d !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#e8733d !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-677 parent-id-671">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="668" data-selected-issue-color="#e8733d" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/2017/protest-obrazow/formuly-protestu-narzedzia-protestu">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/2017/protest-obrazow/formuly-protestu-narzedzia-protestu">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/17-protesting-images#toc">17</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/forms-of-protest-tools-of-dissent?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Forms of Protest, Tools of Dissent</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/forms-of-protest-tools-of-dissent?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Author: 
+		<a href="/en/bio?id=309">Magda Szcześniak</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p>“The articulation of protest has two levels. On one level, articulation entails finding a&nbsp;language for&nbsp;protest, the vocalization, the verbalization or the visualization of political protest. On another level, however, articulation also shapes the structure or internal organization of protest movements,”<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> writes Hito Steyerl in an essay, which seeks to analyze the dynamics and field of politics through&nbsp;visual mechanisms. “What happens if we conversely relate a&nbsp;form of artistic production, namely the theory of montage, to the field of politics?”, wonders Steyerl, a&nbsp;German artist and critic.<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup><em>The Articulation of Protest </em>was first published in 2002 and Steyerl’s two main objects of analysis are segments from&nbsp;full-length documentaries (1999 anti-globalization film <em>Showdown in Seattle </em>and Jean Luc-Godard and Anne-Marie Miéville’s 1975 <em>Here </em><em>and Elsewhere</em>), which serve as examples of different ways of dealing with&nbsp;the <em>de facto </em>impossibility of articulating the voice of the people (the first example is a&nbsp;failure, which only repeats mainstream forms of visualizing the commons and producing images; the second is a&nbsp;meta-image seeking to problematize the act of visualizing resistance).<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> Sixteen years later Steyerl’s poignant questions with&nbsp;which she ends the essay remain unanswered: “What kind of movement of political montage would result in oppositional articulations, instead of a&nbsp;mere addition of elements for&nbsp;the sake of reproducing the status quo? What kind of montage of two images/elements would produce […] something that&nbsp;would not represent a&nbsp;compromise but&nbsp;would instead belong to a&nbsp;different order”.<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> Moreover, it seems that&nbsp;the profound transformation of contemporary visual culture since&nbsp;Steyerl wrote <em>Articulation of Protest </em>in 2002<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> invites us to expand the questions cited above. Do snaps and memes, protest selfies and streamed videos, hashtags and banners, bring us closer to the lived realities of their users and to the experiences of the protesting multitude? Are they representations of protest or can we think of them as forms of protest themselves? Or do they inevitably create a&nbsp;partial, unsatisfactory image of people, an image limited to those who have the means of portraying themselves or are attractive enough to be registered as potentially iconic representatives of a&nbsp;given protest? Are protests organized in such a&nbsp;way so as to become an appealing spectacle? Surely, there is no single answer to these questions and every protest, while seeking its articulation, must also be wary of the limitations behind&nbsp;the chosen means of communication, as well as their—inevitable? possible?—absorption by dominant ideological machines.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/formuly-protestu/519-6692-1-pb-1920x-110.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/formuly-protestu/519-6692-1-pb-330x-42b.jpg 330w,assets/cache/images/issues/2017/17/formuly-protestu/519-6692-1-pb-660x-c23.jpg 660w,assets/cache/images/issues/2017/17/formuly-protestu/519-6692-1-pb-768x-e6a.jpg 768w,assets/cache/images/issues/2017/17/formuly-protestu/519-6692-1-pb-1320x-1de.jpg 1320w" src="assets/cache/images/issues/2017/17/formuly-protestu/519-6692-1-pb-660x-c23.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>The presentation put together in this&nbsp;issue of <em>View: Theories and Practices of Visual Culture </em>offers an insight into&nbsp;the practices of young Polish artists and collectives whose work documents, performs, discusses, and criticizes (sometimes even all of the above) acts of protest and dissent. The tactics employed are diverse and cannot be reduced to a&nbsp;common technique, aesthetic or sensitivity. All of them, however, were created as responses to current social and political struggles. This&nbsp;is not because past&nbsp;artistic practices cannot become blueprints for&nbsp;progressive action (in fact one of the presented pieces will be a&nbsp;re-enactment of a&nbsp;1980 performance), but&nbsp;because we are currently witnessing a&nbsp;surge of interest in “protesting images” in Poland, visible in the practices of artists employing various media. Whereas the popularity of the topic of dissent in global contemporary art might not strike the general reader as surprising, in the context of the historical trajectory of Polish art, it does seem like&nbsp;we are witnessing an interesting surge. While <a href="http://cowidac.artmuseum.pl/en" target="_blank" rel="noopener"><em>As You Can See. Polish Art Today</em></a>, shown at the Museum of Modern Art in Warsaw in 2014, was an exhibition that&nbsp;aspired to present a&nbsp;representative survey of young contemporary Polish artists but<em></em>included very little works devoted to dissent (a notable exception being Ewa Axelrad’s <em>Zadyma</em>, shown here as well), today it has become an important topic of interest. One of the reasons behind&nbsp;this shift –&nbsp;perhaps the main one –&nbsp;is an acceleration in the political sphere and the radical reorganization of the political field by the ruling party since&nbsp;it came to power in 2015.</p> <p>Each intervention presented here is singular. Most operate in different environments and through&nbsp;different media. None –&nbsp;as is to be expected –&nbsp;offer the one and only way of expressing dissent. This&nbsp;montage testifies instead to the fact that&nbsp;contemporary struggle against&nbsp;dominant forms of power –&nbsp;be they patriarchal, racist, authoritarian –&nbsp;must proceed along&nbsp;multiple lines. Furthermore, this&nbsp;diverse body of work (just a&nbsp;small selection of what could have been shown) is proof of the fact that&nbsp;visual activism, to use Nicholas Mirzoeff’s term, is activism. Images do not substitute protest, they can <em>be</em> a&nbsp;form of protest.</p> <p>The common principle uniting the works presented seems to be their willingness to experiment with&nbsp;existing visual (and audial) languages, using them in the service of specific resistance movements, communities, campaigns. Simultaneously, the works often offer insights into&nbsp;the workings of specific articulations. The works of Ewa Axelrad, Rafał Milach, Martyna Miller, Witek Orski, Alicja Rogalska, Tytus Szabelski and the Consortium of Post-Artistic Practices show the potential, but&nbsp;also the shortcomings, of such protest articulations as memes, protest songs, banners, artistic performances, offensive gestures, and symbolic objects.</p> <h2>movement</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/formuly-protestu/519-6690-1-pb-1920x-ecc.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/formuly-protestu/519-6690-1-pb-330x-d34.jpg 330w,assets/cache/images/issues/2017/17/formuly-protestu/519-6690-1-pb-660x-3c5.jpg 660w,assets/cache/images/issues/2017/17/formuly-protestu/519-6690-1-pb-768x-fc2.jpg 768w,assets/cache/images/issues/2017/17/formuly-protestu/519-6690-1-pb-1320x-62d.jpg 1320w" src="assets/cache/images/issues/2017/17/formuly-protestu/519-6690-1-pb-660x-3c5.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>One of the more sought-after qualities in contemporary “protesting images” is their ability to spread, circulate widely and travel across&nbsp;different media and contexts. This&nbsp;journey is of course impossible for&nbsp;the creators to control and the images may lose their power along&nbsp;the way. But&nbsp;they may also facilitate protest, providing meaningful ways of participation. Such is the work done by images and gestures created by Witek Orski and Martyna Miller. In his project presented in <em>View</em>,<em></em>Orski intercepts a&nbsp;well-known weapon from&nbsp;the anti-choice activists’ repertoire: graphic images of bloody, dismembered fetuses.<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> In what in the beginning was supposed to be an online joke, the artist set up a&nbsp;website with&nbsp;the address “stopdzemuzesklepu.pl” (“Stop Buying Jam from&nbsp;Stores”), from&nbsp;which one could download an image hauntingly similar to anti-abortionist banners. The resemblance rests both in the framing of the image (large, capitalized red and white letters printed on a&nbsp;black backdrop –&nbsp;an aesthetic often used in right-wing memes and banners) and, more significantly, the two photographs in the center, depicting the red, mushy strawberry jam. Orski’s meme is not only dark-humored and absurd, but&nbsp;also points to the ideological character of the mechanisms of seeing, which unquestioningly accept the often blurry and low-resolution photographs used by anti-abortionist groups as truthful. The striking resemblance of the strawberry jam image provokes us to ask: how do we really know what we are looking at? This&nbsp;provocative question was taken to the streets by pro-choice activists from&nbsp;the Feminist Revolutionary Brigade FeBRa, who managed to raise funds to print large scale banners of the image. The image, intercepted from&nbsp;the streets, became an ironic and widely shared internet meme and then marched into&nbsp;the streets again.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/formuly-protestu/519-6684-1-pb-1920x-c79.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/formuly-protestu/519-6684-1-pb-330x-a58.jpg 330w,assets/cache/images/issues/2017/17/formuly-protestu/519-6684-1-pb-660x-eef.jpg 660w,assets/cache/images/issues/2017/17/formuly-protestu/519-6684-1-pb-768x-8bf.jpg 768w,assets/cache/images/issues/2017/17/formuly-protestu/519-6684-1-pb-1320x-185.jpg 1320w" src="assets/cache/images/issues/2017/17/formuly-protestu/519-6684-1-pb-660x-eef.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Another example of a&nbsp;“protesting image”, whose power is derived from&nbsp;constant movement, is Martyna Miller’s <em>PRC Gesture Revival </em>project. As the artist writes: “PRC is a&nbsp;gesture indicating the sudden feeling towards&nbsp;overwhelming reality. It is a&nbsp;gesture of care, an intellectual impulse.” First observed by Miller in Bosna, the source of the gesture is traced back by the artist to the times of the Ottoman Empire. Its contemporary uses however are mainly feminine, “a form of non-verbal comment, an emotionally marked reaction thrown into&nbsp;the space between&nbsp;the speakers, [it] suggests closing the topic, as impossible to be put into&nbsp;words, but&nbsp;at the same time [as something that] consolidates the participants.” If originally the gesture contained the conversation (while simultaneously establishing a&nbsp;closed circle of participants, similar to a&nbsp;wink), by putting it into&nbsp;motion as part of a&nbsp;collaborative artistic project, Miller seeks to redefine the gesture as one which would open up communication and initiate potential solidarity. According to the artist, this&nbsp;“supplement of the middle finger, alternative to mainstream anger” could be used as a&nbsp;reaction to violence and offense. Whereas the phallic middle finger reproduces violence, the PRC would be a&nbsp;playful gesture of resistance. “Vulgar, abstract and temporal, [it] doesn't insult: [it] disarms,” writes the artist.<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup></p> <h2>repetition</h2> <p>Contemporary protests seem to be haunted by past&nbsp;gatherings –&nbsp;if “we can’t believe we still have to protest this&nbsp;shit,” does this&nbsp;not mean that&nbsp;former tactics were ineffective or, on the contrary, that&nbsp;we need to revisit old ways of confronting power? At least some protesters think the latter. However, the repetitions performed by them gain new meanings precisely through&nbsp;this temporal confrontation of old and new. Take for&nbsp;example the reenactment of the 1980 performance of Polish collective Akademia Ruchu by the contemporary ephemeral Collective of Post-Artistic Practices. During&nbsp;the 2017 summer protests against&nbsp;the new law on the judiciary, members of the CPP walked through&nbsp;the streets of Warsaw carrying a&nbsp;huge banner proclaiming “Sprawiedliwość Jest Ostoją Mocy i&nbsp;Trwałości Rzeczypospolitej” (“<em>Justice is the Guarantor of the Power and Permanence of the Republic</em>”, a&nbsp;quote by 16<sup>th</sup> century Polish thinker Andrzej Frycz Modrzewski), which they created before&nbsp;the demonstration. Their gesture was a&nbsp;repetition of a&nbsp;one-off performance carried out in 1980 in front of a&nbsp;court building during&nbsp;the process of registering the Independent Self-governing Labor Union "Solidarity" (NZSS “Solidarność”). The sign was unfolded outside&nbsp;the monumental court building, on which the same sentence was carved out. This&nbsp;mirrored image brought to life the values preached, but&nbsp;not practised, by the socialist-era system of justice. In turn, the repetition of this&nbsp;performance in 2017, during&nbsp;which the members of the CPP walked the banner to the Presidential Palace in order to place it within&nbsp;sight of those now in power, posed questions about&nbsp;the similarities between&nbsp;the attitudes toward&nbsp;justice before&nbsp;and after&nbsp;1989. Although the rhetoric of the ruling party is vehemently anti-Communist (Communism here is understood quite superficially), the proposed –&nbsp;and since&nbsp;passed –&nbsp;new law would bring the judicial system quite close to its socialist-era predecessor: lacking autonomy and government controlled.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/formuly-protestu/519-6682-1-pb-1920x-c79.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/formuly-protestu/519-6682-1-pb-330x-a58.jpg 330w,assets/cache/images/issues/2017/17/formuly-protestu/519-6682-1-pb-660x-eef.jpg 660w,assets/cache/images/issues/2017/17/formuly-protestu/519-6682-1-pb-768x-8bf.jpg 768w,assets/cache/images/issues/2017/17/formuly-protestu/519-6682-1-pb-1320x-185.jpg 1320w" src="assets/cache/images/issues/2017/17/formuly-protestu/519-6682-1-pb-660x-eef.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>The gesture of invoking past&nbsp;struggles –&nbsp;only seemingly won –&nbsp;was also present in <em>Protest Song Karaoke</em>, organized by Alicja Rogalska and the Intervalo-Escola collective during&nbsp;the exhibition <em>Gotong Royong. Things we do together </em>at the Ujazdowski Castle Centre for&nbsp;Contemporary Art. By “bringing together seemingly disparate phenomena: the political engagement in protest songs and the unabashed celebration of pop-culture in karaoke,”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup> the organizers sought to envision simultaneously joyful and political ways of being together. In fact, the pleasure derived from&nbsp;karaoke is drawn from&nbsp;repetition, the act of publicly repeating, through&nbsp;one’s own body, a&nbsp;well-known song. Could the playful act of karaoke put the pleasure back into&nbsp;protest tunes that&nbsp;we also know only too well? Could the similarity of different protest songs from&nbsp;around the world and different times become the basis of a&nbsp;protesting collectivity, one transcending time and space? These seem to be the questions performatively asked by the participants in <em>Protest Song Karaoke. </em></p> <h2>symbols</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/formuly-protestu/519-6686-1-pb-1920x-ecc.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/formuly-protestu/519-6686-1-pb-330x-d34.jpg 330w,assets/cache/images/issues/2017/17/formuly-protestu/519-6686-1-pb-660x-3c5.jpg 660w,assets/cache/images/issues/2017/17/formuly-protestu/519-6686-1-pb-768x-fc2.jpg 768w,assets/cache/images/issues/2017/17/formuly-protestu/519-6686-1-pb-1320x-62d.jpg 1320w" src="assets/cache/images/issues/2017/17/formuly-protestu/519-6686-1-pb-660x-3c5.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>“These white roses that&nbsp;you see there are a&nbsp;symbol of hatred! Utter stupidity and hatred,” shouted Jarosław Kaczyński –&nbsp;the leader of Poland’s ruling party –&nbsp;to the “rose-bearing” participants in an anti-government demonstration, protesting against&nbsp;the monthly gatherings organized by the ruling party in remembrance of those who died in the plane crash in Smoleńsk on April 10<sup>th</sup> 2010. The brief adoption of white roses by the anti-government opposition was proof of the fact that&nbsp;iconoclastic attacks usually lead to the proliferation of the attacked image. Kaczyński’s condemnation of white roses as “symbols of hatred” only encouraged the protesters to double down&nbsp;on them as the symbol of their dissent. In his photographic book <em>Almost Every Rose Stuck into&nbsp;the Railing Outside&nbsp;of the Parliament </em>(2017), Rafał Milach documents one of the gestures of dissent taken up by participants in the protests against&nbsp;the new law on the judiciary. Responding to the unprecedented act of closing off&nbsp;the area surrounding the Polish Parliament by putting up metal barriers, the protesters decorated the barriers with&nbsp;signs, graffiti and white roses. By choosing to record this&nbsp;small, in fact almost invisible (due to its size and color), gesture Milach seems to be posing questions about&nbsp;the politics of creating a&nbsp;symbol. What are its necessary elements? When does a&nbsp;repeated gesture become a&nbsp;symbol? Certainly, the act of recording it and subjecting it to artistic transformation is helpful. If the roses stuck in the barriers failed to be registered as strong symbols during&nbsp;the demonstrations themselves, Milach’s photobook, folded like&nbsp;a&nbsp;harmonica and thus itself resembling a&nbsp;barrier, makes for&nbsp;a&nbsp;touching echo of the 2017 summer protests.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/formuly-protestu/519-6680-1-pb-1920x-07a.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/formuly-protestu/519-6680-1-pb-330x-3be.jpg 330w,assets/cache/images/issues/2017/17/formuly-protestu/519-6680-1-pb-660x-9e0.jpg 660w,assets/cache/images/issues/2017/17/formuly-protestu/519-6680-1-pb-768x-c16.jpg 768w,assets/cache/images/issues/2017/17/formuly-protestu/519-6680-1-pb-1320x-6b6.jpg 1320w" src="assets/cache/images/issues/2017/17/formuly-protestu/519-6680-1-pb-660x-9e0.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>Where Milach proposes a&nbsp;sentimental visual record of specific acts of dissent, Tytus Szabelski’s <em>Protest Actions </em>and Ewa Axelrad’s <em>Plague </em>(2014) and <em>Shtamah</em> (2017) series point to the darker side of symbol politics. Axelrad’s clean-cut installations –&nbsp;the wax sculpture of a&nbsp;headpiece and wooden flagpoles from&nbsp;<em>Shtamah</em>, shields put together in <em>Zadyma </em>– examine the fetishizing of objects associated with&nbsp;power. Once innocent objects are rendered dangerous, capable of violence if only wielded with&nbsp;the right intention. Wooden flagpoles, objects present in many Polish households, when mounted next to each other start to resemble a&nbsp;torture device; the children’s game of spillikin is turned into&nbsp;a&nbsp;collection of fascist symbols. Axelrad’s <em>Shtamah</em>, first presented in 2017 at the Museum of Contemporary Art in Wrocław,<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup> can be read as a&nbsp;comment on the progressing normalization of right-wing symbols in the public sphere, the increasing acceptance of images once deemed inappropriate, and the slow interception of objects which once seemed neutral (but maybe never were).</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2017/17/formuly-protestu/519-6688-1-pb-1920x-ecc.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2017/17/formuly-protestu/519-6688-1-pb-330x-d34.jpg 330w,assets/cache/images/issues/2017/17/formuly-protestu/519-6688-1-pb-660x-3c5.jpg 660w,assets/cache/images/issues/2017/17/formuly-protestu/519-6688-1-pb-768x-fc2.jpg 768w,assets/cache/images/issues/2017/17/formuly-protestu/519-6688-1-pb-1320x-62d.jpg 1320w" src="assets/cache/images/issues/2017/17/formuly-protestu/519-6688-1-pb-660x-3c5.jpg" alt="" ></a>       </figure>  </section><section class="u-typo">   <p>In his <em>Protest Activities </em>(2017-ongoing), Tytus Szabelski makes use of a&nbsp;different symbolic object, uncovering the medium behind&nbsp;the message. Szabelski’s banner –&nbsp;which he carries with&nbsp;him to different, often radically conflicting, demonstrations –&nbsp;is an empty one. His unobvious (and perhaps politically problematic) gesture draws attention, perhaps even more so than&nbsp;signs which clearly state their positions. The artist places himself within&nbsp;a&nbsp;sea of people with&nbsp;banners, whom Michael Taussig, in his ethnography of Occupy Wall Street, describes as “centaurs –&nbsp;half person, half sign.”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup> In his brilliant observations, Taussig goes on to describe the alluring quality of the sign, “com[ing] from&nbsp;the sign being exactly what the sign bearer wants to say. Put another way,” he writes “there is a&nbsp;fusion between&nbsp;the person and the sign that&nbsp;demands it be held aloft as testimony to history finding its articulation in words—words that&nbsp;play with&nbsp;words as much as with&nbsp;history.”<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup> What then is the message of an empty sign? Szabelski’s empty banner gains meaning in relation to other signs and symbols, becoming a&nbsp;test of the inclusivity of certain group. Is there a&nbsp;place in the protesting community for&nbsp;a&nbsp;subject who not only does not “find his articulation in words,” but&nbsp;manifests his/her inability, or even unwillingness, to do so? What sort of reaction can an empty banner elicit? As the materials collected by the artist show, the answer is in some cases, curiosity, in others indifference, sometimes distrust and annoyance. “Here we have a&nbsp;guy following&nbsp;us with&nbsp;an empty sign. I&nbsp;guess he has nothing to say,” notes the author of a&nbsp;meme on a&nbsp;right-wing site. Or does he?</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a><sup></sup> Hito Steyerl, <em>Articulation of Protest</em>, in: <em>The Wretched of the Screen</em> (Berlin: Sternberg Press, 2012), 78.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a><sup></sup> Ibid, 79.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a><sup></sup> On this impossibility see also: Judith Butler, <em>Notes Toward a Performative Theory of Assembly </em>(Cambridge, Mass.: Harvard University Press, 2015).</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a><sup></sup> Steyerl, 90-91.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a><sup></sup> On the radical reorganization of visual culture due to the surge in digital images produced and circulated in social media see: Nicholas Mirzoeff, <em>How to See the World</em> (New York: Basic Books, 2016).</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a><sup></sup> On the origin of such images in the Western context, see among others: Brian Palmer, “Mommy, Where Do Pictures of Aborted Babies Come From?,” <em>Slate.com</em>, <a href="http://www.slate.com/articles/news_and_politics/explainer/2010/10/mommy_where_do_pictures_of_aborted_babies_come_from.html" target="_blank" rel="noopener">http://www.slate.com/articles/news_and_politics/explainer/2010/10/mommy_where_do_pictures_of_aborted_babies _come_from.html</a>, accessed January 10, 2018.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> All quotes from the artists’ description of the project.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a><sup></sup> For a description of the event see: <a href="http://u-jazdowski.pl/en/programme/wystawy/gotong-royong-/alicja-rogalska-i-nbsp-intervalo-escola--nbsp-" target="_blank" rel="noopener">http://u-jazdowski.pl/en/programme/wystawy/gotong-royong-/alicja-rogalska-i-nbsp-intervalo-escola--nbsp-</a>, accessed January 10, 2018.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a><sup></sup> For an excellent analysis of Axelrad’s work see Sylwia Serafinowicz’s text from the publication accompanying the exhibition <em>Ewa Axelrad: Shtamah</em>: <a href="http://www.ewa-axelrad.com/pdf/Ewa_Axelrad_Brochure.pdf" target="_blank" rel="noopener">http://www.ewa-axelrad.com/pdf/Ewa_Axelrad_Brochure.pdf</a>, accessed January 10, 2018.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a><sup></sup> Michael Taussig, “I’m so Angry, I Made a Sign,” <em>Critical Inquiry </em>39 (Autumn 2012), 75.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a><sup></sup> Ibid, 76.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/forms-of-protest-tools-of-dissent" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Jak w niebie. Queerowa sztuka utopijna i wymiar estetyczny | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/queer-obrazy/jak-w-niebie.-queerowa-sztuka-utopijna-i-wymiar-estetyczny">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Jak w niebie. Queerowa sztuka utopijna i wymiar estetyczny | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Jak w niebie. Queerowa sztuka utopijna i wymiar estetyczny | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/queer-obrazy/jak-w-niebie.-queerowa-sztuka-utopijna-i-wymiar-estetyczny">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Jak w niebie. Queerowa sztuka utopijna i wymiar estetyczny | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #f0f !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #f0f !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #f0f !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #f0f !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #f0f !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #f0f !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #f0f !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+			/* background-color:#f0f !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,0,255,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#f0f !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#f0f; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,0,255,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,0,255,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#f0f !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#f0f !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#f0f !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1136 parent-id-1130">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="424" data-selected-issue-color="#f0f" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/queer-images#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/queer-images/just-like-heaven-queer-utopian-art-and-the-aesthetic-dimension">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/queer-obrazy#toc">5</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/queer-obrazy/jak-w-niebie.-queerowa-sztuka-utopijna-i-wymiar-estetyczny?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Jak w niebie. Queerowa sztuka utopijna i wymiar estetyczny</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/queer-obrazy/jak-w-niebie.-queerowa-sztuka-utopijna-i-wymiar-estetyczny?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=1137">José Esteban Muñoz</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Przełożył: 
+		
+		Jan Burzyński
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p></p> <p>Mój ojciec nienawidzi zielonego koloru. Nigdy nie ubrałby się na&nbsp;zielono ani nie umeblowałby tak mieszkania. Dorastając, zdawałem sobie z&nbsp;tego sprawę, ale tak naprawdę nigdy o&nbsp;tym nie myślałem. Pamiętam, że&nbsp;w&nbsp;okresie dojrzewania, zaabsorbowany przede wszystkim samym sobą, w&nbsp;prezencie na&nbsp;dzień ojca dałem mu zieloną koszulę sportową. Przyjął to raczej źle. Widząc moje rozczarowanie, szybko wyjaśnił, że&nbsp;zieleń przypomina mu o&nbsp;wojsku, a&nbsp;konkretnie o&nbsp;obozie przymusowej pracy rolniczej, do którego został zesłany, gdy ubiegał się o&nbsp;zgodę na&nbsp;przeprowadzkę rodziny z&nbsp;Kuby do USA. Reszta mojej rodziny wyemigrowała w&nbsp;1968 roku – mniej więcej rok lub dwa lata po&nbsp;siedmiomiesięcznej pracy ojca w&nbsp;obozie. W&nbsp;gruncie rzeczy nie mówi on zbyt wiele o&nbsp;tym doświadczeniu. Czasami tylko wspomina, że&nbsp;bardzo trudno było mu znieść rozłąkę z&nbsp;rodziną. Opowiadał też o&nbsp;nienawiści żołnierzy, którzy go pilnowali, o&nbsp;ich zielonych mundurach oraz o&nbsp;zieleni ogólnie symbolizującej rewolucję kubańską. Zarówno moje zapomnienie, jak i&nbsp;jego reakcja na&nbsp;prezent były zapowiedzią wieloletnich sporów, które trwały między nami, odkąd moje zaangażowanie polityczne stało się zdecydowanie lewicowe, a&nbsp;wybór – w&nbsp;jakiejś racjonalnej mierze – queerowego sposobu życia niezaprzeczalny.</p> <p>Zdecydowana niechęć mojego ojca do zieleni podobna jest do mojego silnego oporu, jaki odczuwałem zawsze wobec kamuflażu i&nbsp;wszystkiego, co się z&nbsp;nim wiąże. Sztuka wykorzystująca ten motyw budziła moją rezerwę, ponieważ kojarzył mi się on z&nbsp;militaryzmem, a&nbsp;ściślej mówiąc – z&nbsp;amerykańską polityką zagraniczną. Mój ojciec miał awersję do zieleni z&nbsp;powodu jej konotacji ideologicznych, a&nbsp;ja – kiedy widziałem na&nbsp;przykład na&nbsp;ulicy hipsterkę ubraną w&nbsp;postpunkowym stylu w&nbsp;spodnie z&nbsp;maskującym wzorem – nie potrafiłem uwolnić się od negatywnych skojarzeń z&nbsp;kamuflażem. Podobne odczucia miałem też w&nbsp;związku z&nbsp;wykorzystaniem tego motywu przez Andy’ego Warhola. To mi się nie podobało. Nie chodzi o&nbsp;to, że&nbsp;tego nie rozumiałem, lecz raczej o&nbsp;to, że&nbsp;nie chciałem zrozumieć. Pod&nbsp;tym względem jestem osobliwie podobny do mojego ojca. Również on nie chciał uznać zieleni za&nbsp;kolor reprezentujący wiele różnych rzeczy, w&nbsp;tym zwłaszcza świat natury, roślin i&nbsp;zwierząt. Źródło jego awersji kryje się jednak w&nbsp;traumie osobistej i&nbsp;historycznej, podczas gdy moje problemy z&nbsp;kamuflażem nie tyle wynikają z&nbsp;doświadczenia, ile z&nbsp;mojego samoodczucia jako podmiotu politycznego. I&nbsp;kamuflaż, i&nbsp;zieleń wykraczają jednak poza ich ideologiczne użycia symboliczne.</p> <p>Po lekturze wywiadu z&nbsp;Jimem Hodgesem postanowiłem na&nbsp;nowo przemyśleć swój pogląd na&nbsp;estetykę kamuflażu. Artysta zastanawiał się nad wykorzystaniem tej formy w&nbsp;swojej twórczości:</p> <blockquote>Kamuflaż to odwzorowanie natury. Właśnie to od zawsze mnie w&nbsp;nim pociągało. To poczynione ludzką ręką przedstawienie natury, jak w&nbsp;twórczości Abbota Thayera (1849–1921). Dostrzegł, że&nbsp;zwierzęta potrafią się maskować, a&nbsp;następnie oddawał obraz natury za&nbsp;pomocą prostego rozłożenia cieni – światła i&nbsp;ciemności. Lubię pracować ze źródłem kamuflażu, którym jest sama natura, a&nbsp;w dalszej kolejności z&nbsp;nawarstwionymi na&nbsp;nim problemami politycznymi i&nbsp;kulturalnymi. Lubię materiał obciążony znaczeniem<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup>.</blockquote> <p>Wzmianka o&nbsp;twórczości Thayera i&nbsp;pochodzeniu kamuflażu odcinają go od militaryzmu. Książka <em>Concealing. Coloration in the Animal Kingdom: An Exposition of the Laws of Disguise through Color and Pattern; Being a&nbsp;Summary of Abbot H. Thayer Disclosures </em>(1909) wywarła istotny wpływ na&nbsp;rozwój wojskowych technik kamuflażu podczas pierwszej wojny światowej. Przywołanie przez Hodgesa artystycznych i&nbsp;naturalnych źródeł tego, co następnie miało stać się techniką wojenną, pozwala przemyśleć rzeczywiste „obciążenie” tej formy. Jej znaczenie wiąże się również z&nbsp;kwestią podjętą dalej przez Hodgesa, dotyczącą fragmentu piosenki Laury Nyro, <em>Emmie</em>. Wers <em>you ornament nature</em> („zdobisz naturę”), wiąże naturę ze sztuką podobnie jak kamuflaż, jeśli rozumiany jest jako forma artystyczna, która próbuje zbliżyć się do natury. To zainteresowanie Hodgesa sposobem, w&nbsp;jaki sztuka dotyka natury, pozwala mi na&nbsp;nowo przemyśleć mój stosunek do formy kamuflażu. Powiązanie między naturą a&nbsp;ornamentem staje się wyzwaniem, kiedy rozważamy odrzucenie pewnego porządku naturalnego.</p> <p>Chciałbym tu zarysować queerowy wymiar estetyczny. Konieczna w&nbsp;tym celu jest analiza kamuflażu i&nbsp;ornamentu jako jego nieodłącznych przejawów. Zamierzam odwołać się do dwóch źródeł: do twórczości artystycznej Andy’ego Warhola i&nbsp;Jima Hodgesa oraz do tradycji niemieckiego idealizmu obecnej w&nbsp;dziełach Herberta Marcusego i&nbsp;Ernsta Blocha. U&nbsp;obu tych pisarzy odnajdujemy fascynację siłą wymiaru estetycznego, a&nbsp;zwłaszcza utopijną mocą sztuki. Termin utopia w&nbsp;znaczeniu nadawanym mu przez Blocha i&nbsp;Marcusego nie ma nic wspólnego z&nbsp;dzisiejszym lekceważącym podejściem do naiwnego utopizmu. W&nbsp;idealizmie niemieckim pojęcie utopii jest narzędziem krytyki aktualnego porządku oraz niezachwianego i&nbsp;ustanowionego raz na&nbsp;zawsze <em>status quo</em>. Prace Warhola i&nbsp;Hodgesa będę zatem interpretował jako przejawy queerowego utopizmu, czyli wielkiej odmowy zaakceptowania powszechnego dyktatu „tu i&nbsp;teraz”.</p> <h2>Estetyka queer jako „wielka odmowa”</h2> <p>W kontekście estetyki queer warto przemyśleć książkę <em>Eros i&nbsp;cywilizacja </em>Marcusego, która ukazała się w&nbsp;1955 roku i&nbsp;zapowiada ruchy kontrkulturowe lat 60. W&nbsp;książce tej, będącej właściwie projektem wyzwolenia seksualnego, odnajdujemy wyraźny wątek sprzeciwu wobec homofobii, który zdumiewa, jeśli wziąć pod&nbsp;uwagę okoliczności historyczne. W&nbsp;ósmym rozdziale, <em>Wyobrażenia Narcyza i&nbsp;Orfeusza</em>, Marcuse opisuje tytana Prometeusza jako ucieleśnienie „zasady wydajności” (<em>performance principle</em>). Termin ten opisuje stan alienacji pracy, któremu podlega człowiek nowoczesny. Mitologiczny Prometeusz, poddany ciągłej presji i&nbsp;stale się odradzający (kara za&nbsp;to, że&nbsp;ukradł bogom olimpijskim ogień i&nbsp;przekazał go ludziom), zostaje zestawiony z&nbsp;Orfeuszem i&nbsp;Narcyzem – krewnymi Dionizosa symbolizującymi odmienną rzeczywistość, która nie wymusza rygorystycznej racjonalności właściwej zasadzie wydajności.</p> <p>Mitologia przedstawia Narcyza jako pięknego młodzieńca, który wyrzekł się „normalnych” stosunków seksualnych i&nbsp;zginął. W&nbsp;opowieści Owidiusza Narcyz zakochuje się we własnym odbiciu za&nbsp;sprawą gniewu bogini Nemezis, która mści się na&nbsp;nim za&nbsp;odrzucenie nimfy Echo. Oczarowany własnym wizerunkiem młodzieniec nie może przestać na&nbsp;siebie patrzeć i&nbsp;umiera. Równie tragiczna jest historia Orfeusza. Utraciwszy żonę, Eurydykę, na&nbsp;rzecz panującego w&nbsp;zaświatach Hadesa, Orfeusz wyrzeka się miłości do kobiet i&nbsp;wybiera związki z&nbsp;młodymi mężczyznami. W&nbsp;wyniku tego odrzucenia normalnej miłości zostaje on rozszarpany przez menady, kobiety wyznające kult Dionizosa. U&nbsp;Marcusego Narcyz i&nbsp;Orfeusz „wyobrażają radość i&nbsp;spełnienie, głos, który nie rozkazuje, lecz śpiewa, gest, który daje i&nbsp;przyjmuje, czyn, który jest pokojem i&nbsp;kończy ciężką pracę podbijania – wyzwolenie od czasu jednoczące człowieka z&nbsp;bogiem, człowieka z&nbsp;przyrodą”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>.</p> <p>Mimo że&nbsp;historie obu tych mitologicznych bohaterów kulturowych kończą się tragicznie, ich wyobrażenia – zdaniem Marcusego – symbolizują możliwość innej rzeczywistości. Narcyz i&nbsp;Orfeusz zostają w&nbsp;ten sposób uwolnieni od negatywnych skojarzeń, które przylgnęły do nich w&nbsp;czasach panowania zasady wydajności i&nbsp;jej represyjnego porządku. Pod&nbsp;koniec tego rozdziału Marcuse czyni istotne spostrzeżenie na&nbsp;temat Orfeusza i, w&nbsp;nieco mniejszym stopniu, Narcyza:</p> <blockquote>Tradycja klasyczna przypisuje Orfeuszowi wprowadzenie homoseksualizmu. Tak jak Narcyz, odrzuca on normalnego Erosa nie dla ascetycznego ideału, lecz dla Erosa pełniejszego. Tak jak Narcyz, protestuje przeciw represyjnemu porządkowi seksualności służącej prokreacji. Eros Orfeusza i&nbsp;Narcyza jest aż&nbsp;do końca zaprzeczeniem tego porządku – Wielką Odmową. W&nbsp;świecie, którego symbol stanowi bohater kulturowy Prometeusz, oznacza to zaprzeczenie wszelkiego porządku, ale w&nbsp;tym zaprzeczeniu Orfeusz i&nbsp;Narcyz ujawniają nową rzeczywistość, posiadającą własny porządek i&nbsp;rządzącą się odmiennymi regułami. Eros Orfeusza przeistacza byt: poprzez wyzwolenie zapanowuje nad okrucieństwem i&nbsp;śmiercią. Jego językiem jest pieśń, a&nbsp;pracą – gra. Żywot Narcyza to życie pięknem, jego istnienie jest kontemplacją. Wyobrażenia te należą do wymiaru estetycznego, i&nbsp;to w&nbsp;nim należy znaleźć i&nbsp;uprawomocnić zasadę rzeczywistości<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>.</blockquote> <p>Powiązanie pierwiastka orficznego z&nbsp;homoseksualizmem oraz pierwiastka narcystycznego z&nbsp;nieprokreacyjną formą seksualności pozwala połączyć te dwie kategorie z&nbsp;poetyki mitu z&nbsp;procedurą estetyczną, którą nazwałbym queerową. Chodzi o&nbsp;queerowość rozumianą jako „Wielka Odmowa”, którą opisuje Marcuse – odmowa podporządkowania się temu, co określa on z&nbsp;kolei jako zasadę wydajności. Mówiąc bardziej konkretnie, ta odmowa, nazywana tu queerowością, nie polega jedynie na&nbsp;homoseksualności, lecz na&nbsp;odrzuceniu normalnej miłości, która podtrzymuje represyjny porządek społeczny.</p> <p>W <em>Erosie i&nbsp;cywilizacji</em> sformułowane zostają trzy nadrzędne zasady: zasada przyjemności, która reprezentuje Erosa i&nbsp;zabawę; zasada rzeczywistości, która oznacza pracę; wreszcie – zasada wydajności, dominująca we współczesnych zmaganiach. Najprostsze wyjaśnienie zasady wydajności ujmuje ją jako sposób ustanowienia represyjnego porządku społecznego w&nbsp;efekcie ograniczenie form i&nbsp;rodzajów przyjemności dostępnych człowiekowi. Reguluje ona zatem dynamikę między zasadą przyjemności a&nbsp;zasadą rzeczywistości. Najkrócej, głosi ona, że&nbsp;„ludzie nie żyją własnym życiem, ale pełnią z&nbsp;góry ustalone funkcje. Pracując, nie zaspokajają swoich potrzeb i&nbsp;nie wykorzystują uzdolnień, gdyż pracują w&nbsp;warunkach alienacji”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Queerowość w&nbsp;moim rozumieniu to więcej niż seksualność. To wielka odmowa podporządkowania się zasadzie wydajności, odmowa, która pozwala człowiekowi na&nbsp;odczucie i&nbsp;poznanie nie tylko przyjemności i&nbsp;pracy, lecz także siebie i&nbsp;innych.</p> <p>W <em>Erosie i&nbsp;cywilizacji </em>żywioł estetyczny oraz nadwyżka, którą on produkuje, mogą przeciwstawić się podejściu praktycznemu wymuszanemu przez zasadę wydajności. Estetyka queer może pełnić rolę wielkiej odmowy, ponieważ sztuka potrafi pobudzać wyobraźnię polityczną do inicjowania nowych sposobów patrzenia i&nbsp;oddziaływania na&nbsp;rzeczywistość, która przecież jest podatna na&nbsp;zmiany. Myślę tu o&nbsp;dwóch artystach: twórczość pierwszego należy do przeszłości albo, jak ująłby to filozof Ernst Bloch, do „już nieświadomego”, drugi natomiast tworzy obecnie. Andy Warhol i&nbsp;Jim Hodges reprezentują zatem dwa momenty w&nbsp;rozwoju estetyki queer, w&nbsp;których pojawiają się praktyki artystyczne powiązane, jak sądzę, z&nbsp;mitologiczno-poetycką siłą Orfeusza i&nbsp;Narcyza. Chodzi o&nbsp;te właściwości dzieła Warhola i&nbsp;Hodgesa, które łączą się z&nbsp;radosną kontemplacją oraz ze zwrotem ku ludyczności i&nbsp;liryczności, przeciwstawiając się w&nbsp;ten sposób panowaniu zasady wydajności.</p> <h2>Taniec srebrnych chmur</h2> <p><em>Srebrne chmury </em>(<em>Silver Clouds</em>) Warhola były początkowo scenografią do spektaklu <em>Las deszczowy </em> (<em>RainForest</em>) Merce’a Cunninghama. Premiera tego widowiska tanecznego odbyła się w&nbsp;1968 roku, który zwykle kojarzony jest przede wszystkim jako apogeum rozruchów politycznych i&nbsp;żarliwego aktywizmu. Muzykę do spektaklu skomponował towarzysz życia Cunninghama, John Cage, a&nbsp;kostiumy zaprojektował Jasper Johns. Wtedy jeszcze żaden z&nbsp;tych luminarzy awangardy nie był wyautowany; niektórzy z&nbsp;nich zresztą nigdy się nie ujawnili, odmawiając komentarzy na&nbsp;temat swojego życia prywatnego. Każdy z&nbsp;nich tworzył jednak projekty estetyczne, które moim zdaniem łączą się z&nbsp;„wielką odmową” Marcusego oraz z&nbsp;utopijną estetyką queer, która według mnie wynika z&nbsp;jego teorii.</p> <p>W spektaklu wystąpiło sześciu tancerzy w&nbsp;podartych trykotach, którzy wcielali się w&nbsp;zwierzęce awatary z&nbsp;innego świata, podczas gdy unoszące się nad sceną chmury zastępowały drzewa, symbolizując las. Zarówno Warhol, jak i&nbsp;Cunningham znani są z&nbsp;tego, że&nbsp;w&nbsp;swojej sztuce przechwytują i&nbsp;przetwarzają banał. U&nbsp;Cunninghama zatem zwyczajny ruch staje się tańcem, a&nbsp;Warhol przemienia poduszkę w&nbsp;srebrną ikonę unoszącą się w&nbsp;powietrzu. W&nbsp;efekcie ich współpracy ta srebrna poduszka staje się chmurą w&nbsp;zaczarowanym <em>Lesie deszczowym</em>. W&nbsp;efekcie w&nbsp;spektaklu – i&nbsp;poduszce, która go tworzy – pojawia się komponent zarówno orficzny, jak i&nbsp;narcystyczny.</p> <p>Marcuse ceni obie te formy doświadczenia świata, ponieważ zaprzeczają one wartościom podtrzymującym alienujące wzorce życiowe wyrażane przez zasadę wydajności. Zasada przyjemności z&nbsp;pewnością obejmuje tożsamości gejowskie – zwłaszcza te, które zadowalają się małpowaniem heteroseksualnych konwencji społecznych i&nbsp;sposobów bycia w&nbsp;świecie. Istnieje jednak również inna forma wyzwolenia Erosa, którą opisuję jako nie tylko queerowość, lecz także jako queerowy utopizm, który nie sprowadza się do seksualności gejowskiej lub lesbijskiej, lecz obejmuje różne eksperymentalne formy miłości, seksu i&nbsp;nawiązywania relacji. Na&nbsp;tym polega wielka odmowa, której emblematami stają się Narcyz i&nbsp;Orfeusz. Jak pisze Marcuse:</p> <blockquote>Nie stali się [oni] bohaterami kulturowymi świata zachodniego: wyobrażają radość i&nbsp;spełnienie, głos który nie rozkazuje, lecz śpiewa, gest, który daje i&nbsp;przyjmuje, czyn, który jest pokojem i&nbsp;kończy ciężką pracę podbijania, wyzwolenie od czasu jednoczące człowieka z&nbsp;bogiem, człowieka z&nbsp;przyrodą<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup>.</blockquote> <p>Marcuse przejmuje obraz Narcyza nie tyle z&nbsp;Freudowskiej teorii libido, w&nbsp;której reprezentuje on patologiczną perwersję, ile z&nbsp;mitologii, gdzie „jego milczenie nie jest ciszą pośmiertnego stężenia: nie odpowiadając na&nbsp;miłość myśliwych i&nbsp;nimf, odrzuca on jednego Erosa na&nbsp;rzecz innego. Żyje swoim własnym Erosem, i&nbsp;nie kocha jedynie samego siebie”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>. Zdaniem filozofa zakochany we własnym odbiciu Narcyz nie wie, że&nbsp;podziwia siebie, a&nbsp;jego miłość własną łagodzi miłość do przyrody. Koniec kończy się śmiercią bohatera i&nbsp;jego przeobrażeniem w&nbsp;kwiat. Miłość Narcyza jest zatem zakłóceniem zasady przyjemności. Reprezentuje on zasadę nirwany, jak nazywa to Marcuse, która wiąże się z&nbsp;„wyzwoleniem przyjemności, powstrzymaniem czasu, wchłonięciem śmierci, ciszą, nocą i&nbsp;rajem”<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>. Zasada nirwany, reprezentująca życie przekształcające się w&nbsp;kontraście do życia kontrolowanego i&nbsp;poddanego uciskowi, jest tutaj nawiązaniem do pojęcia nirwany, czyli stanu najwyższego szczęścia w&nbsp;myśli buddyjskiej, ideału pokrewnego do koncepcji utopijności w&nbsp;idealizmie niemieckim. Projekty estetyczne Warhola i&nbsp;Hodgesa zmierzają do stworzenia wizji zasady nirwany, queerowej i&nbsp;utopijnej, inscenizującej wielkie zakłócenie.</p> <p>Srebrne poduszki Warhola, będące zarazem drzewami w&nbsp;<em>Lesie deszczowym</em> Cunnighama, możemy zatem uznać za&nbsp;komponenty sceny narcystycznej: spojrzenie w&nbsp;lustrzaną powierzchnię poduszki oznacza przyjęcie postawy kontemplatywnej, która podważa oficjalny nakaz pracy, znoju i&nbsp;ofiary dyktowany przez zasadę wydajności. W&nbsp;kosmologii Warhola narcyzm przeciwstawia się także ściśle Freudowskiemu potępieniu tej praktyki. Artysta wielokrotnie i&nbsp;na różne sposoby wykorzystywał sztukę portretu. Lista jego „portretów” obejmuje niezliczone wizerunki celebrytów, jak choćby Jackie Kennedy, zdjęcia próbne całej armii supergwiazd i&nbsp;przyjaciół oraz zróżnicowane autoportrety w&nbsp;perukach lub zrobione przez pryzmat kamuflażu. Do tej listy eksperymentów ze sztuką portretowania dodałbym także srebrne poduszki. W&nbsp;inscenizacji <em>Lasu deszczowego </em>Cunninghama stają się one odblaskowymi zbiornikami, w&nbsp;których odbijają się wizerunki wszystkich tancerzy. W&nbsp;podobny sposób proponują one widzom oglądającym tę instalację w&nbsp;muzeum ich własne portrety i&nbsp;własne źródła kontemplacji, tym samym pozwalając widowni, by sama wkroczyła na&nbsp;„scenę”.</p> <p>Uznając unoszące się w&nbsp;przestrzeni muzeum srebrne poduszki za&nbsp;ruchome pola medytacji i&nbsp;autorefleksji, zaczniemy rozumieć ich funkcję krytyczną, polegającą na&nbsp;zachęceniu widza do samokontemplacji, a&nbsp;być może także do samokrytyki. Od Kanta do Marksa, i&nbsp;później, punktem wyjścia do wszelkiej krytyki była właśnie autoanaliza. Zobaczenie własnego wizerunku na&nbsp;świetlistej powierzchni rozkołysanej poduszki jest równoznaczne z&nbsp;ujrzeniem siebie w&nbsp;innym życiu i&nbsp;w innym świecie. To jak ujrzenie siebie w&nbsp;srebrnej skórze bohatera komiksowego albo w&nbsp;sztucznym blasku diamentów z&nbsp;obrazu, który omawiałem w&nbsp;innym miejscu<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>.</p> <p>Warto podkreślić formę poduszek, którą przybierają te igrające bryły – poduszki odzwierciedlają przecież uczucie wytchnienia i&nbsp;odpoczynku, przeciwstawione przymusowi działania i&nbsp;pracy. Symbolizują też rzeczywistość marzenia oraz wyobraźni. Unosząc się w&nbsp;powietrzu i&nbsp;połyskując srebrem, wydają się formą celebrowania zabawy i&nbsp;odpoczynku, wyzwolenia spod władzy represyjnej etyki. Można również pomyśleć o&nbsp;kinetycznych właściwościach tych poduszek, które są zarazem wodnymi zbiornikami autokontemplacji i&nbsp;drzewami leśnymi. Według mitu Narcyz wchodzi w&nbsp;tak głęboki związek z&nbsp;przyrodą, że&nbsp;umożliwia wydarzenie się niemożliwego. Ta dynamika charakteryzuje zarówno pierwiastek narcystyczny, jak i&nbsp;orficzny, bowiem „Eros narcystyczny i&nbsp;orficzny wyzwala i&nbsp;budzi możliwości rzeczywiście istniejące w&nbsp;rzeczach ożywionych i&nbsp;nieożywionych, w&nbsp;przyrodzie organicznej i&nbsp;nieorganicznej – realne, lecz stłumione w&nbsp;nieerotycznej rzeczywistości”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>. Kołyszące się w&nbsp;powietrzu poduszki symbolizują zatem ożywiającą siłę nierzeczywistości, której obietnicę niesie to, co narcystyczne – nierzeczywistości, która jest szczególnie przejmująca, ponieważ sprzyja poetyckiej kontemplacji świata, przebijającego przez zasłonę represyjnej zasady wydajności, która narzuca rygorystyczny porządek zarówno pracy, jak i&nbsp;zabawie.</p> <p>Wykorzystanie kamuflażu przez Warhola i&nbsp;Hodgesa pozwala dostrzec ożywioną naturę. Kamuflaż jest dla nich wytworem estetycznym, którego rola nie sprowadza się jedynie do powielenia formy natury. Staje się on formą odnoszącą się do relacji między naturą a&nbsp;człowiekiem. Utylitarne wykorzystanie kamuflażu ograniczało to odniesienie do polowania oraz do militaryzmu. Gdy jednak forma kamuflażu przechodzi w&nbsp;sferę estetyczną, ulega reaktywacji i&nbsp;zaczyna działać w&nbsp;sposób, który nie odpowiada represyjnym i&nbsp;pragmatycznym strukturom zasady wydajności. Na&nbsp;obrazie Warhola z&nbsp;1987 roku widzimy kamuflaż w&nbsp;krzykliwych i&nbsp;zdecydowanie nienaturalnych barwach, kojarzonych z&nbsp;okresem kontrkultury, który przyniósł artyście sławę. Obrazy te ukazują świat naturalny – zazwyczaj w&nbsp;jakiejś mierze przywoływany przez kamuflaż – jako niemożliwy bądź głęboko nienaturalny. Estetyka queer próbuje podać to, co naturalne, w&nbsp;wątpliwość. Narcyz i&nbsp;Orfeusz reprezentują queerową możliwość wpisaną w&nbsp;samo królestwo natury, możliwość, która została ograniczona za&nbsp;sprawą pewnego uporządkowania – lub nawet zawłaszczenia – natury. Kamuflaż Warhola zmierza do wydobycia radykalnej niemożliwości wpisanej w&nbsp;świat natury.</p> <p>W jaskrawym kamuflażu Warhola widoczne jest pragnienie odtworzenia natury z&nbsp;różnicą, z&nbsp;pragnieniem, by zabawić się myślą o&nbsp;niemożliwym zaistnienia innego świata, innego czasu i&nbsp;miejsca, gdzie to, co naturalne, reprezentowałaby potencjalność queerową – niewyobrażalną w&nbsp;heteronormatywnym czasie i&nbsp;miejscu we władzy zasady wydajności. Piękna praca <em>O, wspaniały obszar</em> (<em>Oh Great Terrain </em>, 2002) Jima Hodgesa może być uznana zarówno za&nbsp;nawiązanie do warholowskiego podejścia do kamuflażu, jak i&nbsp;całkiem oryginalne osiągnięcie w&nbsp;projekcie estetycznym przedstawienie queerowo-utopijnego „krajobrazu pragnienia”. Kamuflaż Hodgesa przywodzi na&nbsp;myśl tak zwany kamuflaż miejski, obejmujący paletę rozmaitych czerni, bieli i&nbsp;szarości. Obraz ożywia kamuflaż, przenosząc go z&nbsp;pragmatycznej rzeczywistości ku wymiarowi idealistycznemu. Przedstawia pewną kinestezję, ruchomą spiralę elementów kamuflażu krążących z&nbsp;odśrodkową lub dośrodkową siłą wokół centrum. Czarne, białe i&nbsp;szare odłamki zdają się uczestniczyć w&nbsp;wielkiej choreografii o&nbsp;niebywałym znaczeniu. <em>O, wspaniały obszar</em> zyskuje w&nbsp;ten sposób efekt perspektywy, którego nie przywykliśmy łączyć z&nbsp;kamuflażem jako formą malarską i&nbsp;designerską. W&nbsp;dziele Hodgesa wzór zaczyna znaczyć coś innego. Kamuflaż zyskuje nagle dodatkowy wymiar dystansu i&nbsp;zamknięcia. Ernst Bloch pisał przenikliwie o&nbsp;utopijnej sile malarstwa, które ukazuje krajobraz pragnienia. Skupiał się przede wszystkim na&nbsp;historycznym malarstwie przedstawiającym, odnosząc pojęcie krajobrazu pragnienia do twórczości Van Eycka, Leonarda czy Rembrandta. Roboczo zapożyczę to pojęcie do opisu pewnych aspektów queerowego utopizmu estetycznego Hodgesa. Bloch opisuje krajobraz pragnienia w&nbsp;charakterystycznym liryczno-filozoficznym języku:</p> <blockquote>Ta przestrzeń w&nbsp;oddali, która pozwala na&nbsp;niczym niezakłócony widok i&nbsp;niczego nie ukrywa, jest bogatsza w&nbsp;przedmioty. Nawet w&nbsp;miejscach, gdzie namalowany widok zanurza się we mgle, nie ustanawia on żadnego ograniczenia, lecz raczej standardową scenerię bezmiaru. Krajobraz pragnienia w&nbsp;formie otwartej przestrzeni pojawił się na&nbsp;obrazach z&nbsp;chwilą, w&nbsp;której nieskończoność tego świata zastąpiła nieskończoność nieba. [...] Punkt zbiegu linii perspektywy zanurza się w&nbsp;nieskończoności; linie biegnące przez centrum obrazu sięgają poza horyzont. Postacie otaczają coś nowego: przestrzeń odśrodkową. Już w&nbsp;średniowieczu zatem – bezmiar, bezmiar pragnienia<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>.</blockquote> <p>Na obrazie Hodgesa linie wirują wokół odśrodkowej przestrzeni, ostatecznie jednak zarówno wyznaczają horyzont, jak i&nbsp;wykraczają poza niego – ku możliwości, nadziei i&nbsp;utopii. Restrykcyjna dyrektywa wpisana w&nbsp;naturalny porządek przedstawienia zostaje wykorzystana jako sztuczka taneczna, która podważa tyranię natury i&nbsp;jej machiny przymusu. W&nbsp;pracy <em>O, wspaniały obszar</em> artysta przekształca to, co naturalne, w&nbsp;taki sposób, aby widz mógł wyobrazić sobie nowy świat, co wywołuje poczucie bezmiaru, jednocześnie orficzne i&nbsp;narcystyczne. Jak wyjaśnia Marcuse, „na język Orfeusza odpowiadają drzewa i&nbsp;zwierzęta; źródło i&nbsp;las odpowiadają na&nbsp;pragnienie Narcyza”<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>.</p> <p>Queerowość jako liryka i&nbsp;modalność może zatem przekształcić porządek naturalny, otwierając nowe horyzonty i&nbsp;bezmiar możliwości. […]</p> <h2>Krajobrazy z&nbsp;ornamentów</h2> <p>Wykorzystanie motywu krajobrazu przez Hodgesa przypomina sposób rozwinięcia i&nbsp;przekształcenia sztuki portretu w&nbsp;praktyce artystycznej Warhola. Kamuflaż wiąże się z&nbsp;pojęciem krajobrazu i&nbsp;również jest – by przywołać określenie Hodgesa – formą mocno „obciążoną”. Noblista J.M. Coetzee ujawnił siłę opisów krajobrazu w&nbsp;jego rodzinnej RPA pomijających i&nbsp;deprecjonujących afrykańską obecność, by wzmocnić i&nbsp;uzasadnić kolonialne zapędy białych osadników<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Sztuka pejzażu opisuje porządek natury, ale w&nbsp;żadnym razie nie w&nbsp;sposób neutralny. Przedstawia świat takim, jakim powinien być, wyglądać i&nbsp;być odczuwany. Podejście Hodgesa do krajobrazu najbardziej bezpośrednio widać w&nbsp;nawiązującej do kamuflażu pracy <em>O, wspaniały obszar</em>, omawianej wcześniej. Artysta używa jednak również innych środków do przedstawienia świata naturalnego oraz miejsca człowieka w&nbsp;nim. Weźmy na&nbsp;przykład pracę <em>Krajobraz</em> (<em>Landscape</em>, 1998), w&nbsp;której łączą się pojęcia krajobrazu i&nbsp;portretu, oba konceptualnie przeskalowane. Oto na&nbsp;stole rozłożona została biała, wykrochmalona (jak się zdaje) koszula. Po&nbsp;bliższym przyjrzeniu się widać, że&nbsp;jej biały kołnierzyk obejmuje koncentryczne okręgi z&nbsp;materiałów o&nbsp;różnych wzorach i&nbsp;barwach, które wyglądają na&nbsp;kołnierzyki kolejnych koszul. Całość kojarzy się ze skondensowaną zawartością szafy, a&nbsp;w efekcie z&nbsp;amalgamatem skrawków i&nbsp;fragmentów – materialnych i&nbsp;emocjonalnych – które reprezentują życie. Pod&nbsp;tym względem praca przypomina dzieło Félixa Gonzáleza-Torresa, zmarłego przyjaciela Hodgesa. Na&nbsp;ścianach pokoju malował on serię dat i&nbsp;słów, która miały być portretem „malowanej” osoby. Słowa i&nbsp;daty przedstawiają bardzo subiektywny, a&nbsp;zarazem historycznie zniuansowany, portret podmiotu.</p> <p><em>Krajobraz</em> tworzą wyrzucone koszule – być może należały do artysty, a&nbsp;może do jego przyjaciela, znajomego lub kochanka. Praca nie została jednak zatytułowana <em>Portret</em>, lecz właśnie <em>Krajobraz</em>, stąd wymaga namysłu nad wymiarem przestrzennym tych skrawków życia symbolizowanych przez materiał. Malarstwo przedstawia życie jako krajobraz. Życie drzewa zapisane jest w&nbsp;słojach widocznych na&nbsp;pniu, który staje się częścią krajobrazu. Tutaj koszule jednych mężczyzn dotykają koszul innych, w&nbsp;tonacji, która ujmuje nie tylko krajobraz życia wewnętrznego, lecz także różne relacje intymne przywoływane symbolicznie przez zetknięcie czyjejś szafy z&nbsp;cudzym ubraniem.</p> <p>González-Torres zasłynął jako autor powielonego na&nbsp;billboardach zdjęcia, ukazującego społeczny i&nbsp;osobisty wymiar utraty ukochanej osoby. Przedstawiało ono niepościelone łóżko i&nbsp;wgniecenia pozostawione przez dwa nieobecne ciała. W&nbsp;podobny sposób współobecność i&nbsp;nieobecność tworzą queerowy krajobraz w&nbsp;dziele Hodgesa. Męskie koszule wirują, tworząc krajobraz sugerujący istnienia innego świata intymności, powiązanego z&nbsp;żywiołami Narcyza i&nbsp;Orfeusza oraz ich obietnicą zakłócenia porządku „tu i&nbsp;teraz”.</p> <p>Lustrzane prace Hodgesa, takie jak <em>Wielkie wydarzenie</em> (<em>Great Event</em>, 1999), również obiecują nowy krajobraz pragnienia. Niewielkie kawałki lustra łączą się tutaj na&nbsp;płótnie, tworząc kształt koła. Natychmiast kojarzy się to z&nbsp;kulą dyskotekową i&nbsp;reprezentowanym przez nią światem zabawy, tańca i&nbsp;radosnego pobudzenia. Wyczarowany zostaje świat zbawienia na&nbsp;parkiecie tanecznym. Lustrzana kula budzi jednak również inne skojarzenia, na&nbsp;przykład ze lśniącym krajobrazem widzianym z&nbsp;lotu ptaka. Może wydawać się czymś w&nbsp;rodzaju mapy utopii queerowej pokazującej dane demograficzne lub gęstość zaludnienia. W&nbsp;kontekście Hodgesa przypomina się słynna riposta Oscara Wilde’a, że&nbsp;„mapa świata, na&nbsp;której nie ma Utopii, nie jest warta nawet spojrzenia”<sup><a href="#sdfootnote14sym" name="sdfootnote14anc">14</a></sup>. Podobnie jak <em>Srebrne chmury</em> dzieło Hodgesa idealistycznie przedstawia świat naturalny. Sztuka jest formą manipulacji bezmiarem natury, a&nbsp;tym samym obszarem kontemplacji i&nbsp;krytyki.</p> <p><em>W strumieniu IV </em>(<em>Into the Stream IV</em>) inna lustrzana praca Hodgesa oparta na&nbsp;motywie kamuflażu łączy pierwiastek orficzny i&nbsp;narcystyczny. Na&nbsp;obrazie tym bujny wir linii przywołuje wrażenie wyobrażonego na&nbsp;nowo i&nbsp;pełnego życia świata naturalnego. Przypomina on inne dzieło Gonzáleza-Torresa, <em>Bez tytułu (Dwa razy Orfeusz</em>) [<em>Untitled (Orpheus Twice</em>), 1991], składające się z&nbsp;dwóch ustawionych obok siebie luster wielkości drzwi. Widoczna jest zbieżność z&nbsp;symboliką narcystyczną <em>par excellence</em> – ale tytuł dzieła zawiera jednak imię Orfeusza. Wydaje się, że&nbsp;artysta bezpośrednio wiąże ze sobą pierwiastek orficzny i&nbsp;narcystyczny. Podobnie jak Marcuse i&nbsp;Bloch był myślicielem zaangażowanym w&nbsp;projekt inscenizacji wielkiej odmowy. Objaśniając jedną ze swoich słynnych instalacji-stosów – tym razem był to stos białych kartek papieru, które widzowie mogli zabierać ze sobą – artysta pisał w&nbsp;liście do swojej galerzystki z&nbsp;14 lutego 1992 roku:</p> <blockquote>Kilka dni temu ciągle jeszcze myślałem o&nbsp;tej pracy i&nbsp;o tym, jakim jest dla mnie – coraz większym – spełnieniem. Wiesz, że&nbsp;jej tytuł (<em>Paszport</em>) jest niezwykle istotny i&nbsp;znaczący – biały, niezapisany kawałek papieru, nietknięte uczucie, nieodkryte doświadczenie. Paszport do innego miejsca, do innego życia, do nowego początku, do szansy; do szansy spotkania innego, który pobudziłby siły życia, do szansy odmiany życia i&nbsp;przyszłości; pusty paszport na&nbsp;całe życie: do zapisania go tym, co najlepsze, najbardziej bolesne, najbardziej banalne i&nbsp;najbardziej wzniosłe, a&nbsp;także do zapisania życiem, miłością, wspomnieniami, lękami, chwilami pustki i&nbsp;nieoczekiwanymi powodami, by żyć. Prosty, biały obiekt pod&nbsp;białą ścianą, w&nbsp;oczekiwaniu<sup><a href="#sdfootnote15sym" name="sdfootnote15anc">15</a></sup>.</blockquote> <p>Pusta biała kartka papieru wydaje się przeciwieństwem lustra – niczego nie przedstawia, podczas gdy lustro ukazuje wszystko, co znajdzie się w&nbsp;jego zasięgu. Idea paszportu i&nbsp;przeniesienia się gdzie indziej niż tutaj przywodzi jednak na&nbsp;myśl przeniesienie się, które Lewis Caroll przedstawił za&nbsp;pomocą lustra. U&nbsp;Hodgesa i&nbsp;Gonzáleza-Torresa lustro staje się progiem pewnej podróży. Wpatrywanie się w&nbsp;powierzchnię lustra to nie tylko wyraz samozachwytu, lecz także tryb kontemplacji, która pozwala patrzącemu uświadomić sobie siłę przymusu zasady wydajności. To patrzenie w&nbsp;lustro jest zatem aktem, który działa niczym symboliczny paszport; mówi o&nbsp;wyobraźni krytycznej, która zaczyna się od autoanalizy, oraz o&nbsp;szerszej krytyce społecznej dotyczącej możliwego i&nbsp;w istocie pożądanego kształtu świata.</p> <p>Głos Laury Nyro i&nbsp;jej piosenka wyrażają potrzebę ozdobienia świata; ten impuls nadaje również ton twórczości Felixa Gonzáleza-Torresa, Jima Hodgesa i&nbsp;Andy‘ego Warhola. Pragnienie przedstawienia świata jako rzeczywistości w&nbsp;ornamentach to pragnienie wyjrzenia poza ograniczenia zasady wydajności. Marcuse przekonuje, że&nbsp;ludzie w&nbsp;jej okowach cierpią nadmierną opresję. To jasne, że&nbsp;pewna jej forma jest konieczna, że&nbsp;zginęlibyśmy pod&nbsp;lawiną hedonistycznych rozkoszy, gdyby zasada rzeczywistości (potrzeba pracy, materialnego utrzymania egzystencji) nie regulowała do pewnego stopnia działania zasady przyjemności. Zasada wydajności wprowadza jednak nadwyżkę przymusu, który zdecydowanie ogranicza sferę przyjemności, działając w&nbsp;służbie normalizacji i&nbsp;kontroli społecznej.</p> <p>Oglądając wczesne prace Warhola z&nbsp;lat 50., dostrzegamy piękny świat homoerotycznego pragnienia, który oznacza początek nurtu myślenia utopijnego, pragnienia odnalezienia czasu i&nbsp;przestrzeni, które były nie do pomyślenia dla mężczyzn pożądających innych mężczyzn. Bogate występowanie serc i&nbsp;złotego brokatu oddaje świat ozdobności. Na&nbsp;jednym z&nbsp;obrazów pojawiają się piękne buty podpisane imionami przyjaciół artysty. U&nbsp;dołu obrazu widnieje dedykacja: „Dla wszystkich moich przyjaciół”. Na&nbsp;innym kochankowie – mężczyźni – się całują. Gdzie indziej chłopiec namalowany złotem spogląda prowokacyjnie – w&nbsp;pozycji, która przypomina leżenie na&nbsp;brzuchu. Inny obraz przedstawia mężczyznę, który zdaje się trzymać za&nbsp;genitalia, nieśmiało je zasłaniając. Na&nbsp;pewnym rysunku kwiat i&nbsp;liść układają się w&nbsp;formę fiuta, jaj i&nbsp;włosów łonowych. Inny, wykonany piórem kulkowym, przedstawia całe rzędy serc; na&nbsp;dwóch sercach widnieją inicjały „CL“. Prowokuje to do domysłów na&nbsp;temat tożsamości CL. (Był to aktor Charles Lisanby). Autoportret artysty zostaje ozdobiony gwiazdami, półksiężycami i&nbsp;ptakami w&nbsp;locie. To dzieło, stworzone na&nbsp;wiele lat przed tym, co obwołuje się emancypacją gejów, ustanawia pozłacany, pełen ornamentów świat marzyciela.</p> <p>Etos zasady wydajności nie pozostawia miejsca i&nbsp;czasu na&nbsp;przesycone pożądaniem i&nbsp;romantyzmem wyobrażenia z&nbsp;tych obrazów Warhola. Właśnie dlatego Bloch na&nbsp;przykład przywiązuje tak wielką wagę do marzenia, widząc je jako pracę wyobrażania sobie innego życia, miejsca i&nbsp;czasu – jakiejś wersji nieba na&nbsp;ziemi, która nie opierałaby się na&nbsp;zaprzeczeniu lub rozkojarzeniu, lecz na&nbsp;wspólnej formie przeniesienia, która pozwalałaby myśleć o&nbsp;innym miejscu, w&nbsp;którym nasz Eros nie byłby podporządkowany wymaganiom cywilizacji. Marzenie – podobnie jak ornament – na&nbsp;nowo uruchamia erotyczne imaginarium, które nie ogranicza się do fantazji seksualnych, lecz – obejmując je – bardziej dotyczy rozwiniętej zdolności do miłości i&nbsp;nawiązywania relacji, zdolności, której queerowy charakter przejawia się w&nbsp;jej uderzającym nacisku na&nbsp;wielką odmowę. Dzieło Warhola odsłania się w&nbsp;swojej najbardziej radosnej i&nbsp;wyrazistej formie w&nbsp;jego wczesnych pracach, przenikniętych pierwiastkiem orficznym i&nbsp;narcystycznym.</p> <p>W twórczości Warhola, poza obrazami serc i&nbsp;chłopców, znajdujemy także rozmaite obrazy kwiatów. Znów przypomina to o&nbsp;losie Narcyza, który został ostatecznie przemieniony w&nbsp;kwiat. Obraz Warhola z&nbsp;1964 roku przedstawia bujne i&nbsp;piękne kwiaty. Technika sitodruku nadaje im swoistą mgławicowość, antycypującą w&nbsp;pewnej mierze <em>Srebrne chmury</em>. Wśród prac Warhola z&nbsp;lat 50. są niezliczone przedstawienia kwiatów, ale jedno jest szczególnie interesujące. To rysunek kwiatu wyłaniającego się z&nbsp;butelki po&nbsp;coca-coli. Motyw butelki coca-coli przewija się w&nbsp;całej twórczość Warhola i&nbsp;jest charakterystycznym przejawem jego strategii odsłaniania estetycznego wymiaru towarów codziennego użytku, której emblematem jest obraz z&nbsp;puszką zupy Campbell. Tym razem butelka coli nie jest jednak wyizolowanym towarem produkcji masowej; dotyka jej bowiem kwiat, który rozkwita z&nbsp;niej dokładnie tak samo jak przemieniony Narcyz. Przywodzi to na&nbsp;myśl moment w&nbsp;<em>Filozofii Warhola</em>, w&nbsp;którym dostrzega on radykalnie demokratyczny i&nbsp;utopijny wymiar masowej produkcji towarów<sup><a href="#sdfootnote16sym" name="sdfootnote16anc">16</a></sup>. Warhol wykorzystuje formę towaru na&nbsp;rzecz idei radykalnej demokracji, co wraz z&nbsp;obrazem kwitnącej butelki coca-coli, naturalnego naddatku, który wyłania się z&nbsp;rzekomo jałowego naczynia, demonstruje swoiście Warholowską wersję queerowego impulsu utopijnego. Butelka coca-coli jest materiałem codziennego użytku, który zostaje przedstawiony w&nbsp;innym kontekście, obnażającym jej wymiar estetyczny oraz jej możliwości. W&nbsp;codziennej postaci przedmiot taki reprezentuje wyalienowaną produkcję, konsumpcję i&nbsp;pracę, czyli rzeczywistość zasady wydajności. Jednak dla Warhola, podobnie jak dla Cunnighama, Hogdesa i&nbsp;Gonzáleza-Torresa pierwiastek utopijny kryje się w&nbsp;codzienności. Praktyka estetyczna, którą nazywam queerową, to estetyczne przedsięwzięcie, które sprawia, że&nbsp;zalążki utopii tkwiące w&nbsp;rzeczywistości są zawsze widoczne na&nbsp;horyzoncie.</p> <p>Kiedyś pisałem o&nbsp;tym, jak Warhol i&nbsp;jego przyjaciel, a&nbsp;czasami współpracownik, Jean-Michel Basquiat odcinali się od kultury towarowej za&nbsp;pomocą pop-artu<sup><a href="#sdfootnote17sym" name="sdfootnote17anc">17</a></sup>. W&nbsp;queerowej estetyce utopii to odtożsamienie się służy projektowi, który jest krytycznie utopijny.</p> <p>Na początku tego tekstu przypomniałem mojego ojca i&nbsp;jego awersję do pewnego koloru. Opisałem jego niechęć do zieleni jako wyraz potępienia rewolucji, która dla wielu – choć nie dla wszystkich – okazała się porażką. Przez dużą część życia kłóciłem się z&nbsp;nim na&nbsp;temat różnych rewolucji, i&nbsp;politycznych, i&nbsp;erotycznych. Rewolucja kubańska 1959 roku była przejawem impulsu utopijnego, który z&nbsp;pewnością należy już do przeszłości. Dziesięć lat późniejsze zamieszki w&nbsp;Stonewall stały się symbolem współczesnej emancypacji gejów. Wiele osób sądzi, że&nbsp;rewolucja kubańska przekształciła się ostatecznie w&nbsp;totalitaryzm. Podobnie myślę o&nbsp;emancypacji gejów, idei, która zdradziła swoje pierwotne ideały. Sądzę, że&nbsp;współczesny ruch gejowski i&nbsp;lesbijski zasymilował się, z&nbsp;zadowoleniem przyjmując drogę wyznaczoną przez zasadę wydajności. Nie możemy pozwolić na&nbsp;to, by nieudane rewolucje na&nbsp;zawsze odeszły w&nbsp;przeszłość. Musimy w&nbsp;nich dostrzec projekty lepszego świata, które ożywia queerowa estetyka utopijna. Srebrne chmury, wirujące kamuflaże, lustra, stos białych kartek i&nbsp;obrazy kwiatów są paszportami, które pozwalają wkroczyć na&nbsp;utopijną ścieżkę, która powinna prowadzić do nieba lub też – jeszcze lepiej – do miejsca, w&nbsp;którym poczujemy się jak w&nbsp;niebie.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Przekład <em>Just Like Heaven. Queer Utopian Art and Aesthetic Dimension</em>, ósmego rozdziału książki José Estebana Muñoza, <em>Cruising Utopia. The T</em><em>hen and There of Queer Futurity</em>, New York University Press, London–­New York 2009, s. 131–147. © New York University Press. Dziękujemy wydawnictwu za możliwość przedrukowania tekstu.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a><em>You Ornament the Earth. A Dialogue with Jim Hodges and Ian Berry</em>, w: Ian Berry, Ron Platt, <em>Jim Hodges</em>, Frances Young Tang Teaching Museum – Art Gallery at Skidmore College, Saratoga Springs 2003, s. 15.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Herbert Marcuse, <em>Eros i cywilizacja</em>, przeł. H. Jankowska, A. Pawelski, Wydawnictwo Muza, Warszawa 1998, s. 165–166.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Ibidem, s. 174–175.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Ibidem, s. 60.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Ibidem, s. 165.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Ibidem, s. 171.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Ibidem, s. 168.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Chodzi tutaj o bohatera komiksu <em>Silver Surfer</em> (<em>Srebrny surfer</em>), kosmitę o charakterystycznej srebrnej skórze, oraz obraz współczesnego artysty Luke’a Dowda, <em>The Breeder</em> (2004). Muñoz pisze o tym w ósmym rozdziale <em>Utopia Seating Chart</em> książki <em>Cruising Utopia</em>…, s. 128 i nast. (przyp. tłum.).</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Ibidem, s. 169.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Ernst Bloch, <em>Better Castles in the Sky</em>, w: idem, <em>The Utopian Function of Art and Literature. Selected Essays</em>, MIT Press, Cambridge 1988, s. 283. [Bloch rekonstruuje tutaj <em>Madonnę z Autun</em> (ok. 1435) Jana van Eycka (przyp. tłum).].</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Herbert Marcuse, <em>Eros i cywilizacja</em>..., s. 169.</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Zob. John M. Coetzee, <em>Białe pisarstwo. O kulturze literackiej Afryki Południowej</em>, przeł. D. Żukowski, Znak, Kraków 2009.</p>
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a> Oskar Wilde, <em>Dusza ludzka w socjalizmie</em>, przeł. S. Jan, WDA, s. 8.</p>
+<p><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a> Cyt. za: <em>Felix González-Torres</em>, red. J. Ault, Steidl, Göttingen 2006, s. 161.</p>
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a> Por. Andy Warhol, <em>Filozofia Warhola od A do B i z powrotem</em>, przeł. J. Raczyńska, Twój Styl, Warszawa 2005 (przyp. red.).</p>
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a> José Esteban Muñoz, <em>Disidentifications. Queers of Color and the Performance of Politics</em>, University of Minnesota Press, Minneapolis 1999, s. 37–56.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/queer-obrazy/jak-w-niebie.-queerowa-sztuka-utopijna-i-wymiar-estetyczny" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

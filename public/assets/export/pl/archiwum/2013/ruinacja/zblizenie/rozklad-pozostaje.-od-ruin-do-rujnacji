@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>„Rozkład pozostaje”. Od ruin do rujnacji | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/ruinacja/rozklad-pozostaje.-od-ruin-do-rujnacji">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="„Rozkład pozostaje”. Od ruin do rujnacji | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="„Rozkład pozostaje”. Od ruin do rujnacji | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/ruinacja/rozklad-pozostaje.-od-ruin-do-rujnacji">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="„Rozkład pozostaje”. Od ruin do rujnacji | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ffb300 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ffb300 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ffb300 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ffb300 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ffb300 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ffb300 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ffb300 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+			/* background-color:#ffb300 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,179,0,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ffb300 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ffb300; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,179,0,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,179,0,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ffb300 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ffb300 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ffb300 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1223 parent-id-1188">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="422" data-selected-issue-color="#ffb300" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/4-ruin#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/4-ruin/the-rot-remains-from-ruins-to-ruination">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/ruinacja#toc">4</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/ruinacja/rozklad-pozostaje.-od-ruin-do-rujnacji?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>„Rozkład pozostaje”. Od ruin do rujnacji<sup><a href="#sdendnote1sym" name="sdendnote1anc">1</a></sup></span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/ruinacja/rozklad-pozostaje.-od-ruin-do-rujnacji?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorka: 
+		<a href="/pl/bio?id=1222">Ann Laura Stoler</a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Przełożyła: 
+		
+		Agnieszka Rejniak-Majewska
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <blockquote> <p style="text-align: right;">Przez zielony trawnik, przecięty niskimi murkami z&nbsp;kamienia,<br> Schylony nad strumieniem, idąc myślałem dalej<br> O&nbsp;ludziach takich jak Hawkins, Walter Raleigh, Drake,<br> Przodkach mordercach i&nbsp;poetach, w&nbsp;pamięci<br> Bardziej obciążonych teraz wszelką wrzodziejącą zbrodnią.<br> Czas zieleni i&nbsp;rozkwitu to był gnijący wapienny dół<br> którego smród oznaczał galeon-kostnicę.<br> Ludzie odeszli, rozkład pozostaje.<br> Ale gdy martwe prochy uniesie wiatr,<br> Poruszający żar umysłu co stygnie i&nbsp;ciemnieje,<br> Moje oczy oparzy spopielała proza Donne’a.<br> <br> Derek Walcott, <em>Ruins of a&nbsp;Great House,</em><br> <em>Collected Poems 1948-1984</em></p> </blockquote> <p></p> <p>Przedstawiona przez Dereka Walcotta gorzka pochwała imperium i&nbsp;jego pozostałości, określonych mianem „wrzodziejącej zbrodni”, jest w&nbsp;stanie uchwycić coś, co naszym dzisiejszym kolonialnym historiom wciąż się wymyka. Czasowniki w&nbsp;tekście płynnie zmieniają swoje formy czasowe. Chociaż chodzi tu przede wszystkim o&nbsp;dokonane akty przemocy z&nbsp;odległej epoki handlu niewolnikami, proces rozkładu wciąż trwa, przeszłe działania dewastują zmysły, ich skutki trwają bez końca. Zbrodnie te zostały nazwane i&nbsp;napiętnowane na&nbsp;całym świecie, ale ich niszczące oddziaływanie na&nbsp;bardziej skryte pierwiastki materii i&nbsp;ducha niekoniecznie dostrzeżono. Gorzkie metafory Walcotta splatają się i&nbsp;mieszają, zestawiając fizyczne zniszczenie z&nbsp;degradacją mentalną. Przede wszystkim jednak Walcott daje przestrogę nieuważnemu czytelnikowi, skłonnemu zbyt łatwo zatapiać się w&nbsp;odległej przeszłości: postępuj ostrożnie, pozostań czujny, gdyż „rozkład pozostaje” długo po&nbsp;tym, jak mordercy pokroju Drake’a zniknęli, zachłanni plantatorzy obrócili się w&nbsp;popiół, kolonialni zarządcy wrócili „do domu”, a&nbsp;niespokojni biali osiedleńcy zrzekli się praw do tego, co i&nbsp;tak nigdy do nich nie należało. W&nbsp;kadencji wiersza Walcotta kwaśny zapach „gnijącego dołu” łączy się z&nbsp;„wrzodziejącą zbrodnią”, oddając pewien cielesny porządek odczuwania, głęboko osadzony w&nbsp;dzisiejszej wrażliwości.</p> <p>Ostre sformułowania Walcotta odebrać można jako hiperbolę, rozwścieczone słowa utalentowanego poety w&nbsp;„sporze z&nbsp;historią”, swoją metaforyczną mocą przeciwstawiające się szesnastowiecznemu handlowi niewolników, jego intratnym zdobyczom i&nbsp;rujnującym skutkom<sup><a href="#sdendnote2sym" name="sdendnote2anc">2</a></sup>. Można by ubolewać nad rozwlekłością naukowych opisów, które w&nbsp;porównaniu ze zwięzłą i&nbsp;przenikliwą lekturą Walcotta wypadają nijako i&nbsp;blado. Kiedy jednak przed kilku laty po&nbsp;raz pierwszy czytałam ten wiersz, miałam poczucie, że&nbsp;wybór języka jest w&nbsp;nim czymś więcej: ostrym sygnałem i&nbsp;prowokacyjną próbą nazwania toksycznych skutków kolonializmu i&nbsp;jego zgubnych naleciałości, trwałych form, poprzez które oddziałują one na&nbsp;środowisko materialne i&nbsp;ludzkie myślenie. Skupiając się na&nbsp;„rozkładzie”, który pozostaje, Walcott odrzuca zamkniętą ramę czasową, wyznaczaną przez formalne prawa imperialnej zwierzchności w&nbsp;odniesieniu do miejsc, ludzi i&nbsp;rzeczy. Jego spojrzenie uderzyło mnie jako wezwanie i&nbsp;zachęta, by zająć się tym, czym poezja zazwyczaj zajmować się nie jest w&nbsp;stanie. Burzy on proste rozróżnienie między historią polityczną a&nbsp;formą poetycką, każąc w&nbsp;inny sposób pomyśleć zarówno o&nbsp;języku, w&nbsp;jakim próbujemy uchwycić trwały wpływ imperialnej przeszłości, jak i&nbsp;jego konkretnych, lecz trudno uchwytnych formach.</p> <p>(…)</p> <h2>Rujnować: jadowity czasownik</h2> <p>W potocznym rozumieniu ruiny kojarzą się ze szczególnymi miejscami zadumy – scenerią melancholijnych rozmyślań. Ukazywane jako zaklęte, opuszczone miejsca, jako potężne, monumentalne struktury porzucone przez człowieka i&nbsp;pochłaniane przez naturę, ruiny stanowią uprzywilejowany obraz utraconej przeszłości, tego, co oddano zniszczeniu i&nbsp;co jest nie do naprawienia, estetycznie uwydatnione przez niekontrolowany rozrost przyrody. Przykłady takich miejsc łatwo przychodzą na&nbsp;myśl: Angkor Wat w&nbsp;Kambodży, Akropol, rzymskie Koloseum, to ikony romantycznej utraty i&nbsp;tęsknoty, które inspirowały melancholijne pisarstwo całych pokoleń europejskich poetów i&nbsp;historyków, z&nbsp;oddaniem utrwalających odbywane do nich pielgrzymki<sup><a href="#sdendnote3sym" name="sdendnote3anc">3</a></sup>. Zapewne właśnie dlatego światowe organizacje, takie jak UNESCO, usilnie dbają o&nbsp;„zachowanie” tych miejsc. Myśląc o&nbsp;„ruinach imperium”, występujemy jednak zdecydowanie przeciwko tego rodzaju melancholijnemu spojrzeniu, by usytuować teraźniejszość w&nbsp;ramach szerszych struktur podatności na&nbsp;zranienie, krzywdy i&nbsp;wykluczenia podtrzymywanych przez imperialne formacje. Nie interesuje nas nastrój imperialnej nostalgii z&nbsp;jego tęsknym spojrzeniem wstecz. W&nbsp;jednym ze swych kanonicznych tekstów Walter Benjamin proponuje, by myśleć o&nbsp;ruinach jak o&nbsp;„życiu spetryfikowanym”, jak o&nbsp;o śladach wskazujących na&nbsp;kruchość panowania i&nbsp;siłę destrukcji. Nas jednak interesują tutaj ruiny zarówno w&nbsp;znaczeniu miejsc, w&nbsp;których skupiają się alternatywne znaczenia historii, jak i&nbsp;rujnacja pojęta jako trwający proces korozji, decydujący o&nbsp;przyszłości. Inaczej niż u&nbsp;Benjamina skupienie się na&nbsp;imperialnych resztkach zmierza do uchwycenia „śladu psyche” – tego, co on odrzucał – przy jednoczesnym staraniu, by zachować właściwe mu wyczulenie na&nbsp;„ślady rzeczy”<sup><a href="#sdendnote4sym" name="sdendnote4anc">4</a></sup>.</p> <p>„Rujnować”, jak podaje <em>The Concise Oxford Dictionary</em>, to „spowodować lub ściągnąć na&nbsp;coś wielką i&nbsp;nienaprawialną katastrofę, zniszczyć moc działania, zubożyć, kompletnie zdemoralizować”<sup><a href="#sdendnote5sym" name="sdendnote5anc">5</a></sup>. Podkreśla się tutaj rujnowanie jako aktywny proces i&nbsp;czasownik rezonujący przemocą. W&nbsp;tekście tym celowo nie będziemy mówić o&nbsp;bezpośredniej przemocy stosowanej w&nbsp;Iraku i&nbsp;innych strefach uznanych za&nbsp;obszary toczącej się wojny, ale o&nbsp;trwałej kondycji imperialnych pozostałości, o&nbsp;tym, w&nbsp;co one uderzają, i&nbsp;o nierównym rozmieszczeniu dotkniętych przez nie krajów. Nie jest to zwrot ku ruinom jako upamiętnionym monumentalnym „pozostałościom” czy reliktom – chociaż je także będziemy mieć na&nbsp;uwadze – ale ku temu z&nbsp;czym ludzie <span class="rozstrzelony">pozostają</span>: co utrudnia im zdobycie środków utrzymania i&nbsp;niszczy ich zdrowie, ku skutkom imperialnych napaści i&nbsp;społecznemu trwaniu wcześniej ukształtowanych struktur i&nbsp;form wrażliwości. Tego rodzaju skutki tkwią niezmiennie w&nbsp;wydrążonej pustce pejzażu, w&nbsp;obnażonych wnętrznościach miejskiej infrastruktury, w&nbsp;wewnętrznych przestrzeniach ciała i&nbsp;duszy. Skupiamy się zatem nie na&nbsp;martwych pozostałościach, ale na&nbsp;ich żywych przekształceniach. Pytanie, które nam przyświeca, brzmi następująco: w&nbsp;jaki sposób formacje imperialne trwają w&nbsp;swoich materialnych pozostałościach, w&nbsp;zrujnowanych pejzażach i&nbsp;w społecznej ruinie ludzkiego życia?<sup><a href="#sdendnote6sym" name="sdendnote6anc">6</a></sup></p> <p>Skutki imperializmu mieszczą się w&nbsp;różnych wymiarach czasu historycznego. Jako wytwory czasu przeszłego niedokonanego, przenikającego się w&nbsp;pewien sposób z&nbsp;teraźniejszością, kształtują one jednocześnie możliwe tryby warunkowe i&nbsp;niepewne wizje przyszłości. Ze skutkami tymi nigdy nie można się rozprawić, jak przypomina nam Derek Walcott, zamykając je w&nbsp;czasie <em>passé composé</em>. Frantz Fanon w&nbsp;odniesieniu do częstych zaburzeń psychicznych, jakie obserwował w&nbsp;Algierii po&nbsp;okresie francuskiego panowania, mówił o&nbsp;„posmaku rozkładu” – nieusuwalnym posmaku złamanych osobowości, okupowanych terenów, ograniczonych możliwości, które były (i nadal pozostają) czymś, co najtrudniej jest zatrzeć<sup><a href="#sdendnote7sym" name="sdendnote7anc">7</a></sup>. Są one też tym, co najtrudniej krytycznie usytuować.</p> <p>(…)</p> <p><span class="rozstrzelony">Ruina</span> to zarówno stan rzeczy, jak i&nbsp;dotykający ją proces. Słowo to występuje w&nbsp;znaczeniu rzeczownikowym i&nbsp;czasownikowym. Zwracając się ku temu drugiemu, aktywnemu rozumieniu, wychodzimy poza pewien stan, który forma rzeczownikowa zbyt łatwo unieruchamia, przemienia w&nbsp;bierny, niezmienny obiekt. Imperialne projekty same w&nbsp;sobie są zjawiskiem postępującej rujnacji, procesami, które „przynoszą ruinę”, wywierając materialny i&nbsp;społeczny wpływ na&nbsp;teraźniejszość. Z&nbsp;definicji rujnacja jest terminem ambiwalentnym, a&nbsp;zarazem aktem rujnowania, stanem popadania w&nbsp;ruinę, jak i&nbsp;jego przyczyną. Te trzy znaczenia mogą się na&nbsp;siebie nakładać, nie są jednak tym samym. Każde ma swoją własną czasowość. Każde wskazuje na&nbsp;inny rodzaj trwania, sposób podlegania przemocy i&nbsp;degradacji, która może następować natychmiast lub z&nbsp;opóźnieniem, podskórnie lub w&nbsp;sposób widoczny, bezpośredni czy rozproszony.</p> <p>Zgodnie ze słownikowym znaczeniem rujnacja to proces, który przynosi „dotkliwą szkodę, [proces] dotykający ludzkiego zdrowia, majątku, honoru, lub nadziei”. W&nbsp;sensie pojęciowym może ona skupiać w&nbsp;sobie wszystkie te szkody lub dotyczyć każdej z&nbsp;nich z&nbsp;osobna. Mówić o&nbsp;kolonialnej rujnacji, to śledzić delikatną, choć trwałą substancję znaków, widzialne i&nbsp;wewnętrzne znaczenia, w&nbsp;jakich skutki działania imperium trwają i&nbsp;ujawniają się wciąż na&nbsp;nowo. Rujnacja jest jednak czymś więcej niż procesem, po&nbsp;którym zostają rumowiska. Jest ona także projektem politycznym, projektem zniszczenia ludzi, relacji i&nbsp;rzeczy skupionych w&nbsp;wybranych miejscach. Myśleć o&nbsp;ruinach imperium oznaczałoby koncentrować się nie tyle na&nbsp;jego wytworach, pojętych jako martwa materia i&nbsp;pozostałości upadłych reżimów, ile zwrócić uwagę na&nbsp;to, jak się je wtórnie wykorzystuje, zaniedbuje, strategicznie i&nbsp;aktywnie lokuje w&nbsp;bieżącej polityce.</p> <p>Skupiać się na&nbsp;ruinach, to mierzyć stopień trwającego spustoszenia zachodzącego w&nbsp;życiu ludzi, to tropić źródła nowych słabości i&nbsp;przedłużającego się zniszczenia<sup><a href="#sdendnote8sym" name="sdendnote8anc">8</a></sup>. Część z&nbsp;tych zagadnień była już od pewnego czasu przedmiotem zainteresowania geografii krytycznej i&nbsp;historyków środowiska<sup><a href="#sdendnote9sym" name="sdendnote9anc">9</a></sup>. Kampanie przeciwko temu, co określa się dziś jako „środowiskowy rasizm”, odegrały kluczową rolę w&nbsp;udokumentowaniu rażąco nierównej dystrybucji zanieczyszczenia, składowania śmieci i&nbsp;odpadów biologicznych wśród zubożałych populacji w&nbsp;Stanach Zjednoczonych i&nbsp;na świecie<sup><a href="#sdendnote10sym" name="sdendnote10anc">10</a></sup>. Krytyka ta w&nbsp;większości wymierzona jest przeciwko długofalowym praktykom międzynarodowych korporacji, koncernów górniczych i&nbsp;kolejnym szefom amerykańskiego Departamentu Obrony, Rolnictwa, a&nbsp;ostatnio Bezpieczeństwa Krajowego, które doprowadziły do zniszczenia i&nbsp;narażają na&nbsp;szkody mikrosystemy przyrodnicze oraz środki do życia społeczności zamieszkujących Stany i&nbsp;inne kraje<sup><a href="#sdendnote11sym" name="sdendnote11anc">11</a></sup>. O&nbsp;ile geografia krytyczna, historycy środowiska i&nbsp;historycznie zorientowani antropologowie zaczęli badać powiązania między rządami kolonialnymi a&nbsp;degradacją środowiska, o&nbsp;tyle zastanawiające jest, jak niewiele prac na&nbsp;ten temat wywodzi się z&nbsp;centrum samych studiów postkolonialnych i&nbsp;jak słabo odnotowane są te problemy w&nbsp;archiwach rzeczywistości postkolonialnej<sup><a href="#sdendnote12sym" name="sdendnote12anc">12</a></sup>. Amerykanistka Valerie Kuletz odważyła się uznać, że&nbsp;nadużycie ziem należących do rdzennych mieszkańców Stanów Zjednoczonych, Mikronezji i&nbsp;Polinezji zasługuje na&nbsp;określenie mianem „nuklearnego kolonializmu” i&nbsp;aktu „społecznej ruiny”, zgodnie z&nbsp;tym, co uświadamiali sobie od dawna tamtejsi ludzie. Tego rodzaju podejście pozostaje jednak nadal na&nbsp;marginesie studiów kolonialnych<sup><a href="#sdendnote13sym" name="sdendnote13anc">13</a></sup>.</p> <p>(…)</p> <p>U podstaw naszych rozważań leży założenie, że&nbsp;to, co w&nbsp;znaczący sposób pominięte, może nie być wyraźnie widoczne, łatwe do udokumentowania i&nbsp;zobaczenia<sup><a href="#sdendnote14sym" name="sdendnote14anc">14</a></sup>. Koncepcje i&nbsp;pojęcia, które przyjęło się odnosić do historii kolonialnych, charakteryzuje symptomatyczny brak jasności. Powszechnie stosowane terminy, jak „kolonialne dziedzictwo” czy „kolonialne pozostałości”, są mylące, w&nbsp;większym stopniu bowiem przekierowują analizę, niż torują jej drogę. Jak twierdził Foucault, tego rodzaju „gotowe syntezy” to znaki zastępcze dla procesów złożonych z&nbsp;różnorakich sił, ujednolicające je w&nbsp;jednym terminie i&nbsp;prześlizgujące się zbyt łatwo ponad ich rozproszonymi konsekwencjami<sup><a href="#sdendnote15sym" name="sdendnote15anc">15</a></sup>. W&nbsp;przypadku formacji imperialnych słowo „dziedzictwo” pomija różnicę między tym, co pozostaje w&nbsp;mocy, a&nbsp;tym, co uśpione, między pozostałością a&nbsp;przetworzeniem, reliktem a&nbsp;wtórnym wykorzystaniem, między słabym a&nbsp;nieustępliwym śladem. Tego rodzaju kategorie raczej wzmacniają przekonanie, że&nbsp;historie kolonialne są czymś znaczącym, niż pomagają znaleźć analityczny słownik dla odczytania, <em>dlaczego </em>tak jest. Niewiele wnoszą one do opisu współczesnej mocy oddziaływania imperialnych pozostałości – tego, co ludzie sami postrzegają jako skutki imperializmu, i&nbsp;co równie ważne, tego, co sami z&nbsp;tym robią.</p> <p>Z tego względu koncentracja na&nbsp;„ruinach imperium” to nie tylko kwestia spojrzenia, ale krytycznego ukierunkowania na&nbsp;jedną sprawę. Pytanie, jak ludzie żyją <em>z</em>ruinami i&nbsp;<em>w</em> ruinach, przesuwa nasze zainteresowanie w&nbsp;inną stronę, na&nbsp;żywą politykę, zaburzone w&nbsp;tym świecie poczucie zdrowego rozsądku, krytykę wypowiedzianą i&nbsp;zakazaną, na&nbsp;relacje społeczne, które organizują się wokół ruin i&nbsp;te, które pozostają rozdarte. W&nbsp;jaki sposób materializują się nam przed oczyma ruiny imperium, kiedy zwrócimy się ku wyniszczonym ludom i&nbsp;zanieczyszczonym miejscom, zamiast bawić się przywoływaniem wspomnień? Różne czasy i&nbsp;miejsca ukazują się wówczas od innej strony. Oderwane i&nbsp;przemieszczone historie także. Imperialne ruiny, w&nbsp;tym ujęciu, są <span class="rozstrzelony">wskaźnikami rasy w&nbsp;skali globalnej</span>, jak spustoszone przez Agent Orange krajobrazy Wietnamu, niebezpieczne odpady w&nbsp;miejscach niegdysiejszych prób nuklearnych na&nbsp;atolu Bikini, bądź wciąż na&nbsp;nowo niszczone prowizoryczne obozowiska budowane przez wywłaszczonych Palestyńczyków, zalewane ściekami z&nbsp;pobliskich izraelskich osiedli<sup><a href="#sdendnote16sym" name="sdendnote16anc">16</a></sup>. Do imperialnych ruin zaliczyć można zamknięte fabryki cukru na&nbsp;Środkowej Jawie, jak też rozpadające się baraki indyjskich towarzystw kolejowych, w&nbsp;których, wbrew powszechnemu przekonaniu, że&nbsp;nie sposób tam mieszkać, ludzie wciąż żyją w&nbsp;skrajnych warunkach<sup><a href="#sdendnote17sym" name="sdendnote17anc">17</a></sup>. Procesy rujnacji na&nbsp;różne sposoby dotykają materialnych i&nbsp;społecznych mikroświatów. Na&nbsp;jakich zasadach miejsca te pozostawiane są rozkładowi, oddawane, przywracane komuś lub ignorowane? Niektóre pozostałości są lekceważone jako niegroźne resztki, inne paraliżują lub pozostają toksycznym, trującym odpadem. Inne jeszcze z&nbsp;uporem zasiedlane są przez wysiedleńców w&nbsp;geście politycznego sprzeciwu, zagarniane i&nbsp;odnawiane na&nbsp;użytek turystycznej konsumpcji lub zajmowane przez tych, którzy nie mają gdzie wrócić.</p> <p>(…)</p> <p>Niektóre formy imperialnej ruiny łatwiej zidentyfikować wśród innych. Projekty kulturowej odnowy – czy to pomników, artefaktów, czy ludów i&nbsp;zwyczajów – poddają się badaniu lepiej niż inne. Istnieją odratowane ruiny, jak te opisywane przez Johna Collinsa, wpisane na&nbsp;listę projektów Banku Światowego i&nbsp;UNESCO, dotyczących kulturowego dziedzictwa, które mają na&nbsp;celu „kapitalizację wartości ekonomicznej” i&nbsp;czerpanie zysku z&nbsp;uroków na&nbsp;poły zrewitalizowanej ludności, rzeczy i&nbsp;ich pozornie jednoczącej istoty. Jednak takie formy odnowy ingerują w&nbsp;ludzkie światy i&nbsp;prowadzą do rozproszenia samych ludzi, czyniąc z&nbsp;ich sposobu życia kluczowy czynnik narodowego rozwoju i&nbsp;wytwarzając tym samym nowe nierówności<sup><a href="#sdendnote18sym" name="sdendnote18anc">18</a></sup>. Istnieje też taki rodzaj ruin, który wywołał pełen drwiny i&nbsp;wściekłości pogląd Jamaiki Kincaid na&nbsp;temat Antiguy, gdzie roi się od budynków, na&nbsp;których od dekad straszą wyblakłe tablice z&nbsp;napisem „W trakcie remontu”, podczas gdy zniszczone, lecz „wspaniałe stare budowle z&nbsp;czasów kolonialnych” utrzymuje się w&nbsp;stanie starannie zachowywanego nieładu<sup><a href="#sdendnote19sym" name="sdendnote19anc">19</a></sup>.</p> <p>Niektóre imperialne ruiny wyróżnić można na&nbsp;podstawie tego, gdzie się znajdują – w&nbsp;metropolii czy w&nbsp;kolonii lub na&nbsp;wyblakłych mapach imperium. Nie wszystkie jednak dają się tak uporządkować. Na&nbsp;Karaibach, w&nbsp;Afryce i&nbsp;Azji porozrzucane są urokliwe miejsca, w&nbsp;których cieszą „w dzień ruiny, nocą luksusy”, a&nbsp;spragnieni wrażeń turyści mogą „zrównoważyć leniwy spokój luksusowych hoteli z&nbsp;czasów kolonialnych z&nbsp;bardziej wymagającym odkrywaniem ruin starożytnych Khmerów «aż do zachodu słońca»”<sup><a href="#sdendnote20sym" name="sdendnote20anc">20</a></sup>. Wizyty te to coś więcej niż wakacyjne rozrywki dla zainteresowanych historią, szukających wiedzy podróżnych. Ich budujący sens, podobnie jak w&nbsp;przypadku Grand Tour odbywanej niegdyś przez europejską burżuazję, nie kończy się na&nbsp;odróżnieniu kultur od jedynej właściwej Kultury. Turystyka ponownie odgrywa w&nbsp;tym przypadku zbawczą misję „ocalania”, jaką europejskie imperia przypisywały sobie ze względu na&nbsp;swoją ekspercką wiedzę i&nbsp;dobroczynne działania. Napoleon zabrał ze sobą do Egiptu więcej archeologów i&nbsp;„przeszukiwaczy gruzów” niż lekarzy i&nbsp;mierniczych. Dziewiętnastowieczne kolonie w&nbsp;Holenderskich Indiach Wschodnich wpłynęły na&nbsp;ukształtowanie się europejskiej obsesji zwiedzania indyjskich ruin, w&nbsp;poszukiwaniu kulturowego kapitału w&nbsp;czasie wolnym.</p> <p>(…)</p> <p>Imperialna nostalgia jest skuteczna i&nbsp;pomaga sprzedawać podróże do kolonialnych ruin także z&nbsp;innych, przewidywalnych powodów. Oto „znalezisko” godne zamożnych podróżników: „Ruiny Popokvil na&nbsp;szczycie góry Bokop w&nbsp;Kambodży. (…) W&nbsp;tym miejscu znajdziesz pozostałości miasta z&nbsp;francuskich czasów kolonialnych – rozpadający się dawny urząd pocztowy i&nbsp;pusty kościół katolicki”<sup><a href="#sdendnote21sym" name="sdendnote21anc">21</a></sup>. W&nbsp;hotelu Mbweni Ruins w&nbsp;Zanzibarze goście mogą przenocować w&nbsp;budynku, który był niegdyś szkołą dla „wyzwolonych młodych niewolnic” w&nbsp;pierwszej anglikańskiej osadzie misyjnej w&nbsp;Afryce Wschodniej, przekształconej w&nbsp;cywilizowaną „kolonię”. Stworzona w&nbsp;1871 roku jako skupisko małych schludnych domków z&nbsp;ogródkami była dokładnym odpowiednikiem bukolicznej wizji, jaką imperialni architekci przyjęli, chcąc ucywilizować oporne, rasowo niejednolite i&nbsp;ubogie populacje w&nbsp;całym ówczesnym świecie kolonialnym<sup><a href="#sdendnote22sym" name="sdendnote22anc">22</a></sup>. Goście mogą dowiedzieć się o&nbsp;historii filantropijnych projektów i&nbsp;pocieszyć się informacją o&nbsp;tym, jak wiele razy budynki te były porzucane i&nbsp;znów odnawiane dzięki interwencjom Europejczyków, w&nbsp;okresie szczytu imperialnej ekspansji i&nbsp;później<sup><a href="#sdendnote23sym" name="sdendnote23anc">23</a></sup>. Przypomina to wnikliwą uwagę Renato Rosaldo, że&nbsp;imperialna nostalgia nie jest jedynie postkolonialną formą przyjemności, ale swoistą formą kolonializmu, lamentem powiązanym z&nbsp;tym, co sam kolonializm niszczy<sup><a href="#sdendnote24sym" name="sdendnote24anc">24</a></sup>. Tego rodzaju ruiny można odczytywać jako ślad i&nbsp;pozostałość, lecz nie są one odpadkiem historii ani zapomnianym szczątkiem<sup><a href="#sdendnote25sym" name="sdendnote25anc">25</a></sup>.</p> <p>Imperialne ruiny mogą być też znakiem rasowych roszczeń i&nbsp;sporów. Turyści w&nbsp;Zanzibarze być może nieświadomie uczestniczą w&nbsp;celebrowaniu imperium w&nbsp;hotelu Mbweni Ruins, często jednak polityczne życie ruiny jest bardziej widoczne i&nbsp;jawne. W&nbsp;Zimbabwe z&nbsp;sześćdziesięciu akrów ruin „Wielkiego Zimbabwe” Cecil Rhodes zabrał cennego kamiennego ptaka ze steatytu, którym ozdobił swój dom w&nbsp;Cape Town w&nbsp;1889 roku, rok przed powstaniem kierowanej przezeń Brytyjskiej Kompanii Południowoafrykańskiej. Kamienne ptaki oraz ruiny, w&nbsp;których się znajdowały, skonfiskowane zostały przez Rhodesa, ale kolejne rządy kontrolowane przez białych osiedleńców, a&nbsp;później przez afrykańskich nacjonalistów, za&nbsp;każdym razem czyniły te ruiny swoimi. Walka o&nbsp;rasową supremację białych, a&nbsp;następnie jej odrzucenie toczyły się, o&nbsp;czym pisze wymownie Henrietta Kuklick, na&nbsp;terenie tych ruin. „Wielkie Zimbabwe”, jako „dowód” istnienia rasowych przodków, zostało w&nbsp;XIX wieku odrzucone i&nbsp;pojawiło się ponownie w&nbsp;centrum politycznej debaty wiek później<sup><a href="#sdendnote26sym" name="sdendnote26anc">26</a></sup>. Imperialne ruiny, o&nbsp;których tu mowa, są rzecz jasna różnego rodzaju, również ich polityczne skutki nie są te same. Tym, co może je łączyć, jest fakt, iż, jak to określiła afgańska fotografka i&nbsp;artystka performance Lida Abdul, są to miejsca i&nbsp;struktury, „wokół których osnute są historie, ukrywające dźwięki i&nbsp;obrazy, krążące w&nbsp;nich samych”<sup><a href="#sdendnote27sym" name="sdendnote27anc">27</a></sup>.</p> <h2>Inne imiona imperialnych ruin</h2> <p>Być może najistotniejsze pytanie, jakie należy postawić, nawet jeśli nie znajdzie się na&nbsp;nie odpowiedzi, podsuwa Walcott w&nbsp;<em>Ruins of the Great House</em>: „Czym jest rozkład, który pozostaje po&nbsp;tym jak ludzie odeszli? Jakie przybiera on formy? Czego dotyka, jakie wewnętrzne przestrzenie narusza, gdzie go można odnaleźć?" Język Walcotta jest poetycki, ale rozproszone ruiny, na&nbsp;które patrzy, bynajmniej takie nie są. Mogą to być pozostałości wymykające się bezpośredniemu spojrzeniu, resztki które trudno uchwycić – wewnętrzne zranienia, które ujawniają się jedynie poprzez nikłe symptomy bądź głębokie zniekształcenia i&nbsp;różnice w&nbsp;geografii społecznej, znane pod&nbsp;innymi nazwami. Są to zaburzenia społeczne, których etiologię tworzą określenia odległe od kwestii imperium i&nbsp;oddalające naszą myśl od kolonialnych historii, wręcz odcinające te powiązania. Stosowane tutaj terminy mówią o&nbsp;„rozpadzie miasta”, „ryzykach postępu”, „degradacji środowiska”, „zanieczyszczeniu przemysłowym” oraz „rasowo warunkowanym bezrobociu” jako narzędziach analizy tych miejsc, które przeorane zostały przez modernizację oraz tych, odsuniętych na&nbsp;bok jako odpady kapitalistycznego rynku, który w&nbsp;międzyczasie przemieścił się dalej.</p> <p>Co daje nam określenie tych miejsc mianem ruin imperium? Jakiego rodzaju wgląd uzyskamy, reinterpretując te ogólne określenia i&nbsp;procesy jako wzorcowe efekty imperialne, wytwarzające podmioty o&nbsp;z góry ograniczonych możliwościach, na&nbsp;różne sposoby przez nie krępowane? Jednym z&nbsp;możliwych argumentów może być to, że&nbsp;taki krytyczny gest odsłania powiązania, które w&nbsp;przeciwnym razie pozostałyby niewidoczne. Zmiana terminów pozwala ponownie usytuować procesy oderwane od swoich właściwych historii i&nbsp;odcięte od powiązań, które określonych ludzi i&nbsp;miejsca narażały na&nbsp;rujnację i&nbsp;porzucenie. Nie są to ruiny imperium w&nbsp;jakimkolwiek figuratywnym sensie. Prace Sharada Chari dotyczące ludzi mieszkających na&nbsp;zanieczyszczonych obrzeżach rafinerii naftowych oraz tych, którzy żyją wśród pozostałości apartheidu w&nbsp;czarnych dzielnicach Durbanu w&nbsp;Afryce Południowej, ukazują to w&nbsp;sposób jasny<sup><a href="#sdendnote28sym" name="sdendnote28anc">28</a></sup>. Są to strefy wrażliwe, zamieszkiwane przez ludzi, domagające się naszej uwagi.</p> <p>Pasjonująca relacja Grega Grandina na&nbsp;temat Fordlandii, stworzonej przez Henry’ego Forda wizji bukolicznej amerykańskiej osady i&nbsp;życia w&nbsp;amazońskiej dżungli z&nbsp;początku XX wieku, przypomina nie tylko o&nbsp;tym, że&nbsp;sukces Forda uzależniony był od produkcji gumy w&nbsp;koloniach w&nbsp;Południowo-Wschodniej Azji<sup><a href="#sdendnote29sym" name="sdendnote29anc">29</a></sup>. Grandin podkreśla, że&nbsp;„Detroit nie tylko dostarczało nieprzerwany ciąg symboli amerykańskiej potęgi kulturowej, ale zapewniało też organizacyjne <em>know-how</em> potrzebne do prowadzenia przemysłowego przedsięwzięcia – takiego jak fabryka samochodów czy imperium<sup><a href="#sdendnote30sym" name="sdendnote30anc">30</a></sup>. Potraktowanie Detroit jako ogniwa włączonego w&nbsp;światowy kolonialny system pracy podważa opowieść o&nbsp;amerykańskim „wyjątku” i&nbsp;odsłania inne przyczyny jego aktualnego upadku. Umieszczając je w&nbsp;bilansie imperialnych ruin, na&nbsp;nowo sytuujemy Detroit, już nie tyle na&nbsp;marginesie amerykańskiego „pasa rdzy”, lecz jako jedno z&nbsp;niszczejących centrów należących do minionych form amerykańskiego imperium<sup><a href="#sdendnote31sym" name="sdendnote31anc">31</a></sup>. Obecny trend, przez niektórych krytyków określany jako „pornografia ruin” w&nbsp;kontekście pilotowanych wycieczek po&nbsp;„wspaniałych ruinach” Detroit, posuwa te powiązania jeszcze dalej<sup><a href="#sdendnote32sym" name="sdendnote32anc">32</a></sup>.</p> <p>Dodatkowym powodem przyjęcia tak szerokiego pojęcia imperialnej ruiny, ku jakiemu się tu skłaniamy, mogłaby być chęć rozróżnienia między procesami rozgrywającymi się w&nbsp;imperialnych centrach a&nbsp;sytuacjami i&nbsp;miejscami, z&nbsp;którymi mamy do czynienia na&nbsp;terenach dawniejszych kolonii. Być może jednak lepiej powstrzymać się przed tego rodzaju podziałów i&nbsp;nie wprowadzać rozróżnień zbyt pochopnie. „Wewnętrzne” i&nbsp;„zewnętrzne” przestrzenie formacji imperialnych nie muszą pokrywać się z&nbsp;przyjętymi geograficznymi określeniami, zapisanymi przez architektów imperium. Terminy takie jak metropolia i&nbsp;kolonia, centrum i&nbsp;peryferie próbują wprowadzać jasność tam, gdzie w&nbsp;rzeczywistości jej nie ma. Lepiej zrobimy szukając alternatywnych kryteriów, pozwalających różnicować współczesne strefy imperialnego nacisku, bardziej zmienne i&nbsp;równie niestałe jak same formacje imperialne, takie jak przepustowość korytarzy, którymi ludzie mogą się przemieszczać, wirtualne bariery, którymi są otoczeni, rodzaje infrastruktury, do których możliwy jest dostęp, selektywne zasady składowania odpadów i&nbsp;z góry narzucone formy rasowego podziału i&nbsp;wykluczenia.</p> <p>W artykule adresowanym do amerykańskich czytelników izraelski powieściopisarz David Grossman opisuje apatię i&nbsp;wyuczoną obojętność, jaką toczący się konflikt polityczny, militarny i&nbsp;religijny narzuca ludziom żyjącym w&nbsp;Izraelu, Palestynie, Iraku, Afganistanie i&nbsp;innych miejscach na&nbsp;świecie nękanych przez wojny. Kreślony przez niego obraz to wizja ludzi, których moralna skala myślenia została zawężona, których uczucia są zamrożone, a&nbsp;język spłycony i&nbsp;ograniczony przez destrukcyjny napór dnia powszedniego. Zgodnie ze słowami pisarza „kurczy się <span class="rozstrzelony">powierzchniowa otoczka</span> duszy, która wchodzi w&nbsp;kontakt z&nbsp;krwawym i&nbsp;zagrażającym światem zewnętrznym”<sup><a href="#sdendnote33sym" name="sdendnote33anc">33</a></sup>. Destrukcja według Grossmana widoczna jest zarówno w&nbsp;ludziach, jak i&nbsp;na zewnątrz, w&nbsp;materialnym i&nbsp;najbliższym otoczeniu<sup><a href="#sdendnote34sym" name="sdendnote34anc">34</a></sup>. Uderzające jest tu echo podobieństwa i&nbsp;zarazem kontrast ze słowami Walcotta o&nbsp;„rozkładzie, który pozostaje” oraz uwagami Fanona o&nbsp;„posmaku rozkładu”. W&nbsp;długofalowej, mniej bezpośrednio odczuwanej sytuacji, o&nbsp;jakiej mówią ci dwaj pozostali autorzy, uczuciowy paraliż może dać miejsce krytyce, język ulec wyostrzeniu i&nbsp;zagęszczeniu – rodząc dwuznaczne określenia, parodiujące środki ostrożności, które terroryzują i&nbsp;niszczą, zamiast chronić.</p> <p>(…)</p> <p>Ruiny, jak zauważyła Kuklick w&nbsp;Zimbabwe, mogą mieć własne polityczne życie. Jak pisze Nadia Adu El-Haj, w&nbsp;Jerozolimie „częściowo zburzone budynki odbudowywano i&nbsp;rekonstruowano <span class="rozstrzelony">jako ruiny</span>, po&nbsp;to, by upamiętnić niedawne zniszczenia, a&nbsp;starsze kamienie wbudowywano w&nbsp;nowoczesną architekturę, by stanowiły ucieleśnienie czasowej głębi”<sup><a href="#sdendnote35sym" name="sdendnote35anc">35</a></sup>. Jej punkt widzenia jest dziś powszechnie podzielany: ruiny nie są czymś, co się odkrywa czy znajduje, ale czymś <span class="rozstrzelony">wytworzonym</span>. Ustanawiane są jako repozytorium wspólnej, publicznej wiedzy i&nbsp;nowy punkt skupienia publicznych deklaracji.</p> <p>Nie trzeba więcej dowodów na&nbsp;to, że&nbsp;publiczne czy państwowe uznanie czegoś za&nbsp;ruinę, jak również związane z&nbsp;tą ruiną roszczenia same w&nbsp;sobie stanowią działanie polityczne. Rozpoznane i&nbsp;uznane w&nbsp;ten sposób ruiny zostają upolitycznione, jednak najbardziej trwałymi ruinami w&nbsp;Izraelu nie są bynajmniej te, postrzegane jako ruiny ani jako stan rujnacji pozostawiony przez kolonializm. O&nbsp;ruinach tych nie wiadomo, że&nbsp;w&nbsp;ogóle istnieją. Są to dosłowne ruiny palestyńskich wiosek, zrównanych z&nbsp;ziemią, rozjechanych buldożerami i&nbsp;skrzętnie ukrytych w&nbsp;ramach prowadzonego przez wojsko i&nbsp;wspieranego przez państwo Izraelskiego Projektu Zadrzewiania (<em>Israeli Afforestation Project</em>). Intensywna kampania na&nbsp;rzecz zieleni (w ramach której dzieci w&nbsp;hebrajskich szkołach w&nbsp;Europie i&nbsp;w Stanach Zjednoczonych zachęcane były do wpłacania datków „na zasadzenie drzewa w&nbsp;Izraelu”) w&nbsp;ciągu ponad pięćdziesięciu lat dosłownie wymazała obecność palestyńskich wiosek i&nbsp;gospodarstw z&nbsp;krajobrazu w&nbsp;okolicach Jerozolimy<sup><a href="#sdendnote36sym" name="sdendnote36anc">36</a></sup>. Jeżeli zasadzanie zieleni stanowi w&nbsp;tym przypadku kluczową technologię w&nbsp;polityce Izraela, rujnacja ujawnia tu swoją przewrotną, trwałą i&nbsp;okrutną kolonialną historię. W&nbsp;„lasach ochronnych” palestyńskie gaje oliwne zastąpione zostały przez cyprysy i&nbsp;pinie, parki rekreacyjne pełne drzew eukaliptusowych rozciągają się nad palestyńskimi cmentarzyskami. Pozostałości arabskich wiosek zostały całkowicie wymazane z&nbsp;przestrzeni, podobnie jak argumenty poprzednich mieszkańców, iż&nbsp;nie były to nigdy „opuszczone” pola, ale ich własne, z&nbsp;których żyli i&nbsp;które od dawna uprawiali.</p> <p>W obozie uchodźców Aida w&nbsp;Betlejem tego rodzaju pola „pozostawione” pod&nbsp;izraelską okupacją nazywa się inaczej: zaopatrzone w&nbsp;komputery i&nbsp;kamery dzieci w&nbsp;Lajee Children Center uczą się, jak gromadzić historie swoich dziadków, których ziemie zostały zajęte, szukać, gdzie znajdowały się uprawiane przez nich drzewa, rozpoznawać zapach ziół, które dziadkowie pamiętają, odkrywać wzgórza, gdzie zniszczone zostały ich domy, by stworzyć miejsce dla izraelskich osad. Czasem nie ma w&nbsp;ogóle żadnych śladów: kiedy dzieci proszono, by przyniosły z&nbsp;pól tymianek i&nbsp;szałwię, te często przynosiły w&nbsp;zamian tylko ziemię i&nbsp;kamienie<sup><a href="#sdendnote37sym" name="sdendnote37anc">37</a></sup>. Niektóre znajdowały drzewa oliwne między młodymi piniami. W&nbsp;Beit Libreen dwunastoletni Suhaib sfotografował ruiny starego domu na&nbsp;wzgórzu, wyobrażając sobie, że&nbsp;mógł to być dom jego babki<sup><a href="#sdendnote38sym" name="sdendnote38anc">38</a></sup>.</p> <p>Ruiny są czymś wytworzonym, ale nie przez byle kogo, byle kiedy i&nbsp;byle gdzie. Tworzenie ruin na&nbsp;wielką skalę wymaga środków i&nbsp;planowania, które łączyć się może z&nbsp;przymusowym wysiedleniem ludności i&nbsp;powstaniem nowych połaci niezamieszkanej przestrzeni, wyznaczeniem nowych stref mieszkalnych i&nbsp;dyktowaniem, w&nbsp;jaki sposób ludzie mogą z&nbsp;nich korzystać. Jako takie te formy rujnacji są zazwyczaj projektami państwowymi, często o&nbsp;znaczeniu strategicznym, związanymi z&nbsp;konstruowaniem narodu i&nbsp;politycznie nacechowanymi<sup><a href="#sdendnote39sym" name="sdendnote39anc">39</a></sup>. Dla przykładu, powstanie ruin jądrowych miało kluczowe znaczenie w&nbsp;budowaniu zimnowojennej polityki obrony i&nbsp;kształtowaniu amerykańskiej publiczności, zafascynowanej i&nbsp;straumatyzowanej widmem możliwej wojny atomowej<sup><a href="#sdendnote40sym" name="sdendnote40anc">40</a></sup>. Ruiny nuklearne wciąż pozostają ważnym elementem wyobrażeniowym w&nbsp;ramach amerykańskiej polityki bezpieczeństwa. Joe Masco przekonuje, że&nbsp;architekci zimnej wojny swoje zadanie widzieli przede wszystkim w&nbsp;formowaniu amerykańskiej publiczności i&nbsp;emocjonalnym nią sterowaniu. Robili to przy użyciu symulowanych zagrożeń atakiem bombowym i&nbsp;inscenizowanych ewakuacji w&nbsp;miastach i&nbsp;miasteczkach w&nbsp;całym kraju. Strategiczne operacje publiczne wiązały się z&nbsp;wyobrażeniem ruin – pokazywanych przez telewizję i&nbsp;symulowanych ruin, wśród których szczególną rolę odgrywały pozostałości sprzętu domowego, wymowna antycypacja straty, która dotknęłaby Amerykanów najbardziej, czyli utraty ciężko zdobytych domowych technologii i&nbsp;codziennych wygód, jakie upowszechniły się w&nbsp;kraju po&nbsp;wojnie.</p> <p>Ruiny odwołują się do przeszłości, by artykułować roszczenia związane z&nbsp;przyszłością. Mogą one jednak także tworzyć poczucie bezpowrotnej straty lub zaprzepaszczonej przyszłości. Szpital Ochagavia na&nbsp;przedmieściach Santiago, pomyślany jako „model pokazowy” przyjętej przez Pinocheta wizji postępu i&nbsp;modernizacji Chile, w&nbsp;rzeczywistości dokumentuje coś przeciwnego. Opisany przez Jona Beasley’a, „wyrzucony na&nbsp;brzeg, zapomniany wieloryb” to na&nbsp;w&nbsp;pół zbudowany szpital, który przypomina bardziej o&nbsp;tym, co mogło tu powstać, niż o&nbsp;tym, co faktycznie powstało<sup><a href="#sdendnote41sym" name="sdendnote41anc">41</a></sup>. To, czym tego rodzaju modernistyczne ruiny różnią się od ruin imperialnych, wskazują nie tylko odmienne historie, jakich są one świadectwem i&nbsp;gorzkim zwieńczeniem, ale także charakter ludzi, których ograbiły i&nbsp;naraziły na&nbsp;szkodę.</p> <p>(…)</p> <p>Spojrzenie na&nbsp;imperialne ruiny niekoniecznie traktowane jako pomniki, ale jako ekosystemy resztek, otwiera się na&nbsp;szerzej rozumiane topografie społeczne. Ruiny cmentarzy amerykańskich Indian stanowią tylko jeden punkt w&nbsp;rozległej przestrzeni sporów o&nbsp;nowe ziemie i&nbsp;roszczeń o&nbsp;prawa do nich<sup><a href="#sdendnote42sym" name="sdendnote42anc">42</a></sup>. Można jednak przywołać także to, co w&nbsp;innym miejscu określiłam jako „więzienny archipelag imperium” – rozmieszczone na&nbsp;całym świecie wyspy zarezerwowane dla skazańców, ośrodki przetrzymywania więźniów, kolonie karne i&nbsp;centra dla dzieci i&nbsp;biedoty – różnorodne strefy gromadzenia ludności, mylące „bezpieczeństwo” i&nbsp;ochronę z&nbsp;uwięzieniem, nadużycie siły, „edukację” i&nbsp;porzucenie<sup><a href="#sdendnote43sym" name="sdendnote43anc">43</a></sup>. Tego rodzaju urządzenia na&nbsp;mniejszą lub większą skalę kryją w&nbsp;sobie, jak zauważył Walter Benjamin, „rany i&nbsp;znaki, które są częścią historii ludzkiej przemocy”<sup><a href="#sdendnote44sym" name="sdendnote44anc">44</a></sup>. To ku tym specjalnie wyznaczonym w&nbsp;przestrzeni „śladom przemocy”, bardziej niż wynikającemu z&nbsp;nich<em></em>„stępieniu uczuć”, staramy się tutaj zwrócić<sup><a href="#sdendnote45sym" name="sdendnote45anc">45</a></sup>.</p> <p>Koncentrując się na&nbsp;materialności szczątków, staramy się pozostać wierni „logice konkretu”, do której nawołuje Nancy Hunt w&nbsp;książce <em>A Colonial Lexicon of British Ritual, Medicalization, and Mobility in the Congo</em>, w&nbsp;nowym sensie podnosząc formułę Levi-Straussa<sup><a href="#sdendnote46sym" name="sdendnote46anc">46</a></sup>. Ruiny mogą być zepchniętymi na&nbsp;margines strukturami, które wciąż oddziałują na&nbsp;organizację społeczną, choć nie tak jak niegdyś. Co dzieje się u&nbsp;progu transformacji, gdy niedokończone projekty modernizacji wykorzystuje się w&nbsp;nowy sposób, kiedy miejsca wojskowych testów zarastają, sowieckie obozy wojskowe zostają porzucone i&nbsp;przekształcone tak, jak to się stało przy polsko-ukraińskiej granicy<sup><a href="#sdendnote47sym" name="sdendnote47anc">47</a></sup>? Co dzieje się kiedy enklawy wysp, jak atol Bikini, nie traktowane już oficjalnie jako strefy nuklearne, stają się źródłem problemów, prawdopodobnie bardziej trwałych niż struktury polityczne, które je wytworzyły? Każdy z&nbsp;tych przypadków dotyczy nie tyle ruin oderwanych od życia ludzi, ile tego, co może oznaczać życie z&nbsp;ruinami, w&nbsp;ruinach i&nbsp;w roli obracających się wokół nich bricoleurów.</p> <p>Gdy myśli się o&nbsp;imperialnych resztkach i&nbsp;ruinach, uderzające jest, z&nbsp;jaką intuicyjną siłą sugestii oddziałują na&nbsp;nas ich skutki i&nbsp;jak bardzo są one nieuchwytne, jak łatwo przechodzimy tu między materialnym obiektem a&nbsp;metaforą, między techniczną podstawą a&nbsp;wyobrażeniem, resztkami materii i&nbsp;myślenia. Celem krytycznej analizy nie jest zaglądanie „pod spód” czy poza logikę tej gry, ale właśnie zrozumienie roli, jaką odgrywają tego rodzaju metaforyczne przemieszczenia, oraz politycznego działania, jakiemu dają oparcie. Lektura <em>Wojny powietrznej i&nbsp;literatury</em> (tytuł ang.: <em>On the Natural History of Destruction</em>) W. G. Sebalda – rozważań na&nbsp;temat Niemiec w&nbsp;trakcie i&nbsp;bezpośrednio po&nbsp;zakończeniu II wojny światowej, odrętwiałego życia wśród tlących się jeszcze ruin, kompletnych rumowisk, (złudnej) „ciszy unoszącej się nad gruzami” – pozostaje w&nbsp;kontraście, ale też w&nbsp;wyraźnej zbieżności z&nbsp;ruinami, o&nbsp;których tutaj mówimy – mieszczącymi się w&nbsp;środku i&nbsp;poza punktem ostrości, wewnątrz i&nbsp;poza granicami wypowiedzenia<sup><a href="#sdendnote48sym" name="sdendnote48anc">48</a></sup>.</p> <p>Chociaż obszary kolonialnej okupacji znajdują się w&nbsp;polu naszego widzenia, swoją uwagę kierujemy tu bardziej na&nbsp;to, co Rob Nixon określa jako „spowolniony gwałt” i&nbsp;„długie umieranie” naznaczające strefy opuszczenia<sup><a href="#sdendnote49sym" name="sdendnote49anc">49</a></sup>. Tak jak Giorgio Agamben rozwinął pojęcie społecznego wyłączenia, tak niezwykła praca etnograficzna João Biehla, <em>Vita: Life in Zone of Social Abandonment, </em>ukazuje jego konkretną, zmaterializowaną formę. Według Biehla tego rodzaju przestrzeń tworzy ludzi, którzy stają się „ludzką ruiną”, „odpadem”, w&nbsp;Brazylii standardowo poddających się „niepewnym i&nbsp;niebezpiecznym formom psychicznej terapii zarezerwowanym dla robotniczej miejskiej biedoty”<sup><a href="#sdendnote50sym" name="sdendnote50anc">50</a></sup>. W&nbsp;tym miejscu poddajemy analizie jeszcze inne formy społecznego wyłączenia, formy zagrożeń współmierne do skali imperialnych efektów. Próbujemy śledzić „konkretne trajektorie” kolonialnego wykluczenia i&nbsp;wykolejenia, określające obecne struktury przywilejów, zysków i&nbsp;zniszczenia. <em>Doktryna szoku</em> Naomi Klein może podsunąć nam właściwy trop. W&nbsp;jej zjadliwym opisie tego, co nazywa „kapitalistycznym wykorzystaniem kryzysu”, w&nbsp;indeksie nie znajdziemy wprawdzie haseł takich jak „imperium” czy „imperializm”, ale psychiczne i&nbsp;materialne powiązania widoczne są w&nbsp;każdym rozdziale książki – począwszy od 200 bilionów dolarów wydawanych obecnie na&nbsp;„przemysł bezpieczeństwa krajowego”, po&nbsp;wsparcie udzielone przez Stany Zjednoczone wojskowym reżimom, które doprowadziły do zubożenia ludności Argentyny, Chile, Urugwaju i&nbsp;Brazylii<sup><a href="#sdendnote51sym" name="sdendnote51anc">51</a></sup>.</p> <p>Nie oznacza to, że&nbsp;wielowarstwowe historie kapitalizmu i&nbsp;imperium mają się składać na&nbsp;jedną, wspólną imperialną genealogię. Chodzi jednak o&nbsp;to, by zwrócić uwagę na&nbsp;<span class="rozstrzelony">nieuchwytną</span> historię imperium, która zbyt łatwo znika pod&nbsp;innymi określeniami i&nbsp;innymi, bardziej dostępnymi współczesnymi nazwami. Rzecz w&nbsp;tym, by rozpoznać, że&nbsp;„bio” w&nbsp;pojęciu biopolitycznego upadku nieprzypadkowo związane jest z&nbsp;historiami imperiów. Na&nbsp;obszarach społecznych, na&nbsp;których kolonialne procesy rujnacji zostawiły swój materialny i&nbsp;psychiczny ślad, odcisnęły się wzorce tamtych systemów politycznych, rasowe ontologie, powołujące do życia skumulowane braki i&nbsp;zapóźnienia, jakich niektóre społeczności zdają się być ucieleśnieniem, i&nbsp;wreszcie wynikające z&nbsp;nich ciągłe zagrożenia dla organizmów państwowych. Wypędzenie, jak w&nbsp;przypadku Palestyńczyków, przedstawia się jako obronę społeczeństwa przed zewnętrznymi wrogami, lecz rezultatem tego staje się podział i&nbsp;arbitralna przemoc. Jak stwierdza David Lloyd w&nbsp;odniesieniu do brytyjskiej polityki w&nbsp;Irlandii Północnej, „podział, który jest podstawą państwa, jest także jego ruiną”<sup><a href="#sdendnote52sym" name="sdendnote52anc">52</a></sup>.</p> <p>Według Zygmunta Baumana produkcja odpadów i&nbsp;tego, co określa on jako „życie na&nbsp;przemiał”, stanowi konieczny, zamierzony i&nbsp;nieunikniony efekt nowoczesności<sup><a href="#sdendnote53sym" name="sdendnote53anc">53</a></sup>. Zapewne Bauman częściowo ma rację, jednak tego rodzaju ujęcie jest w&nbsp;stanie wskazać jedynie na&nbsp;realną kumulację odpadów, rzeczy zbędnych i&nbsp;przestarzałych, rzeczy i&nbsp;ludzi omijanych przez innych. Nie zdaje ono natomiast sprawy ze skali nasilenia i&nbsp;logiki dystrybucji tych zjawisk. Nowoczesność i&nbsp;kapitalizm mogą tylko częściowo odpowiadać za&nbsp;owe porzucone „odpady”, ale nie za&nbsp;to, gdzie się ci „zbędni” ludzie znajdują, z&nbsp;czym ich pozostawiono i&nbsp;jakimi środkami dysponują, by radzić sobie z&nbsp;tą sytuacją. Globalizacja może tłumaczyć składowanie toksycznych odpadów na&nbsp;Wybrzeżu Kości Słoniowej, ale nie wyjaśnia drogi, którą one tam docierają, ani historii, która uczyniła Afrykę zachodnią dogodnym i&nbsp;dostępnym miejscem takich procedur. Kapitalizm możemy oskarżać o&nbsp;skażenie Zatoki Meksykańskiej, do którego doszło w&nbsp;2010 roku w&nbsp;związku z&nbsp;wyciekiem ropy naftowej należącej do BP, lub o&nbsp;trwające od trzech dekad zanieczyszczanie przez Chevron lasów równikowych Amazonii toksycznymi odpadami, co odbiera środki do życia lokalnej ludności – nie tłumaczy to jednak medialnego nagłośnienia i&nbsp;światowego oburzenia, jakie wywołało to pierwsze zdarzenie, w&nbsp;stosunku do tego, jak niewiele się słyszy o&nbsp;tym drugim<sup><a href="#sdendnote54sym" name="sdendnote54anc">54</a></sup>. Istnieją takie ruiny imperium, które nazywa się „ruinami” i&nbsp;takie, których się tak nie nazywa.</p> <h2>„Opłakiwanie cieni” albo ukryty resentyment</h2> <p>W 1964 Derek Walcott napisał: „Dekadencja zaczyna się z&nbsp;chwilą, gdy cywilizacja zadurza się we własnych ruinach”<sup><a href="#sdendnote55sym" name="sdendnote55anc">55</a></sup>. Zdaniem Walcotta Anglia jest stracona, podobnie jak przemieszczone kolonialne podmioty, jak V.S. Naipaul z&nbsp;tęsknotą przywołujące minioną wielkość imperium (analogicznie, choć może jeszcze bardziej niż nostalgicy w&nbsp;samej Brytanii). Niektóre ruiny miłuje się bardziej niż inne. Pewien rodzaj „szlachetnych, lecz sypiących się gmachów” w&nbsp;ramach angielskiego „kultu ruin” cieszy się szczególnym i&nbsp;wciąż żywym uznaniem. Ian Baucom pisze o&nbsp;nich jako o&nbsp;części „rezydencjonalnej Anglii”: „owej uporządkowanej i&nbsp;zdyscyplinowanej Anglii, finansowanej przez imperium, a&nbsp;jednocześnie w&nbsp;olśniewających powierzchniach włoskiego marmuru i&nbsp;w delikatności metalowych zdobień zaznaczającej przewagę metropolii nad rodzimym i&nbsp;kolonialnym krajobrazem wiejskim – Anglii, za&nbsp;którą tęsknią współcześni nostalgicy”<sup><a href="#sdendnote56sym" name="sdendnote56anc">56</a></sup>. Nostalgia często dotyczy czegoś, czego nigdy się nie widziało ani nie poznało. Łączy się ona z&nbsp;poczuciem, że&nbsp;przychodzi się zawsze spóźnionym. Jak pisał Naipaul w&nbsp;książce <em>Enigma of Arrival</em>, „Przyjechałem do Anglii w&nbsp;niewłaściwym czasie… Byłem za&nbsp;późno, by odnaleźć prawdziwą Anglię, serce imperium, które (jako prowincjusz z&nbsp;odległego krańca imperium) stworzyłem sam w&nbsp;swojej wyobraźni”<sup><a href="#sdendnote57sym" name="sdendnote57anc">57</a></sup>. Lévi-Strauss miał to samo poczucie „rozmijania się”, bycia spóźnionym w&nbsp;trakcie swych pierwszych etnograficznych podróży. Rozczarowany „rozsypującymi się już przedmieściami” Lahaur, odczuwał złość</p> <p>na szerokich szlakach ulic przecinających brutalnie szczątki (pozostałe po&nbsp;niedawnych rozruchach) domów sprzed pięciuset lat (…) Kiedy trzeba było zwiedzać Indie? W&nbsp;jakiej epoce badania dzikich w&nbsp;Brazylii mogły dać najczystszą satysfakcję poznania ich w&nbsp;formie najmniej zmąconej? (…) jestem skazany na&nbsp;alternatywę: być podróżnikiem w&nbsp;dawnych czasach (…) bądź też być podróżnikiem nowoczesnym (…) W&nbsp;obu przypadkach przegrywam, i&nbsp;to więcej niż mi się wydaje, czyż bowiem opłakując cienie, nie jestem ślepy wobec prawdziwej wizji, która kształtuje się w&nbsp;tej chwili (…) Jak ofiarę podwójnego kalectwa rani mnie wszystko, cokolwiek widzę, i&nbsp;ustawicznie wyrzucam sobie, że&nbsp;nie przyglądałem się dosyć uważnie<sup><a href="#sdendnote58sym" name="sdendnote58anc">58</a></sup>.</p> <p>Lévi-Strauss ironizuje sam z&nbsp;siebie, narzekając na&nbsp;swoją pogardę dla współczesności. Naipaul tak się tym nie przejmuje. Choć obaj świetnie zdają sobie sprawę, że&nbsp;dali się zwieść wyobrażeniom na&nbsp;temat ruin, wciąż pragną spotkania z&nbsp;Realnym. Naipaul chce czegoś więcej niż ruin imperium. Podobnie jak Lévi-Strauss, żywi nostalgię wobec czegoś, czego nigdy nie dane mu było poznać i&nbsp;zobaczyć. Dla Lévi-Straussa jest to „dziki w&nbsp;formie najmniej zmąconej”, dla Naipaula świadectwo, że&nbsp;imperium było bogate i&nbsp;świetnie działało. Obaj myślą o&nbsp;stanie sprzed upadku. Ian Baucom pokazuje, kiedy według Naipaula „rzeczy przybrały zły obrót” – dokładnie w&nbsp;momencie, gdy Anglię zalała wielka fala migracji z&nbsp;dawnych kolonii<sup><a href="#sdendnote59sym" name="sdendnote59anc">59</a></sup>. A&nbsp;może stało się to w&nbsp;chwili, gdy ludzie ci głośno odrzucili kolonialne reguły gry, zerwali imperialny kontrakt i&nbsp;przestali się troszczyć o&nbsp;ruiny Naipaula?</p> <p>Imperialne ruiny, tak jak je tutaj widzimy, to nie tyle miejsca uwielbienia i&nbsp;tęsknoty za&nbsp;minionym, ile nieprzejednanego resentymentu, zaniedbania i&nbsp;porzucenia. Faisal Devji słusznie mówi o&nbsp;nich jako o&nbsp;„scenie zbrodni”, a&nbsp;równocześnie czymś nieuchwytnym, znikającym punkcie, którego nigdy nie da się po&nbsp;prostu zobaczyć<sup><a href="#sdendnote60sym" name="sdendnote60anc">60</a></sup>. Jako świadectwa destrukcji nie można ich wykorzystywać jedynie do potępienia kolonializmu, i&nbsp;nie powinno to być ich zadaniem<sup><a href="#sdendnote61sym" name="sdendnote61anc">61</a></sup>. Określenie tanich blokowisk, wznoszących się na&nbsp;peryferiach Paryża, które stały się główną sceną rozruchów jesienią 2005 roku – mianem „ruin francuskiego imperium” stanowi metaforyczny, polityczny i&nbsp;materialnie znaczący gest. Wskazuje ono na&nbsp;<span class="rozstrzelony">materialne i&nbsp;afektywne</span> powiązania, które w&nbsp;publicznych komentarzach używane były jedynie jako oskarżenie kolonialnej historii, należącej już do przeszłości. Samo to sformułowanie łączy jednak czas powstania blokowisk (początek lat 50.) z&nbsp;wykorzystanym w&nbsp;nich materiałem – wielką płytą, z&nbsp;ich mieszkańcami z&nbsp;niegdysiejszych kolonii w&nbsp;Afryce Północnej (którzy zastąpili w&nbsp;tym miejscu imigrantów pracujących dla Peugeota i&nbsp;mieszkających w&nbsp;tutejszych slumsach) i&nbsp;z politycznymi i&nbsp;ekonomicznymi barierami, które stworzono, by ich zatrzymać na&nbsp;miejscu<sup><a href="#sdendnote62sym" name="sdendnote62anc">62</a></sup>. Łączy ono państwowy rasizm z&nbsp;jego kolonialnymi współrzędnymi i&nbsp;40-procentowym bezrobociem, jakie dotyka ludzi funkcjonujących na&nbsp;obrzeżach politycznego i&nbsp;gospodarczego życia we Francji, mieszkających w&nbsp;blokach-ruderach.</p> <p>Geografie rewolty przybierają dziś coraz bardziej kolonialny charakter<sup><a href="#sdendnote63sym" name="sdendnote63anc">63</a></sup>. Co ważniejsze, rozumienie tego typu miejsc jako ruin imperium pokrywa się z&nbsp;opiniami, które wysuwali młodzi ludzie w&nbsp;Clichy-Sous-Bois i&nbsp;w innych miejscach we Francji, gdy deklarowali się jako <em>indigènes de la république</em> i&nbsp;domagali się, jak to zwięźle ujęła Hannah Arendt, „prawa do własnych praw”. Zgodnie z&nbsp;tym, co odnotowała prasa, Clichy-Sous-Bois nie miało własnej komendy policji, żadnego teatru, basenu, biura do spraw zatrudnienia, żadnej opieki społecznej dla dzieci, żadnego podziemnego czy międzymiastowego pociągu łączącego je z&nbsp;centrum. Odcięci i&nbsp;wykluczeni ze sfery rządzenia młodzi ludzie wysuwali w&nbsp;ten sposób roszczenia oznaczające odrzucenie tych warunków. Jak przewidział Fanon, francuskie panowanie nie tylko odciska piętno na&nbsp;dalszych losach skolonizowanych. Tego rodzaju problemy „nękać będą francuskich wyznawców demokracji”<sup><a href="#sdendnote64sym" name="sdendnote64anc">64</a></sup>. I&nbsp;robią to już teraz. Trzeba było pięćdziesięciu lat, które upłynęły, by rząd francuski uznał oficjalnie termin „wojna algierska”; tyle samo czasu zajęło niektórym francuskim badaczom przyznanie, że&nbsp;Republika Francuska od początku była państwem kolonialnym opartym na&nbsp;rasowych podziałach<sup><a href="#sdendnote65sym" name="sdendnote65anc">65</a></sup>.</p> <p>Dla badaczy studiów postkolonialnych utrzymujące się ciążenie ruin powinno być swego rodzaju alarmem. Rzecz nie w&nbsp;tym, by, jak to czynili niektórzy francuscy badacze, źródeł każdej współczesnej niesprawiedliwości szukać w&nbsp;historii imperialnej, ale by rozpoznać konkretne sposoby, za&nbsp;pomocą których skazuje się ludzi i&nbsp;miejsca na&nbsp;zniszczenie, gdzie pozostają odpadki, wokół czyjego życia się gromadzą, co składa się na&nbsp;„rozkład, który pozostaje”. Jednym z&nbsp;zadań tak pojętych studiów postkolonialnych powinno być wyostrzenie zdolności rozumienia i&nbsp;zmysłów na&nbsp;namacalne ślady imperium będące częścią współczesnej historii. Nie oznacza to wyrównywania rachunków z&nbsp;przeszłością, wyciągania z&nbsp;niej dawnych zaszłości, ale skierowanie różnicującej historycznej optyki na&nbsp;to, co trwałe i&nbsp;to, co przejściowe, dominujące i&nbsp;trudno widoczne, na&nbsp;to, co pojawia się we współczesnych formacjach imperialnych i&nbsp;w krytycznej reakcji na&nbsp;nie. Ważne jest, by nie wyobrażać sobie „postkolonii” lub postkolonialnego imperium jako prostego powtórzenia wcześniejszych zniszczeń, lub jako mimowolnych, biernych pozostałości dawnych, bardziej brutalnych kolonialnych stosunków. Chodzi o&nbsp;to, by śledzić, w&nbsp;jaki sposób nowe de-formacje i&nbsp;formy odpadów wpływają na&nbsp;materię i&nbsp;umysł, pochłaniając ludzkie zasoby i&nbsp;siły, a&nbsp;zarazem ośmielając nowych politycznych aktorów do aktu bezpośredniej odmowy i&nbsp;zawiązywania nieoczekiwanych, złożonych i&nbsp;znaczących sojuszy.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdendnote1anc" name="sdendnote1sym">1</a> Redakcja pisma gorąco dziękuje autorce za zgodę na przekład skróconej wersji tekstu, opublikowanego jako wstęp do książki pod jej redakcją, <em>Imperial Debris. On Ruins and Ruination</em>, Duke University Press, Durham 2013, s. 1–35. Dziękujemy także Charlesowi A. McDonaldowi za pomoc.</p>
+<p><a href="#sdendnote2anc" name="sdendnote2sym">2</a> Patricia Ismond, <em>Abandoning Dead Metaphors. The Caribbean Phase of Derek Walcott’s Poetry, </em>University of the West Indies Press, Barbados 2001, s. 40. Jak sugeruje tytuł książki, sposób użycia metafor u Walcotta staje się dla Ismonda osią jego własnego politycznego, antykolonialnego projektu, w którym metafora to „główny punkt odniesienia” (s. 2–3). Związek między metaforą w języku a metamorfozą sposobu życia podkreślany jest w wielu komentarzach na temat twórczości Walcotta.</p>
+<p><a href="#sdendnote3anc" name="sdendnote3sym">3</a> Dobrym przykładem trwającej fascynacji tego rodzaju nastrojem jest książka Christophera Woodwarda: <em>In Ruins. A Journey through History, Art, and Literature. </em>Vintage, New York 2001.</p>
+<p><a href="#sdendnote4anc" name="sdendnote4sym">4</a> Walter Benjamin, <em>Pasaże</em>, przeł. I. Kania, Wydawnictwo Literackie, Kraków 2006, s. 241.</p>
+<p><a href="#sdendnote5anc" name="sdendnote5sym">5</a><em>The Concise Oxford Dictionary</em>, wyd. 5, s. 1095.</p>
+<p><a href="#sdendnote6anc" name="sdendnote6sym">6</a> W ramach mojego seminarium na temat kolonialnych i postkolonialnych dysfunkcji, “Colonial and Postcolonial Disorder”, prowadzonego w New School for Social Research, w Nowym Jorku w grudniu 2010 roku, Charles McDonald zaproponował prowokacyjne podejście do pozostałości, jakie formacje imperialne tworzą na „niezależnym terytorium” amerykańskich Wysp Dziewiczych i których jednocześnie się wypierają. Przekonuje on, że resztki to coś więcej niż to, co pozostaje z ruiny: „Resztki nie zjawiają się znikąd; muszą być już obecne. Nie jest to rodzaj rzeczy, ale raczej pewien stan bycia, w jaki rzeczy mogą popaść, albo rzadziej – przez niego przejść”. Zob. Charles A. McDonald, <em>The Eye of the Storm. Hurricane Hugo and Imperial Debris in “America’s Paradise”</em>, referat, s. 4.</p>
+<p><a href="#sdendnote7anc" name="sdendnote7sym">7</a> Frantz Fanon, <em>Wyklęty lud ziemi,</em> przeł. H. Tygielska, Państwowy Instytut Wydawniczy, Warszawa 1985, s. 169. Pełny cytat, otwierający rozdział zatytułowany „Wojna kolonialna a zaburzenia psychiczne” brzmi: „Imperializm, który dzisiaj z bronią w ręku tłumi głos ludów domagających się wolności, pozostawia wokół siebie posmak rozkładu; musimy przed nim chronić nasze ziemie i nasze umysły” [w przekładzie Hanny Tygielskiej zamiast „pozostawia… posmak rozkładu” użyte zostało określenie „rozsiewa wokół siebie zarazę” – w tym miejscu zostało ono jednak zmienione ze względu na grę ze słowami Walcotta – przyp.tłum]</p>
+<p><a href="#sdendnote8anc" name="sdendnote8sym">8</a> Nie wszystkie ruiny należące w sensie przestrzennym do imperium mają charakter imperialny. Zob. na przykład Michael Lambek, <em>The Weight of the Past: Living with History in Mahajanga</em>, <em>Madagscar</em>. Palgrave, New York 2002 i jego analizę dotyczącą Madagaskaru.</p>
+<p><a href="#sdendnote9anc" name="sdendnote9sym">9</a> Prace założycielskie na tym polu, dotyczące różnych czasowo i przestrzennie obszarów, to: Michael Watts, <em>Silent Violence. Food, Famine, and Peasantry in Northern Nigeria,</em> University of California Press, Berkeley 1983; Alfred Cosby, <em>Ecological Imperialism. The Biological Expansion of Europe, 900–1900,</em> Cambridge University Press, New York 1986; Richard H. Grove, <em>Green Imperialism. Colonial Expansion, Tropical Island Edens and the Origins of Environmentalism,</em> Cambridge University Press, New York 1995. Na temat tego, w jaki sposób zniszczenie środowiska stało się kwestią polityczną, przedstawianą jako zagrożenie dla bezpieczeństwa narodowego, zob. <em>Violent Environments, </em>red. N. Lee Peluso, M. Watts, Cornell University Press, Ithaca 2001. Na temat przemocy państwowej, zachowania środowiska przyrodniczego i przymusowych przesiedleń w Tanzanii, zob. Roderick Neumann,<em> Imposing Wilderness. Struggles over Livelihood and Nature Preservation in Africa, </em>University of California Press, Berkeley 1998.</p>
+<p><a href="#sdendnote10anc" name="sdendnote10sym">10</a> Zob. np. Jake Kosek, <em>Understories. The Political Life of Forests in Northern New Mexico,</em> Duke University Press, Durham 2006; <em>Environmental Justice in Latin America, </em>red. D.V. Carruthers, Massachusetts Institute of Technology Press, Cambridge 2008; <em>Ecocide of Native America. Environmental Destruction of Indian Lands and People,</em> red. D. Grinde i B. Johansen, Clear Light, Santa Fe 1995; Daniel Brook, <em>Environmental Genocide. Native Americans and Toxic Waste</em>. “American Journal of Economics and Sociology” 1998, nr 57/1, s. 105–13; Gregory Hooks, Chad L. Smith, <em>The </em><em>Treadmill of Destruction. National Sacrifice Areas and Native Americans,</em> „American Sociological Review” 2004, nr 69/4, s. 558–75, gdzie autorzy przekonują, że sam kapitalizm nie tłumaczy dostatecznie faktu lokowania toksycznych odpadów na terenach indiańskich rezerwatów. Zob. też Dan McGovern, <em>The Capo Indian Land of War. The Fight for Gold in California’s Garbage,</em> University of Oklahoma Press, Norman 1995. Na temat odpadów biologicznych zob. zwłaszcza: Sarah Hodges, <em>Chennai’s Biotrash Chronicles. Chasing the Neo-liberal Syringe,</em> „Garnet Working Paper” 44/08.</p>
+<p><a href="#sdendnote11anc" name="sdendnote11sym">11</a> Zob. np. Katherine T. McCarrey, <em>The Struggle for Environmental Justice in Vieques, Puerto Rico</em>, w: <em>Environmental Justice in Latin America...,</em> s. 263–86; Steven L. Simon, Andre Bouville, Charles E. Land, Harold L. Beck, <em>Radiation Doses and Cancer Risks in the Marshall Islands Associated with Exposure to Radioactive Fallout from Bikini and Enewetak Nuclear Weapons Tests: Summary</em>. „Pediatric Radiology” 2006, nr 36, dodatek 2, s. 159–62.</p>
+<p><a href="#sdendnote12anc" name="sdendnote12sym">12</a> Zob. np. Kate B. Showers, <em>Imperial Gullies. Soil Erosion and Conservation in Lesotho,</em> Ohio University Press, Athens 2005; William Beinart i Lotte Hughes, <em>Environment and Empire,</em> Oxford University Press, New York 2007, gdzie autorzy starają się „porównać wpływ granic handlowych na ludność skolonizowaną” (s. vi). Istnieje silna tradycja tego rodzaju badań w odniesieniu do Madagaskaru, zob. Lucy Jarosz, <em>Defining and Explaining Tropical Deforestation: Shifting Cultivation and Population Growth in Colonial Madagascar (1896–1940),</em> “Economic Geography” 1993, nr 69/4, s. 366–79; Christian Kull,<em> Isle of Fire. The Political Ecology of Landscape Burning in Madagascar, </em>University of Chicago Press, Chicago 1995; Genese Sodikoff, <em>Forced and Forest Labor in Colonial Madagascar, 1926–1936,</em> „Ethnohistory” 2005, nr 52/2, s. 407–35.</p>
+<p><a href="#sdendnote13anc" name="sdendnote13sym">13</a> See Valerie Kuletz, <em>The Tainted Desert. Environment and Social Ruin in the American West, </em>Routledge, New York 1998, a także Valerie Kuletz, <em>Cold War Nuclear and Militarized Landscapes, </em>w: <em>Violent Environments</em>, red. N. Lee Peluso i Michael Watts, Cornell University Press, Ithaca 2001, s. 237–60. Zob. też: David Vine, <em>Island of Shame. The Secret History of the U.S. Military Base on Diego Garcia,</em> Princeton University Press, Princeton 2009.</p>
+<p><a href="#sdendnote14anc" name="sdendnote14sym">14</a> Pod tym względem wart docenienia i bliski moim dylematom jest tom <em>Postcolonial Disorders</em>, red. M. Del Vecchio Good, S. T. Hyde, S. Pinto, B. Good, University of California Press, Berkeley 2008. Autorzy tej pracy umiejętnie i z subtelnością poruszają się między tym, co codzienne, i tym co niewypowiedziane, między niewyrażalnym a ukrytym, a w centrum „postkolonialnych zaburzeń” umieszczają przyczyny polityczne i psychologiczne.</p>
+<p><a href="#sdendnote15anc" name="sdendnote15sym">15</a><sup></sup>Michel Foucault, <em>Archeologia wiedzy</em>, przeł. A. Siemek, Państwowy Instytut Wydawniczy, Warszawa 1977, s<em>. </em>45.</p>
+<p><a href="#sdendnote16anc" name="sdendnote16sym">16</a> Mel Frykberg, <em>Villages Contaminated by Settlement Sewage</em>, „Electronic Intifada” z dnia 29 kwietnia 2010, <a href="http://electronicintifada.net/" target="_blank" rel="noopener">http://electronicintifada.net</a>, dostęp 30 stycznia 2014.</p>
+<p><a href="#sdendnote17anc" name="sdendnote17sym">17</a> Na temat indyjskich towarzystw kolejowych, zob. Laura Bear, <em>Ruins and Ghosts</em>, w: <em>Lines of the Nation: Indian Railway Workers, Bureaucracy, and the Intimate Historical Self</em>, red. L. Bear, Columbia University Press, New York 2007, s. 257–84.</p>
+<p><a href="#sdendnote18anc" name="sdendnote18sym">18</a> John Collins, <em>The Revolt of the Saints: Memory and Redemption in the Twilight of Brazilian “Racial </em><em>Democracy”, </em>Duke University Press, Durham, w druku.</p>
+<p><a href="#sdendnote19anc" name="sdendnote19sym">19</a><em></em>Jamaica Kincaid,<em> A Small Place</em>, Farrar, Straus and Giroux, New York 1988, s. 9.</p>
+<p><a href="#sdendnote20anc" name="sdendnote20sym">20</a> Mark Landler, <em>Ruins by Day, Luxury by Night</em>, „New York Times” z 26 listopada 2000, s. 10.</p>
+<p><a href="#sdendnote21anc" name="sdendnote21sym">21</a><em>The Follow-Your-Bliss List</em>, „New York Magazine” z 16 października 2005. Zob. też Seth Meixner, <em>Cambodia: Ghosts and Grandeur</em>, „Iafrica.com” z 8 marca 2007, <a href="http://travel.iafrica.com/destin/asia/655247.htm/" target="_blank" rel="noopener">http://travel.iafrica.com/destin/asia/655247.htm</a>, dostęp 30 stycznia 2014.</p>
+<p><a href="#sdendnote22anc" name="sdendnote22sym">22</a> Na temat skali i zasięgu tej wizji, zob. Ann Laura Stoler, <em>Along the Archival Grain: Epistemic Anxieties and Colonial Common Sense,</em> Princeton University Press, Princeton 2010, s. 105-39.</p>
+<p><a href="#sdendnote23anc" name="sdendnote23sym">23</a> Zob. <a href="http://www.mbweni.com/mbweniruins.htm/" target="_blank" rel="noopener">http://www.mbweni.com/mbweniruins.htm i inne strony z komentarzami zwiedzających. Zob. też Edward Bruner, <em>Culture on Tour: Ethnographies of Travel,</em> Chicago University Press, Chicago 2004. To jedna z licznych prac mówiących o związanych z odkrywaniem własnego „dziedzictwa” wyprawach Afroamerykanów do miejsc, z których czarni niewolnicy z zachodniej Afryki wysyłani byli do obu Ameryk.</a></p>
+<p><a href="http://www.mbweni.com/mbweniruins.htm/" target="_blank" rel="noopener"></a><a href="#sdendnote24anc" name="sdendnote24sym">24</a> Renato Rosaldo, <em>Imperialist Nostalgia, </em>w: idem, <em>Culture and Truth</em>, Beacon, Boston 1989, s. 68-87.</p>
+<p><a href="#sdendnote25anc" name="sdendnote25sym">25</a> W książce <em>Industrial Ruins. Space, Aesthetics and Materiality </em>Tom Edensor proponuje traktować eksplorowanie ruin jako “formę antyturystyki”, ponieważ “poruszanie się w nich jest niewygodne, trudne i potencjalnie niebezpieczne, dostarcza wrażeń odmiennych od zdystansowanego patrzenia”. Na tym jednak właśnie polega urok, jakim kuszą ruiny Detroit i inne tu wymienione, sugerujące nie tyle antyturyzm, ile turystyczną przyjemność, powiązaną z przygodą wyobraźniowego uczestnictwa w innym czasie, bez konieczności wyobrażania sobie politycznych procesów, które zmusiły do wyjazdu ludzi, którzy tam mieszkali. Tom Edensor, <em>Industrial Ruins: Space, Aesthetics and Materiality, </em>Berg, New York 2005, s. 95.</p>
+<p><a href="#sdendnote26anc" name="sdendnote26sym">26</a> Henrika Kuklick, <em>Contested Monuments. The Politics of Archeology in Southern Africa</em>, w: <em>Colonial Situations: Essays on the Contextualization of Ethnographic Knowledge</em>, red. G. Stocking Jr., University of Wisconsin Press, Madison 1991, s. 135–69. Zob. też Joost Fontein, <em>The Silence of Great Zimbabwe. Contested Landscape and the Power of Heritage</em>, University College London Press, London 2006. O innej formie spornego pomnika kolonializmu, pomniku wojennym, zob. Gregory Mann, <em>Locating Colonial Histories. Between France and West Africa, </em>„American Historical Review” 2005, nr 110/2, <a href="http://www.historycooperative.org/journals/ahr/110.2/mann.htm/" target="_blank" rel="noopener">http://www.historycooperative.org/journals/ahr/110.2/mann.htm</a>, dostęp 30 stycznia 2014.</p>
+<p><a href="#sdendnote27anc" name="sdendnote27sym">27</a> Cytat ten pochodzi z pocztówki należącej do serii fotograficznej Lidy Abdul, zatytułowanej <em>A History of the World through Ruins, 2005-2007</em>, zaprezentowanej podczas wystawy <em>Memorial to the Iraq War</em> w Institute of Contemporary Art w Londynie, 27 maja - 27 czerwca 2007 (podarował mi ją Hugh Raffles, któremu za to dziękuję).</p>
+<p><a href="#sdendnote28anc" name="sdendnote28sym">28</a> Zob. esej Sharad Chari, <em>Detritus in Durban. Polluted Environs and the Biopolitics of Refusal,</em> w: <em>Imperial Debris...,</em>s. 131-161.</p>
+<p><a href="#sdendnote29anc" name="sdendnote29sym">29</a> Greg Grandin, <em>Fordlandia. The Rise and Fall of Henry Ford’s Forgotten Jungle City, </em>Metropolitan, New York 2009.</p>
+<p><a href="#sdendnote30anc" name="sdendnote30sym">30</a> Greg Grandin, <em>Touring Empire’s Ruin. From Detroit to the Amazon,</em> „Nation” z dnia 23 czerwca 2009, <a href="http://www.thenation.com/article/touring- empires- ruins- detroit- amazon/" target="_blank" rel="noopener">http://www.thenation.com/article/touring- empires- ruins- detroit- amazon, dostęp 30 stycznia 2014. Zob. idem, <em>Empire's Ruin. Detroit to the Amazon</em>, w: <em>Imperial Debris...</em>, s. 115-129.</a></p>
+<p><a href="http://www.thenation.com/article/touring- empires- ruins- detroit- amazon/" target="_blank" rel="noopener"></a><a href="#sdendnote31anc" name="sdendnote31sym">31</a> Nie ma o tym mowy w przypadku fascynacji związanej z <em>The Fabulous Ruins of Detroit</em> (DetroitYES!, <a href="http://www.detroityes.com/fabulous-ruins-of-detroit/home.php">http://www.detroityes.com/fabulous-ruins-of-detroit/home.php</a>) czy z <em>Exploring Detroit’s Beautiful Ruins. </em>Witold Rybczynski, <em>Incredible Hulks</em>, <a href="http://www.slate.com/articles/arts/architecture/2009/03/incredible_hulks.html/" target="_blank" rel="noopener">http://www.slate.com/articles/arts/architecture/2009/03/incredible_hulks.html</a>, dostęp 30 stycznia 2014.</p>
+<p><a href="#sdendnote32anc" name="sdendnote32sym">32</a> Zob. Michael Hodges, <em>Detroit’s Ruins Bring Visitors, but Rankle Critics within the City</em>, „Detroit News” z 1 lipca 2010.</p>
+<p><a href="#sdendnote33anc" name="sdendnote33sym">33</a> David Grossman, <em>Writing in the Dark</em>, „New York Times” z 13 maja 2007.</p>
+<p><a href="#sdendnote34anc" name="sdendnote34sym">34</a> Na temat związków ludzi i resztek, a także przestrzeni afektywnej, jaką wytwarza życie na stosach odpadków i w zrujnowanym otoczeniu, zob. przeprowadzoną przez Yael Navaro-Yashin analizę poświęconą Lefkos, miastu które pozostaje podzielone od czasu tureckiej inwazji na Cypr w 1974 roku, w: <em>Abjected Spaces: Political Debris and the Affects It Engenders</em> prezentacji pt. <em>Affect in Political Life</em> przedstawionej na konferencji na Uniwersytecie Cambridge, Cambridge, 7–8 kwietnia 2006.</p>
+<p><a href="#sdendnote35anc" name="sdendnote35sym">35</a> Nadia Abu El-Haj, <em>Facts on the Ground. Archaeological Practice and Territorial Self-Fashioning in Israeli Society,</em> Chicago University Press, Chicago 2001, s. 164.</p>
+<p><a href="#sdendnote36anc" name="sdendnote36sym">36</a> Zob. Shaul Ephraim Cohen, <em>The Politics of Planting. Israeli-Palestinian Competition for Control of Land in the Jerusalem Periphery,</em> University of Chicago Press, Chicago 1995; a także: Walid Khalidi, <em>All That Remains. The Palestinian Villages Occupied and Depopulated by Israel in 1948, </em>Institute for Palestine Studies, Washington 1992. Dziękuję Jennifer Lynn Kelly za wskazanie mi tych odniesień, zwrócenie uwagi na Afforestation Project i udostępnienie mi swoich badań.</p>
+<p><a href="#sdendnote37anc" name="sdendnote37sym">37</a><em>Dreams of Home</em>, broszura i zbiór fotografii wykonanych przez dzieci z Lajee Center pod opieką Rich Wiles.</p>
+<p><a href="#sdendnote38anc" name="sdendnote38sym">38</a> Dziękuję osobom z Lajee Center za udostępnienie mi w czasie mojej wizyty w 2008 roku publikacji, fotografii wykonanych przez dzieci i zgromadzonych przez nie historii.</p>
+<p><a href="#sdendnote39anc" name="sdendnote39sym">39</a> Dokładnie ilustruje to Abu El-Haj, <em>Facts on the Ground</em>... Joseph Masco, John Collins i Vyjayanthi Rao podejmują te zagadnienia w szkicach zamieszczonych w tomie <em>Imperial Debris..</em>.</p>
+<p><a href="#sdendnote40anc" name="sdendnote40sym">40</a> Zob. Joseph Masco, <em>Engineering the Future as Nuclear Ruin,</em> w: <em>Imperial Debris..., </em>s. 252-286.</p>
+<p><a href="#sdendnote41anc" name="sdendnote41sym">41</a> Jon Beasley-Murray, <em>Vilcashuamán: Telling Stories in Ruins, </em>w: <em>Ruins of Modernity</em>, red. J. Hell, A. Schönle, Duke University Press, Durham 2010, s. 212–31. Zob. też Beatriz Jaguaribe, <em>Modernist Ruins. National Narratives and Architectural Forms,</em> „Public Culture” 1999, nr 11/1, s. 294–312; William Cunningham Bissell, <em>Engaging Colonial Nostalgia,</em> „Cultural Anthropology” 2005, nr 20/2, s. 215–48, gdzie autor zwraca uwagę na krytyczny pożytek, jaki kolonialna nostalgia może czerpać z przyjrzenia się zniszczonym krajobrazom i „niknącym wspomnieniom nowoczesności” (Rachel Swarms, cyt. w: William Bissell, <em>Engaging Colonial Nostalgia...,</em> s. 217).</p>
+<p><a href="#sdendnote42anc" name="sdendnote42sym">42</a> Na temat dawniejszych i współczesnych sporów o kradzież, ochronę i przywrócenie pozostałości i dóbr należących do amerykanskich Indian, zob. Kathleen S. Fine-Dare, <em>Grave Injustice. The American Indian Repatriation Movement and NAG-PRA,</em> University of Nebraska Press, Lincoln 2002.</p>
+<p><a href="#sdendnote43anc" name="sdendnote43sym">43</a> Ann Laura Stoler, <em>The Carceral Archipelago of Empire,</em> wykład na konferencji <em>The Political Life of Documents</em> na Uniwersytecie Cambridge, 16 stycznia 2010.</p>
+<p><a href="#sdendnote44anc" name="sdendnote44sym">44</a> Susan Buck-Morss, <em>The Dialectics of Seeing. Walter Benjamin and the Arcades Project,</em> Massachusetts Institute of Technology Press, Cambridge 1991, s. 163.</p>
+<p><a href="#sdendnote45anc" name="sdendnote45sym">45</a> Ibidem, s. 182, 170.</p>
+<p><a href="#sdendnote46anc" name="sdendnote46sym">46</a> Nancy Rose Hunt, <em>A Colonial Lexicon of Birth Ritual, Medicalization, and Mobility in the Congo,</em> Duke University Press, Durham 1999.</p>
+<p><a href="#sdendnote47anc" name="sdendnote47sym">47</a> Zob. Karolina Szmagalska-Follis, <em>Repossession. Notes on Restoration and Redemption in Ukraine’s Western Borderland, </em>„Cultural Anthropology” 2008, nr 23/2, s. 329–60.</p>
+<p><a href="#sdendnote48anc" name="sdendnote48sym">48</a> W.G. Sebald, <em>Wojna powietrzna i literatura</em>, przeł. M. Łukasiewicz, WAB, Warszawa 2012, s. 59.</p>
+<p><a href="#sdendnote49anc" name="sdendnote49sym">49</a> Rob Nixon, <em>Slow Violence, Gender, and the Environmentalism of the Poor, </em>„Journal of Commonwealth and Postcolonial Studies” 2006, nr 13/1, s. 14–37; Giorgio Agamben, <em>Homo Sacer. Suwerenna władza i nagie życie</em>, przeł. M. Salwa, Prószyński i S-ka, Warszawa 2008; João Biehl, <em>Vita. Life in a Zone of Social Abandonment,</em> University of California, Berkeley 2005.</p>
+<p><a href="#sdendnote50anc" name="sdendnote50sym">50</a> João Biehl, <em>Vita</em>..., s. 18.</p>
+<p><a href="#sdendnote51anc" name="sdendnote51sym">51</a> Naomi Klein, <em>Doktryna szoku</em>, przeł. H. Jankowska i in., Muza, Warszawa 2008.</p>
+<p><a href="#sdendnote52anc" name="sdendnote52sym">52</a> David Lloyd, <em>Ruination. Partition and the Expectation of Violence (on Allan de-Souza’s Irish Photography),</em> „Social Identities” 2003, nr 9/4, s. 487.</p>
+<p><a href="#sdendnote53anc" name="sdendnote53sym">53</a> Zygmunt Bauman, <em>Życie na przemiał</em>, przeł. T. Kunz, Wydawnictwo Literackie, Kraków 2004.</p>
+<p><a href="#sdendnote54anc" name="sdendnote54sym">54</a> Na temat plam ropy, na które nie zwrócono takiej uwagi, zob. John Vidal, <em>Nigeria’s Agony Dwarfs the Gulf Oil Spill: The US and Europe Ignore It</em>, „Guardian” z 30 maja 2010, <a href="http://www.theguardian.com/world/2010/may/30/oil-spills-nigeria-niger-delta-shell/" target="_blank" rel="noopener">http://www.theguardian.com/world/2010/may/30/oil-spills-nigeria-niger-delta-shell, dostęp 30 stycznia 2014. </a></p>
+<p><a href="http://www.theguardian.com/world/2010/may/30/oil-spills-nigeria-niger-delta-shell/" target="_blank" rel="noopener"></a><a href="#sdendnote55anc" name="sdendnote55sym">55</a> Cyt. w Derek Walcott, <em>A Dilemma Faces W[est] I[ndian] Artists,</em> „Sunday Guardian” z 12 stycznia 1964, s. 3.</p>
+<p><a href="#sdendnote56anc" name="sdendnote56sym">56</a> Ian Baucom, <em>Out of Place: Englishness, Empire, and the Locations of Identity,</em> Princeton University Press, Princeton 1999, s. 172.</p>
+<p><a href="#sdendnote57anc" name="sdendnote57sym">57</a> Cyt. w ibidem, s. 199.</p>
+<p><a href="#sdendnote58anc" name="sdendnote58sym">58</a> Claude Lévi-Strauss, <em>Smutek tropików</em>, przeł. A. Steinsberg, Państwowy Instytut Wydawniczy, Warszawa 1964, s. 38-39. Dziękuję Trishy Gupta za wskazanie mi fragmentu na temat Lahaur.</p>
+<p><a href="#sdendnote59anc" name="sdendnote59sym">59</a> Baucom<em>, Out of Place...,</em> s. 186-87.</p>
+<p><a href="#sdendnote60anc" name="sdendnote60sym">60</a> Mam na myśli komentarze Faisala Devji podczas konferencji <em>Scarred Landscapes/Imperial Debris</em> w październiku 2006.</p>
+<p><a href="#sdendnote61anc" name="sdendnote61sym">61</a> Na temat historii tego typu budownictwa we Francji, zob. Marc Bernardot, <em>Loger les immigrés. La Sonacotra, 1956–2006,</em> Éditions du Croquant, Paris 2008.</p>
+<p><a href="#sdendnote62anc" name="sdendnote62sym">62</a> Zob. Jane Burbank, Frederick Cooper, <em>Review of Marc Ferro’s „Le livre noir du colonialisme. 16–21 Siécle. De l’Extermination à la Repentance”</em>, „Cahiers d’études Africaines” 2004, nr 44/1–2, s. 369, gdzie czynią oni istotną uwagę, że „postawa oskarżycielska” i całkowite potępienie kolonializmu we Francji, zrównujące go z totalitaryzmem, pomija „ograniczenia faktycznej władzy, realne możliwości kolonialnych reżimów w procesach eksploatacji i transformacji (…) ich częste uzależnienie od miejscowych czynników gospodarczych i politycznych, których nie mogły w pełni kontrolować” (s. 460—61).</p>
+<p><a href="#sdendnote63anc" name="sdendnote63sym">63</a> Dobitnie zwrócił na to uwagę Étienne Balibar, <em>Uprisings in the „Banlieues”, </em>„Constellations” 2007, nr 14, s. 47–72 i inni autorzy, w bardzo ograniczonym stopniu odwołując się jednak do historycznych analiz.</p>
+<p><a href="#sdendnote64anc" name="sdendnote64sym">64</a> Frantz Fanon, <em>Wyklęty lud ziemi...</em></p>
+<p><a href="#sdendnote65anc" name="sdendnote65sym">65</a><em></em>Benjamin Stora, <em>Le transfert d’une mémoire. De “l’Algérie française” au racisme anti-arabe, </em>La Découverte, Paris 1999.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/ruinacja/rozklad-pozostaje.-od-ruin-do-rujnacji" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

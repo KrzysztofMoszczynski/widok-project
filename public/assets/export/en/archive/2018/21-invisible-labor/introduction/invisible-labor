@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Invisible Labor | View. Theories and Practices of Visual Culture</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="View. Theories and Practices of Visual Culture">
+		<meta name="author" content="View. Theories and Practices of Visual Culture">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/en/archive/21-invisible-labor/invisible-labor">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Invisible Labor | View. Theories and Practices of Visual Culture">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Invisible Labor | View. Theories and Practices of Visual Culture">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/en/archive/21-invisible-labor/invisible-labor">
+		<meta property="og:site_name" content="View. Theories and Practices of Visual Culture">
+		<meta property="og:title" content="Invisible Labor | View. Theories and Practices of Visual Culture">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #00205b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #00205b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #00205b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #00205b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #00205b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #00205b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #00205b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #00205b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(0,32,91,0.8) !important; */
+			/* background-color:#00205b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(0,32,91,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#00205b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(0,32,91,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#00205b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(0,32,91,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(0,32,91,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#00205b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#00205b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#00205b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-en tpl-17 page-id-1476 parent-id-1471">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1470" data-selected-issue-color="#00205b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/en">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="View. Theories and Practices of Visual Culture"></span>
+          <span class="c-sitelogo__full u-underline-border">View. Theories and Practices of Visual Culture</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/pl/archiwum/21-praca-niewidzialna/praca-niewidzialna">PL</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="pl/archiwum/21-praca-niewidzialna/praca-niewidzialna">PL</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="en/search">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">No.</span>
+					<a class="c-headerissue__number" href="/en/archive/21-invisible-labor#toc">21</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="en/search">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/en/about" title="About" ><span>About</span></a>
+</li>
+<li>
+	<a href="/en/foundation" title="Foundation" ><span>Foundation</span></a>
+</li>
+<li class="active">
+	<a href="/en/archive" title="Archive" ><span>Archive</span></a>
+</li>
+<li class="last">
+	<a href="/en/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="en/archive/21-invisible-labor/invisible-labor?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Invisible Labor</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="en/archive/21-invisible-labor/invisible-labor?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	
+	
+	<p class="c-article-meta__author">
+		Translated by: 
+		
+		Łukasz Mojsak
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8301-1-PB-1920x-e46.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8301-1-PB-330x-315.jpg 330w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8301-1-PB-660x-aa3.jpg 660w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8301-1-PB-768x-f1d.jpg 768w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8301-1-PB-1320x-d8e.jpg 1320w" src="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8301-1-PB-660x-aa3.jpg" alt="" ></a>    <figcaption><p>Mona Vatamanu, Florin Tudor, <em>Production line for&nbsp;the future</em>, installation, 1st Ural Industrial Biennial, Yekaterinburg, 2010; courtesy of the artists.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Bare, twisted and torn video tapes, smashed plastic cases of black VHS cassettes and a&nbsp;pile of intact carriers awaiting their turn –&nbsp;everything is processed on a&nbsp;table that&nbsp;hardly bears resemblance to an actual editing table. The manual work of acquiring tape is performed by a&nbsp;several-year-old boy wearing a&nbsp;sweatshirt, typical of Eastern Europe, with&nbsp;an inscription in English (<em>Black Eye Beam</em>) and an equally characteristic hairdo. The factory premises appear unfriendly, cold and dangerous. Metal rods pose threat to another, even younger, child, whose silhouette looms in the background. The cliché –&nbsp;or perhaps “visual cliché”, if you will –&nbsp;of child labour in a&nbsp;peripheral factory automatically comes to mind. One of the genres of images of suffering that&nbsp;we have learnt to experience and consume in the recent decades. It is based on trust in the unequivocal power of making visible, in the political agency of revealing the truth –&nbsp;in this&nbsp;case the truth about&nbsp;the global relations of labour.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8303-1-PB-1920x-e46.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8303-1-PB-330x-315.jpg 330w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8303-1-PB-660x-aa3.jpg 660w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8303-1-PB-768x-f1d.jpg 768w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8303-1-PB-1320x-d8e.jpg 1320w" src="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8303-1-PB-660x-aa3.jpg" alt="" ></a>    <figcaption><p>Mona Vatamanu, Florin Tudor, <em>Production line for&nbsp;the future</em>, installation, 1st Ural Industrial Biennial, Yekaterinburg, 2010; courtesy of the artists.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>Yet, this&nbsp;clichéd vision is soon followed by a&nbsp;shameful sobering and self-accusation of exoticisation (if the worthlessness of the acquired VHS tape has not struck anyone yet...). The photograph featured on the cover of <em>View</em>no. 21 documents the installation <em>Production Line for&nbsp;the Future </em>exhibited in 2010 in Yekaterinburg at the 1st Ural Industrial Biennial by the artist duo Mona Vatamanu and Florin Tudor. The boy is one of the viewers/participants of the installation, while the image shows merely a&nbsp;fragment of the work. However, <em>Production Line for&nbsp;the Future</em> does not cease to be an installation about&nbsp;labour. On the contrary, it depicts the complexity of the relations of visibility and contemporary forms of labour as well as the entanglement of that&nbsp;relation in the intricate web of other conditions, including those of geographic nature.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8305-1-PB-1920x-e46.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8305-1-PB-330x-315.jpg 330w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8305-1-PB-660x-aa3.jpg 660w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8305-1-PB-768x-f1d.jpg 768w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8305-1-PB-1320x-d8e.jpg 1320w" src="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8305-1-PB-660x-aa3.jpg" alt="" ></a>    <figcaption><p>Mona Vatamanu, Florin Tudor, <em>Production line for&nbsp;the future</em>, installation, 1st Ural Industrial Biennial, Yekaterinburg, 2010; courtesy of the artists.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>For what the piece brings into&nbsp;debate about&nbsp;labour is above&nbsp;all the co-efficient of space –&nbsp;the reclaimed video tape is used in the installation that&nbsp;consists in dividing a&nbsp;factory hall into&nbsp;equal sections. As it could already be seen in their previous projects, the duo borrowed inspiration from&nbsp;the practice of impoverished Venezuelan farmers. Having obtained land from&nbsp;the state as their property to allow them to make a&nbsp;living on small-scale agricultural production, they fenced the plots off&nbsp;with VHS tapes stretched on poles –&nbsp;redistribution relied on redundant carriers of images, outdated commodities of the global entertainment business. Yet, in their works devoted to fencing, Mona Vatamanu and Florin Tudor draw attention primarily to a&nbsp;more general, multilateral and inextricable link between&nbsp;socio-economic transformations, including the conditions and possibility of labour, and land ownership (and, more broadly, understanding of public and private space). After&nbsp;all, the VHS tape in the Russian installation tells the story of completely different field and economic practices. Since&nbsp;the 1980s, such tapes, as a&nbsp;capitalist vanguard, functioned in the socialist states of Eastern Europe as a&nbsp;carrier of images-ideas of the free market, which led to a&nbsp;redefinition of the relation of property and labour.<sup><a href="#sdfootnote1sym" name="sdfootnote1anc">1</a></sup> As Boris Groys wrote:</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8309-1-PB-1920x-e46.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8309-1-PB-330x-315.jpg 330w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8309-1-PB-660x-aa3.jpg 660w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8309-1-PB-768x-f1d.jpg 768w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8309-1-PB-1320x-d8e.jpg 1320w" src="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8309-1-PB-660x-aa3.jpg" alt="" ></a>    <figcaption><p>Mona Vatamanu, Florin Tudor, <em>Production line for&nbsp;the future</em>, installation, 1st Ural Industrial Biennial, Yekaterinburg, 2010; courtesy of the artists.</p></figcaption>   </figure>  </section><section class="u-typo">   <blockquote>Enormous territories became abandoned wildernesses as far as rights were concerned –&nbsp;as in the Wild West in the United States –&nbsp;and had to be restructured. This&nbsp;is to say, they had to be parceled, distributed, and opened up to privatization, following&nbsp;rules that&nbsp;neither existed nor could exist.<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup></blockquote> <p>The Russian installation is accompanied by a&nbsp;diagram that&nbsp;depicts the global division of wealth. Many contemporary scholars –&nbsp;primarily Maurizio Lazzarato, whose essay on the reclamation of laziness translated by Barbara Brzezicka is published in the <b>Close-up</b> section –&nbsp;argue that&nbsp;the wealth in question is ever more often generated by nothing else but&nbsp;“rent”. Originally connected mainly to the realm of real-estate, “rent” in its various related forms (primarily debt/credit or mediation fee in the so-called sharing economy) forms today the basis of circulation and accumulation of immense capital.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8307-1-PB-1920x-e46.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8307-1-PB-330x-315.jpg 330w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8307-1-PB-660x-aa3.jpg 660w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8307-1-PB-768x-f1d.jpg 768w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8307-1-PB-1320x-d8e.jpg 1320w" src="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8307-1-PB-660x-aa3.jpg" alt="" ></a>    <figcaption><p>Mona Vatamanu, Florin Tudor, <em>Production line for&nbsp;the future</em>, installation, 1st Ural Industrial Biennial, Yekaterinburg, 2010; courtesy of the artists.</p></figcaption>   </figure>  </section><section class="u-typo">   <blockquote>All of modern-day capitalist accumulation is, moreover, comparable to rent. The real estate market, the continual rise in housing prices, constitutes a&nbsp;kind of rent (and what rent it is, especially in the US!), in the same way we pay a&nbsp;rent for&nbsp;intellectual property each time we buy a&nbsp;product covered by copyright<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup> –&nbsp;as Lazzarato wrote in <em>The Making of the Indebted Man</em>.</blockquote> <p>Spatial works by Mona Vatamanu and Florin Tudor also indicate the location of the eponymous debt, nowadays strictly connected with&nbsp;rent –&nbsp;constantly sustained, according to Lazzarato, as a&nbsp;form of subordination and resignation from&nbsp;the future as a&nbsp;possibility of choice (it is difficult to revolt, or even leave your job, while being burdened with&nbsp;student debt or a&nbsp;thirty-year mortgage credit to repay). For&nbsp;that matter, projects by the Romanian-Swiss duo generate something that&nbsp;Fredric Jameson might have had on his mind when in the 1980s he postulated the creation of an aesthetics of cognitive mapping rather than&nbsp;make straightforward attempts to make visible the exploitation hidden from&nbsp;sight, such as –&nbsp;notably –&nbsp;slave labour or child labour, still shockingly frequent and hardly remote at all. Far from&nbsp;simply generating representations of space, including world maps, the artists seek to use such representations to construct the manners of lending visibility to economic-social relations on a&nbsp;global scale.</p>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8311-1-PB-1920x-e46.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8311-1-PB-330x-315.jpg 330w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8311-1-PB-660x-aa3.jpg 660w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8311-1-PB-768x-f1d.jpg 768w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8311-1-PB-1320x-d8e.jpg 1320w" src="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8311-1-PB-660x-aa3.jpg" alt="" ></a>    <figcaption><p>Mona Vatamanu, Florin Tudor, <em>Le monde et la dette</em>, 2016, 2016, courtesy of the artists.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>„To <span class="rozstrzelony">propose</span> an aesthetic of cognitive mapping, under&nbsp;conditions of late capitalism could be taken as an attempt to force into&nbsp;being a&nbsp;certain kind of political visibility and thus to counter the objective, material effects of a&nbsp;dominant regime of representation”<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup> –&nbsp;as Alberto Toscano and Jeff Kinkle write about&nbsp;cognitive mapping in their book <em>Cartographies of the Absolute</em>. Yet, what remains invisible in the dominant orders of representation are not simply the blind spots of exploitation and slave labour, but&nbsp;complex relations between&nbsp;centres and peripheries, labour here and labour there, the “absent causes” of our situation, as Fredric Jameson would have it,<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup> or “his or her Real conditions of existence”,<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> as Louis Althusser would put it in his definition of ideology (a positive definition described in more detail in Krzysztof Świrek’s book <em>Teorie ideologii na przecięciu marksizmu i&nbsp;psychoanalizy</em><sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup><em></em>[Theories of Ideology at the Crossroads of Marxism and Psychoanalysis], discussed in the <b>Snapshots</b> section by Bartosz Wójcik).</p> <h2 style="text-align: center;">***</h2>  </section>  <div class="clearfix"></div><section class="u-typo u-typo-media">   <figure class="c-article-figure c-article-figure--right">    <a class="lightbox-item" data-group="articleImages" href="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8313-1-PB-1920x-e46.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw -&nbsp;30px)" srcset="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8313-1-PB-330x-315.jpg 330w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8313-1-PB-660x-aa3.jpg 660w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8313-1-PB-768x-f1d.jpg 768w,assets/cache/images/issues/2018/21/praca_niewidzialna/628-8313-1-PB-1320x-d8e.jpg 1320w" src="assets/cache/images/issues/2018/21/praca_niewidzialna/628-8313-1-PB-660x-aa3.jpg" alt="" ></a>    <figcaption><p>Mona Vatamanu, Florin Tudor, <em>Le monde et les choses</em>, ona Vatamanu, Florin Tudor, <em>Le monde et les choses</em>, 2016, courtesy of the artists and Muzeum Sztuki in Łódź.</p></figcaption>   </figure>  </section><section class="u-typo">   <p>All of these evoked concepts, which do not form a&nbsp;coherent theoretical framework, partly diagnostic and partly postulative, indeed revolve around&nbsp;the concept of labour, yet they are not identical to it. What might therefore appear logical would be to open the issue by evoking the concept of immaterial labour, at least by returning to Lazzarato’s definition<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>, followed by a&nbsp;criticism of Lazzarato’s excessive focus on the dimension of communication and mental processes –&nbsp;be it derived from&nbsp;feminist positions (reproductive labour) or, for&nbsp;instance, from&nbsp;postcolonial positions (relocation, instead of abolishment, of traditional forms of physical labour and subjecting them to even stronger exploitation). Equally not out of place would also be to refer to many other competing and related perspectives on labour, such as Tiziana Terranova’s „free labor” (voluntary and unpaid at the same time)<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>, or the vast and undoubtedly interesting debate about&nbsp;precarity (an indirect voice in that&nbsp;discussion is offered by Hito Steyerl in her essay on modern-day hired workers, whose translation is published in the Close-up section), or the discussion about&nbsp;care labour –&nbsp;which has recently entered a&nbsp;broader public debate in Poland owing to the strike of caretakers of people with&nbsp;disabilities. Yet, our ambition was not to contribute to these expert debates, but&nbsp;to examine their selected threads from&nbsp;the perspective of the relation with&nbsp;the media, languages and modes of representation, above&nbsp;all visual ones. We therefore do not suggest, for&nbsp;instance, a&nbsp;structural equivalence between&nbsp;the concepts of immaterial and invisible labour. We understand visibility and invisibility, and primarily all the stages in-between, as both conditions and effects of “class relations on a&nbsp;global (or should I&nbsp;say multinational) scale”,<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup> whose elements are the relations and forms of labour analysed by authors in the Close-up section. What is more, we do not intend to imagine the process of lending visibility simply as disclosure, removing the veil, filling blind spots or enlightening the public. Total views, seen from&nbsp;above, which allegedly show everything, are the basis of the dominant aesthetic order that&nbsp;also manages the visibility of various modes of labour. And since&nbsp;seeing everything is not the goal, the point is to look (at labour) in a&nbsp;different way. In this&nbsp;sense, we are more attracted to other excerpts from&nbsp;Lazzarato than&nbsp;his description of immaterial labour:</p> <blockquote>Although their purpose is to produce money, the operations of capital have more than&nbsp;economic effects. Capital endows us with&nbsp;perception and a&nbsp;certain sensibility because to perceive and to feel are functions of action. We see and we feel what is necessary to accomplish an action. To change perception and our ways of feeling, we must change our way of acting, in other words, in the final analysis, our way of living. Lazy action is the exact opposite&nbsp;of the purpose-driven action of capitalist production, for&nbsp;which the end (money) is everything and the process nothing. The latter literally would not exist if it did not produce money. The refusal of work, on the other hand, is entirely invested in the process, in the development, in the collective modalities of singularization<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>.</blockquote> <p>Collective forms of collaboration that&nbsp;aim to escape instant monetisation, resist dominant hierarchies and manners of circulation of values, provided the focus of the exhibition <em>Peer-to-Peer</em>, curated by Agnieszka Pindera at Muzeum Sztuki in Łódź, discussed by Magda Roszkowska in <b>Snapshots</b>. In the same section Katarzyna Warmuz comments on the textbook <em>Training for&nbsp;Exploitation?</em>, which shows various tactics of refusal to participate in an obedient labour training, which is what most internship programmes become. Relations between&nbsp;cinema and modern and postmodern transformations of forms of labour are discussed by Adam Przywara in Close-up and Mateusz Tarwacki in Snapshots. In turn, Krzysztof Świrek weaves a&nbsp;story about&nbsp;affective labour and visibility in social media, as well as the relation of gazes metaphorised in David Lynch’s film <em>Mulholland Drive</em>. The artistic section comprises primarily the texts by Karolina Sikorska about&nbsp;visibility and invisibility of women artists’ work in the Polish field of art and by Andreas Petrossiants, who analyses radical works by the American artist Mierle Laderman Ukeles.</p> <p>The <b>Viewpoint</b> section juxtaposes projects by Alicja Rogalska with&nbsp;agricultural work in two local variations: an archive of films by Polish farmers posted on YouTube and archives of migrant farmers from&nbsp;the island of Jersey. Rogalska’s work are commented on by Monika Borys, who highlights their collective character and formation of alternative ways to represent workers. Miłosz Markiewicz writes about&nbsp;the image of invisible activities of the Internet cleaners, and in <b>Panorama</b> Dawid Kujawa discusses rare instances of reflection on labour in contemporary poetry, including reflection on poetic labour itself. The issue also features essays that&nbsp;are more distant from&nbsp;the core theme –&nbsp;text by Marcin Stachowicz about&nbsp;the media figure of Andrzej Lepper and a&nbsp;commentary by Dorota Sosnowska on Achille Mbembe’s <em>Politiques de’l inimitié</em>, recently published in Polish.</p> <p>We hope you’ll enjoy this&nbsp;issue of our magazine, while we get back to work.</p> <p>Editorial team</p> <p><br><br> <b>Editors of the issue would like&nbsp;to thank Joanna Sokołowska, curator of the exhibitions at Muzeum Sztuki in Łódź <em>Workers Leaving the Workplace</em> and <em>All Men Become Sisters</em>, for&nbsp;important inspirations related to links between&nbsp;visual representations and labour. </b></p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> See: Magda Szcześniak, <em>Normy widzialności. Tożsamość w czasach transformacji</em> (Warszawa: Fundacja Bęc Zmiana, Instytut Kultury Polskiej UW, 2016).</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Boris Groys, “Privatisations, or Artificial Paradises of Post-Communism,” in idem, <em>Art Power</em> (Cambridge, Mass.: MIT Press, 2008), 164–165.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Maurizio Lazzarato, <em>The Making of the Indebted Man: An Essay on the Neoliberal Condition</em>, trans. Joshua David Jordan (Amsterdam: Semiotext(e), 2011), 21–22.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Alberto Toscano and Jeff Kinkle, <em>Cartogrpahies of the Absolute </em>(London: Zero Books, 2015), 10.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> See: Fredric Jameson, “Cognitive Mapping,” in <em>Marxism and the Interpretation of Culture</em>, ed. Cary Nelson, Lawrence Grossberg (Urbana and Chicago: University of Illinois Press, 1988), 347–357; the concept of absent causes appears in Jameson’s <em>Postmodernism, or, the Cultural Logic of Late Capitalism</em> (London: Verso, 1991).</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Quoted from: Jameson, “Cognitive Mapping,” 351.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Krzysztof Świrek, <em>Teorie ideologii na przecięciu marksizmu i psychoanalizy</em> (Warszawa: Wydawnictwo Naukowe PWN, 2018).</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Maurizio Lazzarato, “Immaterial Labor,” in <em>Radical Thought in Italy: A Potential Politics</em>, ed. Paolo Virno, Michael Hardt (Minneapolis: University of Minnesota Press, 1996), 142–157.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Tiziana Terranova, “Free Labor. Producing Culture for the Digital Economy,” <em>Social Text</em> 2000, no. 63.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> Fredric Jameson, “Cognitive Mapping,” 351.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Maurizzio Lazzarato, <em>Governing by Debt</em>, trans. Joshua David Jordan (Cambridge, MA: Semiotext(e), 2015), 252.</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/en/archive/21-invisible-labor/invisible-labor" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

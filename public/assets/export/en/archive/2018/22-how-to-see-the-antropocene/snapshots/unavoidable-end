@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Uświadomiony koniec | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/22-zobaczyc-antropocen/uswiadomiony-koniec">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Uświadomiony koniec | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/assets/cache/images/issues/2018/22/2-1200x630-c23.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Uświadomiony koniec | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/assets/cache/images/issues/2018/22/2-1200x630-c23.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/22-zobaczyc-antropocen/uswiadomiony-koniec">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Uświadomiony koniec | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/assets/cache/images/issues/2018/22/2-1200x630-c23.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #47495b !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #47495b !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #47495b !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #47495b !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #47495b !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #47495b !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #47495b !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+			/* background-color:#47495b !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(71,73,91,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#47495b !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#47495b; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(71,73,91,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(71,73,91,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#47495b !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#47495b !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#47495b !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1806 parent-id-1767">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="1743" data-selected-issue-color="#47495b" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/22-how-to-see-the-antropocene#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/22-how-to-see-the-antropocene/unavoidable-end">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/22-zobaczyc-antropocen#toc">22</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/22-zobaczyc-antropocen/uswiadomiony-koniec?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Uświadomiony koniec</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/22-zobaczyc-antropocen/uswiadomiony-koniec?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=1807">Adam Robiński</a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <ul> <li><b>Ewa Bińczyk,<em> Epoka człowieka. Retoryka i&nbsp;marazm antropocenu</em>, Wydawnictwo Naukowe PWN, Warszawa<em> </em>2018.<br></b><b></b></li> <li><b>Jonathan Franzen,<em> Koniec końca świata</em>, przeł. W. Kurylak, Sonia Draga, Warszawa 2019.</b></li> <li><b>Elizabeth Kolbert, <em>Szóste wymieranie</em>, przeł. T. i&nbsp;P. Grzegorzewscy, W.A.B., Warszawa 2016<em>. </em></b></li> <li><b>Roy Scranton,<em> Learning to Die in the Anthropocene</em>, City Lights Publishers,<em> </em>London<em> </em>2015.<br><br><br></b></li> </ul>  </section>  <div class="clearfix"></div><section class="m-page-content m-page-content--slides m-page-content--slides-right">   <div class="owl-carousel owl-carousel--default owl-theme js-owl-content-slides">    <figure>   <a class="lightbox-item" href="assets/cache/images/issues/2018/22/robinski/1-1920x-487-1920x-63a.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/robinski/1-1920x-487-333x-ec7.jpg 333w,assets/cache/images/issues/2018/22/robinski/1-1920x-487-666x-eab.jpg 666w,assets/cache/images/issues/2018/22/robinski/1-1920x-487-1332x-684.jpg 1332w" src="assets/cache/images/issues/2018/22/robinski/1-1920x-487-666x-eab.jpg" alt="" ></a>  </figure><figure>   <a class="lightbox-item" href="assets/cache/images/issues/2018/22/robinski/2-1920x-487-1920x-3b3.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/robinski/2-1920x-487-333x-919.jpg 333w,assets/cache/images/issues/2018/22/robinski/2-1920x-487-666x-199.jpg 666w,assets/cache/images/issues/2018/22/robinski/2-1920x-487-1332x-67d.jpg 1332w" src="assets/cache/images/issues/2018/22/robinski/2-1920x-487-666x-199.jpg" alt="" ></a>  </figure><figure>   <a class="lightbox-item" href="assets/cache/images/issues/2018/22/robinski/3-1920x-487-1920x-3b3.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/robinski/3-1920x-487-333x-919.jpg 333w,assets/cache/images/issues/2018/22/robinski/3-1920x-487-666x-199.jpg 666w,assets/cache/images/issues/2018/22/robinski/3-1920x-487-1332x-67d.jpg 1332w" src="assets/cache/images/issues/2018/22/robinski/3-1920x-487-666x-199.jpg" alt="" ></a>  </figure><figure>   <a class="lightbox-item" href="assets/cache/images/issues/2018/22/robinski/4-1920x-487-1920x-3b3.jpg"><img sizes="(min-width: 1200px) 50vw, (min-width: 825px) 666px, (min-width: 768px) calc(100vw - 78px), calc(100vw - 30px)" srcset="assets/cache/images/issues/2018/22/robinski/4-1920x-487-333x-919.jpg 333w,assets/cache/images/issues/2018/22/robinski/4-1920x-487-666x-199.jpg 666w,assets/cache/images/issues/2018/22/robinski/4-1920x-487-1332x-67d.jpg 1332w" src="assets/cache/images/issues/2018/22/robinski/4-1920x-487-666x-199.jpg" alt="" ></a>  </figure>   </div>     </section><section class="u-typo">   <p>Na nakręconym w&nbsp;grudniu 2017 roku na&nbsp;terenie nadleśnictwa Baligród filmie widzimy tonący w&nbsp;śniegu głęboki parów, którego dnem przed watahą wilków ucieka niedźwiedzica z&nbsp;dwoma młodymi. Wszystko dzieje się bardzo szybko. Samica staje między dwoma bukami, by osłonić młode, ale po&nbsp;chwili wszyscy troje są już otoczeni. Wilki trzymają niedźwiedzie w&nbsp;szachu i&nbsp;– zapewne – zaczynają kombinować, w&nbsp;jaki sposób zaatakować któreś z&nbsp;młodych, by samemu odnieść jak najmniej obrażeń ze strony zdesperowanej matki. Film, zrealizowany po&nbsp;amatorsku, najpewniej przy użyciu zwykłego smartfona, zakończyłby się pewnie jak nieudolna imitacja dokumentu przyrodniczego, gdyby w&nbsp;operatorze – leśniczym Kazimierzu Nóżce – nie odezwała się nagle pewna potrzeba: interwencji czy zaistnienia? „Nie! Zostawcie!” – niesie się między drzewami. Wilki pryskają momentalnie. Niedźwiedzica patrzy w&nbsp;stronę człowieka – w&nbsp;jej odległym i&nbsp;rozpikselowanym spojrzeniu niektórzy widzowie będą się potem doszukiwać wyrazów wdzięczności – po&nbsp;czym również czmycha z&nbsp;młodymi. Redakcja wydawanego przez Lasy Państwowe kwartalnika „Echa Leśne” wrzuca film do sieci. Facebook szaleje, leśniczy Nóżka staje się bohaterem telewizji śniadaniowej. Dopiero po&nbsp;paru dniach przychodzi refleksja: dlaczego leśnik zaingerował w&nbsp;naturalny proces przyrodniczy? Jakim prawem opowiedział się po&nbsp;stronie ofiary? I&nbsp;czemu, do jasnej cholery, państwowy zarządca lasów postanowił pochwalić się nieodpowiedzialnym zachowaniem swojego pracownika?</p> <p>Pogłębiająca się refleksja nad konsekwencjami antropocenu coraz częściej mierzyć się musi z&nbsp;poczuciem bezradności. Być może naiwny aplauz dla zachowania leśnika w&nbsp;paradoksalny sposób oddaje ten stan – przeczuwany, choć może nienazwany jeszcze powszechnie. Bezradność wobec wymierania gatunków i&nbsp;niszczenia ekosystemów można – przynajmniej pozornie i&nbsp;na moment – przesłonić fałszywym ratunkiem dla pojedynczego przedstawiciela jednego z&nbsp;nich. Dobrze więc w&nbsp;tej sytuacji spojrzeć na&nbsp;to, co do powiedzenia mają komentatorzy i&nbsp;komentatorki nowej „ludzkiej” epoki.</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo">   <p>Opóźniona refleksja w&nbsp;kontaktach ze światem naturalnym jest typowa dla <em>Homo sapiens</em>. Freony, DDT, plastik – to tylko kilka elementów z&nbsp;długiej listy ludzkich błędów uświadomionych poniewczasie. Ten problem uwidacznia się szczególnie w&nbsp;obliczu ogólniejszych kwestii łączonych z&nbsp;antropocenem: w&nbsp;związku z&nbsp;klimatyczną katastrofą, dramatycznym spadkiem bioróżnorodności, niekontrolowanymi migracjami społeczeństw na&nbsp;ogromną skalę. Wydana w&nbsp;ubiegłym roku przez PWN książka Ewy Bińczyk z&nbsp;toruńskiego Uniwersytetu Mikołaja Kopernika, zatytułowana <em>Epoka człowieka. Retoryka i&nbsp;marazm antropocenu</em>, pozwala wnikliwie przeanalizować to opóźnienie. To od niej warto więc zacząć refleksję na&nbsp;temat języka epoki człowieka.</p> <p>Ewa Bińczyk jest filozofką, nie klimatolożką. Jej rola w&nbsp;przyglądaniu się antropocenowi przypomina tę odgrywaną przez oenzetowski Międzyrządowy Zespół ds. Zmian Klimatu (Intergovernmental Panel on Climate Change), który nie prowadzi własnych badań, a&nbsp;jedynie analizuje stan wiedzy na&nbsp;temat przyczyn, przebiegu i&nbsp;skutków klimatycznej katastrofy oraz wyznacza odpowiednią perspektywę czasową. Pierwsze wzmianki łączące wzrost średniej temperatury na&nbsp;planecie z&nbsp;emisjami dwutlenku węgla to lata 30. ubiegłego wieku, pierwsze poważniejsze naukowe analizy i&nbsp;alarmy – lata 60., pierwsze wnikliwe doniesienia prasowe (w tym okładka „The New York Times”) – lata 80.), pierwsza formalna artykulacja problemu na&nbsp;forum międzynarodowym – rok 1992. Uznanie przez Amerykański Sąd Najwyższy CO<sub>2</sub> za&nbsp;substancję stanowiącą zanieczyszczenie miało z&nbsp;kolei miało 11 lat temu. Humanistyczny namysł nad skutkami antropocenu to ostatnia dekada – a&nbsp;więc czas, gdy w&nbsp;opinii naukowców zmiany te są już one nieodwracalne.</p> <p><em>Epoka człowieka</em> zaistniała na&nbsp;rynku książki nienaukowej nie tylko dlatego, że&nbsp;podobnych pozycji jest w&nbsp;Polsce zadziwiająco mało. Na&nbsp;pierwszy rzut oka naszpikowana datami, faktami i&nbsp;cytatami, szybko okazuje się zręcznie napisanym i&nbsp;przystępnym kompendium. Czymś na&nbsp;kształt repetytorium z&nbsp;antropocenu. To również, wbrew pozorom, dość emocjonalna lektura. Bińczyk wskazuje na&nbsp;postępującą bezradność naukowców, która budzi w&nbsp;nich aktywistów, a&nbsp;z czasem spycha w&nbsp;stronę tytułowego marazmu oraz melancholii. Może dlatego w&nbsp;części poświęconej wnioskom z&nbsp;analizy retoryki antropocenu toruńska filozofka zwraca się ku wciąż marginalizowanym ideom postwzrostu. Dalsze wsłuchiwanie się w&nbsp;interdyscyplinarne głosy jest próbą poszukiwania rozwiązań i&nbsp;ratowania czytelników przed rosnącym poczuciem marazmu. „Epoka antropocenu rozpaczliwie potrzebuje krytycznej nadziei i&nbsp;przekonania, że&nbsp;konstruktywna zmiana jest możliwa” – tłumaczy autorka.</p> <p></p>  </section>  <div class="clearfix"></div><section class="u-typo">   <p>Kiedy kilka miesięcy temu rozmawiałem z&nbsp;Ewą Bińczyk, opowiadała o&nbsp;swoim zdumieniu skalą ignorowania antropocenu przez filozofów. Jej zdaniem ludzkość nigdy nie stała jeszcze przed tak wielowymiarowym problemem: przyrodniczym, politycznym, etycznym, ekonomicznym i&nbsp;religijnym. Kiedy jeśli nie teraz należy pytać o&nbsp;wartości związane z&nbsp;człowieczeństwem? Kim jesteśmy, skoro nasza obecność na&nbsp;planecie niesie katastrofę całej biosferze?</p> <p>„Jak być człowiekiem w&nbsp;epoce antropocenu?” – to pytanie staram się zadawać wszystkim, którzy zawodowo mierzą się z&nbsp;tą tematyką: humanistom, przyrodnikom, analitykom oraz badaczom z&nbsp;dziedzin, które wyrażają zainteresowanie nieuchronną zmianą. Ich odpowiedzi krążą zwykle wokół jednostkowej odpowiedzialności za&nbsp;najbliższe otoczenie i&nbsp;troski o&nbsp;własne sumienie. „Nie lataj, nie jedz mięsa, przesiądź się na&nbsp;rower, głosuj na&nbsp;zielonych”. Nie można się z&nbsp;nimi nie zgodzić, choć biorąc pod&nbsp;uwagę, że&nbsp;zegar tyka, to wszystko tylko eufemistyczne określenia bezradności. Jak słusznie zauważa Bińczyk, retoryka antropocenu opiera się również na&nbsp;przesuwaniu i&nbsp;zrzucaniu odpowiedzialności – ze skupionego na&nbsp;gromadzeniu kapitału i&nbsp;wzroście systemu ekonomicznego oraz jego beneficjentów na&nbsp;bliżej nieokreślony ogół.</p> <p>Może dlatego tak ważny w&nbsp;debacie na&nbsp;temat antropocenu jest głos Amerykanina Roya Scrantona. W&nbsp;wydanej w&nbsp;2015 roku krótkiej książce <em>Learning to Die in the Anthropocene</em> autor – w&nbsp;przeciwieństwie do Bińczyk – szuka intelektualnych recept, którymi mogłyby się ratować jednostki. Jeśli jako gatunek zawiedliśmy wszystkie inne gatunki współżyjące na&nbsp;jednej planecie, dziś i&nbsp;w przyszłości, to musimy umieć to przyznać – przekonuje Scranton. Jego twórczość literacka jest naznaczona biografią. Zanim trafił na&nbsp;akademię, kilka lat spędził na&nbsp;włóczędze po&nbsp;Stanach Zjednoczonych, a&nbsp;kilkanaście miesięcy na&nbsp;wojnie w&nbsp;Iraku. Rzeczownik „śmierć” jest w&nbsp;jego pisaniu odmieniany przez wszystkie przypadki.</p> <blockquote>Kiedy jednostka godzi się z&nbsp;naturą śmierci, pozbywa się swoich przyzwyczajeń i&nbsp;lęków. Aby zrobić to samo jako cywilizacja, musimy zrezygnować z&nbsp;konkretnego stylu życia, tożsamości, pojmowania sukcesu i&nbsp;rozwoju. Te dwie drogi poznawcze zbiegają się w&nbsp;osobie myśliciela humanisty: tego, który chce się zatrzymać i&nbsp;zadawać niewygodne pytania, który chce przerywać innym, który rezonuje na&nbsp;innych kanałach, a&nbsp;jego komunikaty są wolniejsze, ale głębsze.</blockquote> <p>U Scrantona klamka zapadła, a&nbsp;wszelka nadzieja jest ułudą. Pogodzenie się ze śmiercią naszej cywilizacji powinno oznaczać jej pogrzeb, po&nbsp;którym pokolenie naszych dzieci (autor ma córkę, o&nbsp;której w&nbsp;poruszający sposób napisał kilka miesięcy temu na&nbsp;łamach „The New York Times”) zbuduje swój własny świat. Wybór jest prosty: możemy żyć jak dotychczas, łudząc się, że&nbsp;jutro będzie takie samo jak wczoraj, z&nbsp;każdym kolejnym dniem będąc coraz gorzej przygotowanym na&nbsp;nadciągającą katastrofę. Możemy też widzieć w&nbsp;każdym dniu śmierć tego, co minione, a&nbsp;tym samym uwolnić się od umysłowych ograniczeń.</p> <p>Pisząc o&nbsp;śmierci, Scranton intensywniej niż Bińczyk zwraca uwagę na&nbsp;cywilizacyjną spuściznę i&nbsp;jej eschatologiczny wymiar. Obserwując upadające systemy, filozofowie od zawsze zastanawiali się nie nad tym, jak one działały, lecz co znaczyły. „Co to znaczy być człowiekiem? Czym jest życie? A&nbsp;dobro? Prawda? Te pytania są naszą zmorą. Torturujemy się nimi, chorujemy od nich, popadamy w&nbsp;szaleństwo”. Nie potrafimy wyjść poza antropocentryczne schematy myślowe, ustawiające nas w&nbsp;opozycji do środowiska. Tymczasem – przekonuje Scranton – jesteśmy tylko skończonymi, ograniczonymi skupiskami kosmicznego pyłu. Niczym ponad wspomniane środowisko. Miksem pierwiastków, który nie znaczy absolutnie nic. Węgiel, z&nbsp;którego jesteśmy zbudowani, narodził się w&nbsp;umierających sercach gwiazd. Mimo to zaszliśmy imponująco daleko – kilka tysięcy lat temu stawialiśmy znaki w&nbsp;glinie, dziś wysyłamy swoje obiekty poza Układ Słoneczny. Ale nasza obecność w&nbsp;holocenie i&nbsp;tak będzie tylko chwilowym rozkwitem glonów. Nawet jeśli jakimś nadludzkim wysiłkiem społecznym uda nam się przezwyciężyć obecny kryzys, przyjdą następne. I&nbsp;skoro powoli uświadamiamy sobie, że&nbsp;nic – również gospodarka – nie może rosnąć wiecznie, musimy zastosować tę samą prawdę względem naszej cywilizacji. Ją również czeka kres. Wbrew pozorom Scranton nie jest jednak w&nbsp;żałobie – jego tok myślenia prowadzi do stopniowej akceptacji śmiertelności człowieka jako gatunku i&nbsp;cywilizacji jako tworu, w&nbsp;którego stałości i&nbsp;trwałości niesłusznie pokładamy nadzieję.</p>  </section>  <div class="clearfix"></div><section class="u-typo">   <p>Jak więc, myśląc o&nbsp;lepszym jutrze i&nbsp;szukając sposobów na&nbsp;uciszenie własnego sumienia, pamiętać również o&nbsp;tym, co tu i&nbsp;teraz? Być może droga ku antropocenicznej harmonii wiedzie po&nbsp;prostu innymi gałęziami drzewa ewolucji niż te, po&nbsp;których wspinały się istoty dwunożne. Może należałoby opierać się na&nbsp;przezwyciężaniu antropocentryzmu, będącego przecież jednym ze źródeł problemu. To zdają się sugerować twórcy kolejnych dwóch książek, o&nbsp;których chciałbym wspomnieć – co istotne, są to autorzy wolni od akademickich okowów. Jonathan Franzen nie jest przeciętnym konsumentem środowiska. O&nbsp;jego ptasiarskim hobby czytelnicy usłyszeli, gdy kilka lat temu opublikował w&nbsp;„National Geographic” alarmujący artykuł poświęcony polowaniom na&nbsp;ptaki (szeroko omówił go w&nbsp;<em>Dwunastu srokach za&nbsp;ogon</em> Stanisław Łubieński). Sam Franzen uważa się za&nbsp;skrajny przypadek: głównym motywem jego podróży po&nbsp;świecie jest „zaliczanie” endemicznych gatunków i&nbsp;uzupełnianie prywatnej listy zaobserwowanych ptaków o&nbsp;rzadkie przypadki. Wydany pod&nbsp;koniec ubiegłego roku (od niedawna dostępny również po&nbsp;polsku) eseistyczny zbiór <em>Koniec końca świata</em> nie powinien zatem być zaskoczeniem. Duża część zamieszczonych w&nbsp;nim tekstów do osobiste refleksje humanisty na&nbsp;temat miejsca człowieka pośród innych gatunków. Ptaki są tu pierwszym skojarzeniem, uniwersalną metaforą i&nbsp;kluczem interpretacyjnym. Ptaki przyćmiewają nawet wybór Donalda Trumpa na&nbsp;prezydenta Stanów Zjednoczonych. Ptaki są też symboliczną odpowiedzią Franzena na&nbsp;antropocen, sposobem na&nbsp;przełamanie wyłącznie ludzkiej perspektywy. Namysł nad klimatycznym końcem świata kieruje go na&nbsp;koniec geograficzny. Podczas rejsu na&nbsp;Antarktydę (świadom śladu węglowego, jaki wygeneruje kaprys białego turysty z&nbsp;grubym portfelem) widzi królewskie pingwiny i&nbsp;dochodzi do wniosku, że&nbsp;obserwacja tak doskonałej istoty jest wystarczającym powodem nie tylko do odbycia długiej podróży, ale i&nbsp;do usprawiedliwienia własnej obecności na&nbsp;planecie. Świadomość istnienia pingwinów nadaje życiu Franzena sens, którego nie jest w&nbsp;stanie rozwiać nawet świadomość rychłego kresu. „Nawet w&nbsp;umierającym świecie rodzą się nowe miłości” – konkluduje, nieświadomie dorabiając wywodom Scrantona kłębki nadziei.</p> <p>„Historia życia to długie okresy nudy przeplatane od czasu do czasu paniką” – to już Elizabeth Kolbert i&nbsp;jej nagrodzona Pulitzerem książka <em>Szóste wymieranie</em>, od niedawna dostępna również w&nbsp;polskim tłumaczeniu. Ta panika to wielkie, masowe wymierania, jakich pięć poprzedziło obecność człowieka na&nbsp;Ziemi, a&nbsp;szóste jest skutkiem jego własnych działań. Wszędzie tam, gdzie pojawiał się człowiek, znikały rdzenne gatunki – pisze Kolbert – i&nbsp;choć procesy wymierania są czymś naturalnym, to jednak w&nbsp;XXI wieku przyspieszyliśmy je tysiąckrotnie. Większość znikania ma charakter nieujawniony – odbywa się w&nbsp;dolnych partiach lasu tropikalnego, w&nbsp;głębiach oceanicznych rowów, w&nbsp;rzekach i&nbsp;na niebie, którego tylko mniejsza część znajduje się przecież nad lądami. Ale choć wciąż żyjemy pośród pingwinów królewskich i&nbsp;w ich smukłych sylwetkach jesteśmy w&nbsp;stanie szukać głębszych sensów, prawda ta nie dotyczy już mastodontów, dodo, mamutów, turów czy nosorożców białych z&nbsp;podgatunku północnego (ten ostatni wymarł w&nbsp;minionym roku na&nbsp;oczach siedmiu miliardów dwunogów).</p> <p>„Oczywiście głównie interesuje nas los naszego gatunku – pisze Kolbert. – Ja jednak zaryzykuję bycie posądzoną o&nbsp;to, że&nbsp;nie przejmuję się wystarczająco ludźmi (chociaż niektórzy z&nbsp;moich najlepszych przyjaciół to ludzie!), i&nbsp;powiem, że&nbsp;w&nbsp;sumie nie warto się tym zajmować”. W&nbsp;<em>Szóstym wymieraniu</em> nie ma rozdziału o&nbsp;<em>Homo sapiens</em>, choć chyba każdy czytelnik będzie go szukał. Może właśnie to jest najcelniejsza refleksja, której – z&nbsp;mniejszym lub większym powodzeniem – poszukują również autorzy wcześniej wymienionych książek. Najtrwalszą spuścizną antropocenu będzie brak, za&nbsp;którym nikt nie krzyknie, którego nikt nie zauważy i&nbsp;nikt nie oceni. Dlatego, obserwując spotkanie wilków i&nbsp;niedźwiedzi w&nbsp;bieszczadzkiej kniei, leśniczy Nóżka – i&nbsp;my wszyscy – powinniśmy po&nbsp;prostu zamilknąć. Być może najwłaściwszą postawą w&nbsp;obliczu sytuacji, w&nbsp;której się znaleźliśmy, jest bowiem podziw dla zdolności adaptacyjnych przyrody względem zmieniających się warunków bytowych. Ostatecznie stawianie kropki nad i&nbsp;nie będzie – jak słusznie zauważa Scranton – należało do żadnego człowieka.</p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/22-zobaczyc-antropocen/uswiadomiony-koniec" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

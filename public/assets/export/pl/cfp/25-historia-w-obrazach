@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>#25: Historia w obrazach | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/cfp/25-historia-w-obrazach">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="#25: Historia w obrazach | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="#25: Historia w obrazach | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/cfp/25-historia-w-obrazach">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="#25: Historia w obrazach | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		
+		
+<style>
+	#header,
+	.form-control,
+	.m-presentation--bgc-issue,
+	.selectric,
+	.selectric-items,
+	.u-typo ul li::before {
+		background-color: #715c56 !important;
+	}
+	
+	.form-control,
+	.selectric {
+		border-color: #715c56 !important;
+	}
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	.m-presentation--audio .m-presentation__caption,
+	.m-presentation--audio .m-presentation__caption * {
+    color: #000 !important;
+  }
+	
+	[data-toggle="popover"],
+	.btn-primary,
+	.c-archive-year,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-title a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-search-results-listheader span,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.sl-wrapper .sl-close,
+	.sl-wrapper .sl-image .sl-caption,
+	.sl-wrapper .sl-navigation button,
+	.c-sitenav__search,
+	.c-subnav li.active span, 
+	.c-subnav a:hover span,
+	.c-team__meta a,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p,
+	.m-presentation__caption,
+	.m-presentation__caption * {
+		color: #715c56 !important;
+	}
+	
+	.c-archive-year span,
+	.c-subnav li.active span, 
+	.c-subnav a:hover span {
+		/*
+		background-image:    -moz-linear-gradient(left, #715c56 0%, #715c56 100%) !important;
+		background-image: -webkit-linear-gradient(left, #715c56 0%, #715c56 100%) !important;
+    background-image:     linear-gradient(to right, #715c56 0%, #715c56 100%) !important;
+		*/
+		border-color: #715c56 !important;
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #715c56 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #715c56 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color:  !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color:  !important;
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    color: #fff !important;
+  }
+}
+</style>
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-4 page-id-334 parent-id-288">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="" data-selected-issue-color="" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/cfp/25-history-in-images">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/cfp/25-history-in-images">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/2019/23-sila-kobiet#toc">23</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li>
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last active">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+<section class="m-subnav">
+	<div class="container-fluid">
+		<div class="content-canvas">
+			<div class="c-subnav clearfix">
+				<ul>
+<li>
+	<a href="/pl/cfp/26-empatyczne-obrazy" title="#26: Empatyczne obrazy" ><span>#26: Empatyczne obrazy</span></a>
+</li>
+<li class="last active">
+	<a href="/pl/cfp/25-historia-w-obrazach" title="#25: Historia w obrazach" ><span>#25: Historia w obrazach</span></a>
+</li>
+
+</ul>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div class="container-fluid">
+		<div class="content-canvas content-canvas--small">
+			<div class="content-canvas__inner">
+				<section class="u-typo">
+	<p>redaktorka prowadząca: Iwona Kurz</p>
+<p>termin: 13 września 2019<br><br></p>
+</section>
+<div class="clearfix"></div><section class="u-typo u-typo-media">
+	<figure class="c-article-figure c-article-figure--right">
+		<a class="lightbox-item" data-group="articleImages" href="assets/cache/images/cfp/25-jaskinia-1920x-aa5.jpg"><img sizes="(min-width: 768px) 300px, calc(100vw - 30px)" srcset="assets/cache/images/cfp/25-jaskinia-330x-448.jpg 330w,assets/cache/images/cfp/25-jaskinia-660x-540.jpg 660w,assets/cache/images/cfp/25-jaskinia-768x-4bc.jpg 768w,assets/cache/images/cfp/25-jaskinia-1320x-30a.jpg 1320w" src="assets/cache/images/cfp/25-jaskinia-660x-540.jpg" alt="" ></a>
+		<figcaption><p><span>Cuevas de las Manos (Jaskinia rąk) nad Río Pinturas, w pobliżu miasta Perito Moreno w prowincji Santa Cruz, Argentyna. Fot. Mariano, 2005. Źródło: </span><a href="https://en.wikipedia.org/wiki/File:SantaCruz-CuevaManos-P2210651b.jpg" target="_blank" rel="noopener">Wikipedia</a></p></figcaption>
+	</figure>
+</section><section class="u-typo">
+	<p>Historia jako opowieść o przeszłości rozpięta jest pomiędzy perspektywą ciągłości – „długiego trwania” – a poetyką zerwania, odwołującą się do traumatycznych wydarzeń na nowo definiujących dzieje ludzkości oraz losy jednostek i narodów. Obrazy towarzyszyły jej od początku, ponieważ od początku towarzyszą ludziom – ba, wyprzedzają historię, są prehistoryczne, skoro pojawiły się przed pismem. Ich potencjał historiograficzny został jednak uznany stosunkowo niedawno. Z jednej strony przyczyniły się do tego narodziny fotografii, a potem filmu, których oddziaływanie i znaczenia na dobre i na złe opierają się na aurze dokumentalności. Z drugiej wewnętrzna dynamika dyscyplin zajmujących się obrazami – od historii sztuki po filmoznawstwo – które zaczęły przenosić akcent z historii form, gatunków, twórców i stylów na praktyki twórcze i odbiorcze, na instytucje i ich związki z szerszym kontekstem ekonomiczno-społecznym, a przede wszystkim na obraz rzeczywistości, jaki może wyłaniać się z przedstawień. To przejście od historii obrazów do historii kultury było założycielskie dla badań kultury wizualnej, a sama historia stała się w jego efekcie także historią służących jej mediów.</p>
+<p>Myślenie o obrazach przeszłości w innej optyce niż ich funkcja czysto ilustracyjna przyniosło istotne zmiany również w myśleniu o historii: wzmocniło zainteresowanie codziennością; pozwoliło odsłonić to, co niewidoczne w zwykłej percepcji, nieuświadomione (Walter Benjamin); otworzyło na nowe modele opowiadania historii, niekoniecznie linearne, raczej konfiguratywne (Aby Warburg); a także przyczyniło się do wytworzenia wizualnych metafor ujmujących porządki polityczne jako porządki władzy wzroku (Michel Foucault, Nicholas Mirzoeff).</p>
+<p>Obrazy w funkcji źródłowej czy dokumentalnej prowokują też jednak liczne pytania i stawiają badaczy przed wieloma wyzwaniami. Problemy historiofotii (Hayden White), czyli opowiadania dziejów za pomocą obrazów, analogicznie do historiografii, stale są przedmiotem krytycznego namysłu wynikającego z wiedzy, że historia jest formą pasożytowania na przeszłości na użytek dnia dzisiejszego (co zauważali już klasycy jak Jacob Burckhardt i Johannes Huizinga). Georges Didi-Huberman w eseju<span> </span><em>Obrazy mimo wszystko<span> </span></em>(2003) najsilniej bodaj w ostatnich latach narzucił zdecydowaną postawę metodologiczną opartą, przeciwnie, na powrocie do momentu wytworzenia obrazu – oraz na pracy wyobraźni wynikającej z etyki empatii. Postawa ta jednak aktualizuje się za każdym razem na nowo w konkretnych badaniach i na nowo każe mierzyć się z pytaniami o to, jak badać historię ukrytą w obrazach i jak jest ona w nich zakodowana. Modelem dla tego namysłu może być samo malarstwo jaskiniowe, niewątpliwie będące świadectwem praktyk naszych przodków – co jednak znaczą te obrazy, jaką funkcję społeczną pełniły, jakie emocje pobudzały i na jakie potrzeby odpowiadały, czy rejestrowały codzienne trwanie, czy raczej wydarzenia niezwykłe, kryje się w nich ciągłość czy zerwanie, co możemy z nich wyczytać, nie znając ani ich podpisu, ani kontekstu użycia (Ernst Gombrich)?</p>
+<p>Chcielibyśmy poszukać odpowiedzi na te pytania. Zapraszamy do nadsyłania artykułów, które podejmą kwestię tego, jak badać obrazy – płótna, rzeźby, rysunki, malunki, fotografie, filmy, ale też mapy i wykresy z przeszłości – jako źródła i świadectwa historii. Zachęcamy do relacji z własnego warsztatu badawczego, do refleksji metodologicznej lub studiów przypadku skupionych na problemach metodologicznych.<br><br></p>
+<p>Wytyczne redakcyjne dla autorów:<span> </span><a href="http://pismowidok.org/index.php/one/about/submissions" target="_blank" rel="noopener">http://pismowidok.org/index.php/one/about/submissions</a></p>
+<p>Na zgłoszenia artykułów, wraz z abstraktem i biogramem autorów po polsku i angielsku, czekamy do<span> </span><span><b>13 września 2019</b></span>.</p>
+<p>Prosimy o ich przesyłanie na adres mailowy redakcji: redakcja@pismowidok.org.</p>
+</section>
+<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+</body>
+</html>

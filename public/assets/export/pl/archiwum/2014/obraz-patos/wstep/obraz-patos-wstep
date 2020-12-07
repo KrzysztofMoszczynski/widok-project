@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Obraz-patos | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/obraz-patos/obraz-patos-wstep">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Obraz-patos | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Obraz-patos | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/obraz-patos/obraz-patos-wstep">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Obraz-patos | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #ff2400 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #ff2400 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #ff2400 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #ff2400 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #ff2400 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #ff2400 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #ff2400 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #ff2400 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(255,36,0,0.8) !important; */
+			/* background-color:#ff2400 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(255,36,0,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#ff2400 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(255,36,0,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#ff2400; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(255,36,0,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(255,36,0,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#ff2400 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#ff2400 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#ff2400 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1112 parent-id-1107">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="425" data-selected-issue-color="#ff2400" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/pathos-image/pathos-image">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/pathos-image/pathos-image">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/obraz-patos#toc">6</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/obraz-patos/obraz-patos-wstep?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Obraz-patos</span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/obraz-patos/obraz-patos-wstep?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autorzy: 
+		<a href="/pl/bio?id=363"></a>
+	</p>
+	
+	
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p></p> <p>Jeszcze całkiem niedawno wydawało się, że&nbsp;żyjemy w&nbsp;świecie, w&nbsp;którym każdy nadmierny wybuch emocji i&nbsp;każda podniosła retoryka zasługują jedynie na&nbsp;wzruszenie ramion albo krzywy uśmiech liberalnych ironistek. Słowo „patos” i&nbsp;jego angielski odpowiednik <em>pathetic</em>, oznaczający przede wszystkim „coś żałosnego, żenującego”, odsyłają dziś najczęściej do pejoratywnie kojarzonych rejestrów przerysowania i&nbsp;sztucznej podniosłości. Jak wskazywał Fredric Jameson, pojawienie się postmodernizmu oznaczało między innymi wielką „ulgę”, wyzwalającą „nową produktywność, która u&nbsp;schyłku epoki modernizmu była jakby zamrożona, zduszona jak napięte mięśnie”. Ta cielesna metafora wskazuje, że&nbsp;postmodernistyczne spektrum emocjonalne zakłada pewne fundamentalne rozluźnienie, wymaga go nawet, eliminując ze swojego pola widzenia wszelki patos jako stan zbyt mało elastyczny, zbyt przywiązany do wielkich spraw, narracji czy afektów.</p> <p>Ta cenzura patosu znajduje swój zaskakujący odpowiednik w&nbsp;wielu modelach myślenia krytycznego, próbującego ratować powagę swojej misji poprzez eliminację wszystkiego, co może wciągać ludzką podmiotowość w&nbsp;świat iluzji utożsamianej z&nbsp;ideologią. Ponawiany gest Brechtowskiego efektu obcości eliminuje w&nbsp;pierwszej kolejności to, co niekrytyczne, emocjonalne, zaangażowane, czyli niezdolne do budowania dystansu wobec zwodniczych tropów kultury współczesnej. Pozostając jednak w&nbsp;oczyszczonej z&nbsp;afektu sferze czystej refleksji, myśl krytyczna odbiera sobie prawo do wpływania na&nbsp;rzeczywistość i&nbsp;do aktywnego wytwarzania jej obrazów. W&nbsp;efekcie wydaje się cokolwiek bezradna wobec coraz częstszych – i&nbsp;coraz bardziej niepokojących – powrotów wypartego patosu, który dziś najczęściej wiąże się z&nbsp;bardzo tradycyjnymi figurami i&nbsp;tożsamościami: narodowymi, klasowymi, rasowymi i&nbsp;religijnymi.</p> <p>W szóstym numerze „Widoku” zastanawiamy się nad tym, jakie języki patetycznej ekspresji skrywa w&nbsp;sobie historia ubiegłego wieku i&nbsp;które z&nbsp;nich mogą być wciąż użyteczne w&nbsp;dzisiejszej sytuacji. Pytanie to ma podstawowy charakter, jeśli chcemy przekroczyć dialektykę wyparcia (postmodernistycznego albo krytycznego) patosu i&nbsp;jego powrotu w&nbsp;najbardziej regresywnych kształtach. Główną postacią w&nbsp;tego rodzaju refleksji okazuje się Aby Warburg, którego analizy wędrujących w&nbsp;czasie i&nbsp;przestrzeni, zapisanych w&nbsp;obrazach „formuł patosu” pozostają dziś jedną z&nbsp;najbardziej intrygujących metod badania kultury wizualnej. Pokazują bowiem, że&nbsp;w&nbsp;obrazie zawsze zawarty jest jednocześnie ładunek skrajnej emocji oraz dystans albo ograniczenie wymagane przez jego formę. Komunikowanie tych reprezentacji patosu samo musi być naznaczone pewnego rodzaju intensywnością, która wykracza zarówno poza stabilne tożsamości, jak i&nbsp;poza ironiczny dystans czy krytyczną ascezę.</p> <p>Dlatego w&nbsp;<b>Zbliżeniu</b> niemal każdy artykuł w&nbsp;mniej lub bardziej jawny sposób nawiązuje do dziedzictwa niemieckiego historyka sztuki. Georges Didi-Huberman – od lat interpretujący na&nbsp;nowo i&nbsp;twórczo przetwarzający metodę Warburga – zwraca uwagę na&nbsp;związki między patosem a&nbsp;historią, a&nbsp;także na&nbsp;te nurty współczesnej historiografii, które starają się dostrzegać wartość emocji w&nbsp;tworzeniu wiedzy o&nbsp;przeszłości. Sylvia Sasse natomiast porównuje teorię formuł patosu Warburga z&nbsp;teoretycznymi rozważaniami Siergieja Eisensteina na&nbsp;temat patosu filmowej kompozycji. Reżyser <em>Pancernika Potiomkina</em> jest także głównym bohaterem eseju Eleny Vogman, która zestawia jego dokonania ze współczesnymi mu eksperymentami próbującymi łączyć ekspresję ludzkiego ciała z&nbsp;ekspresją maszyny. Agata Pietrasik z&nbsp;kolei zastanawia się nad związkami metodologii Warburga z&nbsp;twórczością Richarda Semona, niemieckiego biologa i&nbsp;twórcy teorii mnemów. Trudno opisać losy patetycznej ekspresji w&nbsp;XX wieku, nie odnosząc się do czegoś, co Eisenstein nazywał „antypatosem”, a&nbsp;więc do gatunków niepoważnych, które jednak zdają się zawierać w&nbsp;sobie i&nbsp;przetwarzać formuły obecne wcześniej w&nbsp;obszarach pełnych wzniosłości. Isabel de Sena Cortabitarte pokazuje, jak ciekawe może być zestawienie analiz Warburga z&nbsp;wczesnymi filmami Walta Disneya, których bohaterami była Myszka Miki. Paweł Mościcki natomiast odsłania sposób, w&nbsp;jaki patos i&nbsp;komedia przenikają się ze sobą w&nbsp;twórczości Charlesa Chaplina.</p> <p>W numerze pojawiają się także odniesienia do najbardziej współczesnych problemów związanych z&nbsp;ekspresją skrajnych emocji. Agata Sierbińska analizuje w&nbsp;swoim tekście polityczne konotacje obrazów „tłumu smoleńskiego”, Paweł Mościcki zaś interpretuje w&nbsp;<b>Punkcie widokowym</b> zdjęcia Mathieu Pernota przedstawiające sceny z&nbsp;okolic współczesnych więzień, skupiając się na&nbsp;relacji między ciałem a&nbsp;kadrem.</p> <p>Dwa artykuły, które prezentujemy w&nbsp;<b>Panoramie</b>, również nawiązują do tematu afektów i&nbsp;ich reprezentacji, ale ich perspektywa wydaje się inna od metodologii Warburga. Grzegorz Niziołek bada sprzeczne uczucia, jakie może wywoływać i&nbsp;komunikować „zły” spektakl teatralny na&nbsp;przykładzie recenzji Adolfa Rudnickiego, poświęconej <em>Play Strindberg </em>Dürrenmatta w&nbsp;reżyserii Andrzeja Wajdy z&nbsp;1970 roku. Iga Gańczarczyk natomiast stara się pokazać, jak w&nbsp;twórczości Anny Baumgart wymiar osobistej opowieści i&nbsp;emocjonalny przekaz przenikają się z&nbsp;problemami historycznymi i&nbsp;politycznymi.</p> <p>Numer uzupełniają trzy recenzje zamieszczone w&nbsp;dziale <b>Migawki</b>, które dotyczą kwestii kulturowych znaczeń rzeczy (recenzja kilku książek o&nbsp;tej tematyce pióra Agaty Zborowskiej), pamięci i&nbsp;jej zniekształceń (na podstawie książki Eriki Lehrer <em>Na szczęście to Żyd</em> recenzowanej przez Romę Sendykę) oraz stanu współczesnych polskich tekstów pisanych dla teatru (tekst Kathleen Cioffi o&nbsp;anglojęzycznej antologii polskiego dramatu).</p> <h2>Zespół redakcyjny</h2> <p><br><br></p> <p><b> Numer powstał w&nbsp;wyniku prac w&nbsp;projekcie „Zwrot afektywny po&nbsp;1989 roku. Strategie i&nbsp;style reprezentacji w&nbsp;interdyscyplinarnej perspektywie badawczej” finansowanym ze środków Narodowego Centrum Nauki (DEC-2011/03/B/HS2/05729). </b></p> <p><b> Dofinansowano ze środków Rektora Uniwersytetu Warszawskiego i&nbsp;Dziekana Wydziału Polonistyki UW oraz <a href="http://chc.ibl.waw.pl/pl/" target="_blank" rel="noopener">Centrum Humanistyki Cyfrowej Instytutu Badań Literackich Polskiej Akademii Nauk</a>.</b></p>  </section>  <div class="clearfix"></div>
+
+				
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/obraz-patos/obraz-patos-wstep" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

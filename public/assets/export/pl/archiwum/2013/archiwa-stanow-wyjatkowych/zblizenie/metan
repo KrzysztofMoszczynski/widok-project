@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+	<head>
+		<base href="http://www.pismowidok.org/">
+
+		<meta charset="utf-8">
+		
+		<title>Metan | Widok. Teorie i Praktyki Kultury Wizualnej</title>
+
+		<meta name="description" content="">
+		<meta name="subject" content="company">
+		<meta name="copyright" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="author" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="robots" content="index,follow">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="http://www.pismowidok.org/pl/archiwum/archiwa-stanow-wyjatkowych/metan">
+		<link rel="alternate" href="http://www.pismowidok.org/" hreflang="pl">
+		<link rel="alternate" href="http://www.pismowidok.org/en" hreflang="en">
+
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Metan | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="description" content="">
+		<meta itemprop="image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" value="summary">
+		<meta name="twitter:title" content="Metan | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:description" content="">
+		<meta name="twitter:image:src" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+
+		<!-- Open Graph -->
+		<meta property="og:url" content="http://www.pismowidok.org/pl/archiwum/archiwa-stanow-wyjatkowych/metan">
+		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Metan | Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="http://www.pismowidok.org/og-image-1200x630.jpg">
+		<meta property="og:image:type" content="image/jpeg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+		<link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="apple-mobile-web-app-title" content="Widok">
+		<meta name="application-name" content="Widok">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+		
+		
+		<style>
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
+    background-color: #25aa93 !important;
+  }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
+	[data-toggle="popover"],
+	.c-archive-year,
+	.c-article-audio__caption, 
+	.c-article-audio__caption *, 
+	.c-article-slides__caption, 
+	.c-article-slides__caption *,
+	.c-article-title a,
+	.c-article-video__caption, 
+	.c-article-video__caption *,
+	.c-article-meta__author,
+	.c-article-meta__author a,
+	.c-article-video__caption,
+	.c-article-video__caption *,
+	.c-issue-toc__section-title,
+	.c-issue-toc__article:before,
+	.c-issue-toc__article-authors,
+	.c-issue-toc__article--has-translation .c-issue-toc__article-authors a,
+	.c-issue-toc__article-collapse-inner a,
+	.u-typo figcaption,
+	.u-typo figcaption *,
+	.u-typo a,
+	.u-typo a:hover,
+	.u-typo h3,
+	.u-typo h4,
+	.c-footnotes__item,
+	.c-sitenav__search,
+	.m-presentation--image-text .u-typo,
+	.m-presentation--full-image figcaption,
+  .sl-wrapper .sl-close,
+  .sl-wrapper .sl-image .sl-caption,
+  .sl-wrapper .sl-navigation button,
+	.m-article .u-typo h2,
+	.m-bibliography__content,
+	.m-footnotes p {
+		color: #25aa93 !important;
+	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #25aa93 !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #25aa93 !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #25aa93 !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #25aa93 !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #25aa93 !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #25aa93 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(37,170,147,0.8) !important; */
+			/* background-color:#25aa93 !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(37,170,147,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#25aa93 !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(37,170,147,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#25aa93; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(37,170,147,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(37,170,147,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#25aa93 !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#25aa93 !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#25aa93 !important;
+	}
+	
+</style>
+		
+		
+		<style>
+			.m-article .u-typo p {
+				/*rag-adjust: small-words;*/
+				/*widow-adjust: non-breaking-space;*/
+			}
+		</style>
+		
+		
+		
+		<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.b9b71c98354a6200184d.css" />
+</head>
+	<body class="context-pl tpl-17 page-id-1266 parent-id-1216">
+		
+    
+    <div id="preloader" aria-hidden="true"></div>
+		<span id="js-selected-issue" data-selected-issue-id="421" data-selected-issue-color="#25aa93" aria-hidden="true"></span>
+
+		<header id="header">
+     
+      <div class="c-navbar">
+        <a class="c-sitelogo" href="http://www.pismowidok.org/">
+          <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
+          <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
+        </a>
+        <div class="c-headertools">
+          <ul>
+            <li class="c-headertools__lang">
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/3-archiving-states-of-exception#toc">EN</a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="en/archive/3-archiving-states-of-exception/methane">EN</a> -->
+            </li>
+            <li class="c-headertools__nav">
+              <button type="button" class="c-headertools__nav-button js-toggle-nav">
+                <span></span>
+              </button>
+            </li>
+            <li class="c-headertools__search">
+              <a href="pl/szukaj">
+                <svg class="c-headertools__search-icon" version="1.0"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                     x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                     overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                  <defs>
+                  </defs>
+                  <g>
+                    <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                    <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                  </g>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="c-headerissue">
+          <span class="c-headerissue__title">Nr</span>
+					<a class="c-headerissue__number" href="/pl/archiwum/archiwa-stanow-wyjatkowych#toc">3</a>
+        </div>
+      </div>
+      
+      <nav class="c-sitenav">
+        <div class="c-sitenav__main">
+          <ul>
+            <li class="c-sitenav__search">
+              <svg version="1.0"
+                   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                   x="0px" y="0px" width="28px" height="28px" viewBox="-0.399 -0.399 28 28"
+                   overflow="visible" enable-background="new -0.399 -0.399 28 28" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <circle fill="none" stroke="#000000" stroke-width="2" cx="12" cy="12" r="11"/>
+                  <line fill="none" stroke="#000000" stroke-width="2" x1="20.467" y1="20.467" x2="26.496" y2="26.495"/>
+                </g>
+              </svg>
+              <a href="pl/szukaj">Wyszukaj</a>
+            </li>
+            <li>
+	<a href="/pl/o-nas" title="O nas" ><span>O nas</span></a>
+</li>
+<li>
+	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
+</li>
+<li class="active">
+	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
+</li>
+<li class="last">
+	<a href="/pl/cfp" title="CFP" ><span>CFP</span></a>
+</li>
+
+          </ul>
+        </div>
+      </nav>
+      
+    </header>
+    
+    <main id="main">
+			
+
+
+
+	<a class="c-download c-download--article-desktop" target="_blank" href="pl/archiwum/archiwa-stanow-wyjatkowych/metan?getPdf=1"></a>
+	
+
+<div class="container-fluid">
+	<div class="content-canvas content-canvas--small">
+		<div class="content-canvas__inner">
+			<article class="m-article">
+
+				<header class="m-article__header">
+					<h1 class="c-article-title c-article-title--has-download">
+						<span>Metan<SUP><A NAME="sdfootnote1anc" HREF="#sdfootnote1sym"><SUP>1</SUP></span>
+						
+						
+						<a class="c-download c-download--article-mobile" target="_blank" href="pl/archiwum/archiwa-stanow-wyjatkowych/metan?getPdf=1"></a>
+						
+						
+					</h1>
+					<div class="c-article-meta">
+	
+	
+	<p class="c-article-meta__author">
+		Autor: 
+		<a href="/pl/bio?id=479">Georges Didi-Huberman </a>
+	</p>
+	
+	
+	
+	<p class="c-article-meta__author">
+		Przełożył: 
+		
+		Paweł Mościcki
+		
+	</p>
+	
+	
+</div>
+				</header>
+
+				<section class="u-typo">   <p></p> <p>Trudno jest wyczuć metan. To gaz bezzapachowy i&nbsp;bezbarwny. Jak zatem można wyczuć go lub zobaczyć mimo wszystko? Innymi słowy – jak <span class="rozstrzelony">zobaczyć nadejście katastrofy</span>? Jakie byłyby zmysłowe organy takiego widzenia-nadchodzenia, takiego spojrzenia-czasu? Bezmierne okrucieństwo katastrof polega na&nbsp;tym, że&nbsp;najczęściej stają się one widzialne zbyt późno, dopiero po&nbsp;tym, gdy już się wydarzyły. Katastrofy najlepiej widoczne – najbardziej oczywiste, najlepiej zbadane, najbardziej jednomyślnie uznane – do których odwołujemy się spontanicznie, chcąc wskazać, czym <span class="rozstrzelony">jes</span>t katastrofa, są katastrofami, które już <span class="rozstrzelony">był</span>y, katastrofami z&nbsp;przeszłości, których nadejścia inni, przed nami, nie chcieli albo nie potrafili zobaczyć, którym nie potrafili zapobiec. Rozpoznajemy je tym łatwiej, że&nbsp;nie jesteśmy – albo już nie jesteśmy – za&nbsp;nie odpowiedzialni.</p> <p>Katastrofa rzadko zapowiada się jako taka. Łatwo jest powiedzieć, w&nbsp;czasie przeszłym, „to była katastrofa”, gdy wszystko się już rozpadło, gdy wielu straciło już życie. Równie łatwo jest powiedzieć, w&nbsp;czasie przyszłym, „to będzie katastrofa” o&nbsp;wszystkim i&nbsp;czymkolwiek, skoro wszystko, co oczywiste, zniknie pewnego dnia w&nbsp;wyniku powolnego lub nagłego rozpadu. Znacznie trudniej jest powiedzieć „to, co teraz nadchodzi jest katastrofą”, oto coś, co nadchodzi w&nbsp;konfiguracji, której nie podejrzewaliśmy o&nbsp;taką kruchość, taką podatność na&nbsp;ogień historii. Zobaczyć katastrofę, to zobaczyć ją nadchodzącą w&nbsp;jej zamaskowanej pojedynczości, w&nbsp;tym szczególnym „milczącym pęknięciu” – jak Pierre Zaoui rozwinął motyw ważny dla Gilles’a Deleuze’a<sup><a href="#sdfootnote2sym" name="sdfootnote2anc">2</a></sup> – które niepostrzeżenie spowodowała. I&nbsp;gdy wszystko płonie, gdy katastrofa osiąga swoje apogeum i&nbsp;nic nie może jej już zatrzymać, tym, którzy doświadczają jej w&nbsp;pełni, ale chcą jeszcze, pogrążeni w&nbsp;swym cierpieniu, zobaczyć swoją nadchodzącą śmierć, pozostaje jedynie energia odwołania się do świadectwa, do archiwum, do dokumentacji, które utworzą przyszłą historię katastrofy: „Zwracamy się więc do naszego narodu, porwanego obecnie i&nbsp;na zawsze przez ogólny wir, do wszystkich członków naszego narodu, mężczyzn i&nbsp;kobiet, młodych i&nbsp;starych, którzy żyją i&nbsp;cierpią, widzą i&nbsp;słyszą, aby zawołać do nich: Stańcie się historykami! (...) Nagrywajcie, notujcie, zbierajcie dokumenty!”<sup><a href="#sdfootnote3sym" name="sdfootnote3anc">3</a></sup>.</p> <h2 style="text-align: center;">***</h2> <p>Możemy oczekiwać od myśli, historii i&nbsp;być może działalności artystycznej, że&nbsp;wyczulą nas one na&nbsp;nadchodzące katastrofy. To jeden z&nbsp;wielu nakazów kierowanych do nas przez <span class="rozstrzelony">wizję histori</span>i – mam na&nbsp;myśli właśnie <span class="rozstrzelony">wizj</span>ę – bliską Walterowi Benjaminowi, szczególnie wówczas, gdy pisał, że&nbsp;każdy powinien myśleć o&nbsp;historii tak, jakby działała ona niczym „sygnalizator pożarowy” [<em>Feuermelder</em>]: „Zanim iskra dotrze do dynamitu, trzeba przeciąć płonący lont”. To Benjamin twierdził, że&nbsp;nie ma myślenia – ani działania – politycznego bez sprzężonego zmysłu, zmysłowości ujętej, jak pisze, w&nbsp;„techniczną” formę, trzech czynników, którymi są „niebezpieczeństwo” [<em>Gefahr</em>], „interwencja” [<em>Eingriff</em>], a&nbsp;także (pisze bez żadnego wyjaśnienia, choć jego intuicja nie jest przez to mniej uzasadniona) „tempo” [<em>Tempo</em>] albo rytm<sup><a href="#sdfootnote4sym" name="sdfootnote4anc">4</a></sup>.</p> <p>Benjamin w&nbsp;1940 roku – a&nbsp;więc dla niego w&nbsp;momencie niebezpieczeństwa <em>par excellence</em> – powtarza, że&nbsp;zadaniem historyka nie jest <span class="rozstrzelony">powracani</span>e do przeszłości, <span class="rozstrzelony">trzymanie si</span>ę w&nbsp;stosunku do niej mniej lub bardziej spokojnie prostej referencji bądź <span class="rozstrzelony">rewerencj</span>i, lecz <span class="rozstrzelony">wspominanie je</span>j w&nbsp;jej mocy <span class="rozstrzelony">nagłego nawiedzani</span>a<em></em> aktualnej teraźniejszości, która jest teraźniejszością fundamentalnego niebezpieczeństwa, czyli katastroficznej konfiguracji: „Historyczna artykulacja przeszłości nie oznacza ustalenia »jak to było naprawdę«. Oznacza ona raczej zawładnięcie pewnym wspomnieniem, które rozbłyskuje w&nbsp;chwili niebezpieczeństwa. (...) Chodzi o&nbsp;to, by uchwycić obraz przeszłości w&nbsp;postaci, w&nbsp;jakiej niespodzianie zjawia się on w&nbsp;chwili niebezpieczeństwa”<sup><a href="#sdfootnote5sym" name="sdfootnote5anc">5</a></sup>. Czym innym jest zatem <span class="rozstrzelony">upamiętnieni</span>e minionej katastrofy w&nbsp;opartych na&nbsp;konsensie uroczystościach czczących „miejsca pamięci”, a&nbsp;czym innym <span class="rozstrzelony">pamiętani</span>e minionej katastrofy, które rozświetla aktualną sytuację, ukazując zbliżające się pożary.</p> <h2 style="text-align: center;">***</h2> <p>Dlaczego tak trudno odpowiedzieć na&nbsp;to wyzwanie? Dlaczego tak trudno jest <span class="rozstrzelony">zobaczyć nadejści</span>e, a&nbsp;nawet <span class="rozstrzelony">po prostu zobaczy</span>ć ruch niebezpieczeństwa, tlącą się katastrofę, tężejący gaz? Chciałbym sformułować jedną z&nbsp;wielu możliwych hipotez (co oczywiste, nie rości sobie ona prawa do powołania jakiegoś uniwersalnego prawa historii): katastrofa pozostaje <span class="rozstrzelony">niewidzian</span>a, nie „ukazuje się w&nbsp;swym nadejściu”, w&nbsp;tej mierze, w&nbsp;jakiej skrywa się za&nbsp;inną, równoczesną i&nbsp;bardziej <span class="rozstrzelony">wyraźn</span>ą<em></em> katastrofą, która w&nbsp;tym momencie historii zajmuje całe pole widzenia.</p> <p>Z pewnością przydatne jest tutaj odwołanie do innego fragmentu Benjaminowskiej lekcji: wszystko to, co autor tez z&nbsp;1940 roku mógł nazwać „czytelnością” [<em>Lesbarkeit</em>] historii, a&nbsp;co idzie w&nbsp;parze z&nbsp;jej warunkami „widzialności” [<em>Sichtbarkeit</em>], podobnie jak z&nbsp;jej epistemicznym statusem „poznawalności” albo „rozpoznawalności” [<em>Erkennbarkeit</em>], pojawia się jedynie w&nbsp;rozbłyskach, eksplozjach, podwójnych wybuchach, owych montażach czasu, które zwykł nazywać „obrazami dialektycznymi”. „Każdą teraźniejszość określają obrazy z&nbsp;nią równoczesne, każde »teraz« to »teraz« pewnej określonej poznawalności. W&nbsp;tym »teraz« prawda po&nbsp;brzegi wypełniona jest czasem, tak że&nbsp;wręcz pęka”<sup><a href="#sdfootnote6sym" name="sdfootnote6anc">6</a></sup> – tak jakby w&nbsp;korytarzach kopalnianych prawdy historycznej sam czas był gazem metanowym, którego katastrofalną moc należy za&nbsp;każdym razem <span class="rozstrzelony">wyczu</span>ć<em>, </em>widzieć albo przewidzieć, rozpoznać albo antycypować.</p> <p>A zatem hipoteza: jeśli katastrofa nie zostaje rozpoznana, to dlatego, że&nbsp;nie jest widziana; jeśli nie jest widziana, to dlatego, że&nbsp;nie jest czytelna. I&nbsp;nie będzie czytelna tak długo, jak długo będzie podtekstem, tłem, palimpsestem albo przypisem katastrofy bardziej spektakularnej, powszechnie rozpoznawanej, widzianej, czytelnej. W&nbsp;ten sposób ludobójstwo Ormian mogło zostać pogrzebane przez perypetie tureckich oddziałów w&nbsp;trakcie pierwszej wojny światowej; eksterminacja Żydów europejskich, choć wcześnie udokumentowana, nie stała się „rozpoznawalna” albo „czytelna” wśród strategicznych posunięć – alianci przeciw państwom Osi, ale także alianci zachodni przeciw aliantom wschodnim – drugiej wojny światowej; ludobójstwo w&nbsp;Rwandzie zostało przysłonięte przez to, co wydawało się prostym konfliktem o&nbsp;władzę; ludobójstwo Hmong w&nbsp;Laosie, wciąż trwające, jest całkowicie zatarte przez historyczny osąd politycznych i&nbsp;militarnych klęsk, jakie w&nbsp;tym regionie świata poniósł najpierw francuski kolonializm, a&nbsp;później amerykański imperializm.</p> <p>Wojna jest czymś strasznym, ale dobrze się o&nbsp;niej opowiada: łatwo zajmuje więc całe pole języka, a&nbsp;zatem całą naszą zdolność do tego, by „widzieć, co się dzieje” (już od starożytności zarezerwowany jest dla niej osobny gatunek literacki zwany eposem). Katastrofa natomiast – ponieważ nikt nie chce w&nbsp;nią wierzyć i&nbsp;wydaje się ona „niewyobrażalna” – odbiera nam głos. Również dlatego nie jesteśmy jej w&nbsp;stanie zobaczyć (jej nieuchwytny proces jest w&nbsp;dodatku trudniejszy do ujęcia w&nbsp;opowieści). Najważniejsze jest tutaj rozpoznanie, że&nbsp;nigdy nie ma <span class="rozstrzelony">jednej katastrof</span>y: w&nbsp;każdym momencie katastroficznym istniałoby więc połączenie, ukryty konflikt albo superpozycja co najmniej <span class="rozstrzelony">dwóch katastro</span>f. Podobnie jak w&nbsp;każdym niebezpieczeństwie połączenie co najmniej dwóch zagrożeń, w&nbsp;każdej interwencji politycznej co najmniej dwóch stawek, w&nbsp;każdym rytmie co najmniej dwóch rodzajów tempa, w&nbsp;każdym symptomie co najmniej dwóch nieszczęść, w&nbsp;każdym zdaniu co najmniej dwóch słów, w&nbsp;każdym obrazie zaś co najmniej dwóch widzialności.</p> <h2 style="text-align: center;">***</h2> <p>Gaz metanowy jest gazem bezbarwnym i&nbsp;bezzapachowym. Składa się głównie z&nbsp;metanu, ale również w&nbsp;mniejszej ilości z&nbsp;etanu, wodoru, diazotu i&nbsp;dwutlenku węgla. Sam w&nbsp;sobie nie jest toksyczny. Zabił jednak tysiące górników w&nbsp;przypadkowych eksplozjach – niemal zawsze nazywanych <span class="rozstrzelony">katastrofam</span>i – wynikających z&nbsp;jego niezwykłej łatwopalności. Oto dlaczego w&nbsp;lampach górniczych płomień jest osłonięty: powietrze dostaje się do niej przez specjalne sito, które utrzymuje spalanie, a&nbsp;specjalna „aureola” sygnalizuje, że&nbsp;stężenie metanu w&nbsp;powietrzu szybu górniczego staje się nadmierne i&nbsp;niebezpieczne. Zanim pojawiły się katalityczne detektory metanu – udoskonalone w&nbsp;latach 50. i&nbsp;używane w&nbsp;Europie aż&nbsp;do upadku kopalni węglowych około roku 2000 – wykorzystywano zamknięte w&nbsp;klatce pisklęta, których pióra miały puchnąć pod&nbsp;wpływem niebezpiecznego gazu.</p> <p>W słowniku górniczym z&nbsp;XIX wieku <span class="rozstrzelony">ciężkim powietrze</span>m<em></em> nazywano sposób, w&nbsp;jaki gardło i&nbsp;płuca zdają się <span class="rozstrzelony">wyczuwać ga</span>z w&nbsp;rezultacie fizycznego wrażenia duszności i&nbsp;jednocześnie intuicji psychicznej, że&nbsp;<span class="rozstrzelony">zobaczyło się nadejści</span>e niebezpieczeństwa wybuchu. „W miarę jak mijały godziny, powietrze zatruwane poceniem lamp, wyziewami ciał ludzkich i&nbsp;gazem kładło się na&nbsp;oczach coraz gęściejszą pajęczyną, którą dopiero wentylacja miała usunąć. Ukryci w&nbsp;głębi swych kretowisk, przytłoczeni ciężarem ziemi, pozbawieni tchu, rębacze kuli bez przestanu”<sup><a href="#sdfootnote7sym" name="sdfootnote7anc">7</a></sup>.</p> <h2 style="text-align: center;">***</h2> <p>Zauważam, że&nbsp;wśród 261 rekordów odpowiadających słowu „gaz metanowy” [<em>grisou</em>] w&nbsp;katalogu Biblioteki Narodowej, poza kilkoma encyklopedycznymi podsumowaniami<sup><a href="#sdfootnote8sym" name="sdfootnote8anc">8</a></sup>, przeważają publikacje techniczne wydane przez École des Mines de Saint-Étienne [Akademia Górnicza w&nbsp;Saint-Etienne] oraz Commission permanente des recherches scientifiques sur le grisou [Stała Komisja Badań Naukowych nad Gazem Metanowym]. Ich zadaniem, w&nbsp;XIX, a&nbsp;później w&nbsp;XX wieku, było stworzenie symptomatologii wypadków, metod przemysłowego zarządzania ryzykiem, a&nbsp;nawet terapii szkód wywołanych przez wybuchy<sup><a href="#sdfootnote9sym" name="sdfootnote9anc">9</a></sup>. Można znaleźć tutaj również powieści, nowele, sztuki teatralne (jedną z&nbsp;nich napisali Pierre Brasseur i&nbsp;Marcel Dalio), filmy (poczynając od słynnego <em>Schlagende Wetter</em> Karla Grünego z&nbsp;1923 roku czy <em>Braterstwa </em>Georga Wilhelma Pabsta z&nbsp;1931 roku) i&nbsp;liczne piosenki (z których jedną, <em>Grisou trompeur</em>, napisał górnik Henri Candelle, inną zaś, znacznie bardziej znaną, śpiewała Edith Piaf).</p> <p>Podczas lektury długiej listy najważniejszych wybuchów gazu metanowego w&nbsp;historii uderza mnie powtarzalność i&nbsp;ogrom hekatomb w&nbsp;dziedzinie, która, koniec końców, nie ma związków z&nbsp;wojną ani masakrą, a&nbsp;jedynie z&nbsp;tym, co nazywa się wypadkami przy pracy. W&nbsp;marcu 2005 roku Société de l’Industrie minérale, dla uczczenia katastrofy w&nbsp;Courrières – której ofiarą 10 marca 1906 roku padło 1099 osób – wyliczyło, że&nbsp;w&nbsp;wyniku różnych wybuchów gazu metanowego zginęło 42 614 górników, z&nbsp;czego 6000 w&nbsp;Chinach w&nbsp;samym 2004 roku.</p> <p>Uderza mnie jednocześnie powtarzalność wypadków w&nbsp;zagłębiu węglowym w&nbsp;Saint-Étienne: kopalnia Sainte-Barbe w&nbsp;Rive-de-Gier w&nbsp;marcu 1829 roku (23 zabitych); kopalnia Clapier w&nbsp;1839 roku (liczba zabitych nieznana); kopalnia l’Île d‘Elbe w&nbsp;lipcu 1840 roku (31 zabitych); kopalnia Saint-Charles w&nbsp;Firminy w&nbsp;październiku 1842 roku (15 zabitych); kopalnia Égarande w&nbsp;Rive-de-Gier w&nbsp;listopadzie 1842 roku (10 zabitych); kopalnia Méons w&nbsp;styczniu 1847 roku (7 zabitych); kopalnia Fraisse w&nbsp;Unieux w&nbsp;październiku 1847 roku (3 zabitych); kopalnia Saint-Charles w&nbsp;Firminy w&nbsp;1856 roku (14 zabitych); kopalnia Pompe w&nbsp;czerwcu 1861 roku (21 zabitych); kopalnia Bois d’Avaize w&nbsp;marcu 1861 roku (12 zabitych); kopalnia Monterrod w&nbsp;Firminy w&nbsp;sierpniu 1869 roku (29 zabitych); kopalnia Jabin w&nbsp;listopadzie 1871 roku (72 zabitych); znów kopalnia Jabin w&nbsp;lutym 1876 roku (216 zabitych); kopalnia Châtelus I&nbsp;w marcu 1887 (79 zabitych); kopalnia Verpilleux I&nbsp;w lipcu 1889 (207 zabitych); kopalnia Neuf w&nbsp;tym samym miesiącu 1889 roku (25 zabitych); kopalnia Pelissier należąca do Société des Mines de Villeboeuf w&nbsp;lipcu 1890 (113 zabitych); kopalnia Manufacture w&nbsp;grudniu 1891 roku (60 zabitych); znów kopalnia Pelissier w&nbsp;lipcu 1899 roku (48 zabitych); kopalnia Combes w&nbsp;Roche-la-Molière w&nbsp;październiku 1924 roku (48 zabitych); kopalnia Loire w&nbsp;październiku 1939 roku (39 zabitych); kopalnia Charles w&nbsp;Roche-la-Molière w&nbsp;maju 1968 roku (6 zabitych).</p> <h2 style="text-align: center;">***</h2> <p>Kopalnia Charles w&nbsp;Roche-la-Molière w&nbsp;maju 1968 roku? 6 zabitych? Nic z&nbsp;tego nie pamiętam. W&nbsp;maju 1968 roku mieszkałem jednak wciąż w&nbsp;Saint-Étienne, mieście, w&nbsp;którym się urodziłem. Miałem 15 lat. Pamiętam dobrze kolegów z&nbsp;liceum wstępujących do Union des Jeunesses Communistes i&nbsp;uczestniczących w&nbsp;„wydarzeniach” studenckich, które nie doprowadziły w&nbsp;Saint-Étienne, o&nbsp;ile wiem, do żadnych ofiar śmiertelnych. Pamiętam mgliście mój własny smutek i&nbsp;pewien rodzaj samotności, wycofanie z&nbsp;całej tej historii. Ale nie mam żadnego wspomnienia związanego z&nbsp;wybuchem metanu w&nbsp;kopalni Charles w&nbsp;Roche-la-Molière. Dzisiaj, dzięki najprostszej technice historyka, mogę spośród 261 rekordów bibliotecznych wyciągnąć tekst napisany w&nbsp;Saint-Étienne w&nbsp;lutym 1876 roku i&nbsp;zacytować zdania, w&nbsp;których górnik uczestniczący w&nbsp;akcji ratowniczej opisuje niszczące skutki wybuchu metanu:</p> <blockquote>„W zawalonym przekopie oddychało się ciepławym i&nbsp;dusznym powietrzem. (...) Górnicy z&nbsp;nocnej zmiany zajmowali się oczyszczaniem terenu: wszędzie na&nbsp;drodze widziałem jedynie trupy. To było straszne. Kilku nieszczęśników znaleźliśmy w&nbsp;sczepionych i&nbsp;zwęglonych grupach. W&nbsp;niektórych miejscach znajdowały się całe stosy ciał. Trzeba je było na&nbsp;siłę rozłączać. Szczątki gromadziliśmy w&nbsp;torbach. Inni zachowali pozycję roboczą, gdyż śmierć dotknęła ich nagle. Przeciągaliśmy te szczątki ludzkie bliżej szybu i&nbsp;wracaliśmy z&nbsp;powrotem. Spektakl, jaki przedstawiało, w&nbsp;bladym świetle naszych lamp, wnętrze kopalni, z&nbsp;tymi pozbieranymi odpadami, zniszczonymi chodnikami, hekatombą trupów, miał w&nbsp;sobie coś z&nbsp;fantastyki. Posuwaliśmy się do przodu z&nbsp;największą ostrożnością, krok po&nbsp;kroku odblokowując zatkane chodniki. Osuwiska były przerażające (...)”<sup><a href="#sdfootnote10sym" name="sdfootnote10anc">10</a></sup>.</blockquote> <p>Czy w&nbsp;ten sposób, za&nbsp;pośrednictwem tej lektury, tej „katastrofy” z&nbsp;lutego 1876 roku, zaczynam przypominać sobie tę, która wydarzyła się obok mnie w&nbsp;kopalni Charles w&nbsp;Roche-la-Molière w&nbsp;maju 1968? Jak rozumieć taką amnezję? Być może właśnie wertując, odsłaniając <em>tempi</em> składające się na&nbsp;moją percepcję – widzialność, poznawalność, czytelność – historii. Historii jednocześnie pokoleniowej, rodzinnej, genealogicznej i&nbsp;kontekstowej. W&nbsp;planie pokoleniowym rzeczywiście mogłem czuć zapach gazu łzawiącego, którego ślady na&nbsp;ulicach Saint-Étienne pozostawiły wydarzenia maja ‘68. W&nbsp;planie rodzinnym mogłem obserwować działanie gazu reanimacyjnego – tlenek azotu albo aerozol płucny – do którego moja umierająca matka była podłączona w&nbsp;szpitalu Bellevue. W&nbsp;planie genealogicznym mogłem próbować wyobrazić sobie działanie cyklonu B – cyjanowodór – na&nbsp;płuca mojego dziadka Jonasa, przybyłego z&nbsp;Polski w&nbsp;1925 do pracy w&nbsp;kopalni węgla w&nbsp;Saint-Étienne, potem w&nbsp;1944 roku zadenuncjowanego jako Żyd przez sąsiada i&nbsp;wywiezionego, razem z&nbsp;żoną i&nbsp;innymi członkami rodziny, w&nbsp;bydlęcym wagonie do komór gazowych w&nbsp;Auschwitz-Birkenau. Jednak w&nbsp;planie kontekstowym naprawdę nie czułem gazu metanowego z&nbsp;kopalni Charles w&nbsp;Roche-la-Molière: nie zobaczyłem nadejścia społecznej katastrofy, mimo że&nbsp;działa się wokół mnie, na&nbsp;moich oczach, można powiedzieć – pod&nbsp;moim nosem.</p> <h2 style="text-align: center;">***</h2> <p>Dlaczego dopiero dzisiaj jestem w&nbsp;stanie połączyć niektóre wspomnienia z&nbsp;dzieciństwa – wszechobecny czarny pył na&nbsp;budynkach okolicznej ziemi, wyraźną biedę niektórych moich kolegów ze szkoły – z&nbsp;katastrofą przemysłową i&nbsp;społeczną, która, choć nie mogłem tego wówczas wyraźnie dostrzec, zniszczyła miasto, w&nbsp;którym mieszkałem przez 18 lat? Wiedziałem co nieco o&nbsp;tym, co działo się wokół mnie: konkurencja importowanej benzyny i&nbsp;węgla sprawiła, że&nbsp;kopalnie w&nbsp;dolinie Loary wykazywały deficyt od końca lat 60. Spośród 26 tysięcy górników zatrudnionych w&nbsp;1945 roku w&nbsp;1963 zostało nie więcej niż 10 tysięcy, a&nbsp;w 1973 – 3 tysiące; ostatnią kopalnię – Pigeot – zamknięto w&nbsp;1983 roku, w&nbsp;tym samym roku, w&nbsp;którym przedsiębiorstwo Manufrance ogłosiło upadłość, a&nbsp;Fabryka Broni w&nbsp;Saint-Étienne – zarządzana już przez GIAT – pełną parą zwalniała ludzi.</p> <p>Odpowiedź na&nbsp;to pytanie dokonuje się poprzez montaż, na&nbsp;którym opiera się każde przypomnienie, każda czytelność czasu. Aby <span class="rozstrzelony">powiąza</span>ć<em></em> ze sobą indywidualne wspomnienia i&nbsp;historię społeczną, której stanowią one jedynie kilka rozsypanych ziaren, muszę <span class="rozstrzelony">rozwiąza</span>ć<em></em> nitki nałożonych na&nbsp;siebie – dużych i&nbsp;małych, niewspółmiernych, lecz współistniejących – katastrof, których skutki mogłem mniej lub bardziej wyraźnie dostrzegać. Aby <span class="rozstrzelony">odczyta</span>ć coś z&nbsp;materiału historycznego, muszę więc <span class="rozstrzelony">przedrzeć si</span>ę przez czas (zawrócić ku wciąż nierozpoznanej przeszłości), a&nbsp;nawet przemontować <span class="rozstrzelony">czas</span>y (złożyć razem rozdzielone elementy chronologii). To kontrast, różnica czynią rzeczy widzialnymi i&nbsp;przywracają im krytyczną moc wypełniającą „teraz” ich „poznawalności”. Tak jakby dla zrozumienia własnej przeszłości konieczna była umiejętność rekonfigurowania teraźniejszości za&nbsp;pomocą anachronicznego montażu opierającego na&nbsp;Niegdyś swoją troskę o&nbsp;Jutro, tę szczególną wiedzę wpisaną w&nbsp;akt <span class="rozstrzelony">wyczuwania niebezpieczeństw</span>a.</p> <p>To z&nbsp;pewnością spotkanie takiej przeszłości z&nbsp;pewnego rodzaju teraźniejszością, spotkanie naszego tutaj z&nbsp;pewnym tam, wywołało moją własną anamnezę katastrof górniczych w&nbsp;Saint-Étienne, których nadejścia nie umiałem zobaczyć we właściwym czasie. Spotkania te, jakkolwiek może się to wydać dziwne – ale taka jest zaleta albo siła montażu reminiscencji – wiążą się z&nbsp;odkryciem przeze mnie odległego kina Wanga Binga pokazującego w&nbsp;ciągu dziewięciu godzin trwania filmu <em>Tie Xi Qu: West of the Tracks </em>[<em>Na zachód od torów</em>, Chiny 2003] społeczną katastrofę wywołaną upadkiem przemysłu w&nbsp;Shenyang, w&nbsp;północnych Chinach między 1999 a&nbsp;2001 rokiem. Natomiast kilku rozmowom z&nbsp;Bing Li, która spędziła całe dzieciństwo w&nbsp;tej samej dzielnicy Tie Xi („na zachód od torów”) w&nbsp;Shenyang, zawdzięczam odrobinę wyraźniejszą świadomość życia tamtejszych mieszkańców skazanych na&nbsp;ciężką przemysłową pracę i&nbsp;nieustannie zagrożonych bezrobociem, a&nbsp;więc nędzą i&nbsp;głodem (byłem zresztą zdumiony, że&nbsp;Bing opowiadała mi o&nbsp;wszystkich tych trudnościach tak, jakby opowiadała o&nbsp;utraconym raju; i&nbsp;był to z&nbsp;pewnością raj utracony pewnej społecznej solidarności, wzajemnej pomocy, której wszechobecność przypominam sobie nagle, w&nbsp;Saint-Étienne, w&nbsp;czasie, gdy jej nie widziałem).</p> <p>W związku z&nbsp;tym mogłem obejrzeć ponownie kilka „klasyków”, takich jak <em>Misère au Borinage</em> Jorisa Ivensa i&nbsp;Henriego Storcka (1933) czy <em>Surfarara, miniere di zolfo</em> Vittorio De Sety (1955). Zobaczyłem też, poza kontekstem Documenta, gdzie go odkryłem w&nbsp;2002 roku, piękny film <em>Western Deep</em> Steve’a McQueena poświęcony pracy w&nbsp;kopalniach złota w&nbsp;RPA oraz <em>L’Argent du charbon</em> (2008) Wanga Binga. Nie licząc niedawnego odkrycia <em>Flacky et camarades (ou le cheval de fer)</em>, montażu stworzonego przez Aarona Sieversa na&nbsp;podstawie zarejestrowanych przez Pierre’a Gurganda wstrząsających obrazów – i&nbsp;słów – dotyczących warunków życia górników w&nbsp;północnej Francji między 1976 a&nbsp;1983 rokiem. Wciąż nie widziałem, albo nie zobaczyłem ponownie, kilku filmów na&nbsp;ten temat wskazanych mi przez znajomych, <em>Dynamite</em> (2010) Daniele Segre, <em>La Grande Grève des mineurs</em> (1949) Louis Daquina, <em>La Cabale des oursins</em> (1992) Luca Moulleta oraz innych, znanych bardziej (jak <em>Zielona dolina </em>[<em>How Green Was My Valley</em>, 1941] Johna Forda) lub mniej (jak <em>Déjà s’envole la fleur maigre </em>[1960] Paula Meyera)<sup><a href="#sdfootnote11sym" name="sdfootnote11anc">11</a></sup>. Szczęśliwy zbieg okoliczności sprawił, że&nbsp;na wystawie jednej z&nbsp;księgarń znalazłem ostatnio piękną książkę z&nbsp;nazwiskiem Thiollier (nosił takie jeden z&nbsp;moich kolegów z&nbsp;dzieciństwa w&nbsp;Saint-Étienne) na&nbsp;okładce: chodzi o&nbsp;zbiór fotografii zrobionych w&nbsp;tym regionie na&nbsp;przełomie XIX i&nbsp;XX wieku<sup><a href="#sdfootnote12sym" name="sdfootnote12anc">12</a></sup>.</p> <h2 style="text-align: center;">***</h2> <p>Ponieważ gaz metanowy jest bezbarwny i&nbsp;bezzapachowy, zdarzało się niegdyś górnikom, jak mówiłem, schodzić do kopalni z&nbsp;pisklęciem w&nbsp;klatce. Gdy zaczynało ono drżeć albo puchły mu pióra, wyczuwano – albo widziano – nadejście momentu zagrożenia. Z&nbsp;pewnością w&nbsp;tej praktyce zmuszającej piękne zwierzę do <span class="rozstrzelony">zobaczenia nadejści</span>a<em></em> ma swój udział jakiś przesąd. Niewykluczone też, że&nbsp;bliższa obserwacja tego <span class="rozstrzelony">wróżebnego<em></em> upierzeni</span>a wzmacniała w&nbsp;samych górnikach umiejętność samodzielnego „wyczuwania gazu”. Czy obrazy nie mogłyby pełnić funkcji podobnej do piór tego ostrzegawczego pisklęcia? Czy drżenie obrazu albo jego „puchnięcie” nie stawia nas w&nbsp;miejscu, w&nbsp;którym niemal możemy <span class="rozstrzelony">zobaczyć nadejści</span>e decydującego momentu, albo – w&nbsp;najgorszym razie – jakiegoś katastroficznego wydarzenia?</p> <p>Obrazy, niczym pisklęta, służą również do tego, aby zobaczyć czas, który nadchodzi. Do zmontowania teraźniejszości przez przedarcie się do przeszłości, przemontowanie jej i&nbsp;wyprowadzenie z&nbsp;niej kilku śladów na&nbsp;przyszłość<sup><a href="#sdfootnote13sym" name="sdfootnote13anc">13</a></sup>. Służą również do przemontowania teraźniejszości i&nbsp;„zobaczenia nadchodzącej przyszłości” za&nbsp;pośrednictwem pewnego rodzaju przeszłości, tak że&nbsp;każdy z&nbsp;trzech wymiarów czasu oświetla – podkreśla, oznacza, krytykuje, wyzwala – dwa pozostałe. Służą też ewentualnie do montażu trudu i&nbsp;piękna, z&nbsp;których jedno zawsze oświetla, podkreśla, oznacza, krytykuje i&nbsp;wyzwala drugie. Również do montażu brutalności wirów historycznych z&nbsp;jakimś spokojem lub delikatnością – skutecznym spokojem, pełną siły delikatnością – ludzkich gestów, które potrafią odpowiedzieć na&nbsp;niektóre, czasem katastroficzne, warunki egzystencji.</p>  </section>  <div class="clearfix"></div>
+
+				<div class="m-footnotes"><p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Tekst wygłoszony 30 stycznia 2013 roku na konferencji <em>Penser la catastrophe</em> we Fresnoy, Studio national des arts contemporains.</p>
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a> Por. Gilles Deleuze, <em>Logika sensu</em>, przeł. G. Wilczyński, PWN, Warszawa 2011, s. 210–221 („Porcelana i wulkan“) i 422–439 („Zola i pęknięcie“). Pierre Zaoui, <em>La Traversée des catastrophes. Philosophie pour le meilleur et pour le pire</em>, Éditions du Seuil, Paris 2010, s. 319–349.</p>
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a> Isaac Leib Peretz, Jacob Dinezon, Shalom Ansky (1915), cyt. za: David G. Roskies, <em>La Bibliothèque de la Catastrophe juive, </em>przeł. J. Ertel, „Pardès” 1989, nr 9–10, s. 203.</p>
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a> Walter Benjamin, <em>Ulica jednokierunkowa </em>(1925), przeł. A. Kopacki, Wydawnictwo Sic!, Warszawa 1997, s. 46.</p>
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a> Walter Benjamin, <em>O pojęciu historii </em>(1940), przeł. A. Lipszyc, w: idem, <em>Konstelacje. Wybór tekstów</em>, Wydawnictwo Uniwersytetu Jagiellońskiego, Kraków 2012, s. 314.</p>
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a> Walter Benjamin, <em>Pasaże</em> (1927–1940), przeł. I. Kania, Wydawnictwo Literackie, Kraków 2005, s. 509.</p>
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a> Émile Zola, <em>Germinal</em>, przeł. K. Dolatowska, PIW, Warszawa 1970, t. 1, s. 49.</p>
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a> Por. przede wszystkim Henry de Chatelier, <em>Le Grisou et ses accidents</em>, Octave Doin, Paris 1890; idem, <em>Le Grisou</em>, Gauthier-Villars &amp; Masson, Paris 1892; Jean Berger, <em>La Mine et les mineurs: les mines d’autrefois et d’aujourd’hui. Ce que l’on voit au fond des mines. Le grisou. La vie du mineur. Les industries de la houille</em>, Armand Colin, Paris 1914; Louis Crussard, <em>Mines, grisou, poussières</em>, Octave Doin, Paris 1919.</p>
+<p><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a> Por. Charles Bourguet, <em>Brûlure par le grisou et accidents produits par son explosion dans les mines de houille</em>, Coccoz, Paris 1876; A. du Souich, <em>Commission du grisou. Rapport sur la réglementation de l’exploitation dans les mines à grisou</em>, Dunod, Paris 1881.</p>
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a> [Autor anonimowy], <em>Catastrophe du 4 février 1876 au puits à Saint-Étienne (Loire). Explosion du feu grisou dans les galeries creusées à 366 mètres de profondeur, 216 victimes, </em>Balay, Saint-Étienne 1876, s. 2. Por. dwa podobne anonimowe teksty, odpowiednio z 1868 i 1889 roku: <em>Mines de Saint-Étienne. Grande catastrophe causée par le feu grisou, avec explosion et éboulement des mines de Saint-Étienne. 57 mineurs tués dans le puits de la Grande Compagnie</em>, Fudez Frères, Moulins 1868; <em>Terrible catastrophe [à Saint-Étienne]. Explosion de grisou, 200 victimes</em>, Baudot, Paris 1889.</p>
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a> Maria Kourkouta i Philippe Cote zechcą więc przyjąć podziękowania.</p>
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a> Thomas Galifot, <em>Félix Thiollier, photographies</em>, Musée d’Orsay-Éditions courtes et longues, Paris 2012. Por. zwłaszcza wielkie studium Diana Cooper-Richet, <em>Le peuple de la nuit. Mine et mineurs en France, XIX–XXI siècle</em>, Perrin, Paris 2002 (wyd. przejrzane i rozwinięte 2011).</p>
+<p><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a> Często zdarzało mi się wykorzystywać inne określenia na nazwanie tej relacji między obrazem a czasem, od „oczekującej” funkcji obrazu (<em>Invention de l’hystérie. Charcot et l’Iconographie photographique de la Salpêtrière</em>, Macula, Paris 1982 [wyd. 2, 2010], s. 141–149) aż do idei obrazu, który stałby „na czatach” (<em>Peuples exposés, peuples figurants. L’oeil de l’histoire, 4</em>, Les Éditions de Minuit, Paris 2012, s. 220–231).</p></div>
+
+				
+
+				
+
+			</article>
+		</div>
+	</div>
+</div>
+
+</main>
+
+
+
+<script>
+	
+	
+
+	
+	/*var Hyphenopoly = {
+		require: {
+			"pl": "Przeintelektualizować",
+			"en-us": "Supercalifragilisticexpialidocious"
+		},
+		setup: {
+			selectors: {
+				".m-article .u-typo p": {},
+				".m-article .u-typo li": {}
+			}
+		}
+	};*/
+
+</script>
+<!--<script src="Hyphenopoly/Hyphenopoly_Loader.js"></script>-->
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<!-- <script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-2.2.4.min.js"><\/script>')</script> -->
+<script>window.jQuery || document.write('<script src="assets/templates/widok_tpl/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.577e0960294f9d8536e6.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$('a[href^="#"]').each(function(i,el){
+				el.href = "http://www.pismowidok.org/pl/archiwum/archiwa-stanow-wyjatkowych/metan" + el.hash;
+			});
+		});
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,22 @@
+.container {
+  position: relative;
+}
+
+/* canvas */
+
+.content-canvas {
+  padding-top: 15px;
+
+  @media (min-width: $breakpoint_sm) {
+    padding-top: 75px;
+    padding-left:  63px;
+    padding-right: 63px;
+  }
+
+}
+
+.content-canvas--small {
+  .content-canvas__inner {
+    max-width: 666px;
+  }
+}
