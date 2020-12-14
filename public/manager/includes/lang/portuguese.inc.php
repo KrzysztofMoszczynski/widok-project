@@ -13,7 +13,7 @@
  * Please commit your language changes on Transifex (https://www.transifex.com/projects/p/modx-evolution/) or on GitHub (https://github.com/modxcms/evolution).
  */
 //$modx_textdir = 'rtl'; // uncomment this line for RTL langauges
-$modx_lang_attribute = 'en'; // Manager HTML/XML Language Attribute see http://en.wikipedia.org/wiki/ISO_639-1
+$modx_lang_attribute = 'pt'; // Manager HTML/XML Language Attribute see http://en.wikipedia.org/wiki/ISO_639-1
 $modx_manager_charset = 'UTF-8';
 
 $_lang["about_msg"] = 'MODX é um <a href=\'http://modx.com/\' target=\'_blank\'>Sistema em PHP para Gestão de Conteúdos</a> (em Inglês).';
@@ -1146,8 +1146,9 @@ $_lang["a17_error_reporting_title"] = 'Detection level of the PHP error';
 $_lang["a17_error_reporting_msg"] = 'Set the detection level of the PHP error.';
 $_lang["a17_error_reporting_opt0"] = 'Ignore all';
 $_lang["a17_error_reporting_opt1"] = 'Ignore the warning of a slight notice level(<a href="https://www.google.com/search?q=E_DEPRECATED+E_STRICT" target="_blank">E_ALL & ~E_NOTICE & ~E_DEPRECATED & ~E_STRICT</a>)';
-$_lang["a17_error_reporting_opt2"] = 'Detect all errors except E_NOTICE';
-$_lang["a17_error_reporting_opt99"] = 'Detect all';
+$_lang["a17_error_reporting_opt2"] = 'Detect all errors except E_NOTICE and E_USER_DEPRECATED';
+$_lang["a17_error_reporting_opt99"] = 'Detect all except E_USER_DEPRECATED';
+$_lang["a17_error_reporting_opt199"] = 'Detect all';
 
 $_lang["pwd_hash_algo_title"] = 'Hash algorithm';
 $_lang["pwd_hash_algo_message"] = 'Password hash algorithm.';
@@ -1196,6 +1197,7 @@ $_lang['email_method_title'] = 'Sendmail method';
 $_lang['email_method_mail'] = 'mail() PHP function';
 $_lang['email_method_smtp'] = 'SMTP Server';
 $_lang['smtp_auth_title'] = 'SMTP－AUTH';
+$_lang['smtp_autotls_title'] = 'SMTPAutoTLS';
 $_lang['smtp_host_title'] = 'SMTP host';
 $_lang['smtp_secure_title'] = 'Encrypted SMTP';
 $_lang['smtp_username_title'] = 'SMTP user name';

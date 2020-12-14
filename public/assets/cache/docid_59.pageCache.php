@@ -1,7 +1,7 @@
-<?php die('Unauthorized access.'); ?>a:47:{s:2:"id";s:2:"59";s:4:"type";s:8:"document";s:11:"contentType";s:9:"text/html";s:9:"pagetitle";s:5:"Start";s:9:"longtitle";s:15:"Strona główna";s:11:"description";s:0:"";s:5:"alias";s:5:"index";s:15:"link_attributes";s:0:"";s:9:"published";s:1:"1";s:8:"pub_date";s:1:"0";s:10:"unpub_date";s:1:"0";s:6:"parent";s:2:"58";s:8:"isfolder";s:1:"0";s:9:"introtext";s:0:"";s:7:"content";s:0:"";s:8:"richtext";s:1:"1";s:8:"template";s:1:"3";s:9:"menuindex";s:1:"0";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:1:"1";s:9:"createdon";s:10:"1355299347";s:8:"editedby";s:2:"11";s:8:"editedon";s:10:"1597211335";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1355355314";s:11:"publishedby";s:1:"2";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"1";s:13:"alias_visible";s:1:"1";s:14:"sitemapInclude";a:5:{i:0;s:14:"sitemapInclude";i:1;s:1:"1";i:2;s:0:"";i:3;s:0:"";i:4;s:16:"custom_tv:switch";}s:15:"sitemapPriority";a:5:{i:0;s:15:"sitemapPriority";i:1;s:3:"0.5";i:2;s:0:"";i:3;s:0:"";i:4;s:6:"option";}s:16:"meta_description";a:5:{i:0;s:16:"meta_description";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:19:"translationSelector";a:5:{i:0;s:19:"translationSelector";i:1;s:1:"2";i:2;s:0:"";i:3;s:0:"";i:4;s:18:"custom_tv:selector";}s:13:"GooglePreview";a:5:{i:0;s:13:"GooglePreview";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:9:"custom_tv";}s:13:"meta_img_fitv";a:5:{i:0;s:13:"meta_img_fitv";i:1;s:47:"assets/images/issues/2020/26/wstep/_mg_5431.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:17:"__MODxSJScripts__";a:1:{i:1;s:120:"	<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.4672983195df0c0237c3.css" />";}s:16:"__MODxJScripts__";a:1:{i:1;s:118:"	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.0e8961e12996bd7f5cde.js"></script>";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
+<?php die('Unauthorized access.'); ?>a:47:{s:2:"id";s:2:"59";s:4:"type";s:8:"document";s:11:"contentType";s:9:"text/html";s:9:"pagetitle";s:5:"Start";s:9:"longtitle";s:15:"Strona główna";s:11:"description";s:0:"";s:5:"alias";s:5:"index";s:15:"link_attributes";s:0:"";s:9:"published";s:1:"1";s:8:"pub_date";s:1:"0";s:10:"unpub_date";s:1:"0";s:6:"parent";s:2:"58";s:8:"isfolder";s:1:"0";s:9:"introtext";s:0:"";s:7:"content";s:0:"";s:8:"richtext";s:1:"1";s:8:"template";s:1:"3";s:9:"menuindex";s:1:"0";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:1:"1";s:9:"createdon";s:10:"1355299347";s:8:"editedby";s:2:"11";s:8:"editedon";s:10:"1597211335";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1355355314";s:11:"publishedby";s:1:"2";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"1";s:13:"alias_visible";s:1:"1";s:14:"sitemapInclude";a:5:{i:0;s:14:"sitemapInclude";i:1;s:1:"1";i:2;s:0:"";i:3;s:0:"";i:4;s:16:"custom_tv:switch";}s:15:"sitemapPriority";a:5:{i:0;s:15:"sitemapPriority";i:1;s:3:"0.5";i:2;s:0:"";i:3;s:0:"";i:4;s:6:"option";}s:16:"meta_description";a:5:{i:0;s:16:"meta_description";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:13:"GooglePreview";a:5:{i:0;s:13:"GooglePreview";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:9:"custom_tv";}s:13:"meta_img_fitv";a:5:{i:0;s:13:"meta_img_fitv";i:1;s:47:"assets/images/issues/2020/26/wstep/_mg_5431.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:19:"translationSelector";a:5:{i:0;s:19:"translationSelector";i:1;s:1:"2";i:2;s:0:"";i:3;s:0:"";i:4;s:18:"custom_tv:selector";}s:17:"__MODxSJScripts__";a:1:{i:1;s:120:"	<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.72d7f7d47d0ab4b346c4.css" />";}s:16:"__MODxJScripts__";a:1:{i:1;s:118:"	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.72d7f7d47d0ab4b346c4.js"></script>";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
 <html dir="ltr" lang="pl">
 	<head>
-		<base href="https://www.pismowidok.org/">
+		<base href="http://192.168.33.10/">
 
 		<meta charset="utf-8">
 		
@@ -14,27 +14,27 @@
 		<meta name="robots" content="index,follow">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<link rel="canonical" href="https://www.pismowidok.org/">
-		<link rel="alternate" href="https://www.pismowidok.org/" hreflang="pl">
-		<link rel="alternate" href="https://www.pismowidok.org/en" hreflang="en">
+		<link rel="canonical" href="http://192.168.33.10/">
+		<link rel="alternate" href="http://192.168.33.10/" hreflang="pl">
+		<link rel="alternate" href="http://192.168.33.10/en" hreflang="en">
 
 		<!-- Schema.org markup for Google+ -->
 		<meta itemprop="name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
 		<meta itemprop="description" content="">
-		<meta itemprop="image" content="https://www.pismowidok.org/assets/cache/images/issues/2020/26/wstep/_mg_5431-1200x630-e49.jpg">
+		<meta itemprop="image" content="http://192.168.33.10/assets/cache/images/issues/2020/26/wstep/_mg_5431-1200x630-9a8.jpg">
 
 		<!-- Twitter Card -->
 		<meta name="twitter:card" value="summary">
 		<meta name="twitter:title" content="Widok. Teorie i Praktyki Kultury Wizualnej">
 		<meta name="twitter:description" content="">
-		<meta name="twitter:image:src" content="https://www.pismowidok.org/assets/cache/images/issues/2020/26/wstep/_mg_5431-1200x630-e49.jpg">
+		<meta name="twitter:image:src" content="http://192.168.33.10/assets/cache/images/issues/2020/26/wstep/_mg_5431-1200x630-9a8.jpg">
 
 		<!-- Open Graph -->
-		<meta property="og:url" content="https://www.pismowidok.org/">
+		<meta property="og:url" content="http://192.168.33.10/">
 		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
 		<meta property="og:title" content="Widok. Teorie i Praktyki Kultury Wizualnej">
 		<meta property="og:description" content="">
-		<meta property="og:image" content="https://www.pismowidok.org/assets/cache/images/issues/2020/26/wstep/_mg_5431-1200x630-e49.jpg">
+		<meta property="og:image" content="http://192.168.33.10/assets/cache/images/issues/2020/26/wstep/_mg_5431-1200x630-9a8.jpg">
 		<meta property="og:image:type" content="image/jpeg">
 		<meta property="og:image:width" content="1200">
 		<meta property="og:image:height" content="630">
@@ -120,7 +120,7 @@
 		<header id="header">
      
       <div class="c-navbar">
-        <a class="c-sitelogo" href="https://www.pismowidok.org/">
+        <a class="c-sitelogo" href="http://192.168.33.10/">
           <span class="c-sitelogo__icon"><img src="assets/templates/widok_tpl/img/logo.svg" alt="Widok. Teorie i Praktyki Kultury Wizualnej"></span>
           <span class="c-sitelogo__full u-underline-border">Widok. Teorie i Praktyki Kultury Wizualnej</span>
         </a>
@@ -204,7 +204,7 @@
 			<div class="c-jump2issue">
 				<span id="jump2issue" class="c-jump2issue__circle"></span>
 			</div>
-			<img sizes="100vw" srcset="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-480x-de3.jpg 480w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-768x-8d3.jpg 768w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1024x-d0d.jpg 1024w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1280x-ebb.jpg 1280w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1920x-f57.jpg 1920w" src="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1920x-f57.jpg" alt="Issue cover" >
+			<img sizes="100vw" srcset="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-480x-8b2.jpg 480w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-768x-2d0.jpg 768w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1024x-2e4.jpg 1024w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1280x-fdb.jpg 1280w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1920x-93c.jpg 1920w" src="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1920x-93c.jpg" alt="Issue cover" >
 		</div>
 	</div>
 
@@ -219,10 +219,10 @@
 								<section>
 									<div class="c-issue-meta">
 										<img class="c-issue-meta__img" 
-												 srcset="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-660x405-5e8.jpg 3x, 
-																 assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-440x270-823.jpg 2x, 
-																 assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-220x135-7b0.jpg 1x"
-												 src="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-220x135-7b0.jpg" 
+												 srcset="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-660x405-57b.jpg 3x, 
+																 assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-440x270-c38.jpg 2x, 
+																 assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-220x135-01e.jpg 1x"
+												 src="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-220x135-01e.jpg" 
 												 alt="26: Empatyczne obrazy">
 										<div class="c-issue-meta__info">
 											<h1 class="c-issue-meta__title">
@@ -519,7 +519,7 @@
 					Liliana Piskorska, 
 					<i>Książka źródeł | fragmenty</i>, 
 					„Widok. Teorie i Praktyki Kultury Wizualnej” 2020, nr 26, 
-					<a href="https://www.pismowidok.org/pl/archiwum/26-empatyczne-obrazy/ksiazka-zrodel" target="_blank">https://www.pismowidok.org/pl/archiwum/26-empatyczne-obrazy/ksiazka-zrodel</a>
+					<a href="http://192.168.33.10/pl/archiwum/26-empatyczne-obrazy/ksiazka-zrodel" target="_blank">http://192.168.33.10/pl/archiwum/26-empatyczne-obrazy/ksiazka-zrodel</a>
 				</div>
 			</div>
 		
@@ -571,7 +571,7 @@
 					Ada Zielińska, 
 					<i>Disaster Cruisin’</i>, 
 					„Widok. Teorie i Praktyki Kultury Wizualnej” 2020, nr 26, 
-					<a href="https://www.pismowidok.org/pl/archiwum/26-empatyczne-obrazy/disaster-cruisin" target="_blank">https://www.pismowidok.org/pl/archiwum/26-empatyczne-obrazy/disaster-cruisin</a>
+					<a href="http://192.168.33.10/pl/archiwum/26-empatyczne-obrazy/disaster-cruisin" target="_blank">http://192.168.33.10/pl/archiwum/26-empatyczne-obrazy/disaster-cruisin</a>
 				</div>
 			</div>
 		

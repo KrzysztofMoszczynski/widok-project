@@ -246,20 +246,17 @@ evo.collapse = function(a, b) {
   } else {
     a = 'string' === typeof a ? document.querySelectorAll(a) : a;
   }
-  var h = {
-    containerClass: b && b.containerClass || 'tab-body'
-  };
-
+  b = b || 'tab-body'
   for (var i = 0; i < a.length; i++) {
-    if (a[i].nextElementSibling && a[i].nextElementSibling.classList.contains(h.containerClass)) {
+    if (a[i].nextElementSibling && a[i].nextElementSibling.classList.contains(b)) {
       a[i].nextElementSibling.classList.add('collapse', 'in');
       a[i].onclick = function() {
-        if (a[i].nextElementSibling.classList.contains('in')) {
-          a[i].nextElementSibling.classList.remove('in');
-          a[i].classList.add('collapsed');
+        if (this.nextElementSibling.classList.contains('in')) {
+          this.nextElementSibling.classList.remove('in');
+          this.classList.add('collapsed');
         } else {
-          a[i].nextElementSibling.classList.add('in');
-          a[i].classList.remove('collapsed');
+          this.nextElementSibling.classList.add('in');
+          this.classList.remove('collapsed');
         }
       };
     }
@@ -268,15 +265,15 @@ evo.collapse = function(a, b) {
 
 // check connection to server
 evo.checkConnectionToServer = function() {
-    return true;
-  //var xhr = new (window.ActiveXObject || XMLHttpRequest)('Microsoft.XMLHTTP');
-  //xhr.open('GET', evo.urlCheckConnectionToServer + '?time=' + new Date().getTime(), false);
-  //try {
-  //  xhr.send();
-  //  return (xhr.status >= 200 && xhr.status < 300 || xhr.status === 304);
-  //} catch (error) {
-  //  return false;
-  //}
+  return true;
+  // var xhr = new (window.ActiveXObject || XMLHttpRequest)('Microsoft.XMLHTTP');
+  //   // xhr.open('GET', evo.urlCheckConnectionToServer + '?time=' + new Date().getTime(), false);
+  //   // try {
+  //   //   xhr.send();
+  //   //   return (xhr.status >= 200 && xhr.status < 300 || xhr.status === 304);
+  //   // } catch (error) {
+  //   //   return false;
+  //   // }
 };
 
 function document_onload() {
@@ -286,11 +283,11 @@ function document_onload() {
   if (actionButtons !== null && actionSelect !== null) {
     var actionPlus = actionButtons.querySelector('.plus'), actionSaveButton = actionButtons.querySelector('a#Button1') || actionButtons.querySelector('#Button1 > a');
     actionPlus.classList.add('dropdown-toggle');
-    actionStay['stay1'] = '<i class="' + evo.style.actions_file + '"></i>';
-    actionStay['stay2'] = '<i class="' + evo.style.actions_pencil + '"></i>';
-    actionStay['stay3'] = '<i class="' + evo.style.actions_reply + '"></i>';
+    actionStay['stay1'] = '<i class="' + evo.style.icon_file + '"></i>';
+    actionStay['stay2'] = '<i class="' + evo.style.icon_pencil + '"></i>';
+    actionStay['stay3'] = '<i class="' + evo.style.icon_reply + '"></i>';
     if (actionSelect.value) {
-      actionSaveButton.innerHTML += '<i class="' + evo.style.actions_plus + '"></i><span> + </span>' + actionStay['stay' + actionSelect.value] + '<span>' + actionSelect.children['stay' + actionSelect.value].innerHTML + '</span>';
+      actionSaveButton.innerHTML += '<i class="' + evo.style.icon_plus + '"></i><span> + </span>' + actionStay['stay' + actionSelect.value] + '<span>' + actionSelect.children['stay' + actionSelect.value].innerHTML + '</span>';
     }
     var actionSelectNewOption = null, actionSelectOptions = actionSelect.children, div = document.createElement('div');
     div.className = 'dropdown-menu';
@@ -318,6 +315,7 @@ function document_onload() {
     };
   }
   evo.tooltips('[data-tooltip]');
+  //evo.collapse('.panel-heading', 'panel-collapse');
 
   if (document.forms.length && document.forms.mutate && window.frameElement.parentNode.parentNode.classList.contains('evo-popup')) {
     window.focus();

@@ -125,12 +125,12 @@ class Store{
 	public $language;
 
 	function __construct(){
-		global $modx;
+		$modx = EvolutionCMS();
 		$lang = $modx->config['manager_language'];
-		if (file_exists( dirname(__FILE__) .  '/lang/'.$lang.'.php')){
-			include_once(dirname(__FILE__) .  '/lang/'.$lang.'.php');
+		if (file_exists( __DIR__ .  '/lang/'.$lang.'.php')){
+			include_once(__DIR__ .  '/lang/'.$lang.'.php');
 		} else {
-			include_once(dirname(__FILE__) .  '/lang/english.php');
+			include_once(__DIR__ .  '/lang/english.php');
 		}
 		$this->lang = $_Lang;
 		$this->language = substr($lang,0,2);
@@ -144,14 +144,14 @@ class Store{
 		return isset($match[1]) ? $match[1] : '';
 	}
 
-	static function parse($tpl,$field){
-        global $modx;
-		foreach($field as $key=>$value)  $tpl = str_replace('[+'.$key.'+]',$value,$tpl);
-       $evtOut = $modx->invokeEvent('OnManagerMainFrameHeaderHTMLBlock');
-       $onManagerMainFrameHeaderHTMLBlock = is_array($evtOut) ? implode("\n", $evtOut) : '';
-       $tpl = str_replace('[+onManagerMainFrameHeaderHTMLBlock+]',$onManagerMainFrameHeaderHTMLBlock,$tpl);
-		return $tpl;
-	}
+    static function parse($tpl, $fields){
+        $modx = EvolutionCMS();
+        $tpl = $modx->parseText($tpl, $fields);
+        $evtOut = $modx->invokeEvent('OnManagerMainFrameHeaderHTMLBlock');
+        $onManagerMainFrameHeaderHTMLBlock = is_array($evtOut) ? implode("\n", $evtOut) : '';
+        $tpl = str_replace('[+onManagerMainFrameHeaderHTMLBlock+]',$onManagerMainFrameHeaderHTMLBlock,$tpl);
+        return $tpl;
+    }
 	function tpl($file){
 		$lang = $this->lang;
 		ob_start();

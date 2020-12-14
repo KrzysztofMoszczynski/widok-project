@@ -27,7 +27,7 @@ if (count($a) > 1)
     array_pop($a);
 $url = implode("install", $a);
 reset($a);
-$a = explode("install", str_replace("\\", "/", realpath(dirname(__FILE__))));
+$a = explode("install", str_replace("\\", "/", realpath(__DIR__)));
 if (count($a) > 1)
     array_pop($a);
 $pth = implode("install", $a);
@@ -36,10 +36,10 @@ $base_url = $url . (substr($url, -1) != "/" ? "/" : "");
 $base_path = $pth . (substr($pth, -1) != "/" ? "/" : "");
 
 
-if(!function_exists('parseProperties')) {
+if(!function_exists('propertiesNameValue')) {
     // parses a resource property string and returns the result as an array
     // duplicate of method in documentParser class
-    function parseProperties($propertyString) {
+    function propertiesNameValue($propertyString) {
         $parameter= array ();
         if (!empty ($propertyString)) {
             $tmpParams= explode("&", $propertyString);
@@ -322,7 +322,8 @@ if (isset ($_POST['plugin']) || $installData) {
                 // remove installer docblock
                 $plugin = preg_replace("/^.*?\/\*\*.*?\*\/\s+/s", '', $plugin, 1);
                 $plugin = $modx->db->escape($plugin);
-                $rs = $modx->db->query("SELECT * FROM `" . $table_prefix . "site_plugins` WHERE name='$name'");
+                $rs = $modx->db->query("SELECT * FROM `" . $table_prefix . "site_plugins` WHERE name='$name' ORDER BY id");
+                $prev_id = null;
                 if ($modx->db->getRecordCount($rs)) {
                     $insert = true;
                     while($row = $modx->db->getRow($rs,'assoc')) {
@@ -339,6 +340,7 @@ if (isset ($_POST['plugin']) || $installData) {
                                 return;
                             }
                         }
+                        $prev_id = $row['id'];
                     }
                     if($insert === true) {
                         if(!@$modx->db->query("INSERT INTO `".$table_prefix."site_plugins` (name,description,plugincode,properties,moduleguid,disabled,category) VALUES('$name','$desc','$plugin','$props','$guid','0','$category');" )) {
@@ -358,13 +360,33 @@ if (isset ($_POST['plugin']) || $installData) {
                 }
                 // add system events
                 if (count($events) > 0) {
-                    $ds=$modx->db->query("SELECT id FROM `".$table_prefix."site_plugins` WHERE name='$name' AND description='$desc';" );
+                    $ds=$modx->db->query("SELECT id FROM `".$table_prefix."site_plugins` WHERE name='$name' AND description='$desc' ORDER BY id DESC LIMIT 1;" );
                     if ($ds) {
                         $row = $modx->db->getRow($ds,'assoc');
                         $id = $row["id"];
                         $_events = implode("','", $events);
+
                         // add new events
-                        $modx->db->query("INSERT IGNORE INTO `" . $table_prefix . "site_plugin_events` (pluginid, evtid) SELECT '$id' as 'pluginid',se.id as 'evtid' FROM `" . $table_prefix . "system_eventnames` se WHERE name IN ('" . $_events . "')");
+                        if ($prev_id) {
+                            $prev_id = $modx->db->escape($prev_id);
+
+                            $modx->db->query("INSERT IGNORE INTO `{$table_prefix}site_plugin_events` (`pluginid`, `evtid`, `priority`)
+                                SELECT {$id} as 'pluginid', `se`.`id` AS `evtid`, COALESCE(`spe`.`priority`, MAX(`spe2`.`priority`) + 1, 0) AS `priority`
+                                FROM `{$table_prefix}system_eventnames` `se`
+                                LEFT JOIN `{$table_prefix}site_plugin_events` `spe` ON `spe`.`evtid` = `se`.`id` AND `spe`.`pluginid` = {$prev_id}
+                                LEFT JOIN `{$table_prefix}site_plugin_events` `spe2` ON `spe2`.`evtid` = `se`.`id`
+                                WHERE name IN ('{$_events}')
+                                GROUP BY `se`.`id`
+                            ");
+                        } else {
+                            $modx->db->query("INSERT IGNORE INTO `{$table_prefix}site_plugin_events` (`pluginid`, `evtid`, `priority`) 
+                                SELECT {$id} as `pluginid`, `se`.`id` as `evtid`, COALESCE(MAX(`spe`.`priority`) + 1, 0) as `priority` 
+                                FROM `{$table_prefix}system_eventnames` `se` 
+                                LEFT JOIN `{$table_prefix}site_plugin_events` `spe` ON `spe`.`evtid` = `se`.`id` 
+                                WHERE `name` IN ('{$_events}') GROUP BY `se`.`id`
+                            ");
+                        }
+
                         // remove existing events
                         $modx->db->query("DELETE `pe` FROM `{$table_prefix}site_plugin_events` `pe` LEFT JOIN `{$table_prefix}system_eventnames` `se` ON `pe`.`evtid`=`se`.`id` AND `name` IN ('{$_events}') WHERE ISNULL(`name`) AND `pluginid` = {$id}");
                     }
@@ -446,12 +468,7 @@ if ($installData && $moduleSQLDataFile) {
 
 
 // always empty cache after install
-
-include_once MGR."/processors/cache_sync.class.processor.php";
-$sync = new synccache();
-$sync->setCachepath(MODX_BASE_PATH."assets/cache/");
-$sync->setReport(false);
-$sync->emptyCache(); // first empty the cache
+$modx->clearCache('full');
 
 
 
@@ -479,8 +496,9 @@ function parseProperties($propertyString, $json=false) {
     $propertyString = str_replace('{}', '', $propertyString );
     $propertyString = str_replace('} {', ',', $propertyString );
 
-    if(empty($propertyString)) return array();
-    if($propertyString=='{}' || $propertyString=='[]') return array();
+    if (empty($propertyString) || $propertyString == '{}' || $propertyString == '[]') {
+        $propertyString = '';
+    }
 
     $jsonFormat = isJson($propertyString, true);
     $property = array();

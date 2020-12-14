@@ -95,6 +95,7 @@ class site_content_menuDocLister extends site_contentDocLister
             $this->config->setConfig(array('hideSubMenus' => 1));
         }
         $key = 'menudata' . $maxDepth;
+        $displayKey = 'menudisplay' . $maxDepth;
         $this->levels = $this->extCache->load($key);
         if ($this->levels === false) {
             $this->levels = array();
@@ -145,6 +146,9 @@ class site_content_menuDocLister extends site_contentDocLister
                 $this->AddTable = array();
             }
             $this->extCache->save($this->levels, $key);
+            $this->extCache->save($this->display, $displayKey);
+        } else {
+            $this->display = $this->extCache->load($displayKey);
         }
     }
 
@@ -295,7 +299,6 @@ class site_content_menuDocLister extends site_contentDocLister
         } else {
             $out = $this->_render($tpl);
         }
-
         if ($out) {
             $this->outData = DLTemplate::getInstance($this->modx)->parseDocumentSource($out);
         }
@@ -389,7 +392,7 @@ class site_content_menuDocLister extends site_contentDocLister
          * @var e_DL_Extender $extE
          */
         $extE = $this->getExtender('e', true, true);
-        $id = $data['id'];
+        $id = empty($data['id']) ? 0 : $data['id'];
         if (isset($this->docTvs[$id])) {
             $data = array_merge($data, $this->docTvs[$id]);
         }
@@ -412,7 +415,6 @@ class site_content_menuDocLister extends site_contentDocLister
         if ($data['iteration'] == $data['_display']) {
             $data['last'] = 1;
         }
-
         $titleField = $this->getCFGDef('titleField', 'title');
         $data[$titleField] = isset($data['menutitle']) && !empty($data['menutitle']) ? $data['menutitle'] : $data['pagetitle'];
         $data['level'] = $this->currentLevel;
@@ -598,14 +600,11 @@ class site_content_menuDocLister extends site_contentDocLister
     }
 
     /**
-     * @param array $data
-     * @param mixed $fields
-     * @param array $array
-     * @return string
+     * @return array
      */
-    public function getJSON($data, $fields, $array = array())
+    protected function getMenuData()
     {
-        $key = $this->getBranchCacheKey();
+        $key = 'raw' . $this->getBranchCacheKey();
         $out = $this->extCache->load($key);
         if ($out === false) {
             $currentLevel = &$this->currentLevel;
@@ -663,12 +662,30 @@ class site_content_menuDocLister extends site_contentDocLister
                     }
                 }
                 unset($docs);
-                $out = json_encode($out, JSON_UNESCAPED_UNICODE);
             }
             $this->extCache->save($out, $key);
         }
 
         return $out;
+    }
+
+    /**
+     * @return array
+     */
+    public function getMenu() {
+        $this->getDocs();
+
+        return $this->getMenuData();
+    }
+
+    /**
+     * @param array $data
+     * @param mixed $fields
+     * @param array $array
+     * @return string
+     */
+    public function getJSON($data = array(), $fields = array(), $array = array()) {
+        return json_encode($this->getMenuData(), JSON_UNESCAPED_UNICODE);
     }
 
     /**
