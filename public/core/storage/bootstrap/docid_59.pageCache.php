@@ -1,8 +1,7 @@
-<?php die('Unauthorized access.'); ?>a:47:{s:2:"id";i:59;s:4:"type";s:8:"document";s:11:"contentType";s:9:"text/html";s:9:"pagetitle";s:5:"Start";s:9:"longtitle";s:15:"Strona główna";s:11:"description";s:0:"";s:5:"alias";s:5:"index";s:15:"link_attributes";s:0:"";s:9:"published";i:1;s:8:"pub_date";i:0;s:10:"unpub_date";i:0;s:6:"parent";i:58;s:8:"isfolder";i:0;s:9:"introtext";s:0:"";s:7:"content";s:0:"";s:8:"richtext";i:1;s:8:"template";i:3;s:9:"menuindex";i:0;s:10:"searchable";i:1;s:9:"cacheable";i:1;s:9:"createdby";i:1;s:9:"createdon";i:1355299347;s:8:"editedby";i:11;s:8:"editedon";i:1597211335;s:7:"deleted";i:0;s:9:"deletedon";i:0;s:9:"deletedby";i:0;s:11:"publishedon";i:1355355314;s:11:"publishedby";i:2;s:9:"menutitle";s:0:"";s:7:"donthit";i:0;s:11:"haskeywords";i:0;s:11:"hasmetatags";i:0;s:10:"privateweb";i:0;s:10:"privatemgr";i:0;s:13:"content_dispo";i:0;s:8:"hidemenu";i:1;s:13:"alias_visible";i:1;s:14:"sitemapInclude";a:5:{i:0;s:14:"sitemapInclude";i:1;s:1:"1";i:2;s:0:"";i:3;s:0:"";i:4;s:16:"custom_tv:switch";}s:15:"sitemapPriority";a:5:{i:0;s:15:"sitemapPriority";i:1;s:3:"0.5";i:2;s:0:"";i:3;s:0:"";i:4;s:6:"option";}s:16:"meta_description";a:5:{i:0;s:16:"meta_description";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:13:"GooglePreview";a:5:{i:0;s:13:"GooglePreview";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:9:"custom_tv";}s:13:"meta_img_fitv";a:5:{i:0;s:13:"meta_img_fitv";i:1;s:47:"assets/images/issues/2020/26/wstep/_mg_5431.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:19:"translationSelector";a:5:{i:0;s:19:"translationSelector";i:1;s:1:"2";i:2;s:0:"";i:3;s:0:"";i:4;s:18:"custom_tv:selector";}s:17:"__MODxSJScripts__";a:1:{i:1;s:120:"	<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.72d7f7d47d0ab4b346c4.css" />";}s:16:"__MODxJScripts__";a:1:{i:1;s:118:"	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.72d7f7d47d0ab4b346c4.js"></script>";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
+<?php die('Unauthorized access.'); ?>a:47:{s:2:"id";s:2:"59";s:4:"type";s:8:"document";s:11:"contentType";s:9:"text/html";s:9:"pagetitle";s:5:"Start";s:9:"longtitle";s:15:"Strona główna";s:11:"description";s:0:"";s:5:"alias";s:5:"index";s:15:"link_attributes";s:0:"";s:9:"published";s:1:"1";s:8:"pub_date";s:1:"0";s:10:"unpub_date";s:1:"0";s:6:"parent";s:2:"58";s:8:"isfolder";s:1:"0";s:9:"introtext";s:0:"";s:7:"content";s:0:"";s:8:"richtext";s:1:"1";s:8:"template";s:1:"3";s:9:"menuindex";s:1:"0";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:1:"1";s:9:"createdon";s:10:"1355299347";s:8:"editedby";s:2:"11";s:8:"editedon";s:10:"1597211335";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1355355314";s:11:"publishedby";s:1:"2";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"1";s:13:"alias_visible";s:1:"1";s:14:"sitemapInclude";a:5:{i:0;s:14:"sitemapInclude";i:1;s:1:"1";i:2;s:0:"";i:3;s:0:"";i:4;s:16:"custom_tv:switch";}s:15:"sitemapPriority";a:5:{i:0;s:15:"sitemapPriority";i:1;s:3:"0.5";i:2;s:0:"";i:3;s:0:"";i:4;s:6:"option";}s:16:"meta_description";a:5:{i:0;s:16:"meta_description";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:13:"GooglePreview";a:5:{i:0;s:13:"GooglePreview";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:9:"custom_tv";}s:13:"meta_img_fitv";a:5:{i:0;s:13:"meta_img_fitv";i:1;s:47:"assets/images/issues/2020/26/wstep/_mg_5431.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:19:"translationSelector";a:5:{i:0;s:19:"translationSelector";i:1;s:1:"2";i:2;s:0:"";i:3;s:0:"";i:4;s:18:"custom_tv:selector";}s:17:"__MODxSJScripts__";a:1:{i:1;s:120:"	<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.a017e4ecf96a5fa25675.css" />";}s:16:"__MODxJScripts__";a:1:{i:1;s:118:"	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.21705ef9b8ee71379bea.js"></script>";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
 <html dir="ltr" lang="pl">
 	<head>
 		<base href="http://192.168.33.10/">
-
 		<meta charset="utf-8">
 		
 		<title>Widok. Teorie i Praktyki Kultury Wizualnej</title>
@@ -109,10 +108,20 @@
 		
 		
 		
-		
 	</head>
 	<body class="context-pl tpl-3 page-id-59 parent-id-58">
-		
+		<script class="js-hypothesis-config">
+			window.hypothesisConfig = function () {
+  			return {
+    			branding: {
+						appBackgroundColor: '#e8eddf',
+					},
+					onLayoutChange: (args) => args.height = 200,
+  			};
+			};
+		</script>
+		<script src="https://hypothes.is/embed.js" async>
+		</script>
     
     <div id="preloader" aria-hidden="true"></div>
 		<span id="js-selected-issue" data-selected-issue-id="[+cfg_thisIssue_id+]" data-selected-issue-color="[+cfg_thisIssue_color+]" aria-hidden="true"></span>
