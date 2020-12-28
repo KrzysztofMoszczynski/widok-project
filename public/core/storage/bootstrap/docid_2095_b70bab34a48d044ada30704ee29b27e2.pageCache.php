@@ -1,10 +1,10 @@
-<?php die('Unauthorized access.'); ?>a:47:{s:2:"id";s:2:"59";s:4:"type";s:8:"document";s:11:"contentType";s:9:"text/html";s:9:"pagetitle";s:5:"Start";s:9:"longtitle";s:15:"Strona główna";s:11:"description";s:0:"";s:5:"alias";s:5:"index";s:15:"link_attributes";s:0:"";s:9:"published";s:1:"1";s:8:"pub_date";s:1:"0";s:10:"unpub_date";s:1:"0";s:6:"parent";s:2:"58";s:8:"isfolder";s:1:"0";s:9:"introtext";s:0:"";s:7:"content";s:0:"";s:8:"richtext";s:1:"1";s:8:"template";s:1:"3";s:9:"menuindex";s:1:"0";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:1:"1";s:9:"createdon";s:10:"1355299347";s:8:"editedby";s:2:"11";s:8:"editedon";s:10:"1597211335";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1355355314";s:11:"publishedby";s:1:"2";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"1";s:13:"alias_visible";s:1:"1";s:14:"sitemapInclude";a:5:{i:0;s:14:"sitemapInclude";i:1;s:1:"1";i:2;s:0:"";i:3;s:0:"";i:4;s:16:"custom_tv:switch";}s:15:"sitemapPriority";a:5:{i:0;s:15:"sitemapPriority";i:1;s:3:"0.5";i:2;s:0:"";i:3;s:0:"";i:4;s:6:"option";}s:16:"meta_description";a:5:{i:0;s:16:"meta_description";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:13:"GooglePreview";a:5:{i:0;s:13:"GooglePreview";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:9:"custom_tv";}s:13:"meta_img_fitv";a:5:{i:0;s:13:"meta_img_fitv";i:1;s:47:"assets/images/issues/2020/26/wstep/_mg_5431.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:19:"translationSelector";a:5:{i:0;s:19:"translationSelector";i:1;s:1:"2";i:2;s:0:"";i:3;s:0:"";i:4;s:18:"custom_tv:selector";}s:17:"__MODxSJScripts__";a:1:{i:1;s:120:"	<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.a017e4ecf96a5fa25675.css" />";}s:16:"__MODxJScripts__";a:1:{i:1;s:118:"	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.21705ef9b8ee71379bea.js"></script>";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
+<?php die('Unauthorized access.'); ?>a:58:{s:2:"id";s:4:"2095";s:4:"type";s:8:"document";s:11:"contentType";s:9:"text/html";s:9:"pagetitle";s:21:"26: Empatyczne obrazy";s:9:"longtitle";s:0:"";s:11:"description";s:0:"";s:5:"alias";s:20:"26-empatyczne-obrazy";s:15:"link_attributes";s:0:"";s:9:"published";s:1:"1";s:8:"pub_date";s:1:"0";s:10:"unpub_date";s:1:"0";s:6:"parent";s:4:"2101";s:8:"isfolder";s:1:"1";s:9:"introtext";s:0:"";s:7:"content";s:0:"";s:8:"richtext";s:1:"1";s:8:"template";s:2:"40";s:9:"menuindex";s:1:"1";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:2:"17";s:9:"createdon";s:10:"1589038666";s:8:"editedby";s:2:"16";s:8:"editedon";s:10:"1597158155";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1597085097";s:11:"publishedby";s:2:"16";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"1";s:13:"alias_visible";s:1:"1";s:14:"sitemapInclude";a:5:{i:0;s:14:"sitemapInclude";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:16:"custom_tv:switch";}s:15:"sitemapPriority";a:5:{i:0;s:15:"sitemapPriority";i:1;s:3:"0.5";i:2;s:0:"";i:3;s:0:"";i:4;s:6:"option";}s:16:"meta_description";a:5:{i:0;s:16:"meta_description";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:13:"GooglePreview";a:5:{i:0;s:13:"GooglePreview";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:9:"custom_tv";}s:17:"meta_custom_title";a:5:{i:0;s:17:"meta_custom_title";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:15:"issueCoverImage";a:5:{i:0;s:15:"issueCoverImage";i:1;s:57:"assets/resource_images/2095/cover_1595234087__mg_5431.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:19:"custom_tv:FastImage";}s:13:"meta_img_fitv";a:5:{i:0;s:13:"meta_img_fitv";i:1;s:47:"assets/images/issues/2020/26/wstep/_mg_5431.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:11:"issueNumber";a:5:{i:0;s:11:"issueNumber";i:1;s:2:"26";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:12:"issueSummary";a:5:{i:0;s:12:"issueSummary";i:1;s:256:"<p><span>Numer współfinansowany ze środków Ministra Kultury i Dziedzictwa Narodowego pochodzących z Funduszu Promocji Kultury oraz ze środków Ministra Nauki i Szkolnictwa Wyższego z programu „Wsparcie czasopism” na lata 2019–2020.</span></p>";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"richtext";}s:14:"issueCoverInfo";a:5:{i:0;s:14:"issueCoverInfo";i:1;s:230:"<p><span>Joanna Rajkowska, <em>Samobójczyni</em>e. </span>22 marca – 10 czerwca, 2018, wystawa indywidualna w Trafostacji Sztuki w Szczecinie.<span> Fot. Andrzej Golc. Dzięki uprzejmości artystki.</span><span></span></p>";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"richtext";}s:19:"translationSelector";a:5:{i:0;s:19:"translationSelector";i:1;s:4:"2096";i:2;s:0:"";i:3;s:0:"";i:4;s:18:"custom_tv:selector";}s:19:"issueEditorSelector";a:5:{i:0;s:19:"issueEditorSelector";i:1;s:7:"329,309";i:2;s:0:"";i:3;s:0:"";i:4;s:18:"custom_tv:selector";}s:10:"issueColor";a:5:{i:0;s:10:"issueColor";i:1;s:7:"#edb8ba";i:2;s:0:"";i:3;s:32:"&format=,&tagname=div&align=none";i:4;s:20:"custom_tv:colorpicke";}s:9:"issueYear";a:5:{i:0;s:9:"issueYear";i:1;s:4:"2020";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:19:"issueCoverInfoShort";a:5:{i:0;s:19:"issueCoverInfoShort";i:1;s:216:"<p><span>Joanna Rajkowska, <em>Samobójczynie</em>. </span>22 marca – 10 czerwca, 2018, wystawa indywidualna w Trafostacji Sztuki w Szczecinie.<span> Fot. Andrzej Golc. Dzięki uprzejmości artystki</span></p>";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"richtext";}s:18:"issueEditorVariant";a:5:{i:0;s:18:"issueEditorVariant";i:1;s:5:"she_x";i:2;s:0:"";i:3;s:0:"";i:4;s:6:"option";}s:10:"issueTitle";a:5:{i:0;s:10:"issueTitle";i:1;s:17:"Empatyczne obrazy";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:17:"__MODxSJScripts__";a:1:{i:1;s:120:"	<link rel="stylesheet" type="text/css" href="assets/templates/widok_tpl/minifyx/styles.min.a017e4ecf96a5fa25675.css" />";}s:16:"__MODxJScripts__";a:1:{i:1;s:118:"	<script type="text/javascript" src="assets/templates/widok_tpl/minifyx/scripts.min.21705ef9b8ee71379bea.js"></script>";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
 <html dir="ltr" lang="pl">
 	<head>
 		<base href="http://192.168.33.10/">
 		<meta charset="utf-8">
 		
-		<title>Widok. Teorie i Praktyki Kultury Wizualnej</title>
+		<title>Nr 26 (2020): Empatyczne obrazy | Widok. Teorie i Praktyki Kultury Wizualnej</title>
 
 		<meta name="description" content="">
 		<meta name="subject" content="company">
@@ -13,25 +13,25 @@
 		<meta name="robots" content="index,follow">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<link rel="canonical" href="http://192.168.33.10/">
+		<link rel="canonical" href="http://192.168.33.10/[~2095~]">
 		<link rel="alternate" href="http://192.168.33.10/" hreflang="pl">
 		<link rel="alternate" href="http://192.168.33.10/en" hreflang="en">
 
 		<!-- Schema.org markup for Google+ -->
-		<meta itemprop="name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta itemprop="name" content="Nr 26 (2020): Empatyczne obrazy | Widok. Teorie i Praktyki Kultury Wizualnej">
 		<meta itemprop="description" content="">
 		<meta itemprop="image" content="http://192.168.33.10/assets/cache/images/issues/2020/26/wstep/_mg_5431-1200x630-458.jpg">
 
 		<!-- Twitter Card -->
 		<meta name="twitter:card" value="summary">
-		<meta name="twitter:title" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="twitter:title" content="Nr 26 (2020): Empatyczne obrazy | Widok. Teorie i Praktyki Kultury Wizualnej">
 		<meta name="twitter:description" content="">
 		<meta name="twitter:image:src" content="http://192.168.33.10/assets/cache/images/issues/2020/26/wstep/_mg_5431-1200x630-458.jpg">
 
 		<!-- Open Graph -->
-		<meta property="og:url" content="http://192.168.33.10/">
+		<meta property="og:url" content="http://192.168.33.10/[~2095~]">
 		<meta property="og:site_name" content="Widok. Teorie i Praktyki Kultury Wizualnej">
-		<meta property="og:title" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta property="og:title" content="Nr 26 (2020): Empatyczne obrazy | Widok. Teorie i Praktyki Kultury Wizualnej">
 		<meta property="og:description" content="">
 		<meta property="og:image" content="http://192.168.33.10/assets/cache/images/issues/2020/26/wstep/_mg_5431-1200x630-458.jpg">
 		<meta property="og:image:type" content="image/jpeg">
@@ -49,14 +49,45 @@
 		<meta name="msapplication-TileColor" content="#2b5797">
 		<meta name="theme-color" content="#ffffff">
 		
+		
 		<style>
-	.c-headerissue__number,
-	.c-jump2issue__circle {
-		background-color: #edb8ba !important;
-	}
-  body.tpl-3.has-docked-header #header {
+	
+  body.tpl-17 #header,
+  body.tpl-43 #header,
+  body.tpl-40.has-docked-header #header,
+  body.tpl-40 .c-headerissue__number,
+	.c-jump2issue__circle,
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot.active span, 
+	.m-page-content--slides .owl-theme .owl-dots .owl-dot:hover span,
+	.m-presentation--bgc-issue,
+	.m-presentation--big-text,
+	.m-presentation--slides .owl-dots .owl-dot.active span, 
+	.m-presentation--slides .owl-dots .owl-dot:hover span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot.active span, 
+	.m-presentation--slides-alt .owl-dots .owl-dot:hover span,
+	.u-typo ul li::before {
     background-color: #edb8ba !important;
   }
+  body.tpl-40 .c-headerissue__number {
+    color: #000 !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+    color: #fff !important;
+  }
+  body.tpl-40.has-docked-header .c-headerissue__number {
+		background-color: #000 !important;
+  }
+	
+	.c-headerissue__number {
+		color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	body.has-bgc-black .c-headerissue__number {
+		color: #000 !important;
+		background-color: #fff !important;
+	}
+	
 	[data-toggle="popover"],
 	.c-archive-year,
 	.c-article-audio__caption, 
@@ -90,13 +121,118 @@
   .sl-wrapper .sl-navigation button,
 	.m-article .u-typo h2,
 	.m-bibliography__content,
-	.m-footnotes p,
-	.m-presentation__caption,
-	.m-presentation__caption * {
+	.m-footnotes p {
 		color: #edb8ba !important;
 	}
+	
+	.m-presentation--bgc-white .m-presentation__caption,
+	.m-presentation--bgc-white .m-presentation__caption *,
+	.presentation-num.bgc--white {
+		/* color: #edb8ba !important; */
+	}
+	.m-presentation--bgc-white .m-presentation__caption a:hover,
+	.m-presentation--bgc-issue .m-presentation__caption a:hover {
+		color: #000 !important;
+	}
+	
+	.c-archive-year span {
+		border-color: #edb8ba !important;
+	}
+	
+	.m-presentation--bgc-issue.m-presentation--image-text,
+	.m-presentation--bgc-issue.m-presentation--image-text .u-typo,
+	.m-presentation--bgc-issue .m-presentation__caption,
+	.m-presentation--bgc-issue .m-presentation__caption *,
+	.m-presentation--bgc-issue .c-article-meta__author,
+	.m-presentation--bgc-issue .c-article-meta__author a {
+		/* color: #000 !important; */
+	}
+	
+	.c-sitenav__search svg circle, 
+	.c-sitenav__search svg line {
+		stroke: #edb8ba !important;
+	}
+	
+	.m-presentation__control--mute .speaker-icon path {
+    fill: #edb8ba !important;
+	}
+	.m-presentation__control--mute.is-inverse .speaker-icon path {
+    fill: #000 !important;
+	}
+	
+	.m-presentation__caption-btn-collapse::after {
+		border-top-color: #edb8ba !important;
+	}
+	.m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #edb8ba !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse::after {
+		border-top-color: #000 !important;
+	}
+	.m-presentation--bgc-issue .m-presentation__caption-btn-collapse[aria-expanded="true"]::after {
+		border-top-color: transparent !important;
+		border-bottom-color: #000 !important;
+	}
+	
+		.m-presentation--bgc-issue .m-presentation__caption {
+			/* background-color:rgba(237,184,186,0.8) !important; */
+			/* background-color:#edb8ba !important; */
+		}
+		  .presentation-num.bgc--issue {
+		  	/* background-color:rgba(237,184,186,0.8) !important;
+		  					color:#000 !important; */
+		  }
+	
+	.m-presentation--bgc-issue .m-presentation__caption .collapse-inner * {
+    
+  }
+	
+	.m-presentation__modal-open i, .m-presentation__modal-open:hover i, .presentation-modal .close i, .presentation-modal .close:hover i {
+		/* color:#edb8ba !important; */
+	}
+	
+	.m-presentation--bgc-issue .m-presentation__modal-open {
+		/* background-color:rgba(237,184,186,0.8) !important; */
+	}
+	.m-presentation--bgc-black 	.m-presentation__caption,
+	.m-presentation--bgc-black 	.m-presentation__caption *,
+	.m-presentation--bgc-black 	.m-presentation__caption a:hover{
+		/* color: #fff !important; */
+		color: #000 !important;
+	}
+	
+	.presentation-modal .modal-body, .presentation-modal .modal-title {
+		/* color:#edb8ba; */
+	}
+	.modal-issue-open .presentation-modal .modal-body, .modal-issue-open .presentation-modal .modal-title {
+		/* color:#000; */
+	}
+	
+	body.modal-issue-open .modal-backdrop {
+		/* background-color:rgba(237,184,186,0.8) !important; */
+	}
+	body.modal-issue-open .presentation-modal a.close {
+			/* background-color:rgba(237,184,186,0.8) !important; */
+		}
+	
+	.green-audio-player,
+	.green-audio-player .controls {
+		color:#edb8ba !important;
+	}
+	
+	.green-audio-player .controls .controls__slider::before, .green-audio-player .controls .controls__slider::after,
+	.green-audio-player .slider,
+	.green-audio-player .slider .gap-progress .pin,
+	.green-audio-player .slider .gap-progress {
+		background:#edb8ba !important;
+	}
+	
+	.green-audio-player svg circle, .green-audio-player svg polygon, .green-audio-player svg line {
+		stroke:#edb8ba !important;
+	}
+	
 </style>
-		
 		
 		
 		<style>
@@ -109,7 +245,7 @@
 		
 		
 	</head>
-	<body class="context-pl tpl-3 page-id-59 parent-id-58">
+	<body class="context-pl tpl-40 page-id-2095 parent-id-2101">
 		<script class="js-hypothesis-config">
 			window.hypothesisConfig = function () {
   			return {
@@ -122,7 +258,7 @@
 		<script src="https://hypothes.is/embed.js" async></script>
     
     <div id="preloader" aria-hidden="true"></div>
-		<span id="js-selected-issue" data-selected-issue-id="[+cfg_thisIssue_id+]" data-selected-issue-color="[+cfg_thisIssue_color+]" aria-hidden="true"></span>
+		<span id="js-selected-issue" data-selected-issue-id="2095" data-selected-issue-color="#edb8ba" aria-hidden="true"></span>
 
 		<header id="header">
      
@@ -134,8 +270,8 @@
         <div class="c-headertools">
           <ul>
             <li class="c-headertools__lang">
-							<a class="c-headertools__lang-link u-underline-border" href="/en/index"><span>EN</span></a>
-							<!-- <a class="c-headertools__lang-link u-underline-border" href="[~2~]"><span>EN</span></a> -->
+							<a class="c-headertools__lang-link u-underline-border" href="/en/archive/empathetic-images"><span>EN</span></a>
+							<!-- <a class="c-headertools__lang-link u-underline-border" href="[~2096~]"><span>EN</span></a> -->
             </li>
             <li class="c-headertools__nav">
               <button type="button" class="c-headertools__nav-button js-toggle-nav">
@@ -188,7 +324,7 @@
 <li>
 	<a href="/pl/fundacja" title="Fundacja" ><span>Fundacja</span></a>
 </li>
-<li>
+<li class="active">
 	<a href="/pl/archiwum" title="Archiwum" ><span>Archiwum</span></a>
 </li>
 <li class="last">
@@ -211,7 +347,7 @@
 			<div class="c-jump2issue">
 				<span id="jump2issue" class="c-jump2issue__circle"></span>
 			</div>
-			<img sizes="100vw" srcset="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-480x-7f8.jpg 480w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-768x-070.jpg 768w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1024x-59f.jpg 1024w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1280x-3ec.jpg 1280w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1920x-162.jpg 1920w" src="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1920x-162.jpg" alt="Issue cover" >
+			<img sizes="100vw" srcset="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-480x-7f8.jpg 480w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-768x-070.jpg 768w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1024x-59f.jpg 1024w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1280x-3ec.jpg 1280w,assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1920x-162.jpg 1920w" src="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-1920x-162.jpg" alt="" >
 		</div>
 	</div>
 
@@ -229,8 +365,8 @@
 												 srcset="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-660x405-bfd.jpg 3x, 
 																 assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-440x270-9fd.jpg 2x, 
 																 assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-220x135-dc9.jpg 1x"
-												 src="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-220x135-dc9.jpg" 
-												 alt="26: Empatyczne obrazy">
+												 src="assets/cache/images/assets/resource_images/2095/cover_1595234087__mg_5431-220x135-dc9.jpg"
+												 alt="">
 										<div class="c-issue-meta__info">
 											<h1 class="c-issue-meta__title">
 												<span class="combined">
@@ -245,7 +381,7 @@
 										<div class="c-issue-meta__summary"><p><span>Numer współfinansowany ze środków Ministra Kultury i Dziedzictwa Narodowego pochodzących z Funduszu Promocji Kultury oraz ze środków Ministra Nauki i Szkolnictwa Wyższego z programu „Wsparcie czasopism” na lata 2019–2020.</span></p></div>
 									</div>
 								</section>
-
+								
 								<section>
 									<div id="issue_toc" class="c-issue-toc">
 										<h2 class="c-issue-toc__title"><span>Spis treści</span></h2>
