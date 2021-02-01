@@ -20,6 +20,9 @@ Allow: /assets/plugins/*.js
 Allow: /assets/snippets/*.css
 Allow: /assets/snippets/*.js
 
+User-agent: Googlebot
+Allow: /
+
 # Host: example.com
 
 # For sitemaps.xml autodiscovery. Uncomment if you have one:

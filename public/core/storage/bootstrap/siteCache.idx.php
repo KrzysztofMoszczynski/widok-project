@@ -134,6 +134,27 @@ if($modx->db->getValue("SELECT COUNT(id) FROM " . $modx->getFullTableName(\'site
 		<meta charset="utf-8">
 		
 		<title>[+cfg_meta_title+]</title>
+		
+		
+		<meta name="citation_title" content="">
+		<meta name="citation_author" content="[[simpleDocs? &docs=`[*issueArticleAuthorSelector*]`]]">
+		<meta name="citation_publication_date" content="">
+		<meta name="citation_journal_title" content="[+lexicon.siteName+]">
+		<meta name="citation_translator" content="[*issueArticleTranslationAuthor*]">
+		
+		<script>
+			var seconds = [*publishedon*];
+			date = new Date(1970, 0, 1);
+			date.setSeconds(seconds);
+			date = date.getFullYear();
+			document.querySelector(\'meta[name="citation_publication_date"]\').setAttribute("content", date);
+		</script>
+		
+		<script>
+			var article_title = "[+cfg_meta_title+]";
+			article_title = article_title.substring(0, article_title.indexOf("|") - 1);
+			document.querySelector(\'meta[name="citation_title"]\').setAttribute("content", article_title);
+		</script>
 
 		<meta name="description" content="[*meta_description:notags:strip:esc*]">
 		<meta name="subject" content="company">
@@ -588,6 +609,12 @@ if($modx->db->getValue("SELECT COUNT(id) FROM " . $modx->getFullTableName(\'site
 	.c-headerissue__number,
 	.c-jump2issue__circle {
 		background-color: [+cfg_latestIssue_color+] !important;
+	}
+	
+	
+	
+	button, html input[type="button"] {
+		opacity: .5;
 	}
   body.tpl-3.has-docked-header #header {
     background-color: [+cfg_latestIssue_color+] !important;

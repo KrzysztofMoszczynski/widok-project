@@ -5,6 +5,27 @@
 		<meta charset="utf-8">
 		
 		<title>Widok. Teorie i Praktyki Kultury Wizualnej</title>
+		
+		
+		<meta name="citation_title" content="">
+		<meta name="citation_author" content="">
+		<meta name="citation_publication_date" content="">
+		<meta name="citation_journal_title" content="Widok. Teorie i Praktyki Kultury Wizualnej">
+		<meta name="citation_translator" content="">
+		
+		<script>
+			var seconds = 1355355314;
+			date = new Date(1970, 0, 1);
+			date.setSeconds(seconds);
+			date = date.getFullYear();
+			document.querySelector('meta[name="citation_publication_date"]').setAttribute("content", date);
+		</script>
+		
+		<script>
+			var article_title = "Widok. Teorie i Praktyki Kultury Wizualnej";
+			article_title = article_title.substring(0, article_title.indexOf("|") - 1);
+			document.querySelector('meta[name="citation_title"]').setAttribute("content", article_title);
+		</script>
 
 		<meta name="description" content="">
 		<meta name="subject" content="company">
@@ -53,6 +74,12 @@
 	.c-headerissue__number,
 	.c-jump2issue__circle {
 		background-color: #edb8ba !important;
+	}
+	
+	
+	
+	button, html input[type="button"] {
+		opacity: .5;
 	}
   body.tpl-3.has-docked-header #header {
     background-color: #edb8ba !important;
